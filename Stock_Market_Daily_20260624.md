@@ -7,115 +7,132 @@
 
 ## 🇺🇸 美国股市 / US Market
 
-以下是关于美国股市的5条近期新闻：
+以下是关于美国股市的8条最新消息：
 
-- **[2024.02.21] NVIDIA — 英伟达公布强劲财报，AI芯片需求旺盛**
-  English: NVIDIA reported stronger-than-expected Q4 earnings and revenue, driven by robust demand for its AI chips, particularly in data centers, further fueling the AI market rally and pushing its market capitalization higher.
-  中文：英伟达公布了超出预期的第四季度财报和营收，主要得益于其AI芯片（尤其是数据中心领域）的强劲需求，进一步推动了AI市场的上涨并提升了其市值。
-  📰 [Bloomberg](https://www.bloomberg.com/news/articles/2024-02-21/nvidia-earnings-q4-2024-nvda)
+- **[2026.06.23] S&P 500 / Nasdaq — 美国股市科技股大跌，纳斯达克和标普500指数显著下跌**
+  English: US stock market tech stocks experienced a significant selloff, with Nasdaq and S&P 500 indices falling considerably.
+  中文：美国股市科技股遭遇大幅抛售，纳斯达克和标普500指数均大幅下挫。
+  📰 [Morningstar](https://www.morningstar.com/news/marketwatch/20260623articles/us-stocks-fall-as-global-tech-selloff-deepens)
 
-- **[2024.01.31] Federal Reserve — 美联储维持利率不变，市场关注降息前景**
-  English: The Federal Reserve held interest rates steady at its January meeting, with Chairman Powell indicating that a rate cut in March was unlikely, leading markets to adjust expectations for the timing of future cuts based on incoming economic data.
-  中文：美联储在1月份会议上维持利率不变，主席鲍威尔表示3月份降息的可能性不大，导致市场根据即将发布的经济数据调整了对未来降息时机的预期。
-  📰 [Reuters](https://www.reuters.com/markets/us/fed-holds-rates-steady-powell-pushes-back-march-cut-2024-01-31/)
+- **[2026.06.23] Alphabet (GOOG) — 谷歌母公司Alphabet股价下跌，因两名知名AI研究员离职**
+  English: Alphabet's stock declined after two high-profile AI researchers left the company.
+  中文：谷歌母公司Alphabet股价下跌，此前两名知名人工智能研究员离职。
+  📰 [Morningstar](https://www.morningstar.com/news/marketwatch/20260623articles/us-stocks-fall-as-global-tech-selloff-deepens)
 
-- **[2024.01.24] Tesla — 特斯拉第四季度财报不及预期，面临电动汽车市场竞争加剧**
-  English: Tesla reported Q4 earnings that missed analyst estimates and warned of significantly lower growth in 2024, citing increased competition and global economic uncertainties, causing its stock to drop sharply.
-  中文：特斯拉公布的第四季度财报不及分析师预期，并警告2024年增长将显著放缓，理由是竞争加剧和全球经济不确定性，导致其股价大幅下跌。
-  📰 [Wall Street Journal](https://www.wsj.com/articles/tesla-tsla-q4-earnings-report-2024-01-24)
+- **[2026.06.23] Micron (MU) — 美国银行重申对美光科技的买入评级，并上调目标价**
+  English: Bank of America reiterated a Buy rating on Micron Technology and raised its price target.
+  中文：美国银行重申了对美光科技的买入评级，并将其目标价上调。
+  📰 [24/7 Wall St.](https://247wallst.com/investing/2026/06/23/stock-market-live-june-23-2026-sp-500-spy-futures-under-significant-pressure/)
 
-- **[2024.02.23] S&P 500 — 标普500指数创历史新高，科技股领涨**
-  English: The S&P 500 index continued its rally, reaching new all-time highs, largely driven by strong performance from major technology companies, optimism surrounding AI advancements, and a resilient U.S. economy.
-  中文：标普500指数延续涨势，创下历史新高，主要受大型科技公司强劲表现、对AI发展的乐观情绪以及美国经济韧性的推动。
-  📰 [CNBC](https://www.cnbc.com/2024/02/23/sp-500-hits-new-all-time-high-tech-stocks-lead-rally.html)
+- **[2026.06.23] Federal Reserve — 美联储立场偏鹰派，市场预期2026年可能加息而非降息**
+  English: The Federal Reserve adopted a hawkish stance, leading market expectations to shift towards potential rate hikes rather than cuts in 2026.
+  中文：美联储采取鹰派立场，市场预期2026年可能加息而非降息。
+  📰 [BNN Bloomberg](https://www.bnnbloomberg.ca/paul-harris-top-picks-for-june-23-2026-1.2469446)
 
-- **[2024.01.08] Boeing — 波音因阿拉斯加航空事件面临审查，股价承压**
-  English: Boeing faced intense scrutiny and regulatory investigations following an incident where a door plug detached from an Alaska Airlines 737 MAX 9 mid-flight, leading to production slowdowns, increased oversight, and significant pressure on its stock price.
-  中文：在阿拉斯加航空一架波音737 MAX 9客机在飞行中发生舱门脱落事件后，波音面临严格审查和监管调查，导致生产放缓、监管加强，并对其股价造成巨大压力。
-  📰 [New York Times](https://www.nytimes.com/2024/01/08/business/boeing-737-max-9-alaska-airlines.html)
+- **[2026.06.23] SpaceX (SPCX) — SpaceX股价在IPO后持续下跌，市值大幅缩水**
+  English: SpaceX stock continued to fall after its IPO, losing significant market value.
+  中文：SpaceX股票在首次公开募股后继续下跌，市值大幅缩水。
+  📰 [Morningstar](https://www.morningstar.com/news/marketwatch/20260623articles/us-stocks-fall-as-global-tech-selloff-deepens)
+
+- **[2026.06.23] FedEx (FDX) — 联邦快递公布强劲的第四季度和全年业绩，营收和盈利显著增长**
+  English: FedEx reported strong fourth-quarter and full-year results, showing significant revenue and earnings growth.
+  中文：联邦快递公布了强劲的第四季度和全年业绩，营收和盈利均实现显著增长。
+  📰 [FedEx](https://investors.fedex.com/news-and-events/investor-news/news-release-details/2026/FedEx-Reports-Strong-Fourth-Quarter-and-Full-Year-Results/default.aspx)
+
+- **[2026.06.23] Magnificent Seven — “七巨头”科技股进入回调区间，受AI支出和通胀担忧影响**
+  English: The "Magnificent Seven" tech stocks entered correction territory, impacted by concerns over AI spending and inflation.
+  中文：“七巨头”科技股因对人工智能支出和通胀的担忧而进入回调区间。
+  📰 [IBTimes](https://www.ibtimes.com/big-techs-magnificent-seven-hits-correction-amid-ai-spending-and-inflation-worries-3801289)
+
+- **[2026.06.23] IBM — 摩根大通将IBM评级上调至“增持”，并上调目标价**
+  English: JPMorgan upgraded IBM to Overweight and raised its price target.
+  中文：摩根大通将IBM的评级上调至“增持”，并提高了其目标价。
+  📰 [24/7 Wall St.](https://247wallst.com/investing/2026/06/23/here-are-tuesdays-best-wall-street-analyst-research-calls-centene-darden-restaurants-flutter-entertainment-ge-healthcare-ibm-nike-spacex-synopsys-target-and-more/)
 
 ## 🇯🇵 日本株式市場 / Japan Market
 
-以下是日本股市近期5-10条新闻：
+The Japanese stock market experienced a significant downturn recently, primarily driven by profit-taking in AI and semiconductor-related stocks after a prolonged period of rapid gains. This correction followed a period where the Nikkei 225 and TOPIX indices had reached new highs. Meanwhile, the Bank of Japan raised its policy interest rate to 1.0% in its June meeting, a move that was largely anticipated by the market but reflects a shift towards monetary tightening. Major Japanese companies like Toyota and Sony reported strong earnings for the fiscal year ending March 2026, with Toyota achieving record sales despite a decrease in operating profit, and Sony posting a record operating profit. The yen's continued weakness against the dollar remains a key concern, with market participants watching for potential currency intervention.
 
-- **[2026.06.23] 日経平均 — 日经225指数大幅反落，跌破7万日元关口**
-  English: The Nikkei 225 index experienced a sharp decline of 2,565 yen, falling below the 70,000 yen mark for the first time in about a week, driven by profit-taking in AI and semiconductor stocks after an 8-day rally.
-  中文：日经225指数大幅反弹，下跌2565日元，约一周来首次跌破7万日元关口，此前连续8个交易日上涨，AI和半导体股票出现获利回吐。
-  📰 [note](https://note.com/assetmanagertaro/n/n470929281a70)
+Here are 5 to 10 recent news items specifically about the Japan Market:
 
-- **[2026.06.23] ソフトバンクグループ/半導体株 — 软银集团和半导体股急跌，拖累日经指数**
-  English: SoftBank Group, Kioxia, and other major semiconductor stocks plunged, significantly contributing to the Nikkei's fall, following a sharp decline in its subsidiary Arm Holdings in the US market and broader global semiconductor stock adjustments.
-  中文：软银集团、铠侠等主要半导体股暴跌，对日经指数下跌贡献巨大，此前其子公司Arm Holdings在美国市场大幅下跌，以及全球半导体股普遍调整。
-  📰 [note](https://note.com/assetmanagertaro/n/n470929281a70)
+- **[2026.06.23] Nikkei 225 — 日经225指数大幅下挫，科技股遭遇获利回吐**
+  English: Japan's Nikkei 225 index fell sharply by 3.6% to 69,788.38, hitting a one-week low, as profit-taking hit technology and AI-related stocks following a prolonged period of gains.
+  中文：日本日经225指数大幅下跌3.6%至69,788.38点，创下一周新低，此前连续上涨的科技和AI相关股票遭遇获利回吐。
+  📰 [CP24](https://www.cp24.com/world/global-shares-mostly-slip-amid-caution-about-the-war-in-iran-1.6937172)
 
-- **[2026.06.16] 日本銀行 — 日本央行将政策利率上调至1.0%，为31年来的最高水平**
-  English: The Bank of Japan decided to raise its policy interest rate to 1.0%, marking the highest level in 31 years, during its June 15-16 monetary policy meeting.
-  中文：日本央行在6月15-16日的货币政策会议上决定将政策利率上调至1.0%，为31年来的最高水平。
-  📰 [日テレNEWS NNN](https://news.ntv.co.jp/category/economy/cd419b52d5c340aab1065fc689f89368)
+- **[2026.06.23] 日本银行 (BOJ) — 日本央行在6月会议上将政策利率上调至1.0%**
+  English: The Bank of Japan decided to raise its policy interest rate to 1.0% in its June monetary policy meeting, marking the highest level in 31 years.
+  中文：日本央行在6月货币政策会议上决定将政策利率上调至1.0%，达到31年来的最高水平。
+  📰 [Livedoor News](https://news.livedoor.com/article/detail/30522108/)
 
-- **[2026.06.23] 半導体株/マイクロン — 美光科技财报将影响日本半导体股走势，市场关注AI投资持续性**
-  English: Micron Technology's earnings report, expected on the morning of June 25, is a critical factor for Japanese semiconductor stocks, with market participants closely watching for insights into the sustainability of AI investments.
-  中文：美光科技的财报预计于6月25日早间公布，是日本半导体股票的关键因素，市场参与者密切关注其对AI投资可持续性的影响。
-  📰 [IG](https://www.ig.com/jp/news-and-trade-ideas/nikkei-heikin-kabuka--maikuron-shokku-hashiruka-25nichi-asa-kessan-handotai-kabu-ni-dageki-mo-260623)
+- **[2026.06.23] 半导体/AI相关股票 — AI和半导体股票遭遇大规模获利了结，拖累日本股市**
+  English: AI and semiconductor-related stocks, which had driven the market's recent surge, experienced significant profit-taking, with memory chipmaker Kioxia slumping 15.1% and SoftBank Group sinking 10.1%.
+  中文：此前推动市场上涨的AI和半导体相关股票遭遇大规模获利了结，其中存储芯片制造商铠侠暴跌15.1%，软银集团下跌10.1%。
+  📰 [CP24](https://www.cp24.com/world/global-shares-mostly-slip-amid-caution-about-the-war-in-iran-1.6937172)
 
-- **[2026.06.24] サンリオ — 三丽鸥预计本财年利润增长14%，连续三年创新高**
-  English: Sanrio announced a forecast of a 14% increase in recurring profit for the current fiscal year, projecting its third consecutive year of record-high profits, along with a plan for a real dividend increase.
-  中文：三丽鸥宣布预计本财年经常性利润增长14%，预计将连续第三年创历史新高，并计划实际增加股息。
-  📰 [株探](https://kabutan.jp/news/marketnews/?b=n202606240003)
+- **[2026.06.22] TOPIX — 东证股价指数（TOPIX）创下盘中历史新高**
+  English: On June 22, the Tokyo Stock Price Index (TOPIX) updated its intraday all-time high, reflecting a broad market rally before the recent correction.
+  中文：6月22日，东证股价指数（TOPIX）创下盘中历史新高，反映了近期回调前市场的普遍上涨。
+  📰 [Livedoor News](https://news.livedoor.com/article/detail/30522108/)
 
-- **[2026.06.24] イントランス — イントランス宣布进军AI数据中心业务**
-  English: Intrance has announced its entry into the AI data center business and formed a capital and business alliance with Dynamic Solution Group to collaborate on AI data center and GPU server sales.
-  中文：イントランス宣布进军AI数据中心业务，并与Dynamic Solution Group建立资本和业务联盟，共同开展AI数据中心和GPU服务器销售业务。
-  📰 [株探](https://kabutan.jp/news/marketnews/?b=n202606240003)
+- **[2026.05.08] 丰田 (Toyota) — 丰田2026财年销售额创新高，但营业利润下降**
+  English: Toyota announced its consolidated financial results for the fiscal year ending March 2026, reporting record sales exceeding 50 trillion yen, but operating profit decreased by 21.5% due to factors including US tariffs.
+  中文：丰田汽车公布了截至2026年3月的财年合并财报，销售额突破50万亿日元创历史新高，但受美国关税等因素影响，营业利润下降21.5%。
+  📰 [Car Watch](https://car.watch.impress.co.jp/docs/news/1601007.html)
 
-- **[2026.06.23] 円安 — 日元兑美元汇率逼近40年低点，市场对干预保持警惕**
-  English: The Japanese yen is nearing a 40-year low against the US dollar, causing heightened vigilance in the market for potential currency intervention.
-  中文：日元兑美元汇率逼近40年低点，导致市场对潜在的货币干预保持高度警惕。
-  📰 [Yahoo!ファイナンス](https://finance.yahoo.co.jp/news/detail/20260623-00000001-bloom_st-market)
+- **[2026.05.08] 索尼 (Sony) — 索尼集团2026财年营业利润创历史新高**
+  English: Sony Group announced its consolidated financial results for the fiscal year ending March 2026, with operating profit increasing by 13.4% to 1.4475 trillion yen, marking a new record high, driven by strong performance in music and image sensors.
+  中文：索尼集团公布截至2026年3月的财年合并财报，营业利润增长13.4%至1.4475万亿日元，创历史新高，主要得益于音乐和图像传感器业务的强劲表现。
+  📰 [Yomiuri Shimbun](https://www.yomiuri.co.jp/economy/20260508-OYT1T50150/)
+
+- **[2026.06.23] 日元/外汇市场 — 日元兑美元汇率徘徊在161日元区间，市场警惕干预**
+  English: The U.S. dollar edged down to 161.43 Japanese yen, with the market remaining cautious about potential currency intervention by the Japanese government and the Bank of Japan amidst persistent yen weakness.
+  中文：美元兑日元汇率小幅下跌至161.43日元，市场对日本政府和央行在日元持续疲软的情况下可能进行汇率干预保持警惕。
+  📰 [CP24](https://www.cp24.com/world/global-shares-mostly-slip-amid-caution-about-the-war-in-iran-1.6937172)
+
+- **[2026.06.23] 藤仓 (Fujikura) — 藤仓股价大幅上涨，受业绩上调提振**
+  English: Fujikura's stock continued its significant rally, climbing 5.3% on June 23rd, after a major domestic brokerage firm raised its target price, fueled by an upward revision of its earnings forecast.
+  中文：藤仓股价继续大幅上涨，6月23日攀升5.3%，此前一家国内主要券商上调了其目标股价，并受到其业绩预测上调的提振。
+  📰 [Yahoo! Finance](https://finance.yahoo.co.jp/news/detail/20260623-00000000-stk_news-c_market)
 
 ## 🌍 宏观经济与投资 / Macro & Investment
 
-以下是5至10条关于宏观经济与投资的近期新闻：
+以下是5到10条关于宏观经济与投资的最新消息：
 
-- **[2026.06.23] 全球央行 — 主要央行货币政策分化，美联储维持鹰派立场**
-  English: Major central banks are showing divergent monetary policy responses to inflation, with the European Central Bank and Bank of Japan raising interest rates, while the US Federal Reserve and Bank of England held rates but maintained a hawkish stance.
-  中文：面对通胀冲击，全球主要央行货币政策反应不一，欧洲央行和日本央行上调了利率，而美联储和英格兰银行则维持利率不变，但均保持鹰派立场。
-  📰 [Capital Economics](https://www.capitaleconomics.com/)
+- **[2026.06.05] 比特币ETF — 创纪录流出**
+  English: Spot Bitcoin ETFs recorded 13 consecutive days of net outflows from May 15 to June 3, totaling $4.33 billion, marking the longest streak since their launch.
+  中文：现货比特币ETF在5月15日至6月3日期间连续13天出现净流出，总计43.3亿美元，创下自推出以来的最长连续流出纪录。
+  📰 [BeInCrypto](https://beincrypto.com/bitcoin-etf-outflows-13-day-streak-4-3-billion-exits-funds/)
 
-- **[2026.06.23] 美国股市 — 科技股遭遇全球抛售，AI担忧和加息风险拖累美股**
-  English: US equity futures slumped amid a global tech rout, with South Korea's Kospi Index falling 10% and AI and chip stocks leading losses in the US due to concerns over AI spending and valuation.
-  中文：受全球科技股抛售潮影响，美国股指期货下跌，韩国综合指数下跌10%，美国AI和芯片股因对AI支出和估值的担忧而领跌。
-  📰 [Bloomberg Markets and Finance (YouTube)](https://www.youtube.com/channel/UCLxg7Zyb-oLGbDkIBxHK5ZQ)
+- **[2026.06.23] 美元兑日元 — 试图重获上涨动能**
+  English: The USDJPY pair remains slightly lower but appears to be building fresh positive momentum, with the broader technical outlook remaining bullish despite negative signals from relative strength indicators.
+  中文：美元兑日元汇率在近期盘中交易中略有下跌，但在相对强弱指标发出负面信号的情况下，似乎正在积聚新的积极动能，整体技术前景仍看涨。
+  📰 [Economies.com](https://www.economies.com/forex-news/usdjpy-attempts-to-regain-positive-momentum-analysis-23-06-2026-250326)
 
-- **[2026.06.23] 日元/美元 — 日元兑美元跌至30年新低，市场警惕政府干预**
-  English: The Japanese yen hovered near its weakest against the dollar since 1986, with traders on high alert for potential government intervention as the Fed's hawkish stance keeps rate differentials against the yen.
-  中文：日元兑美元汇率徘徊在1986年以来的最低点附近，交易员高度警惕政府可能采取的干预措施，因美联储的鹰派立场使得利差持续不利于日元。
-  📰 [Investing.com](https://www.investing.com/)
+- **[2026.06.23] 美国股市 — 标普500期货在通胀和鹰派美联储下承压**
+  English: S&P 500 futures are under significant pressure as investors reassess AI spending and interest rate expectations amid persistently elevated inflation and a hawkish Federal Reserve.
+  中文：由于投资者重新评估人工智能支出和利率预期，加上通胀持续高企和美联储鹰派立场，标普500股指期货面临巨大压力。
+  📰 [247 Wall St.](https://247wallst.com/investing/2026/06/23/stock-market-live-june-23-2026-sp-500-spy-futures-under-significant-pressure/)
 
-- **[2026.06.20] 比特币 — 日本央行加息后比特币短暂上涨，美联储维持利率后下跌**
-  English: Bitcoin briefly hit $66,000 after the Bank of Japan raised its rate to 1% on June 16, but fell towards $64,000 by June 18 after the Federal Reserve held rates steady and removed its easing bias.
-  中文：日本央行于6月16日将利率上调至1%后，比特币短暂触及66,000美元，但随着美联储在6月17日维持利率不变并取消宽松倾向，比特币在6月18日跌至64,000美元附近。
-  📰 [KuCoin](https://www.kucoin.com/)
+- **[2026.06.23] 黄金价格 — 受制于鹰派央行**
+  English: Gold prices gained mild upward traction due to declining oil prices from US-Iran peace talks but were constrained by central banks' hawkish outlook signaling potential rate hikes.
+  中文：由于美伊和谈导致油价下跌，黄金价格略有上涨，但受到各国央行鹰派立场（预示可能加息）的制约。
+  📰 [The Times of India](https://timesofindia.indiatimes.com/business/markets/commodities)
 
-- **[2026.06.22] 台湾GDP — 受益于AI投资周期，台湾GDP预测被主要银行上调**
-  English: UBS and HSBC have significantly upgraded Taiwan's GDP growth forecast for 2026, citing stronger-than-expected demand for electronics in AI infrastructure and sustained export momentum.
-  中文：瑞银集团和汇丰银行大幅上调了台湾2026年的GDP增长预测，理由是AI基础设施对电子产品的需求强于预期以及科技行业的出口势头持续。
-  📰 [Taipei Times](https://www.taipeitimes.com/)
+- **[2026.06.17] 美联储 — 维持利率不变，鹰派预测转变**
+  English: The Federal Open Market Committee voted to maintain the federal funds rate target range at 3.50-3.75% but showed a hawkish shift in economic projections, debating a potential rate hike later in 2026.
+  中文：联邦公开市场委员会投票决定将联邦基金利率目标区间维持在3.50-3.75%不变，但经济预测显示出鹰派转变，讨论了2026年晚些时候可能加息。
+  📰 [Federal Reserve Board](https://www.federalreserve.gov/newsevents/pressreleases/monetary20260617a.htm)
 
-- **[2026.06.04] 标普500 — 强劲财报和AI支出推动标普500创历史新高**
-  English: The S&P 500 reached new record highs in May after nine consecutive weekly gains, driven by strong corporate earnings, with technology firms and increased AI spending expectations accounting for almost all of the market's advance.
-  中文：受强劲企业财报推动，标普500指数在连续九周上涨后于5月创下历史新高，其中科技公司和不断增长的AI支出预期几乎贡献了市场的所有涨幅。
-  📰 [Madison Investments](https://www.madisoninvestments.com/)
+- **[2026.06.23] 韩国股市 — 人工智能/科技股领跌**
+  English: The South Korean equity market experienced a significant pullback, with AI/tech stocks leading the sell-off, triggered by higher US yields and ahead of Micron Technology's earnings.
+  中文：受美国收益率上升以及美光科技财报发布前的市场情绪影响，韩国股市大幅回调，人工智能/科技股领跌。
+  📰 [MUFG Research](https://www.mufgresearch.com/en/fx-daily-snapshot-2026-06-23)
 
-- **[2026.06.03] 全球债券收益率 — 通胀持续和“更高更久”利率预期推高全球债券收益率**
-  English: Global bond yields have risen sharply as persistent inflation, resilient growth, and market spillovers lead investors to scale back expectations for central bank easing and price in higher-for-longer interest rates.
-  中文：由于持续的通胀、强劲的增长以及市场溢出效应，全球债券收益率大幅上升，投资者缩减了对央行宽松政策的预期，并预计利率将“更高更久”。
-  📰 [Goldman Sachs Asset Management](https://www.gsam.com/)
-
-- **[2026.06.18] 美联储 — 美联储立场转向鹰派，移除2026年降息预测**
-  English: The Federal Reserve held its fed funds target range steady but shifted to a more hawkish stance, removing the previously projected 2026 rate cut from its dot plot and indicating that about half of policymakers now anticipate at least one rate hike this year.
-  中文：美联储维持联邦基金目标区间不变，但立场转向鹰派，从点阵图中删除了此前预测的2026年降息，并表示约半数决策者目前预计今年至少会加息一次。
-  📰 [Edward Jones](https://www.edwardjones.com/)
+- **[2026.06.11] 欧洲央行 (ECB) — 上调利率**
+  English: The Governing Council of the ECB decided to raise the three key ECB interest rates by 25 basis points, effective June 17, 2026, due to inflation pressures from the Middle East conflict.
+  中文：欧洲央行管理委员会决定将三项主要利率上调25个基点，自2026年6月17日起生效，原因是中东冲突导致的通胀压力。
+  📰 [European Central Bank](https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.pr260611~12345.en.html)
 
 ---
 ※Stock Market Daily Digest | 2026.06.24
