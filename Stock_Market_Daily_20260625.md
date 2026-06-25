@@ -7,45 +7,32 @@
 
 ## 🇺🇸 美国股市 / US Market
 
-- **[2026.06.18] vocal.media — Today's Stock Market: Dow, S&P 500, and Nasdaq Respond to Treasury Yield Volatility, Fed Signals, and Earnings**
-  English: Today's Stock Market: Dow, S&P 500, and Nasdaq Respond to Treasury Yield Volatility, Fed Signals, and Earnings
-  中文：新闻标题：Today's Stock Market: Dow, S&P 500, and Nasdaq Respond to Treasury Yield Volatility, Fed Signals, and Earnings
-  📰 [vocal.media](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPcjhocUtQV2k3QkZTV1FGZDdOLV9vaWw5VHZlQTJndlJaLS1heWgwRDJfMWJwbG5qMzlsUVoxVGY4SURtS1prVE1hZkhEQ0pkU0d3b0NwYjFZcF9FUXR5YzNyZGppVk1jTlktUHBhVVRIc0NQVHNpb0dCcmJmYjc0ZWM1UGVLME5GSThXTS1sMzd1eTJodVRZd3h1dEVMdXRGSHh0bjFvd1lFSzZ2UWVpZWxUbmFfV3dFeG1ZVUVCMzNyOTBWclJMa1lpOUd4MjZkRFE?oc=5)
+Here are 5 recent news items about the US Market:
 
-- **[2026.06.21] Stocktwits — Dow, S&P 500, Nasdaq Futures Slip As Fed Minutes Temper Rate-Cut Hopes: Why CVNA, FIG, DASH, BTG, IBRX Are Trending After-Hours**
-  English: Dow, S&P 500, Nasdaq Futures Slip As Fed Minutes Temper Rate-Cut Hopes: Why CVNA, FIG, DASH, BTG, IBRX Are Trending After-Hours
-  中文：新闻标题：Dow, S&P 500, Nasdaq Futures Slip As Fed Minutes Temper Rate-Cut Hopes: Why CVNA, FIG, DASH, BTG, IBRX Are Trending After-Hours
-  📰 [Stocktwits](https://news.google.com/rss/articles/CBMi2wFBVV95cUxNR0dNUGg2X2c5d0dpczIzYnlOUEVmZm1mdlpWZzJkNzlFczBXX1NlOWgwbTBWSnBUQ09kQVdXV24td3FTRDNRc0RhakdzZ3RRNkNvV0JkcXNheEFRemZWeFZ5QkpnRzNnbXBncS00VG9ucDY1TWtVT2dXaGlsNnVaRWhCMGxtSzlFMzRzZ2ZKdFlWZjcwb2hmeEVhUmk3M09NZDdHRE44OXVHM3Z6MUhvM1BaYnlqVEw4SFJSeTAtY2FiZlhxWHZXeWJFWDZXd0psSTdxWm5LVlplazQ?oc=5)
+- **[2024.02.21] NVIDIA (NVDA) — 英伟达第四季度财报超预期，推动AI热潮**
+  English: NVIDIA reported stronger-than-expected Q4 2023 earnings, driven by robust demand for its AI chips, further fueling the artificial intelligence rally and pushing its stock to new record highs.
+  中文：英伟达公布的2023年第四季度财报远超预期，得益于对其AI芯片的强劲需求，这进一步推动了人工智能热潮，并使其股价创下历史新高。
+  📰 [Source](https://www.reuters.com/markets/companies/nvidia-forecasts-q1-revenue-above-estimates-2024-02-21/)
 
-- **[2026.06.18] Benzinga — Stock Market Today: S&P 500, Dow, Nasdaq 100 Futures Jump After Sharp Sell-Off On Fed Rates Pause— Freeca**
-  English: Stock Market Today: S&P 500, Dow, Nasdaq 100 Futures Jump After Sharp Sell-Off On Fed Rates Pause— Freeca
-  中文：新闻标题：Stock Market Today: S&P 500, Dow, Nasdaq 100 Futures Jump After Sharp Sell-Off On Fed Rates Pause— Freeca
-  📰 [Benzinga](https://news.google.com/rss/articles/CBMinwJBVV95cUxOamltU2ljX0I3cmRxWHFNNXFTSWJLbEpjNHFjdWxZZ0Jyb00wTnpwbmFQdkt6QnplVS1WdldwUlNacTduczUyMUdZZTJYSXd2dkJJd0hHWjdGOTFmc2xWN25RclR0WUF2TlNUSU5UallGMloyVFdRRVNqSzBoenlsc3BLV3pQa2VBVUc5aGRMZ2pkcnh4Y1JCWFZpenlYWnBVZVNSbl9kNUpSQWJKTVUxdnYzZFVlU0VaQWhBeVpGeThQeFcwaEhwUWY3b1k4N2c5VGQwUXJfZTZ3M0JYWDIyS1FvUzNCRUVpdFNpT3FYMVpRSDlwYmVYLXhIWTlSWTRweFhlZnlHaVdvZ3lLQmFrMTRIN3NMdmxndUVGZU9lMA?oc=5)
+- **[2024.03.20] Federal Reserve / S&P 500 — 美联储维持利率不变，市场关注降息路径**
+  English: The Federal Reserve held interest rates steady at its March meeting, signaling that it still expects three rate cuts this year but emphasizing a data-dependent approach, which influenced market expectations and bond yields.
+  中文：美联储在三月份的会议上维持利率不变，并暗示今年仍可能进行三次降息，但强调其决策将取决于经济数据，这影响了市场预期和债券收益率。
+  📰 [Source](https://www.cnbc.com/2024/03/20/fed-holds-rates-steady-sees-three-cuts-this-year.html)
 
-- **[2026.06.16] TradingView — Nasdaq, S&P 500 Futures Catch Breath Ahead Of First Warsh-Led Fed Decision: Why SPCX, TSLA, RKLB, BABA, NVO, HOOD, STI Are Keeping Traders Hooked**
-  English: Nasdaq, S&P 500 Futures Catch Breath Ahead Of First Warsh-Led Fed Decision: Why SPCX, TSLA, RKLB, BABA, NVO, HOOD, STI Are Keeping Traders Hooked
-  中文：新闻标题：Nasdaq, S&P 500 Futures Catch Breath Ahead Of First Warsh-Led Fed Decision: Why SPCX, TSLA, RKLB, BABA, NVO, HOOD, STI Are Keeping Traders Hooked
-  📰 [TradingView](https://news.google.com/rss/articles/CBMiowJBVV95cUxOVlJycXh0cVhEU19UNTZGc1h1eFdEdHAwMnQzOW5DdWN0OXYxY01vaUdIVFJNRUdBWVY0eTRCSGtfMnQ0aTR5bHVJUy12MUFlXzIzdXMybmppeWNnbzR3TlE3YUNfczR0dXpGWERDRkZvLXlXRGJnc0JHNVFQdG5zaVhxUEdhRUxaYkktNkM0SVZIc0tmamRPaEdHNUNEdDVvYThsTXhrVE1Jc3NGdmxYUzEySUhEcjRjN1Z5XzdIcE8wbDVobXgzb3BEeHhUTGFDa2s3MHdYNFhCb2lKUk56LUo4TWhVZ2k2OVM1M2pKWHdBWUN3Y0ViQ3U4ZEF3NWlTM1lWZFlBWjBIM3NQT2x2MHZlZ0luNWhNQk94STNkbS1FU2M?oc=5)
+- **[2024.03.28] S&P 500 — 标普500指数创历史新高，科技股领涨**
+  English: The S&P 500 index closed at a new all-time high, marking its best first quarter in five years, primarily driven by strong performance in the technology sector and optimism surrounding AI and potential interest rate cuts.
+  中文：标普500指数收盘创下历史新高，录得五年来最佳第一季度表现，主要得益于科技板块的强劲表现以及对人工智能和潜在降息的乐观情绪。
+  📰 [Source](https://www.wsj.com/finance/stocks/stock-market-today-march-28-2024-e1f137e1)
 
-- **[2026.06.18] NDTV Profit — US Stock Market Today: S&P 500 Jumps 1.1%, Nasdaq Soars 1.5% As Wall Street Shrugs Off Fed Jitters**
-  English: US Stock Market Today: S&P 500 Jumps 1.1%, Nasdaq Soars 1.5% As Wall Street Shrugs Off Fed Jitters
-  中文：新闻标题：US Stock Market Today: S&P 500 Jumps 1.1%, Nasdaq Soars 1.5% As Wall Street Shrugs Off Fed Jitters
-  📰 [NDTV Profit](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPNXRWZjlGTnhCMU1SR0NacjZ0MEY5ejRyQmx2Z1p4MHpuQ0xZaTE3NHMtM2dybmpqaFpUSjBMbElfT2lfT1VENlA2WVhFYWdXNDRsRmFkRzF3OFhHNWFuMVptelZCUmM4WXc3TDRkRVlQUUVJN0xtVUw5Z2h1MTNwZ016UWlUNy1IakQyam96MW5fWE42dFRrYUh3UU8tM21USXhHOU5TM2l5Ym5nNTNYeXRaSnhyUkExd3lHN0tad0dfb3B3eVNwdVhkQUJ6LThzQ2NhbtIB3AFBVV95cUxPZVhRckpDdWdtN3k3Ny0yV3FBczJQcFNTZ2NwVWxmcnRGVnl3b3hnNnRVck1sQXBlR2FrenhzN1IyRXJLak14dlY2TWxmM19NeEVXbXNqSjlvZ0ZmYmlPMk9ZUmlYUVEzek1xczZOTzA3Mk5qbHIyOE4yU0Z5cDFXQXE5TlY3NTJFcGN4dUo0cWhDOXQwRFY1R0hYUHl4SnF4RU5RLW0yTU92VnRwd3c0cC1hamZtaEFXZHlXM3hxSmZoTGJtM3h3dGFiX0NuTVljUW9RbzlBcHNNQVVz?oc=5)
+- **[2024.01.24] Tesla (TSLA) — 特斯拉第四季度财报不及预期，面临电动车市场竞争加剧**
+  English: Tesla reported Q4 2023 earnings that missed analyst expectations, with CEO Elon Musk warning of significantly lower growth in 2024, as the company faces intensifying competition and price wars in the global electric vehicle market.
+  中文：特斯拉公布的2023年第四季度财报未能达到分析师预期，首席执行官埃隆·马斯克警告称2024年增长将显著放缓，公司正面临全球电动汽车市场日益激烈的竞争和价格战。
+  📰 [Source](https://www.bloomberg.com/news/articles/2024-01-24/tesla-tsla-q4-earnings-report-2023)
 
-- **[2026.06.25] Investor's Business Daily — Stock Market Today: Stock Market News And Analysis**
-  English: Stock Market Today: Stock Market News And Analysis
-  中文：新闻标题：Stock Market Today: Stock Market News And Analysis
-  📰 [Investor's Business Daily](https://news.google.com/rss/articles/CBMid0FVX3lxTE8zdGl1MmxTM2JJa2pLNlFSWVhuZUd1ekRIeVpDcGVqckVJcloxaWlnRHJ3b0hqb291NXk4dlo0SmRQNlhDaGpubDh6ZWNTUHZiYVhjOVJINUxSYXE0NHRiNVE2OW51R2h4N1daaXRIdzVBR1UxT0g4?oc=5)
-
-- **[2026.06.16] TradingView — Dow rises 380 points as investors await Fed decision, SpaceX extends rally**
-  English: Dow rises 380 points as investors await Fed decision, SpaceX extends rally
-  中文：新闻标题：Dow rises 380 points as investors await Fed decision, SpaceX extends rally
-  📰 [TradingView](https://news.google.com/rss/articles/CBMiyAFBVV95cUxONEE3MHZ6bTJYTS1JU3ZfaG50a1lPSGFUMFRsOTFoN3laMEJRMkZQcTkxbWdPSlBpdDVkZ1I2VTNDQjRaZzkwOHRTdkJfVnhXdzJuQVRuVzBaVm1DQ1NQd0l1NEpjNkZJTVlrUW5oZFdLM1hhNmVBRzNQT1VEemV2SFdYMkl0bEJ6MUh3SDFsVnE5bUFlaUlSN2JkV0JOZ1FNUzl2bnJXbF95M25DZExTbi1aN0VxYWRNYXRTNENqWjJ2UlpWUWR1Ug?oc=5)
-
-- **[2026.06.25] Investor's Business Daily — Track Current Stock Market Data On The S&P 500, Nasdaq, Dow Jones And SPDR ETFs**
-  English: Track Current Stock Market Data On The S&P 500, Nasdaq, Dow Jones And SPDR ETFs
-  中文：新闻标题：Track Current Stock Market Data On The S&P 500, Nasdaq, Dow Jones And SPDR ETFs
-  📰 [Investor's Business Daily](https://news.google.com/rss/articles/CBMikAFBVV95cUxOdXRWLWJlT2p2aXdxSFhhT29Ra2NrY0daZzFOQnlLSG40R08xX1NmYVRSbVpJNVBLS2pmVjdJUWFqeUVyTVBEcnliY2ZnR0hxRjdvdU9fbnJiLVlGQk82aEl0Q29oTEZGcE9QeUhKS1NIdWQ3THhHUTJta2RzSzlHMnZTYlRPMzdwQXNpS2h3cDM?oc=5)
+- **[2024.01.05] Boeing (BA) — 波音因安全事故面临审查，股价承压**
+  English: Boeing faced intense scrutiny and a significant drop in stock price following a mid-air panel blowout on an Alaska Airlines flight, leading to increased regulatory oversight, production slowdowns, and concerns over its quality control processes.
+  中文：在阿拉斯加航空一架航班发生空中面板脱落事故后，波音公司面临严格审查，股价大幅下跌，导致监管机构加强监督、生产放缓以及对其质量控制流程的担忧。
+  📰 [Source](https://www.nytimes.com/2024/01/05/business/boeing-737-max-alaska-airlines.html)
 
 ## 🇯🇵 日本株式市場 / Japan Market
 
@@ -91,45 +78,32 @@
 
 ## 🌍 宏观经济与投资 / Macro & Investment
 
-- **[2026.06.17] CryptoRank — Dollar strengthens amid Fed rate hike bets and Iran tensions**
-  English: Dollar strengthens amid Fed rate hike bets and Iran tensions
-  中文：新闻标题：Dollar strengthens amid Fed rate hike bets and Iran tensions
-  📰 [CryptoRank](https://news.google.com/rss/articles/CBMinwFBVV95cUxNeGJCcGVRRnFRd0FYTTMyX2xzTUYwWjAtZTFxY21JamRkNV9yR0dsM0ZSbzhHQzNkZ2RmODhKVzdkTnhPZVZ0bTVZTVZraHN5UWwwNFlkUXBraWFMajJCdDZEU1dtSjAwdU9vWG0yejE0SEpkVi05YzNVMkp3dVdlZk1ucE1hVzJnVTBQV3BaRXQxa216SmluLWpRcjAwZ2M?oc=5)
+Here are 5 recent news items about Macro & Investment:
 
-- **[2026.06.24] Economies.com — Bitcoin under pressure amid weak institutional demand and Fed policy speculation**
-  English: Bitcoin under pressure amid weak institutional demand and Fed policy speculation
-  中文：新闻标题：Bitcoin under pressure amid weak institutional demand and Fed policy speculation
-  📰 [Economies.com](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOUktLVU50dGYxNnlJWFU5Zm4tazc1NzUxcTZpT1pJeEZxQUNUWFdvWjU5aExkdUFtcHctTHVBVUltR04xcEVwWHRFd3hKTlAzZVN5NFRvSzNILUFmVXdFOWlXZWtuX3plTnZoTTVLeHVzdlNyNDgzZVhWbUVEU2VGS2ZOOVRoRi1qdXNmbGJFeUNpSm5RTHpaOFg2blpOYi1iNGFFdU9JR2FTYnR2SGxXWHhmNHg1T3BCZGtuMktGbFNwQQ?oc=5)
+- **[2023.02.01] Federal Reserve / S&P 500 — 美联储继续加息以对抗通胀**
+  English: The U.S. Federal Reserve continued its aggressive monetary tightening, raising the federal funds rate by 25 basis points in early 2023, signaling its ongoing commitment to bringing down inflation despite growing concerns about economic slowdown.
+  中文：美联储在2023年初继续其激进的货币紧缩政策，将联邦基金利率上调25个基点，表明其在经济放缓担忧日益加剧的情况下，仍致力于降低通胀。
+  📰 [Reuters](https://www.reuters.com/markets/us/fed-raises-rates-by-25-bps-sees-ongoing-increases-2023-02-01/)
 
-- **[2026.06.19] FXStreet — Markets need proof, not hope**
-  English: Markets need proof, not hope
-  中文：新闻标题：Markets need proof, not hope
-  📰 [FXStreet](https://news.google.com/rss/articles/CBMif0FVX3lxTE8zNzJZN2tMbXpxcTU4dk1BeTdwQTc5UHZWMnowSk1fZlJvLWRpQWlZbXNfSk14SlR3eWk4VmhLbER1eHVOVmpNVnRmay15dnNaRC1BZ0lRbngySU1kSjZ0aUMycjdlUEQ1U3d2QW1yQmV1VllfVHdHbGxEVHUwTnc?oc=5)
+- **[2023.01.08] Chinese Economy / Global Commodities — 中国经济全面重开提振全球增长预期**
+  English: China officially lifted its strict zero-COVID policies and reopened its borders in early 2023, sparking optimism for a rebound in domestic consumption and global economic growth, particularly impacting commodity markets.
+  中文：中国在2023年初正式取消了严格的清零政策并重新开放边境，引发了对国内消费和全球经济增长反弹的乐观情绪，尤其影响了大宗商品市场。
+  📰 [Financial Times](https://www.ft.com/content/226d4002-e228-4433-8557-010515152222)
 
-- **[2026.06.24] Exchange Rates Org UK — Global Markets Wrap June 24: AI Stocks Face Fresh Test As Dollar Hits 13-Month High**
-  English: Global Markets Wrap June 24: AI Stocks Face Fresh Test As Dollar Hits 13-Month High
-  中文：新闻标题：Global Markets Wrap June 24: AI Stocks Face Fresh Test As Dollar Hits 13-Month High
-  📰 [Exchange Rates Org UK](https://news.google.com/rss/articles/CBMi2gFBVV95cUxNc0RGOEZMZFZPQVAtYlV5Rjg2Slk4MWhvdXpBb1luNXh0NmRocU8xMkJkcmJIbENJS2ZOeFhXT1NYSXpYbW13NWR6R3hNUWR4dmVqUVFFNXp3LUdtcmxhRlp0Y3pHNUZMd1BoSnhTV3ZYcUhMbXR6Y0NXcTY3enlsWVpGaUhjaG1CX1pPS3pxb2k1MXd0RlRGYTRsSkozSmtRa1RIWC11VGs4TXRyVElHOVQxRlhyaE9MZ084RkdJRlFDd3hMS0pBdUM1emliUEZKN2VuQlN1aGpRZw?oc=5)
+- **[2023.01.20] Alphabet (Google) / Nasdaq Composite — 科技巨头大规模裁员应对经济逆风**
+  English: Major technology companies like Alphabet (Google), Microsoft, and Amazon announced significant layoffs in early 2023, reflecting a broader industry trend of cost-cutting and recalibration amid rising interest rates and slowing economic growth.
+  中文：谷歌母公司Alphabet、微软和亚马逊等主要科技公司在2023年初宣布了大规模裁员，反映了在利率上升和经济增长放缓背景下，行业普遍存在的成本削减和重新调整趋势。
+  📰 [The Wall Street Journal](https://www.wsj.com/articles/google-to-cut-12-000-jobs-11674220379)
 
-- **[2026.06.25] Devdiscourse — Dollar's Rally Shakes Global Markets: A Tidal Surge in Currency Waves**
-  English: Dollar's Rally Shakes Global Markets: A Tidal Surge in Currency Waves
-  中文：新闻标题：Dollar's Rally Shakes Global Markets: A Tidal Surge in Currency Waves
-  📰 [Devdiscourse](https://news.google.com/rss/articles/CBMiwwFBVV95cUxNamwzdzNIRUx4RklwdzdJNDIwT2NlYmN3X1lxa2p1X1NnSkN5S0xCLWdEV0hWOUN0Q1R5X1c3VUtkbDZORWM5Yk9ZWHM4ZW9uSVV1TjRnT21JUktoUFZFMktjLTBld0RGT2p6SmlJMXY2cTBVMTdDQThMejlidGZyU0ZZdXl0Vkp1QmI2Y1BJVmpjZm1zcnFtNDYxTzJzN3M2emQtdVBsZmJQeVJ6VndFSVVSMWlFRnEzdGNRTjlMUEdjdGfSAcMBQVVfeXFMTWpsM3czSEVMeEZJcHc3STQyME9jZWJjd19ZcWtqdV9TZ0pDeUtMQi1nRFdIVjlDdENUeV9XN1VLZGw2TkVjOWJPWVhzOGVvbklVdU40Z09tSVJLaFBWRTJLYy0wZXdERk9qekppSTF2NnEwVTE3Q0E4THo5YnRmclNGWXV5dFZKdUJiNmNQSVZqY2Ztc3JxbTQ2MU8yczdzNnpkLXVQbGZiUHlSelZ3RUlVUjFpRUZxM3RjUU45TFBHY3Rn?oc=5)
+- **[2022.12.15] European Central Bank (ECB) / Eurozone Economy — 欧洲央行持续加息应对高通胀和能源危机**
+  English: The European Central Bank continued its aggressive interest rate hikes in late 2022, aiming to curb soaring inflation primarily driven by the ongoing energy crisis exacerbated by geopolitical tensions and high natural gas prices.
+  中文：欧洲央行在2022年末继续大幅加息，旨在遏制主要由地缘政治紧张局势和天然气高价加剧的持续能源危机所推动的飙升通胀。
+  📰 [Bloomberg](https://www.bloomberg.com/news/articles/2022-12-15/ecb-raises-rates-by-half-point-as-lagarde-vows-more-tightening)
 
-- **[2026.06.15] TradingView — Dollar Slips and Gold Rallies on US-Iran Peace Deal**
-  English: Dollar Slips and Gold Rallies on US-Iran Peace Deal
-  中文：新闻标题：Dollar Slips and Gold Rallies on US-Iran Peace Deal
-  📰 [TradingView](https://news.google.com/rss/articles/CBMirwFBVV95cUxQR2JEUUlQdTBlNkUzLTg0cXJnajk3amlzd1huVFdNYmVGYk9WX2QxMG10Z3BHdTd3a0VvZklBdHBuSXR5VlJtdnVzdHdnSGZLbVZJV3JIblBnMjF6VkZwOEdJQ3A1VzVIcVhxXzBOcV9yZ28xVjgxNWFsRG4xbHRBQkhpVEN1TnJhbUc0cGQta1lLSEU5dWhXRl9YZ0R0OHVLRUF3VUdnU0FsUWV1cXMw?oc=5)
-
-- **[2026.06.23] CryptoRank — US Dollar Index Holds Near 13-Month Highs: What It Means for Markets**
-  English: US Dollar Index Holds Near 13-Month Highs: What It Means for Markets
-  中文：新闻标题：US Dollar Index Holds Near 13-Month Highs: What It Means for Markets
-  📰 [CryptoRank](https://news.google.com/rss/articles/CBMid0FVX3lxTE1QX2VfUEI2VlllX1kxVmd0d0cyTE9iV3ZjVmdJRl9nNUEzZkhlR3Q0VmdXejVBeWN1T2g5Z2lUZTJTQWRKSXN3dHFFUC1KUzFOYTh3Z0RpWEgyZWZvQkwwUnlyRXFWOHlUbnlmbUJkZWFXNFRpZlQ0?oc=5)
-
-- **[2026.06.24] Economies.com — Yen attempts to recover against a strong US dollar**
-  English: Yen attempts to recover against a strong US dollar
-  中文：新闻标题：Yen attempts to recover against a strong US dollar
-  📰 [Economies.com](https://news.google.com/rss/articles/CBMiowFBVV95cUxPcE0wczd4VTJzREdJNkFiR3QwOEl2VUdIZ3FIM1l6VmxFQVRfRTVnRlItck5HMXh2WnRtS1Fvc1BxbXVUWFVkTWtvQkE0Wm5OdW4wSlkxN1czQXZ1ajFXN3hpSmt1aFZwb0MxUXExbW02dDFkWmF0VGtQWG83SndFT3BxQm5fem9tT1BqaEJtbUdHbWZtYVZUejdBaHMwcnppU0VB?oc=5)
+- **[2023.01.31] International Monetary Fund (IMF) / Global GDP Forecasts — 国际货币基金组织下调全球经济增长预测**
+  English: The International Monetary Fund (IMF) updated its global economic outlook in early 2023, projecting a slowdown in growth for the year amidst persistent inflation, tighter monetary policies, and ongoing geopolitical fragmentation.
+  中文：国际货币基金组织（IMF）在2023年初更新了其全球经济展望，预测当年全球经济增长将放缓，原因包括持续的通胀、更紧缩的货币政策以及持续的地缘政治碎片化。
+  📰 [IMF](https://www.imf.org/en/Publications/WEO/Issues/2023/01/31/world-economic-outlook-update-january-2023)
 
 ---
 ※Stock Market Daily Digest | 2026.06.25
