@@ -34,13 +34,13 @@ CONFIG = {
             "keywords": "global economy GDP inflation interest rate central bank bond yield currency forex USD JPY trade tariff oil gold crypto Bitcoin ETF",
         },
     ],
-    "items_per_section": "5 to 10",
-    "time_window": "past 2 weeks",
+    "items_per_section": "4 to 8",
+    "time_window": "today only",
     "section_prompt": """Search for {items_per_section} recent news specifically about {label}.
 Search keywords: {keywords}. Today is {date_str}.
 CRITICAL RULES:
 - You MUST return {items_per_section} news items. NEVER return zero.
-- Prioritize last 24 hours, then expand to {time_window} if needed.
+- Use TODAY'S market news only. Do NOT include older dates.
 - Focus on: stock index movements, major earnings, central bank policy, notable stock movers, IPOs, M&A, analyst forecasts, market sentiment.
 - NEVER say "sorry", "unable to find", "无法获取". FORBIDDEN.
 - Each item MUST start with: - **[YYYY.MM.DD] Company/Index — Chinese summary**
@@ -57,7 +57,7 @@ Format: - **[YYYY.MM.DD] Company/Index — 中文概要**
   English: summary
   中文：摘要
   📰 [Source](https://url)""",
-    "disclaimer": "⚠ 本日报优先收录24小时内新闻，不足部分回溯至近两周。数据仅供参考，不构成投资建议。",
+    "disclaimer": "⚠ 本日报只收录当天新闻与当时市场快照；数据仅供参考，不构成投资建议。",
     "history_days": 90,
     "model": "gemini-2.5-flash",
     "temperature": 0.3,
@@ -98,7 +98,12 @@ def call_gemini(prompt, use_search=True):
     return (client.models.generate_content(model=CONFIG["model"],contents=prompt,config=types.GenerateContentConfig(**cfg)).text or "")
 
 def has_real_content(t):
-    return "- **[" in t and "很抱歉" not in t and "无法获取" not in t and "sorry" not in t.lower()
+    if "- **[" not in t or "很抱歉" in t or "无法获取" in t or "sorry" in t.lower():
+        return False
+    dates = re.findall(r'-\s*\*\*\[(\d{4}[\.\-/]\d{2}[\.\-/]\d{2})\]', t)
+    normalized_today = DATE_STR.replace(".", "-")
+    normalized_dates = [d.replace("/", "-").replace(".", "-") for d in dates]
+    return bool(normalized_dates) and all(d == normalized_today for d in normalized_dates)
 
 def strip_html(value):
     value = re.sub(r"<[^>]+>", " ", value or "")
@@ -121,7 +126,7 @@ def fetch_rss_items(sec, limit=8):
     else:
         query = "global markets economy inflation interest rates dollar yen oil gold bitcoin"
         hl, gl, ceid = "en-US", "US", "US:en"
-    query = f"{query} when:14d"
+    query = f"{query} when:1d"
     params = {"q": query, "hl": hl, "gl": gl, "ceid": ceid}
     url = "https://news.google.com/rss/search?" + urllib.parse.urlencode(params)
     req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0"})
@@ -141,18 +146,80 @@ def fetch_rss_items(sec, limit=8):
             date = dt.strftime("%Y.%m.%d")
         except Exception:
             date = DATE_STR
+        if date != DATE_STR:
+            continue
         items.append({"date": date, "headline": headline, "source": source, "link": link})
         if len(items) >= limit:
             break
     return items
+
+def fetch_quote(symbol):
+    url = "https://query1.finance.yahoo.com/v8/finance/chart/" + urllib.parse.quote(symbol, safe="") + "?range=1d&interval=1m"
+    req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0"})
+    with urllib.request.urlopen(req, timeout=15) as response:
+        data = json.loads(response.read().decode("utf-8"))
+    result = data["chart"]["result"][0]
+    meta = result["meta"]
+    price = meta.get("regularMarketPrice")
+    prev = meta.get("chartPreviousClose") or meta.get("previousClose")
+    ts = meta.get("regularMarketTime")
+    if price is None or prev in (None, 0):
+        return None
+    pct = (price - prev) / prev * 100
+    when = datetime.fromtimestamp(ts, timezone.utc).astimezone(LOCAL_TZ).strftime("%H:%M JST") if ts else TIME_STR + " JST"
+    return {"symbol": symbol, "price": price, "prev": prev, "pct": pct, "time": when}
+
+def fmt_price(value):
+    if abs(value) >= 1000:
+        return f"{value:,.2f}"
+    return f"{value:.2f}"
+
+def market_snapshot_items(sec):
+    if "日本" in sec["label"] or "Japan" in sec["label"]:
+        targets = [
+            ("^N225", "Nikkei 225", "日经225"),
+            ("7203.T", "Toyota", "丰田汽车"),
+            ("6758.T", "Sony Group", "索尼集团"),
+            ("9984.T", "SoftBank Group", "软银集团"),
+        ]
+    elif "美国" in sec["label"] or "US" in sec["label"]:
+        targets = [
+            ("^GSPC", "S&P 500", "标普500"),
+            ("^IXIC", "Nasdaq Composite", "纳斯达克综合指数"),
+            ("^DJI", "Dow Jones", "道琼斯指数"),
+            ("NVDA", "NVIDIA", "英伟达"),
+        ]
+    else:
+        targets = [
+            ("JPY=X", "USD/JPY", "美元兑日元"),
+            ("^TNX", "US 10Y Yield", "美国10年期国债收益率"),
+            ("GC=F", "Gold Futures", "黄金期货"),
+            ("CL=F", "WTI Crude Oil", "WTI原油"),
+            ("BTC-USD", "Bitcoin", "比特币"),
+        ]
+    lines = []
+    for symbol, en_name, zh_name in targets:
+        try:
+            q = fetch_quote(symbol)
+        except Exception as ex:
+            print(f"   {sec['emoji']} quote error for {symbol}: {ex}")
+            q = None
+        if not q:
+            continue
+        direction = "上涨" if q["pct"] >= 0 else "下跌"
+        lines.append(
+            f"- **[{DATE_STR}] {en_name} — {zh_name}{direction}{abs(q['pct']):.2f}%**\n"
+            f"  English: {en_name} was at {fmt_price(q['price'])}, {q['pct']:+.2f}% versus the previous close, as of {q['time']}.\n"
+            f"  中文：截至 {q['time']}，{zh_name}报 {fmt_price(q['price'])}，较前收盘{direction}{abs(q['pct']):.2f}%。\n"
+            f"  📰 [Yahoo Finance](https://finance.yahoo.com/quote/{urllib.parse.quote(symbol, safe='')})"
+        )
+    return lines
 
 def fetch_section_rss(sec):
     try:
         items = fetch_rss_items(sec)
     except Exception as ex:
         print(f"   {sec['emoji']} RSS fallback error: {ex}")
-        return ""
-    if not items:
         return ""
     lines = []
     for item in items:
@@ -162,7 +229,10 @@ def fetch_section_rss(sec):
             f"  中文：新闻标题：{item['headline']}\n"
             f"  📰 [{item['source']}]({item['link']})"
         )
-    print(f"   {sec['emoji']} RSS fallback got {len(items)} items")
+    if len(lines) < 4:
+        snapshot = market_snapshot_items(sec)
+        lines.extend(snapshot[: max(0, 4 - len(lines))])
+    print(f"   {sec['emoji']} RSS/current fallback got {len(lines)} items")
     return "\n\n".join(lines)
 
 def fetch_section(sec):
@@ -179,11 +249,6 @@ def fetch_section(sec):
         except Exception as ex: print(f"   {e} Attempt {a+1} error: {ex}")
         time.sleep(CONFIG["retry_delay"])
     print(f"   {e} Fallback...")
-    try:
-        t = call_gemini(CONFIG["fallback_prompt"].format(label=l),False)
-        if "- **" in t: return t
-    except Exception as ex:
-        print(f"   {e} Gemini fallback error: {ex}")
     return fetch_section_rss(sec)
 
 def generate_digest():
