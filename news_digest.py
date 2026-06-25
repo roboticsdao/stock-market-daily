@@ -73,7 +73,7 @@ CRITICAL RULES:
 FORMAT:
 - **[2026.06.19] S&P500 — 标普500指数创历史新高**
   English: One-line English summary.
-  中文：一行中文摘要。
+  中文：150-250 Chinese characters explaining what happened, why it matters, affected sectors/stocks, and what to watch next.
   📰 [Source Name](https://direct-article-url)
 (produce {items_per_section} items)""",
     "fallback_prompt": """Based on your training knowledge, list 5 recent news items about {label}.
@@ -183,6 +183,94 @@ def fetch_rss_items(sec, limit=8):
                 return sorted(items, key=lambda x: x["dt"], reverse=True)
     return sorted(items, key=lambda x: x["dt"], reverse=True)
 
+def mentioned_entities(headline):
+    names = [
+        "Nvidia", "Micron", "AMD", "Intel", "Qualcomm", "Broadcom", "Apple", "Microsoft", "Tesla",
+        "Amazon", "Meta", "Alphabet", "Tokyo Electron", "Advantest", "Kioxia", "SoftBank",
+        "Toyota", "Sony", "Nintendo", "USD/JPY", "Gold", "Oil", "Bitcoin",
+    ]
+    found = [name for name in names if name.lower() in headline.lower()]
+    return "、".join(found[:5]) if found else "相关公司和板块"
+
+def infer_market_summary(sec, item):
+    headline = item["headline"]
+    lower = headline.lower()
+    section = sec["label"]
+    entities = mentioned_entities(headline)
+    if "美国" in section or "US" in section:
+        if any(k in lower for k in ["micron", "nvidia", "amd", "qualcomm", "broadcom", "chip", "semiconductor"]):
+            return (
+                f"这条消息涉及 {entities}，显示美股科技线的核心驱动仍集中在 AI 芯片、存储和半导体供应链。"
+                "如果相关公司业绩指引或订单预期继续改善，资金往往会从指数层面转向更具体的半导体、服务器、数据中心和 AI 基础设施个股。"
+                "短线需要观察 Nvidia、AMD、Broadcom、Micron、Qualcomm 等是否同步放量，以及 Nasdaq 是否由少数龙头扩散到更多科技成分股。"
+            )
+        if any(k in lower for k in ["tesla", "rivian", "ev", "vehicle"]):
+            return (
+                f"这条消息涉及 {entities}，与美股电动车及高 beta 成长股情绪有关。"
+                "Tesla 或同类公司的变化常会影响投资者对消费科技、自动驾驶、能源存储和成长股风险偏好的判断。"
+                "如果消息涉及交付、价格、监管或分析师评级，通常会直接牵动期权交易和盘前波动；后续要看成交量、同业联动以及 Nasdaq 风险偏好是否跟随。"
+            )
+        if any(k in lower for k in ["apple", "microsoft", "amazon", "meta", "alphabet", "magnificent"]):
+            return (
+                f"这条消息涉及 {entities}，聚焦大型科技股。"
+                "这些公司权重高，对 S&P 500 和 Nasdaq 的方向影响明显；一旦估值、AI 投入、云业务或广告业务预期变化，指数可能被少数巨头牵引。"
+                "接下来要看资金是继续集中在大型科技股，还是向软件、半导体设备、数据中心电力等周边产业扩散。"
+            )
+        return (
+            f"这条消息涉及 {entities}，反映美股盘面或个股情绪变化。"
+            "它的重点不只是指数涨跌，而是资金正在选择哪些行业、哪些主题以及哪些公司作为交易主线。"
+            "后续应结合盘前期货、板块涨跌、成交量和分析师评级变化，判断这是短线情绪反弹，还是能够延续的产业趋势。"
+        )
+    if "日本" in section or "Japan" in section:
+        if any(k in headline for k in ["半導体", "アドバンテスト", "東エレク", "東京エレクトロン", "キオクシア", "マイクロン", "AI"]):
+            return (
+                f"这条日本市场消息涉及 {entities}，核心在半导体和 AI 产业链。"
+                "日股中东京电子、Advantest、Kioxia、SoftBank Group 等常被视为 AI 基础设施和全球芯片周期的映射。"
+                "如果海外芯片业绩或 AI 资本开支继续超预期，日经指数可能继续由高权重半导体股推动；同时也要留意日元和海外资金流向。"
+            )
+        return (
+            f"这条消息涉及 {entities}，反映日本股市当天的行业轮动和个股表现。"
+            "对日股来说，指数变化往往由半导体、汽车、金融、商社和 SoftBank 等权重股共同决定。"
+            "需要结合日元走势、海外科技股表现、日银政策预期和外资买卖，判断行情是单日事件驱动，还是更广泛的趋势延续。"
+        )
+    if any(k in lower for k in ["dollar", "yen", "treasury", "yield", "fed", "rate"]):
+        return (
+            f"这条宏观消息涉及 {entities}，影响美元、日元、美债收益率和全球风险资产定价。"
+            "利率和汇率变化会通过折现率、企业融资成本和跨境资金流影响股票估值，尤其是高估值科技股和出口导向型日股。"
+            "后续要观察 Fed 预期、美债收益率曲线、USD/JPY 以及黄金和比特币等避险/风险资产是否同步确认。"
+        )
+    if any(k in lower for k in ["oil", "gold", "bitcoin", "crypto"]):
+        return (
+            f"这条消息涉及 {entities}，属于跨资产信号。"
+            "原油、黄金和比特币的变化会反映通胀预期、避险需求和风险偏好，对能源股、资源股、科技股估值和美元走势都有间接影响。"
+            "如果这些资产与股指同向或背离，往往能提示市场是在交易增长、通胀，还是避险。"
+        )
+    return (
+        f"这条宏观市场消息涉及 {entities}，提供了判断股市趋势的背景变量。"
+        "它需要和指数、行业轮动、汇率、利率和商品价格一起观察，才能判断资金是在追逐风险，还是降低仓位。"
+        "对当天交易来说，最重要的是看该信号是否被美股科技股、日股半导体股和美元日元走势共同验证。"
+    )
+
+def ensure_summary_depth(summary, sec):
+    if len(summary) >= 180:
+        return summary
+    if "美国" in sec["label"] or "US" in sec["label"]:
+        extra = (
+            "实盘上还应观察期货开盘后的成交量、期权隐含波动率、龙头股是否带动同业，以及资金是否从指数权重股扩散到中小型成长股。"
+            "如果消息只推动单一公司而板块没有跟随，趋势持续性会弱一些；如果半导体、软件、云计算和电力基础设施同时响应，说明市场正在交易更完整的 AI 资本开支链条。"
+        )
+    elif "日本" in sec["label"] or "Japan" in sec["label"]:
+        extra = (
+            "实盘上还要结合日元汇率、外资买卖、美国科技股隔夜表现以及期货盘变化判断。"
+            "如果日经上涨主要依赖少数半导体权重股，后续容易受海外芯片消息影响；如果汽车、金融、商社和中小盘也同步走强，说明市场宽度更健康。"
+        )
+    else:
+        extra = (
+            "实盘上要看该宏观信号是否同时影响美元、利率、商品和股指。"
+            "如果美元与美债收益率继续上行，高估值科技股可能承压；如果黄金、原油或比特币与股市出现背离，则说明市场对通胀、避险或流动性的判断还不一致。"
+        )
+    return summary + extra
+
 def fetch_quote(symbol):
     url = "https://query1.finance.yahoo.com/v8/finance/chart/" + urllib.parse.quote(symbol, safe="") + "?range=1d&interval=1m"
     req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0"})
@@ -203,6 +291,32 @@ def fmt_price(value):
     if abs(value) >= 1000:
         return f"{value:,.2f}"
     return f"{value:.2f}"
+
+def quote_context(sec, en_name, zh_name, pct, when):
+    direction = "上涨" if pct >= 0 else "下跌"
+    if "美国" in sec["label"] or "US" in sec["label"]:
+        if en_name in {"NVIDIA", "AMD", "Broadcom", "Micron"}:
+            theme = "AI 芯片和数据中心产业链"
+        elif en_name in {"Apple", "Microsoft", "Tesla"}:
+            theme = "大型科技股和成长股风险偏好"
+        else:
+            theme = "美股指数与市场宽度"
+        return (
+            f"截至 {when}，{zh_name}较前收盘{direction}{abs(pct):.2f}%。这类实时价格变化可以作为{theme}的即时温度计。"
+            "如果相关个股与同板块新闻方向一致，说明资金正在围绕产业逻辑交易；如果价格和新闻背离，则可能是获利了结、估值压力或宏观利率因素压制。"
+            "后续要结合成交量、盘前/盘中走势和同业联动，判断这只是短线波动，还是板块趋势的延续。"
+        )
+    if "日本" in sec["label"] or "Japan" in sec["label"]:
+        return (
+            f"截至 {when}，{zh_name}较前收盘{direction}{abs(pct):.2f}%。这对日本市场的意义在于，它能反映外资、日元汇率和全球科技周期对日股权重股的即时影响。"
+            "若半导体或大型权重股同步走强，日经指数通常更容易被推升；若个股分化明显，则要警惕指数上涨背后的市场宽度不足。"
+            "接下来应观察日元、美国科技股期货以及东京市场收盘后的海外反馈。"
+        )
+    return (
+        f"截至 {when}，{zh_name}较前收盘{direction}{abs(pct):.2f}%。这个变化会影响股票市场的宏观定价背景。"
+        "美元、利率、黄金、原油和比特币分别代表汇率压力、资金成本、避险需求、通胀预期和风险偏好。"
+        "如果这些资产与股指方向相互印证，趋势可信度更高；如果出现背离，短线行情可能更容易反复。"
+    )
 
 def market_snapshot_items(sec):
     if "日本" in sec["label"] or "Japan" in sec["label"]:
@@ -247,7 +361,7 @@ def market_snapshot_items(sec):
         lines.append(
             f"- **[{DATE_STR}] {en_name} — {zh_name}{direction}{abs(q['pct']):.2f}%**\n"
             f"  English: {en_name} was at {fmt_price(q['price'])}, {q['pct']:+.2f}% versus the previous close, as of {q['time']}.\n"
-            f"  中文：截至 {q['time']}，{zh_name}报 {fmt_price(q['price'])}，较前收盘{direction}{abs(q['pct']):.2f}%。\n"
+            f"  中文：{quote_context(sec, en_name, zh_name, q['pct'], q['time'])}\n"
             f"  📰 [Yahoo Finance](https://finance.yahoo.com/quote/{urllib.parse.quote(symbol, safe='')})"
         )
     return lines
@@ -260,10 +374,11 @@ def fetch_section_rss(sec):
         return ""
     lines = []
     for item in items:
+        summary = ensure_summary_depth(infer_market_summary(sec, item), sec)
         lines.append(
             f"- **[{item['date']}] {item['source']} — {item['headline']}**\n"
             f"  English: {item['headline']}\n"
-            f"  中文：新闻标题：{item['headline']}\n"
+            f"  中文：{summary}\n"
             f"  📰 [{item['source']}]({item['link']})"
         )
     if len(lines) < 8:
