@@ -1,10 +1,14 @@
 name: Stock Market Daily
 on:
   schedule:
-    # UTC 23:00/23:30/00:00 = JST 8:00/8:30/9:00
+    # UTC 23:00 = JST 8:00, for Japan market morning news.
     - cron: '0 23 * * *'
-    - cron: '30 23 * * *'
-    - cron: '0 0 * * *'
+    # US market morning checks. During US daylight time:
+    # UTC 12:00/13:15/14:00 = ET 8:00/9:15/10:00 = JST 21:00/22:15/23:00.
+    # During US standard time, these run one hour earlier in ET.
+    - cron: '0 12 * * *'
+    - cron: '15 13 * * *'
+    - cron: '0 14 * * *'
   workflow_dispatch:  # 手动触发
 permissions:
   contents: write
