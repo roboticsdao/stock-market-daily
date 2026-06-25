@@ -4,7 +4,7 @@ Stock Market News Digest — 日美股市新闻播报
 Based on AI News Digest Automation Template v2
 Dependencies: pip install google-genai
 """
-import os, subprocess, re, sys, time, json
+import html, os, subprocess, re, sys, time, json, urllib.parse, urllib.request, xml.etree.ElementTree as ET
 from datetime import datetime, timezone, timedelta
 from pathlib import Path
 
@@ -100,8 +100,76 @@ def call_gemini(prompt, use_search=True):
 def has_real_content(t):
     return "- **[" in t and "很抱歉" not in t and "无法获取" not in t and "sorry" not in t.lower()
 
+def strip_html(value):
+    value = re.sub(r"<[^>]+>", " ", value or "")
+    return html.unescape(re.sub(r"\s+", " ", value)).strip()
+
+def parse_google_news_title(title):
+    title = strip_html(title)
+    if " - " in title:
+        headline, source = title.rsplit(" - ", 1)
+        return headline.strip(), source.strip()
+    return title, "Google News"
+
+def fetch_rss_items(sec, limit=8):
+    if "日本" in sec["label"] or "Japan" in sec["label"]:
+        query = "日経平均 日本株 TOPIX 東証 株式市場 日銀 円"
+        hl, gl, ceid = "ja", "JP", "JP:ja"
+    elif "美国" in sec["label"] or "US" in sec["label"]:
+        query = "stock market today S&P 500 Nasdaq Dow Wall Street earnings Fed"
+        hl, gl, ceid = "en-US", "US", "US:en"
+    else:
+        query = "global markets economy inflation interest rates dollar yen oil gold bitcoin"
+        hl, gl, ceid = "en-US", "US", "US:en"
+    query = f"{query} when:14d"
+    params = {"q": query, "hl": hl, "gl": gl, "ceid": ceid}
+    url = "https://news.google.com/rss/search?" + urllib.parse.urlencode(params)
+    req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0"})
+    with urllib.request.urlopen(req, timeout=20) as response:
+        root = ET.fromstring(response.read())
+
+    items, seen = [], set()
+    for node in root.findall("./channel/item"):
+        headline, source = parse_google_news_title(node.findtext("title", ""))
+        link = node.findtext("link", "")
+        published = node.findtext("pubDate", "")
+        if not headline or headline.lower() in seen:
+            continue
+        seen.add(headline.lower())
+        try:
+            dt = datetime.strptime(published, "%a, %d %b %Y %H:%M:%S %Z").replace(tzinfo=timezone.utc).astimezone(LOCAL_TZ)
+            date = dt.strftime("%Y.%m.%d")
+        except Exception:
+            date = DATE_STR
+        items.append({"date": date, "headline": headline, "source": source, "link": link})
+        if len(items) >= limit:
+            break
+    return items
+
+def fetch_section_rss(sec):
+    try:
+        items = fetch_rss_items(sec)
+    except Exception as ex:
+        print(f"   {sec['emoji']} RSS fallback error: {ex}")
+        return ""
+    if not items:
+        return ""
+    lines = []
+    for item in items:
+        lines.append(
+            f"- **[{item['date']}] {item['source']} — {item['headline']}**\n"
+            f"  English: {item['headline']}\n"
+            f"  中文：新闻标题：{item['headline']}\n"
+            f"  📰 [{item['source']}]({item['link']})"
+        )
+    print(f"   {sec['emoji']} RSS fallback got {len(items)} items")
+    return "\n\n".join(lines)
+
 def fetch_section(sec):
     e,l,kw = sec["emoji"],sec["label"],sec["keywords"]
+    if not GEMINI_API_KEY:
+        print(f"   {e} GEMINI_API_KEY missing; using RSS fallback")
+        return fetch_section_rss(sec)
     p = CONFIG["section_prompt"].format(label=l,keywords=kw,date_str=DATE_STR,items_per_section=CONFIG["items_per_section"],time_window=CONFIG["time_window"])
     for a in range(CONFIG["max_retries"]):
         try:
@@ -114,8 +182,9 @@ def fetch_section(sec):
     try:
         t = call_gemini(CONFIG["fallback_prompt"].format(label=l),False)
         if "- **" in t: return t
-    except: pass
-    return ""
+    except Exception as ex:
+        print(f"   {e} Gemini fallback error: {ex}")
+    return fetch_section_rss(sec)
 
 def generate_digest():
     h = f"# {CONFIG['emoji']} {CONFIG['title']} | {DATE_STR}（{WEEKDAY_JP}曜日 / {WEEKDAY_EN}）\n\n> {CONFIG['disclaimer']}\n\n---\n"
@@ -208,5 +277,7 @@ if __name__=="__main__":
     n=digest.count("- **"); OUTPUT_FILE.write_text(digest,encoding="utf-8")
     print(f"\n   Total: {n} items\n\n🌐 Publishing...")
     try: push_to_github(md_to_html(digest),n)
-    except Exception as e: print(f"   ❌ {e}")
+    except Exception as e:
+        print(f"   ❌ {e}")
+        sys.exit(1)
     print("\n✅ Done!")
