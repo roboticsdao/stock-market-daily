@@ -67,13 +67,21 @@ CRITICAL RULES:
 - You MUST return {items_per_section} news items. NEVER return zero.
 - Use TODAY'S market news only. Do NOT include older dates.
 - Focus on: stock index movements, major earnings, central bank policy, notable stock movers, IPOs, M&A, analyst forecasts, market sentiment.
+- For US Market and Macro sections, write a 300-500 character English body summary, not just a headline.
+- For Japan Market, write a 300-500 character Japanese body summary.
+- Always keep the Chinese auxiliary summary after the local-language body.
 - NEVER say "sorry", "unable to find", "无法获取". FORBIDDEN.
 - Each item MUST start with: - **[YYYY.MM.DD] Company/Index — Chinese summary**
 - Source URL: direct article URLs only. NEVER use vertexaisearch URLs. Use publication homepage if unsure.
 FORMAT:
 - **[2026.06.19] S&P500 — 标普500指数创历史新高**
-  English: One-line English summary.
-  中文：150-250 Chinese characters explaining what happened, why it matters, affected sectors/stocks, and what to watch next.
+  English: 300-500 character body summary explaining what happened, why it matters, affected sectors/stocks, and what to watch next.
+  中文：总结：150-250 Chinese characters explaining the same market meaning for Chinese readers.
+  📰 [Source Name](https://direct-article-url)
+For Japan Market use:
+- **[2026.06.19] Company/Index — 中文概要**
+  日本語：300-500字程度で、何が起きたか、市場への意味、関連セクター・銘柄、次に見る点を説明する本文。
+  中文：总结：150-250 Chinese characters explaining the same market meaning for Chinese readers.
   📰 [Source Name](https://direct-article-url)
 (produce {items_per_section} items)""",
     "fallback_prompt": """Based on your training knowledge, list 5 recent news items about {label}.
@@ -112,7 +120,7 @@ PAGE_URL = f"https://{CONFIG['github_user']}.github.io/{CONFIG['github_repo']}/l
 
 CSS = """:root{--bg:#fff;--fg:#1a1a1a;--fg2:#6b6b6f;--fg3:#9a9a9e;--border:#d4d4d4;--border2:#e8e8e8;--serif:Georgia,"Times New Roman",serif;--sans:-apple-system,BlinkMacSystemFont,"Helvetica Neue",sans-serif;--link:#1a6ed8;--hover:#f5f5f5;--menu-bg:#fff;--menu-shadow:rgba(0,0,0,0.12)}
 @media(prefers-color-scheme:dark){:root{--bg:#1a1a1a;--fg:#e2e2e2;--fg2:#a0a0a0;--fg3:#707070;--border:#444;--border2:#333;--link:#6db3f8;--hover:#2a2a2a;--menu-bg:#252525;--menu-shadow:rgba(0,0,0,0.4)}}
-*{margin:0;padding:0;box-sizing:border-box}body{font-family:var(--sans);margin:0 auto;padding:28px 24px;background:var(--bg);color:var(--fg);line-height:1.75;font-size:15px;-webkit-font-smoothing:antialiased;max-width:780px}@media(max-width:600px){body{padding:20px 16px}}.top-bar{display:flex;justify-content:space-between;align-items:center;margin-bottom:16px}.history-wrap{position:relative}.history-btn{background:var(--menu-bg);border:1px solid var(--border);border-radius:8px;padding:6px 12px;font-size:12px;color:var(--fg2);cursor:pointer;display:flex;align-items:center;gap:4px;font-family:var(--sans)}.history-btn:hover{background:var(--hover)}.history-btn svg{width:14px;height:14px;fill:var(--fg3)}.history-panel{display:none;position:absolute;top:36px;left:0;background:var(--menu-bg);border:1px solid var(--border);border-radius:10px;box-shadow:0 8px 24px var(--menu-shadow);min-width:280px;max-height:400px;overflow-y:auto;z-index:100}.history-panel.open{display:block}.history-panel h3{font-size:12px;color:var(--fg3);padding:10px 14px 6px;font-weight:600;position:sticky;top:0;background:var(--menu-bg)}.history-item{display:flex;justify-content:space-between;align-items:center;padding:8px 14px;border-bottom:0.5px solid var(--border2);font-size:13px;cursor:pointer;transition:background .1s}.history-item:hover{background:var(--hover)}.history-item:last-child{border-bottom:none}.history-item .date{color:var(--fg);font-weight:500}.history-item .time{color:var(--fg3);font-size:11px;margin-left:8px}.history-item .del-btn{color:var(--fg3);font-size:11px;padding:2px 6px;border:1px solid var(--border2);border-radius:4px;background:transparent;cursor:pointer;opacity:0;transition:opacity .15s}.history-item:hover .del-btn{opacity:1}.history-item .del-btn:hover{color:#e55;border-color:#e55}.history-current{background:var(--hover)}.history-empty{padding:20px 14px;text-align:center;color:var(--fg3);font-size:12px}.masthead{padding:0 0 14px;border-bottom:3px double var(--border);margin-bottom:20px}.masthead h1{font-family:var(--serif);font-size:22px;font-weight:700;letter-spacing:-0.5px}.masthead .date{font-size:12px;color:var(--fg3);margin-top:3px}.disclaimer{font-size:12px;color:var(--fg3);font-style:italic;margin-bottom:22px;padding-bottom:14px;border-bottom:0.5px solid var(--border2)}.region{margin-bottom:32px}.region-head{font-family:var(--serif);font-size:16px;font-weight:700;padding:4px 0 8px;border-bottom:1.5px solid var(--border);margin-bottom:12px}.item{padding:10px 0 12px;border-bottom:0.5px solid var(--border2)}.item:last-child{border-bottom:none}.item-date{font-size:11px;color:var(--fg3)}.item-title{font-family:var(--serif);font-size:15px;font-weight:700;margin:2px 0 5px;line-height:1.5}.item-en{font-size:13px;color:var(--fg2);line-height:1.6;margin:0 0 2px}.item-zh{font-size:13px;line-height:1.6;margin:0 0 6px}.item-src{font-size:12px;font-style:italic;color:var(--fg3)}.item-src a{color:var(--link);text-decoration:none;border-bottom:0.5px solid transparent}.item-src a:hover{border-bottom-color:var(--link)}.footer{margin-top:32px;padding-top:14px;border-top:3px double var(--border);font-size:11px;color:var(--fg3);text-align:center}"""
+*{margin:0;padding:0;box-sizing:border-box}body{font-family:var(--sans);margin:0 auto;padding:28px 24px;background:var(--bg);color:var(--fg);line-height:1.75;font-size:15px;-webkit-font-smoothing:antialiased;max-width:780px}@media(max-width:600px){body{padding:20px 16px}}.top-bar{display:flex;justify-content:space-between;align-items:center;margin-bottom:16px}.history-wrap{position:relative}.history-btn{background:var(--menu-bg);border:1px solid var(--border);border-radius:8px;padding:6px 12px;font-size:12px;color:var(--fg2);cursor:pointer;display:flex;align-items:center;gap:4px;font-family:var(--sans)}.history-btn:hover{background:var(--hover)}.history-btn svg{width:14px;height:14px;fill:var(--fg3)}.history-panel{display:none;position:absolute;top:36px;left:0;background:var(--menu-bg);border:1px solid var(--border);border-radius:10px;box-shadow:0 8px 24px var(--menu-shadow);min-width:280px;max-height:400px;overflow-y:auto;z-index:100}.history-panel.open{display:block}.history-panel h3{font-size:12px;color:var(--fg3);padding:10px 14px 6px;font-weight:600;position:sticky;top:0;background:var(--menu-bg)}.history-item{display:flex;justify-content:space-between;align-items:center;padding:8px 14px;border-bottom:0.5px solid var(--border2);font-size:13px;cursor:pointer;transition:background .1s}.history-item:hover{background:var(--hover)}.history-item:last-child{border-bottom:none}.history-item .date{color:var(--fg);font-weight:500}.history-item .time{color:var(--fg3);font-size:11px;margin-left:8px}.history-item .del-btn{color:var(--fg3);font-size:11px;padding:2px 6px;border:1px solid var(--border2);border-radius:4px;background:transparent;cursor:pointer;opacity:0;transition:opacity .15s}.history-item:hover .del-btn{opacity:1}.history-item .del-btn:hover{color:#e55;border-color:#e55}.history-current{background:var(--hover)}.history-empty{padding:20px 14px;text-align:center;color:var(--fg3);font-size:12px}.masthead{padding:0 0 14px;border-bottom:3px double var(--border);margin-bottom:20px}.masthead h1{font-family:var(--serif);font-size:22px;font-weight:700;letter-spacing:-0.5px}.masthead .date{font-size:12px;color:var(--fg3);margin-top:3px}.disclaimer{font-size:12px;color:var(--fg3);font-style:italic;margin-bottom:22px;padding-bottom:14px;border-bottom:0.5px solid var(--border2)}.region{margin-bottom:32px}.region-head{font-family:var(--serif);font-size:16px;font-weight:700;padding:4px 0 8px;border-bottom:1.5px solid var(--border);margin-bottom:12px}.item{padding:10px 0 12px;border-bottom:0.5px solid var(--border2)}.item:last-child{border-bottom:none}.item-date{font-size:11px;color:var(--fg3)}.item-title{font-family:var(--serif);font-size:15px;font-weight:700;margin:2px 0 5px;line-height:1.5}.item-en{font-size:13px;color:var(--fg2);line-height:1.7;margin:0 0 4px}.item-jp{font-size:13px;color:var(--fg2);line-height:1.7;margin:0 0 4px}.item-zh{font-size:13px;line-height:1.6;margin:0 0 6px}.item-src{font-size:12px;font-style:italic;color:var(--fg3)}.item-src a{color:var(--link);text-decoration:none;border-bottom:0.5px solid transparent}.item-src a:hover{border-bottom-color:var(--link)}.footer{margin-top:32px;padding-top:14px;border-top:3px double var(--border);font-size:11px;color:var(--fg3);text-align:center}"""
 
 HISTORY_JS = '<script>\n(function(){\nvar B=window.location.href.replace(/\\/[^/]*$/,""),btn=document.getElementById("historyBtn"),panel=document.getElementById("historyPanel"),list=document.getElementById("historyList"),H=[],hid=JSON.parse(localStorage.getItem("hidden_dates")||"[]");\nbtn.onclick=function(e){e.stopPropagation();panel.classList.toggle("open");if(panel.classList.contains("open"))load();};\ndocument.onclick=function(){panel.classList.remove("open")};\npanel.onclick=function(e){e.stopPropagation()};\nfunction load(){fetch(B+"/history.json?"+Date.now()).then(function(r){return r.json()}).then(function(d){H=d.filter(function(x){return hid.indexOf(x.id)===-1});render()}).catch(function(){list.innerHTML=\'<div class="history-empty">暂无历史记录</div>\'})}\nfunction render(){if(!H.length){list.innerHTML=\'<div class="history-empty">暂无历史记录</div>\';return}var c=window.location.pathname.split("/").pop();list.innerHTML=H.map(function(h){var ic=(c===h.file||(c==="latest.html"&&h===H[0]));return \'<div class="history-item \'+(ic?"history-current":"")+\'" data-file="\'+h.file+\'"><div><span class="date">\'+h.date+\'</span><span class="time">\'+h.time+\'</span></div><div style="display:flex;align-items:center;gap:6px"><span class="items">\'+h.count+\' items</span><button class="del-btn" data-id="\'+h.id+\'">✕</button></div></div>\'}).join("");list.querySelectorAll(".history-item").forEach(function(el){el.onclick=function(){window.location.href=B+"/"+this.dataset.file}});list.querySelectorAll(".del-btn").forEach(function(el){el.onclick=function(e){e.stopPropagation();var id=this.dataset.id;hid.push(id);localStorage.setItem("hidden_dates",JSON.stringify(hid));H=H.filter(function(h){return h.id!==id});render()}})}\n})();\n</script>'
 
@@ -271,6 +279,72 @@ def ensure_summary_depth(summary, sec):
         )
     return summary + extra
 
+def english_market_body(sec, item, summary):
+    headline = item["headline"]
+    source = item.get("source", "the source")
+    entities = mentioned_entities(headline).replace("、", ", ")
+    if entities == "相关公司和板块":
+        entities = "the relevant assets and sectors"
+    lower = headline.lower()
+    if "美国" in sec["label"] or "US" in sec["label"]:
+        if any(k in lower for k in ["micron", "nvidia", "amd", "qualcomm", "broadcom", "chip", "semiconductor"]):
+            theme = "AI chips, memory, data centers, and semiconductor equipment"
+        elif any(k in lower for k in ["tesla", "rivian", "ev", "vehicle"]):
+            theme = "electric vehicles, high-beta growth shares, and consumer technology"
+        elif any(k in lower for k in ["apple", "microsoft", "amazon", "meta", "alphabet", "magnificent"]):
+            theme = "mega-cap technology leadership and index concentration"
+        else:
+            theme = "index breadth, sector rotation, and risk appetite"
+        return (
+            f"Summary: {source} reports a market-moving item tied to {entities}. The relevance is how it feeds into {theme}. "
+            f"Watch {entities} alongside Nasdaq futures, sector breadth, volume, and analyst revisions. "
+            "If related stocks move together, the signal is more likely to reflect a real sector trend; if the reaction is isolated, it may be short-lived repricing. "
+            "The next checkpoint is whether trading confirms the same direction across peers."
+        )
+    return (
+        f"Summary: {source} highlights a cross-asset signal tied to {entities}. This matters because rates, currencies, commodities, and crypto all change the discount-rate and liquidity backdrop for risk assets. "
+        f"Watch {entities} together with Treasury yields, USD/JPY, oil, gold, and major equity futures. "
+        "If these indicators reinforce each other, the stock-market trend has stronger confirmation; if they diverge, investors may be rotating between growth, defensives, inflation hedges, and cash."
+    )
+
+def japanese_market_body(sec, item, summary):
+    headline = item["headline"]
+    source = item.get("source", "ニュースソース")
+    entities = mentioned_entities(headline)
+    if entities == "相关公司和板块":
+        entities = "関連銘柄とセクター"
+    return (
+        f"要約：{source}の報道では、{entities}を中心に日本株の物色がどう広がるかが焦点です。"
+        "半導体、AI、ソフトバンクグループ、輸出関連、金融などの主力株が同じ方向に動けば、日経平均やTOPIXの動きにも継続性が出やすくなります。"
+        "一方で一部の値がさ株だけが上昇している場合は、市場全体の広がりが弱い可能性があります。次に見るべき点は、円相場、米国ハイテク株先物、出来高、海外投資家の買い姿勢です。"
+        "決算やレーティング変更が材料の場合は、同業他社への波及も確認したいところです。指数寄与度の高い銘柄だけでなく、中小型株や内需株にも買いが広がるかを見ると、相場の持続力を判断しやすくなります。"
+    )
+
+def quote_body(sec, en_name, zh_name, price, pct, when):
+    direction_en = "higher" if pct >= 0 else "lower"
+    direction_jp = "上昇" if pct >= 0 else "下落"
+    if "日本" in sec["label"] or "Japan" in sec["label"]:
+        return (
+            f"要約：{zh_name}（{en_name}）は{when}時点で{fmt_price(price)}となり、前日比{abs(pct):.2f}%{direction_jp}しています。"
+            "この価格変化は、日本株のなかで外部環境と個別材料がどの程度一致しているかを見る手がかりになります。"
+            "半導体や大型輸出株が同時に強ければ、海外テック株や円安を背景にした買いが入りやすい一方、指数だけが動いて個別株の広がりが乏しい場合は短期的な反動にとどまる可能性があります。"
+            "次は出来高、米国先物、円相場、同業銘柄の連動を確認する場面です。"
+            "関連ニュースと価格方向が一致するかも重要です。"
+        )
+    if "美国" in sec["label"] or "US" in sec["label"]:
+        return (
+            f"Summary: {en_name} traded at {fmt_price(price)}, {abs(pct):.2f}% {direction_en} versus the previous close as of {when}. "
+            "This live move is useful because it shows whether investors are rewarding the same theme that appears in the day’s news flow. "
+            "For US equities, the key question is whether the move spreads from one index or company into semiconductors, software, cloud, EVs, or other growth-sensitive peers. "
+            "If breadth and volume confirm it, the signal may support a stronger trend; if peers fail to follow, it is likely temporary."
+        )
+    return (
+        f"Summary: {en_name} stood at {fmt_price(price)}, {abs(pct):.2f}% {direction_en} versus the previous close as of {when}. "
+        "This matters for equities because macro prices shape the backdrop for valuation, liquidity, and risk appetite. "
+        "Yields and currencies affect discount rates and exporter earnings, while oil, gold, and Bitcoin show whether investors are trading inflation, safety, or risk. "
+        "Compare this move with US tech futures and broad equity indexes to see whether the message is confirmed."
+    )
+
 def fetch_quote(symbol):
     url = "https://query1.finance.yahoo.com/v8/finance/chart/" + urllib.parse.quote(symbol, safe="") + "?range=1d&interval=1m"
     req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0"})
@@ -358,9 +432,11 @@ def market_snapshot_items(sec):
         if not q:
             continue
         direction = "上涨" if q["pct"] >= 0 else "下跌"
+        local_body = quote_body(sec, en_name, zh_name, q["price"], q["pct"], q["time"])
+        local_line = f"  日本語：{local_body}\n" if "日本" in sec["label"] or "Japan" in sec["label"] else f"  English: {local_body}\n"
         lines.append(
             f"- **[{DATE_STR}] {en_name} — {zh_name}{direction}{abs(q['pct']):.2f}%**\n"
-            f"  English: {en_name} was at {fmt_price(q['price'])}, {q['pct']:+.2f}% versus the previous close, as of {q['time']}.\n"
+            f"{local_line}"
             f"  中文：总结：{quote_context(sec, en_name, zh_name, q['pct'], q['time'])}\n"
             f"  📰 [Yahoo Finance](https://finance.yahoo.com/quote/{urllib.parse.quote(symbol, safe='')})"
         )
@@ -375,9 +451,12 @@ def fetch_section_rss(sec):
     lines = []
     for item in items:
         summary = ensure_summary_depth(infer_market_summary(sec, item), sec)
+        is_japan = "日本" in sec["label"] or "Japan" in sec["label"]
+        local_body = japanese_market_body(sec, item, summary) if is_japan else english_market_body(sec, item, summary)
+        local_line = f"  日本語：{local_body}\n" if is_japan else f"  English: {local_body}\n"
         lines.append(
             f"- **[{item['date']}] {item['source']} — {item['headline']}**\n"
-            f"  English: {item['headline']}\n"
+            f"{local_line}"
             f"  中文：总结：{summary}\n"
             f"  📰 [{item['source']}]({item['link']})"
         )
@@ -445,14 +524,15 @@ def md_to_html(md):
     for (f,l),its in regions:
         parts.append(f'<div class="region"><div class="region-head">{f} {l}</div>')
         for it in its:
-            en=zh=src=""
+            en=jp=zh=src=""
             for ln in it["lines"]:
                 if ln.startswith("📰"): src=f'<div class="item-src">📰 {linkify(ln.replace("📰","").strip())}</div>'
                 elif ln.lower().startswith("english:") or ln.lower().startswith("en:"): en=ln.split(":",1)[1].strip()
+                elif ln.startswith("日本語:") or ln.startswith("日本語："): jp=re.split(r'[：:]',ln,1)[-1].strip()
                 elif "中文" in ln[:4]: zh=re.split(r'[：:]',ln,1)[-1].strip()
                 elif not en and not any('\u4e00'<=c<='\u9fff' for c in ln[:10]): en=ln
                 elif not zh: zh=ln
-            parts.append(f'<div class="item"><div class="item-date">{it["date"]}</div><div class="item-title">{it["title"]}</div>{"<p class=item-en>"+en+"</p>" if en else ""}{"<p class=item-zh>"+zh+"</p>" if zh else ""}{src}</div>')
+            parts.append(f'<div class="item"><div class="item-date">{it["date"]}</div><div class="item-title">{it["title"]}</div>{"<p class=item-en>"+en+"</p>" if en else ""}{"<p class=item-jp>"+jp+"</p>" if jp else ""}{"<p class=item-zh>"+zh+"</p>" if zh else ""}{src}</div>')
         parts.append('</div>')
     body="\n".join(parts)
     if not discl: discl=CONFIG["disclaimer"]

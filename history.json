@@ -1,34 +1,10 @@
 [
   {
-    "id": "20260626_0127",
+    "id": "20260626_0146",
     "date": "2026.06.26",
-    "time": "01:27 JST",
+    "time": "01:46 JST",
     "weekday": "金曜日 / Friday",
     "file": "Stock_Market_Daily_20260626.html",
-    "count": 19
-  },
-  {
-    "id": "20260625_1544",
-    "date": "2026.06.25",
-    "time": "15:44 JST",
-    "weekday": "木曜日 / Thursday",
-    "file": "Stock_Market_Daily_20260625.html",
     "count": 24
-  },
-  {
-    "id": "20260624_1229",
-    "date": "2026.06.24",
-    "time": "12:29 JST",
-    "weekday": "水曜日 / Wednesday",
-    "file": "Stock_Market_Daily_20260624.html",
-    "count": 17
-  },
-  {
-    "id": "20260623_1020",
-    "date": "2026.06.23",
-    "time": "10:20 JST",
-    "weekday": "火曜日 / Tuesday",
-    "file": "Stock_Market_Daily_20260623.html",
-    "count": 23
   }
 ]
