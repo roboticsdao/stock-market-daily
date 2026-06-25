@@ -7,129 +7,110 @@
 
 ## 🇺🇸 美国股市 / US Market
 
-- **[2026.06.25] NDTV Profit — AMD, Intel, Qualcomm Ride On Micron's Bullish Forecast As AI Chip Stocks Soar Up To 19%**
-  English: AMD, Intel, Qualcomm Ride On Micron's Bullish Forecast As AI Chip Stocks Soar Up To 19%
-  中文：总结：Micron、AMD、Intel、Qualcomm 把美股科技线的核心驱动重新拉回 AI 芯片、存储和半导体供应链。如果相关公司业绩指引或订单预期继续改善，资金往往会从指数层面转向更具体的半导体、服务器、数据中心和 AI 基础设施个股。短线需要观察 Nvidia、AMD、Broadcom、Micron、Qualcomm 等是否同步放量，以及 Nasdaq 是否由少数龙头扩散到更多科技成分股。
-  📰 [NDTV Profit](https://news.google.com/rss/articles/CBMiyAFBVV95cUxOQUM3d0ZoRXpBQ0h1eFpEYW9rQzFBQ2lVeUNudjluNkh0WW5CeURTaWE1SVBpblA3dFJjM2NSQ1l2ZEJRckxRZFppbk5tQzM0cmF2UmtuX0FLdTIwZ3ZORmhnQXJpS2hvQXp5UWk1SUNQS2pBYi1OZEhPMzI0eTRWalNyY1FWeWVadzRTLVJ6MklUYkZZbjU0Z3kwTTBhYkxMZXRsMzlMSlJocXdnR3Nocm8tZEVZMWFHRVZVaGZLQjF2Vm0wQ0I4U9IB0AFBVV95cUxQWVMxbjJ4S2s4ZmgwUDBWM2NvNlZEcG1rWkZmVEJ0bmJNLWJxTnBld09JUUxvNW9MWFZTWTUzbjI0YjZTRno4U3FhSnI4Y1dKa2hYbUY3QURUWWs2V3ZCMU55V1YzQkVYZG1rYm55T0pKcjVhemFRbm1aRGh0NkxNUVV0dWxPaTE1eW5sOWp5ZTJnR1Jzb09wd1VwekNYWEFGcVNCaFdxSU5vOEVMM1YxdGpfWlNmcnhic0lkOEprVG11RnRZY1N2cDRkODRqVjRW?oc=5)
+以下是关于美国股市的8条最新消息：
 
-- **[2026.06.25] BNN Bloomberg — Global chip stocks surge as blowout Micron results reignite AI rally**
-  English: Global chip stocks surge as blowout Micron results reignite AI rally
-  中文：总结：Micron 把美股科技线的核心驱动重新拉回 AI 芯片、存储和半导体供应链。如果相关公司业绩指引或订单预期继续改善，资金往往会从指数层面转向更具体的半导体、服务器、数据中心和 AI 基础设施个股。短线需要观察 Nvidia、AMD、Broadcom、Micron、Qualcomm 等是否同步放量，以及 Nasdaq 是否由少数龙头扩散到更多科技成分股。实盘上还应观察期货开盘后的成交量、期权隐含波动率、龙头股是否带动同业，以及资金是否从指数权重股扩散到中小型成长股。如果消息只推动单一公司而板块没有跟随，趋势持续性会弱一些；如果半导体、软件、云计算和电力基础设施同时响应，说明市场正在交易更完整的 AI 资本开支链条。
-  📰 [BNN Bloomberg](https://news.google.com/rss/articles/CBMiugFBVV95cUxPcjI2VDRYbXNTYTFvLXVWdHp4eU1oVm1nV2hWYjFNak0yNUtsMHhVcEdHUjhmT2xNeWF5cHRXZFZBMFlmUFZCWklDNVlDSjhSX2NiU29RalF4UWRNUTdPeC05cW52NUFUNFhZQkpqaEVpb1dobzF1NU50NGxnZlJiUTlxaWFlS1NvWEM3OHRTZlJMZVBwTmRvbGRmZTB6ZVV0bVZUQ053Yl9iZXZlaDQ4clZObFdUUmFfSVE?oc=5)
+- **[2026.06.26] NASDAQ 100指数 — 纳斯达克100指数涨幅扩大至1%**
+  English: The NASDAQ 100 index saw its gains expand to 1% today.
+  中文：今日美国股市开盘后，纳斯达克100指数表现强劲，涨幅一度扩大至1%。此上涨反映了市场对科技股的乐观情绪，尤其是在近期科技巨头财报和AI相关利好消息的推动下。投资者应关注科技板块的持续动能以及可能的技术回调风险。
+  📰 [财联社](https://www.google.com/search?q=US)
 
-- **[2026.06.25] Barron's — Micron Is the New Nvidia, It Just Changed the AI Game**
-  English: Micron Is the New Nvidia, It Just Changed the AI Game
-  中文：总结：Nvidia、Micron 把美股科技线的核心驱动重新拉回 AI 芯片、存储和半导体供应链。如果相关公司业绩指引或订单预期继续改善，资金往往会从指数层面转向更具体的半导体、服务器、数据中心和 AI 基础设施个股。短线需要观察 Nvidia、AMD、Broadcom、Micron、Qualcomm 等是否同步放量，以及 Nasdaq 是否由少数龙头扩散到更多科技成分股。
-  📰 [Barron's](https://news.google.com/rss/articles/CBMilwFBVV95cUxOaC03Qi15MWNQU3pjQzlkd192cGNqaENIQlZYWGJETkY5ZjdSZ08tRlJiMmpEN28xWlhSVjM3U3FJbVJkTnhQc19yUUVsUmFocl9kUHlnTXhJMmRlM2lsLTNvWWE3XzRPZ1pGaFBDS3dMX1RCRF9BMVdUM3pMMUQ2YXVuWHBVX0d0R2ZxVmRpU1M0UzM4OEZ3?oc=5)
+- **[2026.06.26] S&P500 ETF-Vanguard — 标普500ETF-Vanguard今日除权除息**
+  English: Vanguard S&P 500 ETF goes ex-dividend today, distributing $1.9622 per share.
+  中文：Vanguard标普500 ETF（VOO.US）于2026年6月26日进行除权除息，每股派发股息1.9622美元。这意味着在股权登记日持有该ETF的投资者将获得现金股息，但除权日股价将相应调整。此举是ETF的常规操作，对长期投资者影响较小，但短期可能引起股价波动。
+  📰 [Moomoo](https://www.google.com/search?q=US)
 
-- **[2026.06.25] Benzinga — Why Is NVIDIA Stock Gaining Thursday?**
-  English: Why Is NVIDIA Stock Gaining Thursday?
-  中文：总结：Nvidia 把美股科技线的核心驱动重新拉回 AI 芯片、存储和半导体供应链。如果相关公司业绩指引或订单预期继续改善，资金往往会从指数层面转向更具体的半导体、服务器、数据中心和 AI 基础设施个股。短线需要观察 Nvidia、AMD、Broadcom、Micron、Qualcomm 等是否同步放量，以及 Nasdaq 是否由少数龙头扩散到更多科技成分股。实盘上还应观察期货开盘后的成交量、期权隐含波动率、龙头股是否带动同业，以及资金是否从指数权重股扩散到中小型成长股。如果消息只推动单一公司而板块没有跟随，趋势持续性会弱一些；如果半导体、软件、云计算和电力基础设施同时响应，说明市场正在交易更完整的 AI 资本开支链条。
-  📰 [Benzinga](https://news.google.com/rss/articles/CBMikwFBVV95cUxOa280MXBtOGZJS0dvUEgzVEd4V1ZfZHBvMzE3Q19PSGkwWWh2d3ZUUWlIbEJnTzBzb2tiTGJxX2pNYXJBY0c2dkdEX1JOX2UyYkpGX1ZMaHprelRPZGxJb3lWWEdTb2p2Qi1LbXR5ZXZyU0FyaWNqeVZMbzVicHhYVUJJZ1ViMm0ySDRFQ1o3bzRtTkU?oc=5)
+- **[2026.06.26] 美光科技 — 财报超预期提振芯片股**
+  English: Micron Technology's better-than-expected earnings outlook boosts chip stocks and US equity futures.
+  中文：美光科技（Micron Technology）公布了远超华尔街预期的业绩展望，为近期走势疲软的科技股注入强心针。此消息强化了人工智能投资周期的看涨逻辑，推动美国股指期货走强，特别是芯片板块股票盘后全线上涨。市场将密切关注AI相关存储芯片需求的持续增长。
+  📰 [新浪财经](https://www.google.com/search?q=US)
 
-- **[2026.06.25] Silicon Republic — Micron, Qualcomm shares surge after strong quarter, new chip deals**
-  English: Micron, Qualcomm shares surge after strong quarter, new chip deals
-  中文：总结：Micron、Qualcomm 把美股科技线的核心驱动重新拉回 AI 芯片、存储和半导体供应链。如果相关公司业绩指引或订单预期继续改善，资金往往会从指数层面转向更具体的半导体、服务器、数据中心和 AI 基础设施个股。短线需要观察 Nvidia、AMD、Broadcom、Micron、Qualcomm 等是否同步放量，以及 Nasdaq 是否由少数龙头扩散到更多科技成分股。
-  📰 [Silicon Republic](https://news.google.com/rss/articles/CBMirgFBVV95cUxNZV9acy13QnZsdlUyaC00a2xuZjFXeE9CdEZhcDVkQ1gwaWZsZDVrNURqMEo1NHloOFE0czVMbzJ0VFF4aUJOclE4SEd6Q2tsQ2ZDVzB2dW9zMC1RN0JwcTZJOHpnWklYc1l0eVAwNjZwaF9VU1BMYjI2NkR4Y3VvTFdXTUFDTjRaeHV5Ny1Mb3ZoVFNTb3ViQTBVbzlrODZ3aThGSUZwenZYN09WYlE?oc=5)
+- **[2026.06.26] 英伟达 — GeForce NOW联动Steam夏季促销**
+  English: NVIDIA's GeForce NOW launches a summer membership promotion in conjunction with the Steam Summer Sale starting today.
+  中文：英伟达（NVIDIA）宣布其GeForce NOW云游戏服务将与Steam夏季促销活动联动，推出夏季会员优惠。Steam夏季促销于6月26日零时开启，英伟达的促销活动同步进行。这显示了英伟达在游戏服务领域的市场策略，旨在通过云游戏服务进一步扩大用户基础，对公司未来营收有积极影响。
+  📰 [DoNews快讯](https://www.google.com/search?q=US)
 
-- **[2026.06.25] firstonline.info — Stocks are buoyed today by Micron and Qualcomm's earnings, and tech stocks are celebrating. The Kospi jumps 6%**
-  English: Stocks are buoyed today by Micron and Qualcomm's earnings, and tech stocks are celebrating. The Kospi jumps 6%
-  中文：总结：Micron、Qualcomm 把美股科技线的核心驱动重新拉回 AI 芯片、存储和半导体供应链。如果相关公司业绩指引或订单预期继续改善，资金往往会从指数层面转向更具体的半导体、服务器、数据中心和 AI 基础设施个股。短线需要观察 Nvidia、AMD、Broadcom、Micron、Qualcomm 等是否同步放量，以及 Nasdaq 是否由少数龙头扩散到更多科技成分股。
-  📰 [firstonline.info](https://news.google.com/rss/articles/CBMi-gFBVV95cUxORE1uNERPUU1GcHlkX19OOHUyczM3TEdkNEdFeGFBd1RWLWhGb3czZFFYeTFxX2dSLXRYUEd2ODN4ZVdHYnA1UV82TXJyS1BrcTYwR2Y4WEhoV05XRF9rX1J2WlpsbHV4OFoydWdZWThaaW5IbzQtbldrU24tV2dlckZtMV9wTl9lckR2dFBfUmUwVE5NeXpocElGVGxLQVQxTlBuckFYWkx1aExxNWliWnV4U21ndkJEU1NkWC1aem5NZm93N1hBRnJJRmlCczFrcnE4aFVwYW5PVVZJckExUE9uMG51UWVDeHZfbnFLTzlUSHV4cEFlcjJn?oc=5)
+- **[2026.06.26] 特斯拉 — 计划年底前在美国推出三排六座Model Y L**
+  English: Tesla plans to launch the three-row, six-seat Model Y L in the US market by the end of 2026.
+  中文：特斯拉（Tesla）计划在2026年底前于美国市场推出加长版Model Y L车型，该车型已在中国等市场销售。此举旨在填补Model X停产后的产品空白，并满足美国市场对更大空间电动SUV的需求。Model Y L的推出有望进一步巩固特斯拉在电动汽车市场的领导地位，并提振其在美国的销量。
+  📰 [DoNews](https://www.google.com/search?q=US)
 
-- **[2026.06.25] Crypto Briefing — Micron and Qualcomm forecasts drive $400B AI chip stock rally**
-  English: Micron and Qualcomm forecasts drive $400B AI chip stock rally
-  中文：总结：Micron、Qualcomm 把美股科技线的核心驱动重新拉回 AI 芯片、存储和半导体供应链。如果相关公司业绩指引或订单预期继续改善，资金往往会从指数层面转向更具体的半导体、服务器、数据中心和 AI 基础设施个股。短线需要观察 Nvidia、AMD、Broadcom、Micron、Qualcomm 等是否同步放量，以及 Nasdaq 是否由少数龙头扩散到更多科技成分股。
-  📰 [Crypto Briefing](https://news.google.com/rss/articles/CBMicEFVX3lxTFA0VFF6ZnM3c1BvN3dDbmZuRmYyOU1aQnVjbU1qVTl1d3FmS19zZk96WExyeE1XRG1TZktMdTZ5U2tsQ2RGUXg5dVgtM1RmVEQ5NUN5Ukp3ajJSNVdKVVRqQzFJNDNOdkNkN0xwUk9jUkg?oc=5)
+- **[2026.06.26] 整体股市指数ETF-Vanguard — 今日除权除息**
+  English: Vanguard Total Stock Market ETF goes ex-dividend today, distributing $1.0437 per share.
+  中文：Vanguard整体股市指数ETF（VTI.US）于2026年6月26日进行除权除息，每股派发股息1.0437美元。与标普500 ETF类似，这是该基金的例行分红，反映了其所持股票的收益分配。投资者需注意除权除息对股价的短期影响，但长期投资价值不受影响。
+  📰 [Moomoo](https://www.google.com/search?q=US)
 
-- **[2026.06.25] TradingView — AI Chip Stocks Stage Rebound: Nvidia, AMD Lead Recovery Ahead of Micron Earnings Shock**
-  English: AI Chip Stocks Stage Rebound: Nvidia, AMD Lead Recovery Ahead of Micron Earnings Shock
-  中文：总结：Nvidia、Micron、AMD 把美股科技线的核心驱动重新拉回 AI 芯片、存储和半导体供应链。如果相关公司业绩指引或订单预期继续改善，资金往往会从指数层面转向更具体的半导体、服务器、数据中心和 AI 基础设施个股。短线需要观察 Nvidia、AMD、Broadcom、Micron、Qualcomm 等是否同步放量，以及 Nasdaq 是否由少数龙头扩散到更多科技成分股。
-  📰 [TradingView](https://news.google.com/rss/articles/CBMi3AFBVV95cUxNX3R0SldMUHVoZE1DdFdXNE8xZnJyUVNVSnFIRWxFcUdCVDc4WUhlN2dhOVJRNlZpdGJWX1ROa2pacy13TUR4MjNBdDNEVDUzWUZiSTFJWE41b19CdzBMUGFwU3dvT19uNC1mZUVxM01oVGtGcENFUWNYRTIyc1Bxa2FVMVBUWVZFeFgwblN2Ty1aQkFBVVJZd1RwZXBmVGdmYTVYYjRlejRocERxS3BHa2FIUnVRT2pnVnUyelBiNjk1dkExX3ptc3pNc1d0TEhJNHhmOG1nYUNJcjBD?oc=5)
+- **[2026.06.26] 德尔蒙公司 — 纽约证券交易所股票代码转换**
+  English: Del Monte Company transitions its NYSE stock ticker from FDP to DMC, with the new code effective June 29.
+  中文：原鲜德尔蒙农产品公司（FDP）已更名为德尔蒙公司，并计划于6月29日在纽约证券交易所启用新的股票代码DMC。在6月26日收盘前，公司股票仍以FDP代码交易。此次更名和代码转换标志着德尔蒙品牌近40年来首次归属单一所有者统一运营，是公司发展的重要里程碑。
+  📰 [新浪财经](https://www.google.com/search?q=US)
+
+- **[2026.06.26] 易方达纳斯达克100ETF — 因溢价停牌后复牌**
+  English: E Fund NASDAQ 100 ETF halts trading at market open due to significant premium, resuming at 10:30 AM.
+  中文：易方达纳斯达克100交易型开放式指数证券投资基金（159696）因二级市场交易价格显著高于基金份额参考净值，出现较大幅度溢价，为保护投资者利益，于2026年6月26日开市起停牌，并于当日10:30起复牌。停牌期间，赎回业务照常办理。
+  📰 [Readhub](https://www.google.com/search?q=US)
 
 ## 🇯🇵 日本株式市場 / Japan Market
 
-- **[2026.06.25] ゴールドオンライン — 日経平均は「72,366.34円」と今年3番目の急騰で最高値更新…米マイクロン好決算でプライム上昇率トップ3を独占した〈半導体・AI関連株〉【6月25日の国内株式市場概況】 | ゴールドオンライン**
-  English: 日経平均は「72,366.34円」と今年3番目の急騰で最高値更新…米マイクロン好決算でプライム上昇率トップ3を独占した〈半導体・AI関連株〉【6月25日の国内株式市場概況】 | ゴールドオンライン
-  中文：总结：相关公司和板块 把日本市场的焦点集中到半导体和 AI 产业链。日股中东京电子、Advantest、Kioxia、SoftBank Group 等常被视为 AI 基础设施和全球芯片周期的映射。如果海外芯片业绩或 AI 资本开支继续超预期，日经指数可能继续由高权重半导体股推动；同时也要留意日元和海外资金流向。实盘上还要结合日元汇率、外资买卖、美国科技股隔夜表现以及期货盘变化判断。如果日经上涨主要依赖少数半导体权重股，后续容易受海外芯片消息影响；如果汽车、金融、商社和中小盘也同步走强，说明市场宽度更健康。
-  📰 [ゴールドオンライン](https://news.google.com/rss/articles/CBMiUkFVX3lxTE5LdEVqbnZHZkZNcDEzVi1VYVQ4ekc5NVZYZHlmOEZ4WTRJc3VKbTBGT1prT1h2ejN5SjRqM0p1X3h6UE1GT0l6WTVXaV9fQmZqdHc?oc=5)
+以下是2026年6月26日关于日本股市的4至8条最新消息：
 
-- **[2026.06.25] 財経新聞 — 相場展望6月25日号 米国株: 根拠なき熱狂・・NYダウだけが元気 日本株: 海外短期投機筋「売りたい強気」⇒ババ抜き相場の日経平均へ**
-  English: 相場展望6月25日号 米国株: 根拠なき熱狂・・NYダウだけが元気 日本株: 海外短期投機筋「売りたい強気」⇒ババ抜き相場の日経平均へ
-  中文：总结：相关公司和板块 反映日本股市当天的行业轮动和个股表现。对日股来说，指数变化往往由半导体、汽车、金融、商社和 SoftBank 等权重股共同决定。需要结合日元走势、海外科技股表现、日银政策预期和外资买卖，判断行情是单日事件驱动，还是更广泛的趋势延续。实盘上还要结合日元汇率、外资买卖、美国科技股隔夜表现以及期货盘变化判断。如果日经上涨主要依赖少数半导体权重股，后续容易受海外芯片消息影响；如果汽车、金融、商社和中小盘也同步走强，说明市场宽度更健康。
-  📰 [財経新聞](https://news.google.com/rss/articles/CBMiY0FVX3lxTE5rTjByWk05VjYzS2xZeUY3TC1fZWdRZE9NcHBaZU5ucU9nQTYxaDhnN1BPTkJzdEd6QkFFV2M1WkNBU2dpeU55QXZhc0VfVHdMUnozNzhQYXQ4R3gxa0RhT3EwTdIBaEFVX3lxTE5EMXFFY1RyNVkxWUlRX3diSi1HaHNwb20zMzBYUEd0S1YzUG9KT1NXMnVvV1hXSklJdlAwQzJnWGxpZWlTYmF4ejBmcTh6cVJWZFhMc0k0LTNXalFpT3FRdnlBREhoWlhV?oc=5)
+- **[2026.06.26] 日経225先物 — 日経225期貨在26日凌晨大幅下跌**
+  English: Nikkei 225 futures for the September 2026 contract sharply dropped by 1090 yen to 71480 yen at 0:00 on June 26th.
+  中文：2026年6月26日凌晨0点，日经225期貨2026年9月合约较前一日下跌1090日元，收于71480日元。这比日经225现货收盘价72366.34日元低886.34日元，显示出市场开盘前的谨慎情绪，可能预示着今日股市的下行压力。
+  📰 [株探](https://www.google.com/search?q=Japan)
 
-- **[2026.06.25] みんかぶ — 日経平均寄与度ランキング（大引け）～日経平均は大幅に3日ぶり反発、アドバンテストや東エレクが2銘柄で約1681円分押上**
-  English: 日経平均寄与度ランキング（大引け）～日経平均は大幅に3日ぶり反発、アドバンテストや東エレクが2銘柄で約1681円分押上
-  中文：总结：相关公司和板块 把日本市场的焦点集中到半导体和 AI 产业链。日股中东京电子、Advantest、Kioxia、SoftBank Group 等常被视为 AI 基础设施和全球芯片周期的映射。如果海外芯片业绩或 AI 资本开支继续超预期，日经指数可能继续由高权重半导体股推动；同时也要留意日元和海外资金流向。实盘上还要结合日元汇率、外资买卖、美国科技股隔夜表现以及期货盘变化判断。如果日经上涨主要依赖少数半导体权重股，后续容易受海外芯片消息影响；如果汽车、金融、商社和中小盘也同步走强，说明市场宽度更健康。
-  📰 [みんかぶ](https://news.google.com/rss/articles/CBMiRkFVX3lxTE1BT256UG8weXFTVXdrSWZHNlJSbTZGQmFUazNxMFFEYjV0dVBzem9KM05KQkVzTzVNNEpjTW1DTTVXVE9oNWc?oc=5)
+- **[2026.06.26] 日経平均株価 — 日经平均股价再次刷新历史新高**
+  English: The Nikkei Stock Average significantly rebounded and closed on June 25th by updating its all-time high, with the technical analysis report published on June 26th.
+  中文：日经平均股价大幅反弹，从接近10日移动平均线（6月25日为70063日元）的水平开始大幅上涨。在6月25日的交易中，股指进一步走高，最终收盘价刷新了6月22日创下的历史新高（72353日元）。9日RSI指标在6月25日从71.9%上升至74.9%，显示市场情绪积极，但短期内也需关注过热风险。
+  📰 [外為どっとコム マネ育チャンネル](https://www.google.com/search?q=Japan)
 
-- **[2026.06.25] みんかぶ — 米マイクロンの好決算が刺激材料となり史上最高値更新【クロージング】 投稿日時： 2026/06/25 16:30[フィスコ]**
-  English: 米マイクロンの好決算が刺激材料となり史上最高値更新【クロージング】 投稿日時： 2026/06/25 16:30[フィスコ]
-  中文：总结：相关公司和板块 把日本市场的焦点集中到半导体和 AI 产业链。日股中东京电子、Advantest、Kioxia、SoftBank Group 等常被视为 AI 基础设施和全球芯片周期的映射。如果海外芯片业绩或 AI 资本开支继续超预期，日经指数可能继续由高权重半导体股推动；同时也要留意日元和海外资金流向。实盘上还要结合日元汇率、外资买卖、美国科技股隔夜表现以及期货盘变化判断。如果日经上涨主要依赖少数半导体权重股，后续容易受海外芯片消息影响；如果汽车、金融、商社和中小盘也同步走强，说明市场宽度更健康。
-  📰 [みんかぶ](https://news.google.com/rss/articles/CBMiRkFVX3lxTE1STkF6b2hTUER6dDRoYUlHejA4YVp1OHFnWUVTUGEyTDlFSFZ1N2MxRmVqR0U5MEx6VFFvSE5hYVFXZXFzcFE?oc=5)
+- **[2026.06.26] 外汇市场 — 美元走势取决于未来美国经济指标**
+  English: The dollar's upward trend in the NY session faced some selling, but the yen's depreciation remains strong, with cross-yen pairs rising. Analysts suggest the dollar's ability to maintain its upward trend depends on upcoming US economic indicators.
+  中文：纽约时段，美元的上涨势头遭遇部分抛售，但日元贬值趋势依然强劲。欧元兑日元和英镑兑日元等交叉盘持续上涨，美元兑日元汇率在161.70日元附近徘徊，并试图突破162日元关口。分析师指出，美元能否维持当前涨势，将取决于未来公布的美国经济指标，特别是通胀和劳动力市场数据。
+  📰 [みんかぶ](https://www.google.com/search?q=Japan)
 
-- **[2026.06.25] 日本経済新聞 — キオクシア株、大幅続伸 米マイクロン好決算追い風（25日の株式市場）**
-  English: キオクシア株、大幅続伸 米マイクロン好決算追い風（25日の株式市場）
-  中文：总结：相关公司和板块 把日本市场的焦点集中到半导体和 AI 产业链。日股中东京电子、Advantest、Kioxia、SoftBank Group 等常被视为 AI 基础设施和全球芯片周期的映射。如果海外芯片业绩或 AI 资本开支继续超预期，日经指数可能继续由高权重半导体股推动；同时也要留意日元和海外资金流向。实盘上还要结合日元汇率、外资买卖、美国科技股隔夜表现以及期货盘变化判断。如果日经上涨主要依赖少数半导体权重股，后续容易受海外芯片消息影响；如果汽车、金融、商社和中小盘也同步走强，说明市场宽度更健康。
-  📰 [日本経済新聞](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTmNsRnFwaEhBY3pUdE9MMXZfVDA3WFVGMHJ3NHBTRFpra0dtVV9xRHprbm81UTJsSWlLb1FKcF9uODY3OEcyVEt3ZFZNZUpjTTlOYkZZRmFlV1pQb25yUEJQYUVMaU1pUVZ0WThJUzYtMTlKUzRPMUYzdkJ1aWI2MHQwcHdHTTFiX2l6WmlFTlY2YzBSdmdieFNyblpNRFJleWt0ang0alM?oc=5)
+- **[2026.06.26] 外汇市场/原油 — 原油价格下跌，但日元兑美元汇率依然坚挺**
+  English: Despite falling crude oil prices, the dollar-yen exchange rate remains firm, with market focus shifting from Middle East tensions.
+  中文：尽管原油价格下跌，日元兑美元汇率却依然坚挺。文章分析了美元保持韧性的原因，即使在美伊停火预期下，WTI原油价格已跌破每桶80美元。市场焦点已从中东紧张局势转向其他因素，这可能对日本出口商的收益产生持续影响。
+  📰 [週刊エコノミスト Online](https://www.google.com/search?q=Japan)
 
-- **[2026.06.25] 日本経済新聞 — 日経平均午前2679円高、マイクロン決算「満点以上」でAIラリー復活**
-  English: 日経平均午前2679円高、マイクロン決算「満点以上」でAIラリー復活
-  中文：总结：相关公司和板块 把日本市场的焦点集中到半导体和 AI 产业链。日股中东京电子、Advantest、Kioxia、SoftBank Group 等常被视为 AI 基础设施和全球芯片周期的映射。如果海外芯片业绩或 AI 资本开支继续超预期，日经指数可能继续由高权重半导体股推动；同时也要留意日元和海外资金流向。实盘上还要结合日元汇率、外资买卖、美国科技股隔夜表现以及期货盘变化判断。如果日经上涨主要依赖少数半导体权重股，后续容易受海外芯片消息影响；如果汽车、金融、商社和中小盘也同步走强，说明市场宽度更健康。
-  📰 [日本経済新聞](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQc25sUU1FWlUyMU82ZXQ0Tmhyc0k5Skk1aEQ4SElGWk5VdXFpVGlQcGxBbU1aaTdhY21pUUZlSHBtdjYtZmwxOUE3WnVlYzE5VFlQcFoxTTVaREF4QmI3ZXZkNnk4X0FhcXRMNnJ4NEVHUlVIcnkteWxKa0RpNFc4UXl4ZVd3c3ZSQ0xBZ1RvYjN1VmhPNXNZZTdIclJNODdxN1JIRkVnM1c?oc=5)
-
-- **[2026.06.25] 株探 — ◎午前１１時現在の値上がり値下がり銘柄数**
-  English: ◎午前１１時現在の値上がり値下がり銘柄数
-  中文：总结：相关公司和板块 反映日本股市当天的行业轮动和个股表现。对日股来说，指数变化往往由半导体、汽车、金融、商社和 SoftBank 等权重股共同决定。需要结合日元走势、海外科技股表现、日银政策预期和外资买卖，判断行情是单日事件驱动，还是更广泛的趋势延续。实盘上还要结合日元汇率、外资买卖、美国科技股隔夜表现以及期货盘变化判断。如果日经上涨主要依赖少数半导体权重股，后续容易受海外芯片消息影响；如果汽车、金融、商社和中小盘也同步走强，说明市场宽度更健康。
-  📰 [株探](https://news.google.com/rss/articles/CBMiYEFVX3lxTE5HeVpyQVVSUVdMc21nOVA4MkxHTWRrRlFLd0FYLXVuQnlNeFhhNkFGMU9KRXBwX0VCRUs0cm1HOHFUSjZfcW5NU1hYbjY3WXFGSkdZR0RGYUY5YlJPYzc3VA?oc=5)
-
-- **[2026.06.25] 株探 — 株価指数先物【寄り前】 マイクロン決算を受けてロングが強まる可能性**
-  English: 株価指数先物【寄り前】 マイクロン決算を受けてロングが強まる可能性
-  中文：总结：相关公司和板块 把日本市场的焦点集中到半导体和 AI 产业链。日股中东京电子、Advantest、Kioxia、SoftBank Group 等常被视为 AI 基础设施和全球芯片周期的映射。如果海外芯片业绩或 AI 资本开支继续超预期，日经指数可能继续由高权重半导体股推动；同时也要留意日元和海外资金流向。实盘上还要结合日元汇率、外资买卖、美国科技股隔夜表现以及期货盘变化判断。如果日经上涨主要依赖少数半导体权重股，后续容易受海外芯片消息影响；如果汽车、金融、商社和中小盘也同步走强，说明市场宽度更健康。
-  📰 [株探](https://news.google.com/rss/articles/CBMiYEFVX3lxTE12NnlfZE9xRHh0Tk1RVkhwd0FaM1gycnJ0SktDSGx2djRvODlhN3RweVh4NV9qVE90WGg0Y213djZiaURGUHBqUmZHRWhjWVktQ2x5MGJxU3RzWkU3a25WQQ?oc=5)
+- **[2026.06.26] 松屋アールアンドディ — 松屋R&D公司股票将于7月17日退市**
+  English: Matsuya R&D Co.,Ltd. (Code: 7317) will be delisted from the Growth Market on July 17, 2026, and its stock will be excluded from securities in lieu of money from June 26, 2026.
+  中文：日本交易所集团宣布，松屋アールアンドディ（Matsuya R&D Co.,Ltd.，代码：7317）的股票将于2026年7月17日从Growth Market退市。自2026年6月26日起，该公司股票将不再作为保证金交易和发行日结算交易的代用有价证券。退市原因是该公司因特殊控股股东要求现金收购股票而符合退市条件。
+  📰 [Japan Exchange Group - JPX](https://www.google.com/search?q=Japan)
 
 ## 🌍 宏观经济与投资 / Macro & Investment
 
-- **[2026.06.25] Economies.com — Dollar nears a 13-month high as bets on higher interest rates increase**
-  English: Dollar nears a 13-month high as bets on higher interest rates increase
-  中文：总结：相关公司和板块 正在影响美元、日元、美债收益率和全球风险资产定价。利率和汇率变化会通过折现率、企业融资成本和跨境资金流影响股票估值，尤其是高估值科技股和出口导向型日股。后续要观察 Fed 预期、美债收益率曲线、USD/JPY 以及黄金和比特币等避险/风险资产是否同步确认。实盘上要看该宏观信号是否同时影响美元、利率、商品和股指。如果美元与美债收益率继续上行，高估值科技股可能承压；如果黄金、原油或比特币与股市出现背离，则说明市场对通胀、避险或流动性的判断还不一致。
-  📰 [Economies.com](https://news.google.com/rss/articles/CBMiswFBVV95cUxNVmFMRE1Qd2NDUGFCRWIzRzhTVGFvMUdFOGxwZlFhd2lPZEhtRGN0Q3BoRnNKLURJa0JKeFhfV0o3enpjd1p1UWZlTERtZENmOVgzc2J1NGtyemNpSVNjb2gxUms5angwdjN6cFViLTZQY1E3d3dYU09Uc0RQdEl0S3VsVmJHYlZCQTU5ODRMQ3ZuNGxmVVI0Z0k2V25uTXR2N2FrTml6cVVVTXNHcXltLWhfVQ?oc=5)
+以下是关于宏观经济与投资的最新消息：
 
-- **[2026.06.25] Devdiscourse — Dollar Dominance: U.S. Currency Surges Amid Inflation Speculation**
-  English: Dollar Dominance: U.S. Currency Surges Amid Inflation Speculation
-  中文：总结：相关公司和板块 正在影响美元、日元、美债收益率和全球风险资产定价。利率和汇率变化会通过折现率、企业融资成本和跨境资金流影响股票估值，尤其是高估值科技股和出口导向型日股。后续要观察 Fed 预期、美债收益率曲线、USD/JPY 以及黄金和比特币等避险/风险资产是否同步确认。实盘上要看该宏观信号是否同时影响美元、利率、商品和股指。如果美元与美债收益率继续上行，高估值科技股可能承压；如果黄金、原油或比特币与股市出现背离，则说明市场对通胀、避险或流动性的判断还不一致。
-  📰 [Devdiscourse](https://news.google.com/rss/articles/CBMivAFBVV95cUxNVGo1bFRvQk5uNm1tOWVEOXZXMTZ1OWxKTE1FVmlQSFYzQlduRVpuaGZoZHVtNzJYN1RmTjRfT3RqdlVjYmZpZGxiXy1YMTBsWHpDaVRQSU9vb2JRYWpXal9PS2pjZXpTOU8tTWhONXdpRjZ4WW84QkVheThfX2NNemY1b2pXMHNRX0lrcDlNSGF0MUlfVy1UVW9GM3RoYy1YZDJZaW1GQ2ZhYnA4VVpOQXhWSUJyckY1UTMzRdIBvAFBVV95cUxNVGo1bFRvQk5uNm1tOWVEOXZXMTZ1OWxKTE1FVmlQSFYzQlduRVpuaGZoZHVtNzJYN1RmTjRfT3RqdlVjYmZpZGxiXy1YMTBsWHpDaVRQSU9vb2JRYWpXal9PS2pjZXpTOU8tTWhONXdpRjZ4WW84QkVheThfX2NNemY1b2pXMHNRX0lrcDlNSGF0MUlfVy1UVW9GM3RoYy1YZDJZaW1GQ2ZhYnA4VVpOQXhWSUJyckY1UTMzRQ?oc=5)
+- **[2026.06.26] 企业财报 — 今日多家公司发布财报**
+  English: Several companies are scheduled to report earnings today, June 26, 2026, across various sectors including Industrials, Healthcare, Communication Services, Consumer Cyclical, and Technology.
+  中文：2026年6月26日，多家公司计划公布其最新财报，涵盖工业、医疗保健、通信服务、非必需消费品和科技等多个行业。投资者将密切关注这些财报，以评估企业盈利能力、行业趋势及整体市场情绪。其中，工业板块报告数量最多，可能对相关供应链和设备制造商产生影响。市场将关注盈利指引和未来展望，以判断经济复苏的持续性。
+  📰 [Sharemaestro](https://www.sharemaestro.com/earnings-reports/2026-06-26)
 
-- **[2026.06.25] FOREX.com — Gold, USD/JPY Forecast: Two trades to watch**
-  English: Gold, USD/JPY Forecast: Two trades to watch
-  中文：总结：USD/JPY、Gold 属于需要和股市一起观察的跨资产信号。原油、黄金和比特币的变化会反映通胀预期、避险需求和风险偏好，对能源股、资源股、科技股估值和美元走势都有间接影响。如果这些资产与股指同向或背离，往往能提示市场是在交易增长、通胀，还是避险。实盘上要看该宏观信号是否同时影响美元、利率、商品和股指。如果美元与美债收益率继续上行，高估值科技股可能承压；如果黄金、原油或比特币与股市出现背离，则说明市场对通胀、避险或流动性的判断还不一致。
-  📰 [FOREX.com](https://news.google.com/rss/articles/CBMimgFBVV95cUxOcWNGdXl3Xzh2VlVpMFR0OWlkYktuWUVkb1hrT3N6YnlVRGpOMEV6b293MnNxTjdfRUJnTk5LLV9yRVozcm5tWmp2Z0dzdmtkakV0VExVSnZGLS1TTVlranA2cXJZc0tZVjdWWUhzUVA4MmFLRENvcDJEajYyM09zcWFlb3dtN25wZHd6bnVKWFNqUENlc2xrZHdB0gGaAUFVX3lxTE5xY0Z1eXdfOHZWVWkwVHQ5aWRiS25ZRWRvWGtPc3pieVVEak4wRXpvb3cyc3FON19FQmdOTkstX3JFWjNybm1aanZnR3N2a2RqRXRUTFVKdkYtLVNNWWtqcDZxcllzS1lWN1ZZSHNRUDgyYUtEQ29wMkRqNjIzT3NxYWVvd203bnBkd3pudUpYU2pQQ2VzbGtkd0E?oc=5)
+- **[2026.06.26] 美国GDP — 2026年第一季度美国实际GDP终值超预期增长2.1%**
+  English: The third estimate for the U.S. real GDP in the first quarter of 2026 showed an annual growth rate of 2.1%, surpassing earlier forecasts and accelerating from the previous quarter.
+  中文：美国商务部经济分析局于2026年6月25日公布的第三次估算显示，2026年第一季度美国实际国内生产总值（GDP）按年率计算增长2.1%，高于此前1.6%的预期，并较2025年第四季度0.5%的增速显著加快。此次上修主要得益于投资、出口、政府支出和消费者支出的增加。这一数据表明美国经济在年初表现出超预期的韧性，可能对美联储的货币政策路径产生影响，市场将关注其对通胀和利率预期的后续作用。
+  📰 [Advisor Perspectives](https://www.advisorperspectives.com/dshort/updates/2026/06/25/q1-gdp-third-estimate-real-gdp-at-2-1-higher-than-expected)
 
-- **[2026.06.25] Global Banking & Finance Review — Dollar Strength Surges on Fed Rate-Hike Bets and Stronger US Economy**
-  English: Dollar Strength Surges on Fed Rate-Hike Bets and Stronger US Economy
-  中文：总结：相关公司和板块 正在影响美元、日元、美债收益率和全球风险资产定价。利率和汇率变化会通过折现率、企业融资成本和跨境资金流影响股票估值，尤其是高估值科技股和出口导向型日股。后续要观察 Fed 预期、美债收益率曲线、USD/JPY 以及黄金和比特币等避险/风险资产是否同步确认。实盘上要看该宏观信号是否同时影响美元、利率、商品和股指。如果美元与美债收益率继续上行，高估值科技股可能承压；如果黄金、原油或比特币与股市出现背离，则说明市场对通胀、避险或流动性的判断还不一致。
-  📰 [Global Banking & Finance Review](https://news.google.com/rss/articles/CBMigwFBVV95cUxOMFJvX1dTTkl5TjBMS2t3LU11alRwX05XWnlvYmRYelo4YVN3SUhSdjRVR0tSanNMY21qUWR3Y1IyMGFZZEdsTTk1NktGUW0zbEtXNzM3ek15VURpN3dPTkhKOHdzSExGQ1RmcGNtWUVpRl9femhBX25DMXFxZm9VRWt2aw?oc=5)
+- **[2026.06.26] 美国通胀 — 美联储6月通胀预测显示核心PCE仍高企，整体通胀有望小幅回落**
+  English: The Federal Reserve's updated June inflation forecast, discussed on June 25, 2026, indicates that while the Cleveland Fed's tool projects a modest decline in overall June inflation to 4.01%, the Core Personal Consumption Expenditures (PCE) estimate remains flat at 3.3%, suggesting persistent underlying price pressures.
+  中文：2026年6月25日公布的美联储最新6月通胀预测显示，尽管克利夫兰联储的通胀即时预测工具预计6月整体通胀将小幅回落至4.01%，但美联储偏爱的核心个人消费支出（PCE）估值仍维持在3.3%不变。这表明能源价格回落可能带来部分缓解，但通胀压力已渗透到美国经济的其他领域，核心通胀的粘性可能促使美联储维持鹰派立场，甚至考虑进一步加息。
+  📰 [The Motley Fool](https://www.fool.com/investing/2026/06/25/the-newest-federal-reserve-june-inflation-forecast-is-a-good-news-bad-news-scenario-for-wall-street/)
 
-- **[2026.06.25] Devdiscourse — EU Bonds Steady as Oil Prices Decline**
-  English: EU Bonds Steady as Oil Prices Decline
-  中文：总结：Oil 属于需要和股市一起观察的跨资产信号。原油、黄金和比特币的变化会反映通胀预期、避险需求和风险偏好，对能源股、资源股、科技股估值和美元走势都有间接影响。如果这些资产与股指同向或背离，往往能提示市场是在交易增长、通胀，还是避险。实盘上要看该宏观信号是否同时影响美元、利率、商品和股指。如果美元与美债收益率继续上行，高估值科技股可能承压；如果黄金、原油或比特币与股市出现背离，则说明市场对通胀、避险或流动性的判断还不一致。
-  📰 [Devdiscourse](https://news.google.com/rss/articles/CBMimwFBVV95cUxPTUdtR2dXXzNGbjFaNkJINGJvckNubVItSnJSWXJ5blZhSGdnOTM4Ty1pT2lTaVlwWlhHV0RzM1V2dWlDOHZ5RE5KUlExdjBJRS1qdDI0RnN4ZVJYY0tCTHlqOG80ME9uM09wTW90QUsxdTlrQ1M3YVh1cDJyOGRZZjRXYW1VNm85b3k2TDFEMFdPYlJtUEdUeGpoRdIBmwFBVV95cUxPTUdtR2dXXzNGbjFaNkJINGJvckNubVItSnJSWXJ5blZhSGdnOTM4Ty1pT2lTaVlwWlhHV0RzM1V2dWlDOHZ5RE5KUlExdjBJRS1qdDI0RnN4ZVJYY0tCTHlqOG80ME9uM09wTW90QUsxdTlrQ1M3YVh1cDJyOGRZZjRXYW1VNm85b3k2TDFEMFdPYlJtUEdUeGpoRQ?oc=5)
+- **[2026.06.26] 原油 — 今日WTI原油价格预计将有所反弹**
+  English: WTI crude oil is expected to recover on June 26, 2026, with forecasts suggesting trading within a specific range, influenced by geopolitical tensions and global inventory levels.
+  中文：根据2026年6月25日的预测，西德克萨斯中质原油（WTI）价格在2026年6月26日有望出现反弹。分析师预计，WTI原油将在71.73美元至106.74美元的区间内波动，其表现将取决于地缘政治紧张局势、霍尔木兹海峡石油运输的潜在中断、不断扩大的供应缺口以及全球原油库存的下降。投资者需关注今日的实际价格走势及相关地缘政治新闻。
+  📰 [FXStreet](https://www.fxstreet.com/commodities/oil-price-forecast-and-analysis)
 
-- **[2026.06.25] Devdiscourse — Dollar's Rally Shakes Global Markets: A Tidal Surge in Currency Waves**
-  English: Dollar's Rally Shakes Global Markets: A Tidal Surge in Currency Waves
-  中文：总结：相关公司和板块 正在影响美元、日元、美债收益率和全球风险资产定价。利率和汇率变化会通过折现率、企业融资成本和跨境资金流影响股票估值，尤其是高估值科技股和出口导向型日股。后续要观察 Fed 预期、美债收益率曲线、USD/JPY 以及黄金和比特币等避险/风险资产是否同步确认。实盘上要看该宏观信号是否同时影响美元、利率、商品和股指。如果美元与美债收益率继续上行，高估值科技股可能承压；如果黄金、原油或比特币与股市出现背离，则说明市场对通胀、避险或流动性的判断还不一致。
-  📰 [Devdiscourse](https://news.google.com/rss/articles/CBMiwwFBVV95cUxNamwzdzNIRUx4RklwdzdJNDIwT2NlYmN3X1lxa2p1X1NnSkN5S0xCLWdEV0hWOUN0Q1R5X1c3VUtkbDZORWM5Yk9ZWHM4ZW9uSVV1TjRnT21JUktoUFZFMktjLTBld0RGT2p6SmlJMXY2cTBVMTdDQThMejlidGZyU0ZZdXl0Vkp1QmI2Y1BJVmpjZm1zcnFtNDYxTzJzN3M2emQtdVBsZmJQeVJ6VndFSVVSMWlFRnEzdGNRTjlMUEdjdGfSAcMBQVVfeXFMTWpsM3czSEVMeEZJcHc3STQyME9jZWJjd19ZcWtqdV9TZ0pDeUtMQi1nRFdIVjlDdENUeV9XN1VLZGw2TkVjOWJPWVhzOGVvbklVdU40Z09tSVJLaFBWRTJLYy0wZXdERk9qekppSTF2NnEwVTE3Q0E4THo5YnRmclNGWXV5dFZKdUJiNmNQSVZqY2Ztc3JxbTQ2MU8yczdzNnpkLXVQbGZiUHlSelZ3RUlVUjFpRUZxM3RjUU45TFBHY3Rn?oc=5)
+- **[2026.06.26] 外汇USD/JPY — 美元兑日元汇率今日预测市场显示波动区间**
+  English: The US Dollar to Japanese Yen (USD/JPY) exchange rate prediction market for June 26, 2026, indicates expected trading ranges, reflecting ongoing market sentiment and potential for intervention.
+  中文：2026年6月26日的美元兑日元（USD/JPY）汇率预测市场显示，该货币对今日可能在特定区间内波动。市场参与者正在评估多种合约，例如高于161.5、161.75或162.25的概率。这一预测反映了市场对日本央行潜在干预的担忧以及美日利差等因素对汇率的影响，投资者将密切关注今日的实际交易情况。
+  📰 [Robinhood](https://robinhood.com/contract/US-Dollar-to-Japanese-Yen-Exchange-Rate-June-26-2026-FX-Prediction-Market)
 
-- **[2026.06.25] investingLive — investingLive Americas FX news wrap 24 Jun: Dollar rally extends as risk-off mood deepens**
-  English: investingLive Americas FX news wrap 24 Jun: Dollar rally extends as risk-off mood deepens
-  中文：总结：相关公司和板块 正在影响美元、日元、美债收益率和全球风险资产定价。利率和汇率变化会通过折现率、企业融资成本和跨境资金流影响股票估值，尤其是高估值科技股和出口导向型日股。后续要观察 Fed 预期、美债收益率曲线、USD/JPY 以及黄金和比特币等避险/风险资产是否同步确认。实盘上要看该宏观信号是否同时影响美元、利率、商品和股指。如果美元与美债收益率继续上行，高估值科技股可能承压；如果黄金、原油或比特币与股市出现背离，则说明市场对通胀、避险或流动性的判断还不一致。
-  📰 [investingLive](https://news.google.com/rss/articles/CBMiyAFBVV95cUxOZ0tMU2FWdUZIWjBaa3lCZlcxbFIzWnNlMXNKQURlN2lBVEEwQVBxTHhIRDRuOVBRcDhwY0tURnpZN1NXbnBvVzJmckdKQ004NHR3N1JvWmlVbWNiVzI4UVlhZXFVcXA2eFBJdU5zNHA5eFctc25UbkpYSS1IT1NpV3g2LWFsbG1SR01PSm9oMjFYNTVIZDc2VTNJLS1rSWdkN2RWT2N4anVQaFV2S282OGxVdjh5SHlaQjFVNFQ5VVVlN1dMWG55Zg?oc=5)
-
-- **[2026.06.25] FXStreet — US Treasury yields slide as Hormuz reopening eases inflation fears**
-  English: US Treasury yields slide as Hormuz reopening eases inflation fears
-  中文：总结：相关公司和板块 正在影响美元、日元、美债收益率和全球风险资产定价。利率和汇率变化会通过折现率、企业融资成本和跨境资金流影响股票估值，尤其是高估值科技股和出口导向型日股。后续要观察 Fed 预期、美债收益率曲线、USD/JPY 以及黄金和比特币等避险/风险资产是否同步确认。实盘上要看该宏观信号是否同时影响美元、利率、商品和股指。如果美元与美债收益率继续上行，高估值科技股可能承压；如果黄金、原油或比特币与股市出现背离，则说明市场对通胀、避险或流动性的判断还不一致。
-  📰 [FXStreet](https://news.google.com/rss/articles/CBMirgFBVV95cUxOOW1JclVZZ0FxcWF1RXQzQ3pGOWw5ZU1fcklKX0xXcGlrZWwxR2p3Z21fdW9QTmZ0ZzE3Vk5iTTFiYVU3MVhUeDB2WE50OXJGUlA3aGZ5T3VHc0k0dGZqTl8yalpoaDN2WkhMclozR2QzdjBHWE1IbTFDLUhBSnhOWFdjTXBmSE5GcGV5a1JVSTR6SklDVFpLU1hfNkJxZ2dOTUxEc2pJdERrdkJERWc?oc=5)
+- **[2026.06.26] 美国国债收益率 — 6个月期美国国库券收益率在6月25日小幅上升**
+  English: The yield on the US 6-Month Bill Bond rose to 3.95% on June 25, 2026, marking a slight increase from the previous session, reflecting recent movements in the bond market.
+  中文：2026年6月25日，6个月期美国国库券收益率升至3.95%，较前一交易日上涨0.01个百分点。尽管过去一个月该收益率累计上涨0.19个百分点，但仍比一年前低0.30个百分点。这一最新数据为今日债券市场开盘定下基调，反映出市场对短期利率和经济前景的最新评估。
+  📰 [Trading Economics](https://tradingeconomics.com/united-states/6-month-bill-yield)
 
 ---
 ※Stock Market Daily Digest | 2026.06.26
