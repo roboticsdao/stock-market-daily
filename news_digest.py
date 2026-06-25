@@ -22,16 +22,41 @@ CONFIG = {
             "emoji": "🇺🇸",
             "label": "美国股市 / US Market",
             "keywords": "US stock market S&P500 NASDAQ Dow Jones NYSE earnings Fed rate cut Wall Street tech stocks NVIDIA Apple Microsoft Amazon Tesla",
+            "rss_queries": [
+                "Nvidia Micron AMD Qualcomm AI chip stocks today shares earnings",
+                "Nvidia stock today AI chips Nasdaq Wall Street",
+                "Apple stock today Micron tech rally price hikes Nasdaq",
+                "Tesla stock today Wall Street shares analyst",
+                "AI chip stocks today Nvidia Broadcom AMD Micron semiconductor shares",
+                "US stock movers today technology AI earnings analyst upgrade downgrade",
+                "Magnificent Seven stocks today Nvidia Tesla Apple Microsoft Amazon Meta Alphabet",
+                "United States stock market sectors technology stocks today",
+            ],
+            "exclude_terms": ["ETF", "Vanguard", "SpaceX", "No-Brainer Buy", "Better Buy", "over the past decade"],
         },
         {
             "emoji": "🇯🇵",
             "label": "日本株式市場 / Japan Market",
             "keywords": "Japan stock market Nikkei 225 TOPIX 日経平均 東証 日本株 日銀 金利 円安 半導体 トヨタ ソニー 決算",
+            "rss_queries": [
+                "日経平均 日本株 個別銘柄 半導体 AI ソフトバンク 東京エレクトロン アドバンテスト",
+                "日本株 値上がり 値下がり 銘柄 決算 レーティング",
+                "東京エレクトロン アドバンテスト 半導体株 日経平均",
+                "ソフトバンクグループ 株価 AI データセンター",
+                "トヨタ ソニー 任天堂 日本株 今日",
+            ],
+            "exclude_terms": ["ETF", "投資信託"],
         },
         {
             "emoji": "🌍",
             "label": "宏观经济与投资 / Macro & Investment",
             "keywords": "global economy GDP inflation interest rate central bank bond yield currency forex USD JPY trade tariff oil gold crypto Bitcoin ETF",
+            "rss_queries": [
+                "global markets today dollar yen treasury yields oil gold bitcoin inflation rates",
+                "Federal Reserve rate cut treasury yields dollar yen stock market today",
+                "oil prices gold prices bitcoin today markets",
+                "Japan yen dollar Bank of Japan rates today markets",
+            ],
         },
     ],
     "items_per_section": "4 to 8",
@@ -57,7 +82,7 @@ Format: - **[YYYY.MM.DD] Company/Index — 中文概要**
   English: summary
   中文：摘要
   📰 [Source](https://url)""",
-    "disclaimer": "⚠ 本日报只收录当天新闻与当时市场快照；数据仅供参考，不构成投资建议。",
+    "disclaimer": "⚠ 本日报优先收录最近24小时的市场新闻、个股异动与当时市场快照；数据仅供参考，不构成投资建议。",
     "history_days": 90,
     "model": "gemini-2.5-flash",
     "temperature": 0.3,
@@ -72,6 +97,7 @@ LOCAL_TZ = timezone(timedelta(hours=CONFIG["tz_offset"]))
 TODAY = datetime.now(LOCAL_TZ)
 DATE_STR = TODAY.strftime("%Y.%m.%d")
 TIME_STR = TODAY.strftime("%H:%M")
+NEWS_CUTOFF = TODAY - timedelta(hours=24)
 WEEKDAY_MAP = {0:"月",1:"火",2:"水",3:"木",4:"金",5:"土",6:"日"}
 WEEKDAY_EN = TODAY.strftime("%A")
 WEEKDAY_JP = WEEKDAY_MAP[TODAY.weekday()]
@@ -118,40 +144,44 @@ def parse_google_news_title(title):
 
 def fetch_rss_items(sec, limit=8):
     if "日本" in sec["label"] or "Japan" in sec["label"]:
-        query = "日経平均 日本株 TOPIX 東証 株式市場 日銀 円"
         hl, gl, ceid = "ja", "JP", "JP:ja"
     elif "美国" in sec["label"] or "US" in sec["label"]:
-        query = "stock market today S&P 500 Nasdaq Dow Wall Street earnings Fed"
         hl, gl, ceid = "en-US", "US", "US:en"
     else:
-        query = "global markets economy inflation interest rates dollar yen oil gold bitcoin"
         hl, gl, ceid = "en-US", "US", "US:en"
-    query = f"{query} when:1d"
-    params = {"q": query, "hl": hl, "gl": gl, "ceid": ceid}
-    url = "https://news.google.com/rss/search?" + urllib.parse.urlencode(params)
-    req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0"})
-    with urllib.request.urlopen(req, timeout=20) as response:
-        root = ET.fromstring(response.read())
-
+    queries = sec.get("rss_queries") or [sec["keywords"]]
+    exclude_terms = sec.get("exclude_terms", [])
     items, seen = [], set()
-    for node in root.findall("./channel/item"):
-        headline, source = parse_google_news_title(node.findtext("title", ""))
-        link = node.findtext("link", "")
-        published = node.findtext("pubDate", "")
-        if not headline or headline.lower() in seen:
-            continue
-        seen.add(headline.lower())
-        try:
-            dt = datetime.strptime(published, "%a, %d %b %Y %H:%M:%S %Z").replace(tzinfo=timezone.utc).astimezone(LOCAL_TZ)
-            date = dt.strftime("%Y.%m.%d")
-        except Exception:
-            date = DATE_STR
-        if date != DATE_STR:
-            continue
-        items.append({"date": date, "headline": headline, "source": source, "link": link})
-        if len(items) >= limit:
-            break
-    return items
+    for query in queries:
+        params = {"q": f"{query} when:1d", "hl": hl, "gl": gl, "ceid": ceid}
+        url = "https://news.google.com/rss/search?" + urllib.parse.urlencode(params)
+        req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0"})
+        with urllib.request.urlopen(req, timeout=20) as response:
+            root = ET.fromstring(response.read())
+
+        for node in root.findall("./channel/item"):
+            headline, source = parse_google_news_title(node.findtext("title", ""))
+            link = node.findtext("link", "")
+            published = node.findtext("pubDate", "")
+            if not headline:
+                continue
+            combined = f"{headline} {source}"
+            if any(term.lower() in combined.lower() for term in exclude_terms):
+                continue
+            key = re.sub(r"\W+", "", headline.lower())[:90]
+            if key in seen:
+                continue
+            try:
+                dt = datetime.strptime(published, "%a, %d %b %Y %H:%M:%S %Z").replace(tzinfo=timezone.utc).astimezone(LOCAL_TZ)
+            except Exception:
+                dt = TODAY
+            if dt < NEWS_CUTOFF:
+                continue
+            seen.add(key)
+            items.append({"date": dt.strftime("%Y.%m.%d"), "headline": headline, "source": source, "link": link, "dt": dt})
+            if len(items) >= limit:
+                return sorted(items, key=lambda x: x["dt"], reverse=True)
+    return sorted(items, key=lambda x: x["dt"], reverse=True)
 
 def fetch_quote(symbol):
     url = "https://query1.finance.yahoo.com/v8/finance/chart/" + urllib.parse.quote(symbol, safe="") + "?range=1d&interval=1m"
@@ -178,16 +208,23 @@ def market_snapshot_items(sec):
     if "日本" in sec["label"] or "Japan" in sec["label"]:
         targets = [
             ("^N225", "Nikkei 225", "日经225"),
+            ("8035.T", "Tokyo Electron", "东京电子"),
+            ("6857.T", "Advantest", "爱德万测试"),
+            ("9984.T", "SoftBank Group", "软银集团"),
             ("7203.T", "Toyota", "丰田汽车"),
             ("6758.T", "Sony Group", "索尼集团"),
-            ("9984.T", "SoftBank Group", "软银集团"),
         ]
     elif "美国" in sec["label"] or "US" in sec["label"]:
         targets = [
             ("^GSPC", "S&P 500", "标普500"),
             ("^IXIC", "Nasdaq Composite", "纳斯达克综合指数"),
-            ("^DJI", "Dow Jones", "道琼斯指数"),
             ("NVDA", "NVIDIA", "英伟达"),
+            ("AAPL", "Apple", "苹果"),
+            ("MSFT", "Microsoft", "微软"),
+            ("TSLA", "Tesla", "特斯拉"),
+            ("AVGO", "Broadcom", "博通"),
+            ("AMD", "AMD", "超威半导体"),
+            ("MU", "Micron", "美光"),
         ]
     else:
         targets = [
@@ -229,9 +266,9 @@ def fetch_section_rss(sec):
             f"  中文：新闻标题：{item['headline']}\n"
             f"  📰 [{item['source']}]({item['link']})"
         )
-    if len(lines) < 4:
+    if len(lines) < 8:
         snapshot = market_snapshot_items(sec)
-        lines.extend(snapshot[: max(0, 4 - len(lines))])
+        lines.extend(snapshot[: max(0, 8 - len(lines))])
     print(f"   {sec['emoji']} RSS/current fallback got {len(lines)} items")
     return "\n\n".join(lines)
 
