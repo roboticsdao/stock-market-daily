@@ -7,145 +7,145 @@
 
 ## 🇺🇸 美国股市 / US Market
 
-以下是关于美国股市的5到10条最新消息：
+以下是5到10条关于美国股市的最新消息：
 
-- **[2026.06.24] 美国股市 — 标普500和纳斯达克指数下跌，道琼斯指数上涨**
-  English: On June 24, 2026, the S&P 500 and Nasdaq Composite closed lower, while the Dow Jones Industrial Average rose, with tech stocks weighing on the broader market.
-  中文：2026年6月24日，标普500指数和纳斯达克综合指数收盘下跌，而道琼斯工业平均指数上涨，科技股拖累大盘。
-  📰 [The Economic Times](https://www.google.com/search?q=US)
+- **[2026.06.24] 美国股市 — 美股周三收盘涨跌不一，科技股拖累纳指和标普500下跌**
+  English: US stocks closed mixed on Wednesday, with the Dow rising, but the S&P 500 and Nasdaq falling due to declines in tech stocks.
+  中文：美股周三收盘涨跌不一，道指上涨，但标普500和纳斯达克指数受科技股下跌拖累收低。
+  📰 [The Washington Post](https://www.washingtonpost.com/business/2026/06/25/us-stock-indexes-wednesday-6-24-2026/)
 
-- **[2026.06.24] 美光科技 (Micron Technology) — 财报发布前市场关注度高**
-  English: Micron Technology's earnings report, scheduled for after the closing bell on June 24, 2026, was highly anticipated by investors as a key test for AI sentiment, with analysts expecting strong sales and EPS.
-  中文：美光科技定于2026年6月24日收盘后发布的财报备受投资者期待，被视为人工智能市场情绪的关键考验，分析师预计销售额和每股收益将表现强劲。
-  📰 [TheStreet](https://www.google.com/search?q=US)
+- **[2026.06.24] 美光科技 (Micron Technology) — 美光科技第三财季财报大超预期，盘后股价飙升**
+  English: Micron Technology's Q3 earnings significantly exceeded expectations, with substantial revenue and profit growth, causing its stock to surge in after-hours trading and boosting confidence in the AI sector.
+  中文：美光科技第三财季财报大超预期，营收和利润大幅增长，盘后股价飙升，提振AI板块信心。
+  📰 [TheStreet](https://www.thestreet.com/markets/stock-market-today-june-24-2026-nasdaq-sp-500-fall-before-microns-after-hours-earnings)
 
-- **[2026.06.24] 美联储 — 华尔街预计2026年将加息**
-  English: Bank of America and Deutsche Bank now expect the U.S. Federal Reserve to raise interest rates three times in 2026 (September, October, and December) under new Chair Kevin Warsh, a significant hawkish shift from their previous forecasts of steady rates.
-  中文：美国银行和德意志银行目前预计，在新任主席凯文·沃什的领导下，美联储将在2026年加息三次（9月、10月和12月），这与此前维持利率不变的预测相比，是一个显著的鹰派转变。
-  📰 [TheStreet](https://www.google.com/search?q=US)
+- **[2026.06.24] 科技股 — 华尔街科技股和工业股大幅下跌，投资者担忧AI估值过高**
+  English: Wall Street experienced a sharp decline in tech and industrial stocks, fueled by investor concerns over AI spending and elevated valuations in the semiconductor sector, with the Philadelphia Semiconductor Index tumbling significantly.
+  中文：华尔街科技股和工业股大幅下跌，投资者对AI支出和半导体行业估值过高感到担忧，费城半导体指数暴跌。
+  📰 [Yahoo Finance](https://finance.yahoo.com/news/stock-market-news-jun-24-132200780.html)
 
-- **[2026.06.24] 标普500 — 华尔街分析师预计下半年股市将上涨**
-  English: Wall Street analysts anticipate further upside for U.S. stocks in the second half of 2026, with a median year-end target of 7,850 for the S&P 500, implying a 5% increase from its current level of 7,473.
-  中文：华尔街分析师预计2026年下半年美国股市将进一步上涨，标普500指数的年终目标中位数为7,850点，意味着较当前7,473点的水平有5%的上涨空间。
-  📰 [The Motley Fool](https://www.google.com/search?q=US)
+- **[2026.06.24] 美联储 (Fed) — 美国银行和德意志银行预计美联储将在2026年加息三次**
+  English: Bank of America and Deutsche Bank now anticipate the Federal Reserve will raise interest rates three times in 2026, citing economic resilience and a more hawkish stance under new Chair Kevin Warsh, a shift from earlier predictions of stable rates.
+  中文：美国银行和德意志银行预计美联储将在2026年加息三次，新任主席凯文·沃什的鹰派立场和经济韧性是主要原因。
+  📰 [24/7 Wall St.](https://247wallst.com/investing/2026/06/23/here-are-tuesdays-best-wall-street-analyst-research-calls-centene-darden-restaurants-flutter-entertainment-ge-healthcare-ibm-nike-spacex-synopsys-target-and-more/)
 
-- **[2026.06.24] SpaceX — 历史性IPO后股价波动**
-  English: SpaceX completed a historic IPO in Q2 2026, raising $75 billion and achieving a $1.7 trillion market capitalization at listing, though its initial trading was volatile.
-  中文：SpaceX于2026年第二季度完成了历史性的首次公开募股，筹集了750亿美元，上市时市值达到1.7万亿美元，但其首次交易表现波动。
-  📰 [Renaissance Capital](https://www.google.com/search?q=US)
+- **[2026.06.24] Alphabet — 谷歌母公司Alphabet将于下周正式加入道琼斯工业平均指数**
+  English: Google's parent company, Alphabet, is set to officially join the Dow Jones Industrial Average next week, replacing Verizon, making it the fifth "Magnificent Seven" company to be included in the index.
+  中文：谷歌母公司Alphabet将于下周正式加入道琼斯工业平均指数，取代威瑞森，成为道指中第五家“七巨头”公司。
+  📰 [BNN Bloomberg](https://www.bnnbloomberg.ca/u-s-stocks-end-mixed-weighed-down-by-more-losses-for-tech-giants-1.2471694)
 
-- **[2026.06.24] 科技股 — 估值过高引发抛售**
-  English: Major technology stocks, including Microsoft and NVIDIA, experienced declines for a third consecutive day due to concerns about stretched valuations and profit-taking after a strong AI-driven rally.
-  中文：包括微软和英伟达在内的主要科技股连续第三天出现下跌，原因是市场担忧估值过高以及人工智能驱动的强劲上涨后出现的获利回吐。
-  📰 [The Washington Times](https://www.google.com/search?q=US)
+- **[2026.06.24] 原油价格 — 油价下跌，美伊谈判缓解供应担忧**
+  English: Oil prices continued to decline on Wednesday amidst negotiations between the U.S. and Iran for a potential end to their conflict, alleviating supply concerns and inflationary pressures.
+  中文：随着美国和伊朗就结束冲突进行谈判，原油价格周三继续下跌，缓解了供应担忧和通胀压力。
+  📰 [The Washington Post](https://www.washingtonpost.com/business/2026/06/25/us-stock-indexes-wednesday-6-24-2026/)
 
-- **[2026.06.24] Take-Two Interactive (TTWO) — BTIG给予“买入”评级**
-  English: BTIG initiated a "buy" rating on Take-Two Interactive with a price target of $290 per share, noting the stock's strong performance ahead of Grand Theft Auto VI pre-sales.
-  中文：BTIG对Take-Two Interactive启动了“买入”评级，目标价为每股290美元，指出该股在《侠盗猎车手VI》预售前表现强劲。
-  📰 [Stock Market Live June 24, 2026: S&P 500 (SPY) Attempting to Regain Momentum](https://www.google.com/search?q=US)
+- **[2026.06.24] 高通 (Qualcomm) — 高通以40亿美元收购AI芯片初创公司Modular**
+  English: Qualcomm announced its acquisition of AI chip startup Modular for approximately $4 billion in an all-stock deal, intending to bolster its AI software capabilities across diverse chip architectures.
+  中文：高通宣布以约40亿美元全股票交易收购AI芯片初创公司Modular，旨在增强其跨芯片运行AI模型的软件技术。
+  📰 [火星财经](https://www.huoxing24.com/newsdetail/20260624102923238680.html)
 
-- **[2026.06.24] Alphabet (GOOGL) — 将加入道琼斯工业平均指数**
-  English: Alphabet is set to replace Verizon in the Dow Jones Industrial Average next week, becoming the fifth "Magnificent Seven" company to join the index.
-  中文：Alphabet将于下周取代威瑞森加入道琼斯工业平均指数，成为第五家加入该指数的“七巨头”公司。
-  📰 [NBC Palm Springs](https://www.google.com/search?q=US)
+- **[2026.06.24] OpenAI — OpenAI与博通合作发布首款定制AI推理芯片“Jalapeño”**
+  English: OpenAI, in collaboration with Broadcom, unveiled its inaugural custom AI inference chip, "Jalapeño," specifically engineered for large language models, alongside plans for successive generations of computing platforms.
+  中文：OpenAI与博通合作发布首款定制AI推理芯片“Jalapeño”，专为大型语言模型设计，并公布了多代计算平台计划。
+  📰 [东方财富网](https://finance.eastmoney.com/a/202606252968395568.html)
+
+- **[2026.06.17] 美联储 (Fed) — 美联储6月经济预测摘要显示2026年不会降息**
+  English: The Federal Reserve's June Summary of Economic Projections indicates no rate cuts in 2026, with the policy rate anticipated to reach 3.8% by year-end, a rise from the March projection; Goldman Sachs has also postponed its rate cut forecast to 2027.
+  中文：美联储6月经济预测摘要显示2026年不会降息，政策利率预计年底达到3.8%，高于此前预测；高盛也将降息预期推迟至2027年。
+  📰 [Seeking Alpha](https://seekingalpha.com/news/4000000-fed-now-sees-no-rate-cut-in-2026-warsh-likely-withheld-dot-june-dot-plot)
 
 ## 🇯🇵 日本株式市場 / Japan Market
 
-以下是关于日本股市的10条最新消息：
+以下是关于日本股市的5到10条最新消息：
 
-- **[2026.06.25] Nikkei 225 — 日经225指数大幅反弹，受美国美光科技强劲财报提振，半导体股票飙升**
-  English: Nikkei 225 sharply rebounds, with semiconductor stocks surging due to strong earnings from U.S. Micron Technology.
-  中文：日经225指数大幅反弹，受美国美光科技强劲财报提振，半导体股票飙升。
-  📰 [株探](https://kabutan.jp/news/market/20260625_00)
+- **[2026.06.25] 日経平均株価 — 日经平均股价大幅反弹，突破7万点，受美国美光科技强劲财报提振**
+  English: Nikkei 225 rebounded sharply, surpassing 70,000 points, boosted by strong earnings from US semiconductor giant Micron Technology.
+  中文：日经平均股价大幅反弹，突破7万点，受美国美光科技强劲财报提振。
+  📰 [株探ニュース](https://www.google.com/search?q=Japan)
 
-- **[2026.06.24] Nikkei 225 / TOPIX — 日本股市持续下跌，受半导体板块疲软拖累**
-  English: Japanese stocks continue to fall, weighed down by semiconductor weakness, with the Nikkei 225 dropping 0.88% to 69,174.97 points and the TOPIX losing 0.67% to 3,963.76 points.
-  中文：日本股市持续下跌，受半导体板块疲软拖累，日经225指数下跌0.88%至69,174.97点，东证指数下跌0.67%至3,963.76点。
-  📰 [FOREX.com](https://www.forex.com/jp/news-and-analysis/market-news/2026/06/25/24%E6%97%A5%E3%81%AE%E6%97%A5%E7%B5%8C%E5%B9%B3%E5%9D%87%E6%A0%AA%E4%BE%A1%E3%81%AF%E4%B8%8B%E8%90%BD/)
+- **[2026.06.24] 日経平均株価 — 日经平均股价下跌613.41日元，收于69,174.97日元，受美国科技股下跌及AI/半导体相关股票获利回吐影响**
+  English: Nikkei 225 fell by 613.41 yen, closing at 69,174.97, continuing its decline, primarily due to profit-taking in AI and semiconductor-related stocks, influenced by a downturn in US tech shares.
+  中文：日经平均股价下跌613.41日元，收于69,174.97日元，受美国科技股下跌及AI/半导体相关股票获利回吐影响。
+  📰 [FOREX.com](https://www.google.com/search?q=Japan)
 
-- **[2026.06.24] 日本銀行 (BOJ) — 日本央行公布6月会议主要意见，有声音呼吁考虑提前进一步加息**
-  English: The Bank of Japan released the main opinions from its June monetary policy meeting, revealing multiple calls for considering early additional interest rate hikes, with some suggesting a pace of "once every few months."
-  中文：日本央行公布了6月货币政策会议的主要意见，其中有多个声音呼吁考虑提前进一步加息，甚至有人提出“每隔几个月一次”的加息步伐。
-  📰 [KAB](https://www.kab.co.jp/news/news-100412.html)
+- **[2026.06.24] 日本銀行 — 日本央行在6月货币政策会议上决定将政策利率上调至1%，为31年来首次达到该水平，有意见认为应考虑每隔数月加息一次**
+  English: The Bank of Japan decided to raise its policy interest rate to 1% in its June monetary policy meeting, marking the first time in 31 years the rate has reached this level, with some opinions suggesting considering rate hikes at a pace of once every few months.
+  中文：日本央行在6月货币政策会议上决定将政策利率上调至1%，为31年来首次达到该水平，有意见认为应考虑每隔数月加息一次。
+  📰 [ダイヤモンド・オンライン](https://www.google.com/search?q=Japan)
 
-- **[2026.06.24] Sony — 索尼2026财年（截至2026年3月）财报显示营收和利润均下降**
-  English: Sony's financial results for the fiscal year ending March 2026 (26th term) showed a 10.9% decrease in revenue to 1,174.453 billion yen and an 8.0% decrease in operating profit to 55.915 billion yen.
-  中文：索尼2026财年（截至2026年3月）财报显示，营收下降10.9%至1.174453万亿日元，营业利润下降8.0%至559.15亿日元。
-  📰 [gamebiz](https://gamebiz.jp/news/371077)
+- **[2026.06.23] 日経平均株価 — 日经平均股价在6月23日一度暴跌超过2000日元，因AI和半导体相关股票在连续8个交易日上涨后出现获利回吐**
+  English: The Nikkei 225 plunged by over 2000 yen at one point on June 23rd, as profit-taking spread across AI and semiconductor-related stocks after an 8-day winning streak.
+  中文：日经平均股价在6月23日一度暴跌超过2000日元，因AI和半导体相关股票在连续8个交易日上涨后出现获利回吐。
+  📰 [テレ朝NEWS](https://www.google.com/search?q=Japan)
 
-- **[2026.06.24] Sony (游戏业务) — 尽管PS5出货量预计减少，索尼游戏业务仍实现两位数利润增长**
-  English: Despite a forecast reduction of 6 million units in PS5 shipments, Sony Group's game business achieved double-digit profit growth in its fiscal year ending March 2026, driven by a transformed revenue structure focused on subscription models.
-  中文：尽管PS5出货量预计减少600万台，索尼集团游戏业务在截至2026年3月的财年仍实现两位数利润增长，这得益于其向订阅模式转型的收入结构。
-  📰 [ダイヤモンド・オンライン](https://diamond.jp/articles/-/343997)
+- **[2026.06.24] 日本株式市場 — 随着日本央行利率达到1%，活跃的日本股市正处于“转折点”，从“需求主导”转向“供给约束”时代，这可能改变股市中受评估的企业类型**
+  English: With the Bank of Japan's interest rate reaching 1%, the active Japanese stock market is at a "turning point," transitioning from a "demand-driven" to a "supply-constrained" era, which could change the types of companies valued in the stock market.
+  中文：随着日本央行利率达到1%，活跃的日本股市正处于“转折点”，从“需求主导”转向“供给约束”时代，这可能改变股市中受评估的企业类型。
+  📰 [ダイヤモンド・オンライン](https://www.google.com/search?q=Japan)
 
-- **[2026.06.24] 日元 — 美元兑日元在161日元区间后半段波动，市场对干预的警惕持续**
-  English: The USD/JPY pair is trading in the upper 161 yen range, with market participants remaining vigilant for potential intervention by Japanese authorities.
-  中文：美元兑日元在161日元区间后半段波动，市场参与者对日本当局可能进行干预保持警惕。
-  📰 [OANDA証券株式会社](https://www.oanda.jp/lab-education/market/daily/20260624/)
+- **[2026.06.25] TOPIX先物 — TOPIX股指期货在6月25日开盘上涨66点至4038.5点，受美光财报强劲提振**
+  English: TOPIX futures for September 2026 opened 66 points higher at 4038.5 points on June 25th, following strong Micron earnings.
+  中文：TOPIX股指期货在6月25日开盘上涨66点至4038.5点，受美光财报强劲提振。
+  📰 [株探ニュース](https://www.google.com/search?q=Japan)
 
-- **[2026.06.23] Nikkei 225 — 日本日经指数跌至一周低点**
-  English: Japan's Nikkei index fell 3.6% to 69,788.38 points on Tuesday, hitting its lowest level in a week as investors locked in profits after a strong rally.
-  中文：日本日经指数周二下跌3.6%至69,788.38点，创下一周新低，投资者在强劲上涨后获利了结。
-  📰 [Qatar news agency](https://www.qna.org.qa/jp/News/2026/06/23/japan%E2%80%99s-nikkei-drops-to-one-week-low)
+- **[2025.01.29] 日経平均株価 — 野村证券将2026年末日经平均股价预测上调至68,000日元，以反映AI和半导体公司的强劲业绩**
+  English: Nomura Securities has revised its Nikkei 225 forecast upwards to 68,000 yen by the end of 2026, reflecting the strong performance of AI and semiconductor companies.
+  中文：野村证券将2026年末日经平均股价预测上调至68,000日元，以反映AI和半导体公司的强劲业绩。
+  📰 [NOMURA ウェルスタイル](https://www.google.com/search?q=Japan)
 
-- **[2026.06.18] Nikkei 225 / 日元 — 日经225指数首次突破71000点，日元跌至23个月低点**
-  English: The Nikkei 225 stock average broke 71,000 for the first time, while the yen traded at its weakest level in about 23 months, hitting ¥160.79 to the dollar.
-  中文：日经225股指首次突破71000点，同时日元兑美元汇率跌至约23个月来的最低点，达到160.79日元。
-  📰 [The Japan Times](https://www.japantimes.co.jp/news/2026/06/18/business/financial-markets/yen-nikkei-23-month-low-71000/)
+- **[2026.06.24] NTT, ソフトバンク, KDDI, 中部電力 — 分析师预测2027年3月财年主要日本公司业绩，其中NTT经常利润环比上涨0.7%，软银下跌1%，KDDI上涨0.3%，中部电力上涨0.8%**
+  English: Analyst forecasts for the fiscal year ending March 2027 show NTT's ordinary profit up 0.7% week-on-week, Softbank down 1%, KDDI up 0.3%, and Chubu Electric Power up 0.8%.
+  中文：分析师预测2027年3月财年主要日本公司业绩，其中NTT经常利润环比上涨0.7%，软银下跌1%，KDDI上涨0.3%，中部电力上涨0.8%。
+  📰 [Yahoo!ファイナンス](https://www.google.com/search?q=Japan)
 
-- **[2026.06.17] 日本銀行 (BOJ) — 日本央行将政策利率上调至1.0%，并决定从明年4月起停止减少国债购买**
-  English: The Bank of Japan, at its June 15-16 monetary policy meeting, raised its policy rate target from around 0.75% to around 1.0% and decided to set the monthly JGB purchase amount at around 2 trillion yen from April 2027 onwards, halting further reductions.
-  中文：日本央行在6月15-16日的货币政策会议上，将政策利率目标从0.75%左右上调至1.0%左右，并决定从2027年4月起将每月国债购买额定为2万亿日元左右，停止进一步缩减。
-  📰 [MRI 三菱総合研究所](https://www.mri.co.jp/knowledge/column/2026/column_20260617.html)
+- **[2026.06.19] キオクシアホールディングス — 铠侠控股股价突破10万日元，受AI/半导体热潮推动，较去年底上涨约10倍**
+  English: Kioxia Holdings' stock price has surpassed 100,000 yen, driven by the AI/semiconductor boom, reaching approximately 10 times its value from the end of last year.
+  中文：铠侠控股股价突破10万日元，受AI/半导体热潮推动，较去年底上涨约10倍。
+  📰 [SBI証券](https://www.google.com/search?q=Japan)
 
-- **[2026.06.12] 丰田汽车 — 丰田汽车营收突破50万亿日元，但对“增收减益”的结构表示强烈危机感**
-  English: Toyota announced its fiscal year 2026 (ending March 2026) results, with operating revenue exceeding 50 trillion yen (50,685.249 billion yen, up 5.5% year-on-year), but operating profit decreased by 21.5% to 3,766.216 billion yen, leading to a "revenue increase, profit decrease" structure that the company views with strong concern.
-  中文：丰田汽车公布2026财年（截至2026年3月）财报，营业收入突破50万亿日元（50.685249万亿日元，同比增长5.5%），但营业利润下降21.5%至3.766216万亿日元，公司对这种“增收减益”的结构表示强烈危机感。
-  📰 [carview!](https://carview.yahoo.co.jp/news/detail/5068524900/)
+- **[2026.06.24] 日本株式市場 — 6月24日，技术分析显示31只低市净率股票出现“买入信号”；同时，当日好坏材料包括Polaris Holdings股息增加、OCHI Holdings收购、gumi股东福利扩大、True Data推出AI预测系统、Oncolys BioPharma药物审批进展以及KH Neochem投资基金持股增加**
+  English: On June 24th, technical analysis showed "buy signals" for 31 low PBR stocks; meanwhile, "good/bad materials" for the day included Polaris Holdings (dividend increase), OCHI Holdings (acquisition), gumi (shareholder benefit expansion), True Data (AI prediction system), Oncolys BioPharma (drug approval progress), and KH Neochem (investment fund stake increase).
+  中文：6月24日，技术分析显示31只低市净率股票出现“买入信号”；同时，当日好坏材料包括Polaris Holdings股息增加、OCHI Holdings收购、gumi股东福利扩大、True Data推出AI预测系统、Oncolys BioPharma药物审批进展以及KH Neochem投资基金持股增加。
+  📰 [Yahoo!ファイナンス](https://www.google.com/search?q=Japan)
 
 ## 🌍 宏观经济与投资 / Macro & Investment
 
-Here are 8 recent news items regarding macroeconomics and investment:
+Here are 7 recent news items concerning macroeconomics and investment:
 
-- **[2026.06.24] 中国央行 — 央行将于6月25日开展5000亿元MLF操作**
-  English: China's central bank announced it will conduct a 500 billion yuan Medium-term Lending Facility (MLF) operation on June 25 to maintain ample liquidity.
-  中文：中国人民银行公告称，为保持银行体系流动性充裕，将于2026年6月25日开展5000亿元人民币的一年期中期借贷便利（MLF）操作。
-  📰 [证券时报](https://www.google.com/search?q=global)
+- **[2026.06.24] US Stock Market — 科技股抛售潮后市场尝试反弹，美光财报强劲提振信心**
+  English: US stock indexes saw mixed performance, with the Nasdaq and S&P 500 falling due to a tech-led sell-off driven by AI spending concerns, while the Dow gained slightly. Micron Technology's strong earnings report after hours provided a significant boost to market sentiment, particularly for semiconductor stocks.
+  中文：美国股市表现不一，纳斯达克和标普500指数因对人工智能支出的担忧导致科技股抛售而下跌，而道琼斯指数小幅上涨。美光科技盘后发布的强劲财报显著提振了市场情绪，特别是半导体板块。
+  📰 [Yahoo Finance](https://finance.yahoo.com/news/stock-market-news-jun-24-2026-190000858.html)
 
-- **[2026.06.23] 比特币现货ETF — 比特币现货ETF连续三日净流出**
-  English: Bitcoin spot ETFs recorded a total net outflow of $68.1757 million on June 22 (US Eastern Time), marking the third consecutive day of outflows.
-  中文：根据SoSoValue数据，美东时间6月22日，比特币现货ETF总净流出6817.57万美元，这是连续第三个交易日出现净流出。
-  📰 [TradingView](https://www.google.com/search?q=global)
+- **[2026.06.24] US Federal Reserve — 美联储维持利率不变，但通胀担忧预示未来可能加息**
+  English: The Federal Reserve, under new Chair Kevin Warsh, maintained its benchmark interest rate at 3.5%-3.75% at its June meeting. However, rising inflation, particularly a spike in May, suggests that the Fed is likely to increase rates later in the year, with markets already pricing in at least one hike.
+  中文：美联储在新任主席凯文·沃什的领导下，在6月会议上将基准利率维持在3.5%-3.75%不变。然而，不断上升的通货膨胀，特别是5月份的飙升，表明美联储可能在今年晚些时候加息，市场已预期至少一次加息。
+  📰 [The Motley Fool](https://www.fool.com/investing/2026/06/24/the-feds-latest-inflation-reading-has-good-and-bad-news-for-the-stock-market-heres-what-it-means-for-investors/)
 
-- **[2026.06.22] 国际黄金 — 国际金价冲高回落，高盛下调2026年末目标价**
-  English: International spot gold rebounded to around $4191.74/ounce on June 22, but Goldman Sachs significantly lowered its 2026 year-end gold target from $5400 to $4900 due to the Fed's hawkish signals.
-  中文：周一（6月22日）亚欧时段，国际现货黄金报4191.74美元/盎司，日内小幅回升。然而，高盛将2026年末黄金目标价从5400美元大幅下修至4900美元，主要依据是美联储明确释放年内不再降息、甚至存在加息可能的鹰派信号。
-  📰 [同花顺](https://www.google.com/search?q=global)
+- **[2026.06.24] USD/JPY & Bank of Japan — 日元兑美元持续疲软，日本央行干预风险加剧**
+  English: The Japanese Yen continued to trade near multi-decade lows against the US dollar, with USD/JPY hovering around 161.54. Speculation about potential intervention by the Bank of Japan and even joint intervention with the US intensified after Japanese Finance Minister Katayama discussed currency policy with US Treasury Secretary Bessent, agreeing to take "bold steps" if needed.
+  中文：日元兑美元汇率继续徘徊在数十年低点附近，美元兑日元汇率约为161.54。在日本财务大臣片山与美国财政部长贝森特讨论货币政策并同意在必要时采取“大胆措施”后，日本央行甚至与美国联合干预的可能性猜测加剧。
+  📰 [FOREX24.PRO](https://forex24.pro/usd-jpy-forecast-japanese-yen-for-june-24-2026/)
 
-- **[2026.06.22] 国际油价 — 国际油价22日下跌**
-  English: International oil prices fell on June 22, with New York light crude futures closing at $74.82 per barrel and Brent crude futures at $77.90 per barrel.
-  中文：国际油价22日下跌，纽约商品交易所7月交货的轻质原油期货价格下跌1.78美元，收于每桶74.82美元；8月交货的伦敦布伦特原油期货价格下跌2.67美元，收于每桶77.90美元。
-  📰 [新华网](https://www.google.com/search?q=global)
+- **[2026.06.24] US Trade Policy — 特朗普政府重启关税计划，全球贸易伙伴面临新一轮审查**
+  English: The Trump administration has rebooted its tariff program following a Supreme Court ruling, with a 10% global tariff under Section 122 currently in place. The U.S. Trade Representative is conducting Section 301 studies that could restore tariff rates to previous levels, and investigations into forced labor policies have led to proposed additional tariffs on imports from 60 economies.
+  中文：在最高法院裁决后，特朗普政府重启了关税计划，目前根据第122条实施10%的全球关税。美国贸易代表正在进行第301条调查，可能将关税税率恢复到以前的水平，并且对强迫劳动政策的调查已导致对来自60个经济体的进口商品提出额外关税。
+  📰 [Seeking Alpha](https://seekingalpha.com/news/4000000-bessent-trump-tariffs-are-an-aggressive-approach-forcing-trading-partners-to-the-negotiating-table)
 
-- **[2026.06.22] 美元兑日元 — 美元兑日元汇率维持高位震荡**
-  English: The USD/JPY exchange rate was around 161.4800 on June 22, remaining relatively stable near its highest levels since 1986.
-  中文：根据外汇市场最新数据，2026年6月22日美元兑日元汇率最新交投于161.4800，较昨日变动0.167%，维持在1986年以来的高位附近震荡。
-  📰 [金投网](https://www.google.com/search?q=global)
+- **[2026.06.24] Oil & Gold Prices — 油价因美伊谈判进展而下跌，黄金价格同步走低**
+  English: Oil prices closed lower as optimism grew over US-Iran negotiations, easing supply concerns. Brent crude slipped 1.1% to $77.08 per barrel, and WTI crude fell 0.9% to $73.21. Gold futures also experienced a significant drop, falling 3.20% to $4,016.82, at one point slipping below $4,000 an ounce.
+  中文：由于对美伊谈判的乐观情绪升温，缓解了供应担忧，油价收盘走低。布伦特原油下跌1.1%至每桶77.08美元，WTI原油下跌0.9%至每桶73.21美元。黄金期货也大幅下跌3.20%至4,016.82美元，一度跌破每盎司4,000美元。
+  📰 [WDRB](https://www.wdrb.com/national/us-stocks-rise-as-falling-oil-prices-help-take-pressure-off-the-market/article_247a82e9-7977-512c-851f-5089e9095616.html)
 
-- **[2026.06.22] 高盛 — 高盛下调美国经济衰退风险预估**
-  English: Goldman Sachs has lowered its estimated risk of a US recession within the next 12 months to 15%, down from a previous forecast of 25%.
-  中文：财联社6月22日电，高盛将美国12个月内经济衰退风险预估下调至15%，此前预测为25%。
-  📰 [财联社](https://www.google.com/search?q=global)
+- **[2026.06.24] US Treasury Yields — 美国国债收益率普遍下降，缓解股市压力**
+  English: US Treasury yields mostly fell, with the 10-year Treasury yield declining 0.094 percentage point to 4.400% and the 2-year Treasury yield falling 0.061 percentage point to 4.136%. This decline in yields helped to remove some pressure from the stock market.
+  中文：美国国债收益率普遍下降，10年期国债收益率下降0.094个百分点至4.400%，2年期国债收益率下降0.061个百分点至4.136%。收益率的下降有助于缓解股市的一些压力。
+  📰 [Morningstar](https://www.morningstar.com/news/dow-jones/2026-06-24-10-year-treasury-yield-falls-to-4400-data-talk)
 
-- **[2026.06.15] 美国经济 — 美国5月通胀压力仍处高位，美联储或将继续观望**
-  English: US CPI in May 2026 rose 4.2% year-on-year, with core CPI up 2.9%. Energy prices were a significant contributor, leading analysts to predict the Fed will maintain its hawkish stance.
-  中文：美国劳工统计局数据显示，2026年5月美国城市居民消费价格指数（CPI-U）同比上涨4.2%，核心CPI同比上涨2.9%，能源价格大幅上涨是主要推升因素。预计美联储在6月会议上将保持观望态度，联邦基金利率将维持在3.50%—3.75%之间。
-  📰 [深圳高等金融研究院](https://www.google.com/search?q=global)
-
-- **[2026.01.30] 全球经济 — 2026年全球GDP增速预计稳定但面临不确定性**
-  English: Global GDP growth is projected to remain at 3.3% in 2026, supported by AI investment and fiscal policies, but faces high uncertainty from trade tensions and potential new conflicts.
-  中文：Peak Re预测，2026年全球GDP增速预计将维持在3.3%，得益于人工智能投资热潮与财政支出的同步支持，但贸易关税和新增冲突等因素带来高度不确定性。
-  📰 [Peak Re](https://www.google.com/search?q=global)
+- **[2026.06.24] Global Central Banks — 加拿大和泰国央行面临通胀与增长困境**
+  English: The Bank of Canada's Governing Council deliberated on the dilemma of a weak economy operating below potential versus the risk of persistent high inflation, while the Bank of Thailand unanimously voted to maintain its policy rate at 1.00% despite projected stronger economic expansion and rising inflation due to supply-side factors.
+  中文：加拿大央行理事会讨论了经济疲软低于潜力与持续高通胀风险之间的困境，而泰国央行一致投票决定将政策利率维持在1.00%，尽管预计经济扩张将更强劲，且受供应侧因素影响通胀将上升。
+  📰 [Bank of Canada](https://www.bankofcanada.ca/2026/06/summary-governing-council-deliberations-fixed-announcement-date-june-10-2026/)
 
 ---
 ※Stock Market Daily Digest | 2026.06.25
