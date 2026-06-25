@@ -200,53 +200,53 @@ def infer_market_summary(sec, item):
     if "美国" in section or "US" in section:
         if any(k in lower for k in ["micron", "nvidia", "amd", "qualcomm", "broadcom", "chip", "semiconductor"]):
             return (
-                f"这条消息涉及 {entities}，显示美股科技线的核心驱动仍集中在 AI 芯片、存储和半导体供应链。"
+                f"{entities} 把美股科技线的核心驱动重新拉回 AI 芯片、存储和半导体供应链。"
                 "如果相关公司业绩指引或订单预期继续改善，资金往往会从指数层面转向更具体的半导体、服务器、数据中心和 AI 基础设施个股。"
                 "短线需要观察 Nvidia、AMD、Broadcom、Micron、Qualcomm 等是否同步放量，以及 Nasdaq 是否由少数龙头扩散到更多科技成分股。"
             )
         if any(k in lower for k in ["tesla", "rivian", "ev", "vehicle"]):
             return (
-                f"这条消息涉及 {entities}，与美股电动车及高 beta 成长股情绪有关。"
+                f"{entities} 的变化会直接牵动美股电动车及高 beta 成长股情绪。"
                 "Tesla 或同类公司的变化常会影响投资者对消费科技、自动驾驶、能源存储和成长股风险偏好的判断。"
                 "如果消息涉及交付、价格、监管或分析师评级，通常会直接牵动期权交易和盘前波动；后续要看成交量、同业联动以及 Nasdaq 风险偏好是否跟随。"
             )
         if any(k in lower for k in ["apple", "microsoft", "amazon", "meta", "alphabet", "magnificent"]):
             return (
-                f"这条消息涉及 {entities}，聚焦大型科技股。"
+                f"{entities} 仍是大型科技股交易主线中的关键变量。"
                 "这些公司权重高，对 S&P 500 和 Nasdaq 的方向影响明显；一旦估值、AI 投入、云业务或广告业务预期变化，指数可能被少数巨头牵引。"
                 "接下来要看资金是继续集中在大型科技股，还是向软件、半导体设备、数据中心电力等周边产业扩散。"
             )
         return (
-            f"这条消息涉及 {entities}，反映美股盘面或个股情绪变化。"
+            f"{entities} 反映美股盘面或个股情绪正在发生变化。"
             "它的重点不只是指数涨跌，而是资金正在选择哪些行业、哪些主题以及哪些公司作为交易主线。"
             "后续应结合盘前期货、板块涨跌、成交量和分析师评级变化，判断这是短线情绪反弹，还是能够延续的产业趋势。"
         )
     if "日本" in section or "Japan" in section:
         if any(k in headline for k in ["半導体", "アドバンテスト", "東エレク", "東京エレクトロン", "キオクシア", "マイクロン", "AI"]):
             return (
-                f"这条日本市场消息涉及 {entities}，核心在半导体和 AI 产业链。"
+                f"{entities} 把日本市场的焦点集中到半导体和 AI 产业链。"
                 "日股中东京电子、Advantest、Kioxia、SoftBank Group 等常被视为 AI 基础设施和全球芯片周期的映射。"
                 "如果海外芯片业绩或 AI 资本开支继续超预期，日经指数可能继续由高权重半导体股推动；同时也要留意日元和海外资金流向。"
             )
         return (
-            f"这条消息涉及 {entities}，反映日本股市当天的行业轮动和个股表现。"
+            f"{entities} 反映日本股市当天的行业轮动和个股表现。"
             "对日股来说，指数变化往往由半导体、汽车、金融、商社和 SoftBank 等权重股共同决定。"
             "需要结合日元走势、海外科技股表现、日银政策预期和外资买卖，判断行情是单日事件驱动，还是更广泛的趋势延续。"
         )
     if any(k in lower for k in ["dollar", "yen", "treasury", "yield", "fed", "rate"]):
         return (
-            f"这条宏观消息涉及 {entities}，影响美元、日元、美债收益率和全球风险资产定价。"
+            f"{entities} 正在影响美元、日元、美债收益率和全球风险资产定价。"
             "利率和汇率变化会通过折现率、企业融资成本和跨境资金流影响股票估值，尤其是高估值科技股和出口导向型日股。"
             "后续要观察 Fed 预期、美债收益率曲线、USD/JPY 以及黄金和比特币等避险/风险资产是否同步确认。"
         )
     if any(k in lower for k in ["oil", "gold", "bitcoin", "crypto"]):
         return (
-            f"这条消息涉及 {entities}，属于跨资产信号。"
+            f"{entities} 属于需要和股市一起观察的跨资产信号。"
             "原油、黄金和比特币的变化会反映通胀预期、避险需求和风险偏好，对能源股、资源股、科技股估值和美元走势都有间接影响。"
             "如果这些资产与股指同向或背离，往往能提示市场是在交易增长、通胀，还是避险。"
         )
     return (
-        f"这条宏观市场消息涉及 {entities}，提供了判断股市趋势的背景变量。"
+        f"{entities} 提供了判断股市趋势的背景变量。"
         "它需要和指数、行业轮动、汇率、利率和商品价格一起观察，才能判断资金是在追逐风险，还是降低仓位。"
         "对当天交易来说，最重要的是看该信号是否被美股科技股、日股半导体股和美元日元走势共同验证。"
     )
@@ -361,7 +361,7 @@ def market_snapshot_items(sec):
         lines.append(
             f"- **[{DATE_STR}] {en_name} — {zh_name}{direction}{abs(q['pct']):.2f}%**\n"
             f"  English: {en_name} was at {fmt_price(q['price'])}, {q['pct']:+.2f}% versus the previous close, as of {q['time']}.\n"
-            f"  中文：{quote_context(sec, en_name, zh_name, q['pct'], q['time'])}\n"
+            f"  中文：总结：{quote_context(sec, en_name, zh_name, q['pct'], q['time'])}\n"
             f"  📰 [Yahoo Finance](https://finance.yahoo.com/quote/{urllib.parse.quote(symbol, safe='')})"
         )
     return lines
@@ -378,7 +378,7 @@ def fetch_section_rss(sec):
         lines.append(
             f"- **[{item['date']}] {item['source']} — {item['headline']}**\n"
             f"  English: {item['headline']}\n"
-            f"  中文：{summary}\n"
+            f"  中文：总结：{summary}\n"
             f"  📰 [{item['source']}]({item['link']})"
         )
     if len(lines) < 8:
