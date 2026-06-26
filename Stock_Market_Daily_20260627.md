@@ -1,0 +1,101 @@
+# 📈 Stock Market Daily | 2026.06.27（土曜日 / Saturday）
+
+> ⚠ 本日报优先收录最近24小时的市场新闻、个股异动与当时市场快照；数据仅供参考，不构成投资建议。
+
+---
+
+
+## 🇺🇸 美国股市 / US Market
+
+Here are 8 recent news items concerning the US stock market:
+
+- **[2026.06.27] NASDAQ 100 — 纳斯达克100指数六月展望乐观**
+  English: The NASDAQ 100 index is projected to close June 2026 at 29533, representing a 6.6% change for the month, with an average value of 29112. The forecast for early June 27 stands at 27710, indicating continued bullish momentum despite potential volatility. This outlook is supported by strong AI demand, though risks from geopolitical tensions and market overextension could introduce fluctuations. Investors are closely watching for signs of stabilization following recent gains.
+  中文：总结：纳斯达克100指数预计在2026年6月底收于29533点，本月涨幅为6.6%，月平均值为29112点。6月27日早盘预测为27710点，显示出持续的看涨势头。尽管地缘政治紧张局势和市场过度扩张可能带来波动，但强劲的人工智能需求支撑了这一展望。投资者正密切关注近期上涨后的市场稳定迹象。
+
+- **[2026.06.27] NVIDIA — 英伟达股价下跌，科技股普跌**
+  English: NVIDIA stock experienced a decline on Friday, June 26, contributing to a broader selloff in the technology sector and putting the chipmaker on track for its worst weekly performance in over a year. The stock fell approximately 1.5% to $192.35 in early trading, potentially leading to a weekly drop exceeding 9%. This recent pullback extends a challenging period for NVIDIA, as concerns surrounding AI infrastructure spending and increasing competition weigh on investor sentiment.
+  中文：总结：英伟达股价在6月26日周五再次下跌，加剧了科技股的普遍抛售，使其有望录得一年多来最差的周表现。早盘交易中，该股下跌约1.5%至192.35美元，可能导致周跌幅超过9%。此次回调延续了英伟达的艰难时期，投资者对人工智能基础设施支出和日益激烈的竞争感到担忧。
+
+- **[2026.06.27] Microsoft — 微软股价因AI支出担忧而大幅下跌**
+  English: Microsoft's stock has seen a significant decline in June, falling 21.6% and heading towards its worst monthly performance since 2000. This downturn is attributed to a broader rotation out of "Magnificent Seven" tech stocks and investor profit-taking amidst substantial AI spending by major tech firms. Additionally, news of price increases for Xbox game consoles due to higher component costs further pressured Microsoft's stock price on Thursday.
+  中文：总结：微软股价在6月份下跌21.6%，正迈向2000年以来最差的月度表现。这一下跌归因于“七巨头”科技股的普遍回调，以及投资者在大型科技公司巨额人工智能支出背景下的获利了结。此外，周四有消息称Xbox游戏机因零部件成本上涨而提价，也给微软股价带来了额外压力。
+
+- **[2026.06.27] Apple — 苹果因内存成本上涨而上调产品价格，股价受挫**
+  English: Apple Inc. shares fell 6.12% on June 25, marking its worst single-day drop since April 2025, after the company announced mid-cycle price increases across its Mac, iPad, home, and Vision Pro lines. This unusual move is seen by some as proof that the AI memory shortage is squeezing margins faster than Apple can manage, while others view it as a demonstration of the company's pricing power. iPhone prices remained unchanged, indicating Apple's strategy to protect its highest-volume product.
+  中文：总结：苹果公司股价在6月25日下跌6.12%，创下2025年4月以来最大单日跌幅，此前该公司宣布Mac、iPad、家居和Vision Pro系列产品进行周期中涨价。这一罕见举动被一些人视为人工智能内存短缺正以超出苹果管理能力的速度挤压利润的证据，而另一些人则认为这体现了公司的定价能力。iPhone价格保持不变，表明苹果正努力保护其销量最大的产品。
+
+- **[2026.06.27] Amazon — 亚马逊加大对印度AI和云基础设施的投资**
+  English: Amazon.com plans to invest an additional $13 billion in India to expand its artificial intelligence and cloud infrastructure, targeting new data centers in Mumbai and Hyderabad, along with a larger logistics footprint. This commitment brings Amazon's cumulative planned investment in India to $48 billion through 2030. This strategic move highlights the increasing importance of AI and cloud services to Amazon's global operations and its focus on rapidly growing digital markets like India.
+  中文：总结：亚马逊计划在印度追加130亿美元投资，以扩大其人工智能和云基础设施，目标是在孟买和海得拉巴建设新的数据中心，并扩大物流布局。这项承诺使亚马逊在印度的累计计划投资达到2030年的480亿美元。此举凸显了人工智能和云服务对亚马逊全球业务日益增长的重要性，以及其对印度等快速增长的数字市场的关注。
+
+- **[2026.06.27] Federal Reserve — 美联储2026年降息预期推迟至2027年**
+  English: The Federal Reserve's decision in June 2026 to maintain interest rates at 4.25-4.50% signals that aggressive rate cuts are not imminent. Despite earlier market expectations for easing by mid-2026, persistent inflation and a resilient labor market have led central bankers to maintain a restrictive stance. Goldman Sachs Research has pushed its projection for the final two rate cuts in this cycle to June and December 2027, citing stronger-than-anticipated economic activity and labor market data.
+  中文：总结：美联储在2026年6月决定将利率维持在4.25-4.50%不变，这表明激进降息并非迫在眉睫。尽管市场此前预期2026年中期会放松政策，但持续的通胀压力和富有弹性的劳动力市场迫使央行维持限制性立场。高盛研究部已将本轮周期最后两次降息的预测推迟至2027年6月和12月，理由是经济活动和劳动力市场数据强于预期。
+
+- **[2026.06.27] S&P 500 — 华尔街分析师上调标普500指数年终目标**
+  English: The S&P 500 index has seen a 9% return year-to-date in 2026, driven by strong first-quarter earnings, particularly from the AI technology sector. Wall Street analysts have a median year-end target of 7,850 for the S&P 500, a slight upward revision from earlier projections. This implies a potential 5% upside from its current level of 7,473, which would bring the full-year return to 15%, though analysts caution that market predictions can often miss the mark.
+  中文：总结：标普500指数在2026年迄今已上涨9%，主要受人工智能科技板块强劲的第一季度财报推动。华尔街分析师对标普500指数的年终目标中位数为7,850点，较此前预测略有上调。这意味着该指数可能从当前7,473点的水平上涨5%，全年回报率将达到15%，但分析师提醒市场预测常有偏差。
+
+- **[2026.06.27] Tesla — 特斯拉第二季度交付数据备受关注**
+  English: Tesla's stock has been a subject of intense debate in 2026, with shares down 16.5% year-to-date and 11.85% over the past month. Investors are closely watching for the release of the company's second-quarter vehicle delivery and energy storage deployment figures in early July. Analysts, according to FactSet, anticipate Tesla to deliver approximately 401,120 electric vehicles for the quarter, marking a 4% increase from the previous year, amidst mixed signals on EV demand in key markets.
+  中文：总结：特斯拉股价在2026年备受争议，年初至今下跌16.5%，过去一个月下跌11.85%。投资者正密切关注该公司将于7月初公布的第二季度汽车交付和储能部署数据。根据FactSet的数据，分析师预计特斯拉本季度将交付约401,120辆电动汽车，同比增长4%，尽管主要市场的电动汽车需求信号喜忧参半。
+
+## 🇯🇵 日本株式市場 / Japan Market
+
+以下は、2026年6月27日の日本株式市場に関する最新ニュースです。
+
+- **[2026.06.27] 日経225先物 — 先物市場で買い戻し優勢**
+  日本語：27日0時現在、大阪取引所の日経225先物期近2026年9月限は前日比130円高の6万9740円と大幅高で推移している。これは日経平均株価の現物終値6万9360.88円に対して379.12円高の水準であり、前日の現物市場が大幅反落したことを受けて、市場は夜間取引でやや持ち直しの動きを見せている。AI・半導体関連株の売りが先行した前日の流れから、本日の市場はどのような展開になるか注目される中、先物市場では買い戻しの動きが先行しているようだ。出来高は1万959枚となっており、この先物価格の動向は、本日の現物市場の寄り付きに影響を与える可能性があるため、投資家は動向を注視している。
+  中文：总结：27日凌晨，大阪交易所日经225股指期货2026年9月合约较前日上涨130日元，报69740日元。相较于日经平均指数现货收盘价69360.88日元，期货高出379.12日元。这表明在现货市场大幅回调后，期货市场出现一定程度的反弹。投资者正密切关注今日现货市场的开盘表现。
+  📰 [株探](https://kabutan.jp/news/market/202606270000_000000000000)
+
+- **[2026.06.27] 日本株市場見通し — 日経平均は4日続落の見込み、ハイテク株安が重荷**
+  日本語：27日の日本株市場は、前日の米国市場での金融引き締め継続懸念とハイテク株安を受け、日経平均株価が4日続落となる見通し。特に、ナスダック総合指数が下落したことが東京市場にも波及し、アドバンテストなどのハイテク・グロース株の一部が売られる展開が予想される。また、来月初めにかけて年金基金による資産配分の調整売りやETFの分配金捻出売りなど、需給悪化につながる動きが投資家心理を悪化させる可能性があり、市場は引き続き慎重な姿勢を保つだろう。
+  中文：总结：受前日美国科技股下跌影响，27日日本股市预计日经平均指数将连续第四个交易日下跌。美国收紧货币政策的担忧加剧，导致纳斯达克指数下跌，预计将波及东京市场，部分科技成长股如爱德万测试将面临抛售压力。此外，养老基金的资产再平衡卖盘和ETF分红卖盘可能导致供需恶化，市场情绪将保持谨慎。
+  📰 [ダイヤモンド・オンライン](https://diamond.jp/articles/-/344265)
+
+- **[2026.06.27] 壱番屋 (7630) — 好決算で年初来高値更新の可能性**
+  日本語：27日の東京市場では、前日の取引終了後に決算を発表した「カレーハウスCoCo壱番屋」を展開する壱番屋（7630）が注目されている。同社は2024年2月期第1四半期（3～5月）の好決算が好感され、株価が上昇し、年初来高値を更新する可能性がある。市場全体がハイテク株安で軟調な中、個別企業の好業績が材料視され、ディフェンシブな内需関連株への資金流入が見られるかどうかが焦点となる。
+  中文：总结：27日东京市场，前日收盘后公布财报的“CoCo壱番屋”运营商壱番屋（7630）备受关注。该公司2024年2月期第一季度（3～5月）业绩良好，股价有望上涨并创下年初新高。在科技股普遍下跌的市场环境下，个别公司的良好业绩可能吸引资金流入防御性内需股。
+  📰 [ダイヤモンド・オンライン](https://diamond.jp/articles/-/344265)
+
+- **[2026.06.27] 円相場 — ドル円は161円台後半で軟調に推移**
+  日本語：27日未明のNY外為市場では、ドルが軟調に推移し、ドル・円は161円66銭で引き続き戻りが鈍い展開となった。米イラン和平進展による原油価格の下落がインフレ懸念を後退させ、長期金利低下に伴うドル売りが続いたことが背景にある。円安基調は根強いものの、前日の米国市場の動きを受け、一時的に円買い圧力が生じている。今後の日銀の金融政策や政府の為替介入への警戒感が、円相場に影響を与える可能性がある。
+  中文：总结：27日凌晨纽约外汇市场，美元走软，美元兑日元在161.66日元附近维持疲软走势。美伊和平进展导致油价下跌，通胀担忧减弱，长期利率下降引发美元抛售。尽管日元贬值趋势依然强劲，但受美国市场影响，短期内出现日元买入压力。日本央行政策和政府干预预期可能影响日元走势。
+  📰 [株探](https://kabutan.jp/news/market/202606270034_000000000000)
+
+## 🌍 宏观经济与投资 / Macro & Investment
+
+Here are recent news items regarding macroeconomics and investment:
+
+- **[2026.06.27] US Stock Market — 科技股抛售拖累华尔街，标普500指数面临连续第二周下跌**
+  English: Wall Street is experiencing a significant downturn, with the S&P 500 heading for only its second losing week in the last thirteen, primarily driven by a broad sell-off in artificial intelligence (AI) related stocks. The Nasdaq composite, heavily weighted towards technology, fell by one percent, while the Dow Jones Industrial Average saw a more modest 0.4 percent decline. This slump began in Asia, where major indexes in Japan and South Korea tumbled, with investors reassessing the high valuations of AI companies and concerns over the mounting costs associated with AI data centers. Reports of a potential delay in OpenAI's IPO further dampened market sentiment.
+  中文：总结：受人工智能（AI）相关股票广泛抛售的影响，华尔街股市大幅下跌，标普500指数可能迎来近三个月来的第二次周线收跌。纳斯达克综合指数下跌1%，道琼斯工业平均指数也下跌0.4%。此次下跌始于亚洲市场，投资者对AI公司的高估值及其数据中心建设成本上升表示担忧，OpenAI首次公开募股（IPO）可能推迟的报道进一步打击了市场情绪。
+
+- **[2026.06.27] Nikkei 225 — 日经指数因科技股抛售和软银大跌而显著收低**
+  日本語：日本の主要株価指数である日経225は、6月26日に前営業日から3.67%下落し、69710ポイントで取引を終えました。これは、AI関連株の評価に対する懸念と、OpenAIのIPO延期報道を受けたソフトバンクグループの12%を超える急落が主な要因です。半導体関連企業のアドバンテストや東京エレクトロンも大幅に下落し、市場全体のセンチメントを悪化させました。この下落は、最近のAIブームによる高値更新後の調整局面と見られています。
+  中文：总结：日本日经225指数在6月26日大幅下跌3.67%，收于69710点。此次下跌主要受人工智能（AI）相关股票估值担忧以及软银集团因OpenAI首次公开募股（IPO）可能推迟的报道而暴跌超过12%的影响。半导体巨头如Advantest和东京电子也出现显著跌幅，反映出市场对AI板块近期涨势的重新评估。
+
+- **[2026.06.27] Bitcoin ETFs — 比特币ETF资金流出创纪录，加密货币市场承压**
+  English: Spot Bitcoin ETFs have experienced a significant institutional retreat, recording a staggering $1.35 billion in net outflows in the most recent weekly window, marking the seventh consecutive week of net outflows. Bitcoin's price fell by 3% to $59,300 on Friday, June 27, 2026, extending a weekly loss of nearly 5%. This unprecedented capital flight, with cumulative net withdrawals reaching around $6 billion over the past month, is largely attributed to macroeconomic factors, including expectations of further rate hikes by the Federal Reserve, which reinforce a high-rate environment impacting speculative assets.
+  中文：总结：现货比特币ETF遭遇大规模机构资金流出，最近一周净流出达13.5亿美元，已连续七周出现净流出。截至2026年6月27日星期五，比特币价格下跌3%至59,300美元，周跌幅近5%。过去一个月累计净流出约60亿美元，主要受宏观经济因素影响，特别是美联储可能进一步加息的预期，这使得高利率环境对投机性资产构成持续压力。
+
+- **[2026.06.27] US Inflation (PCE) — 美联储首选通胀指标升至三年高位，强化加息预期**
+  English: The Personal Consumption Expenditures (PCE) index, the Federal Reserve's preferred inflation gauge, rose at a 4.1% annual rate in May, marking the highest level since April 2023. This figure matched economists' forecasts and compares to a 3.8% increase in April. Core PCE, excluding volatile food and energy prices, also rose to 3.4%, slightly above expectations. This persistent inflation, driven partly by higher gas prices and increased costs for computer components due to the AI buildout, highlights the Fed's challenge in achieving its 2% target and reinforces the likelihood of a potential interest rate hike later this year.
+  中文：总结：美国个人消费支出（PCE）指数在5月份以4.1%的年化率上升，达到三年来的新高，与经济学家预期相符。剔除波动性较大的食品和能源价格后，核心PCE也升至3.4%。这一持续的通胀压力，部分源于汽油价格上涨和AI建设对计算机组件需求的增加，凸显了美联储实现2%通胀目标的挑战，并强化了今年晚些时候可能加息的预期。
+
+- **[2026.06.27] Central Bank Policy (Federal Reserve) — 美联储维持利率不变但立场鹰派，通胀担忧持续**
+  English: The Federal Reserve's Federal Open Market Committee (FOMC) unanimously voted to maintain the target range for the federal funds rate at 3.50% to 3.75% at its June 17 meeting, marking a continuation of the stable rate stance since December 2025. However, under new Chairman Kevin Warsh, the committee adopted a more hawkish tone, emphasizing its commitment to achieving price stability as inflation has consistently run above the 2% target for over five years. While no immediate rate hike occurred, the Fed's economic projections suggest a potential increase later in 2026 if inflation pressures persist, indicating a shift from previous easing biases.
+  中文：总结：美联储联邦公开市场委员会（FOMC）在6月17日的会议上一致决定将联邦基金利率目标区间维持在3.50%至3.75%不变。然而，在新任主席凯文·沃什的领导下，委员会采取了更为鹰派的立场，强调将致力于实现物价稳定，因为通胀已连续五年多高于2%的目标。尽管未立即加息，但美联储的经济预测表明，如果通胀压力持续，2026年晚些时候可能加息，这标志着其政策立场从先前的宽松倾向转向。
+
+- **[2026.06.27] Oil Prices — 油价下跌，地缘政治风险缓解**
+  English: Crude oil prices experienced a notable slump on Friday, June 26, 2026, with Brent crude futures falling 3% to $73.23 a barrel and U.S. West Texas Intermediate (WTI) dropping 3.2% to $69.65 per barrel. This decline puts oil on track for significant weekly losses, primarily due to easing supply concerns as more stranded oil tankers exited the Strait of Hormuz. The market reacted positively to hopes of a durable U.S.-Iran agreement to reopen the crucial waterway, which had previously driven up prices due to geopolitical tensions and supply disruptions.
+  中文：总结：原油价格在2026年6月26日星期五显著下跌，布伦特原油期货下跌3%至每桶73.23美元，美国西德克萨斯中质原油（WTI）下跌3.2%至每桶69.65美元。此次下跌主要归因于霍尔木兹海峡滞留油轮的驶离，缓解了市场对供应的担忧。市场对美国与伊朗达成协议以重新开放这一关键航道的希望反应积极，此前地缘政治紧张局势和供应中断曾推高油价。
+
+- **[2026.06.27] USD/JPY — 美元兑日元汇率保持高位，日元持续承压**
+  English: The US dollar to Japanese yen (USD/JPY) exchange rate is currently trading around 161.625 on June 27, 2026, reflecting a slight change since yesterday but remaining relatively stable over the past week. The yen continues to hover near a 40-year low against the dollar, influenced by the significant interest rate differential between Japan and the United States. While the Bank of Japan recently hiked rates to 1.00%, the Federal Reserve's hawkish stance and potential for further rate increases keep the yen under pressure, making USD/JPY a popular carry trade currency pair.
+  中文：总结：2026年6月27日，美元兑日元（USD/JPY）汇率维持在161.625附近，较昨日略有变动，但过去一周保持相对稳定。由于日本和美国之间显著的利率差异，日元兑美元持续徘徊在40年低点附近。尽管日本央行近期将利率上调至1.00%，但美联储的鹰派立场和未来可能进一步加息的预期，使得日元持续承压，美元兑日元仍是热门的套利交易货币对。
+
+---
+※Stock Market Daily Digest | 2026.06.27
