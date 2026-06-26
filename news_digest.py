@@ -200,6 +200,44 @@ def mentioned_entities(headline):
     found = [name for name in names if name.lower() in headline.lower()]
     return "、".join(found[:5]) if found else "相关公司和板块"
 
+def us_event_points(headline):
+    lower = headline.lower()
+    en, zh = [], []
+    if "pre-market" in lower or "premarket" in lower:
+        en.append("it is a pre-market setup, so futures, opening breadth, and early volume are the first checks")
+        zh.append("标题指向美股盘前交易，重点应放在期货、开盘后的市场宽度和早盘成交量是否确认")
+    if "nasdaq futures" in lower or "nasdaq" in lower:
+        en.append("Nasdaq futures make the story relevant for growth-tech risk appetite")
+        zh.append("Nasdaq 是主要传导对象，因此这不只是单一公司消息，也会影响成长科技股风险偏好")
+    if "micron" in lower and any(k in lower for k in ["earnings", "forecast", "quarter", "sales", "bullish"]):
+        en.append("Micron earnings or guidance point to stronger AI-server memory demand")
+        zh.append("Micron 的财报或指引是核心催化，市场正在重新评估 AI 服务器和数据中心对存储芯片的需求")
+    elif "micron" in lower:
+        en.append("Micron is the stock-specific signal, so memory pricing matters more than a generic chip move")
+        zh.append("Micron 是主要个股信号，重点应看存储价格和 AI 服务器需求，而不只是泛泛看芯片股上涨")
+    if "boom-bust" in lower or "cycle" in lower:
+        en.append("the article questions whether AI demand is changing the old memory boom-bust cycle")
+        zh.append("标题在讨论传统存储行业的景气循环是否被 AI 需求改写，这会影响 Micron 的估值逻辑")
+    if "soar" in lower or "surge" in lower or "rally" in lower or "gaining" in lower or "rebound" in lower:
+        en.append("the price reaction is part of the news, so peer follow-through matters")
+        zh.append("这类消息包含明确的股价反应，后续要看同业是否继续跟涨，而不是只看标题中的单日涨幅")
+    if "qualcomm" in lower and "ai" in lower:
+        en.append("Qualcomm adds an AI-device chip angle separate from data-center memory")
+        zh.append("Qualcomm 带来的是 AI 终端或设备芯片角度，和 Micron 的数据中心存储逻辑并不完全相同")
+    if "ibm" in lower and ("sub-1nm" in lower or "chip" in lower):
+        en.append("IBM adds a longer-term chip R&D angle, not an immediate earnings catalyst")
+        zh.append("IBM 的芯片进展更偏长期半导体研发线索，不等同于当日财报驱动")
+    if any(k in lower for k in ["amd", "intel", "qualcomm", "broadcom", "nvidia"]):
+        en.append("peer moves show whether the trade is spreading through the AI-chip chain")
+        zh.append("AMD、Intel、Qualcomm、Broadcom 或 Nvidia 等同业表现，可以判断资金是否在扩散到更完整的 AI 芯片链")
+    if "watch" in lower or "industry news" in lower:
+        en.append("this is more of an industry watchlist item, so it should be treated as context rather than one decisive catalyst")
+        zh.append("这更像行业观察清单，适合作为背景信息，而不是单一明确催化")
+    if not en:
+        en.append("the headline points to a change in company-level expectations, sector rotation, or market sentiment")
+        zh.append("标题反映的是个股预期、行业轮动或市场情绪的变化")
+    return en[:5], zh[:5]
+
 def infer_market_summary(sec, item):
     headline = item["headline"]
     lower = headline.lower()
@@ -207,10 +245,11 @@ def infer_market_summary(sec, item):
     entities = mentioned_entities(headline)
     if "美国" in section or "US" in section:
         if any(k in lower for k in ["micron", "nvidia", "amd", "qualcomm", "broadcom", "chip", "semiconductor"]):
+            _, zh_points = us_event_points(headline)
             return (
-                f"{entities} 把美股科技线的核心驱动重新拉回 AI 芯片、存储和半导体供应链。"
-                "如果相关公司业绩指引或订单预期继续改善，资金往往会从指数层面转向更具体的半导体、服务器、数据中心和 AI 基础设施个股。"
-                "短线需要观察 Nvidia、AMD、Broadcom、Micron、Qualcomm 等是否同步放量，以及 Nasdaq 是否由少数龙头扩散到更多科技成分股。"
+                f"{entities} 是这条消息的主要观察对象。"
+                + "；".join(zh_points)
+                + "。交易上需要把标题里的具体催化和盘面反应分开看：如果同业、期货和成交量同步确认，说明资金正在沿 AI 芯片链扩散；如果只有单一股票反应，持续性就要打折。"
             )
         if any(k in lower for k in ["tesla", "rivian", "ev", "vehicle"]):
             return (
@@ -295,6 +334,14 @@ def english_market_body(sec, item, summary):
             theme = "mega-cap technology leadership and index concentration"
         else:
             theme = "index breadth, sector rotation, and risk appetite"
+        if any(k in lower for k in ["micron", "nvidia", "amd", "qualcomm", "broadcom", "chip", "semiconductor", "ibm", "intel"]):
+            en_points, _ = us_event_points(headline)
+            return (
+                f"Summary: {source} is reporting a specific {theme} story involving {entities}. "
+                + " ".join(point[0].upper() + point[1:] + "." for point in en_points)
+                + " The practical read-through is to compare the named stocks with Nasdaq futures, SOX-style semiconductor breadth, and opening volume. "
+                "If the reaction spreads across peers, it supports a sector trade; if it stays isolated, it is more likely a short-term headline move."
+            )
         return (
             f"Summary: {source} reports a market-moving item tied to {entities}. The relevance is how it feeds into {theme}. "
             f"Watch {entities} alongside Nasdaq futures, sector breadth, volume, and analyst revisions. "
