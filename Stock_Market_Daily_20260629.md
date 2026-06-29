@@ -7,111 +7,119 @@
 
 ## 🇺🇸 美国股市 / US Market
 
-Here are 8 recent news items specifically about the US Market for June 29, 2026:
+- **[2026.06.29] The Motley Fool — Is Micron Stock the New Nvidia?**
+  English: Summary: The Motley Fool is reporting a specific AI chips, memory, data centers, and semiconductor equipment story involving Nvidia, Micron. Micron is the stock-specific signal, so memory pricing matters more than a generic chip move. Peer moves show whether the trade is spreading through the AI-chip chain. The practical read-through is to compare the named stocks with Nasdaq futures, SOX-style semiconductor breadth, and opening volume. If the reaction spreads across peers, it supports a sector trade; if it stays isolated, it is more likely a short-term headline move.
+  中文：总结：Nvidia、Micron 是这条消息的主要观察对象。Micron 是主要个股信号，重点应看存储价格和 AI 服务器需求，而不只是泛泛看芯片股上涨；AMD、Intel、Qualcomm、Broadcom 或 Nvidia 等同业表现，可以判断资金是否在扩散到更完整的 AI 芯片链。交易上需要把标题里的具体催化和盘面反应分开看：如果同业、期货和成交量同步确认，说明资金正在沿 AI 芯片链扩散；如果只有单一股票反应，持续性就要打折。
+  📰 [The Motley Fool](https://news.google.com/rss/articles/CBMifkFVX3lxTE04NjV4UG9MbzJlbFJudVI5enlGOTRlOEFYaDB5N1hFeXlwQVdNcHctMjlsVGFxSmxENlZnaEhhSkJ6ckxtRVlLeXEyQ3Z0bHVxX1p4QkFhVEVac2lqWXpXVktDaFR0UmtmS3dINTBXbzFkUGs5NmlNcXdXOVk2dw?oc=5)
 
-- **[2026.06.29] Dow Jones Industrial Average — 谷歌母公司Alphabet加入道琼斯指数**
-  English: Google's parent company, Alphabet (GOOGL), is set to replace Verizon (VZ) in the Dow Jones Industrial Average before trading begins on Monday, June 29, 2026. This significant change reflects the index's evolving composition to better represent sectors like AI, digital infrastructure, and online advertising, moving away from its traditional industrial focus. Alphabet's higher share price, around $350, will give it considerably more weight in the price-weighted index, making it one of the top ten constituents. This marks the first update to the Dow since late 2024.
-  中文：总结：谷歌母公司Alphabet（GOOGL）将于2026年6月29日（周一）开盘前取代威瑞森（VZ）加入道琼斯工业平均指数。此举旨在使该指数更好地反映人工智能、数字基础设施和在线广告等新兴经济领域，Alphabet较高的股价将使其在指数中占据更重要的权重。
-  📰 [The Motley Fool](https://www.fool.com/investing/2026/06/24/dow-jones-industrial-average-change-forever-june-2/)
+- **[2026.06.29] TechStock² — Micron (NASDAQ:MU) moves pull Nvidia (NASDAQ:NVDA), Apple (NASDAQ:AAPL) into focus this week for AI stocks**
+  English: Summary: TechStock² is reporting a specific AI chips, memory, data centers, and semiconductor equipment story involving Nvidia, Micron, Apple. Nasdaq futures make the story relevant for growth-tech risk appetite. Micron is the stock-specific signal, so memory pricing matters more than a generic chip move. Peer moves show whether the trade is spreading through the AI-chip chain. The practical read-through is to compare the named stocks with Nasdaq futures, SOX-style semiconductor breadth, and opening volume. If the reaction spreads across peers, it supports a sector trade; if it stays isolated, it is more likely a short-term headline move.
+  中文：总结：Nvidia、Micron、Apple 是这条消息的主要观察对象。Nasdaq 是主要传导对象，因此这不只是单一公司消息，也会影响成长科技股风险偏好；Micron 是主要个股信号，重点应看存储价格和 AI 服务器需求，而不只是泛泛看芯片股上涨；AMD、Intel、Qualcomm、Broadcom 或 Nvidia 等同业表现，可以判断资金是否在扩散到更完整的 AI 芯片链。交易上需要把标题里的具体催化和盘面反应分开看：如果同业、期货和成交量同步确认，说明资金正在沿 AI 芯片链扩散；如果只有单一股票反应，持续性就要打折。
+  📰 [TechStock²](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPWkNCdEZ0RHVQRG1nUHM2MmtVOGFYWXQ0LVZpVmh1Z09RWV8tOExYNnhYTElickhpR1pTR2REYjVQMFFFUjhGd3FsVXlHbmhaQzFKd1dzU2lwQ25ITlZ4R3lJcEtscVJhRnJZTlRhOWxvcS1HRnJUWHdJc0pTb1RCcURkaFhxYU5CSW81Y1NtaldDNmdXSzdkN0hzdnhtZjFqai1SamZ3T2N2VWhJcWQtalhZa0F2b0tr?oc=5)
 
-- **[2026.06.29] Russell US Indexes — 罗素美国指数成分股调整生效**
-  English: The newly reconstituted membership of the Russell US Indexes, including the Russell 1000, Russell 2000, and Russell 3000, becomes effective at the market open on June 29, 2026. Nasdaq reported a record Closing Cross volume on June 26, with 4.59 billion shares worth $334.027 billion executed, as asset managers reconfigured portfolios to align with the updated index compositions. This annual reconstitution is a major event for US equity markets, reflecting shifts in market capitalization and sector dominance.
-  中文：总结：罗素美国指数（包括罗素1000、2000和3000指数）的新成分股调整于2026年6月29日市场开盘时正式生效。纳斯达克在6月26日报告了创纪录的收盘集合竞价交易量，反映了资产经理为适应指数调整而进行的投资组合再平衡。
-  📰 [Stock Titan](https://stocktitan.net/news/NDAQ/record-trading-volume-on-the-nasdaq-closing-cross-during-the-june-2026-russell-us-indexes-reconstitution-u4470940024.html)
+- **[2026.06.29] AOL.com — Micron's Blowout Earnings Could Be Great News for Nvidia Investors**
+  English: Summary: AOL.com is reporting a specific AI chips, memory, data centers, and semiconductor equipment story involving Nvidia, Micron. Micron earnings or guidance point to stronger AI-server memory demand. Peer moves show whether the trade is spreading through the AI-chip chain. The practical read-through is to compare the named stocks with Nasdaq futures, SOX-style semiconductor breadth, and opening volume. If the reaction spreads across peers, it supports a sector trade; if it stays isolated, it is more likely a short-term headline move.
+  中文：总结：Nvidia、Micron 是这条消息的主要观察对象。Micron 的财报或指引是核心催化，市场正在重新评估 AI 服务器和数据中心对存储芯片的需求；AMD、Intel、Qualcomm、Broadcom 或 Nvidia 等同业表现，可以判断资金是否在扩散到更完整的 AI 芯片链。交易上需要把标题里的具体催化和盘面反应分开看：如果同业、期货和成交量同步确认，说明资金正在沿 AI 芯片链扩散；如果只有单一股票反应，持续性就要打折。
+  📰 [AOL.com](https://news.google.com/rss/articles/CBMihwFBVV95cUxQcmJyYnJpT202bE9qWkQtcEF1aFNFZWdKeUF3THlZNnZsWHhYeWRUUlZLMUtUT3lBRk5SWGZNVktNVy00cEtCVUJyQm1mb1VzZjJKY21RR0MxN2w1SW9WSXI4clpDeWlFTnpBOWo0Z2otZ3RBZWwzVzl5Z2t3ZU1TbTI1cXk4bFU?oc=5)
 
-- **[2026.06.29] S&P 500 Index — 霍尼韦尔航空航天公司将加入标普500指数**
-  English: Honeywell Aerospace Inc. (HONA) is scheduled to be added to the S&P 500 index on Monday, June 29, 2026, replacing Conagra Brands Inc. (CAG). This change follows Honeywell International's spin-off of its aerospace division. The parent company, Honeywell International, will be renamed Honeywell Technologies Inc. and will remain in the S&P 500, while Honeywell Aerospace will also join the S&P 100 on June 30.
-  中文：总结：霍尼韦尔航空航天公司（HONA）将于2026年6月29日（周一）被纳入标普500指数，取代康尼格拉品牌公司（CAG）。此举是霍尼韦尔国际分拆其航空航天业务后的调整，霍尼韦尔国际更名为霍尼韦尔科技公司后将继续留在标普500指数中。
-  📰 [S&P Dow Jones Indices Press Releases](https://www.google.com/search?q=US)
+- **[2026.06.29] AOL.com — IBM stock pops as company unveils chip 'the size of a fingernail' in AI push**
+  English: Summary: AOL.com is reporting a specific AI chips, memory, data centers, and semiconductor equipment story involving the relevant assets and sectors. IBM adds a longer-term chip R&D angle, not an immediate earnings catalyst. The practical read-through is to compare the named stocks with Nasdaq futures, SOX-style semiconductor breadth, and opening volume. If the reaction spreads across peers, it supports a sector trade; if it stays isolated, it is more likely a short-term headline move.
+  中文：总结：相关公司和板块 是这条消息的主要观察对象。IBM 的芯片进展更偏长期半导体研发线索，不等同于当日财报驱动。交易上需要把标题里的具体催化和盘面反应分开看：如果同业、期货和成交量同步确认，说明资金正在沿 AI 芯片链扩散；如果只有单一股票反应，持续性就要打折。实盘上还应观察期货开盘后的成交量、期权隐含波动率、龙头股是否带动同业，以及资金是否从指数权重股扩散到中小型成长股。如果消息只推动单一公司而板块没有跟随，趋势持续性会弱一些；如果半导体、软件、云计算和电力基础设施同时响应，说明市场正在交易更完整的 AI 资本开支链条。
+  📰 [AOL.com](https://news.google.com/rss/articles/CBMif0FVX3lxTFBRWWVTSUUtQnB0MHhXV3VJWFJhR2Y1RDlzYzMteWRITzV1NEUySXRWMmEzLXIzaVZKenBkUFM1d21IdTNsRW1kN2VVemdxS3hCYl9UVldHWFF3eTBXWnJRR2VzV3NTRnNsZWFBVWR6WUR3aTNWTDlLVEpILTd6NHc?oc=5)
 
-- **[2026.06.29] US Market Macro — 美联储维持利率不变，通胀担忧持续**
-  English: The Federal Reserve maintained its federal funds rate at 3.50%-3.75% during its June 2026 meeting, marking the fourth consecutive meeting without a change. This decision, made under new Fed Chair Kevin Warsh, signals a "hawkish pause" as policymakers navigate persistent inflation and uncertainty regarding the pace of price pressure easing. New economic projections indicate that some officials foresee at least one rate hike this year, while others anticipate no moves or even cuts, reflecting ongoing debate within the FOMC.
-  中文：总结：美联储在2026年6月的会议上连续第四次将联邦基金利率维持在3.50%-3.75%不变。在新任主席凯文·沃什的领导下，这一“鹰派暂停”的决定反映了政策制定者在应对持续通胀和经济前景不确定性方面的谨慎态度，部分官员仍预计今年可能加息。
-  📰 [Trading Economics](https://tradingeconomics.com/united-states/interest-rate)
+- **[2026.06.29] AOL.com — Micron Just Locked In $100 Billion in Sales, and Wall Street Thinks the Boom-Bust Chip Cycle Is Dead**
+  English: Summary: AOL.com is reporting a specific AI chips, memory, data centers, and semiconductor equipment story involving Micron. Micron earnings or guidance point to stronger AI-server memory demand. The article questions whether AI demand is changing the old memory boom-bust cycle. The practical read-through is to compare the named stocks with Nasdaq futures, SOX-style semiconductor breadth, and opening volume. If the reaction spreads across peers, it supports a sector trade; if it stays isolated, it is more likely a short-term headline move.
+  中文：总结：Micron 是这条消息的主要观察对象。Micron 的财报或指引是核心催化，市场正在重新评估 AI 服务器和数据中心对存储芯片的需求；标题在讨论传统存储行业的景气循环是否被 AI 需求改写，这会影响 Micron 的估值逻辑。交易上需要把标题里的具体催化和盘面反应分开看：如果同业、期货和成交量同步确认，说明资金正在沿 AI 芯片链扩散；如果只有单一股票反应，持续性就要打折。
+  📰 [AOL.com](https://news.google.com/rss/articles/CBMif0FVX3lxTE5UY0dyRXFWZlNseW5BeWp0RVlISnMxMkFOMmMxcDJLQk8ybHFaRHh4OThLYS1OMWZyMmxqeUZ1V0lZdkVYVGJKeEwzcDdSZS0yMUpiVldXbUQwa0QwNTRGOUc4TzV0LUtOdmVtQ1VWWTVfZmNkZmNDWXVhb1pEbHM?oc=5)
 
-- **[2026.06.29] Tech Stocks — 科技股近期承压，资金流向防御性板块**
-  English: Leading into June 29, 2026, the technology sector has experienced a sell-off, with the Nasdaq down over 3% last week, as capital rotated out of semiconductor and "Magnificent Seven" stocks into more defensive sectors like healthcare and utilities. This shift comes amid hotter-than-expected PCE inflation data, which pushed 2026 rate-hike odds higher. Despite strong earnings from some tech companies like Micron, broader tech stocks, including Apple, faced pressure due to factors like memory price hikes.
-  中文：总结：在2026年6月29日之前，科技股面临抛售压力，纳斯达克指数上周下跌超过3%，资金从半导体和“七巨头”股票流向医疗保健和公用事业等防御性板块。此轮调整主要受高于预期的PCE通胀数据影响，推高了2026年加息预期。
-  📰 [TrendSpider Blog](https://blog.trendspider.com/market-update-into-june-29th-semis-sell-off/)
+- **[2026.06.28] 매일경제 — In the past week, domestic investors (seohak ants) investing in overseas stock markets have invested..**
+  English: Summary: 매일경제 reports a market-moving item tied to the relevant assets and sectors. The relevance is how it feeds into index breadth, sector rotation, and risk appetite. Watch the relevant assets and sectors alongside Nasdaq futures, sector breadth, volume, and analyst revisions. If related stocks move together, the signal is more likely to reflect a real sector trend; if the reaction is isolated, it may be short-lived repricing. The next checkpoint is whether trading confirms the same direction across peers.
+  中文：总结：相关公司和板块 反映美股盘面或个股情绪正在发生变化。它的重点不只是指数涨跌，而是资金正在选择哪些行业、哪些主题以及哪些公司作为交易主线。后续应结合盘前期货、板块涨跌、成交量和分析师评级变化，判断这是短线情绪反弹，还是能够延续的产业趋势。实盘上还应观察期货开盘后的成交量、期权隐含波动率、龙头股是否带动同业，以及资金是否从指数权重股扩散到中小型成长股。如果消息只推动单一公司而板块没有跟随，趋势持续性会弱一些；如果半导体、软件、云计算和电力基础设施同时响应，说明市场正在交易更完整的 AI 资本开支链条。
+  📰 [매일경제](https://news.google.com/rss/articles/CBMiT0FVX3lxTE0zZzlpcHRwWVpuNHJKMjVseGRwM0dUbHRuNWlubU5ZUlpnaHQ1cGs3c0twNThnaFpPNVRMWF9jWkVSMU5ORUpRZlhrd08zamc?oc=5)
 
-- **[2026.06.29] Microsoft — 微软股价反弹，分析师看好AI软件前景**
-  English: Microsoft (MSFT) stock saw a significant rebound on June 26, closing up 5.71% at $372.97, after hitting its deepest drawdown of the year on June 25. This surge was partly attributed to a notable investor's bullish bet and a broader market rotation into AI software names. Despite a 25% year-to-date decline, analysts maintain a "Strong Buy" consensus with an average price target around $561, citing strong cloud numbers and a $37 billion AI annual recurring revenue run rate.
-  中文：总结：微软（MSFT）股价在6月26日大幅反弹5.71%，收于372.97美元，此前一日触及年内最大跌幅。此次上涨部分归因于知名投资者的看涨押注以及资金转向AI软件股。尽管今年以来下跌25%，分析师仍维持“强烈买入”评级，平均目标价约561美元，看好其强劲的云业务和AI收入增长。
-  📰 [TIKR.com](https://tikr.com/insight/microsoft-jumped-5-in-a-single-day-after-michael-burry-went-long-heres-where-msft-could-go-in-2026)
+- **[2026.06.28] MSN — AI chip surge lifts Wall St despite US-Iran war worries**
+  English: Summary: MSN is reporting a specific AI chips, memory, data centers, and semiconductor equipment story involving the relevant assets and sectors. The price reaction is part of the news, so peer follow-through matters. The practical read-through is to compare the named stocks with Nasdaq futures, SOX-style semiconductor breadth, and opening volume. If the reaction spreads across peers, it supports a sector trade; if it stays isolated, it is more likely a short-term headline move.
+  中文：总结：相关公司和板块 是这条消息的主要观察对象。这类消息包含明确的股价反应，后续要看同业是否继续跟涨，而不是只看标题中的单日涨幅。交易上需要把标题里的具体催化和盘面反应分开看：如果同业、期货和成交量同步确认，说明资金正在沿 AI 芯片链扩散；如果只有单一股票反应，持续性就要打折。实盘上还应观察期货开盘后的成交量、期权隐含波动率、龙头股是否带动同业，以及资金是否从指数权重股扩散到中小型成长股。如果消息只推动单一公司而板块没有跟随，趋势持续性会弱一些；如果半导体、软件、云计算和电力基础设施同时响应，说明市场正在交易更完整的 AI 资本开支链条。
+  📰 [MSN](https://news.google.com/rss/articles/CBMi7gFBVV95cUxPcWFzNlI5T0pZSkFEWng3NnFvZG5mRi12SU4zRHlCeDE3VUhCS1YxejI4ZElMc05xOV9NeVktb0tpSUJJR213N3VRVm1uN3liRDZnWURBTnUwUFY2VWt5Q3pFZ2dEektDRV9nYlNRR25zM2tiZWt5T0hnbWw0Yk02Z2xYUWhzR0lHSkxrNl9GRlRlR0t2b1pNSmxfMU1PY216QjRib0gzb2hnMmFFRDJGZXBlSkFlTjRTNmFGWEY4ZkZVWjlReDIxU1R1QVZ5VmpPcXBiWTk4cFVOUVF0cXlVOFFoRl9zSEs2NE1CRmZn?oc=5)
 
-- **[2026.06.29] NVIDIA — 英伟达AI业务强劲，华尔街上调目标价**
-  English: Nvidia (NVDA) continues to be a dominant force in the AI infrastructure build-out, with its stock advancing significantly since early 2023. Wall Street analysts remain highly bullish, with the consensus target price increasing to $295 per share, implying a 42% upside from its current price of $209. The company's GPUs are gaining market share in AI inference workloads, and its earnings are projected to grow faster than 36% annually through 2030, making its current valuation attractive to many.
-  中文：总结：英伟达（NVDA）在人工智能基础设施建设中保持主导地位，华尔街分析师对其前景非常看好，共识目标价已上调至每股295美元，意味着较当前价格有42%的上涨空间。英伟达的GPU在AI推理工作负载中市场份额不断扩大，预计到2030年其盈利将以每年超过36%的速度增长。
-  📰 [Barchart.com](https://www.barchart.com/story/news/24792070/theres-another-new-reason-to-get-bullish-on-nvidia-stock)
-
-- **[2026.06.29] Amazon — 亚马逊Prime Day表现强劲，AI助力在线购物**
-  English: Amazon.com (AMZN) experienced a successful Prime Day from June 23 to June 26, with online spending reaching $8.3 billion on the opening day, a 5.3% year-over-year increase. Generative AI is credited with transforming online shopping, contributing to the strong performance. Analysts maintain a "Strong Buy" rating for Amazon, with an average price target of $316.04, signaling significant potential upside, driven by robust Q1 FY2026 results and strong growth in AWS and advertising.
-  中文：总结：亚马逊（AMZN）在6月23日至26日的Prime Day活动中表现强劲，首日在线支出达83亿美元，同比增长5.3%，生成式AI被认为是推动在线购物增长的关键因素。分析师对亚马逊维持“强烈买入”评级，平均目标价为316.04美元，看好其强劲的第一季度业绩以及AWS和广告业务的增长潜力。
-  📰 [Intellectia.AI](https://intellectia.ai/news/amazon-poised-to-become-next-3-trillion-company)
+- **[2026.06.28] The Globe and Mail — The Smartest Dividend Stocks to Buy With $5,000 Right Now**
+  English: Summary: The Globe and Mail reports a market-moving item tied to the relevant assets and sectors. The relevance is how it feeds into index breadth, sector rotation, and risk appetite. Watch the relevant assets and sectors alongside Nasdaq futures, sector breadth, volume, and analyst revisions. If related stocks move together, the signal is more likely to reflect a real sector trend; if the reaction is isolated, it may be short-lived repricing. The next checkpoint is whether trading confirms the same direction across peers.
+  中文：总结：相关公司和板块 反映美股盘面或个股情绪正在发生变化。它的重点不只是指数涨跌，而是资金正在选择哪些行业、哪些主题以及哪些公司作为交易主线。后续应结合盘前期货、板块涨跌、成交量和分析师评级变化，判断这是短线情绪反弹，还是能够延续的产业趋势。实盘上还应观察期货开盘后的成交量、期权隐含波动率、龙头股是否带动同业，以及资金是否从指数权重股扩散到中小型成长股。如果消息只推动单一公司而板块没有跟随，趋势持续性会弱一些；如果半导体、软件、云计算和电力基础设施同时响应，说明市场正在交易更完整的 AI 资本开支链条。
+  📰 [The Globe and Mail](https://news.google.com/rss/articles/CBMi1wFBVV95cUxPUnRWb3hGTTJLWWhqbVl3M0g3NFVIbFlESHltMUdyeUM3ek5kSG8xNmdhUy1USTNzdkFkQUlsNTlrMkxiXzlBTHV4S1pKOUVMakQ1LVBzX3lFb05FUzBVNUVJNVlhOTJkazNSTDVxZ0dIUmpySWVSV3BRb082SWRwVEpkOHJjbHlhRmVCOEVrdFh6OFZZNHYtVVA4Y0lFOHpvZVRuekpOVjZsWE8wMFExeHZ3akxEc3ZTS1lXM0lRSExNcU92d2xkWG5RSDZJMVZQbmN4MHFrVQ?oc=5)
 
 ## 🇯🇵 日本株式市場 / Japan Market
 
-- **[2026.06.29] 日経平均株価 — 週明けの市場はAI・半導体株の動向に注目**
-  日本語：経済予測会社によると、2026年6月29日の日経平均株価は、最低66,271円、平均67,280円、最高68,289円の範囲で推移すると予想されています。前週末の急落を受け、週明けの市場では自律反発の動きが期待される一方で、AI・半導体関連株の動向が引き続き相場を左右する主要因となるでしょう。投資家は、これらの主要銘柄の値動きと、それに伴う市場全体のボラティリティに注目する必要があります。
-  中文：经济预测公司预计，2026年6月29日日经225指数将在66,271至68,289日元之间波动，平均为67,280日元。在上周末大幅下跌后，市场预计周初将出现技术性反弹，但人工智能和半导体相关股票的走势仍将是影响市场的主要因素。投资者需密切关注这些关键股票的波动及其对整体市场的影响。
-  📰 [経済予測会社](https://economy-forecast.com/ja/nikkei-225-forecast)
+- **[2026.06.29] 日経平均株価 — 寄り付きは反発も、半導体株の動向に注目**
+  日本語：29日の東京株式市場は、前週末の米国市場でのAI・半導体関連株の軟調な動きを受け、強弱感が対立する中で取引を開始しました。日経平均株価は前週末比249円高の6万9609円で寄り付いたものの、その後は下げ幅を拡大し、一時200円を超える下落となりました。市場の視線は、引き続きAI・半導体関連株の底堅さや、アジア株、米株価指数先物の値動きに集中しており、不安定な値動きが予想されます。
+  中文：总结：29日东京股市开盘时，因前周末美国市场AI及半导体相关股票表现疲软，多空双方对峙。日经平均指数开盘上涨249日元至69609日元，但随后跌幅扩大，一度下跌超过200日元。市场持续关注AI和半导体相关股票的韧性以及亚洲股市和美国股指期货的走势，预计市场波动性较大。
+  📰 [株探](https://kabutan.jp/)
 
-- **[2026.06.29] 主要企業決算 — しまむらなど小売・消費関連企業が四半期決算を発表**
-  日本語：2026年6月29日には、東証プライム市場上場のしまむら（8227）が第1四半期決算を発表する予定です。その他、ナガイレーベン（7447）が第3四半期、象印マホービン（7965）が第2四半期決算を発表します。これらの小売・消費関連企業の業績は、個人消費の動向やインバウンド需要の影響を測る上で重要な指標となり、市場の注目を集めるでしょう。特にしまむらの決算は、広範な消費トレンドを示すものとして注目されます。
-  中文：2026年6月29日，东证主板上市公司しまむら（8227）将公布第一季度财报。此外，ナガイレーベン（7447）将公布第三季度财报，象印マホービン（7965）将公布第二季度财报。这些零售和消费相关企业的业绩将是衡量个人消费趋势和入境旅游需求影响的重要指标，预计将受到市场关注。
-  📰 [株探](https://kabutan.jp/news/marketnews/?b=n202606280387)
+- **[2026.06.29] 為替市場 — ドル円は161円台後半でドル高・円安が継続**
+  日本語：29日の外国為替市場では、ドル円相場が午前9時時点で1ドル＝161円79銭前後と、前週末午後5時時点に比べ17銭のドル高・円安で推移しています。中東情勢への警戒感や米国の早期利上げ期待を受けた日米金利差を狙った円キャリー取引の拡大が背景にあり、週明けもドル高・円安基調が続いています。日本政府による円買い介入への警戒感も依然として強く、162円台を目前に神経質な展開が続いています。
+  中文：总结：29日外汇市场，美元兑日元汇率上午9时左右报1美元兑161.79日元，较前周末下午5时上涨17日元，美元走强、日元走弱。中东局势的警惕情绪以及对美国提前加息的预期，导致日美利差扩大，推动日元套利交易增加，美元兑日元汇率在周初继续保持美元走强、日元走弱的趋势。市场对日本政府干预买入日元的警惕情绪依然强烈，在162日元关口附近持续谨慎。
+  📰 [株探](https://kabutan.jp/)
 
-- **[2026.06.29] 経済指標 — 5月商業動態統計が発表予定**
-  日本語：2026年6月29日午前8時50分に、5月の商業動態統計が発表される予定です。この統計は、卸売業と小売業の販売額の動向を示すもので、日本国内の消費活動の健全性を評価する上で重要な経済指標となります。特に、最近の物価上昇や賃金動向が個人消費にどのような影響を与えているか、またインバウンド需要が小売売上にどれだけ貢献しているかについて、市場関係者は注目しています。
-  中文：2026年6月29日上午8时50分，日本将公布5月份商业动态统计数据。该统计数据反映批发和零售行业的销售额趋势，是评估日本国内消费活动健康状况的重要经济指标。市场参与者将特别关注近期物价上涨和工资趋势对个人消费的影响，以及入境旅游需求对零售销售的贡献。
-  📰 [株探](https://kabutan.jp/news/marketnews/?b=n202606280400)
+- **[2026.06.29] 半導体・AI関連株 — オープンAIのIPO延期報道で慎重姿勢**
+  日本語：29日の日本株市場では、半導体やAI関連株に対する慎重な姿勢が強まっています。前週末の米国市場では、オープンAIが計画していたIPOを2027年に延期する方向で検討しているとの報道が、AI投資の収益性への懸念を高め、エヌビディアなどの半導体株が売られました。この影響を受け、東京市場でもAI・半導体関連株の底堅さを見極める展開となり、市場全体の重荷となる可能性があります。
+  中文：总结：29日日本股市，半导体和AI相关股票的谨慎情绪加剧。上周末美国市场，有报道称OpenAI正在考虑将原计划的IPO推迟至2027年，这加剧了市场对AI投资盈利能力的担忧，导致英伟达等半导体股票遭到抛售。受此影响，东京市场也在观望AI和半导体相关股票的韧性，这可能成为整体市场的负担。
+  📰 [株探](https://kabutan.jp/)
 
-- **[2026.06.29] 上場廃止 — SFPホールディングスなど3銘柄が上場廃止に**
-  日本語：2026年6月29日には、東証プライム市場からSFPホールディングス（3198）とギフティ（4449）が、東証スタンダード市場からOlympicグループ（8289）が上場廃止となる予定です。これらの銘柄の上場廃止は、それぞれの企業の事業再編や経営戦略の一環として行われるものであり、直接的な市場全体への影響は限定的ですが、当該銘柄の投資家にとっては重要な情報となります。
-  中文：2026年6月29日，SFP Holdings（3198）和giftee（4449）将从东证主板退市，Olympic Group（8289）将从东证标准板退市。这些退市是各公司业务重组和经营战略的一部分，对整体市场影响有限，但对相关股票的投资者而言是重要信息。
-  📰 [株探](https://kabutan.jp/news/marketnews/?b=n202606280400)
+- **[2026.06.29] 主要企業決算 — しまむら、象印、ナガイレーベンが本日発表**
+  日本語：本日29日には、主要企業3社が四半期決算を発表する予定です。衣料品チェーンのしまむら（8227）は第1四半期決算で8.1％の経常増益を見込んでおり、生活用品大手の象印マホービン（7965）は第2四半期決算で14.5％の経常減益、医療用白衣のナガイレーベン（7447）は第3四半期決算で13.3％の経常増益をそれぞれ予想しています。これらの決算内容が、今後の個別銘柄の株価動向に影響を与える可能性があります。
+  中文：总结：今日29日，三家主要公司将公布季度财报。服装连锁店しまむら（8227）预计第一季度经常性利润增长8.1%；生活用品巨头象印マホービン（7965）预计第二季度经常性利润下降14.5%；医用白衣制造商ナガイレーベン（7447）预计第三季度经常性利润增长13.3%。这些财报内容可能会影响相关个股未来的股价走势。
+  📰 [株探](https://kabutan.jp/)
 
-- **[2026.06.29] 日本株式市場 — AI・半導体株の不安定な値動きとバリュー株への資金シフトに注目**
-  日本語：来週（6月29日～7月3日）の日本株式市場は、AI・半導体関連株の不安定な値動きが引き続き相場を左右する見込みです。世界的にAI関連株が調整局面にある中、日経平均株価は大きな変動幅を示す可能性があります。これまでの相場を牽引してきたこれらの銘柄から、割安感のある出遅れセクターやバリュー株への資金シフトが進むかどうかが注目されます。中東情勢や米国の雇用統計も市場の動向に影響を与えるでしょう。
-  中文：下周（6月29日至7月3日）日本股市预计将继续受到人工智能和半导体相关股票波动的影响。在全球AI股票面临调整之际，日经225指数可能会出现大幅波动。市场关注资金是否会从此前领涨的AI相关股票转向估值较低的滞涨板块或价值股。中东局势和美国就业数据也将对市场走势产生影响。
-  📰 [ダイヤモンド・オンライン](https://diamond.jp/articles/-/345915)
+- **[2026.06.29] 市場見通し — 乱高下経て7万円台回復が焦点に**
+  日本語：先週、日経平均株価は史上初の7万2000円台到達後に急落、急反発、再反落を繰り返す激しい値動きとなりました。週明けの29日の東京市場では、前週末に7万円の大台を割り込んだ後、7万円台を回復できるか、そして買い戻しの勢いが続くかが焦点となります。市場は、現在の株価水準に対する過熱感や、国内外の機関投資家による利益確定売り、そして海外市場の動向に左右される展開が予想されます。
+  中文：总结：上周，日经平均指数在首次突破7万2000日元后，经历了暴跌、急反弹和再次下跌的剧烈波动。本周一29日东京市场，焦点在于日经指数能否在前周末跌破7万日元大关后恢复至7万日元以上，以及买盘势头能否持续。市场预计将受到当前股价水平的过热感、国内外机构投资者的获利了结以及海外市场走势的影响。
+  📰 [エコノミックニュース](https://economic.jp/)
+
+- **[2026.06.29] 日本銀行 — 6月金融政策決定会合の利上げ影響と今後の展望**
+  日本語：日本銀行は6月15日・16日の金融政策決定会合で、政策金利を1.00％に引き上げる追加利上げを決定しました。この利上げは物価の上振れリスクが高まったことが主な要因とされています。市場では、この利上げが円安基調を抑制する効果や、今後の追加利上げの可能性について議論が続いています。政府の「骨太の方針」に適切な金融政策に関する文言が追加される見通しもあり、日銀の今後の政策運営に注目が集まっています。
+  中文：总结：日本银行在6月15日至16日的货币政策会议上决定将政策利率上调至1.00%。此次加息的主要原因是物价上涨风险升高。市场持续讨论此次加息对抑制日元贬值趋势的效果以及未来进一步加息的可能性。鉴于政府“骨太方针”中预计将加入有关适当货币政策的措辞，日本央行未来的政策操作备受关注。
+  📰 [熊野英生](https://www.kumano-hideo.com/post/boj-june-2026-meeting)
+
+- **[2026.06.29] スタートアップイベント — 関西で資金調達・IPO・M&Aの機会創出**
+  日本語：本日29日、大阪・淀屋橋にて関西最大級のスタートアップイベント「THE JSSA OSAKA Meetup Vol.64」が開催されます。このイベントは、スタートアップ企業、ベンチャーキャピタル（VC）、コーポレートベンチャーキャピタル（CVC）、大企業、金融機関、M&A支援企業などが一堂に会し、資金調達、事業提携、IPO、M&Aにつながる出会いを創出することを目的としています。約60社のスタートアップが出展し、ピッチイベントなども行われます。
+  中文：总结：今日29日，关西地区最大的初创企业活动“THE JSSA OSAKA Meetup Vol.64”在大阪淀屋桥举行。该活动旨在汇集初创企业、风险投资（VC）、企业风险投资（CVC）、大企业、金融机构和并购支持企业等，创造融资、业务合作、IPO和并购的机会。约60家初创企业参展，并举行路演活动。
+  📰 [Peatix](https://peatix.com/event/4963742)
 
 ## 🌍 宏观经济与投资 / Macro & Investment
 
-- **[2026.06.29] Global Economy — 国际清算银行警告全球经济面临多重风险**
-  English: The Bank for International Settlements (BIS) has issued a warning in its annual report, highlighting several "pressure points" threatening global economic stability. These include persistent inflation, the sustainability of the AI investment boom, growing financial vulnerabilities, and strained public finances. The report notes that while the global economy has shown resilience, particularly due to AI-related investments, the recent Middle East conflict and energy shocks have exacerbated inflationary pressures. BIS emphasizes the urgent need for disciplined policymaking to safeguard price stability and strengthen financial foundations amidst these complex challenges.
-  中文：总结：国际清算银行（BIS）在其年度报告中警告，全球经济正面临多重风险，包括持续的通货膨胀、人工智能投资热潮的可持续性、日益增长的金融脆弱性以及紧张的公共财政。中东冲突和能源冲击加剧了通胀压力。BIS强调，需要采取有纪律的政策来维护价格稳定和加强金融基础，以应对这些复杂的挑战。
-  📰 [Bank for International Settlements](https://www.bis.org/press/p260628.htm)
+- **[2026.06.29] Dow Jones Industrial Average — 谷歌母公司Alphabet加入道琼斯工业平均指数**
+  English: Alphabet Inc., Google's parent company, is officially joining the Dow Jones Industrial Average on June 29, 2026, replacing Verizon Communications. This significant change reflects the Dow's evolving composition, increasingly incorporating sectors like AI, digital infrastructure, and online advertising. Alphabet's higher share price and broader business portfolio, spanning cloud, AI, and hardware, will give it considerably more weight in the price-weighted index, enhancing the Dow's exposure to dynamic areas of the U.S. economy. This marks the first index update since late 2024.
+  中文：总结：谷歌母公司Alphabet于2026年6月29日正式取代威瑞森通信公司，加入道琼斯工业平均指数。此举反映了道指日益关注人工智能、数字基础设施和在线广告等新兴领域。Alphabet较高的股价和多元化业务将使其在价格加权指数中占据更大权重，从而增强道指对美国经济活力领域的代表性。这是自2024年末以来的首次指数调整。
+  📰 [The Motley Fool](https://www.fool.com/investing/2026/06/24/dow-jones-industrial-average-will-change-forever-j/)
 
-- **[2026.06.29] Nasdaq/S&P 500 — 纳斯达克指数经历数月来最差表现，科技股承压**
-  English: The Nasdaq Composite experienced its worst week in months, tumbling approximately 4.6%, as Wall Street saw a significant rotation out of high-growth technology stocks into more defensive sectors. The S&P 500 also fell by 2.0%, while the Dow Jones Industrial Average managed a 0.6% gain. Investors are re-evaluating valuations in the tech sector, particularly concerning AI-related investments, amidst shifting oil prices and geopolitical developments. This rotation underscores concerns about overvaluation and the importance of portfolio diversification after a period of concentrated exposure to AI and semiconductor stocks.
-  中文：总结：纳斯达克综合指数经历了数月来表现最差的一周，下跌约4.6%，因投资者从高增长科技股转向防御性板块。标普500指数也下跌2.0%。市场对AI相关投资的估值、油价波动和地缘政治发展感到担忧，促使投资者重新评估科技股，并强调了投资组合多元化的重要性。
-  📰 [Benzinga](https://www.benzinga.com/news/26/06/49339797/nasdaq-suffers-worst-week-in-months-as-wall-street-rotates-out-of-tech)
+- **[2026.06.29] Global Oil Prices — 中东地缘政治紧张局势推动油价上涨**
+  English: Oil prices climbed on June 29, 2026, following renewed tit-for-tat strikes between the United States and Iran in the Middle East. Brent crude futures rose, with U.S. West Texas Intermediate (WTI) crude also seeing gains. The escalation in hostilities, including a tanker carrying Qatari crude being hit, underscored the fragility of the interim peace deal and again slowed energy shipping in the crucial Strait of Hormuz. Investors are closely monitoring developments, as persistent tensions continue to support crude prices due to supply disruption concerns.
+  中文：总结：2026年6月29日，由于美国和伊朗在中东地区再次发生互袭事件，油价上涨。布伦特原油期货和美国西德克萨斯中质原油均出现上涨。冲突升级，包括一艘卡塔尔原油油轮遇袭，凸显了临时和平协议的脆弱性，并再次减缓了霍尔木兹海峡的能源运输。投资者正密切关注事态发展，持续的紧张局势因供应中断担忧而继续支撑原油价格。
+  📰 [Reuters](https://www.reuters.com/markets/commodities/oil-climbs-following-renewed-us-iran-strikes-middle-east-2026-06-29/)
 
-- **[2026.06.29] Federal Reserve — 美联储官员对利率路径存在分歧，通胀压力持续**
-  English: New York Fed President John Williams projects inflation to reach the central bank's 2% target by 2028, despite ending 2026 at 3.5%. He believes current rates are adequate, yet nearly half of Fed officials anticipate at least one more quarter-point rate hike this year. Factors contributing to persistent inflation include tariffs, the Middle East energy shock, and a surge in AI investment. Investors are largely betting on a Fed tightening policy by September, reflecting ongoing concerns about sticky inflation, which has been above target for five years.
-  中文：总结：纽约联储主席威廉姆斯预计通胀将在2028年达到2%目标，但今年底仍将维持在3.5%。尽管他认为当前利率水平适宜，但近半数美联储官员预计今年至少再加息一次。关税、中东能源冲击和AI投资激增是通胀持续高企的原因。市场普遍预期美联储将在9月前收紧政策，以应对已连续五年高于目标水平的顽固通胀。
-  📰 [Briefs Finance](https://briefs.finance/news/economy/fed-williams-rates-right-for-2-inflation-by-2028)
+- **[2026.06.29] Gold Market — 黄金价格上涨，美联储加息预期略有下降**
+  English: Gold prices saw an increase on June 29, 2026, recovering from a weekly downtrend. This rebound was primarily driven by a weaker U.S. dollar and slightly reduced market expectations for a Federal Reserve interest rate hike in September, following the latest inflation report. Spot gold was up, with U.S. August gold futures also rising. Despite the gains, high interest rates generally remain a disadvantage for gold, as the precious metal does not yield returns like interest-bearing assets.
+  中文：总结：2026年6月29日，黄金价格上涨，从一周跌势中反弹。这主要得益于美元走弱以及最新通胀报告发布后，市场对美联储9月加息的预期略有下降。现货黄金和美国8月黄金期货均走高。尽管有所上涨，但高利率通常仍对黄金不利，因为贵金属不像有息资产那样产生收益。
+  📰 [Báo Nghệ An](https://baonghean.vn/gold-prices-on-june-29-2026-sjc-gold-price-9999-gold-ring-price-and-world-gold-price-for-the-day-post348710.html)
 
-- **[2026.06.29] USD/JPY — 美元兑日元汇率受美日央行政策分歧影响，面临突破162关口风险**
-  English: The USD/JPY exchange rate is hovering around 161.75, extending its rally to fresh multi-year highs, driven by diverging monetary policies between the Federal Reserve and the Bank of Japan. Sticky U.S. inflation keeps a September Fed rate hike on the table, supporting the dollar. Conversely, the Bank of Japan's signals towards policy normalization due to spreading inflation pressure in Japan could cap the yen's upside. Technical analysis suggests a breakout above 162 could lead to a rally towards 175, though Citi forecasts a retreat to 153 by year-end due to narrowing rate differentials.
-  中文：总结：美元兑日元汇率在161.75附近徘徊，受美联储和日本央行货币政策分歧推动，创下多年新高。美国顽固的通胀使美联储9月加息的可能性犹存，支撑美元。而日本央行因通胀压力蔓延而发出的政策正常化信号可能限制日元升值。技术分析显示，突破162可能导致汇率升至175，但花旗银行预测年底将回落至153。
-  📰 [FXEmpire](https://www.fxempire.com/forecasts/article/interest-rate-forecast-usdjpy-eyes-162-breakout-as-fed-and-boj-diverge-1428574)
+- **[2026.06.29] US Equity Markets — 美股市场出现板块轮动，科技股承压**
+  English: U.S. equity markets experienced a divided performance in the week ending June 26, 2026, with a notable rotation out of growth and into defensive sectors. The S&P 500 and Nasdaq Composite declined significantly, primarily due to a sharp correction in semiconductor and artificial intelligence hardware stocks, reflecting valuation fatigue and a pause in the AI trade. Conversely, the Dow Jones Industrial Average and the small-cap Russell 2000 index posted gains, with healthcare and real estate leading as defensive plays, signaling a shift towards value and resilience amid sticky inflation concerns.
+  中文：总结：截至2026年6月26日的一周，美国股市表现分化，资金明显从成长股转向防御性板块。标普500指数和纳斯达克综合指数大幅下跌，主要受半导体和人工智能硬件股大幅回调影响，反映出估值疲劳和AI交易暂停。道琼斯工业平均指数和小盘股罗素2000指数则上涨，医疗保健和房地产等防御性板块领涨，表明在通胀持续的背景下，市场转向价值和韧性。
+  📰 [Tradingkey](https://tradingkey.com/us-stock-market-this-week-2026-06-29/)
 
-- **[2026.06.29] 日経平均株価 — 科技株の圧力により日経平均株価が下落**
-  日本語：日経平均株価は、人工知能（AI）インフラへの多額の支出に対する懸念が再燃し、テクノロジー株が再び圧力にさらされたことで、金曜日に4.15%下落し、69,361円で取引を終えました。これは前日の上昇分を帳消しにする形となりました。特に、OpenAIの新規株式公開（IPO）が2027年まで延期される可能性が報じられた後、ソフトバンクグループが約13%急落し、他のテクノロジー関連銘柄も追随しました。東京のコアインフレ率が8ヶ月ぶりに加速したことも、日本銀行が利上げを継続するとの期待を高めています。
-  中文：总结：受对人工智能基础设施巨额支出的担忧再次浮现，以及科技股面临压力的影响，日经225指数周五下跌4.15%，收于69,361点，抵消了前一交易日的涨幅。特别是，有报道称OpenAI的首次公开募股（IPO）可能推迟至2027年，导致软银集团股价暴跌近13%，其他科技股也随之下跌。此外，东京核心通胀率八个月来首次加速，强化了日本央行将继续加息的预期。
-  📰 [Trading Economics](https://tradingeconomics.com/japan/stock-market)
+- **[2026.06.29] Bitcoin ETF — 贝莱德IBIT引领比特币ETF资金流出**
+  English: U.S. spot Bitcoin ETFs experienced significant outflows during the week of June 22-26, 2026, totaling approximately $1.79 billion. BlackRock's iShares Bitcoin Trust (IBIT) accounted for a substantial 73% of these outflows, with a single-day net outflow of $444.5 million on June 26. This development indicates that the largest Bitcoin ETF is now acting as a major redemption channel, potentially creating selling pressure for Bitcoin bulls and raising concerns about investor trust in the cryptocurrency market amid security concerns and broader market caution.
+  中文：总结：2026年6月22日至26日当周，美国现货比特币ETF出现约17.9亿美元的大规模资金流出。其中，贝莱德的iShares比特币信托（IBIT）贡献了73%的流出量，仅6月26日单日净流出就达4.445亿美元。这一情况表明，最大的比特币ETF已成为主要的赎回渠道，可能给比特币多头带来抛售压力，并引发市场对加密货币信任度以及安全担忧的关注。
+  📰 [KuCoin](https://www.kucoin.com/news/blackrocks-ibit-accounts-for-73-of-bitcoin-etf-outflows-in-june-2026)
 
-- **[2026.06.29] Gold — 黄金价格在美联储鹰派立场和美元走强下保持稳定**
-  English: Gold prices have found a fragile footing around $4,080 per ounce, after a week of volatility that saw the metal briefly dip below $4,000. This movement is a result of a tug-of-war between the Federal Reserve's hawkish monetary policy signals and a resilient US dollar on one side, and sustained central bank buying alongside robust physical demand on the other. Expectations of prolonged higher interest rates and a stronger dollar are pressuring gold, while central bank purchases, which saw gold's share of official reserves surpass US Treasury holdings, provide structural support.
-  中文：总结：黄金价格在一周波动后，在每盎司4,080美元附近找到脆弱支撑，此前曾短暂跌破4,000美元。这反映了美联储鹰派货币政策信号和美元走强，与央行持续购买和强劲实物需求之间的拉锯。尽管长期高利率和美元走强对黄金构成压力，但央行购买（黄金在官方储备中的份额已超过美国国债）提供了结构性支撑。
-  📰 [InteractiveCrypto](https://interactivecrypto.com/news/gold-holds-steady-at-4080-amid-hawkish-fed-and-dollar-strength-whats-next-for-the-metal)
+- **[2026.06.29] 日本市场与日元 — 日经指数波动，日元兑美元持续疲软**
+  日本語：2026年6月29日の週、日経平均株価はAI関連株に牽引され乱高下し、一時70,000円を割り込んだ後、新高値を更新し、再び急落する展開となった。日経平均が主要目標と見られていた「70,000円」に到達したことで、一部では日本株への短期資金流入が反転する可能性が指摘されている。また、日米金利差や中東情勢の不確実性から、日元は対ドルで161.75付近と約40年ぶりの安値圏で推移しており、162円に接近すれば当局による介入警戒感が高まるだろう。
+  中文：总结：2026年6月29日当周，日经225指数受AI相关股票影响剧烈波动，一度跌破70,000日元后创下新高，随后再次大幅下挫。鉴于日经指数已达到70,000日元这一关键目标，有观点认为短期流入日本股市的资金可能开始逆转。此外，受日美利差和中东局势不确定性影响，日元兑美元维持在161.75附近，接近40年低点，若逼近162日元，日本当局干预的警惕性将进一步升高。
+  📰 [富途资讯](https://news.futunn.com/market/19934440)
 
-- **[2026.06.29] Crypto Market — 加密货币市场多数代币下跌，比特币小幅上涨**
-  English: The broader cryptocurrency market is experiencing a turbulent day, with a significant number of tokens in decline. Out of 390 tracked tokens, 313 are falling, while only 77 are on the rise. Bitcoin saw a slight uptick to $60,017.77 amidst this general downtrend, but overall market sentiment remains cautious. The sharp declines in many altcoins underscore the current volatility and the need for traders to adapt to rapid changes in market conditions.
-  中文：总结：加密货币市场今日波动剧烈，多数代币下跌。在追踪的390个代币中，有313个下跌，仅77个上涨。比特币在此普遍下跌趋势中略有上涨至60,017.77美元，但整体市场情绪依然谨慎。许多山寨币的急剧下跌凸显了当前市场的波动性，交易者需警惕并适应快速变化的市场状况。
-  📰 [AIMS](https://www.aims.com.pk/crypto-market-sees-77-tokens-rise-while-313-decline-on-june-28-2026/)
+- **[2026.06.29] 国际清算银行 (BIS) — 国际清算银行警告AI乐观情绪可能导致长期投资低迷**
+  English: The Bank for International Settlements (BIS) issued a warning on June 29, 2026, stating that excessive optimism surrounding artificial intelligence (AI) could potentially lead to a prolonged investment slump. In its annual economic report, the "central bank of central banks" suggested that major cloud operators (hyperscalers) might deliver returns below market expectations, causing funding issues and ultimately scaling back investments. The BIS drew parallels to historical bubbles like the 1830s canal expansion and the dot-com bubble, emphasizing the need for caution despite AI's potential for productivity boosts.
+  中文：总结：国际清算银行（BIS）于2026年6月29日发出警告，指出对人工智能（AI）的过度乐观情绪可能导致长期投资低迷。在其年度经济报告中，这家“央行的央行”表示，大型云运营商（超大规模企业）的回报可能低于市场预期，从而引发融资问题并最终缩减投资。BIS将此与19世纪30年代的运河扩张和互联网泡沫等历史性泡沫相提并论，强调尽管AI具有提高生产力的潜力，但仍需保持谨慎。
+  📰 [Seoul Economic Daily](https://www.sedaily.com/NewsView/2CX1505J2M/GC06)
 
 ---
 ※Stock Market Daily Digest | 2026.06.29
