@@ -1,0 +1,134 @@
+# 📈 Stock Market Daily | 2026.06.30（火曜日 / Tuesday）
+
+> ⚠ 本日报优先收录最近24小时的市场新闻、个股异动与当时市场快照；数据仅供参考，不构成投资建议。
+
+---
+
+
+## 🇺🇸 美国股市 / US Market
+
+Here are 8 recent news items about the US market, specifically for June 30, 2026:
+
+- **[2026.06.30] Nike (NKE) — 耐克公布2026财年第四季度及全年财报**
+  English: Global sportswear giant Nike is set to release its fiscal 2026 fourth-quarter and full-year financial results after the U.S. market close today. Analysts anticipate a decline in both earnings and revenue, with expectations of a 6% year-on-year drop in Q4 earnings per share to $0.13 and a 2% revenue decrease to $10.8 billion. Investors will closely scrutinize the company's direct-to-consumer (DTC) channel performance, North American wholesale market restructuring, and inventory clearance efforts in Greater China amid a challenging macroeconomic environment.
+  中文：总结：全球运动服饰巨头耐克将于今日美国市场收盘后公布2026财年第四季度及全年财报。分析师预计其第四季度每股收益将同比下降6%至0.13美元，营收下降2%至108亿美元。在充满挑战的宏观经济环境下，投资者将密切关注公司DTC渠道表现、北美批发市场重组以及大中华区库存清理情况。
+  📰 [TradingKey](https://www.tradingkey.com/news/week-ahead-june-payrolls-to-be-released-early-us-stocks-to-close-friday-for-independence-day-consumer-giant-nike-to-report-earnings-1225010)
+
+- **[2026.06.30] Microsoft (MSFT) — 微软财年结束，Xbox盈利能力受关注**
+  English: Microsoft's fiscal year concludes today, June 30, marking a significant period for investors awaiting potential dividend announcements, share buyback program updates, and preliminary commentary on annual results. A key focus is the Xbox gaming division, which faces a profitability crisis, with annual revenue declining despite substantial content investments. This fiscal year-end could prompt the company to recalibrate its gaming strategy, potentially involving cost-cutting or restructuring.
+  中文：总结：微软的财年于今日（6月30日）结束，投资者正等待其潜在的股息公告、股票回购计划更新以及年度业绩初步评论。Xbox游戏部门面临盈利危机，尽管投入巨额内容投资，但年收入仍在下降。此次财年末可能促使公司重新调整其游戏战略，或涉及成本削减或重组。
+  📰 [Demos](https://www.demos.org/news/microsoft-stock-why-june-30-matters-investors-revenue-warning-signal)
+
+- **[2026.06.30] Federal Reserve / US Market — 美联储“鹰派暂停”预示利率高位持续**
+  English: The Federal Reserve's recent June meeting saw the central bank maintain the federal funds rate at 3.50%-3.75% for the fourth consecutive time. This "hawkish pause" signals that interest rates are likely to remain elevated well into 2027, driven by persistent inflation concerns. The updated dot plot revealed officials raised their year-end 2026 rate projections, indicating a slower, more cautious descent than previously anticipated, impacting market sentiment today.
+  中文：总结：美联储在近期6月会议上连续第四次将联邦基金利率维持在3.50%-3.75%不变。此次“鹰派暂停”表明，受持续通胀担忧影响，利率可能在2027年仍将保持高位。更新后的点阵图显示，官员们上调了2026年末的利率预测，预示着利率下降速度将比此前预期更为缓慢和谨慎，这影响了今日的市场情绪。
+  📰 [Intellectia AI](https://www.intellectia.ai/news/fed-rate-decision-june-2026-hawkish-pause-signals-higher-for-longer)
+
+- **[2026.06.30] S&P 500 / US Market — 标普500指数在通胀担忧中波动**
+  English: The S&P 500 experienced a volatile period leading into the holiday-shortened week, with inflation exceeding 4% for the first time in three years, contributing to elevated market uncertainty. While hopes for a US-Iran ceasefire provided some optimism, investors remain cautious. Technology and industrial stocks were among the worst performers on June 29, while real estate showed gains, highlighting a rotation in market leadership as investors digest economic data.
+  中文：总结：在进入假日缩短的一周前，标普500指数表现波动，通胀率三年来首次突破4%加剧了市场不确定性。尽管美伊停火希望带来一些乐观情绪，但投资者仍保持谨慎。6月29日，科技和工业股表现不佳，而房地产股上涨，显示出市场领导力的轮换，投资者正在消化新的经济数据。
+  📰 [Zacks Investment Research](https://www.zacks.com/stock/news/2704192/stock-market-news-for-jun-29-2026)
+
+- **[2026.06.30] Apple (AAPL) — 苹果股价上涨，但芯片成本压力犹存**
+  English: Apple shares rallied 3.1% on June 29, driven by robust demand for the iPhone 17 lineup and record Services revenue, supported by a growing installed base. However, the company faces challenges from surging memory and storage costs, which have already led to price increases on iPads and Macs, with hints of more adjustments to come. Loop Capital maintained a "Buy" rating, noting Apple's strategic move to potentially source memory chips from China to manage costs.
+  中文：总结：苹果公司股价在6月29日上涨3.1%，主要得益于iPhone 17系列的强劲需求和不断增长的用户基础带来的创纪录服务收入。然而，公司面临内存和存储成本飙升的挑战，这已导致iPad和Mac产品涨价，并暗示未来可能进一步调整。Loop Capital维持“买入”评级，指出苹果可能从中国采购内存芯片以控制成本的战略举措。
+  📰 [Yahoo Finance UK](https://uk.finance.yahoo.com/news/apple-aapl-soars-3-1-122400266.html)
+
+- **[2026.06.30] NVIDIA (NVDA) — 英伟达股价面临AI模型预测下跌压力**
+  English: NVIDIA, a leading tech stock, has been under scrutiny as AI models predicted a decline in its share price by June 30, 2026, with an average forecast of a 5.82% drop from early June levels. As of June 26, NVDA had already seen a 1.64% daily decrease and a 9.44% decline over the preceding 30 days, reflecting a broader cooling phase for some high-flying chip stocks despite strong AI infrastructure spending.
+  中文：总结：领先科技股英伟达受到密切关注，人工智能模型预测其股价在2026年6月30日前将下跌，平均预测较6月初水平下跌5.82%。截至6月26日，英伟达股价已单日下跌1.64%，此前30天累计下跌9.44%，这反映出尽管人工智能基础设施支出强劲，但部分高市值芯片股正经历更广泛的降温期。
+  📰 [Finbold](https://finbold.com/ai-sets-nvidia-stock-price-target-for-june-30-2026/)
+
+- **[2026.06.30] Rockwell Medical (RMTI) — 罗克韦尔医疗反向股票分割生效**
+  English: Rockwell Medical's 1-for-10 reverse stock split becomes effective today, June 30, 2026. This corporate action, approved by stockholders, aims to increase the company's per-share trading price to meet Nasdaq Capital Market listing requirements. Shareholders entitled to fractional shares will receive a cash payment based on today's closing trading price.
+  中文：总结：罗克韦尔医疗公司今日（2026年6月30日）实施1股拆10股的反向股票分割。此举已获股东批准，旨在提高公司每股交易价格，以符合纳斯达克资本市场的上市要求。持有零散股份的股东将根据今日收盘价获得现金支付。
+  📰 [GlobeNewswire](https://www.globenewswire.com/news-release/2026/06/29/3268802/0/en/Rockwell-Medical-Announces-1-for-10-Reverse-Stock-Split.html)
+
+- **[2026.06.30] US Market / Options Trading — 季度期权到期日可能引发市场波动**
+  English: Today, June 30, 2026, marks a Quarterly Options Expiration Date for the US market. This event typically leads to increased trading activity and potential volatility as a large number of options contracts expire, prompting traders to close or roll over positions. The expiration can influence underlying stock prices, particularly for heavily traded equities, as market makers adjust their hedges.
+  中文：总结：今日（2026年6月30日）是美国市场的季度期权到期日。这一事件通常会导致交易活动增加和潜在的市场波动，因为大量期权合约到期，促使交易员平仓或展期。期权到期可能会影响标的股票价格，特别是对于交易活跃的股票，因为做市商会调整其对冲策略。
+  📰 [NYSE](https://www.nyse.com/markets/hours-calendars)
+
+## 🇯🇵 日本株式市場 / Japan Market
+
+- **[2026.06.30] 日経平均株価 — AI・半導体株の調整続く中、終盤に反発**
+  日本語：29日の日本株式市場では、日経平均株価が前週末の急落から反発し、107円高の69,468円11銭で取引を終えました。取引序盤は中東情勢の緩和期待や前週末の反動から買いが先行したものの、AI・半導体関連株には利益確定売りが継続し、一時下落する場面も見られました。しかし、海外投資家とみられる先物買いが終盤に相場を支え、プラス圏に浮上。東証プライム市場では値上がり銘柄が約7割を占め、内需株を中心に幅広い銘柄に買いが広がりました。AI株の不安定な動きは続くものの、市場の底堅さが示された形です。
+  中文：总结：29日日本股市日经平均指数反弹，收涨107.23日元至69,468.11日元。盘初受中东局势缓和预期及上周末急跌反弹影响，买盘活跃，但AI及半导体相关股票持续面临获利回吐压力，一度下跌。然而，海外投资者期货买盘在尾盘支撑大盘，使其转涨。东证Prime市场约七成股票上涨，内需股受到广泛买入。
+  📰 [SUZAKU.LLC](https://www.google.com/search?q=Japan)
+
+- **[2026.06.30] AI・半導体関連株 — 乱高下続くも、非AI株への資金流入に期待**
+  日本語：29日の日本市場では、AI・半導体関連株が引き続き乱高下しました。前週末の米国市場での半導体株急落を受け、東京市場でも日経平均寄与度の高い主力銘柄に売り圧力が継続。フィラデルフィア半導体株指数（SOX指数）が5.3%安となるなど、投資家心理を冷やす展開となりました。しかし、取引時間中に韓国や台湾の半導体株が下げ渋り、一部でプラス圏に浮上したことが、東京市場での買い戻しを誘発しました。今後もAI株の動向が市場を左右するものの、非AI株や出遅れ銘柄への資金シフトも注目されます。
+  中文：总结：29日日本市场AI及半导体相关股票持续剧烈波动。受上周末美国半导体股暴跌影响，日本市场高权重半导体股继续承压。费城半导体指数下跌5.3%，打击投资者情绪。然而，韩国和台湾半导体股在交易中段企稳反弹，带动日本市场出现买盘。未来AI股走势仍是关键，但资金流向非AI及滞涨股的趋势也值得关注。
+  📰 [株探](https://www.google.com/search?q=Japan)
+
+- **[2026.06.30] 円相場・日銀政策 — 円安基調継続、政府の金融政策への言及が焦点**
+  日本語：29日の外国為替市場では、ドル円相場が161円台後半で推移し、1986年以来の歴史的な円安水準が続いています。日本銀行は6月17日に政策金利を1.00%に引き上げたものの、円安基調は根強く、金融政策の効果が為替に波及しない異常事態が継続しています。政府が策定する「骨太の方針」に「適切な金融政策運営が行われることも非常に重要」との文言が明記される方針であることが判明し、これが日銀の利上げを抑制する圧力になるのではとの懸念が円売りを後押ししました。今後の日銀の対応と政府の動向が注目されます。
+  中文：总结：29日外汇市场，日元兑美元汇率维持在161日元区间后半段，持续处于1986年以来的历史性低位。尽管日本央行在6月17日将政策利率上调至1.00%，但日元贬值趋势依然强劲。政府“骨太方针”中关于“适当金融政策运营”的表述，引发了市场对日本央行加息可能受限的担忧，进一步助长了日元抛售。
+  📰 [外為どっとコム マネ育チャンネル](https://www.google.com/search?q=Japan)
+
+- **[2026.06.30] 経済指標発表 — 日米の重要指標が市場の注目を集める**
+  日本語：30日には、日本国内で5月の失業率と有効求人倍率が発表されます。これらは日本経済の雇用環境を示す重要な指標であり、日本銀行の今後の金融政策判断にも影響を与える可能性があります。また、米国では6月の消費者信頼感指数と5月のJOLTS求人件数が発表される予定です。これらの米国の労働市場および消費者動向を示す指標は、FRBの金融政策見通しに影響を与え、ひいては世界の株式市場や為替市場に大きな影響を与えるため、市場関係者から注目されています。
+  中文：总结：30日，日本将公布5月失业率和有效求人倍率，这些是衡量日本就业市场状况的关键指标。同时，美国也将发布6月消费者信心指数和5月JOLTS职位空缺数据。这些美国劳动力市场和消费者行为指标将影响美联储的货币政策前景，进而对全球股市和汇市产生重大影响，受到市场参与者的高度关注。
+  📰 [外為どっとコム](https://www.google.com/search?q=Japan)
+
+- **[2026.06.30] IPO — 自動運転ソフトウェアのティアフォーが東証グロース市場に上場**
+  日本語：30日、自動運転ソフトウェア開発を手掛けるティアフォー（593A）が東証グロース市場に新規上場します。同社はオープンソースの自動運転ソフトウェア「Autoware」を活用した車両開発・販売、実証・導入支援などを事業内容としており、仮条件は1015円、公募・売出価格は未定です。AIや自動運転といった成長分野への期待から、市場の注目を集めるIPOとなるでしょう。今後の株価動向や、同社の技術が市場にどう評価されるかが焦点となります。
+  中文：总结：30日，自动驾驶软件开发商ティアフォー（593A）将在东京证券交易所Growth市场上市。该公司主营基于开源自动驾驶软件“Autoware”的车辆开发、销售及支持服务。鉴于AI和自动驾驶领域的增长潜力，此次IPO备受市场关注。其股价表现及技术在市场上的评价将成为焦点。
+  📰 [日本取引所グループ](https://www.google.com/search?q=Japan)
+
+- **[2026.06.30] M&A — SBI新生銀行による島根銀行株式取得が完了**
+  日本語：30日、SBI新生銀行（8303）による島根銀行（7150）の株式取得がクロージングを迎える予定です。これはTDnet開示において「買集め行為に該当する株式取得」として公表されており、地方銀行とSBI系金融グループとの資本関係構築という観点から注目されています。本件は、地域金融機関の再編や連携強化の動きを示すものとして、今後の金融業界の動向に影響を与える可能性があります。
+  中文：总结：30日，SBI新生银行（8303）收购岛根银行（7150）股份的交易预计将完成。此次收购被披露为“构成要约收购的股份取得”，从地方银行与SBI系金融集团建立资本关系的角度来看备受关注。此举可能预示着区域金融机构的重组和合作加强，对未来金融业发展产生影响。
+  📰 [M&A Online](https://www.google.com/search?q=Japan)
+
+- **[2026.06.30] 主要小売業決算 — 高島屋、J.フロント リテイリングが決算発表**
+  日本語：30日には、主要小売業である高島屋（8233）とJ.フロント リテイリング（3086）が決算発表を予定しています。これらの発表は、百貨店業界全体の動向や個人消費の状況を測る上で重要な指標となります。インフレや賃上げの動向が消費に与える影響、インバウンド需要の回復状況などが注目され、今後の小売セクターの業績見通しに影響を与える可能性があります。
+  中文：总结：30日，主要零售企业高岛屋（8233）和J.Front Retailing（3086）将公布财报。这些财报是衡量百货行业整体趋势和个人消费状况的重要指标。通胀、工资上涨对消费的影响以及入境旅游需求的恢复情况将受到关注，可能影响零售业未来的业绩展望。
+  📰 [トウシル 楽天証券の投資情報メディア](https://www.google.com/search?q=Japan)
+
+- **[2026.06.30] 株式分割 — TENTIALが1株を3株に分割**
+  日本語：30日、東証グロース市場上場のTENTIAL（325A）が株式分割を実施します。1株を3株に分割する予定で、これにより投資単位が引き下げられ、より多くの投資家がアクセスしやすくなることが期待されます。株式分割は、流動性の向上や株主層の拡大に寄与することが多く、今後の同社株の取引活発化に繋がる可能性があります。
+  中文：总结：30日，在东京证券交易所Growth市场上市的TENTIAL（325A）将进行股票分割，每股分割为三股。此举旨在降低投资门槛，吸引更多投资者，有望提升股票流动性并扩大股东基础，从而可能活跃该公司的股票交易。
+  📰 [SBI証券](https://www.google.com/search?q=Japan)
+
+## 🌍 宏观经济与投资 / Macro & Investment
+
+Here are 7 recent news items specifically about macroeconomics and investment, dated 2026.06.30:
+
+- **[2026.06.30] S&P 500 — 美股开盘走高，地缘政治紧张局势和通胀担忧并存**
+  English: U.S. stock futures indicated a higher open for Wall Street, with the S&P 500 poised for gains despite escalating tensions between the U.S. and Iran over the weekend, which also pushed oil prices higher. Investors are navigating a holiday-shortened week, closely monitoring geopolitical developments and persistent inflation concerns. Recent data showed inflation accelerating above 4% for the first time in nearly three years, complicating the Federal Reserve's interest rate outlook. The market sentiment remains cautious amid these mixed signals.
+  中文：总结：美国股市期货预示华尔街高开，标普500指数有望上涨，尽管周末美伊紧张局势升级导致油价走高。投资者正关注地缘政治发展和持续的通胀担忧。近期数据显示通胀加速至三年多来首次突破4%，使美联储的利率前景复杂化。市场情绪在这些复杂信号中保持谨慎。
+  📰 [The Washington Post](https://www.washingtonpost.com/business/2026/06/29/markets-wall-street-poised-open-higher-oil-prices-rise-us-iran-tensions-escalate/)
+
+- **[2026.06.30] Global Economy — 全球通胀持续高企，央行政策转向鹰派**
+  English: Global inflation remains a central focus, with the U.S. PCE price index rising 4.1% year-over-year in May, marking its highest annual pace since April 2023. This persistent overshoot of the Federal Reserve's 2% target, now for 63 consecutive months, has solidified a hawkish stance from Fed Chair Kevin Warsh, who signaled a willingness to keep policy restrictive. Other central banks, including the ECB, have also hiked rates in response to energy price shocks, indicating a global shift towards tighter monetary policy to combat inflationary pressures.
+  中文：总结：全球通胀仍是焦点，美国5月PCE物价指数同比上涨4.1%，创2023年4月以来最高年增速。美联储主席Kevin Warsh已采取鹰派立场，暗示将维持限制性政策，以应对持续超出2%目标的通胀。包括欧洲央行在内的其他央行也已加息，以应对能源价格冲击，表明全球货币政策正转向紧缩以对抗通胀压力。
+  📰 [Fitch Ratings](https://www.fitchratings.com/research/sovereigns/rising-us-inflation-brings-persistent-overshoot-into-focus-29-06-2026)
+
+- **[2026.06.30] Oil Market — 美伊紧张局势缓和，油价波动加剧**
+  English: Oil prices experienced significant volatility, initially rising due to escalating U.S.-Iran tensions over the weekend, with Brent crude up to $73.18 a barrel. However, reports of easing tensions and a potential return to diplomatic talks led to WTI crude falling below $70.00. Analysts suggest that while geopolitical risks remain, the market is also grappling with expectations of a resolution, leading to downward pressure. The overall sentiment indicates that oil prices may continue to trend lower if the peace deal progresses.
+  中文：总结：油价波动剧烈，周末因美伊紧张局势升级而上涨，布伦特原油一度升至每桶73.18美元。但随着局势缓和及外交谈判的可能，WTI原油跌破70美元。分析师认为，尽管地缘政治风险犹存，市场也在消化局势解决的预期，导致油价承压。若和平协议取得进展，油价可能继续下行。
+  📰 [TradingKey](https://www.tradingkey.com/news/wti-crude-falls-below-70-easing-us-iran-tensions-erode-risk-premium-oil-prices-may-drop-to-60-20260629)
+
+- **[2026.06.30] Bitcoin ETF — 比特币ETF遭遇创纪录流出，市场情绪低迷**
+  English: U.S. spot Bitcoin ETFs recorded a staggering $4.06 billion in net outflows in June, marking the largest monthly redemption since their launch in January 2024. This significant institutional exit, combined with May's $2.43 billion in redemptions, totals nearly $6.5 billion in two months. Bitcoin's price has declined approximately 30% in the first half of 2026, underperforming most major asset classes. The sustained institutional retreat has weakened the spot market's demand floor, leaving Bitcoin vulnerable to further downside.
+  中文：总结：美国现货比特币ETF在6月份录得40.6亿美元的净流出，创下2024年1月推出以来的最大月度赎回记录。加上5月份的24.3亿美元赎回，两个月总计近65亿美元。2026年上半年比特币价格下跌约30%，表现逊于大多数主要资产类别。机构资金的持续撤离削弱了现货市场的需求基础，使比特币面临进一步下行风险。
+  📰 [Binance Square](https://www.binance.com/en/square/post/7950293049103)
+
+- **[2026.06.30] Nikkei 225 & JPY — 日经指数震荡收高，日元疲软引发干预担忧**
+  日本語：日本の株式市場では、日経平均株価が一時1%超下落する場面もあったものの、最終的には0.15%高の69,468.11円で取引を終え、前日の大幅下落から反発しました。しかし、日銀の金融政策を巡る不確実性と、政府による為替介入への警戒感が市場に影を落としています。USD/JPYは161.80付近で推移し、162.00の大台に接近しており、当局の介入リスクが意識されています。投資家は、日銀の今後の利上げスタンスと、7月末に予定されている政策決定会合に注目しています。
+  中文：总结：日本股市日经225指数在盘中一度大幅下跌后，最终小幅收高0.15%至69,468.11点，从前一交易日的显著跌幅中反弹。然而，日元兑美元汇率徘徊在161.80附近，接近162.00的关键水平，市场对日本政府可能进行汇市干预的担忧持续存在。投资者正密切关注日本央行未来的加息路径及其7月底的政策会议。
+  📰 [KuCoin](https://www.kucoin.com/news/japan-and-south-korea-stock-markets-closed-higher-on-june-29)
+
+- **[2026.06.30] Gold — 黄金价格持续下跌，跌破4000美元关口**
+  English: Global gold prices continued their downward trend, falling to $4024.45 USD/t.oz on June 29, a 1.53% decrease from the previous day. Over the past month, gold's price has declined by 10.27%, with some reports indicating it briefly fell below the $4,000 per ounce mark. This retreat from recent highs suggests a shift in investor sentiment, possibly influenced by a stronger U.S. dollar and expectations of higher interest rates, reducing gold's appeal as a safe-haven asset.
+  中文：总结：全球黄金价格持续下跌，6月29日跌至每盎司4024.45美元，较前一日下跌1.53%。过去一个月，金价累计下跌10.27%，有报道称其一度跌破每盎司4000美元关口。这种从近期高点的回落表明投资者情绪发生转变，可能受到美元走强和加息预期的影响，降低了黄金作为避险资产的吸引力。
+  📰 [Trading Economics](https://www.tradingeconomics.com/commodity/gold)
+
+- **[2026.06.30] Comcast — 康卡斯特宣布分拆计划，股价飙升**
+  English: Comcast shares soared by 23% after the cable giant announced plans to split itself into two separate publicly traded companies. The spin-off will involve NBCUniversal and Sky, with the company's board believing this move will better position each entity to pursue its own strategic priorities and drive long-term shareholder value. This corporate restructuring reflects a broader industry trend as traditional cable companies adapt to evolving media consumption habits, shifting focus towards streaming and other diversified revenue streams.
+  中文：总结：康卡斯特股价飙升23%，此前这家有线电视巨头宣布计划将自身分拆为两家独立的上市公司。此次分拆将涉及NBCUniversal和Sky，公司董事会认为此举将使每个实体更好地追求各自的战略重点，并为股东创造长期价值。此次企业重组反映了传统有线电视公司适应不断变化的媒体消费习惯，将重心转向流媒体和其他多元化收入来源的行业趋势。
+  📰 [The Washington Post](https://www.washingtonpost.com/business/2026/06/29/markets-wall-street-poised-open-higher-oil-prices-rise-us-iran-tensions-escalate/)
+
+---
+※Stock Market Daily Digest | 2026.06.30
