@@ -7,106 +7,100 @@
 
 ## 🇺🇸 美国股市 / US Market
 
-Here are 8 recent news items about the US stock market as of June 30, 2026:
+Here are 6 recent news items specifically about the US Market:
 
-- **[2026.06.30] 美国股市 — 科技股推动美股大涨，道指创历史新高**
-  English: US stocks surged on June 29, with the Dow Jones Industrial Average hitting a record closing high, surpassing 52,000 for the first time, largely due to the inclusion of Alphabet. The S&P 500 gained 1.2% and the Nasdaq Composite jumped 2.1%, breaking a five-day losing streak. This broad rally was primarily fueled by a rebound in major technology-related shares following a recent AI-driven selloff and easing geopolitical tensions between the US and Iran. Investors are betting on continued strong corporate earnings in the tech sector.
-  中文：总结：6月29日，美国股市大幅上涨，道琼斯工业平均指数创下历史新高，首次突破52,000点，主要得益于Alphabet的纳入。标普500指数上涨1.2%，纳斯达克综合指数上涨2.1%，结束了连续五天的跌势。此次反弹主要由科技巨头股在近期人工智能相关抛售后的回升以及美伊地缘政治紧张局势的缓解所推动，投资者看好科技板块持续强劲的企业盈利。
-  📰 [The Edge Singapore](https://www.theedgesingapore.com/news/global-markets/us-stocks-get-tech-boost-after-ai-fueled-selloff)
+- **[2026.06.30] US Market Indices — 美股主要指数周一强劲反弹，道指创历史新高**
+  English: US stock futures edged higher on Tuesday, building on Monday's robust rally where the Dow Jones Industrial Average surpassed 52,000 for the first time, marking a new record close. The S&P 500 and Nasdaq Composite also broke five-day losing streaks, gaining 1.2% and 2.1% respectively, driven by a rebound in technology shares and easing geopolitical tensions between the U.S. and Iran. Investors are now looking ahead to key economic data, including the May JOLTS job openings report and consumer confidence data, for further clues on the Federal Reserve's interest rate outlook.
+  中文：总结：美国股市期货周二小幅走高，此前道琼斯工业平均指数周一首次突破52,000点，创下历史新高。标普500指数和纳斯达克综合指数也结束了连续五天的跌势，分别上涨1.2%和2.1%，主要受科技股反弹以及美伊地缘政治紧张局势缓解的推动。市场正关注即将公布的经济数据，以研判美联储的利率政策走向。
+  📰 [TheStreet](https://www.thestreet.com/markets/stock-market-today-june-30-2026-sp-500-futures-gain-after-record-close)
 
-- **[2026.06.30] 美联储 — 联邦基金利率维持不变，点阵图暗示未来可能加息**
-  English: The Federal Reserve unanimously voted to keep the federal funds rate unchanged at 3.50%-3.75% during its June 2026 meeting, marking the fourth consecutive hold and the first under new Fed Chair Kevin Warsh. While the immediate decision was expected, the updated economic projections, or "dot plot," indicated a hawkish shift, with nine out of eighteen officials now foreseeing at least one rate hike this year, and six anticipating two or more. This suggests the Fed is prioritizing inflation control amidst persistent price pressures and geopolitical uncertainties.
-  中文：总结：美联储在2026年6月的会议上一致投票决定将联邦基金利率维持在3.50%-3.75%不变，这是连续第四次暂停加息，也是新任主席凯文·沃什首次主持会议。尽管市场普遍预期此次利率不变，但更新后的经济预测“点阵图”显示出鹰派倾向，18位官员中有9位预计今年至少加息一次，6位预计加息两次或更多。这表明在持续的通胀压力和地缘政治不确定性下，美联储优先考虑控制通胀。
-  📰 [Trading Economics](https://tradingeconomics.com/united-states/interest-rate)
+- **[2026.06.30] Tesla (TSLA) — 特斯拉股价飙升，受安全调查结束及交付预期提振**
+  English: Tesla shares surged over 8% on Monday, marking one of its best daily performances in over a year. This significant jump was primarily attributed to the U.S. road-safety body, NHTSA, formally closing a nearly three-year investigation into a power-steering fault in older Model 3 and Model Y cars, an issue Tesla had already resolved via a software update. Additionally, several major banks raised their forecasts for Tesla's upcoming second-quarter delivery numbers, further boosting investor confidence ahead of the July 2 report.
+  中文：总结：特斯拉股价周一飙升超过8%，创下一年多来最佳单日表现之一。此次上涨主要得益于美国国家公路交通安全管理局（NHTSA）结束了对Model 3和Model Y车型转向故障长达三年的调查。此外，多家主要银行上调了特斯拉第二季度交付量的预测，进一步提振了投资者在7月2日交付报告发布前的信心。
+  📰 [GuruFocus](https://www.gurufocus.com/news/2458045/tesla-jumps-8-as-a-3year-safety-probe-closes-and-delivery-hopes-rise)
 
-- **[2026.06.30] 特斯拉 (TSLA) — FSD更新与安全调查结束推动股价飙升**
-  English: Tesla's stock (TSLA) surged by 8.46% on June 29, marking its best day in over a year. The rally was attributed to the rollout of the long-awaited Full Self-Driving (FSD) v14 Lite to older Hardware 3 vehicles, which excited investors about the company's autonomous driving technology. Additionally, the closure of a federal safety probe into power steering loss in certain Model 3 and Model Y vehicles, following an over-the-air software recall, removed a significant regulatory overhang. Analysts also raised Q2 delivery forecasts, further boosting investor confidence.
-  中文：总结：特斯拉（TSLA）股价在6月29日飙升8.46%，创下一年多来的最大单日涨幅。此次上涨得益于期待已久的完全自动驾驶（FSD）v14 Lite版本向旧款Hardware 3车辆的推出，以及一项针对Model 3和Model Y转向系统故障的联邦安全调查的结束，该调查在特斯拉发布OTA软件召回后得以解决。分析师上调了第二季度交付预测，进一步提振了投资者信心。
-  📰 [Morningstar](https://www.morningstar.com/news/marketwatch/20260629-tesla-s-stock-rips-higher-after-a-long-awaited-update-to-self-driving-technology)
+- **[2026.06.30] Amazon (AMZN) — 亚马逊推出假日促销，AWS增长强劲推高股价**
+  English: Amazon.com Inc. announced new Fourth of July promotions for Prime members, including fuel discounts and grocery credits, following a successful Prime Day. These initiatives aim to enhance customer loyalty and drive sales. The company's stock also continues to rise, driven by strong performance in its cloud business, Amazon Web Services (AWS), which saw a 28% growth in Q1 2026, contributing to record sales of $181.5 billion. Analysts remain optimistic, with some predicting the stock price could reach $300-$320 next year, fueled by robust AI demand and AWS GPU price hikes.
+  中文：总结：亚马逊公司在成功举办Prime Day后，宣布了针对Prime会员的“七月四日”促销活动，包括燃油折扣和食品杂货积分，旨在提升客户忠诚度并促进销售。公司股价持续上涨，主要得益于其云计算业务AWS的强劲表现，2026年第一季度AWS增长28%，带动总销售额达到创纪录的1815亿美元。分析师对亚马逊前景乐观，预计明年股价可能达到300-320美元，这得益于强劲的AI需求和AWS GPU价格上涨。
+  📰 [GuruFocus](https://www.gurufocus.com/news/2458047/amazon-amzn-launches-fourth-of-july-promotions-following-prime-day-success)
 
-- **[2026.06.30] 微软 (MSFT) — AI投资担忧导致股价在六月大幅下跌**
-  English: Microsoft shares experienced a significant decline in June, heading for their worst month since 2008, with a drop of over 20% at one point. The downturn is largely attributed to investor concerns regarding the company's substantial investments in artificial intelligence infrastructure and whether these expenditures will generate sufficient returns and pressure profit margins. Despite closing its fiscal year on June 30, the stock fell 1.1% on June 29, underperforming the broader tech rally. Analysts are closely watching how AI spending impacts future profitability.
-  中文：总结：微软股价在6月份大幅下跌，一度跌幅超过20%，可能创下2008年以来最差月度表现。此次下跌主要源于投资者对公司在人工智能基础设施方面巨额投资的担忧，以及这些投资能否带来足够回报并对利润率造成压力。尽管6月30日是微软财年结束，但其股价在6月29日下跌1.1%，表现不及大盘科技股的反弹。分析师正密切关注AI支出对未来盈利能力的影响。
-  📰 [The Spokesman-Review](https://www.spokesman.com/stories/2026/jun/29/microsofts-530-billion-rout-sets-up-its-worst-mon/)
+- **[2026.06.30] Apple (AAPL) — 苹果加速软件更新应对AI安全威胁，产品涨价引关注**
+  English: Apple Inc. announced a significant change in its software update process, planning to release security patches earlier than usual to address increasing AI-related security threats. This proactive measure aims to enhance user security by shortening the time between announcing and deploying fixes. Concurrently, Apple has reportedly raised prices on several products, including iPads and MacBooks, attributing the hikes to an "extraordinary surge in demand for memory and storage" driven by AI data centers, which has caused component prices to increase rapidly.
+  中文：总结：苹果公司宣布将加快软件更新流程，提前发布安全补丁，以应对日益增长的AI相关安全威胁，旨在缩短修复发布与部署之间的时间，提升用户安全。与此同时，据报道苹果已上调多款产品（包括iPad和MacBook）的价格，理由是AI数据中心对内存和存储的需求激增，导致组件价格快速上涨。
+  📰 [GuruFocus](https://www.gurufocus.com/news/2458046/apple-aapl-accelerates-software-updates-amid-ai-security-conce)
 
-- **[2026.06.30] 苹果 (AAPL) — 内存芯片成本飙升促使产品提价，寻求中国芯片供应**
-  English: Apple is reportedly testing its pricing power as memory and storage component costs have quadrupled in the past three quarters, leading to price increases of 15% to 25% on various products like iPads. The company is also lobbying for U.S. approval to source DRAM from China's ChangXin Memory Technologies (CXMT), currently on a U.S. blacklist, as a strategic move to manage rising costs and stabilize its supply chain. Despite these challenges, Loop Capital maintained a "Buy" rating on AAPL, though the stock dropped 0.6% on June 29.
-  中文：总结：据报道，由于内存和存储组件成本在过去三个季度翻了两番，苹果正在测试其定价能力，导致iPad等多种产品价格上涨15%至25%。该公司还在游说美国批准从目前被列入美国黑名单的中国长鑫存储技术（CXMT）采购DRAM，以此作为管理成本上涨和稳定供应链的战略举措。尽管面临这些挑战，Loop Capital维持了对苹果的“买入”评级，但该股在6月29日下跌0.6%。
-  📰 [GuruFocus](https://www.gurufocus.com/news/2287042/apple-aapl-receives-buy-rating-amid-memory-chip-procurement-efforts)
+- **[2026.06.30] NVIDIA (NVDA) — 英伟达扩大机器人团队，分析师上调盈利预期**
+  English: NVIDIA Corp. announced plans to expand its robotics team, focusing on embodied intelligence, simulation, deployment, and solution architecture, signaling a strong commitment to innovation in intelligent automation across various sectors. This strategic hiring initiative aims to enhance its capabilities in developing advanced robotics. Concurrently, Erste Group Bank boosted its FY2027 earnings estimates for NVIDIA to $8.60 per share, slightly below the consensus but reflecting continued confidence in the computer hardware maker's growth trajectory, especially given its strong recent quarterly results.
+  中文：总结：英伟达公司宣布计划扩大其机器人团队，重点关注具身智能、模拟、部署和解决方案架构，这表明公司致力于在各个领域推动智能自动化创新。此次战略性招聘旨在提升其在先进机器人技术方面的能力。与此同时，Erste Group Bank上调了英伟达2027财年的盈利预期至每股8.60美元，略低于市场共识，但反映出对这家计算机硬件制造商增长轨迹的持续信心，特别是考虑到其近期强劲的季度业绩。
+  📰 [GuruFocus](https://www.gurufocus.com/news/2458048/nvidia-expands-robotics-team-to-boost-intelligent-automation)
 
-- **[2026.06.30] 英伟达 (NVDA) — 尽管近期回调，分析师仍看好AI需求前景**
-  English: NVIDIA's stock advanced 1.4% on June 29, recovering some ground after a recent pullback that saw shares shed 9% this month. Despite fears of a potential AI stock bubble burst, Wall Street analysts remain overwhelmingly bullish, with 95% maintaining a "Buy" rating and a 12-month price target implying 28% upside. The long-term outlook for NVIDIA remains strong, fueled by rising demand for AI products and the company's continued dominance in the AI chip market, supported by robust Q1 revenue growth of 85% year-over-year.
-  中文：总结：英伟达股价在6月29日上涨1.4%，在近期下跌（本月累计下跌9%）后有所回升。尽管市场担忧AI股票泡沫可能破裂，但华尔街分析师仍普遍看好，95%的分析师维持“买入”评级，12个月目标价预示有28%的上涨空间。在人工智能产品需求不断增长以及公司在AI芯片市场持续主导地位的推动下，英伟达的长期前景依然强劲，第一季度营收同比增长85%。
-  📰 [Finbold](https://finbold.com/1000-invested-in-nvidia-stock-a-year-ago-is-now-worth/)
-
-- **[2026.06.30] Alphabet (GOOGL) — 谷歌母公司加入道指，助力大盘上涨**
-  English: Alphabet (GOOGL), Google's parent company, played a significant role in lifting the Dow Jones Industrial Average to a record close on June 29, with its shares climbing 4.8% to 4.96%. This strong performance coincided with Alphabet's official inclusion in the 30-strong Dow Jones Industrial Average, replacing Verizon. The addition of such a prominent tech giant to the venerable index reflects the evolving landscape of the US economy and contributed to the broader market's positive momentum, particularly in the tech sector.
-  中文：总结：谷歌母公司Alphabet（GOOGL）在6月29日股价上涨4.8%至4.96%，对道琼斯工业平均指数创下历史新高起到了重要推动作用。此次强劲表现正值Alphabet正式被纳入由30家公司组成的道琼斯工业平均指数，取代了威瑞森。这家知名科技巨头被纳入这一历史悠久的指数，反映了美国经济格局的演变，并为更广泛的市场，特别是科技板块，带来了积极的推动力。
-  📰 [24/7 Wall St.](https://247wallst.com/investing/2026/06/29/here-are-tuesdays-best-wall-street-analyst-research-calls/)
-
-- **[2026.06.30] 市场展望 — 养老基金再平衡或带来短期买入机会**
-  English: Strategists anticipate that pension funds are mandated to sell approximately $30 billion in US equities on June 29 and 30 for quarter-end rebalancing
+- **[2026.06.30] Microsoft (MSFT) — 微软财年末临近，分析师上调盈利预测**
+  English: Microsoft Corporation is approaching its fiscal year-end on June 30, 2026, a period that typically garners significant investor attention for potential dividend adjustments, corporate guidance updates, and fiscal year performance expectations. Erste Group Bank recently increased its FY2027 earnings estimate for Microsoft to $19.43 per share, surpassing its prior forecast and the current consensus. This positive outlook follows solid Q3 2026 earnings, which saw EPS of $4.27 and revenue of $82.89 billion, both exceeding analyst expectations and demonstrating strong year-over-year growth.
+  中文：总结：微软公司正值2026财年年末（6月30日），这一时期通常会引起投资者对潜在股息调整、公司指引更新和财年业绩预期的密切关注。Erste Group Bank近期将微软2027财年的盈利预期上调至每股19.43美元，高于此前的预测和当前市场共识。这一积极展望是在2026年第三季度强劲财报之后提出的，该季度每股收益为4.27美元，营收达828.9亿美元，均超出分析师预期并显示出强劲的同比增长。
+  📰 [MarketBeat](https://www.marketbeat.com/stocks/NASDAQ/MSFT/price-target/)
 
 ## 🇯🇵 日本株式市場 / Japan Market
 
-- **[2026.06.30] 円相場 — 円が対ドルで39年ぶり安値水準に迫る**
-  日本語：6月30日の東京外国為替市場では、ドル・円が161円台後半で推移し、一時162円に迫る場面が見られました。これは1986年以来、約39年ぶりの円安水準となります。週末に米国とイランの間で報復攻撃の応酬が見られたものの、両国が攻撃を停止したとの報道がドル・円への影響を限定的にしました。しかし、米連邦準備制度理事会（FRB）の利上げ観測が浮上し、政府・日本銀行による市場介入への警戒感が意識される中、緩やかなペースで円安が進行しています。中東情勢の改善と原油価格の下落は円安修正要因とみられますが、日銀の利上げ遅延への警戒感が円安を後押ししている状況です。
-  中文：总结：6月30日东京外汇市场，日元兑美元汇率在161日元区间后半段波动，一度逼近162日元，创下1986年以来约39年新低。尽管周末美伊冲突有所缓和，但美联储加息预期升温，且市场对日本央行干预的警惕性增强，导致日元持续缓慢贬值。
-  📰 [OANDA Japan](https://www.oanda.com/jp-ja/lab/market-analysis/daily-report/2026/06/30/usd-jpy-161-yen-range/)
+日本株式市場は2026年6月30日、米国市場のハイテク株高に牽引され、日経平均株価が7万円台を回復し続伸しました。一方で、円安は止まらず、対ドルで約40年ぶりの安値水準を更新しています。半導体関連株が市場を牽引する中、トヨタ自動車の時価総額に関する議論や、新規株式公開（IPO）の動向も注目されました。
 
-- **[2026.06.30] 日本株式市場 — 米ハイテク株高が日本市場のAI・半導体関連株に恩恵**
-  日本語：6月30日の東京株式市場は、前日の米国市場でのハイテク株の大幅反発を受け、買いが先行する展開となりました。特にナスダック総合指数が2.07％上昇、フィラデルフィア半導体株指数（SOX指数）が3.83％上昇したことが、東京市場の半導体やAI関連株の株価を押し上げる要因となっています。米国のAI・半導体関連がリスク選好の流れを取り戻したことで、日本市場もこれに追随する動きを見せています。寄り付き前には、米ナスダックの2%高が日本のAI・半導体株に恩恵をもたらすとの見方が示されており、円安も輸出株にとって追い風となっています。
-  中文：总结：6月30日东京股市开盘走高，主要受前夜美国科技股大幅反弹提振。纳斯达克指数和费城半导体指数的强劲上涨，为日本半导体和AI相关股票提供了支撑。市场普遍认为，美国科技股的风险偏好回归，加上日元贬值，对日本出口型企业构成利好。
-  📰 [note.com](https://note.com/kabu_note/n/n2453e1f24d62)
+以下は、2026年6月30日の日本市場に関する主なニュースです。
 
-- **[2026.06.30] 日本銀行 — 日銀の現行政策金利と次回の金融政策決定会合**
-  日本語：日本銀行の金融市場調節に関する最新情報によると、無担保コールオーバーナイト物レート（平均）は6月29日時点で0.978%となっています。補完当座預金制度適用利率および基準貸付利率は、6月17日以降1.0%および1.25%で維持されています。日銀当座預金残高は6月26日時点で440兆円。次回の金融政策決定会合は2026年7月30日と31日に予定されており、市場は今後の金融政策の方向性、特にさらなる利上げの可能性や長期国債買い入れの動向に注目しています。
-  中文：总结：日本央行最新数据显示，无担保隔夜拆借利率平均为0.978%（截至6月29日），补充活期存款利率和基准贷款利率自6月17日起分别为1.0%和1.25%。日本央行活期存款余额为440万亿日元（截至6月26日）。下一次货币政策会议定于7月30日至31日举行，市场密切关注未来政策走向。
-  📰 [日本銀行 Bank of Japan](https://www.boj.or.jp/)
+- **[2026.06.30] 日経平均株価 — 7万円台を回復し続伸**
+  日本語：30日の東京株式市場では、日経平均株価が前日の米国市場におけるハイテク株高の流れを受け、大幅に続伸しました。終値は前日比594円21銭高の7万0062円32銭となり、一時1000円を超える上昇を見せる場面もありました。特に半導体関連株への買い戻しが目立ち、投資家心理の改善を反映した形です。しかし、取引時間中は不安定な値動きが続き、上値では利益確定売りも出ました。
+  中文：总结：6月30日，东京股市日经平均指数受前一日美国科技股上涨提振，大幅反弹并收复7万点大关。收盘上涨594.21日元，报70062.32日元，盘中一度上涨超过1000日元。半导体相关股票的买盘尤为活跃，反映出投资者情绪的改善。然而，盘中走势波动，高位出现获利回吐。
+  📰 [OANDA FX/CFD Lab-education](https://www.google.com/search?q=Japan)
 
-- **[2026.06.30] 個別株動向 — コナミなど一部銘柄の動向と半導体株への注目**
-  日本語：6月30日の日本株市場では、前日の米国市場でのハイテク株の反発を受け、半導体関連株が引き続き注目されています。一方で、コナミグループなど一部の銘柄では権利落ちによる急落が見られる可能性も指摘されており、個別銘柄の動向には注意が必要です。また、円安の進行は輸出関連企業にとってプラス要因となる一方で、市場全体のセンチメントは米国の雇用統計などの重要指標発表を前に、やや慎重な見方も混在しています。AI関連株への物色は継続するものの、過熱感への警戒も残る状況です。
-  中文：总结：6月30日日本股市，受美国科技股反弹影响，半导体相关股票持续受关注。同时，有分析指出科乐美等部分股票可能因除权而急跌，需警惕个股风险。日元贬值利好出口企业，但市场对即将公布的美国就业数据持谨慎态度，AI相关股票的投资热情与过热担忧并存。
-  📰 [YouTube](https://www.youtube.com/watch?v=0z9f1xsQVls)
+- **[2026.06.30] 円相場 — 対ドルで約40年ぶりの歴史的安値更新**
+  日本語：日本円は30日、対米ドルで162円台に突入し、1986年以来となる約40年ぶりの歴史的な安値水準を更新しました。日本銀行が6月に政策金利を1.00%に引き上げたにもかかわらず、日米間の金利差拡大が引き続き円安の主要因となっています。財務省は直近1カ月の為替介入額がゼロだったと公表しており、当局の介入警戒感は高まっています。
+  中文：总结：6月30日，日元兑美元汇率跌破162日元，创下自1986年以来约40年的历史新低。尽管日本央行在6月将政策利率上调至1.00%，但美日之间不断扩大的利差仍是日元贬值的主要原因。日本财务省公布过去一个月未进行汇市干预，市场对当局干预的警惕性正在提高。
+  📰 [Pittsburgh Post-Gazette](https://www.google.com/search?q=Japan)
+
+- **[2026.06.30] 半導体関連株 — 米国ハイテク株高を受け日本市場を牽引**
+  日本語：30日の日本株式市場では、前日の米国市場での半導体株指数（SOX指数）が3.8%高と急伸したことを受け、AI・半導体関連銘柄が買い戻され、日経平均株価の上昇を牽引しました。東京エレクトロン、アドバンテスト、ディスコ、太陽誘電、村田製作所などの電子部品株が急伸し、投資家のセンチメント改善に貢献しました。しかし、個別銘柄では値下がりが目立つものもあり、市場全体が全面高とはなりませんでした。
+  中文：总结：6月30日，受前一日美国半导体指数（SOX指数）大涨3.8%的推动，日本股市AI和半导体相关股票获得买盘，带动日经平均指数上涨。东京电子、爱德万测试、迪斯科、太阳诱电、村田制作所等电子零部件股票大幅上涨，提振了投资者情绪。然而，个别股票仍有下跌，市场并未出现全面上涨。
+  📰 [株探](https://www.google.com/search?q=Japan)
+
+- **[2026.06.30] トヨタ自動車 — 時価総額首位をキオクシアに譲る背景と株価動向**
+  日本語：トヨタ自動車は2026年3月期決算で日本企業初の売上高50兆円超えを達成したものの、米国関税の影響などで営業利益は減益となりました。この状況を受け、6月12日には国内上場企業の時価総額首位を半導体関連のキオクシアホールディングスに明け渡しており、22年ぶりの首位転落となりました。30日も株価は年初来高値から約32%下落した水準で推移しており、AI・半導体への資金シフトが続く中で自動車セクター全体が相対的に低評価を受けている現状が浮き彫りになっています。
+  中文：总结：丰田汽车在2026年3月财年实现了日本企业首次营收突破50万亿日元，但受美国关税等因素影响，营业利润出现下滑。在此背景下，丰田于6月12日将日本上市公司市值榜首让给了半导体相关的铠侠控股，这是22年来首次失去榜首位置。6月30日，丰田股价仍较年初高点下跌约32%，凸显出在资金持续流向AI和半导体领域之际，汽车行业整体估值相对较低的现状。
+  📰 [note (money.note.com)](https://www.google.com/search?q=Japan)
+
+- **[2026.06.30] 日本銀行 — 利上げ後も続く円安と金融正常化の物語**
+  日本語：日本銀行は6月に政策金利を1.00%へと30年ぶりの高水準に引き上げましたが、ドル円相場は161円台後半から162円台へと円安が進行し、金融正常化という日本の物語が為替市場では必ずしも素直に評価されていない現実が浮き彫りになっています。市場では、利上げは織り込み済みとの見方が強く、次の利上げ時期やペースに注目が集まっています。
+  中文：总结：日本央行在6月将政策利率上调至1.00%，达到30年来的高点，但日元兑美元汇率仍持续贬值至161-162日元区间，凸显出日本金融正常化的进程并未完全被外汇市场所认可。市场普遍认为此次加息已在预期之内，目前焦点已转向下一次加息的时机和步伐。
+  📰 [note (宮野宏樹)](https://www.google.com/search?q=Japan)
+
+- **[2026.06.30] ネイス (589A) — 東証グロース市場に新規上場**
+  日本語：体操教室を運営するネイス株式会社（証券コード589A）が、本日2026年6月30日に東証グロース市場へ新規上場しました。公開価格は1320円で、今後の株価動向が注目されます。
+  中文：总结：运营体操教室的Neith株式会社（证券代码589A）于2026年6月30日在东京证券交易所Growth市场首次上市。发行价为1320日元，其未来股价走势备受关注。
+  📰 [三菱UFJモルガン・スタンレー証券](https://www.google.com/search?q=Japan)
 
 ## 🌍 宏观经济与投资 / Macro & Investment
 
-Here are recent news items concerning macroeconomics and investment:
+- **[2026.06.30] Dow Jones Industrial Average — 道琼斯指数创历史新高，科技股强劲反弹**
+  English: Wall Street closed sharply higher on Monday, June 29, with the Dow Jones Industrial Average reaching a record high of 52,182.74, up 0.59%. The S&P 500 gained 1.18% to 7,440.43, and the Nasdaq Composite surged 2.07% to 25,820.14. Technology stocks led the rebound, recovering from recent selling pressure linked to artificial intelligence spending concerns. Google parent Alphabet jumped 4.8% on its first trading day as a Dow component, while newly listed SpaceX rose 7.2% after its announcement to join the Nasdaq 100 Index. Investor sentiment improved despite renewed US-Iran hostilities over the weekend, as markets focused on diplomatic efforts and upcoming earnings season.
+  中文：总结：6月29日，华尔街股市大幅收高，道琼斯工业平均指数创下52,182.74点的历史新高，上涨0.59%。标普500指数上涨1.18%，纳斯达克综合指数飙升2.07%。科技股领涨，从近期因人工智能支出担忧而导致的抛售压力中反弹。投资者情绪有所改善，尽管周末美伊冲突再起，但市场关注外交努力和即将到来的财报季。
+  📰 [Business Today](https://www.businesstoday.in/markets/wall-street-surges-as-dow-hits-record-tech-stocks-roar-back-article)
 
-- **[2026.06.30] USD/JPY — 日元兑美元跌至40年新低，市场关注干预可能性**
-  日本語：30日、日元兑美元汇率跌至161.90日元，创下40年来的新低，引发了市场对日本当局可能进行外汇干预的高度警惕。日本央行此前在6月16日将基准利率上调至1%（1995年以来的最高水平），但由于美联储预计将维持鹰派立场，日美利差依然显著，导致日元贬值压力持续。分析师指出，如果日元未能迅速修正，干预可能“迫在眉睫”，但若不解决利率差异，干预效果恐仅是暂时性的。
-  中文：总结：日元兑美元汇率在6月30日跌至161.90日元，达到40年来的最低点。尽管日本央行近期加息，但由于与美国之间的利差依然存在，日元持续承压。市场正密切关注日本政府和央行是否会采取干预措施来阻止日元进一步贬值，但专家认为，若不解决根本的利率差异，干预效果可能有限。
-  📰 [The Edge Singapore](https://www.theedgesingapore.com/news/japan-market/japan-stocks-set-climb-yen-hits-40-year-low)
+- **[2026.06.30] Japanese Yen — 日元兑美元跌至40年新低**
+  日本語：6月30日のアジア取引時間中、日本円は対米ドルで162.41円を記録し、40年ぶりの安値に下落した。これは、日米間の金利差が拡大していることが主な要因であり、米連邦準備制度理事会がさらなる金融引き締めを示唆する一方で、日本銀行は最近の利上げにもかかわらず比較的緩和的な姿勢を維持しているためである。日本の当局者による口頭介入が強化されているにもかかわらず、円安の勢いは衰えず、161.95の主要レジスタンスレベルを突破した。大規模な財政刺激策と日本株式への外国資金流入に伴うヘッジ活動も、円の構造的な売り圧力を強めている。
+  中文：总结：6月30日，日元兑美元在亚洲交易时段跌至162.41，创下40年新低。这主要是由于美日利差扩大，美联储暗示进一步收紧政策，而日本央行尽管近期加息，但仍保持相对宽松。尽管日本官员加强了口头干预，但日元贬值势头未减，突破了161.95的关键阻力位。大规模财政刺激计划和外国资金流入日本股市的对冲活动也加剧了日元的结构性抛售压力。
+  📰 [Seeking Alpha](https://seekingalpha.com/article/4711679-usd-jpy-bullish-break-above-16195-signals-further-yen-weakness)
 
-- **[2026.06.30] Japan Factory Output — 日本5月工业产出环比增长0.5%**
-  日本語：日本経済産業省が30日に発表したデータによると、5月の鉱工業生産は前月比0.5%増となり、市场予想の1.1%増を下回った。製造業者は6月に3.7%増、7月は横ばいを予想している。このデータは、日本製造業の回復が緩やかであることを示唆しており、全球経済の不確実性やサプライチェーンの課題が依然として影響を与えている可能性がある。今後の生産動向は、国内経済の健全性および輸出需要の回復に大きく左右されるだろう。
-  中文：总结：日本经济产业省周二公布的数据显示，5月份工业产出环比增长0.5%，低于市场预期的1.1%增长。制造商预计6月份产出将增长3.7%，7月份持平。这表明日本制造业的复苏步伐较为温和，全球经济环境和供应链问题可能仍在对其产生影响。
-  📰 [MarketScreener](https://www.marketscreener.com/quote/index/NIKKEI-225-9590105/news/Japan-May-factory-output-rises-0-5-month-on-month-44093951/)
+- **[2026.06.30] Bitcoin ETF — 比特币ETF遭遇大规模资金流出**
+  English: U.S.-listed spot Bitcoin ETFs experienced their largest monthly redemptions since their January 2024 launch, with over $4.1 billion in net outflows recorded in June 2026. BlackRock's iShares Bitcoin Trust ETF (IBIT) alone accounted for approximately $3 billion of this outflow. This significant withdrawal highlights growing uncertainty in the cryptocurrency market, exacerbated by Bitcoin's nearly 20% price decline over the past month. Concerns about the sustainability of financing models tied to major corporate Bitcoin holders, coupled with sustained ETF outflows, are testing Bitcoin's reliance on institutional capital and increasing market vulnerability.
+  中文：总结：2026年6月，美国上市的现货比特币ETF遭遇自2024年1月推出以来最大的月度赎回，净流出超过41亿美元，其中贝莱德的IBIT基金流出约30亿美元。这反映出加密货币市场日益增长的不确定性，比特币价格在过去一个月下跌近20%加剧了这一趋势。对主要企业比特币持有者融资模式可持续性的担忧，以及持续的ETF资金流出，正在考验比特币对机构资本的依赖，并增加了市场脆弱性。
+  📰 [KuCoin](https://www.kucoin.com/news/bitcoin-etfs-face-largest-monthly-redemption-since-launch-in-june-2026)
 
-- **[2026.06.30] Global Economy & Inflation — 全球经济增长放缓，中东冲突加剧通胀压力**
-  English: The World Bank projects global growth to slow to 2.5% in 2026, down from 2.9% in 2025, marking the lowest rate since the COVID-19 pandemic. This deceleration is largely attributed to the ongoing conflict in the Middle East, which has triggered sharp increases in energy prices and renewed inflationary pressures worldwide. Emerging market and developing economies are expected to face the weakest per capita income growth since the pandemic. Risks remain skewed to the downside, with potential for escalating hostilities and further commodity market disruptions, though broader AI adoption offers some upside. Policymakers face the challenge of balancing inflation control with growth support.
-  中文：总结：世界银行预测2026年全球经济增长将放缓至2.5%，为疫情以来的最低水平，主要原因是中东冲突导致能源价格飙升和通胀压力重燃。新兴市场和发展中经济体的人均收入增长预计将创疫情以来新低。全球经济面临下行风险，但人工智能的广泛应用可能带来一些上行空间。
-  📰 [World Bank](https://www.worldbank.org/en/publication/global-economic-prospects)
+- **[2026.06.30] Global Economy — Visa预测2026年全球经济增长2.4%**
+  English: Visa's 2026 Midyear Global Economic Outlook forecasts a 2.4% growth for the global economy this year. Despite higher energy prices squeezing household budgets, a significant surge in business investment, particularly in artificial intelligence, clean energy, and strategic industries, is helping to offset consumer strain and maintain economic momentum. Digital commerce is also playing a crucial role by enabling consumers to compare prices and stretch budgets, thereby helping to keep inflation in check. This trend of robust business investment is at levels not seen since 2010, providing strong support for global growth.
+  中文：总结：Visa发布的2026年中全球经济展望报告预测，今年全球经济将增长2.4%。尽管能源价格上涨挤压家庭预算，但商业投资的显著增长，尤其是在人工智能、清洁能源和战略产业方面，正帮助抵消消费者压力并维持经济动能。数字商务通过帮助消费者比价和节省开支，在抑制通胀方面发挥关键作用。这种强劲的商业投资趋势达到了2010年以来的最高水平，为全球经济增长提供了有力支持。
+  📰 [Business Wire](http://www.businesswire.com/news/home/20260630993602/en/)
 
-- **[2026.06.30] US Inflation & Fed Policy — 美国通胀持续高企，美联储或维持鹰派立场**
-  English: US inflation remains a central focus, with the Personal Consumption Expenditures (PCE) price index, the Federal Reserve's preferred measure, rising 4.1% year-over-year in May, its highest annual pace since April 2023. Core PCE also increased to 3.4%. This persistent inflation, driven by higher energy prices from the Middle East conflict, suggests that the Federal Reserve will likely maintain a hawkish stance, with market expectations shifting towards a higher federal funds rate by year-end 2026 rather than cuts. Strong labor market data, with nonfarm payrolls consistently exceeding estimates, further reduces the likelihood of rate cuts this year.
-  中文：总结：美国5月PCE物价指数同比上涨4.1%，创2023年4月以来新高，核心PCE也升至3.4%。受中东冲突导致的能源价格上涨影响，通胀压力持续。市场预计美联储将维持鹰派立场，年底前加息的可能性增大，而非降息。强劲的劳动力市场数据也支持了这一预期。
-  📰 [Trading Economics](https://tradingeconomics.com/united-states/inflation-rate)
-
-- **[2026.06.30] US Stock Market — 标普500指数上涨，养老基金再平衡或带来买入机会**
-  English: The S&P 500 has shown resilience, up over 7% year-to-date as of June 25, despite surging inflation and geopolitical tensions. However, the market is bracing for significant mechanical selling on June 29th and 30th, as pension funds are mandated to rebalance their portfolios. With stocks outperforming bonds significantly this half, an estimated $30 billion in US equities must be sold to meet target allocations. Historically, such forced selling creates temporary dips that often reverse quickly, presenting a potential buying opportunity for discretionary investors. The AI trade continues to be a key driver of market resiliency.
-  中文：总结：尽管通胀高企和地缘政治紧张，标普500指数今年以来仍上涨超过7%。然而，由于养老基金需要在6月29日和30日进行季度末再平衡，预计将有300亿美元的美国股票被强制出售。这种机械性抛售通常会造成短暂的市场回调，历史经验表明这可能为投资者提供买入机会。人工智能相关股票仍是市场韧性的主要驱动力。
-  📰 [IPOScoop](https://www.iposcoop.com/the-ipo-buzz-an-ipo-variety-show-before-the-fourth-of-july/)
-
-- **[2026.06.30] Gold & Oil Prices — 黄金价格下跌，油价因中东和平谈判而回落**
-  English: Gold prices have slipped, with spot gold's pivot point at $4034.28, as market sentiment is influenced by expectations of tighter monetary policy to curb inflation and ongoing geopolitical developments. Meanwhile, oil prices have eased, with Brent crude falling below $74, due to hopes for a peace deal between the US and Iran. This potential resolution to the Middle East conflict is reducing the oil supply shock premium and alleviating broader inflation fears. However, the market remains volatile, with traders closely watching for concrete outcomes from the peace talks.
-  中文：总结：受收紧货币政策预期和地缘政治发展影响，黄金价格下跌，现货黄金枢轴点位于4034.28美元。同时，由于美国与伊朗和平谈判的希望，布伦特原油价格跌破74美元，缓解了油价冲击和通胀担忧。市场仍高度关注和平谈判的进展。
-  📰 [KuCoin](https://www.kucoin.com/news/commodity-support-and-resistance-levels-for-june-30-2026-fx678)
-
-- **[2026.06.30] Japan Investment Policy — 日本政府发布370万亿日元战略投资路线图**
-  日本語：日本政府は、2040年度までに17の戦略分野で官民合わせて370兆円（約2.3兆ドル）を超える投資を目指す草案ロードマップを発表した。高市早苗首相は、新たな成長戦略の下で効果的な投資支援を確保するため、各省庁の予算要求に上限を設けない方針を示した。この計画は、日本が既に優位性を持つ製品や技術分野での地位を強化し、グローバルサプライチェーンにおいて不可欠な役割を担うことを目標としている。これにより、経済安全保障と成長を同時に追求する狙いがある。
-  中文：总结：日本政府发布了一项草案路线图，计划在2040财年之前，在17个战略领域吸引超过370万亿日元（约2.3万亿美元）的公共和私人投资。首相高市早苗表示，将不对各省的预算申请设置上限，以确保新增长框架下的有效投资支持。该计划旨在加强日本在具有优势的产品和技术领域的地位，并使其在全球供应链中发挥不可或缺的作用，以实现经济安全与增长并重。
-  📰 [The Sankei Shimbun](https://japan-forward.com/japan-eyes-370-trillion-roadmap-for-17-strategic-sectors/)
+- **[2026.06.30] German Inflation — 德国多州通胀放缓，预示全国通胀可能下降**
+  English: Preliminary data released on Tuesday, June 30, indicates that inflation slowed in four key German states in June, suggesting a potential easing of Germany's national inflation rate this month. In Bavaria, the inflation rate fell to 2.5% from 2.6% in May. North Rhine-Westphalia and Baden-Wuerttemberg saw decreases to 2.1% from 2.4%, while Lower Saxony's rate dropped to 2.5% from 2.7%. Economists polled by Reuters are forecasting a harmonized national inflation rate of 2.5% for Germany in June, down from 2.7% in the previous month, ahead of the Eurozone inflation release on Wednesday.
+  中文：总结：6月30日公布的初步数据显示，德国四个主要州的通胀在6月份放缓，预示本月德国全国通胀率可能有所缓解。巴伐利亚州的通胀率从5月份的2.6%降至2.5%。北莱茵-威斯特法伦州和巴登-符腾堡州从2.4%降至2.1%，下萨克森州从2.7%降至2.5%。路透社调查的经济学家预计，德国6月份的协调国家通胀率为2.5%，低于上月的2.7%。
+  📰 [WTAQ](https://www.wtaq.com/2026/06/30/inflation-slows-in-four-german-states-in-june-pointing-to-national-decrease/)
 
 ---
 ※Stock Market Daily Digest | 2026.06.30
