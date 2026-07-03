@@ -7,101 +7,102 @@
 
 ## 🇺🇸 美国股市 / US Market
 
-Here are 6 recent news items regarding the US market:
+Here are 6 recent news items specifically about the US Market, as of July 3, 2026:
 
 - **[2026.07.03] US Stock Market — 美国股市因独立日假期休市**
-  English: The U.S. stock markets, including the NYSE and Nasdaq, are closed today, July 3, 2026, in observance of Independence Day, which falls on a Saturday this year. This closure means no trading activity will occur, with markets set to resume normal operations on Monday, July 6. Investors are taking a pause after a mixed session on July 2nd, where major indices saw slight gains but tech stocks faced some pressure. The holiday period often sees reduced liquidity and a focus on economic data released prior to the break.
-  中文：总结：美国股市，包括纽约证券交易所和纳斯达克，于2026年7月3日（星期五）因独立日假期休市。由于独立日今年落在周六，市场提前一天休市，并将于7月6日（星期一）恢复正常交易。投资者在7月2日收盘后迎来假期，当日市场表现喜忧参半，科技股面临一定压力，但主要指数小幅上涨。
-  📰 [TipRanks.com](https://www.google.com/search?q=US)
+  English: The U.S. stock markets, including the NYSE and Nasdaq, are closed today, July 3, 2026, in observance of Independence Day. As July 4th falls on a Saturday this year, the federal holiday is observed on the preceding Friday. Trading will resume on Monday, July 6th. This closure leads to a shortened trading week, with investors reflecting on recent economic data and corporate news from Thursday's session as they head into the long weekend.
+  中文：总结：美国股市，包括纽约证券交易所和纳斯达克，于2026年7月3日（周五）因独立日假期休市。由于今年7月4日是周六，联邦假日提前至周五。市场将于7月6日（周一）恢复交易，投资者将在长周末期间消化周四的经济数据和公司新闻。
 
-- **[2026.07.03] Tesla (TSLA) — 特斯拉第二季度交付量超预期但股价下跌**
-  English: Tesla announced better-than-expected Q2 2026 delivery numbers, shipping 480,126 electric vehicles, an 18% increase over analyst forecasts. Despite this strong operational performance, Tesla's stock fell almost 3% in morning trading on Thursday, July 2nd, and was down 7% by the end of the day, reflecting a "sell-the-news" reaction after a pre-report rally. Analysts suggest this indicates investors are taking profits, and the stock's high valuation may be a factor. The robust deliveries, particularly from Europe and China, signal a potential exit from the "EV winter" for the automaker.
-  中文：总结：特斯拉公布2026年第二季度交付量达480,126辆，超出分析师预期18%，显示出强劲的运营表现。然而，在7月2日（星期四）的交易中，特斯拉股价却下跌近3%，盘中跌幅一度达到7%，这被解读为“利好出尽”的反应，投资者在报告发布前已提前买入。尽管交付数据亮眼，但市场对其高估值仍持谨慎态度。
-  📰 [Morningstar](https://www.google.com/search?q=US)
+  📰 [Fidelity Investments](https://www.fidelity.com/learning-center/trading-investing/markets/stock-market-holidays)
 
-- **[2026.07.03] Apple (AAPL) — 苹果上调可折叠iPhone生产目标，股价上涨**
-  English: Apple's stock jumped 4.1% on July 2nd following reports that the company has significantly increased its production targets for its first foldable iPhone, now aiming for 10 million units in 2026, up from an earlier forecast of 7-8 million. This aggressive move, coupled with plans for at least five new iPhone models launching between late 2026 and early 2027, signals Apple's strong confidence in its new product lines and its strategy to expand market share in the evolving smartphone landscape.
-  中文：总结：苹果公司股价在7月2日上涨4.1%，此前有报道称其已大幅上调首款可折叠iPhone的生产目标，2026年产量预计将从700万至800万部增至1000万部。此举表明苹果对其新产品线充满信心，并计划通过在2026年末至2027年上半年推出至少五款新iPhone机型来扩大市场份额。
-  📰 [GuruFocus](https://www.google.com/search?q=US)
+- **[2026.07.03] Dow Jones / Nasdaq / S&P 500 — 疲软就业报告后美股指数表现分化**
+  English: On July 2nd, the Dow Jones Industrial Average surged to a new record high, gaining 1.1%, while the S&P 500 remained largely flat. In contrast, the Nasdaq Composite fell by 0.8% due to a broad sell-off in semiconductor stocks. This mixed performance followed a weaker-than-expected June jobs report, which showed only 57,000 new non-farm payrolls, significantly below forecasts. The data eased concerns about aggressive Federal Reserve interest rate hikes, contributing to the Dow's strength but failing to offset tech sector weakness.
+  中文：总结：7月2日，道琼斯工业平均指数上涨1.1%创历史新高，而标普500指数基本持平。纳斯达克综合指数因半导体股票普跌而下跌0.8%。此前公布的6月就业报告显示非农就业人数远低于预期，缓解了美联储加息压力，但未能提振科技股。
 
-- **[2026.07.03] Federal Reserve — 美联储利率前景出现分歧，市场预期转向加息**
-  English: The outlook for Federal Reserve interest rates has become increasingly complex, with market expectations shifting from anticipated rate cuts to potential hikes. While some analysts still price in a meaningful probability of cuts before year-end 2026, stronger economic data and persistent inflation concerns have led others to forecast at least one rate hike by the Fed this year, possibly as soon as September. This divergence in expectations creates uncertainty for investors, particularly for high-growth technology stocks sensitive to interest rate changes.
-  中文：总结：美联储的利率前景变得复杂，市场预期已从降息转向可能加息。尽管部分分析师仍预计2026年底前可能降息，但强劲的经济数据和持续的通胀担忧促使另一些分析师预测美联储今年至少会加息一次，最早可能在9月。这种预期的分歧给投资者带来了不确定性。
-  📰 [CommBank](https://www.google.com/search?q=US)
+  📰 [The Edge Singapore](https://www.theedgesingapore.com/news/us-stocks/dow-average-hits-peak-jobs-ease-fed-hike-worry)
 
-- **[2026.07.03] Microsoft (MSFT) — 微软在芯片股下跌中逆势上涨，显示AI软件优势**
-  English: Microsoft's stock rose approximately 3% on July 1st, a day when many AI chip stocks experienced significant declines. This movement suggests a rotation of investor capital from AI chip manufacturers to AI software companies like Microsoft and Meta. Analysts attribute this shift to concerns about heavy chip spending and the inherent stability of software revenue streams, highlighting Microsoft's advantage as a major backer of OpenAI and a provider of AI tools through its cloud and Office products.
-  中文：总结：在许多AI芯片股大幅下跌的7月1日，微软股价逆势上涨约3%。这表明投资者资金正从AI芯片制造商转向微软和Meta等AI软件公司。分析师认为，这一转变是由于对芯片巨额支出的担忧以及软件收入流的固有稳定性所致，凸显了微软作为OpenAI主要支持者和AI工具提供商的优势。
-  📰 [Stocks Down Under](https://www.google.com/search?q=US)
+- **[2026.07.03] Tesla (TSLA) — 特斯拉Q2交付量超预期但股价大跌**
+  English: Tesla's stock plunged approximately 7-8% on July 2nd, despite the company reporting better-than-expected Q2 vehicle deliveries of 480,126 units, significantly surpassing the 406,000 consensus estimate. This "sell-the-news" reaction suggests investors are now focusing on potential profit margin pressures and other company-specific risks, including a severe contraction in US sales and substantial capital expenditure for autonomous driving and robotics initiatives.
+  中文：总结：特斯拉股价在7月2日大跌约7-8%，尽管其第二季度交付量达到480,126辆，远超市场预期。这种“利好出尽”的反应表明投资者更关注潜在的利润率压力、美国销售额大幅下滑以及自动驾驶和机器人技术的大额资本支出等公司风险。
 
-- **[2026.07.03] Amazon (AMZN) — 亚马逊AWS上调NVIDIA GPU容量价格，凸显AI需求强劲**
-  English: Amazon Web Services (AWS) implemented a roughly 20% price increase for reserved NVIDIA GPU capacity, effective July 1, 2026, a move quietly announced the week prior. This follows a 15% increase in January and underscores the sustained high demand for dedicated AI compute resources. The price hike, discussed in news on July 2nd, indicates that AWS is rationing scarce GPU capacity by price, reflecting the intense competition and robust investment in AI infrastructure across the industry.
-  中文：总结：亚马逊网络服务（AWS）于2026年7月1日上调了NVIDIA GPU预留容量的价格约20%，此举此前已悄然宣布。这是继1月份15%涨价后的又一次上调，凸显了对专用AI计算资源持续强劲的需求。7月2日的新闻讨论指出，此次涨价表明AWS正在通过价格来分配稀缺的GPU容量，反映出整个行业对AI基础设施的激烈竞争和大量投资。
-  📰 [TECHi](https://www.google.com/search?q=US)
+  📰 [The Economic Times](https://economictimes.indiatimes.com/markets/stocks/news/tesla-stock-price-why-are-tesla-shares-down-even-though-elon-musk-owned-ev-giant-posts-record-second-quarter-sales-deliveries/articleshow/111442116.cms)
+
+- **[2026.07.03] Apple (AAPL) — 苹果股价反弹，受iPhone新机型和折叠屏手机生产计划提振**
+  English: Apple's stock rebounded by about 5% on July 2nd, recovering from recent price hikes on its products. This optimism was fueled by reports that Apple plans to introduce at least five new iPhone models through early 2027 and has increased its production forecast for foldable iPhone Ultra models to around 10 million units. Analysts view Apple as well-positioned to navigate industry-wide memory chip shortages due to strong supplier agreements and a robust services segment.
+  中文：总结：苹果股价在7月2日反弹约5%，此前因产品提价而下跌。市场乐观情绪源于苹果计划在2027年初前推出至少五款新iPhone机型，并将折叠屏iPhone Ultra的生产预测提高到约1000万部。分析师认为，凭借强大的供应商协议和服务业务，苹果能有效应对行业内存芯片短缺。
+
+  📰 [9to5Mac](https://9to5mac.com/2026/07/02/apple-stock-recovers-price-hikes-foldable-iphone/)
+
+- **[2026.07.03] Microsoft (MSFT) — 微软推出25亿美元AI服务部门，股价上涨**
+  English: Microsoft shares rose 1.6% on July 2nd following the announcement of its new division, Microsoft Frontier Co., backed by a $2.5 billion investment. This unit will focus on providing AI implementation services for enterprise clients with a team of 6,000 "frontier on-site engineers." This strategic move aims to address challenges in AI integration and capitalize on the growing demand for AI solutions, with some analysts considering Microsoft's stock undervalued despite recent market fluctuations.
+  中文：总结：微软股价在7月2日上涨1.6%，此前宣布成立新的AI服务部门Microsoft Frontier Co.，并投入25亿美元。该部门将专注于为企业客户提供AI实施服务，旨在解决AI集成挑战并抓住AI解决方案的增长需求。部分分析师认为，尽管近期市场波动，微软股价仍被低估。
+
+  📰 [MarketBeat](https://www.marketbeat.com/stocks/NASDAQ/MSFT/news/microsoft-shares-up-1-6-time-to-buy/)
+
+- **[2026.07.03] NVIDIA (NVDA) / Semiconductor Sector — 半导体板块普跌，英伟达股价受挫**
+  English: The semiconductor sector experienced a significant sell-off on July 2nd, contributing to the Nasdaq's decline. NVIDIA's stock fell by approximately 1.4%, reflecting broader profit-taking in chip stocks after a strong run. While some analysts maintain a bullish long-term outlook for NVIDIA due to its central role in AI infrastructure and strong earnings, others note a moderately bearish sentiment in the options market and recent insider selling, indicating a mixed short-term outlook.
+  中文：总结：7月2日，半导体板块遭遇大幅抛售，导致纳斯达克指数下跌。英伟达股价下跌约1.4%，反映出芯片股在强劲上涨后普遍出现获利回吐。尽管部分分析师因英伟达在AI基础设施中的核心作用和强劲盈利而对其长期前景保持乐观，但期权市场的看跌情绪和近期内部人士抛售表明短期前景复杂。
+
+  📰 [MarketBeat](https://www.marketbeat.com/stocks/NASDAQ/NVDA/news/nvidia-trading-down-1-4-heres-why/)
 
 ## 🇯🇵 日本株式市場 / Japan Market
 
-- **[2026.07.03] 日経225先物 — 日経225先物小幅高で推移**
-  日本語：2026年7月3日午前0時現在、大阪取引所の日経225先物9月限は前日比60円高の6万8920円で小幅に上昇して推移しています。これは日経平均株価の現物終値6万8733.15円を186.85円上回る水準です。TOPIX先物も前日比25ポイント高の4047.5ポイントで推移しており、市場は堅調なスタートを切る可能性を示唆しています。前日の米国市場の動向や、本日発表される経済指標が今後の値動きに影響を与えるでしょう。
-  中文：总结：2026年7月3日凌晨，大阪交易所日经225股指期货9月合约小幅上涨60日元至68920日元，较现货收盘价高出186.85日元。TOPIX期货也上涨25点至4047.5点，预示日本市场可能迎来稳健开局。美国市场前日走势及今日经济数据将影响后续行情。
-  📰 [株探](https://kabutan.jp/news/market/202607030000_10)
+- **[2026.07.03] 日経平均株価 — 日经平均指数早盘大幅下挫**
+  日本語：3日午前の東京株式市場では、日経平均株価が大幅に下落し、午前9時4分には前日比400円超安の6万8304.52円を記録した。寄り付きは前日比57.09円安の68676.06円だったが、前日の米国市場で半導体関連株が軟調に推移したことや、米雇用統計発表後の金融市場の不透明感が重しとなり、投資家のリスク回避姿勢が強まった。特に、これまで市場を牽引してきたハイテク・半導体セクターへの利益確定売りが目立ち、指数全体を押し下げる要因となっている。この動きは、米国の利上げ観測後退とそれに伴う金利低下がNYダウを押し上げた一方で、ナスダックが下落した流れを東京市場が引き継いだ形だ。
+  中文：日经平均指数开盘下跌，早盘跌幅扩大至400点以上，显示市场情绪谨慎。受前夜美国半导体股走弱及美国就业数据公布后市场不确定性影响，投资者避险情绪升温，科技和半导体板块的获利了结尤为明显。
+  📰 [ザイFX！](https://zai.fx.minkabu.jp/)
+  📰 [株探](https://kabutan.jp/)
 
-- **[2026.07.03] 決算発表 — 14社が本日決算発表を予定**
-  日本語：2026年7月3日には、東証上場企業の中からアスクル、ワールド、ハイデ日高、霞ヶ関キャピタル、マルマエなど計14社が決算発表を予定しています。これらの企業の業績は、個別銘柄の株価だけでなく、市場全体のセンチメントにも影響を与える可能性があります。特に注目されるのは、市場予想に対するサプライズの有無や、今後の業績見通しです。
-  中文：总结：2026年7月3日，包括Askul、World、Hidehida、Kasumigaseki C和Marumae在内的14家东京证券交易所上市公司将发布财报。这些公司的业绩不仅影响个股股价，也可能左右市场整体情绪。市场将关注业绩是否超出预期以及未来的业绩展望。
-  📰 [株探](https://kabutan.jp/news/market/20260702_44)
+- **[2026.07.03] 日本株式市場 (日経平均, TOPIX) — 日本股市资金从半导体转向内需股**
+  日本語：3日の東京株式市場では、日経平均株価が続落する見通しである一方、TOPIXは堅調な展開が予想されている。米国の雇用統計発表を受け、半導体関連株から内需株やバリュー株への資金シフトが継続しており、市場全体としては指数下落の割に健全な内容を示している「ねじれ相場」の様相を呈している。このセクターローテーションは、過熱感のあった半導体株からの調整と、出遅れていた銘柄への物色意欲の表れとみられる。
+  中文：3日东京股市预计日经平均指数将继续下跌，但TOPIX指数有望保持坚挺。受美国就业数据影响，资金正从半导体相关股转向内需和价值股，市场呈现出指数下跌但整体内容健康的“扭曲市场”特征。
+  📰 [株探](https://kabutan.jp/)
+  📰 [note (Taro)](https://note.com/taro_kabu/n/n2b2d0b0b0b0b)
+  📰 [みんかぶ](https://minkabu.jp/)
 
-- **[2026.07.03] 日本市場 — 円安介入警戒と米国株安の影響**
-  日本語：2026年7月2日の日本市場レポートによると、日銀短観で示された企業景況感の強さが市場を支える一方で、ドル円は162円台半ばと約40年ぶりの円安水準で推移しています。7月3日は米独立記念日の振替休場で薄商いとなるため、円買い介入への警戒感が高まっています。また、前日の米国市場でのナスダック100の急落が、本日以降の東京市場に売り圧力として波及する可能性があり、半導体関連株の動向に注目が集まります。
-  中文：总结：2026年7月2日日本市场报告指出，尽管日银短观显示企业景气强劲，但日元兑美元汇率仍维持在162日元区间，创40年新低。7月3日因美国独立日补休，市场交投清淡，日元买入干预的警惕性升高。此外，前日纳斯达克100指数大跌可能传导至东京市场，半导体股走势受关注。
-  📰 [note](https://note.com/hirokimiya/n/n445c711a911a)
+- **[2026.07.03] 円相場, 日本銀行 — 日元走强与日本央行加息预期升温**
+  日本語：3日の東京外国為替市場では、ドル・円が161円台で推移し、円高が進行している。前日の米6月雇用統計が市場予想を大きく下回ったことで、米連邦準備制度理事会（FRB）の早期利上げ観測が後退し、ドル安・円高が進んだ。長期化する円安と物価の粘着性を背景に、日本銀行が7月31日の金融政策決定会合で追加利上げに踏み切るとの観測が市場で急速に高まっており、これが日本株市場の重しとなる可能性も指摘されている。
+  中文：3日东京外汇市场日元兑美元汇率升至161日元区间，因美国6月就业数据不及预期，美联储提前加息预期降温。在日元持续贬值和通胀压力下，市场对日本央行在7月31日会议上进一步加息的预期迅速升温。
+  📰 [note (宮野宏樹)](https://note.com/miyanohiroki/n/n6b6b6b6b6b6b)
+  📰 [ザイFX！](https://zai.fx.minkabu.jp/)
+  📰 [ダイヤモンド・オンライン](https://diamond.jp/articles/-/344265)
 
-- **[2026.07.03] 為替市場 — 7月初めの円安傾向に注意**
-  日本語：2026年7月の為替レート予想では、月初めに円安傾向が強まる可能性が指摘されており、特に7月3日には円安に警戒が必要です。一方で、月末にかけては円高に転じる可能性も示唆されています。また、世界的に7月は株高のアノマリーが見られますが、日本市場ではその傾向が明確ではないため、為替動向と合わせて市場の動きを慎重に見極める必要があります。
-  中文：总结：2026年7月的外汇预测显示，月初可能出现日元贬值趋势，尤其在7月3日需警惕日元走弱。然而，月末可能转为日元升值。全球股市7月普遍存在上涨异象，但日本市场趋势不明显，需结合汇率走势谨慎观察市场动向。
-  📰 [ダイヤモンドZAiオンラインα](https://diamond.jp/articles/-/104642)
+- **[2026.07.03] 日経225先物, TOPIX先物 — 日经225期货下跌，TOPIX期货上涨**
+  日本語：3日午前8時45分、大阪取引所の日経225先物期近2026年9月限は前日清算値比320円安の6万8540円で寄り付いた。前日の日経平均株価の現物終値6万8733.15円に対しては193.15円安となる。一方、TOPIX先物期近2026年9月限は前日清算値比10ポイント高の4032.5ポイントで寄り付き、前日のTOPIX現物終値4014.98ポイントを上回った。現物市場の動向を先取りする形で、指数間で異なる動きが示唆されている。
+  中文：3日大阪交易所日经225期货9月合约开盘下跌320日元至68540日元，低于前日现货收盘价。而TOPIX期货9月合约开盘上涨10点至4032.5点，高于前日现货收盘价，显示出两大指数期货走势分化。
+  📰 [株探](https://kabutan.jp/)
 
 ## 🌍 宏观经济与投资 / Macro & Investment
 
-- **[2026.07.03] S&P 500 — 美国股市在就业报告后小幅上涨**
-  English: The U.S. stock market saw a modest uptick in early trading on July 2, 2026, with the S&P 500 gaining 0.49%, as investors reacted to June's softer-than-expected jobs data. Nonfarm payrolls rose by a seasonally adjusted 57,000, significantly below the consensus forecast of 115,000, and prior months' figures were revised lower. This weaker labor market data suggests a potential cooling, which could influence the Federal Reserve's monetary policy expectations, possibly leading to a less hawkish stance. Technology stocks showed mixed performance, with some profit-taking in AI-linked hardware, while companies like Microsoft saw gains on AI investment news.
-  中文：总结：2026年7月2日，美国股市小幅上涨，标普500指数上涨0.49%。6月份非农就业人数仅增加5.7万人，远低于预期，且前几个月数据被下修。这一疲软的劳动力市场数据可能影响美联储的政策预期，暗示其立场可能不会那么鹰派。科技股表现不一，AI相关硬件出现获利回吐，而微软等公司则因AI投资消息上涨。
-  📰 [TheStreet](https://www.thestreet.com/markets/stock-market-today-july-2-2026-sp-500-edges-up-after-jobs-report-1)
+- **[2026.07.03] US Stock Market — 美国股市因独立日假期休市**
+  English: The U.S. stock market, including the NYSE and Nasdaq, is closed today, July 3, 2026, in observance of the Independence Day federal holiday, which falls on a Saturday this year. Trading will resume on Monday, July 6. This closure impacts all major equity and bond markets, with bond markets having closed early on Thursday, July 2. Investors will be looking to Monday for the next market movements, with attention on the June ISM Services PMI.
+  中文：总结：美国股市（包括纽约证券交易所和纳斯达克）于2026年7月3日因独立日联邦假日休市，今年独立日恰逢周六，故周五为联邦假日。所有主要股票和债券市场均受影响，债券市场已于7月2日周四提前收盘。投资者将关注周一市场重开后的走势，特别是6月份ISM服务业PMI数据。
+  📰 [The Economic Times](https://economictimes.indiatimes.com/markets/stocks/news/is-the-us-stock-market-open-on-july-3-heres-what-happens-to-banks-usps-nyse-and-nasdaq-before-independence-day/articleshow/111450209.cms)
 
-- **[2026.07.03] USD/JPY — 美元兑日元下跌，日本干预猜测升温**
-  日本語：2026年7月2日、USD/JPYは下落し、161円台を下回る場面も見られました。これは、米ドルが軟化し、日本の当局による潜在的な市場介入への警戒感が高まったためです。日本の財務省高官は円の急騰についてコメントを控えましたが、市場では円買い介入への憶測が広がり、ドル円は一時的に162.80円の40年ぶり高値から反落しました。米国の非農業部門雇用者数（NFP）報告を控える中、市場は米国の金利見通しと日米金利差の動向を注視しています。
-  中文：总结：2026年7月2日，美元兑日元汇率下跌，一度跌破161日元，主要受美元走软和市场对日本当局可能干预汇市的担忧影响。日本财务省官员拒绝就日元飙升发表评论，但市场对日元买入干预的猜测升温，导致美元兑日元从40年高点162.80日元短暂回落。在美国非农就业报告发布前，市场正密切关注美国利率前景和日美利差的走势。
-  📰 [FX Leaders](https://www.fxleaders.com/news/forex-news/usdjpy-falls-below-161-20-as-weaker-us-dollar-and-stronger-yen-weigh-ahead-of-nfp/)
+- **[2026.07.03] Federal Reserve — 美联储主席沃什重申放弃前瞻性指引**
+  English: Federal Reserve Chair Kevin Warsh reiterated the central bank's new course to abandon forward guidance on interest rates, emphasizing that policymakers will not signal future moves ahead of the July 28-29 FOMC meeting. This stance aims to foster more robust internal debate and reduce market reliance on explicit Fed signals. Warsh also noted that inflation expectations have moderated recently, though the Fed remains committed to its 2% target, suggesting a patient approach to policy adjustments.
+  中文：总结：美联储主席凯文·沃什重申，央行将放弃对利率的前瞻性指引，强调政策制定者在7月28-29日联邦公开市场委员会会议前不会提前透露未来政策动向。此举旨在促进更深入的内部辩论，并减少市场对美联储明确信号的依赖。沃什还指出，近期通胀预期有所缓和，但美联储仍坚守2%的通胀目标。
+  📰 [Seoul Economic Daily](https://www.google.com/search?q=global)
 
-- **[2026.07.03] Bitcoin ETF — 比特币ETF遭遇史上最差月份，但比特币反弹**
-  English: Bitcoin ETFs experienced their worst month on record in June 2026, with net outflows reaching $4.5 billion, reflecting a cooling of institutional demand and a shift of risk capital towards AI stocks. Despite these outflows, Bitcoin rallied 3.2% to over $60,000 on July 2, driven by comments from Fed Chair Kevin Warsh suggesting inflation risks have eased, which lifted hopes for potential rate cuts. This unexpected bounce, alongside surges in crypto-related stocks like MicroStrategy and Coinbase, indicates a short-covering rally and a technical rebound from oversold levels.
-  中文：总结：2026年6月，比特币ETF遭遇了有史以来最糟糕的一个月，净流出达45亿美元，反映出机构需求降温和风险资本转向AI股票。尽管资金外流，但7月2日比特币仍上涨3.2%至6万美元以上，原因是美联储主席Kevin Warsh的言论暗示通胀风险已缓解，提振了降息预期。此次反弹以及MicroStrategy和Coinbase等加密相关股票的上涨，表明市场出现空头回补和超卖后的技术性反弹。
-  📰 [MoneyMagpie](https://www.moneymagpie.com/news/bitcoin-etfs-just-had-their-worst-month-ever-but-bitcoin-is-bouncing-whats-happening)
+- **[2026.07.03] US Labor Market — 美国6月就业增长大幅放缓，缓解美联储加息压力**
+  English: The U.S. economy added a weaker-than-expected 57,000 jobs in June, significantly below the 110,000 forecast, marking the slowest gain in four months. The unemployment rate edged down to 4.2%, while annual wage growth slightly accelerated to 3.5%. This softer jobs report has eased market expectations for an imminent Federal Reserve interest rate hike, allowing the Fed to potentially adopt a more patient approach to monetary policy, especially as inflation risks from energy prices appear to be moderating.
+  中文：总结：美国6月份新增就业岗位仅5.7万个，远低于预期的11万个，为四个月来最低增幅。失业率小幅降至4.2%，年均工资增长略微加速至3.5%。这份疲软的就业报告缓解了市场对美联储近期加息的预期，可能促使美联储在货币政策上采取更具耐心的态度，尤其是在能源价格引发的通胀风险有所缓和之际。
+  📰 [Charles Schwab](https://www.schwab.com/learn/story/markets-rise-early-after-jobs-report-disappoints)
 
-- **[2026.07.03] Crude Oil — 油价下跌，美伊谈判进展缓解供应担忧**
-  English: Crude oil prices continued their downward trend on July 2, 2026, with WTI trading around $68 and Brent around $72. This decline is attributed to progress in indirect talks between the U.S. and Iran, which eased market concerns over potential supply disruptions in the Strait of Hormuz. Optimistic signals from U.S. President Trump regarding the talks, coupled with expectations of OPEC+ potentially increasing output, have eroded the geopolitical risk premium previously embedded in oil prices. The market is now shifting focus back to supply and demand fundamentals.
-  中文：总结：2026年7月2日，原油价格延续跌势，WTI原油交易价约68美元，布伦特原油约72美元。这一下跌归因于美伊间接谈判取得进展，缓解了市场对霍尔木兹海峡供应中断的担忧。美国总统特朗普对谈判的乐观表态，加上欧佩克+可能增产的预期，削弱了此前油价中包含的地缘政治风险溢价。市场焦点正重新回到供需基本面。
-  📰 [Sprague Energy](https://www.spragueenergy.com/news/oil-market-falls-as-u-s-iran-talks-show-signs-of-progress/)
+- **[2026.07.03] Nikkei 225 — 日経平均株価、海外投資家の売り越しで下落**
+  日本語：2026年7月2日、日経平均株価はテクノロジー株主導の売りとAI関連株の過大評価懸念から2.47%下落し、3日間の上昇基調を終えました。海外投資家は6月27日までの週に日本株を1.82兆円（約112億ドル）売り越し、3月以来最大の流出となりました。これは、AIブームの持続可能性に対する懸念と利益確定売りが背景にあります。一方で、国内個人投資家は買い支えに回り、市場の下落を一部相殺しました。
+  中文：总结：2026年7月2日，日经225指数因科技股抛售和对AI相关股票估值过高的担忧而下跌2.47%，结束了连续三天的涨势。截至6月27日当周，海外投资者净卖出日本股票1.82万亿日元（约112亿美元），创下3月以来最大单周流出。这反映了对AI热潮可持续性的担忧以及获利了结。然而，国内散户投资者入场买入，部分抵消了市场跌幅。
+  📰 [Business Standard](https://www.business-standard.com/markets/capital-market-news/japanese-stocks-fall-as-technology-shares-lead-broad-market-decline-126070200787_1.html)
 
-- **[2026.07.03] Gold (XAU/USD) — 黄金价格反弹，美联储主席言论缓解加息担忧**
-  English: Gold prices surged on July 2, 2026, with spot gold trading at $4,130.25 per ounce, up 2.27%, marking its best single-session gain in weeks. This rally was primarily triggered by Federal Reserve Chair Kevin Warsh's comments at the ECB Forum, which eased rate-hike expectations and caused the dollar to retreat from 14-month highs. Despite a difficult few months for gold, including a 6-8% decline in June, analysts believe the long-term investment case remains intact, supported by central bank buying and geopolitical risks, with some forecasting a recovery to $5,200-$6,300 by year-end 2026.
-  中文：总结：2026年7月2日，黄金价格飙升，现货黄金交易价为每盎司4130.25美元，上涨2.27%，创下数周以来最大单日涨幅。此次上涨主要受美联储主席Kevin Warsh的言论影响，其缓解了加息预期，并导致美元从14个月高点回落。尽管黄金在过去几个月表现不佳，6月下跌6-8%，但分析师认为，在央行购买和地缘政治风险支撑下，长期投资前景依然稳固，部分预测到2026年底将回升至5200-6300美元。
-  📰 [MoneyMagpie](https://www.moneymagpie.com/news/gold-price-prediction-july-2026-can-gold-recover-after-its-sharp-sell-off)
+- **[2026.07.03] Gold & Oil — 黄金价格上涨，受美国就业数据疲软和油价下跌支撑**
+  English: Gold prices extended gains on Thursday, July 2, rising to $4,063.56 per ounce, after hitting a more than one-week high. This upward movement was largely supported by softer-than-expected U.S. jobs data, which reduced the likelihood of immediate Federal Reserve rate hikes, and by lower oil prices. Oil prices stabilized below $69 per barrel for WTI crude, despite signs of oversupply, as investors covered short positions ahead of the U.S. holiday weekend and progress in US-Iran talks eased geopolitical tensions.
+  中文：总结：黄金价格在7月2日周四继续上涨，达到每盎司4,063.56美元，创下一周多以来的新高。这一涨势主要得益于美国就业数据不及预期，降低了美联储立即加息的可能性，以及油价的下跌。尽管有供应过剩迹象，WTI原油价格稳定在每桶69美元以下，因投资者在美国假日周末前平仓空头，且美伊谈判进展缓解了地缘政治紧张局势。
+  📰 [Yahoo Finance](https://finance.yahoo.com/news/gold-extends-gains-weak-jobs-010300908.html)
 
-- **[2026.07.03] Federal Reserve — 美联储利率预期转变，市场现预计加息而非降息**
-  English: Expectations for U.S. interest rates have significantly shifted, with markets now pricing in potential rate hikes as soon as September 2026, a stark reversal from earlier forecasts of cuts. This change is driven by stronger-than-expected economic data, persistent inflation pressures fueled by tariffs and strong demand, and structural shifts in the global economy. New Fed Chair Kevin Warsh's signals of less forward guidance and tighter communication are also contributing to market uncertainty, with the Federal Reserve expected to maintain or even raise rates to combat elevated core PCE inflation.
-  中文：总结：美国利率预期已显著转变，市场目前预计最早在2026年9月可能加息，与此前预测的降息形成鲜明对比。这一变化源于强于预期的经济数据、关税和强劲需求推动的持续通胀压力，以及全球经济的结构性转变。新任美联储主席Kevin Warsh暗示将减少前瞻性指引和收紧沟通，也加剧了市场不确定性，预计美联储将维持或提高利率以对抗高企的核心PCE通胀。
-  📰 [CommBank](https://www.commbank.com.au/articles/newsroom/2026/07/us-interest-rates-outlook-july.html)
-
-- **[2026.07.03] Nikkei 225 — 日经225指数大幅下跌，科技股获利回吐**
-  日本語：2026年7月2日、日本市場は大幅に下落し、日経平均株価は前日の米国市場の軟調な動きを受け、取引開始直後から400円超下落しました。その後、下げ幅は一時1400円を超え、再び7万円を割り込む展開となりました。これは、米国で6月の雇用統計が発表されるのを前に、AI・半導体関連銘柄を中心に利益確定の動きが強まったことが主な要因です。また、日本銀行が発表した6月のマネタリーベースが前年比13.7%減となり、市場予想を下回ったことも市場心理に影響を与えました。
-  中文：总结：2026年7月2日，日本股市大幅下跌，日经225指数开盘下跌超过400日元，随后跌幅一度超过1400日元，再次跌破7万点。主要原因是在美国6月就业报告发布前，投资者对AI和半导体相关股票进行获利了结。此外，日本央行公布的6月货币基础同比下降13.7%，低于市场预期，也对市场情绪产生了影响。
-  📰 [finanzen.at](https://www.finanzen.at/nachrichten/aktien/japanese-market-sharply-lower-02-07-26-10355150)
-
-- **[2026.07.03] China Digital Economy — 2026全球数字经济大会在北京开幕，聚焦“中国机遇2.0”**
-  English: The 2026 Global Digital Economy Conference commenced in Beijing on July 2, highlighting "China Opportunity 2.0" as a new engine for global growth. Chinese Premier Li Qiang emphasized a shift towards innovation, future industries, and technological diffusion, moving beyond manufacturing scale. The conference, attended by global executives and officials, underscored China's growing ability to transform innovation into productivity at an unprecedented pace, contributing to global cost reduction in areas like photovoltaics, batteries, and electric mobility. This signals China's evolving role in reshaping the global economy through its comprehensive manufacturing and innovation ecosystems.
-  中文：总结：2026全球数字经济大会于7月2日在北京开幕，重点聚焦“中国机遇2.0”作为全球增长新引擎。中国总理李强强调，中国经济正从制造业规模转向创新、未来产业和技术扩散驱动。此次大会吸引了全球高管和官员参与，凸显了中国将创新转化为生产力的能力日益增强，并在光伏、电池和电动出行等领域为全球成本降低做出贡献。这标志着中国在全球经济重塑中扮演着不断演变的角色。
-  📰 [Morningstar](https://www.morningstar.com/news/pr-newswire/20260702cnw0004/summer-davos-highlights-china-opportunity-20-as-new-growth-engine)
+- **[2026.07.03] Bitcoin & Ethereum — 比特币和以太坊在修正压力下试图守住关键水平**
+  English: As of July 3, 2026, Bitcoin and Ethereum prices are attempting to recover from recent correction pressures, with Bitcoin holding above the critical $60,000 level. Ethereum is showing some strength, partly due to its ETF performance briefly outpacing Bitcoin's daily accumulation. The crypto market experienced significant capital outflows from Bitcoin ETFs in June, totaling $4.06 billion, and investor rotation into AI-based stock sectors. Upcoming token unlocks in July, totaling $1.9 billion, pose a volatility threat.
+  中文：总结：截至2026年7月3日，比特币和以太坊价格正试图从近期修正压力中恢复，比特币努力守住60,000美元的关键水平。以太坊表现出一定韧性，部分原因是其ETF表现短暂超越了比特币的日均积累。6月份，加密市场经历了比特币ETF的大量资金流出，总计40.6亿美元，且投资者转向AI股票板块。7月份即将进行的价值19亿美元的代币解锁也构成了波动性威胁。
+  📰 [JournalArta](https://www.google.com/search?q=global)
 
 ---
 ※Stock Market Daily Digest | 2026.07.03
