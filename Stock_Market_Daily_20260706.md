@@ -7,103 +7,108 @@
 
 ## 🇺🇸 美国股市 / US Market
 
-以下是关于美国股市的最新消息，日期为2026年7月6日：
+Here are 8 recent news items regarding the US Market for July 6, 2026:
 
-- **[2026.07.06] US Stock Market — 美国股市独立日假期后重开，预计面临波动**
-  English: The US stock market reopens on July 6th after the Independence Day holiday, with analysts anticipating a volatile trading week. Investors will closely monitor upcoming economic data, particularly the ISM Services PMI, Federal Reserve officials' comments for clues on interest rate policy, and the start of the second-quarter earnings season. Geopolitical developments and global market trends during the extended weekend are also expected to influence Wall Street's direction, with a cautious sentiment prevailing, especially in tech sectors.
-  中文：总结：美国股市在独立日假期后于2026年7月6日重新开市，分析师普遍预计本周市场将面临波动。投资者将密切关注即将公布的经济数据，特别是ISM服务业PMI，以及美联储官员关于利率政策的表态。此外，第二季度财报季的开启以及长周末期间的全球市场动态和地缘政治发展，都将对华尔街的走势产生影响，尤其是在科技板块，市场情绪普遍谨慎。
-  📰 [The Sunday Guardian](https://www.sundayguardianlive.com/business/us-stock-market-prediction-july-6-will-dow-jones-sp-500-nasdaq-open-higher-or-lower-wall-street-reopens-after-july-4-independence-day-holiday-weekend)
+- **[2026.07.06] US Stock Market — 市场在独立日假期后重开，投资者关注科技股走势**
+  English: US financial markets, including the NYSE and Nasdaq, are set to resume trading on Monday, July 6, after observing the Independence Day holiday weekend. Investors are closely watching how the Dow Jones, S&P 500, and Nasdaq Composite will open, with particular attention on technology stocks and the broader AI trade. The direction of the market will likely be influenced by overnight global trends, US trade policy developments, and expectations surrounding Federal Reserve interest rates.
+  中文：总结：美国股市在独立日假期后于7月6日星期一重新开市，投资者正密切关注道琼斯、标普500和纳斯达克指数的开盘表现，尤其是科技股和人工智能相关交易的走势。市场方向将受全球市场趋势、美国贸易政策及美联储利率预期的影响。
 
-- **[2026.07.06] Tech Stocks / Semiconductors — 科技股和半导体板块面临谨慎情绪**
-  English: The technology and semiconductor sectors are expected to face continued caution as US markets resume trading on July 6th. Following recent sell-offs in chipmakers, investors are questioning whether AI optimism has pushed valuations beyond sustainable levels. Analysts suggest a "higher volatility" forecast for the overall market, with a cautious stance on tech, as the Nasdaq Composite recently dropped below its 50-day Simple Moving Average. Concerns over rising Treasury yields could further pressure growth stocks.
-  中文：总结：随着美国股市在7月6日恢复交易，科技股和半导体板块预计将继续面临谨慎情绪。此前芯片制造商出现抛售，引发了投资者对人工智能相关股票估值是否过高的担忧。分析师预测整体市场波动性将增加，并对科技股持谨慎态度，纳斯达克综合指数近期已跌破50日简单移动平均线。不断上升的国债收益率也可能对成长型股票构成压力。
-  📰 [Goodreturns](https://www.goodreturns.in/news/us-stock-market-open-or-close-on-july-6-check-weekly-outlook-for-nasdaq-dow-jones-nasdaq-100-s-p-500-1304951.html)
+- **[2026.07.06] Nasdaq/Tech Stocks — 科技股面临波动，AI乐观情绪估值受质疑**
+  English: The tech-heavy Nasdaq Composite is expected to face continued volatility as the market reopens, with chipmakers experiencing sell-offs amid investor questions about whether AI optimism has pushed valuations beyond reasonable levels. Analysts suggest a "cautious" stance on tech for the week, noting that while July seasonality often favors bulls, the recent "wobble" in the momentum/AI infrastructure trade could offset this.
+  中文：总结：随着市场重开，科技股为主的纳斯达克指数预计将持续波动，芯片制造商因投资者质疑AI乐观情绪是否推高估值而面临抛售。分析师建议本周对科技股持“谨慎”态度，认为尽管七月通常利好，但AI基础设施交易的近期波动可能抵消这一趋势。
 
-- **[2026.07.06] Tesla (TSLA) — 特斯拉对员工AI支出设限**
-  English: Tesla Inc. announced a new policy effective July 6th, imposing a weekly spending cap of $200 on AI-related expenses for its employees. This move, reported in an internal memo, aims to enhance cost control amidst the company's extensive AI applications, including autonomous driving and humanoid robots. Notably, expenditures linked to the xAI Grok model are exempt from this limit, indicating a strategic balance between fostering innovation and managing rising AI infrastructure costs.
-  中文：总结：特斯拉公司宣布自2026年7月6日起，对其员工的AI相关支出设定每周200美元的上限。据内部备忘录披露，此举旨在平衡公司在自动驾驶和人形机器人等AI应用方面的投入与成本控制。值得注意的是，与xAI Grok模型相关的支出不受此限制，这表明特斯拉在推动AI创新的同时，也注重财务纪律和管理日益增长的AI基础设施成本。
-  📰 [GuruFocus](https://www.gurufocus.com/news/2471960/tesla-implements-weekly-ai-spending-cap-for-employees)
+- **[2026.07.06] Microsoft (MSFT) — 微软股价因AI资本支出担忧而大幅下跌**
+  English: Microsoft's stock has plummeted approximately 19% in June, marking its worst monthly decline since December 2000, as investors grow increasingly concerned about the massive capital expenditures for AI data centers and semiconductors. Despite strong revenue growth and accelerating Azure cloud revenue, the projected $190 billion in capex for 2026, significantly above expectations, has weighed heavily on the stock, leading some to view Microsoft as the "sacrificial offering of AI."
+  中文：总结：微软股价在六月暴跌约19%，创下2000年12月以来最差月度表现，原因是投资者对其在AI数据中心和半导体领域的大规模资本支出感到担忧。尽管营收强劲且Azure云收入加速增长，但2026年预计高达1900亿美元的资本支出远超预期，对股价造成巨大压力，使微软被视为“AI的牺牲品”。
 
-- **[2026.07.06] S&P 500 / Nasdaq — 标普500和纳斯达克开盘展望**
-  English: Prediction markets indicate a modest lean towards a higher open for the S&P 500 on July 6th, with a 62% implied probability, though without strong conviction. The Nasdaq Composite, however, faces uncertainty after a recent decline, with its direction dependent on overnight global market trends and investor sentiment as trading resumes after the holiday. Futures pricing on Sunday evening will be a primary volatility trigger for both major indices.
-  中文：总结：预测市场显示，标普500指数在2026年7月6日开盘上涨的可能性略高，隐含概率为62%，但市场信心并不强烈。与此同时，纳斯达克综合指数在近期下跌后，其走势仍存在不确定性，开盘方向将取决于长周末期间的全球市场趋势和投资者情绪。周日晚间的期货定价将是影响两大主要股指开盘波动的主要因素。
-  📰 [Lines.com](https://www.lines.com/betting/news/will-the-s-p-500-open-higher-on-july-6-2026-101138)
+- **[2026.07.06] Tesla (TSLA) — 特斯拉对员工AI工具使用设定每周200美元上限**
+  English: Tesla is implementing a new policy effective July 6, setting a weekly spending limit of $200 for employees on AI tools. This move, reported via an internal memo, aims to balance the company's aggressive AI adoption with necessary cost control. Software engineers had reportedly been consuming thousands of dollars worth of AI tokens weekly, and any spending beyond the new threshold will require management approval, though xAI products are exempt.
+  中文：总结：特斯拉自7月6日起实施新政策，对员工使用AI工具设定每周200美元的支出上限。此举旨在平衡公司积极采用AI与成本控制的需求。据报道，此前软件工程师每周消耗数千美元的AI代币，超出新上限的支出需管理层批准，但xAI产品不受此限制。
 
-- **[2026.07.06] Federal Reserve / US Market — 美联储政策与FOMC会议纪要预期**
-  English: Investors are keenly focused on the Federal Reserve's monetary policy outlook as markets reopen on July 6th. Comments from Fed officials and upcoming economic data will be scrutinized for clues regarding the timing of potential interest-rate cuts. The release of the FOMC minutes from the June meeting, scheduled for later in the week, is a centerpiece event, expected to provide deeper insight into the committee's debate on inflation and rate hike probabilities, especially after a softer jobs report.
-  中文：总结：随着市场在7月6日重新开盘，投资者正密切关注美联储的货币政策前景。美联储官员的讲话和即将公布的经济数据将被仔细审查，以寻找潜在降息时机的线索。本周晚些时候公布的6月FOMC会议纪要将是核心事件，预计将提供委员会对通胀和加息可能性的更深入讨论，尤其是在就业报告表现疲软之后。
-  📰 [Invezz](https://invezz.com/news/2026/07/04/wall-streets-big-test-5-factors-investors-cant-ignore-next-week/)
+- **[2026.07.06] SpaceX / Nasdaq-100 — SpaceX今日正式加入纳斯达克100指数**
+  English: SpaceX is officially joining the Nasdaq-100 index on Monday, July 6, a significant event that will trigger substantial reallocations by exchange-traded funds (ETFs) and mutual funds tracking the index. Nasdaq made special rule adjustments to accommodate Elon Musk's record ~$2.5 trillion IPO, allowing SpaceX to join earlier than typically expected. This inclusion will force trillions of dollars in capital to gain exposure to SpaceX shares.
+  中文：总结：SpaceX于7月6日星期一正式加入纳斯达克100指数，这一重大事件将促使追踪该指数的ETF和共同基金进行大量资产重新配置。纳斯达克为埃隆·马斯克创纪录的约2.5万亿美元IPO做出了特殊规则调整，使SpaceX得以提前入选，这将迫使数万亿美元的资金配置SpaceX股票。
 
-- **[2026.07.06] US Economy / ISM Services PMI — 6月ISM服务业PMI报告将发布**
-  English: The June ISM Services PMI report is scheduled for release on Monday, July 6th, and is set to be a key economic indicator for the week. This data will provide crucial insights into the health and expansion of the services sector, which constitutes a significant portion of the US economy. A softer reading could bolster arguments for the Federal Reserve to maintain a patient approach to interest rates, while a stronger print, particularly with firm prices, might heighten concerns about inflation and rate-sensitive stocks.
-  中文：总结：6月份ISM服务业采购经理人指数（PMI）报告定于2026年7月6日周一发布，这将是本周一个关键的经济指标。该数据将为美国服务业的健康状况和扩张提供重要见解，服务业在美国经济中占据重要份额。若读数疲软，可能支持美联储在利率政策上保持耐心的观点；而若读数强劲，尤其是在价格坚挺的情况下，可能会加剧对通胀和利率敏感型股票的担忧。
-  📰 [Invezz](https://invezz.com/news/2026/07/04/wall-streets-big-test-5-factors-investors-cant-ignore-next-week/)
+- **[2026.07.06] Federal Reserve — 投资者关注美联储会议纪要以获取利率线索**
+  English: Investors are keenly awaiting the minutes from the US Federal Reserve's latest meeting, scheduled for release on Wednesday, for further insights into monetary policy under new chairman Kevin Warsh. Warsh's previous hawkish comments have influenced market sentiment, and with recent softer job numbers and falling energy prices, these minutes are crucial for clues on the timing of potential interest-rate cuts, which could significantly impact market direction.
+  中文：总结：投资者正密切关注美联储最新会议纪要，该纪要将于周三发布，以期在新任主席凯文·沃什领导下获取货币政策的进一步线索。沃什此前鹰派言论已影响市场情绪，鉴于近期就业数据疲软和能源价格下跌，这些纪要对于了解潜在降息时机至关重要，可能显著影响市场走向。
+
+- **[2026.07.06] Amazon (AMZN) — 亚马逊加大AI投资，资本支出激增**
+  English: Amazon is significantly increasing its capital expenditures in 2026, with plans for $200 billion, up from $131 billion last year. This surge in spending is primarily directed towards Amazon Web Services (AWS) and generative AI, driven by robust customer demand and the company's strategic focus on building data centers to power the AI revolution. Despite concerns about the massive investment, analysts view Amazon's AI upside as a compelling long-term growth driver.
+  中文：总结：亚马逊计划在2026年大幅增加资本支出至2000亿美元，高于去年的1310亿美元。此次支出激增主要投向AWS和生成式AI，以满足强劲的客户需求并建设AI数据中心。尽管巨额投资引发担忧，但分析师认为亚马逊的AI潜力是其长期增长的强大动力。
+
+- **[2026.07.06] NVIDIA (NVDA) — 英伟达股价波动，但AI芯片需求前景强劲**
+  English: NVIDIA's stock has experienced recent weakness, including a 12.6% drop in June, amid profit-taking across large-cap technology stocks and sector rotation. However, prediction markets suggest the stock may remain range-bound through July. Despite near-term volatility, NVIDIA's fundamentals remain exceptionally strong, with its Data Center segment benefiting from surging demand for AI training and inference infrastructure, and the company projecting over $1 trillion in confirmed AI chip demand through 2027.
+  中文：总结：英伟达股价近期表现疲软，6月份下跌12.6%，主要受大型科技股获利回吐和板块轮动影响。然而，预测市场表明该股在7月份可能维持区间震荡。尽管短期波动，英伟达的基本面依然异常强劲，其数据中心业务受益于AI训练和推理基础设施的旺盛需求，公司预计到2027年AI芯片需求将超过1万亿美元。
 
 ## 🇯🇵 日本株式市場 / Japan Market
 
-- **[2026.07.06] 日経平均 — 7万円台攻防続く、半導体株の動向が焦点**
-  日本語：週明け6日の日本株式市場では、日経平均株価が7万円台を巡る攻防を継続している。前週末はAI・半導体関連株の反発で急騰したが、今週は米国の金融政策見通しや半導体市場の動向に左右される神経質な展開が予想される。特に、指数寄与度の大きい半導体関連銘柄の動向が全体相場を大きく左右する見込みだ。市場では、7万円台を維持できるかが短期的な焦点となっている。
-  中文：总结：本周日本股市日经平均指数围绕7万点关口展开争夺。上周末受AI半导体股反弹带动大涨，但本周市场情绪谨慎，主要受美国货币政策展望和半导体市场走势影响。半导体相关股票的动向将是关键。
-  📰 [日本経済新聞](https://www.nikkei.com/)
+- **[2026.07.06] 日経平均 — 4日ぶりに7万円台回復**
+  日本語：週明け6日の日本株式市場では、日経平均株価が4営業日ぶりに7万円台を回復し、取引を開始した。前週末の米国市場が独立記念日の振替休日で休場だったものの、欧州市場の堅調な動きや、前週末の日経平均先物のナイトセッションでの反動安が限定的だったことが好感された。半導体関連株への利益確定売りと、景気敏感株への資金シフトの動きが交錯する中、市場は今後の方向性を見極める展開となっている。
+  中文：总结：周一日本股市开盘，日经平均指数在四个交易日后重新站上7万点大关。尽管上周五美国市场因独立日休市，但欧洲市场的强劲表现以及日经指数期货夜盘回调有限，提振了市场情绪。半导体相关股票的获利了结与周期性股票的资金转移交织，市场正在观望未来的走向。
+  📰 [株探](https://www.google.com/search?q=Japan)
 
-- **[2026.07.06] 日本銀行 — 追加利上げ観測高まる中、長期金利は高水準維持**
-  日本語：日本銀行は6月の金融政策決定会合で政策金利を1.0%に引き上げたが、市場ではさらなる追加利上げへの観測が強まっている。国内の長期金利は上昇傾向にあり、3日には新発10年債利回りが約30年ぶりの高水準となる2.810%を記録した。日銀は基調的インフレが2%目標に近づいていると見ており、2027年前半にかけて1.75%程度までの利上げが予想されている。
-  中文：总结：日本央行在6月货币政策会议上将政策利率上调至1.0%，市场对进一步加息的预期增强。日本长期利率持续上升，3日10年期国债收益率达到2.810%，为近30年新高。预计日本央行将在2027年初前将利率提升至1.75%左右。
-  📰 [日本銀行](https://www.boj.or.jp/jp/index.htm)
+- **[2026.07.06] 日本株市場 — 半導体・AI関連から景気敏感株への資金シフト**
+  日本語：6日の日本株市場は、半導体やAI関連株から景気敏感株などへの資金シフトの動きが注目されている。前週末の米国市場休場を受け、海外勢のフローは限定的とみられるが、キオクシアHDなどの半導体関連株の動向が市場全体の方向性を左右する可能性がある。半導体株への利益確定が続く場合、出遅れていた景気敏感株への見直し買いが強まる可能性があり、TOPIX型へのリバランスの動きが焦点となっている。
+  中文：总结：周一日本股市关注资金从半导体和AI相关股票转向周期性股票的动向。由于上周末美国市场休市，海外资金流动预计有限，但铠侠控股等半导体相关股票的走势可能影响整体市场方向。如果半导体股票继续面临获利了结，此前表现滞后的周期性股票可能受到关注，市场焦点在于向TOPIX型股票的再平衡。
+  📰 [株探](https://www.google.com/search?q=Japan)
 
-- **[2026.07.06] 円相場 — 対ドル162円台で推移、円安倒産は増加傾向**
-  日本語：円相場は対ドルで162円台後半で推移しており、約39年半ぶりの円安水準が続いている。米国の利上げ観測が日米金利差を拡大させ、円安を加速させている。この円安は輸出企業にとっては収益改善の追い風となる一方、輸入コストの増加を通じて企業経営を圧迫しており、2026年上半期の「円安」関連倒産は前年同期比で増加している。
-  中文：总结：日元兑美元汇率维持在162日元区间，持续处于约39年半以来的低位。美国加息预期扩大了日美利差，加速了日元贬值。虽然日元贬值对出口企业有利，但增加了进口成本，导致2026年上半年与“日元贬值”相关的企业破产数量增加。
-  📰 [Bloomberg Japan](https://www.bloomberg.co.jp/)
+- **[2026.07.06] 為替市場 — ドル円161円台で推移、介入警戒感継続**
+  日本語：東京外国為替市場では、ドル円が1ドル＝161円台で推移しており、約39年半ぶりの円安水準に近い状況が続いている。日米の金利差拡大が円安の背景にあるとの見方が強く、政府・日本銀行による為替介入への警戒感が市場にくすぶっている。円安は輸出企業の業績にはプラスに働くものの、輸入物価の上昇を通じて家計負担を増やす側面もあり、今後の通貨当局の動向が注視されている。
+  中文：总结：东京外汇市场美元兑日元汇率维持在161日元区间，持续接近39年半以来的日元低位。市场普遍认为日美利差扩大是日元贬值的主要原因，对政府和日本央行进行外汇干预的警惕情绪弥漫。尽管日元贬值利好出口企业，但也通过推高进口物价增加家庭负担，因此市场密切关注货币当局的未来动向。
+  📰 [note (宮野宏樹)](https://www.google.com/search?q=Japan)
 
-- **[2026.07.06] 半導体関連株 — AI需要で高値圏維持も、過熱感と利益確定売り警戒**
-  日本語：AIブームに牽引され、日本の半導体関連株は引き続き高値圏で推移している。東京エレクトロンやアドバンテストなどの主要銘柄が日経平均を支える一方、短期的には過熱感から利益確定売りが出やすい状況にある。来週10日には台湾大手半導体メーカーの月次売上高が発表される予定で、これが半導体市場全体のセンチメントに大きな影響を与える可能性がある。
-  中文：总结：受AI热潮推动，日本半导体相关股票继续在高位运行。东京电子和爱德万测试等主要股票支撑着日经指数，但短期内市场存在过热感，容易出现获利回吐。下周10日将公布台湾主要半导体制造商的月度销售额，这可能对整个半导体市场情绪产生重大影响。
-  📰 [日本経済新聞](https://www.nikkei.com/)
+- **[2026.07.06] 決算発表 — ネクステージ、トーセイなど注目銘柄が発表**
+  日本語：本日6日、ネクステージ（3186）、トーセイ（8923）、ミタチ産業（3321）など複数の企業が決算発表を予定している。特にネクステージとトーセイは、それぞれ第2四半期決算を発表する見込みで、市場の注目を集めている。これらの企業の業績動向は、個別銘柄の株価だけでなく、関連セクターや市場全体のセンチメントにも影響を与える可能性があるため、投資家は発表内容を注視している。
+  中文：总结：今日（6日），包括Nextage（3186）、Tosei（8923）、Mitachi Sangyo（3321）在内的多家公司将公布财报。Nextage和Tosei预计将发布第二季度财报，备受市场关注。这些公司的业绩表现不仅影响个股股价，还可能波及相关行业和整体市场情绪，投资者正密切关注财报内容。
+  📰 [株探](https://www.google.com/search?q=Japan)
 
-- **[2026.07.06] ソニーグループ — 2026年3月期は増収増益、今期も過去最高益を予想**
-  日本語：ソニーグループは、2026年3月期の連結決算で売上高が前期比3.7%増の12兆4796億円、営業利益が同13.4%増の1兆4475億円と増収増益を達成した。音楽事業とイメージセンサー事業が好調を牽引し、ゲーム事業も為替の好影響とネットワークサービスの拡大で増益に貢献した。同社は2027年3月期も過去最高益を更新する見通しを示している。
-  中文：总结：索尼集团2026年3月期合并财报显示，销售额同比增长3.7%至12.4796万亿日元，营业利润同比增长13.4%至1.4475万亿日元，实现增收增益。音乐和图像传感器业务表现强劲，游戏业务也受益于汇率和网络服务扩张。公司预计2027年3月期将再创历史新高。
-  📰 [Sony Group Portal](https://www.sony.com/ja/SonyInfo/IR/)
+- **[2026.07.06] 日本株見通し — 2026年後半も上昇トレンド継続も鈍化の可能性**
+  日本語：2026年後半の日本株市場について、専門家からは上昇トレンドは継続するものの、そのスピードは鈍化するとの見方が示されている。年前半はAI関連需要や円安を背景に日経平均が7万円台に到達するなど記録的な上昇を見せたが、今後はEPS（1株当たり利益）の上昇率が株価上昇率を下回る「人気先行相場」への移行リスクが指摘されている。企業業績の拡大基調は続くものの、過熱感には注意が必要だ。
+  中文：总结：关于2026年下半年日本股市，专家预测上涨趋势将持续，但速度可能放缓。上半年在AI需求和日元贬值的推动下，日经指数创下历史新高，达到7万日元水平。然而，有观点指出，未来可能面临“人气先行市场”的风险，即每股收益（EPS）增长率低于股价增长率。尽管企业盈利持续扩张，但仍需警惕市场过热。
+  📰 [Yahoo!ファイナンス](https://www.google.com/search?q=Japan)
 
-- **[2026.07.06] トヨタ自動車 — 2026年3月期は増収減益、関税が利益を圧迫**
-  日本語：トヨタ自動車が発表した2026年3月期連結決算では、営業収益が50兆6852億円と増収となったものの、営業利益は前年比21.5%減の3兆7662億円と減益となった。電動車販売の増加や製品競争力向上にもかかわらず、主に米国の関税が利益を圧迫したことが要因。同社はモビリティサービス企業への転換を進める中で、貿易政策の課題に直面している。
-  中文：总结：丰田汽车公布的2026年3月期合并财报显示，营业收入增至50.6852万亿日元，但营业利润同比下降21.5%至3.7662万亿日元，出现增收减益。尽管电动车销量增加和产品竞争力提升，但主要受美国关税影响，利润受到挤压。公司在向移动服务企业转型中面临贸易政策挑战。
-  📰 [トヨタ自動車](https://global.toyota/jp/ir/)
+- **[2026.07.06] 日本銀行 — 金融政策運営における政府との連携が焦点**
+  日本語：日本銀行の金融政策運営において、政府との連携のあり方が引き続き市場の注目を集めている。政府の「骨太の方針」原案では、日銀の適切な金融政策運営が「非常に重要」とされ、日銀法第4条と政府・日銀共同声明の趣旨に沿った「緊密な連携」が求められている。これは、政府が日銀の利上げを牽制する姿勢を示していると解釈されており、日銀の独立性に対する市場の懸念がくすぶる中で、今後の金融政策決定会合での議論が注目される。
+  中文：总结：日本央行货币政策操作中与政府的合作方式持续受到市场关注。政府的“骨太方针”草案强调日本央行“适当的货币政策操作非常重要”，并要求其根据日本银行法第4条和政府与日本央行联合声明的精神“紧密合作”。这被解读为政府对日本央行加息的牵制，在市场对日本央行独立性担忧的背景下，未来货币政策会议的讨论备受瞩目。
+  📰 [大和総研](https://www.google.com/search?q=Japan)
 
 ## 🌍 宏观经济与投资 / Macro & Investment
 
-Here are 6 recent news items concerning macroeconomics and investment, focusing on the outlook and sentiment for July 6, 2026, based on the latest available market analyses:
+- **[2026.07.06] US Stock Market — 美国股市在独立日假期后恢复交易**
+  English: The US stock market is set to resume trading on Monday, July 6, after the Independence Day holiday weekend. Investors will closely monitor whether the Dow Jones, S&P 500, and Nasdaq Composite open higher or lower, reacting to global market trends, US trade policy developments, and Federal Reserve interest rate expectations that unfolded during the extended break. While major Wall Street indexes ended the previous session strongly, analysts anticipate potential volatility as fresh inflation data and Q2 earnings season approach.
+  中文：总结：美国股市在独立日假期后于7月6日周一恢复交易。投资者将密切关注道琼斯、标普500和纳斯达克综合指数的开盘走势，以应对假期期间全球市场趋势、美国贸易政策进展以及美联储利率预期。尽管主要股指此前表现强劲，但分析师预计随着通胀数据和第二季度财报季的临近，市场可能出现波动。
+  📰 [The Sunday Guardian](https://www.sundayguardianlive.com/news/us-stock-market-prediction-july-6-will-dow-jones-sp-500-nasdaq-open-higher-or-lower-wall-street-reopens-after-july-4-independence-day-holiday-weekend)
 
-- **[2026.07.06] US Stock Market — 美股重开，科技股情绪谨慎**
-  English: US stock markets are set to reopen on Monday, July 6th, after the Independence Day holiday weekend, with investors expected to focus on upcoming economic data and Federal Reserve signals. The tech sector, particularly chipmakers, faces cautious sentiment following recent sell-offs driven by concerns over AI valuations and potential excess capacity. While the Dow Jones recently hit a new all-time high, the Nasdaq Composite and Nasdaq 100 experienced declines last week, suggesting a volatile trading week ahead. Geopolitical developments and upcoming earnings reports will also influence market direction.
-  中文：美国股市在独立日假期后于7月6日周一重新开市，投资者将密切关注经济数据和美联储信号。科技股，特别是芯片制造商，因对AI估值过高和潜在产能过剩的担忧而面临谨慎情绪。道琼斯指数近期创下历史新高，但纳斯达克指数和纳斯达克100指数有所下跌，预示本周市场波动性可能增加。地缘政治事件和即将发布的财报也将影响市场走向。
-  📰 [Goodreturns](https://www.goodreturns.in/news/us-stock-market-open-or-close-on-july-6-check-weekly-outlook-for-nasdaq-dow-jones-nasdaq-100-sp-500-1349580.html)
+- **[2026.07.06] Nikkei 225 — 日经225指数创历史新高，但AI过热担忧加剧**
+  日本語：2026年6月、日経平均株価は72,300円台に達し、3ヶ月連続で過去最高値を更新しました。しかし、AI関連株への「過剰投資」懸念が浮上し、7月に入り半導体株の急落を招いています。市場はAIと半導体関連銘柄に集中した上昇を見せており、今後はバリュー株への資金シフトが活発化する可能性があります。投資家は、サムスン電子の決算発表やIMFの世界経済見通し、日米金融政策の動向に注目し、7月も引き続き高ボラティリティな展開が予想されます。
+  中文：总结：2026年6月，日经225指数连续第三个月创下历史新高，达到72,300点。然而，对人工智能（AI）相关股票“过度投资”的担忧浮现，导致7月初半导体股票急剧下跌。市场涨势集中在少数AI和半导体相关股票上，预计7月将继续保持高波动性，投资者需关注企业财报和日美货币政策走向。
+  📰 [Nikkei 225 Hits Record High for Third Straight Month, But 'AI Overinvestment' Fears Weigh; Volatile Trading Expected to Continue in July](https://www.kabutan.jp/news/news/?b=202607050010)
 
-- **[2026.07.06] Japan Market — 日本市场面临AI过度投资担忧，日经指数高位震荡**
-  日本語：日本市場では、日経225指数が6月に3ヶ月連続で過去最高値を更新し72,300円台に達したものの、AI関連株への「過剰投資」懸念が引き続き重石となっています。TOPIXの上昇が1%未満に留まるなど、市場の恩恵は一部のAI・半導体関連銘柄に集中しており、セクターローテーションの動きが活発化しています。7月に入り、MetaのAI事業に関する報道を受けて半導体株の急落が市場に影響を与えており、今後の企業決算や日米金融政策の動向が注目されます。
-  中文：日本股市在日经225指数连续三个月创新高后，正面临对AI相关股票“过度投资”的担忧。6月份日经指数达到72,300点，但市场涨幅集中在少数AI和半导体股票，TOPIX指数涨幅不足1%。进入7月，半导体股的急剧抛售加剧了市场波动，投资者正密切关注企业财报以及日美货币政策走向。
-  📰 [The Sunday Guardian](https://www.thesundayguardian.com/nikkei-225-hits-record-high-for-third-straight-month-but-ai-overinvestment-fears-weigh-volatile-trading-expected-to-continue-in-july/)
+- **[2026.07.06] Global Interest Rates & Central Bank Policy — 全球利率预计将保持高位，美联储会议纪要受关注**
+  English: Global central bank interest rates are projected to remain elevated for years, with Bloomberg Economics forecasting increases of half a percentage point or more through 2028, largely due to lingering inflation risks from geopolitical events and the energy shock. The upcoming week, starting July 6, will see the release of June's FOMC minutes, the first under new Fed Chair Kevin Warsh, which will be scrutinized for insights into the Federal Reserve's rate path and its endorsement of recent market repricing for potential rate hikes later in 2026.
+  中文：总结：全球央行利率预计将在未来几年保持高位，彭博经济预测到2028年利率将上升至少0.5个百分点，主要受地缘政治事件和能源冲击带来的持续通胀风险影响。本周（7月6日开始）将公布美联储6月会议纪要，市场将密切关注新任主席凯文·沃什对未来利率路径的看法，以及对2026年晚些时候潜在加息的立场。
+  📰 [Swissinfo](https://www.swissinfo.ch/eng/business/trump-s-war-means-higher-global-interest-rates-for-years-to-come/49557458)
 
-- **[2026.07.06] Central Bank Policy — 全球央行计划调整政策框架以应对通胀波动**
-  English: Major central banks, including the Federal Reserve, European Central Bank, Bank of Canada, and Bank of England, are reportedly planning to revise their monetary policy frameworks to address persistent inflation volatility and enhance financial stability. This move signals a shift towards more flexible, data-driven approaches. Federal Reserve Chair Kevin Warsh has indicated that inflation remains "too high," despite a recent weaker-than-expected US jobs report, suggesting a hawkish stance may persist, with markets anticipating clues from the upcoming FOMC minutes on July 8th.
-  中文：包括美联储、欧洲央行在内的主要央行正计划修订货币政策框架，以应对持续的通胀波动并增强金融稳定性。此举预示着向更灵活、数据驱动的政策转变。美联储主席Kevin Warsh表示通胀仍“过高”，尽管近期美国就业数据不及预期，但鹰派立场可能持续，市场正等待7月8日即将公布的联邦公开市场委员会会议纪要提供更多线索。
-  📰 [Crypto Briefing](https://cryptobriefing.com/central-banks-policy-framework-overhaul-inflation-volatility/)
+- **[2026.07.06] Crude Oil Market — 原油价格因供应增加和地缘政治缓解而承压**
+  English: Crude oil prices are hovering near their lowest levels since late February, trading around $68 per barrel as of July 6, 2026. This decline is attributed to recovering energy flows through the Strait of Hormuz and expectations of increased OPEC+ output, which approved a modest collective production quota increase of 188,000 barrels per day for next month. The decision reflects confidence in boosting production amid stabilizing Middle East conditions, though concerns over a potential supply glut persist.
+  中文：总结：截至2026年7月6日，原油价格徘徊在每桶68美元左右，接近2月底以来的最低水平。这一下跌归因于霍尔木兹海峡能源流动的恢复以及欧佩克+增产的预期。欧佩克+已批准下月集体增产18.8万桶/日，反映出在中东局势稳定下对增产的信心，但对潜在供应过剩的担忧依然存在。
+  📰 [Trading Economics](https://tradingeconomics.com/commodity/crude-oil)
 
-- **[2026.07.06] USD/JPY — 美元兑日元触及数月高点，干预警惕性增强**
-  English: The USD/JPY exchange rate has extended its breakout, reaching fresh multi-month highs around the 161.900 mark as July begins, despite increasingly vocal warnings from Japanese officials regarding potential intervention. Speculators betting against the Japanese Yen have been rewarded, but traders remain cautious given the historical volatility at these levels. The Bank of Japan's continued silence on the Yen's depreciation is a key focus, with the pair approaching significant technical resistance zones where buyers will face their next meaningful test.
-  中文：美元兑日元汇率在7月初突破并触及数月新高，徘徊在161.900附近，尽管日本官员对潜在干预的警告日益强烈。押注日元贬值的投机者获得了回报，但鉴于历史波动性，交易员仍保持谨慎。日本央行对日元贬值保持沉默是市场关注的焦点，该货币对正逼近重要的技术阻力区。
-  📰 [Daily Forex](https://www.dailyfx.com/japanese-yen-forecast-usd-jpy-breakout-eyes-resistance-despite-intervention-threat)
+- **[2026.07.06] Gold Market — 黄金市场预计将持续波动**
+  English: Gold prices are expected to experience another week of volatility, following a mixed US unemployment report that suggested a slowdown in job growth but sustained wage increases. As of July 6, 2026, gold rose to $4,183.64 USD/t.oz on July 5, up 0.32% from the previous day. Analysts predict that if gold surpasses the $4250 mark, it could rise towards $4295, but a drop below $4102 could lead to further declines towards $4010 or even $3965.
+  中文：总结：黄金价格预计将迎来又一个波动周，此前美国就业报告喜忧参半，显示就业增长放缓但工资持续上涨。截至2026年7月6日，黄金价格在7月5日上涨0.32%至4,183.64美元/盎司。分析师预测，若金价突破4250美元，可能升至4295美元；但若跌破4102美元，则可能进一步下探至4010美元甚至3965美元。
+  📰 [Business Recorder](https://www.brecorder.com/news/40280562/gold-likely-to-see-another-week-of-volatility)
 
-- **[2026.07.06] Global Economy — 全球经济展望：通胀压力与地缘政治不确定性并存**
-  English: The global economic outlook for 2026 continues to be shaped by persistent inflationary pressures and geopolitical uncertainties, particularly the Middle East conflict and its impact on energy prices and trade routes. While global growth is projected to remain modest, US inflation is expected to return to target more gradually. Key downside risks include a reevaluation of technology expectations and an escalation of geopolitical tensions. Policymakers are advised to restore fiscal buffers, preserve price and financial stability, and reduce uncertainty.
-  中文：2026年全球经济前景仍受持续通胀压力和地缘政治不确定性影响，特别是中东冲突对能源价格和贸易路线的冲击。尽管全球增长预计将保持温和，但美国通胀预计将更缓慢地回归目标。主要下行风险包括对技术预期的重新评估和地缘政治紧张局势的升级。政策制定者应恢复财政缓冲，维护价格和金融稳定，并减少不确定性。
-  📰 [Zendesk](https://ibit.zendesk.com/hc/en-us/articles/23303534575901-July-2026-Crypto-Market-Outlook)
+- **[2026.07.06] Cryptocurrency Market — 加密货币市场面临机构谨慎和山寨币波动**
+  English: The cryptocurrency market is facing headwinds on July 6, 2026, with altcoins like VVV experiencing declines amidst persistent institutional caution and broader market volatility. While Bitcoin and Ethereum showed modest gains, significant institutional outflows from Bitcoin and Ethereum ETFs in recent weeks have contributed to a risk-off sentiment. Analysts suggest the crypto market is at a "breaking point," with key levels to watch for Bitcoin near $58,000–$60,000, as negative ETF flows and weaker investor appetite continue to weigh on confidence.
+  中文：总结：2026年7月6日，加密货币市场面临逆风，山寨币如VVV在机构持续谨慎和市场波动中下跌。尽管比特币和以太坊小幅上涨，但近期比特币和以太坊ETF的显著机构资金流出加剧了避险情绪。分析师认为加密市场处于“临界点”，比特币的关键支撑位在58,000-60,000美元附近，负面的ETF资金流和投资者兴趣减弱持续影响市场信心。
+  📰 [VVV Faces Headwinds Amid Institutional Caution and Altcoin Volatility on July 6, 2026](https://cryptobriefing.com/vvv-faces-headwinds-amid-institutional-caution-and-altcoin-volatility-on-july-6-2026/)
 
-- **[2026.07.06] Crypto Market — 加密货币市场受宏观流动性和AI科技股影响**
-  English: The crypto market in July is at a pivotal turning point, with macro liquidity dynamics intensifying under new Fed Chair Kevin Warsh. Bitcoin is trading near $62,000, recovering from recent lows, while Ethereum and major altcoins have also advanced. Market sentiment is influenced by easing Fed expectations, though inflation and geopolitical risks remain key drivers. The performance of AI chip and tech stocks, like NVIDIA, is expected to have a near 1:1 sentiment transmission to the AI + Crypto sector, with continued strong AI results potentially driving capital spillover into on-chain DePIN and AI Agents narratives.
-  中文：7月加密货币市场处于关键转折点，在新任美联储主席Kevin Warsh的领导下，宏观流动性动态加剧。比特币交易价接近62,000美元，从近期低点反弹，以太坊和主要山寨币也有所上涨。市场情绪受美联储宽松预期影响，但通胀和地缘政治风险仍是关键驱动因素。英伟达等AI芯片和科技股的表现预计将对AI+加密货币领域产生近乎1:1的情绪传导效应，持续强劲的AI业绩可能推动资金流入链上DePIN和AI Agents叙事。
-  📰 [Zendesk](https://ibit.zendesk.com/hc/en-us/articles/23303534575901-July-2026-Crypto-Market-Outlook)
+- **[2026.07.06] US Trade Tariffs — 美国贸易代表办公室就巴西和强制劳动关税举行听证会**
+  English: The Office of the U.S. Trade Representative (USTR) is holding a public hearing on July 6, 2026, regarding proposed responsive actions in a Section 301 investigation concerning Brazil's trade practices. Additionally, public comments are due today, July 6, 2026, for USTR's proposed sweeping new tariffs on plastics imports from 60 trading partners, following a Section 301 investigation into forced labor practices. These tariffs could subject approximately $37.5 billion in US plastics industry imports to additional duties of 10% to 12.5%.
+  中文：总结：美国贸易代表办公室（USTR）于2026年7月6日举行公开听证会，讨论对巴西贸易行为的301条款调查中提出的回应措施。此外，USTR对来自60个贸易伙伴的塑料进口商品征收新关税的公众意见征询截止日期也是今天，该关税是针对强制劳动行为的301条款调查结果，可能对约375亿美元的美国塑料行业进口商品征收10%至12.5%的额外关税。
+  📰 [DSV](https://www.dsv.com/en-us/insights/trade-regulations/tariff-updates/us-tariffs)
 
 ---
 ※Stock Market Daily Digest | 2026.07.06
