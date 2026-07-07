@@ -7,112 +7,108 @@
 
 ## 🇺🇸 美国股市 / US Market
 
-- **[2026.07.08] Federal Reserve — 联邦公开市场委员会会议纪要发布，市场关注未来利率走向**
-  English: The U.S. Federal Reserve is set to release the minutes from its June 16-17 Federal Open Market Committee (FOMC) meeting today, July 8, 2026. Investors will closely scrutinize these minutes for any indications regarding the future trajectory of U.S. interest rates, especially after the Fed maintained rates at 3.50%–3.75% last month. The release is a critical event that could influence market sentiment and expectations for potential rate hikes or pauses later in the year, with current market probabilities suggesting a low chance of rate cuts in 2026.
-  中文：总结：美国联邦储备委员会将于今日（2026年7月8日）公布6月16日至17日的联邦公开市场委员会（FOMC）会议纪要。市场参与者将密切关注此次纪要，以寻找有关未来美国利率走向的线索，特别是在上月美联储维持利率不变之后。此次发布对市场情绪和对今年晚些时候潜在加息或暂停的预期至关重要，目前市场预计2026年降息的可能性较低。
+Here are 5 recent news items specifically about the US Market for July 8, 2026:
+
+- **[2026.07.08] Federal Reserve — 美联储公布6月会议纪要，市场关注未来利率走向**
+  English: The U.S. Federal Reserve is set to release the minutes from its June 16-17 FOMC meeting today, July 8, an event highly anticipated by investors for clues on the future direction of interest rates. Following last month's decision to keep rates unchanged at 3.50%–3.75%, the minutes will reveal whether policymakers are signaling another potential rate hike before year-end 2026, or if recent weaker-than-expected jobs data and moderating inflation have shifted sentiment towards a pause or cut.
+  中文：总结：美国联邦储备委员会将于今日公布6月联邦公开市场委员会（FOMC）会议纪要，市场密切关注其对未来利率政策的指引。此前美联储在6月会议上维持利率不变，但整体基调偏鹰派。此次纪要将揭示委员会内部对年底前是否再次加息的看法，以及对通胀和就业数据的最新评估，这将对市场预期产生重要影响。
   📰 [TradingView](https://www.google.com/search?q=US)
 
-- **[2026.07.08] Levi Strauss A. (LEVI) — Levi Strauss A. 今日公布财报**
-  English: Levi Strauss A. (LEVI) is scheduled to report its earnings after the market closes today, July 8, 2026. This report will offer insights into the company's performance and consumer spending trends in the apparel sector. Investors will be watching for key metrics such as revenue growth, profitability, and future guidance, which could impact the stock's movement and broader retail market sentiment.
-  中文：总结：Levi Strauss A. (LEVI) 定于今日（2026年7月8日）收盘后公布财报。这份报告将提供该公司在服装行业的业绩和消费者支出趋势的见解。投资者将关注营收增长、盈利能力和未来指引等关键指标，这些都可能影响股价走势和更广泛的零售市场情绪。
-  📰 [Investing.com](https://www.google.com/search?q=US)
+- **[2026.07.08] BIO-key (BKYI) — Nasdaq — BIO-key股票今日恢复纳斯达克交易**
+  English: BIO-key International (BKYI) announced that its common stock will resume trading on the Nasdaq Capital Market at market open today, July 8, 2026. This follows a Nasdaq Hearings Panel determination that the company has regained compliance with continued listing standards, including minimum bid price and SEC filing requirements. The resumption removes a key overhang, though BIO-key will remain under a Discretionary Panel Monitor for one year.
+  中文：总结：BIO-key International (BKYI) 今日宣布，其普通股将于2026年7月8日市场开盘时在纳斯达克资本市场恢复交易。此前，纳斯达克听证小组裁定该公司已重新符合持续上市标准，包括最低出价和美国证券交易委员会的备案要求。此次恢复交易消除了一个主要障碍，但BIO-key仍将接受一年的酌情小组监督。
+  📰 [GlobeNewswire](https://www.google.com/search?q=US)
 
-- **[2026.07.08] Apple (AAPL) — 苹果股价预计今日小幅上涨**
-  English: Apple (AAPL) stock is anticipated to see a modest increase today, July 8, 2026, with forecasts placing its price around $332. Analysts project a potential range between a minimum of $305 and a maximum of $359 for the day. This expected movement follows recent trends and broader market sentiment towards major tech companies, as investors continue to evaluate the company's performance and upcoming product cycles.
-  中文：总结：苹果（AAPL）股价预计在今日（2026年7月8日）将小幅上涨，预测价格约为332美元。分析师预计当日股价可能在305美元至359美元之间波动。这一预期走势反映了近期主要科技公司的市场趋势和情绪，投资者持续评估公司的业绩和即将到来的产品周期。
-  📰 [30 Rates](https://www.google.com/search?q=US)
-
-- **[2026.07.08] Microsoft (MSFT) — 微软股价今日有望实现小幅增长**
-  English: Microsoft (MSFT) stock is projected to experience slight growth today, July 8, 2026, with forecasts indicating it could reach a high of $388.21, representing a 0.39% increase. This anticipated upward movement aligns with analyst expectations for major tech firms, driven by continued strength in its cloud services and AI initiatives. Investors will monitor daily trading to confirm if the stock meets these short-term projections.
-  中文：总结：微软（MSFT）股价预计在今日（2026年7月8日）将小幅上涨，预测最高可达388.21美元，涨幅为0.39%。这一预期涨势与分析师对主要科技公司的预期一致，主要受其云服务和人工智能业务持续强劲的推动。投资者将密切关注当日交易，以确认股价是否达到这些短期预测。
-  📰 [CoinCodex](https://www.google.com/search?q=US)
-
-- **[2026.07.08] Tesla (TSLA) — 特斯拉股价今日预计上涨**
-  English: Tesla (TSLA) stock is expected to see an increase today, July 8, 2026, with predictions placing its price around $441. The forecast suggests a potential high of $476 and a low of $406 for the trading day. This anticipated movement reflects ongoing investor interest in the EV sector and the company's latest developments, including recent strong delivery figures and analyst upgrades.
-  中文：总结：特斯拉（TSLA）股价预计在今日（2026年7月8日）将上涨，预测价格约为441美元。当日交易的预测范围在最高476美元和最低406美元之间。这一预期走势反映了投资者对电动汽车行业的持续兴趣以及公司最新进展，包括近期强劲的交付数据和分析师上调评级。
-  📰 [30 Rates](https://www.google.com/search?q=US)
-
-- **[2026.07.08] Amazon (AMZN) — 亚马逊股价今日有望实现增长**
-  English: Amazon (AMZN) stock is forecasted to experience an uptick today, July 8, 2026, with projections indicating it could reach a high of $248.14, representing a 1.62% growth. This positive outlook is supported by the company's strong performance in its Amazon Web Services (AWS) division and expanding advertising revenue, which continue to drive investor confidence in its diversified business model.
-  中文：总结：亚马逊（AMZN）股价预计在今日（2026年7月8日）将上涨，预测最高可达248.14美元，涨幅为1.62%。这一积极展望得益于公司亚马逊网络服务（AWS）部门的强劲表现和不断增长的广告收入，这些因素持续增强投资者对其多元化商业模式的信心。
-  📰 [CoinCodex](https://www.google.com/search?q=US)
-
-- **[2026.07.08] S&P 500 — 标普500指数7月展望积极，关注财报季表现**
-  English: While specific daily movements for the S&P 500 on July 8, 2026, are part of broader market dynamics, the overall outlook for July remains positive. Historically, July has been a favorable month for US stocks, with the S&P 500 averaging a +1.4% return over the last 35 years. Analysts are optimistic about the upcoming Q2 2026 earnings season, which is expected to show strong growth, potentially driving the index higher despite some recent volatility.
-  中文：总结：尽管标普500指数在2026年7月8日的具体日内走势受更广泛市场动态影响，但7月的整体展望依然积极。历史上，7月对美国股市来说是一个有利的月份，标普500指数在过去35年中平均回报率为+1.4%。分析师对即将到来的2026年第二季度财报季持乐观态度，预计将显示强劲增长，尽管近期市场存在一定波动，但这可能推动指数走高。
-  📰 [StoneX](https://www.google.com/search?q=US)
-
-- **[2026.07.08] NVIDIA (NVDA) — 英伟达面临技术阻力，估值受关注**
-  English: NVIDIA (NVDA) stock is navigating technical resistance levels between $198 and $203 as of early July 2026, with the stock in a descending channel. While the company recently refuted claims of delays for its Kyber NVL144 AI system, investor focus remains on its valuation. Goldman Sachs views NVIDIA's forward P/E of 21.7x as attractive, especially given the projected increase in hyperscaler AI capital expenditure. Despite strong fundamentals, NVDA has underperformed broader semiconductor indices year-to-date.
-  中文：总结：截至2026年7月初，英伟达（NVDA）股价在198美元至203美元之间面临技术阻力，并处于下降通道中。尽管公司近期驳斥了其Kyber NVL144人工智能系统延迟的说法，但投资者仍关注其估值。高盛认为英伟达21.7倍的远期市盈率具有吸引力，特别是考虑到超大规模AI资本支出的预期增长。尽管基本面强劲，但英伟达今年迄今的表现仍不及更广泛的半导体指数。
+- **[2026.07.08] AeroVironment (AVAV) — AeroVironment今日举办投资者日活动，聚焦国防战略**
+  English: AeroVironment (AVAV) is hosting its Investor Day in New York today, July 8, 2026. During the event, company executives are expected to provide updates on its autonomous defense strategy and offer insights into fiscal year 2027 expectations and long-term growth trajectory. This event follows recent strong revenue beats and a significant Army contract, with analysts maintaining an average price target indicating substantial upside.
+  中文：总结：AeroVironment (AVAV) 今日在纽约举办投资者日活动，公司高管预计将讨论其自主防御战略，并提供2027财年预期及长期增长路径的展望。此次活动是在公司近期营收表现强劲并获得一项重要陆军合同之后举行，分析师普遍认为该股仍有显著上涨空间。
   📰 [TradingKey](https://www.google.com/search?q=US)
+
+- **[2026.07.08] US Stock Market (Dow, S&P 500, Nasdaq) — 周二美股收盘涨跌互现，道指创新高但科技股承压**
+  English: On Tuesday, July 7, the U.S. stock market closed mixed, with the Dow Jones Industrial Average reaching another all-time high, while the Nasdaq Composite and S&P 500 indexes declined. This divergence was driven by optimism for defensive sectors contrasting with weakness in the technology space, particularly a selloff in semiconductor companies following Samsung's earnings report and renewed concerns about AI investment growth. Higher crude oil prices and geopolitical risks also contributed to market uncertainties.
+  中文：总结：美国股市周二（7月7日）收盘表现不一，道琼斯工业平均指数再创历史新高，而纳斯达克综合指数和标普500指数则收低。 这种分化主要源于防御性板块的乐观情绪与科技股的疲软，尤其是三星财报后半导体公司遭遇抛售，以及对人工智能投资增长的新担忧。 油价上涨和地缘政治风险也增加了市场的不确定性。
+  📰 [The Sunday Guardian](https://www.google.com/search?q=US)
+
+- **[2026.07.08] S&P 500 — 华尔街分析师对标普500指数2026年目标存在分歧**
+  English: Wall Street analysts hold a wide range of year-end 2026 price targets for the S&P 500, currently trading around 7,537 points as of early July. Targets vary significantly, from a cautious 7,000 to an optimistic 8,250, reflecting a genuine disagreement on the market's continued trajectory after three consecutive years of double-digit gains. Key factors influencing these forecasts include strong Q2 earnings growth, AI infrastructure spending, and concerns over valuation and market concentration.
+  中文：总结：华尔街分析师对标普500指数2026年年终目标存在显著分歧，目前该指数在7月初约为7,537点。 目标范围从保守的7,000点到乐观的8,250点不等，反映出在连续三年两位数增长后，市场对未来走势的真实看法不一。 影响这些预测的关键因素包括强劲的第二季度盈利增长、人工智能基础设施支出以及对估值和市场集中度的担忧。
+  📰 [INDmoney](https://www.google.com/search?q=US)
 
 ## 🇯🇵 日本株式市場 / Japan Market
 
-- **[2026.07.08] 日経225先物 — 日経225先物急落、市場は警戒感**
-  日本語：8日0時現在、大阪取引所の日経225先物期近9月限は前日比770円安の6万7650円と急落した。現物終値6万8256.96円に対しては606.96円安で推移しており、市場は取引開始前から下落基調への警戒感を強めている。これは前日の米国株高にもかかわらず、アジア市場の半導体関連株の下落が影響している可能性があり、本日の現物市場の動向が注目される。
-  中文：总结：7月8日0时，大阪交易所日经225股指期货9月合约较前一日下跌770日元，报67650日元。相对于现货收盘价68256.96日元，下跌606.96日元，市场在开盘前就对下跌趋势保持警惕。这可能受到前一日美国股市上涨，但亚洲半导体相关股票下跌的影响，今日现货市场的走势备受关注。
-  📰 [株探](https://kabutan.jp/news/market/20260708_00)
+- **[2026.07.08] 日経225先物 — 日経平均先物が大幅下落**
+  日本語：2026年7月8日午前0時現在、大阪取引所の日経225先物9月限は前日比770円安の6万7650円と急落した。現物終値6万8256.96円に対しては606.96円安で推移しており、市場の警戒感が示されている。これは、前日の海外市場の動向や、半導体関連株の軟調な動きが影響していると見られ、本日の日本株市場の取引開始に向けて下押し圧力がかかる可能性がある。投資家は、特にテクノロジー株の動向に注目し、慎重な姿勢で臨むことが予想される。
+  中文：总结：2026年7月8日凌晨，大阪交易所日经225股指期货9月合约大幅下跌770日元，收于67650日元。相对于现货收盘价68256.96日元，下跌了606.96日元，显示市场情绪谨慎。这可能受到前一交易日海外市场走势及半导体相关股票疲软的影响，预计今日日本股市开盘将面临下行压力。投资者需关注科技股走势，保持谨慎。
+  📰 [株探](https://kabutan.jp/news/market/20260708_0000)
 
-- **[2026.07.08] 日本株市場 — ETF分配金捻出売りで需給悪化懸念**
-  日本語：本日7月8日と10日に予定されているETF（上場投資信託）の分配金捻出に伴う売りが、日本株市場の需給悪化要因として警戒されている。大和証券の試算によると、8日には約2400億円の現物株売りと約4200億円の先物ポジション解消売りが発生する可能性がある。市場では、この季節的な売り圧力が日経平均株価の上値を抑えるとの見方が広がっており、特にAI・半導体関連株の勢いが鈍化する中で、市場全体の調整圧力となるか注目される。
-  中文：总结：本日7月8日和10日，日本股市因ETF（交易所交易基金）分配金支付而产生的抛售压力，被视为导致市场供需恶化的因素。大和证券估算，8日可能出现约2400亿日元的现货股票抛售和约4200亿日元的期货平仓。市场普遍认为，这种季节性抛售压力将抑制日经平均股价上涨，尤其在AI和半导体相关股票势头减弱的背景下，这是否会成为整体市场调整的压力备受关注。
-  📰 [ダイヤモンド・オンライン](https://diamond.jp/articles/-/344400)
+- **[2026.07.08] 主要企業決算発表 — アサヒグループHD、吉野家HDなどが決算発表**
+  日本語：2026年7月8日には、アサヒグループホールディングス（2502）や吉野家ホールディングス（9861）などの主要企業が四半期決算を発表する予定である。これらの決算内容は、個別銘柄だけでなく、それぞれのセクターや市場全体のセンチメントに影響を与える可能性がある。特に、消費関連企業の業績は、国内景気の動向を測る上で重要な指標となるため、市場関係者はその内容を注視するだろう。好調な決算は市場の活性化につながる一方、期待を下回る場合は株価に下押し圧力がかかることも考えられる。
+  中文：总结：2026年7月8日，朝日集团控股（2502）和吉野家控股（9861）等主要企业将公布季度财报。这些财报不仅会影响个股，还可能对相关行业和整体市场情绪产生影响。特别是消费相关企业的业绩是衡量国内经济动向的重要指标，市场参与者将密切关注。
+  📰 [Yahoo!ファイナンス](https://finance.yahoo.co.jp/news/detail/20260706-00000001-fisco-stocks)
 
-- **[2026.07.08] 半導体関連株 — サムスン決算後の半導体株動向と市場の資金シフト**
-  日本語：前日の韓国サムスン電子の決算発表を受け、半導体関連株の動向が引き続き注目されている。7日にはキオクシアホールディングスが11.26%の大幅下落を記録するなど、アジア市場全体で半導体株に売りが広がった。本日は、AI・半導体関連株の乱高下が続く中、投資家の資金が自動車株や銀行株といった割安な内需関連株へとシフトする動きが活発化する可能性があり、セクターローテーションの広がりが焦点となる。
-  中文：总结：受前一日韩国三星电子财报发布影响，半导体相关股票走势持续受到关注。7日铠侠控股大跌11.26%，半导体股票在亚洲市场普遍遭到抛售。今日，在AI和半导体相关股票持续剧烈波动的情况下，投资者资金可能加速流向汽车股和银行股等估值较低的内需相关股票，行业轮动范围的扩大将成为焦点。
-  📰 [GuruFocus](https://www.gurufocus.com/news/2471926/japanese-market-declines-as-kospi-plummets-impacting-semiconduc)
+- **[2026.07.08] 銀行株・日銀政策 — 日銀利上げ期待で銀行株に高値続出**
+  日本語：2026年7月8日、日本証券新聞は、日本銀行の追加利上げへの期待が継続していることから、銀行株が高値圏で推移していると報じた。日銀は2026年6月に政策金利を1.0%へ引き上げ、約31年ぶりの高水準となったが、市場では物価と賃金の好循環が続けば、2026年後半にも追加利上げが実施される可能性が高いとの見方が広がっている。この金利上昇局面は、銀行の収益改善に寄与すると期待されており、メガバンクや地方銀行に資金が流入している状況が続いている。
+  中文：总结：2026年7月8日，日本证券新闻报道称，由于市场对日本央行进一步加息的预期持续，银行股持续走高。日本央行在2026年6月将政策利率上调至1.0%，创约31年新高，市场普遍认为，如果物价和工资的良性循环持续，2026年下半年可能还会进一步加息。
+  📰 [日本証券新聞](https://www.nsjournal.jp/news/20260708_pdf_bank/)
 
-- **[2026.07.08] 主要経済指標・企業決算 — IMF世界経済見通しと国内企業決算に注目**
-  日本語：本日7月8日には、国際通貨基金（IMF）による世界経済見通しのアップデートが予定されており、その内容が市場に影響を与える可能性がある。また、国内ではアサヒグループホールディングスや吉野家ホールディングスなどが決算発表を行う。これらの企業決算は、現在の市場環境における個別企業の業績動向を測る上で重要であり、市場全体のセンチメントに影響を与える可能性があるため、投資家はこれらの発表に注目している。
-  中文：总结：今日7月8日，国际货币基金组织（IMF）将更新其世界经济展望，其内容可能对市场产生影响。此外，日本国内包括朝日集团控股和吉野家控股在内的多家公司将发布财报。这些公司财报对于衡量当前市场环境下个别公司的业绩趋势至关重要，并可能影响整体市场情绪，因此投资者正密切关注这些发布。
-  📰 [Yahoo!ファイナンス](https://finance.yahoo.co.jp/news/detail/20260706-00000001-fisf-stocks)
+- **[2026.07.08] ETF分配金売り — ETF分配金支払いに伴う換金売りへの警戒**
+  日本語：2026年7月8日と10日には、ETF（上場投資信託）の分配金支払い義務が発生し、これに伴う換金売りが日本株市場の株安材料として警戒されている。野村證券のストラテジストは、7月上旬にETF分配金売りへの警戒が例年の風物詩となっていると指摘している。しかし、過去のデータからは7月上旬を境に日本株が下落するという明確な裏付けはないものの、短期的な需給悪化のリスクとして投資家は動向を注視する必要がある。
+  中文：总结：2026年7月8日和10日，ETF（交易所交易基金）将面临分红支付义务，市场担忧由此引发的抛售可能对日本股市造成下行压力。野村证券策略师指出，每年7月上旬都会出现对ETF分红抛售的警惕。尽管历史数据并未明确支持日本股市会在7月上旬下跌，但投资者仍需关注短期供需恶化风险。
+  📰 [野村證券](https://www.nomura.co.jp/retail/market/column/japan_stock_etf_20260703.html)
 
-- **[2026.07.08] 日経225オプション — 7月限SQを迎え、オプション取引に注目**
-  日本語：本日7月8日は日経225オプション2026年7月限の特別清算指数（SQ）算出日である。前日の日中取引では、6万9250円のコールオプションなどで活発な売買が見られた。SQを控えたオプション市場の動向は、現物市場の短期的な値動きに影響を与えることがあり、特に市場のボラティリティが高い状況下では、SQ値が注目される。
-  中文：总结：今日7月8日是日经225期权2026年7月合约的特别清算指数（SQ）计算日。前一日的日间交易中，69250日元的看涨期权等交易活跃。SQ前夕期权市场的动向可能影响现货市场的短期走势，尤其在市场波动性较高的情况下，SQ值备受关注。
-  📰 [株探](https://kabutan.jp/news/market/20260707_40)
+- **[2026.07.08] AI・半導体関連株 — サムスン決算受けAI・半導体株が下落基調**
+  日本語：2026年7月7日の日本株市場では、AI・半導体関連株の一部が急落し、この流れが7月8日の市場にも影響を与える見込みだ。韓国のサムスン電子が7日に発表した2026年4-6月期の暫定決算は市場予想を上回ったものの、投資家の期待値が高すぎたことなどから株価は下落。これを受け、日本の半導体関連株、特にキオクシアHDなどが売られ、日経平均株価の重しとなった。世界的なAIブームの収益化への懸念や、韓国市場との連動性の高まりが、今後の半導体関連株の動向を左右する要因となるだろう。
+  中文：总结：2026年7月7日日本股市，部分AI和半导体相关股票大幅下跌，预计此趋势将延续至7月8日市场。韩国三星电子7日公布的2026年4-6月初步财报虽超市场预期，但因投资者期望过高，股价仍下跌。受此影响，日本半导体相关股票，特别是铠侠控股等，遭到抛售，拖累日经平均指数。
+  📰 [会社四季報オンライン](https://shikiho.toyokeizai.net/news/0/688320)
+
+- **[2026.07.08] 国際通貨基金（IMF） — IMFが世界経済見通しを更新**
+  日本語：2026年7月8日には、国際通貨基金（IMF）が世界経済見通しを更新する予定である。この発表は、世界経済の成長率予測や主要国の経済見通し、インフレ動向など、多岐にわたる情報を提供する。日本の経済見通しが良好であると示されれば、海外投資家による日本株買いが再燃し、市場全体を押し上げる要因となる可能性がある。一方で、世界経済の減速や地政学的リスクへの懸念が示された場合、投資家心理が悪化し、日本市場にもネガティブな影響を及ぼすことが考えられるため、その内容が注目される。
+  中文：总结：2026年7月8日，国际货币基金组织（IMF）将更新其《世界经济展望报告》。此报告将提供全球经济增长预测、主要国家经济展望及通胀趋势等多方面信息。若报告显示日本经济前景良好，可能刺激海外投资者重新购买日本股票，提振市场。反之，若报告指出全球经济放缓或地缘政治风险，则可能对日本市场产生负面影响。
+  📰 [会社四季報オンライン](https://shikiho.toyokeizai.net/news/0/679780)
 
 ## 🌍 宏观经济与投资 / Macro & Investment
 
-Here are recent news updates on macroeconomics and investment:
+Here are 8 recent news items about Macro & Investment for July 8, 2026:
 
-- **[2026.07.08] US Tech Stocks — 科技股抛售拖累美股大盘**
-  English: US equity markets saw a downturn, particularly in the technology sector, as concerns over AI stock valuations intensified following Samsung's earnings report. The Nasdaq Composite experienced a significant drop, while the S&P 500 also registered declines, despite some broader market resilience. Semiconductor companies were notably affected, with investors re-evaluating the sustainability of recent rapid growth in the AI infrastructure space. This market movement highlights a cautious sentiment among investors regarding elevated expectations in the tech industry and potential profit-taking after substantial gains.
-  中文：总结：受三星财报不及预期及对人工智能股票估值过高的担忧影响，美国科技股遭遇抛售，纳斯达克指数大幅下跌，标普500指数也随之走低。半导体板块受创尤为严重，投资者开始重新评估AI领域高速增长的可持续性，市场情绪趋于谨慎，显示出对科技股近期强劲涨势后的获利了结迹象。
+- **[2026.07.08] International Monetary Fund — 国际货币基金组织发布最新《世界经济展望》更新**
+  English: The International Monetary Fund (IMF) is set to release its July 2026 World Economic Outlook Update today, July 8, at 9:00 a.m. ET. This highly anticipated report will provide fresh projections and analysis of the global economy, offering updated assessments of economic developments, risks, and policy outlooks worldwide. Governments, central banks, and investors will closely monitor the update for insights into global growth, inflation trends, and financial stability amidst evolving challenges.
+  中文：总结：国际货币基金组织（IMF）将于今日（7月8日）美国东部时间上午9点发布2026年7月《世界经济展望》更新报告。这份备受期待的报告将提供全球经济的最新预测和分析，评估经济发展、风险及政策前景。各国政府、央行和投资者将密切关注此更新，以获取全球增长、通胀趋势和金融稳定方面的见解。
+  📰 [International Monetary Fund](https://www.imf.org/en/Publications/WEO/Issues/2026/07/08/world-economic-outlook-update-july-2026)
 
-  📰 [24/7 Wall St.](https://www.google.com/search?q=global)
+- **[2026.07.08] Federal Reserve — 美联储公布6月FOMC会议纪要**
+  English: The U.S. Federal Reserve will release the minutes from its June 16-17 Federal Open Market Committee (FOMC) meeting today, July 8. These minutes are keenly awaited by investors for clues on the Fed's future monetary policy direction, especially after the central bank held rates steady at 3.50%-3.75% in June but maintained a hawkish tone. The details within the minutes could signal whether the Fed is leaning towards another rate hike later in 2026 or a prolonged pause, influencing interest rate expectations and market sentiment.
+  中文：总结：美国联邦储备委员会将于今日（7月8日）公布6月16-17日联邦公开市场委员会（FOMC）会议纪要。投资者正密切关注此次纪要，以寻找美联储未来货币政策走向的线索，尤其是在6月会议维持利率不变但基调偏鹰派之后。纪要中的细节可能预示美联储是倾向于在2026年晚些时候再次加息，还是会长期暂停加息，这将影响利率预期和市场情绪。
+  📰 [TradingView](https://www.tradingview.com/news/reuters:auto:fomc-minutes-july-8-will-the-fomc-signal-a-rate-cut-or-another-hike-X38444321/)
 
-- **[2026.07.08] Nikkei 225 — 日经225指数因科技股抛售而大幅下挫**
-  日本語：7月7日の東京市場では、日経平均株価が大幅に続落し、1,480.73円安の68,256.96円で取引を終えました。TOPIXも7営業日ぶりに反落し、4,062.26ポイントとなりました。特にAI関連株や半導体セクターで過熱感が意識され、売りが継続したことが市場全体を押し下げました。韓国KOSPI指数が急落し、サムスン電子の業績発表が市場の期待を下回ったことも、日本市場の半導体関連株に波及し、キオクシアが11.26%安、アドバンテストや東京エレクトロンも大きく下落しました。
-  中文：总结：7月7日，日本股市日经225指数大幅下挫2.12%，收于68,256.96点，东证指数也下跌。主要原因是受韩国三星电子财报不及预期影响，AI相关及半导体类股票遭到持续抛售，市场对该板块过热的担忧加剧。
+- **[2026.07.08] Bitcoin — 比特币期权在FOMC会议纪要发布前看涨情绪浓厚**
+  English: Bitcoin (BTC) options expiring today, July 8, have shown a call-heavy bias, indicating traders are positioning for higher prices. This expiry coincides with the release of the Federal Reserve's June FOMC minutes. Despite Bitcoin's spot price hovering near $62,645, the build-up in call volume suggests early optimism may be returning to the crypto market, with significant call bets placed above the $69,000 strike. The FOMC minutes could act as a catalyst, potentially influencing Bitcoin's short-term trajectory.
+  中文：总结：今日（7月8日）到期的比特币（BTC）期权呈现看涨倾向，表明交易者正在为价格上涨做准备。此次期权到期恰逢美联储6月FOMC会议纪要发布。尽管比特币现货价格徘徊在62,645美元附近，但看涨期权交易量的增加表明市场可能正在恢复早期乐观情绪，大量看涨押注集中在69,000美元上方。FOMC会议纪要可能成为催化剂，影响比特币的短期走势。
+  📰 [Mitrade](https://www.mitrade.com/news/bitcoin-options-turn-call-heavy-before-july-8-fomc-minutes-will-btc-break-63000)
 
-  📰 [Moomoo](https://www.google.com/search?q=global)
+- **[2026.07.08] Crude Oil — 原油价格预测显示积极偏向**
+  English: Crude oil price predictions for today, Wednesday, July 8, 2026, indicate a range-bound market with a positive bias. MCX Crude Oil 20 July futures are expected to trade within the Rs 6,575 to Rs 6,645 band, with immediate support at Rs 6,575. The contract edged higher in the previous session as supply expectations stabilized. The reopening of the US market is considered a key external trigger, with fresh dollar index, yield, and global benchmark readings expected to influence MCX prices.
+  中文：总结：今日（2026年7月8日，星期三）原油价格预测显示市场将呈区间震荡并带有积极偏向。MCX原油7月20日期货预计在6,575至6,645卢比之间交易，即时支撑位在6,575卢比。前一交易日，由于供应预期稳定，合约小幅上涨。美国市场重新开盘被视为关键外部触发因素，新的美元指数、收益率和全球基准读数预计将影响MCX价格。
+  📰 [Univest](https://univest.in/blog/crude-oil-price-prediction-for-tomorrow-7-july-mcx-levels/)
 
-- **[2026.07.08] Global Macro — 通胀担忧加剧，央行政策面临挑战**
-  English: Global macroeconomic sentiment is grappling with persistent inflation concerns, particularly in the US, where near-term inflation expectations have risen. The Federal Reserve, under Chairman Kevin Warsh, maintains a cautious stance, with officials signaling potential rate hikes later in 2026 if inflation remains elevated. Meanwhile, the European Central Bank (ECB) acknowledges a fragile economic outlook for the eurozone, emphasizing the need for flexible monetary policy decisions amidst profound global economic shifts and ongoing geopolitical tensions that could impact energy prices and growth.
-  中文：总结：全球宏观经济面临持续的通胀担忧，美国短期通胀预期上升，美联储主席沃什暗示若通胀居高不下，2026年晚些时候可能加息。欧洲央行则指出欧元区经济前景脆弱，强调在全球经济深刻变化和地缘政治紧张局势下，货币政策需保持灵活性。
+- **[2026.07.08] Gold (XAU/USD) — 黄金价格面临下行压力，等待美联储纪要**
+  English: Gold (XAU/USD) is expected to continue declining today, July 8, 2026, with forecasts indicating a bearish outlook. The precious metal is under pressure below $4,200 as investors take profits ahead of the Federal Reserve meeting minutes. Technical analysis suggests a bearish shift, with prices likely to test support levels at $4,100 and $4,070. While cooling U.S. labor data and easing inflation concerns have offered some support, the market remains cautious, awaiting further clarity from the Fed's policy signals.
+  中文：总结：今日（2026年7月8日）黄金（XAU/USD）价格预计将继续下跌，预测显示看跌前景。在美联储会议纪要发布前，投资者获利了结，金价在4,200美元下方承压。技术分析表明看跌趋势，价格可能测试4,100美元和4,070美元的支撑位。尽管美国劳动力数据降温和通胀担忧缓解提供了一些支撑，但市场仍保持谨慎，等待美联储政策信号的进一步明确。
+  📰 [TradingKey](https://www.tradingkey.com/news/gold-price-forecast-gold-under-pressure-below-4200-as-market-awaits-fed-minutes-20260706203635905)
 
-  📰 [Welch & Forbes](https://www.google.com/search?q=global)
+- **[2026.07.08] USD/JPY — 美元/日元汇率预测显示小幅下跌**
+  English: The USD/JPY exchange rate is forecasted to experience a slight decrease today, July 8, 2026, with predictions suggesting a -0.20% change to ¥161.60. Despite this short-term dip, the broader market analysis anticipates a positive trend for USD/JPY in July, with a forecasted price range between ¥161.21 and ¥164.30 for the month. Goldman Sachs recently raised its 12-month USD/JPY forecast to 165, reflecting a bearish outlook for the Japanese Yen amid persistent weakness.
+  中文：总结：今日（2026年7月8日）美元/日元汇率预计将小幅下跌，预测显示可能下跌0.20%至161.60日元。尽管短期内有所回调，但更广泛的市场分析预计美元/日元在7月份将呈现积极趋势，月度预测价格区间在161.21至164.30日元之间。高盛近期将其12个月美元/日元预测上调至165，反映出在日元持续疲软背景下对日元的看跌展望。
+  📰 [CoinCodex](https://coincodex.com/forex/usd-jpy/forecast/)
 
-- **[2026.07.08] Commodities Market — 油价因地缘政治紧张而上涨，黄金承压**
-  English: Oil prices edged higher following reports of a Qatari LNG tanker being struck near the Strait of Hormuz, reigniting geopolitical tensions and concerns over supply stability in the crucial waterway. Brent crude futures saw modest gains, reflecting a cautious market as investors weigh increased OPEC+ production against ongoing risks. Gold, however, softened for a second consecutive day, trading above $4,100, as renewed inflation fears and rising US Treasury yields bolstered the US dollar, making the non-yielding metal less attractive.
-  中文：总结：受霍尔木兹海峡附近油轮遇袭报道影响，地缘政治紧张局势加剧，油价小幅上涨。尽管OPEC+增产，但供应担忧仍存。同时，由于通胀担忧重燃和美元走强，黄金价格连续第二日下跌，跌破4100美元。
+- **[2026.07.08] Nikkei 225 — 日经225指数面临波动，关注AI过热担忧**
+  日本語：日経平均株価は、7月に入りAIおよび半導体関連株への過剰投資懸念が市場に重くのしかかり、引き続き高値圏でのボラティリティの高い取引が予想されます。6月には3ヶ月連続で過去最高値を更新しましたが、TOPIXの上昇は限定的であり、AI関連銘柄への集中が顕著でした。今週はIMFの世界経済見通し（8日）や国内企業決算、日米金融政策の動向が注目され、特に半導体株の動向が市場全体の方向性を左右する可能性があります。
+  中文：总结：进入7月，日经225指数预计将继续面临高波动性，主要受人工智能和半导体相关股票过度投资担忧的影响。尽管6月该指数连续第三个月创下历史新高，但TOPIX指数涨幅有限，显示出涨势集中在少数AI相关股票。本周市场将关注国际货币基金组织（IMF）于8日发布的世界经济展望、日本国内企业财报以及日美货币政策走向，其中半导体股的走势可能决定市场整体方向。
+  📰 [Trading Economics](https://tradingeconomics.com/japan/stock-market)
 
-  📰 [SP Angel](https://www.google.com/search?q=global)
-
-- **[2026.07.08] Forex Market — 美元兑日元小幅回调但下行空间有限**
-  English: The USD/JPY pair saw a slight pullback, extending its late-session decline in Asian trading, moving towards the 161.70-161.65 range. However, the downside appears limited, primarily supported by the persistent interest rate differentials between the US and Japan. Despite lingering concerns over potential intervention by Japanese authorities, the absence of direct action so far and expectations for fewer US Federal Reserve rate hikes are restraining the US dollar's upside, yet carry trade strategies continue to pressure the yen.
-  中文：总结：美元兑日元小幅回调至161.70-161.65区间，但由于美日利差持续存在，其下行空间有限。尽管市场对日本当局潜在干预仍有担忧，且美联储加息预期减弱，但套利交易策略继续对日元构成压力。
-
-  📰 [TradingPedia](https://www.google.com/search?q=global)
-
-- **[2026.07.08] IMF — 国际货币基金组织将发布最新《世界经济展望》**
-  English: The International Monetary Fund (IMF) is set to release its July 2026 World Economic Outlook Update. This publication provides comprehensive analyses and projections of the global economy in the near and medium term, serving as a crucial resource for understanding economic developments and policy directions worldwide. The update is expected to offer insights into global growth forecasts, inflation trends, and key risks, including the reevaluation of technology expectations and escalating geopolitical tensions.
-  中文：总结：国际货币基金组织（IMF）将于今日发布2026年7月《世界经济展望更新报告》。该报告将提供全球经济近期和中期前景的全面分析和预测，涵盖全球增长、通胀趋势以及技术预期重估和地缘政治紧张局势升级等关键风险。
-
-  📰 [International Monetary Fund](https://www.google.com/search?q=global)
+- **[2026.07.08] S&P 500 — 标普500指数展望积极，第二季度财报季开启**
+  English: The S&P 500 Index is entering July with a positive outlook, despite a slight dip in June, as the Q2 2026 earnings season kicks off. Analysts are optimistic about strong corporate results, with an estimated average earnings growth of 22%, historically potentially exceeding 30%. Technology and financial sectors are expected to lead this growth. While Fundstrat's Tom Lee projects the S&P 500 could reach 8,000 by year-end, he also warns of a potential 10-20% pullback between August and October, emphasizing the importance of upcoming earnings and Federal Reserve signals.
+  中文：总结：尽管6月略有下跌，标普500指数在第二季度财报季开启之际，7月展望积极。分析师对强劲的企业业绩持乐观态度，预计平均盈利增长率为22%，历史经验表明可能超过30%。科技和金融板块有望引领增长。Fundstrat的Tom Lee预测标普500指数年底可能达到8,000点，但也警告8月至10月可能出现10-20%的回调，强调即将到来的财报和美联储信号的重要性。
+  📰 [INDmoney](https://www.indmoney.com/articles/sp-500-price-prediction-2026)
 
 ---
 ※Stock Market Daily Digest | 2026.07.08
