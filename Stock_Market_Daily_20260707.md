@@ -7,111 +7,112 @@
 
 ## 🇺🇸 美国股市 / US Market
 
-Here are 7 recent news items specifically about the US Market:
+以下是关于美国股市的7条最新消息：
 
-- **[2026.07.07] Nasdaq-100 / SpaceX — SpaceX将于今日正式纳入纳斯达克100指数**
-  English: Space Exploration Technologies (SpaceX) is set to officially join the Nasdaq-100 index prior to market open on Tuesday, July 7, 2026. This inclusion marks a significant milestone for the recently public aerospace and AI company, integrating it into an index comprising the 100 largest non-financial companies listed on Nasdaq. While index inclusion often boosts trading volume, historical data suggests it doesn't guarantee sustained outperformance. Investors will be watching how this high-profile addition impacts the index and SpaceX's stock performance in the short term.
-  中文：SpaceX将于2026年7月7日开市前正式纳入纳斯达克100指数，这标志着这家航空航天和人工智能公司迈出了重要一步。尽管被纳入主要指数通常会增加交易量，但历史经验表明，这不一定能保证持续跑赢大盘。投资者将密切关注此举对指数和SpaceX股价的短期影响。
-  📰 [Nasdaq](https://indexes.nasdaq.com/docs/Press_Release_SPCX_Nasdaq-100_July_7_2026.pdf)
+- **[2026.07.07] Nasdaq-100 — SpaceX今日正式加入纳斯达克100指数**
+  English: Space Exploration Technologies (SpaceX) officially joins the Nasdaq-100 index today, July 7, 2026, under new "fast-track entry" rules for mega-IPOs. Having gone public on June 12 with a market cap exceeding $2 trillion, SpaceX is the first to utilize these rules, which allow rapid inclusion for the largest new listings. This move is expected to impact shareholders of ETFs tied to the index, such as Invesco QQQ and QQQM, with SpaceX likely holding around a 1% weighting based on free-float market capitalization. This reflects a broader market adjustment to larger companies debuting publicly.
+  中文：总结：2026年7月7日，SpaceX根据针对大型IPO的新“快速通道”规则，正式加入纳斯达克100指数。该公司于6月12日上市，市值超过2万亿美元，是首家利用此规则的公司。此举将影响与该指数挂钩的ETF投资者，SpaceX的自由流通市值权重预计约为1%。这标志着市场对大型公司上市模式变化的适应。
+  📰 [Nasdaq](https://www.nasdaq.com/press-release/space-exploration-technologies-corporation-to-join-the-nasdaq-100-indexr-beginning-july-7)
 
-- **[2026.07.07] US Market / Nasdaq / S&P 500 — 美国股指期货上涨，科技股领涨**
-  English: U.S. stock index futures are showing gains as Wall Street looks to extend its rally following the holiday weekend. Nasdaq-100 futures are notably higher, indicating a rebound in tech stocks after recent weakness. Investors are closely monitoring upcoming Federal Reserve minutes and the start of the second-quarter earnings season. Easing rate-hike expectations, driven by softer jobs data, are also contributing to positive market sentiment, with broader sector strength beyond technology continuing to support momentum.
-  中文：美国股指期货上涨，华尔街有望延续假期后的涨势。纳斯达克100指数期货表现尤为强劲，预示科技股在近期疲软后出现反弹。投资者正密切关注即将公布的美联储会议纪要和第二季度财报季的开启。就业数据走软导致加息预期有所缓解，也提振了市场情绪。
-  📰 [TheStreet](https://www.thestreet.com/markets/stock-market-today-july-6-2026-nasdaq-climbs-as-tech-stocks-rebound)
+- **[2026.07.07] US Market — 美股科技股反弹，道指创历史新高**
+  English: U.S. stocks closed higher on Monday, July 6th, driven by a significant rebound in technology shares, with the Dow Jones Industrial Average reaching a new record high of 53,055.91, up 0.29%. The S&P 500 gained 0.72% to 7,537.43, and the Nasdaq Composite Index advanced 1.12% to 26,121.16. This rally signals investors are shaking off recent AI-related concerns that had impacted markets. Communication services and technology sectors were top performers, while health care and utilities lagged.
+  中文：总结：7月6日周一，受科技股强劲反弹推动，美股收高，道琼斯工业平均指数上涨0.29%至53,055.91点，创历史新高。标普500指数上涨0.72%，纳斯达克综合指数上涨1.12%。此次反弹表明投资者正在摆脱近期对人工智能的担忧。通信服务和科技板块表现突出。
+  📰 [China.org.cn](https://www.china.org.cn/business/2026-07/07/content_117390918.htm)
 
-- **[2026.07.07] Federal Reserve / US Economy — 市场普遍预计美联储七月会议将维持利率不变**
-  English: Market expectations are leaning heavily towards the Federal Reserve maintaining its benchmark interest rate at the upcoming July 2026 FOMC meeting. Recent weaker-than-expected jobs data, with U.S. payrolls rising by only 57,000 in June, has reduced the likelihood of a rate hike. Despite Fed Chair Kevin Warsh noting that inflation remains "too high," major financial institutions and CME futures data suggest a high probability (around 78-86%) of rates holding steady, as the Fed typically prefers to signal changes in advance and July is not an SEP meeting.
-  中文：市场普遍预计美联储将在即将到来的2026年7月联邦公开市场委员会会议上维持基准利率不变。近期弱于预期的就业数据，6月份美国非农就业人数仅增加5.7万，降低了加息的可能性。尽管美联储主席凯文·沃什指出通胀“过高”，但主要金融机构和CME期货数据显示，利率维持不变的可能性很高。
-  📰 [Stocktwits](https://stocktwits.com/news/Will-The-Fed-Hike-Interest-Rates-In-Its-July-Meeting-Here-s-What-The-Market-Thinks)
+- **[2026.07.07] Tesla — 特斯拉因迈阿密Robotaxi服务推出股价大涨**
+  English: Tesla Inc. shares surged 6.7% on Monday, July 6th, closing at $419.77, following the announcement of its AI Robotaxi service launch in Miami. This expansion marks a significant milestone, adding Miami to its operational areas in Florida, California, and Texas. Investors are optimistic about the potential for substantial revenue from Tesla's AI operations, despite the company not anticipating significant revenue contribution until next year due to rollout delays and safety concerns. The news also contributed to broader market gains.
+  中文：总结：7月6日周一，特斯拉股价大涨6.7%至419.77美元，此前公司宣布在迈阿密推出AI Robotaxi服务。此举是其在佛罗里达、加州和德州运营后的重要里程碑。尽管因安全顾虑和预计明年才有显著收入，投资者仍对其AI业务的巨大营收潜力持乐观态度。
+  📰 [GuruFocus](https://www.gurufocus.com/news/2479633/tesla-tsla-stock-rises-following-robotaxi-launch-in-miami)
 
-- **[2026.07.07] Magnificent Seven / Tech Stocks — 科技巨头“七巨头”面临压力，市场资金流向芯片制造商**
-  English: The "Magnificent Seven" tech giants, including Microsoft, Nvidia, Apple, Amazon, Meta, Alphabet, and Tesla, are facing significant pressure, having collectively lost over $2.2 trillion in market value in June. Investor concerns are mounting over the massive AI infrastructure spending and whether these investments will yield sufficient returns. This has led to a notable rotation of capital, with funds shifting towards chipmakers and other suppliers benefiting from the AI buildout, rather than the hyperscalers themselves.
-  中文：包括微软、英伟达、苹果、亚马逊、Meta、Alphabet和特斯拉在内的“七巨头”科技股正面临巨大压力，6月份市值合计蒸发超过2.2万亿美元。投资者对巨额人工智能基础设施支出及其回报的担忧日益加剧，导致资金明显轮动，从超大规模科技公司转向受益于人工智能建设的芯片制造商和其他供应商。
-  📰 [The Financial Express](https://www.financialexpress.com/market/magnificent-seven-stocks-under-pressure-microsoft-meta-down-double-digits-what-investors-need-to-know-4076214/)
+- **[2026.07.07] Microsoft — 微软裁员4800人以支持1900亿美元AI投资**
+  English: Microsoft is cutting approximately 4,800 jobs, or 2.1% of its global workforce, with its Xbox division being significantly affected. These cuts are reportedly aimed at funding a record $190 billion investment in AI and data centers for 2026, a 61% increase from the previous year. Despite being the worst-performing major U.S. tech stock in 2026, down around 20%, analysts see the sell-off as a potential buying opportunity ahead of its late July earnings report, where Azure cloud growth and AI monetization will be key.
+  中文：总结：微软宣布裁员约4800人，占全球员工总数的2.1%，其中Xbox部门受影响严重。此次裁员旨在为2026年创纪录的1900亿美元AI和数据中心投资提供资金。尽管微软是2026年表现最差的美国大型科技股之一，但分析师认为其股价下跌可能带来买入机会，重点关注Azure云增长和AI变现能力。
+  📰 [Stocks Down Under](https://stocksdownunder.com/microsoft-nasdaq-msft-cuts-4800-jobs-to-fund-a-us190bn-ai-bet-buy-the-dip-or-stay-away/)
 
-- **[2026.07.07] Samsung Electronics — 三星电子今日公布2026年第二季度初步财报**
-  English: Samsung Electronics is scheduled to release its preliminary second-quarter 2026 earnings on Tuesday, July 7, 2026. While a South Korean company, its performance is a key indicator for the global technology sector, particularly in semiconductors, displays, and consumer electronics. Investors will be closely watching these results for insights into demand trends, component pricing, and the broader health of the tech supply chain, which can influence US tech stocks.
-  中文：三星电子定于2026年7月7日公布其2026年第二季度初步财报。作为全球科技巨头，其业绩是半导体、显示器和消费电子等全球科技行业的关键指标。投资者将密切关注这些结果，以了解需求趋势、零部件定价以及更广泛的科技供应链健康状况，这可能影响美国科技股。
-  📰 [TheStreet](https://www.thestreet.com/markets/stock-market-today-july-6-2026-nasdaq-climbs-as-tech-stocks-rebound)
+- **[2026.07.07] NVIDIA — 英伟达股价波动，AI需求前景受关注**
+  English: NVIDIA stock is trading near $195, having been the worst performer in its chip group in 2026, with an 18% drop from its June high. Investors are questioning the sustainability of the AI boom that fueled its growth. Despite strong Q1 fiscal 2027 revenues of $81.62 billion (up 85% YoY) and projected Q2 revenues of $91 billion, market sentiment is cautious. Key catalysts for a rebound include strong AI spending plans from major cloud companies in late July earnings and potential firm China deals.
+  中文：总结：英伟达股价在2026年芯片板块中表现最差，从6月高点下跌18%，目前交易价接近195美元。投资者对AI繁荣的持续性存疑。尽管2027财年第一季度营收强劲增长85%至816.2亿美元，第二季度预计营收910亿美元，市场情绪依然谨慎。后期主要云公司财报中的AI支出计划和中国市场协议是股价反弹的关键。
+  📰 [Intellectia AI](https://intellectia.ai/nvidia-stock-analysis-july-2026-ai-chip-demand-investment-outlook/)
 
-- **[2026.07.07] S&P 500 / Wall Street — 华尔街分析师乐观情绪创历史新高，但市场估值发出警告信号**
-  English: Wall Street analysts are exhibiting unprecedented optimism, with aggregate S&P 500 earnings growth projected at 25.5% over the next five years, the highest since 1995. This bullish outlook is largely driven by expectations for AI's transformative impact. However, the S&P 500's Shiller CAPE ratio has consistently stayed above 40 since May 2026, a level only seen during the dot-com bubble. This historically high valuation suggests investors should exercise caution and focus on companies with a significant margin of safety.
-  中文：华尔街分析师表现出前所未有的乐观情绪，预计标普500指数未来五年综合盈利增长将达到25.5%，创1995年以来新高，主要受AI变革性影响的预期推动。然而，标普500席勒市盈率自2026年5月以来持续高于40，这一水平仅在互联网泡沫时期出现过。这种历史高估值表明投资者应谨慎，关注具有足够安全边际的公司。
-  📰 [The Motley Fool](https://www.fool.com/investing/2026/07/06/the-stock-market-is-flashing-a-warning-signal-seen/)
+- **[2026.07.07] Apple — 苹果股价反弹，产品消息和AI策略提振信心**
+  English: Apple shares rose 1.3% on Monday, July 6th, recovering most of the losses incurred after recent price hikes on Macs and iPads due to a memory shortage. Investor sentiment was boosted by news of a chip partnership with Broadcom through 2031 and reports of increased production forecasts for a foldable iPhone Ultra. The market appears to be re-evaluating Apple's strong position amidst the DRAM shortage and its disciplined approach to AI spending, which is increasingly seen as a smart strategic move.
+  中文：总结：7月6日周一，苹果股价上涨1.3%，收复了此前因内存短缺导致Mac和iPad提价造成的跌幅。与博通的芯片合作至2031年以及可折叠iPhone Ultra产量预测增加的消息提振了投资者情绪。市场正在重新评估苹果在DRAM短缺中的有利地位及其在AI支出方面的审慎策略。
+  📰 [MarketBeat](https://www.marketbeat.com/stocks/NASDAQ/AAPL/news/apple-nasdaq-aapl-shares-up-1-3-heres-what-happened/)
 
-- **[2026.07.07] Seagate Technology (STX) — 希捷科技今日支付季度股息**
-  English: Seagate Technology (STX) is scheduled to pay its quarterly dividend of 74 cents per share on Tuesday, July 7, 2026. This dividend payment underscores the company's commitment to returning capital to shareholders and reflects confidence in its balance sheet, following recent announcements like the early redemption of senior notes. Seagate, a key player in data storage, is also benefiting from strong demand in the technology solutions industry, with management targeting continued revenue and margin expansion.
-  中文：希捷科技（STX）定于2026年7月7日支付每股74美分的季度股息。此次派息彰显了公司回馈股东的承诺，并反映了其对资产负债表的信心。作为数据存储领域的关键参与者，希捷正受益于技术解决方案行业的强劲需求，管理层目标是持续扩大营收和利润。
-  📰 [Zacks.com](https://www.zacks.com/stock/news/2770200/4-stocks-to-buy-from-a-prospering-technology-solutions-industry-july-6-2026)
+- **[2026.07.07] Federal Reserve — 美联储7月不太可能降息，关注经济数据**
+  English: The Federal Reserve is unlikely to cut interest rates in its July meeting, with market analysis indicating a 78.1% probability of holding rates steady. Despite a weaker-than-expected June jobs report (57,000 jobs added vs. 115,000 expected) and guarded remarks from Fed Chair Kevin Warsh, inflation remains above the 2% target. The Fed will continue its data-dependent approach, closely monitoring upcoming employment and inflation reports for any sustained weakness that could build a stronger case for rate cuts later in 2026.
+  中文：总结：美联储在7月会议上不太可能降息，市场分析显示维持利率不变的可能性为78.1%。尽管6月就业报告不及预期，且美联储主席凯文·沃什言辞谨慎，但通胀仍高于2%的目标。美联储将继续采取依赖数据的策略，密切关注未来的就业和通胀报告，以寻找可能支持2026年晚些时候降息的持续疲软迹象。
+  📰 [Phemex News](https://phemex.com/news/federal-reserve-unlikely-to-cut-interest-rates-in-2026)
 
 ## 🇯🇵 日本株式市場 / Japan Market
 
-- **[2026.07.07] 日経平均・TOPIX — 市場のセクターローテーションが鮮明に**
-  日本語：7月6日の東京株式市場では、日経平均株価が前週末比6円安の69,737円と小幅に反落したものの、東証株価指数（TOPIX）は37ポイント高の4,101ポイントで史上最高値を更新しました。これは、AI・半導体関連株からの利益確定売りが先行する一方で、為替の円安進行や原油安を背景に、自動車などの輸出関連株やバリュー株、景気敏感株への資金シフトが鮮明になったためです。市場の主役がハイテク・グロース株からバリュー株へと本格的に移行していることを示唆しており、ETF分配金捻出に伴う換金売り需要も上値を抑える要因となる見込みです。
-  中文：总结：7月6日东京股市，日经平均指数小幅下跌6日元至69,737日元，而TOPIX指数上涨37点至4,101点，创历史新高。市场资金从AI和半导体相关股票转向汽车等出口相关股票和价值股，反映出日元贬值和油价下跌的影响。这种明显的板块轮动表明市场重心正从科技成长股转向价值股，ETF分红需求也可能抑制股指上涨。
-  📰 [Yahoo!ファイナンス](https://finance.yahoo.co.jp/news/detail/20260706-00000062-stkbnk-stocks)
+以下は、2026年7月7日の日本株式市場に関する最新ニュースです。
 
-- **[2026.07.07] トヨタ自動車 — 円安を追い風に株価が堅調に推移**
-  日本語：トヨタ自動車の株価は3連騰し、底値離脱を明確に示しています。外国為替市場でドル買いが進み、1ドル＝162円台後半まで円安が進行したことが、為替感応度の高い輸出セクターの盟主である同社にとって強力な追い風となっています。PER11倍台、PBR0.8倍台と割安感が際立っており、配当利回りも3.4％台と高いため、インカムゲイン狙いの長期資金も流入しています。また、6月の車名別新車販売台数で上位3位をトヨタ車が独占したことも、同社の評価に繋がっています。
-  中文：总结：丰田汽车股价连续三日上涨，显示出明显的底部反弹趋势。日元兑美元汇率跌至162日元区间，对丰田等出口型企业构成强劲利好。公司市盈率（PER）约11倍，市净率（PBR）约0.8倍，估值优势明显，3.4%的股息收益率也吸引了长期资金。此外，6月份新车销量榜前三名均被丰田车型占据，进一步提升了市场对其的评价。
-  📰 [みんかぶ](https://minkabu.jp/news/3920977)
+- **[2026.07.07] 日経平均・TOPIX — 日経平均は下落もTOPIXは史上最高値更新**
+  日本語：7月7日の東京株式市場では、日経平均株価が前日比277.61円安の69460.08円で寄り付き、半導体関連株の売りが重しとなった。しかし、前日6日にはTOPIXが0.92%高の4,101.96ポイントで史上最高値を更新し、6連騰を記録した。これはAI関連株からバリュー株や景気敏感株への資金シフトを示唆しており、市場全体の底堅さが見られる。本日は米国株高を受け、日経平均の7万円台回復が期待される一方、半導体・AI関連株の動向が注目される。
+  中文：总结：7月7日，日经平均指数低开277.61点至69460.08点，受半导体股抛售影响。然而，前一日TOPIX指数上涨0.92%至4,101.96点，创历史新高并实现六连涨，显示资金从AI相关股转向价值股和周期股。
+  📰 [株探](https://kabutan.jp/)
 
-- **[2026.07.07] 半導体関連株 — 利益確定売りで調整局面入り**
-  日本語：東京株式市場では、これまで相場を牽引してきたAI・半導体関連株に利益確定売りが先行し、調整局面に入っています。村田製作所、太陽誘電、イビデン、マルマエなど半導体・電子部品関連が多く下落率上位にランクインしました。前週末の米国市場が休場だったこともあり、手掛かり材料難の中で、韓国総合株価指数の下落に連動する動きも見られました。AI投資の縮小懸念や、株価の過熱感が意識され、資金がバリュー株へとシフトする動きが鮮明になっています。
-  中文：总结：东京股市中，此前引领市场的AI和半导体相关股票出现获利回吐，进入调整阶段。村田制作所、太阳诱电、伊比登、Marumae等半导体和电子零部件相关股票跌幅居前。由于上周末美国市场休市，缺乏指引，市场走势与韩国综合股价指数下跌联动。对AI投资缩减的担忧和股价过热感，促使资金明显转向价值股。
-  📰 [株探](https://kabutan.jp/news/market/202607060815)
+- **[2026.07.07] 為替市場 — 円安基調継続、介入警戒感も**
+  日本語：7月7日の東京外国為替市場では、ドル円相場が1ドル＝162円台前半で推移し、円安基調が継続している。前日6日には一時162円40銭台まで上伸し、日米金利差拡大観測や日本銀行の利上げへの慎重姿勢が円売りを加速させた。 市場では、日本の通貨当局による円買い介入への警戒感が依然として存在するものの、現時点では過度な委縮は見られない。MUFGのCEOは、円安によるインフレが需要を抑制し、成長を脅かす可能性を警告している。
+  中文：总结：7月7日，日元兑美元汇率维持在162日元区间，持续走弱。日美利差扩大预期及日本央行对加息的谨慎态度加速了日元抛售。市场对日本当局干预汇市保持警惕，但目前未见过度恐慌。
+  📰 [みんかぶFX](https://fx.minkabu.jp/)
 
-- **[2026.07.07] TOPIX — 史上最高値を更新し堅調な推移**
-  日本語：東証株価指数（TOPIX）は、7月6日に37.36ポイント高の4,101.96ポイントで取引を終え、終値ベースで史上最高値を更新しました。日経平均が小幅反落する中で、TOPIXが堅調に推移したのは、AI・半導体関連株から機械、自動車、防衛、輸送用機器などの幅広い銘柄に買いが広がり、バリュー株や景気敏感株への資金シフトが加速したためです。プライム市場では値上がり銘柄が全体の7割を超え、市場全体の底堅さを示しています。
-  中文：总结：东证股价指数（TOPIX）在7月6日上涨37.36点至4,101.96点，收盘创历史新高。尽管日经平均指数小幅下跌，但TOPIX的强劲表现得益于资金从AI和半导体相关股票转向机械、汽车、国防和运输设备等广泛的价值股和周期股。主板市场中，上涨股票数量超过总数的七成，显示出市场整体的韧性。
-  📰 [ゴールドオンライン](https://goldonline.jp/articles/-/64132)
+- **[2026.07.07] 企業決算 — 本日12社が決算発表予定**
+  日本語：本日7月7日には、パルグループホールディングス（2726）、ノート（5243）、サンエー（2659）、ハニーズホールディングス（2792）、日本プロセス（9651）、セントラル警備保障（9740）など、東証上場企業12社が決算発表を予定している。 これらの発表は、個別銘柄の株価動向に影響を与える可能性があり、市場参加者は各社の業績見通しに注目している。特に、好業績銘柄への関心が高まることが予想される。
+  中文：总结：7月7日，包括PAL集团控股、note、Sanei、Honeys控股、日本Process、Central Security Patrol在内的12家上市公司将发布财报。这些财报可能影响个股股价，市场关注各公司业绩展望，预计对业绩良好的公司关注度将提高。
+  📰 [IRBANK](https://irbank.net/ir/2026/7/7)
 
-- **[2026.07.07] 円相場 — 対ドルで162円台後半、163円台突入に警戒**
-  日本語：外国為替市場では、円が対ドルで162円台後半まで弱含み、一時162.40円まで上昇しました。高市政権下での「円安黙認・利上げ反対」の姿勢が意識される中、直近高値を上抜ければ1986年以来となる163円台への突入が視野に入っています。為替介入への過度な警戒感が後退しているものの、心理的節目付近での急激な円安進行には、本邦通貨当局による口先介入や覆面介入への警戒も高まっています。
-  中文：总结：外汇市场日元兑美元汇率走弱至162日元区间后半段，一度升至162.40日元。在高市执政下，“默许日元贬值、反对加息”的姿态受到关注，若突破近期高点，可能将进入1986年以来的163日元区间。尽管对汇率干预的过度警惕有所减弱，但在心理关口附近日元急剧贬值，也引发了日本货币当局口头或隐性干预的警惕。
-  📰 [DZHフィナンシャルリサーチ](https://www.dzh.co.jp/report/fx/daily/20260706_ny_fx_outlook)
+- **[2026.07.07] 半導体・AI関連株 — 米国市場の動向に注目**
+  日本語：7月7日の日本株市場では、前日の米国市場でNYダウが続伸し、ナスダック総合株価指数も上昇したことを受け、半導体やAI関連株の底堅さが見極められる展開となりそうだ。 米国ではアドバンスト・マイクロ・デバイセズなどが大きく上昇しており、フィラデルフィア半導体（SOX）指数も2％超の上昇を記録した。しかし、AI関連株の失速が一時的なものか、あるいは本格的な「主役交代」の兆候なのか、市場では引き続き慎重な見方が交錯している。
+  中文：总结：7月7日，日本半导体和AI相关股票的走势将受前一日美国市场科技股上涨的提振。尽管美国半导体指数上涨超过2%，但市场对AI板块的持续性及其是否预示着“主导力量更迭”仍持谨慎态度。
+  📰 [株探](https://kabutan.jp/)
 
-- **[2026.07.07] 日本国債 — 長期金利が30年ぶりの高水準に上昇**
-  日本語：日本の長期金利（新発10年債利回り）が一時2.825%に上昇し、約30年ぶりの高水準を記録しました。これは、欧州債安の流れを引き継いだ売りが先行したことや、財政拡張、日本銀行の金融政策がインフレに対して後手に回る「ビハインド・ザ・カーブ」が意識されていることが背景にあります。市場では、日銀の追加利上げへの期待が高まる一方で、金利上昇が経済に与える影響についても注目が集まっています。
-  中文：总结：日本长期利率（新发行10年期国债收益率）一度升至2.825%，创下约30年来的新高。这主要是受欧洲债券下跌趋势、财政扩张以及市场对日本央行货币政策滞后于通胀（“落后曲线”）的担忧所影响。市场对日本央行进一步加息的预期升温，同时利率上升对经济的影响也受到密切关注。
-  📰 [読売新聞オンライン](https://www.yomiuri.co.jp/economy/20260706-OYT1T50145/)
+- **[2026.07.07] 長期金利 — 10年物国債利回りが急騰**
+  日本語：7月6日の日本市場では、10年物国債利回りが一日で59.8bpという異例の急騰を見せ、2.838%に達した。これは、日本経済が長らく続いたデフレと超低金利の時代から、「金利のある世界」へ移行しつつあることを示唆している。 株高と金利急騰が同時に進行するこの構図は、投資家に対し、市場の連関を立体的に捉える視点を求めている。
+  中文：总结：7月6日，日本10年期国债收益率单日飙升59.8个基点至2.838%，创下异常涨幅。这表明日本经济正从长期通缩和超低利率时代向“有利率的世界”过渡。
+  📰 [note](https://note.com/)
+
+- **[2026.07.07] 経済政策 — レアアース不足が日本経済に影響**
+  日本語：中国によるレアアース（希土類）の輸出規制が、日本経済全体に影響を及ぼし始めている。 特に、電気自動車や兵器製造に不可欠なテルビウムやジスプロシウム酸化物などの供給が途絶えており、日本企業からの重要鉱物に関する通知が倍増している。政府は中国からの供給に代わる選択肢を見つける必要に迫られており、今後の経済成長への警告信号となっている。
+  中文：总结：中国对稀土的出口限制已开始影响日本整体经济。 关键矿物如铽和氧化镝的供应中断，导致日本企业对关键矿物的通知数量翻倍。日本政府面临寻找替代供应的紧迫性，这成为未来经济增长的警示信号。
+  📰 [Reuters](https://www.reuters.com/)
 
 ## 🌍 宏观经济与投资 / Macro & Investment
 
-- **[2026.07.07] US Tech Stocks — 人工智能股反弹提振美股**
-  English: A rebound in artificial intelligence-related stocks, notably Broadcom and Micron Technology, provided significant upward momentum for the S&P 500 and Nasdaq composite on Monday, July 6th, following a mixed performance last week. Despite a broader market where many stocks saw declines, the robust demand for AI chips and data centers continued to drive the tech sector. Investors are now keenly observing upcoming market catalysts, such as SK Hynix's anticipated $28 billion Nasdaq listing, which will serve as a further test of global investor appetite for AI investments, while questions persist regarding the sustainability of current valuations.
-  中文：7月6日，人工智能相关股票的反弹提振了标普500指数和纳斯达克综合指数，其中博通和美光科技表现强劲。尽管大盘整体表现不一，但对AI芯片和数据中心的持续需求推动了科技股上涨。投资者正关注SK海力士即将进行的280亿美元纳斯达克上市，这将进一步考验市场对AI投资的热情，同时该板块估值可持续性也面临审视。
-  📰 [TheStreet](https://www.google.com/search?q=global)
+- **[2026.07.07] Crude Oil Prices — 油价下跌，OPEC+增产与海湾出口恢复**
+  English: Crude oil prices experienced a slight downturn on Monday, July 7, 2026, as Brent crude futures declined by 0.33% to US$71.88 per barrel and U.S. West Texas Intermediate (WTI) crude slipped by 0.16% to US$68.58 per barrel. This movement followed the agreement by OPEC and its allies to increase production targets by 188,000 barrels per day starting in August. Additionally, recovering oil exports from major Gulf producers through the Strait of Hormuz contributed to expectations of improved global supply, easing some market concerns despite ongoing geopolitical monitoring in the Middle East.
+  中文：总结：2026年7月7日，原油价格小幅下跌，布伦特原油期货下跌0.33%至每桶71.88美元，WTI原油下跌0.16%至每桶68.58美元。此次下跌主要受OPEC+同意从8月起增产18.8万桶/日，以及海湾地区通过霍尔木兹海峡的石油出口恢复，增加了全球供应预期所影响。
+  📰 [Philstar.com](https://www.philstar.com/business/2026/07/07/2556787/price-tracker-oil-fuel-monitor-july-7-13-2026)
 
-- **[2026.07.07] Federal Reserve Interest Rates — 美联储加息预期因就业数据疲软而减弱**
-  English: Expectations for Federal Reserve interest rate hikes have softened considerably following the release of weaker-than-expected June nonfarm payrolls data on Monday, July 6th. The U.S. economy added only 57,000 jobs, significantly missing the consensus estimate of 110,000. This development has led to a reduction in the implied probability of a September rate hike, which fell from 66% to 50%. Further supporting this sentiment were recent remarks by Fed Chair Kevin Warsh at the ECB Forum in Sintra, where he indicated that inflation risks have receded, though he avoided firm commitments on immediate policy actions. Markets are now closely anticipating the upcoming FOMC meeting minutes for deeper insights into the Fed's policy outlook, particularly as it navigates persistent core inflation amidst a visibly slowing labor market.
-  中文：7月6日，弱于预期的6月非农就业数据（仅新增5.7万个职位）显著削弱了美联储加息预期，9月加息概率从66%降至50%。美联储主席凯文·沃什在欧洲央行论坛上表示通胀风险已消退，进一步支持了这一观点。市场正密切关注联邦公开市场委员会会议纪要，以获取美联储未来政策路径的更多线索，尤其是在核心通胀持续与劳动力市场放缓之间的权衡。
-  📰 [Investment Executive](https://www.google.com/search?q=global)
+- **[2026.07.07] Japanese Yen / Crypto Markets — 日元跌至40年新低，加密市场面临套利交易风险**
+  日本語：2026年7月7日、日本円は対ドルで162.30円まで下落し、40年ぶりの安値を記録した。この円安は、投資家が安価な円を借り入れてアルトコインなどの高利回り資産に投資する「円キャリートレード」への懸念を高めている。日本銀行は円安を食い止めつつ、GDPの250%を超える債務コストを管理するという板挟みの状況にある。円安の反転は、仮想通貨市場に急激な調整を引き起こす可能性があるため、トレーダーはUSD/JPYの165円レベルを注視している。
+  中文：总结：2026年7月7日，日元兑美元汇率跌至162.30，创下40年新低。这引发了市场对日元套利交易的担忧，即投资者借入廉价日元投资高收益资产（包括加密货币）。日本央行面临支撑日元和管理巨额国债成本的两难境地。日元弱势的逆转可能导致加密货币市场出现剧烈调整，市场正密切关注美元/日元165的心理关口。
+  📰 [KuCoin](https://www.kucoin.com/news/japan-yen-hits-40-year-low-crypto-markets-face-carry-trade-risks)
 
-- **[2026.07.07] Oil Prices — 油价因OPEC+增产和地缘政治缓解而下跌**
-  English: Oil prices experienced a decline on Monday, July 6th, after OPEC+ announced an agreement to increase production targets by 188,000 barrels per day starting in August, marking the fifth consecutive monthly output hike. Brent crude futures fell to $71.7 a barrel, while US West Texas Intermediate (WTI) crude slipped to $68.4 a barrel. This decision by OPEC+ to gradually restore output, combined with improving oil exports from the Gulf region and the ongoing reopening of the Strait of Hormuz, has bolstered expectations of higher global crude supplies. The increased supply is contributing to an easing of inflation risks and supporting prospects for broader economic growth, despite persistent geopolitical uncertainties.
-  中文：7月6日，油价下跌，此前OPEC+宣布同意从8月起将日产量目标提高18.8万桶，这是连续第五个月增产。布伦特原油期货跌至每桶71.7美元，WTI原油跌至每桶68.4美元。OPEC+逐步恢复产量、海湾地区石油出口改善以及霍尔木兹海峡的重新开放，均强化了全球原油供应增加的预期。供应增加缓解了通胀风险，并支持经济增长前景。
-  📰 [HDFCSky](https://www.google.com/search?q=global)
+- **[2026.07.07] S&P 500 / US Equities — 人工智能股票反弹推动标普500指数接近历史新高**
+  English: The S&P 500 index rose 0.7% on Monday, July 7, 2026, bringing it back within 1% of its all-time high, primarily driven by a rebound in artificial intelligence (AI) stocks. Despite a majority of stocks within the index declining, the strength in the AI technology sector also propelled the Nasdaq composite 1.1% higher and the Dow Jones Industrial Average to a new record. This resurgence comes after recent weeks of sharp swings in AI stocks due to concerns over their elevated valuations, with investors now closely watching upcoming earnings and IPOs like SK Hynix for further market direction.
+  中文：总结：2026年7月7日，标普500指数上涨0.7%，主要受人工智能（AI）股票反弹推动，使其回升至历史高点1%以内。 尽管指数内多数股票下跌，但AI科技股的强势也带动纳斯达克综合指数上涨1.1%，道琼斯工业平均指数创下新高。 市场此前对AI股票估值过高有所担忧，投资者正密切关注即将发布的财报和SK海力士等IPO，以研判市场未来走向。
+  📰 [CommBank](https://www.commbank.com.au/articles/newsroom/2026/07/ai-stocks-send-the-s-p-500-within-1-of-a-record.html)
 
-- **[2026.07.07] Gold Market — 黄金价格受美联储加息预期放缓支撑**
-  English: Gold prices maintained levels near $4,155 per ounce on Monday, July 6th, consolidating recent gains after a robust weekly performance. The precious metal found significant support from the easing of Federal Reserve rate-hike expectations, primarily driven by weaker-than-anticipated U.S. labor data. While gold had reached a peak of $5,500 an ounce in January before a subsequent decline, it continues to trade well above its historical averages. Geopolitical tensions, particularly those involving the U.S. and Iran, persist in influencing its traditional safe-haven appeal, though shifting interest rate expectations have recently exerted some downward pressure on prices. Additionally, ongoing central bank purchases are providing a structural demand floor for gold.
-  中文：7月6日，黄金价格维持在每盎司4155美元附近，此前因美国劳动力数据疲软，美联储加息预期减弱，黄金获得支撑。尽管黄金价格从1月份的5500美元高点回落，但仍远高于历史水平。地缘政治紧张局势继续影响其避险吸引力，而央行购买也为金价提供了结构性需求支撑。
-  📰 [Báo Nghệ An](https://www.google.com/search?q=global)
+- **[2026.07.07] European Central Bank / Fiscal Policy — 欧洲央行官员警告财政支出可能对货币政策构成压力**
+  English: Fabio Panetta, Governor of the Bank of Italy and an ECB Governing Council member, warned on Monday, July 7, 2026, that European central banks could face increasing political pressure from governments struggling to finance rising defense, industrial support, and aging welfare systems. This concern highlights the risk of "fiscal dominance," where governments' financing needs begin to constrain monetary policy decisions, potentially making central banks less tolerant of keeping borrowing costs high. While the ECB's independence is legally protected, the growing fiscal demands across Germany, France, and Italy could complicate future interest rate debates beyond just inflation.
+  中文：总结：2026年7月7日，意大利央行行长兼欧洲央行管理委员会成员Fabio Panetta警告称，随着各国政府努力为国防、产业支持和老龄化福利系统提供资金，欧洲央行可能面临日益增长的政治压力。 这凸显了“财政主导”的风险，即政府的融资需求开始限制货币政策决策，可能导致央行在维持高借贷成本方面面临更大阻力。 尽管欧洲央行的独立性受法律保护，但德国、法国和意大利日益增长的财政需求可能使未来的利率辩论复杂化，超越单纯的通胀考量。
+  📰 [EUToday.net](https://eutoday.net/news/business-economy/panetta-warning-links-europes-defence-bills-to-central-bank-independence)
 
-- **[2026.07.07] Nikkei 225 & TOPIX — 日経平均は小幅安、TOPIXは過去最高値を更新**
-  日本語：7月6日の日本株式市場では、日経平均株価が6.38円安の69,737.69円と小幅に下落した一方、より広範なTOPIX指数は37.36ポイント上昇し4,101.96ポイントで取引を終え、6営業日連続の上昇を記録し約2週間ぶりに過去最高値を更新しました。取引は終日を通して変動が激しく、AI関連株の利益確定売りが一時日経平均を800円以上押し下げる場面も見られましたが、午後の取引では押し目買いが入り、日経平均の下げ幅は縮小し、TOPIXは上昇を拡大しました。このTOPIXの上昇は、石油価格の下落と世界市場の好調な勢いが投資家心理を押し上げたことが背景にあります。
-  中文：7月6日，日本股市日经225指数小幅下跌6.38日元，收于69,737.69点，而更广泛的东证指数（TOPIX）上涨37.36点至4,101.96点，连续第六个交易日上涨并创下约两周以来的新高。盘中波动剧烈，AI相关股票的获利回吐曾导致日经指数大幅下挫，但午后出现逢低买盘。TOPIX的上涨得益于油价下跌和全球市场的积极势头。
-  📰 [Business Recorder](https://www.google.com/search?q=global)
+- **[2026.07.07] Gold Prices — 黄金价格在美联储加息预期放缓和央行购买支撑下保持在4000美元上方**
+  English: Gold prices consolidated near recent recovery highs on Monday, July 7, 2026, with spot gold trading around $4,154.90 per ounce. The precious metal held above the World Gold Council's (WGC) $4,000/oz selling threshold, supported by easing expectations for aggressive Federal Reserve rate hikes following weaker-than-expected U.S. June nonfarm payrolls data. Central banks continue to be significant buyers, adding 41 metric tons to reserves in May, building a structural demand floor under prices and suggesting a deeper, long-term accumulation cycle for physical precious metals.
+  中文：总结：2026年7月7日，黄金价格在近期高点附近盘整，现货黄金交易价格约为每盎司4,154.90美元。 受到美国6月非农就业数据不及预期，导致美联储激进加息预期放缓的支撑，黄金价格守住了世界黄金协会（WGC）4,000美元/盎司的抛售门槛。 各国央行持续大量购买黄金，5月份净增持41吨，为金价构建了结构性需求底部，预示着实物贵金属的长期积累周期。
+  📰 [Crux Investor](https://www.cruxinvestor.com/articles/gold-holds-above-4000-floor-as-fomc-minutes-test-4100-fair-value)
 
-- **[2026.07.07] USD/JPY & Yen Weakness — 美元兑日元走高，高盛对日元前景悲观**
-  日本語：7月6日、USD/JPYは米国ドル高と日本のエネルギー輸入依存度を背景に162.20円を超えて上昇しました。ゴールドマン・サックスは円に対してさらに弱気な見方を示し、12ヶ月後のUSD/JPY予測を155円から165円に引き上げました。これは1986年以来の円安水準となる可能性を示唆しています。日本の当局による介入への懸念がくすぶる中、米国の金利上昇期待と日米間の金利差拡大が円安の主要因となっています。トレーダーは、今週発表されるISMサービスPMIや米連邦準備制度理事会（FRB）の議事録に注目しています。
-  中文：7月6日，美元兑日元汇率因美元走强和日本对能源进口的依赖而升至162.20上方。高盛对日元前景更为悲观，将其12个月美元兑日元预测从155上调至165，可能创下1986年以来的最低水平。尽管市场对日本当局干预的担忧持续存在，但美国加息预期和美日利差扩大是日元走弱的主要驱动因素。交易员正密切关注本周即将公布的ISM服务业PMI和美联储会议纪要。
-  📰 [FX Leaders](https://www.google.com/search?q=global)
+- **[2026.07.07] Nasdaq-100 Index / SpaceX — SpaceX将于7月7日加入纳斯达克100指数**
+  English: Space Exploration Technologies Corporation (SpaceX) is set to join the Nasdaq-100 Index prior to market open on Tuesday, July 7, 2026. This inclusion marks a significant milestone for the company, reflecting its growing market capitalization and influence among the largest non-financial companies listed on Nasdaq. The Nasdaq-100 Index is a widely tracked benchmark, and SpaceX's addition is expected to draw further investor attention and potentially impact related investment products.
+  中文：总结：Space Exploration Technologies Corporation (SpaceX) 将于2026年7月7日（周二）市场开盘前加入纳斯达克100指数。 此次纳入标志着该公司的一个重要里程碑，反映了其在纳斯达克上市的最大非金融公司中不断增长的市值和影响力。 纳斯达克100指数是一个被广泛追踪的基准，SpaceX的加入预计将吸引更多投资者关注，并可能对相关投资产品产生影响。
+  📰 [Nasdaq, Inc.](https://www.nasdaq.com/press-release/space-exploration-technologies-corporation-to-join-the-nasdaq-100-index%C2%AE-beginning)
 
-- **[2026.07.07] Bitcoin ETF — 比特币因ETF资金流出和地缘政治风险而下跌**
-  English: Bitcoin dipped below $63,000 on Monday, July 6th, despite a rally observed last week, as U.S. spot Bitcoin ETFs recorded $526.64 million in net outflows. This marks an eighth consecutive week of withdrawals, highlighting persistent institutional selling pressure. Coupled with renewed geopolitical concerns surrounding the Strait of Hormuz, this trend continues to cap any significant upside momentum for the cryptocurrency. While some short liquidations did temporarily fuel a push above $62,000, the broader long-term institutional demand remains compromised. Citigroup, for instance, has downgraded its 12-month Bitcoin price target and adjusted its net-ETF inflow forecast to zero, further indicating a challenging outlook. Additionally, capital is reportedly rotating from digital assets towards high-performing AI-related equities.
-  中文：7月6日，比特币跌破6.3万美元，尽管上周有所反弹，但美国现货比特币ETF录得5.2664亿美元净流出，已是连续第八周。机构持续抛售以及霍尔木兹海峡地缘政治担忧重燃，继续限制比特币的上行势头。尽管部分空头清算短暂推动价格突破6.2万美元，但长期机构需求仍受损，花旗甚至下调了比特币12个月目标价并预测ETF净流入为零。资金也正从数字资产转向表现强劲的AI相关股票。
-  📰 [CoinJournal](https://www.google.com/search?q=global)
+- **[2026.07.07] Japan Topix — 油价下跌提振日本东证指数连续第六个交易日上涨**
+  日本語：2026年7月7日、日本の東証株価指数（Topix）は、原油価格の下落と世界市場の良好なモメンタムに支えられ、连续6営業日上昇した。 Topix指数は0.50%高で4,084.74で取引を終え、2025年8月以来の最長連勝記録を更新した。 投資家は、米連邦準備制度理事会（FRB）がタカ派姿勢を示し、日本銀行が金融引き締めを継続すると予想される中、中央銀行の政策見通しに引き続き警戒している。
+  中文：总结：2026年7月7日，日本东证指数（Topix）连续第六个交易日上涨，主要受到油价下跌和全球市场积极势头的提振。 东证指数收盘上涨0.50%至4,084.74点，创下2025年8月以来的最长连涨纪录。 投资者正密切关注央行政策前景，尤其是在美联储主席Kevin Warsh暗示鹰派立场，
 
 ---
 ※Stock Market Daily Digest | 2026.07.07
