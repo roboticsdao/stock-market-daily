@@ -7,108 +7,129 @@
 
 ## 🇺🇸 美国股市 / US Market
 
-Here are 5 recent news items specifically about the US Market for July 8, 2026:
+- **[2026.07.08] Reuters — Nasdaq sinks as AI worries hit chipmakers**
+  English: Summary: Reuters is reporting a specific AI chips, memory, data centers, and semiconductor equipment story involving the relevant assets and sectors. Nasdaq futures make the story relevant for growth-tech risk appetite. The practical read-through is to compare the named stocks with Nasdaq futures, SOX-style semiconductor breadth, and opening volume. If the reaction spreads across peers, it supports a sector trade; if it stays isolated, it is more likely a short-term headline move.
+  中文：总结：相关公司和板块 是这条消息的主要观察对象。Nasdaq 是主要传导对象，因此这不只是单一公司消息，也会影响成长科技股风险偏好。交易上需要把标题里的具体催化和盘面反应分开看：如果同业、期货和成交量同步确认，说明资金正在沿 AI 芯片链扩散；如果只有单一股票反应，持续性就要打折。实盘上还应观察期货开盘后的成交量、期权隐含波动率、龙头股是否带动同业，以及资金是否从指数权重股扩散到中小型成长股。如果消息只推动单一公司而板块没有跟随，趋势持续性会弱一些；如果半导体、软件、云计算和电力基础设施同时响应，说明市场正在交易更完整的 AI 资本开支链条。
+  📰 [Reuters](https://news.google.com/rss/articles/CBMiugFBVV95cUxOSkRnZVFOUXdNU3JYa1lRMEFEQ0MwWGZMRkZ4TW1PM1JaUmQ4aEhTQlNsdlp1cVBTRVZ4LWZ0RDBJNU40a0tJS1JvaEtjZWczcHJWOFVncTBCYzh3NVFUS1M3UG1tZWJ4VDNsc1VkNkg2eVByZkhacEhDS1hQaGJlaUpGUG5qR0dhbzZ3RzRVSGpDdW94RlJWUFFNR0Mwc05lZ1hqRUJ3ZWVoaTRKTDJFSEtQaXRIdEVvQnc?oc=5)
 
-- **[2026.07.08] Federal Reserve — 美联储公布6月会议纪要，市场关注未来利率走向**
-  English: The U.S. Federal Reserve is set to release the minutes from its June 16-17 FOMC meeting today, July 8, an event highly anticipated by investors for clues on the future direction of interest rates. Following last month's decision to keep rates unchanged at 3.50%–3.75%, the minutes will reveal whether policymakers are signaling another potential rate hike before year-end 2026, or if recent weaker-than-expected jobs data and moderating inflation have shifted sentiment towards a pause or cut.
-  中文：总结：美国联邦储备委员会将于今日公布6月联邦公开市场委员会（FOMC）会议纪要，市场密切关注其对未来利率政策的指引。此前美联储在6月会议上维持利率不变，但整体基调偏鹰派。此次纪要将揭示委员会内部对年底前是否再次加息的看法，以及对通胀和就业数据的最新评估，这将对市场预期产生重要影响。
-  📰 [TradingView](https://www.google.com/search?q=US)
+- **[2026.07.08] The Sunday Guardian — Why Are Semiconductor Stocks Down Today? Nvidia, AMD, TSMC, Broadcom & Chip Stocks Slide Amid Fresh Market Concerns | Here’s What Investors Need to Know**
+  English: Summary: The Sunday Guardian is reporting a specific AI chips, memory, data centers, and semiconductor equipment story involving Nvidia, AMD, Broadcom. Peer moves show whether the trade is spreading through the AI-chip chain. The practical read-through is to compare the named stocks with Nasdaq futures, SOX-style semiconductor breadth, and opening volume. If the reaction spreads across peers, it supports a sector trade; if it stays isolated, it is more likely a short-term headline move.
+  中文：总结：Nvidia、AMD、Broadcom 是这条消息的主要观察对象。AMD、Intel、Qualcomm、Broadcom 或 Nvidia 等同业表现，可以判断资金是否在扩散到更完整的 AI 芯片链。交易上需要把标题里的具体催化和盘面反应分开看：如果同业、期货和成交量同步确认，说明资金正在沿 AI 芯片链扩散；如果只有单一股票反应，持续性就要打折。实盘上还应观察期货开盘后的成交量、期权隐含波动率、龙头股是否带动同业，以及资金是否从指数权重股扩散到中小型成长股。如果消息只推动单一公司而板块没有跟随，趋势持续性会弱一些；如果半导体、软件、云计算和电力基础设施同时响应，说明市场正在交易更完整的 AI 资本开支链条。
+  📰 [The Sunday Guardian](https://news.google.com/rss/articles/CBMioAJBVV95cUxPZURsMFc1QVhUeThpSnpJNFN3c3Q1T1FISzZHQXFpaXJWY19WbnVoS1dnNlI5UmJoZk5IWVFrTU1BT2kxbGhid0dDSXlVb0pWUlJqczd1X242bmVMX1hBaXFtU3JQRmhhVmlxYV9XXzhsdjFTSzY0UVlnU1NMVVJIMnVGWDVYa0d0RW9Nb3BzZGYxMnpCdHFMa2FEbDEwQ3ZhMGVHU3dMclh6RHhhMUNicEZnSUV1eWZxVFJtSHFibU9VWGEzaGRnSVZNTWdKdUpiaFNjZGNRUWxBbS1BVlVLcmdXNWxhQ0hmaldOX2JOYkgzMzBVeTdZWDZhTXlMMFlJM0JNeE1jWVRjdElNd1ZQdHJQOXRIUVA5M2x6Tlh4VGvSAaACQVVfeXFMT2VEbDBXNUFYVHk4aUp6STRTd3N0NU9RSEs2R0FxaWlyVmNfVm51aEtXZzZSOVJiaGZOSFlRa01NQU9pMWxoYndHQ0l5VW9KVlJSanM3dV9uNm5lTF9YQWlxbVNyUEZoYVZpcWFfV184bHYxU0s2NFFZZ1NTTFVSSDJ1Rlg1WGtHdEVvTW9wc2RmMTJ6QnRxTGthRGwxMEN2YTBlR1N3THJYekR4YTFDYnBGZ0lFdXlmcVRSbUhxYm1PVVhhM2hkZ0lWTU1nSnVKYmhTY2RjUVFsQW0tQVZVS3JnVzVsYUNIZmpXTl9iTmJIMzMwVXk3WVg2YU15TDBZSTNCTXhNY1lUY3RJTXdWUHRyUDl0SFFQOTNsek5YeFRr?oc=5)
 
-- **[2026.07.08] BIO-key (BKYI) — Nasdaq — BIO-key股票今日恢复纳斯达克交易**
-  English: BIO-key International (BKYI) announced that its common stock will resume trading on the Nasdaq Capital Market at market open today, July 8, 2026. This follows a Nasdaq Hearings Panel determination that the company has regained compliance with continued listing standards, including minimum bid price and SEC filing requirements. The resumption removes a key overhang, though BIO-key will remain under a Discretionary Panel Monitor for one year.
-  中文：总结：BIO-key International (BKYI) 今日宣布，其普通股将于2026年7月8日市场开盘时在纳斯达克资本市场恢复交易。此前，纳斯达克听证小组裁定该公司已重新符合持续上市标准，包括最低出价和美国证券交易委员会的备案要求。此次恢复交易消除了一个主要障碍，但BIO-key仍将接受一年的酌情小组监督。
-  📰 [GlobeNewswire](https://www.google.com/search?q=US)
+- **[2026.07.08] 24/7 Wall St. — Chip Stocks Just Flashed a Warning Even Wall Street’s Bulls Can’t Ignore**
+  English: Summary: 24/7 Wall St. is reporting a specific AI chips, memory, data centers, and semiconductor equipment story involving the relevant assets and sectors. The headline points to a change in company-level expectations, sector rotation, or market sentiment. The practical read-through is to compare the named stocks with Nasdaq futures, SOX-style semiconductor breadth, and opening volume. If the reaction spreads across peers, it supports a sector trade; if it stays isolated, it is more likely a short-term headline move.
+  中文：总结：相关公司和板块 是这条消息的主要观察对象。标题反映的是个股预期、行业轮动或市场情绪的变化。交易上需要把标题里的具体催化和盘面反应分开看：如果同业、期货和成交量同步确认，说明资金正在沿 AI 芯片链扩散；如果只有单一股票反应，持续性就要打折。实盘上还应观察期货开盘后的成交量、期权隐含波动率、龙头股是否带动同业，以及资金是否从指数权重股扩散到中小型成长股。如果消息只推动单一公司而板块没有跟随，趋势持续性会弱一些；如果半导体、软件、云计算和电力基础设施同时响应，说明市场正在交易更完整的 AI 资本开支链条。
+  📰 [24/7 Wall St.](https://news.google.com/rss/articles/CBMitAFBVV95cUxNTkEtMndoanotTmo3LXM2YlFmekVJN1dobFFPQmhWMjhmYlZ5RWExWFV1cF9JYml0VXZRbjRFYi1QbHVJY2wzQ2s3SlFSZFpuS1BYSjliS3ZRS2lZYUxlZFVYTTNNTi1yNnFTYkJfN0lwWklRX1I5MVItb0lYWXBBU1RsLUNvalBfMnY4Z3JoZkI3VWN3UEtMSVBXRHMtaEVVczJHWFRVdGVIVnp2blp5Vndha3M?oc=5)
 
-- **[2026.07.08] AeroVironment (AVAV) — AeroVironment今日举办投资者日活动，聚焦国防战略**
-  English: AeroVironment (AVAV) is hosting its Investor Day in New York today, July 8, 2026. During the event, company executives are expected to provide updates on its autonomous defense strategy and offer insights into fiscal year 2027 expectations and long-term growth trajectory. This event follows recent strong revenue beats and a significant Army contract, with analysts maintaining an average price target indicating substantial upside.
-  中文：总结：AeroVironment (AVAV) 今日在纽约举办投资者日活动，公司高管预计将讨论其自主防御战略，并提供2027财年预期及长期增长路径的展望。此次活动是在公司近期营收表现强劲并获得一项重要陆军合同之后举行，分析师普遍认为该股仍有显著上涨空间。
-  📰 [TradingKey](https://www.google.com/search?q=US)
+- **[2026.07.07] 아시아경제 — [New York Stock Exchange] All Major Indices Fall as Semiconductor Sector Slumps**
+  English: Summary: 아시아경제 is reporting a specific AI chips, memory, data centers, and semiconductor equipment story involving the relevant assets and sectors. The headline points to a change in company-level expectations, sector rotation, or market sentiment. The practical read-through is to compare the named stocks with Nasdaq futures, SOX-style semiconductor breadth, and opening volume. If the reaction spreads across peers, it supports a sector trade; if it stays isolated, it is more likely a short-term headline move.
+  中文：总结：相关公司和板块 是这条消息的主要观察对象。标题反映的是个股预期、行业轮动或市场情绪的变化。交易上需要把标题里的具体催化和盘面反应分开看：如果同业、期货和成交量同步确认，说明资金正在沿 AI 芯片链扩散；如果只有单一股票反应，持续性就要打折。实盘上还应观察期货开盘后的成交量、期权隐含波动率、龙头股是否带动同业，以及资金是否从指数权重股扩散到中小型成长股。如果消息只推动单一公司而板块没有跟随，趋势持续性会弱一些；如果半导体、软件、云计算和电力基础设施同时响应，说明市场正在交易更完整的 AI 资本开支链条。
+  📰 [아시아경제](https://news.google.com/rss/articles/CBMifEFVX3lxTE5PUDl0VDhZa3ZUZk5lM2htMXZHb2d5bWJ4WGwxVWxxajJmTEkwX2N5Zk9fM1F4Tnl0U21TYkZsbWRRaVNYTlpiQlRxTUZuZGhfeVZySWFYWmVxYnVlTkdhaEh4bG85WXZ2VVFRZk01M0tITVI1YUZCMUJDOTc?oc=5)
 
-- **[2026.07.08] US Stock Market (Dow, S&P 500, Nasdaq) — 周二美股收盘涨跌互现，道指创新高但科技股承压**
-  English: On Tuesday, July 7, the U.S. stock market closed mixed, with the Dow Jones Industrial Average reaching another all-time high, while the Nasdaq Composite and S&P 500 indexes declined. This divergence was driven by optimism for defensive sectors contrasting with weakness in the technology space, particularly a selloff in semiconductor companies following Samsung's earnings report and renewed concerns about AI investment growth. Higher crude oil prices and geopolitical risks also contributed to market uncertainties.
-  中文：总结：美国股市周二（7月7日）收盘表现不一，道琼斯工业平均指数再创历史新高，而纳斯达克综合指数和标普500指数则收低。 这种分化主要源于防御性板块的乐观情绪与科技股的疲软，尤其是三星财报后半导体公司遭遇抛售，以及对人工智能投资增长的新担忧。 油价上涨和地缘政治风险也增加了市场的不确定性。
-  📰 [The Sunday Guardian](https://www.google.com/search?q=US)
+- **[2026.07.07] MSN — AMD surges 10% after Goldman Sachs raises target to $640**
+  English: Summary: MSN is reporting a specific AI chips, memory, data centers, and semiconductor equipment story involving AMD, Gold. The price reaction is part of the news, so peer follow-through matters. Peer moves show whether the trade is spreading through the AI-chip chain. The practical read-through is to compare the named stocks with Nasdaq futures, SOX-style semiconductor breadth, and opening volume. If the reaction spreads across peers, it supports a sector trade; if it stays isolated, it is more likely a short-term headline move.
+  中文：总结：AMD、Gold 是这条消息的主要观察对象。这类消息包含明确的股价反应，后续要看同业是否继续跟涨，而不是只看标题中的单日涨幅；AMD、Intel、Qualcomm、Broadcom 或 Nvidia 等同业表现，可以判断资金是否在扩散到更完整的 AI 芯片链。交易上需要把标题里的具体催化和盘面反应分开看：如果同业、期货和成交量同步确认，说明资金正在沿 AI 芯片链扩散；如果只有单一股票反应，持续性就要打折。
+  📰 [MSN](https://news.google.com/rss/articles/CBMi7AFBVV95cUxQd1Z6SGg5UHU2WUUwWTRnWC1nemZYMWtRZUQ0SGxEUEN4Z2ZWYnJfcjcweGFJbXc1VkZoa0ZTRUU3TDg2eDlzZkhhcTFBdFJfd2VSSFNPQUg0UGFNN25UZlhJaVNLZzZlekJiVy1RZGRMSGVuT2gyZUJDanJkQ0xGZ0ZkTlV5elY2X0xSMUxfZ1R0V2xKN05GQjM1Q1NvNGxvaVJ5b21SNGJIUDBhdmsyYzhHNFNNOW9JeWlZNVdVWE1vQ3pScTlTQ29TN1BwQVg2VDFPaGF6LVV2NWNUekFpWnc4eERzSXlVeFowbw?oc=5)
 
-- **[2026.07.08] S&P 500 — 华尔街分析师对标普500指数2026年目标存在分歧**
-  English: Wall Street analysts hold a wide range of year-end 2026 price targets for the S&P 500, currently trading around 7,537 points as of early July. Targets vary significantly, from a cautious 7,000 to an optimistic 8,250, reflecting a genuine disagreement on the market's continued trajectory after three consecutive years of double-digit gains. Key factors influencing these forecasts include strong Q2 earnings growth, AI infrastructure spending, and concerns over valuation and market concentration.
-  中文：总结：华尔街分析师对标普500指数2026年年终目标存在显著分歧，目前该指数在7月初约为7,537点。 目标范围从保守的7,000点到乐观的8,250点不等，反映出在连续三年两位数增长后，市场对未来走势的真实看法不一。 影响这些预测的关键因素包括强劲的第二季度盈利增长、人工智能基础设施支出以及对估值和市场集中度的担忧。
-  📰 [INDmoney](https://www.google.com/search?q=US)
+- **[2026.07.07] AOL.com — AI Can't Thrive Without This Stock (Hint: It's Not Nvidia)**
+  English: Summary: AOL.com is reporting a specific AI chips, memory, data centers, and semiconductor equipment story involving Nvidia. Peer moves show whether the trade is spreading through the AI-chip chain. The practical read-through is to compare the named stocks with Nasdaq futures, SOX-style semiconductor breadth, and opening volume. If the reaction spreads across peers, it supports a sector trade; if it stays isolated, it is more likely a short-term headline move.
+  中文：总结：Nvidia 是这条消息的主要观察对象。AMD、Intel、Qualcomm、Broadcom 或 Nvidia 等同业表现，可以判断资金是否在扩散到更完整的 AI 芯片链。交易上需要把标题里的具体催化和盘面反应分开看：如果同业、期货和成交量同步确认，说明资金正在沿 AI 芯片链扩散；如果只有单一股票反应，持续性就要打折。实盘上还应观察期货开盘后的成交量、期权隐含波动率、龙头股是否带动同业，以及资金是否从指数权重股扩散到中小型成长股。如果消息只推动单一公司而板块没有跟随，趋势持续性会弱一些；如果半导体、软件、云计算和电力基础设施同时响应，说明市场正在交易更完整的 AI 资本开支链条。
+  📰 [AOL.com](https://news.google.com/rss/articles/CBMifEFVX3lxTE5vOFZjeThoeGxsSDk3OE9xbmpRR1pWVDFrZl95YkNWYUZRZVJjOWtVem05LV9MejNLa0gyQ043WkhUX2RFYkV1d1ZkRFhLMlpnNUJVbFVjMU5GaU5YRkQtSWdmbjFqYzRpaXlVZ0o3UWViV2JnVkR6bWI3LU4?oc=5)
+
+- **[2026.07.07] AOL.com — Prediction: This Will Be the Next Artificial Intelligence (AI) Semiconductor Stock to Go Parabolic**
+  English: Summary: AOL.com is reporting a specific AI chips, memory, data centers, and semiconductor equipment story involving Intel. Peer moves show whether the trade is spreading through the AI-chip chain. The practical read-through is to compare the named stocks with Nasdaq futures, SOX-style semiconductor breadth, and opening volume. If the reaction spreads across peers, it supports a sector trade; if it stays isolated, it is more likely a short-term headline move.
+  中文：总结：Intel 是这条消息的主要观察对象。AMD、Intel、Qualcomm、Broadcom 或 Nvidia 等同业表现，可以判断资金是否在扩散到更完整的 AI 芯片链。交易上需要把标题里的具体催化和盘面反应分开看：如果同业、期货和成交量同步确认，说明资金正在沿 AI 芯片链扩散；如果只有单一股票反应，持续性就要打折。实盘上还应观察期货开盘后的成交量、期权隐含波动率、龙头股是否带动同业，以及资金是否从指数权重股扩散到中小型成长股。如果消息只推动单一公司而板块没有跟随，趋势持续性会弱一些；如果半导体、软件、云计算和电力基础设施同时响应，说明市场正在交易更完整的 AI 资本开支链条。
+  📰 [AOL.com](https://news.google.com/rss/articles/CBMijgFBVV95cUxOUEVGQ3ZZQzczS2pTNmlHcGN6VnFQQzVVd0NKa2hKbno2VThjTXVQZ3hsejJ3OEVuSnJEdHUtb1ItQ0x2VUIwQnBfSWdyV2thX3pxc3RjcFZVTkJTN2NNdm5LeWh5NW9ld0tfR0dfZzVyMHE3dXpvWm5NeUx4V2xwdlhsUEhoYk9BbG5fZFhn?oc=5)
+
+- **[2026.07.07] MSN — AI stocks rebound, lifting Nasdaq over 1% despite market split**
+  English: Summary: MSN reports a market-moving item tied to the relevant assets and sectors. The relevance is how it feeds into index breadth, sector rotation, and risk appetite. Watch the relevant assets and sectors alongside Nasdaq futures, sector breadth, volume, and analyst revisions. If related stocks move together, the signal is more likely to reflect a real sector trend; if the reaction is isolated, it may be short-lived repricing. The next checkpoint is whether trading confirms the same direction across peers.
+  中文：总结：相关公司和板块 反映美股盘面或个股情绪正在发生变化。它的重点不只是指数涨跌，而是资金正在选择哪些行业、哪些主题以及哪些公司作为交易主线。后续应结合盘前期货、板块涨跌、成交量和分析师评级变化，判断这是短线情绪反弹，还是能够延续的产业趋势。实盘上还应观察期货开盘后的成交量、期权隐含波动率、龙头股是否带动同业，以及资金是否从指数权重股扩散到中小型成长股。如果消息只推动单一公司而板块没有跟随，趋势持续性会弱一些；如果半导体、软件、云计算和电力基础设施同时响应，说明市场正在交易更完整的 AI 资本开支链条。
+  📰 [MSN](https://news.google.com/rss/articles/CBMi5AFBVV95cUxNSE9xOVZmelpqWEVRUzk4VnhiTmFBLVpyc2ZaZkp3bUwzM0JiT0lNUFZZZEF1dVIyanB5cUFNcEIzeHNaVzNweVNaVE9wUjIzNjlsYVpuTlZrU0MtMlVDamJWOWk2V2ZucTNRbDlubVBFTG5fMzM2NnlWeWx6N0JGZkJUVE9jX3FFOTg3d1pTcXhXYVZsb1RqNkN0Zzk1Wi1kVE1kTm5tZWt4Nk81SmdWeXZpRm82S3lsNlg3TjA2aXhvUmdpOVh6QWJ5SzdkQUYyaGw1MkNGYlVvcTE2YjUwSG9IemY?oc=5)
 
 ## 🇯🇵 日本株式市場 / Japan Market
 
-- **[2026.07.08] 日経225先物 — 日経平均先物が大幅下落**
-  日本語：2026年7月8日午前0時現在、大阪取引所の日経225先物9月限は前日比770円安の6万7650円と急落した。現物終値6万8256.96円に対しては606.96円安で推移しており、市場の警戒感が示されている。これは、前日の海外市場の動向や、半導体関連株の軟調な動きが影響していると見られ、本日の日本株市場の取引開始に向けて下押し圧力がかかる可能性がある。投資家は、特にテクノロジー株の動向に注目し、慎重な姿勢で臨むことが予想される。
-  中文：总结：2026年7月8日凌晨，大阪交易所日经225股指期货9月合约大幅下跌770日元，收于67650日元。相对于现货收盘价68256.96日元，下跌了606.96日元，显示市场情绪谨慎。这可能受到前一交易日海外市场走势及半导体相关股票疲软的影响，预计今日日本股市开盘将面临下行压力。投资者需关注科技股走势，保持谨慎。
-  📰 [株探](https://kabutan.jp/news/market/20260708_0000)
+- **[2026.07.07] BigGo ファイナンス — 日経平均1480円安で6万8000円台割れ目前、半導体急落で東エレクとキオクシアHDが2銘柄で502円分の重し**
+  日本語：要約：BigGo ファイナンスの報道では、関連銘柄とセクターを中心に日本株の物色がどう広がるかが焦点です。半導体、AI、ソフトバンクグループ、輸出関連、金融などの主力株が同じ方向に動けば、日経平均やTOPIXの動きにも継続性が出やすくなります。一方で一部の値がさ株だけが上昇している場合は、市場全体の広がりが弱い可能性があります。次に見るべき点は、円相場、米国ハイテク株先物、出来高、海外投資家の買い姿勢です。決算やレーティング変更が材料の場合は、同業他社への波及も確認したいところです。指数寄与度の高い銘柄だけでなく、中小型株や内需株にも買いが広がるかを見ると、相場の持続力を判断しやすくなります。
+  中文：总结：相关公司和板块 把日本市场的焦点集中到半导体和 AI 产业链。日股中东京电子、Advantest、Kioxia、SoftBank Group 等常被视为 AI 基础设施和全球芯片周期的映射。如果海外芯片业绩或 AI 资本开支继续超预期，日经指数可能继续由高权重半导体股推动；同时也要留意日元和海外资金流向。实盘上还要结合日元汇率、外资买卖、美国科技股隔夜表现以及期货盘变化判断。如果日经上涨主要依赖少数半导体权重股，后续容易受海外芯片消息影响；如果汽车、金融、商社和中小盘也同步走强，说明市场宽度更健康。
+  📰 [BigGo ファイナンス](https://news.google.com/rss/articles/CBMidEFVX3lxTE9BOTVkYUFidkgwY2ZBajVvWEZNc2RLcDBBU1dabUtFaEY1SlhKa3NRcTE0aFBHNkFRd3pUWVl2djRfODJvanNwc2QtamlCUVBnWDRkaTZaT1RIRUtkeE03ZUYtOE13OENTMWJmaklfeHRMM3pv?oc=5)
 
-- **[2026.07.08] 主要企業決算発表 — アサヒグループHD、吉野家HDなどが決算発表**
-  日本語：2026年7月8日には、アサヒグループホールディングス（2502）や吉野家ホールディングス（9861）などの主要企業が四半期決算を発表する予定である。これらの決算内容は、個別銘柄だけでなく、それぞれのセクターや市場全体のセンチメントに影響を与える可能性がある。特に、消費関連企業の業績は、国内景気の動向を測る上で重要な指標となるため、市場関係者はその内容を注視するだろう。好調な決算は市場の活性化につながる一方、期待を下回る場合は株価に下押し圧力がかかることも考えられる。
-  中文：总结：2026年7月8日，朝日集团控股（2502）和吉野家控股（9861）等主要企业将公布季度财报。这些财报不仅会影响个股，还可能对相关行业和整体市场情绪产生影响。特别是消费相关企业的业绩是衡量国内经济动向的重要指标，市场参与者将密切关注。
-  📰 [Yahoo!ファイナンス](https://finance.yahoo.co.jp/news/detail/20260706-00000001-fisco-stocks)
+- **[2026.07.07] ゴールドオンライン — 1,000億円超の出資を発表し、東証プライム・上昇率1位となった〈サッポロビール〉の動向…日経平均は「68,256.96円」と続落【7月7日の国内株式市場概況】**
+  日本語：要約：ゴールドオンラインの報道では、関連銘柄とセクターを中心に日本株の物色がどう広がるかが焦点です。半導体、AI、ソフトバンクグループ、輸出関連、金融などの主力株が同じ方向に動けば、日経平均やTOPIXの動きにも継続性が出やすくなります。一方で一部の値がさ株だけが上昇している場合は、市場全体の広がりが弱い可能性があります。次に見るべき点は、円相場、米国ハイテク株先物、出来高、海外投資家の買い姿勢です。決算やレーティング変更が材料の場合は、同業他社への波及も確認したいところです。指数寄与度の高い銘柄だけでなく、中小型株や内需株にも買いが広がるかを見ると、相場の持続力を判断しやすくなります。
+  中文：总结：相关公司和板块 反映日本股市当天的行业轮动和个股表现。对日股来说，指数变化往往由半导体、汽车、金融、商社和 SoftBank 等权重股共同决定。需要结合日元走势、海外科技股表现、日银政策预期和外资买卖，判断行情是单日事件驱动，还是更广泛的趋势延续。实盘上还要结合日元汇率、外资买卖、美国科技股隔夜表现以及期货盘变化判断。如果日经上涨主要依赖少数半导体权重股，后续容易受海外芯片消息影响；如果汽车、金融、商社和中小盘也同步走强，说明市场宽度更健康。
+  📰 [ゴールドオンライン](https://news.google.com/rss/articles/CBMiUkFVX3lxTFBNVHY5X29XelpJQkJnTzJzLUdkSDVZNUtHblpOVnNQT2RLN0UtMndNRE84LVI0NzJqY3Z1bHNqbF9YR3d0aHdmY1ozNUVDbXByc0E?oc=5)
 
-- **[2026.07.08] 銀行株・日銀政策 — 日銀利上げ期待で銀行株に高値続出**
-  日本語：2026年7月8日、日本証券新聞は、日本銀行の追加利上げへの期待が継続していることから、銀行株が高値圏で推移していると報じた。日銀は2026年6月に政策金利を1.0%へ引き上げ、約31年ぶりの高水準となったが、市場では物価と賃金の好循環が続けば、2026年後半にも追加利上げが実施される可能性が高いとの見方が広がっている。この金利上昇局面は、銀行の収益改善に寄与すると期待されており、メガバンクや地方銀行に資金が流入している状況が続いている。
-  中文：总结：2026年7月8日，日本证券新闻报道称，由于市场对日本央行进一步加息的预期持续，银行股持续走高。日本央行在2026年6月将政策利率上调至1.0%，创约31年新高，市场普遍认为，如果物价和工资的良性循环持续，2026年下半年可能还会进一步加息。
-  📰 [日本証券新聞](https://www.nsjournal.jp/news/20260708_pdf_bank/)
+- **[2026.07.07] 日本経済新聞 — 東証大引け 日経平均は続落、韓国株安で半導体関連に売りが波及**
+  日本語：要約：日本経済新聞の報道では、関連銘柄とセクターを中心に日本株の物色がどう広がるかが焦点です。半導体、AI、ソフトバンクグループ、輸出関連、金融などの主力株が同じ方向に動けば、日経平均やTOPIXの動きにも継続性が出やすくなります。一方で一部の値がさ株だけが上昇している場合は、市場全体の広がりが弱い可能性があります。次に見るべき点は、円相場、米国ハイテク株先物、出来高、海外投資家の買い姿勢です。決算やレーティング変更が材料の場合は、同業他社への波及も確認したいところです。指数寄与度の高い銘柄だけでなく、中小型株や内需株にも買いが広がるかを見ると、相場の持続力を判断しやすくなります。
+  中文：总结：相关公司和板块 把日本市场的焦点集中到半导体和 AI 产业链。日股中东京电子、Advantest、Kioxia、SoftBank Group 等常被视为 AI 基础设施和全球芯片周期的映射。如果海外芯片业绩或 AI 资本开支继续超预期，日经指数可能继续由高权重半导体股推动；同时也要留意日元和海外资金流向。实盘上还要结合日元汇率、外资买卖、美国科技股隔夜表现以及期货盘变化判断。如果日经上涨主要依赖少数半导体权重股，后续容易受海外芯片消息影响；如果汽车、金融、商社和中小盘也同步走强，说明市场宽度更健康。
+  📰 [日本経済新聞](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNUlJwdnp5dDV2ZHQtQnFLOC1yQ2IwNEI5bWpacTJLYjh0YS1UV0tVLUVrVDdiU28xQ0JxRmRKTEk1dUVHNkxtcGdtemRubmNmUi1vRW5XLWZ0bVhWWTBZRlgzbm9aVjZ3WXJMd1piRGRidUhraVR2MG96aEl1VG1qRGR2UUUzZGcwTVdMdlZsbFRHWGx3YWpNdURaY0tBSU4wdC1QVTlIR1M?oc=5)
 
-- **[2026.07.08] ETF分配金売り — ETF分配金支払いに伴う換金売りへの警戒**
-  日本語：2026年7月8日と10日には、ETF（上場投資信託）の分配金支払い義務が発生し、これに伴う換金売りが日本株市場の株安材料として警戒されている。野村證券のストラテジストは、7月上旬にETF分配金売りへの警戒が例年の風物詩となっていると指摘している。しかし、過去のデータからは7月上旬を境に日本株が下落するという明確な裏付けはないものの、短期的な需給悪化のリスクとして投資家は動向を注視する必要がある。
-  中文：总结：2026年7月8日和10日，ETF（交易所交易基金）将面临分红支付义务，市场担忧由此引发的抛售可能对日本股市造成下行压力。野村证券策略师指出，每年7月上旬都会出现对ETF分红抛售的警惕。尽管历史数据并未明确支持日本股市会在7月上旬下跌，但投资者仍需关注短期供需恶化风险。
-  📰 [野村證券](https://www.nomura.co.jp/retail/market/column/japan_stock_etf_20260703.html)
+- **[2026.07.07] BigGo ファイナンス — 日経平均、続落も下値固め完了か 7万円台定着へ正念場**
+  日本語：要約：BigGo ファイナンスの報道では、関連銘柄とセクターを中心に日本株の物色がどう広がるかが焦点です。半導体、AI、ソフトバンクグループ、輸出関連、金融などの主力株が同じ方向に動けば、日経平均やTOPIXの動きにも継続性が出やすくなります。一方で一部の値がさ株だけが上昇している場合は、市場全体の広がりが弱い可能性があります。次に見るべき点は、円相場、米国ハイテク株先物、出来高、海外投資家の買い姿勢です。決算やレーティング変更が材料の場合は、同業他社への波及も確認したいところです。指数寄与度の高い銘柄だけでなく、中小型株や内需株にも買いが広がるかを見ると、相場の持続力を判断しやすくなります。
+  中文：总结：相关公司和板块 反映日本股市当天的行业轮动和个股表现。对日股来说，指数变化往往由半导体、汽车、金融、商社和 SoftBank 等权重股共同决定。需要结合日元走势、海外科技股表现、日银政策预期和外资买卖，判断行情是单日事件驱动，还是更广泛的趋势延续。实盘上还要结合日元汇率、外资买卖、美国科技股隔夜表现以及期货盘变化判断。如果日经上涨主要依赖少数半导体权重股，后续容易受海外芯片消息影响；如果汽车、金融、商社和中小盘也同步走强，说明市场宽度更健康。
+  📰 [BigGo ファイナンス](https://news.google.com/rss/articles/CBMidEFVX3lxTE9XaDRNYXljUkhLQ0YzQ2trcjUtU3RQNU9zRGYwTkU5a1g5Yy0yUjBrRjJxV0d3Mi02TWdtZU5LVXcxSXhlLWxzSHVESTBwUmFwbm5RdHFIU184dzlreEx5b3dHRlVHbkt0VDZTVzd3MUpSLTlW?oc=5)
 
-- **[2026.07.08] AI・半導体関連株 — サムスン決算受けAI・半導体株が下落基調**
-  日本語：2026年7月7日の日本株市場では、AI・半導体関連株の一部が急落し、この流れが7月8日の市場にも影響を与える見込みだ。韓国のサムスン電子が7日に発表した2026年4-6月期の暫定決算は市場予想を上回ったものの、投資家の期待値が高すぎたことなどから株価は下落。これを受け、日本の半導体関連株、特にキオクシアHDなどが売られ、日経平均株価の重しとなった。世界的なAIブームの収益化への懸念や、韓国市場との連動性の高まりが、今後の半導体関連株の動向を左右する要因となるだろう。
-  中文：总结：2026年7月7日日本股市，部分AI和半导体相关股票大幅下跌，预计此趋势将延续至7月8日市场。韩国三星电子7日公布的2026年4-6月初步财报虽超市场预期，但因投资者期望过高，股价仍下跌。受此影响，日本半导体相关股票，特别是铠侠控股等，遭到抛售，拖累日经平均指数。
-  📰 [会社四季報オンライン](https://shikiho.toyokeizai.net/news/0/688320)
+- **[2026.07.07] Moomoo — 日経平均7日前引け＝続落、889円安の6万8848円 リクルートはAI人材ビジネスの成長で最高値圏 RSテクノは中国半導体材料企業の子会社化で反発 シンプレクスはライフネット団信システム大規模拡張で大幅高 リボミックは富士フイルムグループとの業務提携でS高**
+  日本語：要約：Moomooの報道では、関連銘柄とセクターを中心に日本株の物色がどう広がるかが焦点です。半導体、AI、ソフトバンクグループ、輸出関連、金融などの主力株が同じ方向に動けば、日経平均やTOPIXの動きにも継続性が出やすくなります。一方で一部の値がさ株だけが上昇している場合は、市場全体の広がりが弱い可能性があります。次に見るべき点は、円相場、米国ハイテク株先物、出来高、海外投資家の買い姿勢です。決算やレーティング変更が材料の場合は、同業他社への波及も確認したいところです。指数寄与度の高い銘柄だけでなく、中小型株や内需株にも買いが広がるかを見ると、相場の持続力を判断しやすくなります。
+  中文：总结：相关公司和板块 把日本市场的焦点集中到半导体和 AI 产业链。日股中东京电子、Advantest、Kioxia、SoftBank Group 等常被视为 AI 基础设施和全球芯片周期的映射。如果海外芯片业绩或 AI 资本开支继续超预期，日经指数可能继续由高权重半导体股推动；同时也要留意日元和海外资金流向。实盘上还要结合日元汇率、外资买卖、美国科技股隔夜表现以及期货盘变化判断。如果日经上涨主要依赖少数半导体权重股，后续容易受海外芯片消息影响；如果汽车、金融、商社和中小盘也同步走强，说明市场宽度更健康。
+  📰 [Moomoo](https://news.google.com/rss/articles/CBMiV0FVX3lxTFBVaXJTY3pzTURGb1liS3VrdlBHMl9xUklrejF0cGZDVzAyazFfVDBWSktIUFJuRnBYV0hKZmt6VlpGMGdIYmVOeVJ6WXJlYUZ4eXhRenRhVQ?oc=5)
 
-- **[2026.07.08] 国際通貨基金（IMF） — IMFが世界経済見通しを更新**
-  日本語：2026年7月8日には、国際通貨基金（IMF）が世界経済見通しを更新する予定である。この発表は、世界経済の成長率予測や主要国の経済見通し、インフレ動向など、多岐にわたる情報を提供する。日本の経済見通しが良好であると示されれば、海外投資家による日本株買いが再燃し、市場全体を押し上げる要因となる可能性がある。一方で、世界経済の減速や地政学的リスクへの懸念が示された場合、投資家心理が悪化し、日本市場にもネガティブな影響を及ぼすことが考えられるため、その内容が注目される。
-  中文：总结：2026年7月8日，国际货币基金组织（IMF）将更新其《世界经济展望报告》。此报告将提供全球经济增长预测、主要国家经济展望及通胀趋势等多方面信息。若报告显示日本经济前景良好，可能刺激海外投资者重新购买日本股票，提振市场。反之，若报告指出全球经济放缓或地缘政治风险，则可能对日本市场产生负面影响。
-  📰 [会社四季報オンライン](https://shikiho.toyokeizai.net/news/0/679780)
+- **[2026.07.07] BigGo ファイナンス — 日経平均892円安の6万8844円、キオクシアが200円超の押し下げ**
+  日本語：要約：BigGo ファイナンスの報道では、関連銘柄とセクターを中心に日本株の物色がどう広がるかが焦点です。半導体、AI、ソフトバンクグループ、輸出関連、金融などの主力株が同じ方向に動けば、日経平均やTOPIXの動きにも継続性が出やすくなります。一方で一部の値がさ株だけが上昇している場合は、市場全体の広がりが弱い可能性があります。次に見るべき点は、円相場、米国ハイテク株先物、出来高、海外投資家の買い姿勢です。決算やレーティング変更が材料の場合は、同業他社への波及も確認したいところです。指数寄与度の高い銘柄だけでなく、中小型株や内需株にも買いが広がるかを見ると、相場の持続力を判断しやすくなります。
+  中文：总结：相关公司和板块 把日本市场的焦点集中到半导体和 AI 产业链。日股中东京电子、Advantest、Kioxia、SoftBank Group 等常被视为 AI 基础设施和全球芯片周期的映射。如果海外芯片业绩或 AI 资本开支继续超预期，日经指数可能继续由高权重半导体股推动；同时也要留意日元和海外资金流向。实盘上还要结合日元汇率、外资买卖、美国科技股隔夜表现以及期货盘变化判断。如果日经上涨主要依赖少数半导体权重股，后续容易受海外芯片消息影响；如果汽车、金融、商社和中小盘也同步走强，说明市场宽度更健康。
+  📰 [BigGo ファイナンス](https://news.google.com/rss/articles/CBMidEFVX3lxTFBDSUdjQk9ENTNxbGc4ZFRJU3ZkalFSNU15YkkwWkl4aEhEcDRXdHROMDZpLXVKXy1vSE40THEtcXNhMmZsTFNLb2hjQVh1UU5QQk04NXR2RGxlZDc5SVh0ZFkycFNvZDdZakQ0cEphN3lHMWVu?oc=5)
+
+- **[2026.07.07] 日本投資機構株式会社 — 【2026年6月】日本株相場まとめ｜日経平均が史上初の7万円台突破、最高値更新後の急落も**
+  日本語：要約：日本投資機構株式会社の報道では、関連銘柄とセクターを中心に日本株の物色がどう広がるかが焦点です。半導体、AI、ソフトバンクグループ、輸出関連、金融などの主力株が同じ方向に動けば、日経平均やTOPIXの動きにも継続性が出やすくなります。一方で一部の値がさ株だけが上昇している場合は、市場全体の広がりが弱い可能性があります。次に見るべき点は、円相場、米国ハイテク株先物、出来高、海外投資家の買い姿勢です。決算やレーティング変更が材料の場合は、同業他社への波及も確認したいところです。指数寄与度の高い銘柄だけでなく、中小型株や内需株にも買いが広がるかを見ると、相場の持続力を判断しやすくなります。
+  中文：总结：相关公司和板块 反映日本股市当天的行业轮动和个股表现。对日股来说，指数变化往往由半导体、汽车、金融、商社和 SoftBank 等权重股共同决定。需要结合日元走势、海外科技股表现、日银政策预期和外资买卖，判断行情是单日事件驱动，还是更广泛的趋势延续。实盘上还要结合日元汇率、外资买卖、美国科技股隔夜表现以及期货盘变化判断。如果日经上涨主要依赖少数半导体权重股，后续容易受海外芯片消息影响；如果汽车、金融、商社和中小盘也同步走强，说明市场宽度更健康。
+  📰 [日本投資機構株式会社](https://news.google.com/rss/articles/CBMiX0FVX3lxTE96M05rSUp6SUk2SExDTnBTWjlJYllXTU01ZGYwaVYzVjB6OGhZQm9ZRHEyQkRiWHVXbEhoTkNlVVFKRGNFdGVYVFdhUGFEVVhBRjhyZDF4NllVbWUzcGZr?oc=5)
+
+- **[2026.07.07] 日本経済新聞 — 日経平均株価、続落 午前終値は889円安の6万8848円**
+  日本語：要約：日本経済新聞の報道では、関連銘柄とセクターを中心に日本株の物色がどう広がるかが焦点です。半導体、AI、ソフトバンクグループ、輸出関連、金融などの主力株が同じ方向に動けば、日経平均やTOPIXの動きにも継続性が出やすくなります。一方で一部の値がさ株だけが上昇している場合は、市場全体の広がりが弱い可能性があります。次に見るべき点は、円相場、米国ハイテク株先物、出来高、海外投資家の買い姿勢です。決算やレーティング変更が材料の場合は、同業他社への波及も確認したいところです。指数寄与度の高い銘柄だけでなく、中小型株や内需株にも買いが広がるかを見ると、相場の持続力を判断しやすくなります。
+  中文：总结：相关公司和板块 反映日本股市当天的行业轮动和个股表现。对日股来说，指数变化往往由半导体、汽车、金融、商社和 SoftBank 等权重股共同决定。需要结合日元走势、海外科技股表现、日银政策预期和外资买卖，判断行情是单日事件驱动，还是更广泛的趋势延续。实盘上还要结合日元汇率、外资买卖、美国科技股隔夜表现以及期货盘变化判断。如果日经上涨主要依赖少数半导体权重股，后续容易受海外芯片消息影响；如果汽车、金融、商社和中小盘也同步走强，说明市场宽度更健康。
+  📰 [日本経済新聞](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQY2tSYkpQa0QyR3RtbjRLVXl4QWFwYnpBbWRQeUhvUW5fbGJWYWF2cDljbHRxeU5fdW0yc003UjBON2kzSUUtVnE4RzlJel9LbEVkbjhGX1FtQVpRTEVOOVJYRURYcmwyVzM3MWZFQlVic0NsUnBpcUxOVURKaERNZnVTQ281Zm5RTlcxVF9uR2trQ1VFazlQQnZVSk0zZUtBQUsyQnVOdlQ?oc=5)
 
 ## 🌍 宏观经济与投资 / Macro & Investment
 
-Here are 8 recent news items about Macro & Investment for July 8, 2026:
+- **[2026.07.08] finance.biggo.com — Wall Street Veteran's Ultimate Prediction: AI Mania and High Rates — One Must Crumble in the Second Half**
+  English: Summary: finance.biggo.com highlights a cross-asset signal tied to the relevant assets and sectors. This matters because rates, currencies, commodities, and crypto all change the discount-rate and liquidity backdrop for risk assets. Watch the relevant assets and sectors together with Treasury yields, USD/JPY, oil, gold, and major equity futures. If these indicators reinforce each other, the stock-market trend has stronger confirmation; if they diverge, investors may be rotating between growth, defensives, inflation hedges, and cash.
+  中文：总结：相关公司和板块 正在影响美元、日元、美债收益率和全球风险资产定价。利率和汇率变化会通过折现率、企业融资成本和跨境资金流影响股票估值，尤其是高估值科技股和出口导向型日股。后续要观察 Fed 预期、美债收益率曲线、USD/JPY 以及黄金和比特币等避险/风险资产是否同步确认。实盘上要看该宏观信号是否同时影响美元、利率、商品和股指。如果美元与美债收益率继续上行，高估值科技股可能承压；如果黄金、原油或比特币与股市出现背离，则说明市场对通胀、避险或流动性的判断还不一致。
+  📰 [finance.biggo.com](https://news.google.com/rss/articles/CBMidkFVX3lxTE5WV0Mxd01ucFFsc1FOeGctQ0pMczZYWWtOdHdtUHhXTDFRMWJqQXZIWDMyR2tnNlo0dlFvNU9nQm1xODI5akRmdFptQ3VsNXlNYkxnaktDZjFvWXdSNkRTdjU2YW1UOE5ON0tPVjgzZjY0eEszWnc?oc=5)
 
-- **[2026.07.08] International Monetary Fund — 国际货币基金组织发布最新《世界经济展望》更新**
-  English: The International Monetary Fund (IMF) is set to release its July 2026 World Economic Outlook Update today, July 8, at 9:00 a.m. ET. This highly anticipated report will provide fresh projections and analysis of the global economy, offering updated assessments of economic developments, risks, and policy outlooks worldwide. Governments, central banks, and investors will closely monitor the update for insights into global growth, inflation trends, and financial stability amidst evolving challenges.
-  中文：总结：国际货币基金组织（IMF）将于今日（7月8日）美国东部时间上午9点发布2026年7月《世界经济展望》更新报告。这份备受期待的报告将提供全球经济的最新预测和分析，评估经济发展、风险及政策前景。各国政府、央行和投资者将密切关注此更新，以获取全球增长、通胀趋势和金融稳定方面的见解。
-  📰 [International Monetary Fund](https://www.imf.org/en/Publications/WEO/Issues/2026/07/08/world-economic-outlook-update-july-2026)
+- **[2026.07.07] MEXC — Fed rate cuts or higher rates: How to choose between oil, gold, and real estate investments in 2026**
+  English: Summary: MEXC highlights a cross-asset signal tied to Gold, Oil. This matters because rates, currencies, commodities, and crypto all change the discount-rate and liquidity backdrop for risk assets. Watch Gold, Oil together with Treasury yields, USD/JPY, oil, gold, and major equity futures. If these indicators reinforce each other, the stock-market trend has stronger confirmation; if they diverge, investors may be rotating between growth, defensives, inflation hedges, and cash.
+  中文：总结：Gold、Oil 正在影响美元、日元、美债收益率和全球风险资产定价。利率和汇率变化会通过折现率、企业融资成本和跨境资金流影响股票估值，尤其是高估值科技股和出口导向型日股。后续要观察 Fed 预期、美债收益率曲线、USD/JPY 以及黄金和比特币等避险/风险资产是否同步确认。实盘上要看该宏观信号是否同时影响美元、利率、商品和股指。如果美元与美债收益率继续上行，高估值科技股可能承压；如果黄金、原油或比特币与股市出现背离，则说明市场对通胀、避险或流动性的判断还不一致。
+  📰 [MEXC](https://news.google.com/rss/articles/CBMiSEFVX3lxTE13dUxURWtKaVRleUNqbnNDMXFYOFJnZ3htenlwSllabHZkcDRPWGVUeThBbGZQQl8xQUdGNUZwN2FEakdtN0VTWQ?oc=5)
 
-- **[2026.07.08] Federal Reserve — 美联储公布6月FOMC会议纪要**
-  English: The U.S. Federal Reserve will release the minutes from its June 16-17 Federal Open Market Committee (FOMC) meeting today, July 8. These minutes are keenly awaited by investors for clues on the Fed's future monetary policy direction, especially after the central bank held rates steady at 3.50%-3.75% in June but maintained a hawkish tone. The details within the minutes could signal whether the Fed is leaning towards another rate hike later in 2026 or a prolonged pause, influencing interest rate expectations and market sentiment.
-  中文：总结：美国联邦储备委员会将于今日（7月8日）公布6月16-17日联邦公开市场委员会（FOMC）会议纪要。投资者正密切关注此次纪要，以寻找美联储未来货币政策走向的线索，尤其是在6月会议维持利率不变但基调偏鹰派之后。纪要中的细节可能预示美联储是倾向于在2026年晚些时候再次加息，还是会长期暂停加息，这将影响利率预期和市场情绪。
-  📰 [TradingView](https://www.tradingview.com/news/reuters:auto:fomc-minutes-july-8-will-the-fomc-signal-a-rate-cut-or-another-hike-X38444321/)
+- **[2026.07.07] Bitcoin World — Gold Holds Near Daily Lows As Rising Yields And Firm Dollar Offset Geopolitical Tensions**
+  English: Summary: Bitcoin World highlights a cross-asset signal tied to Gold. This matters because rates, currencies, commodities, and crypto all change the discount-rate and liquidity backdrop for risk assets. Watch Gold together with Treasury yields, USD/JPY, oil, gold, and major equity futures. If these indicators reinforce each other, the stock-market trend has stronger confirmation; if they diverge, investors may be rotating between growth, defensives, inflation hedges, and cash.
+  中文：总结：Gold 正在影响美元、日元、美债收益率和全球风险资产定价。利率和汇率变化会通过折现率、企业融资成本和跨境资金流影响股票估值，尤其是高估值科技股和出口导向型日股。后续要观察 Fed 预期、美债收益率曲线、USD/JPY 以及黄金和比特币等避险/风险资产是否同步确认。实盘上要看该宏观信号是否同时影响美元、利率、商品和股指。如果美元与美债收益率继续上行，高估值科技股可能承压；如果黄金、原油或比特币与股市出现背离，则说明市场对通胀、避险或流动性的判断还不一致。
+  📰 [Bitcoin World](https://news.google.com/rss/articles/CBMifEFVX3lxTE44dUswNVVFaGdOclhFOHFCNm5HTU1xRW9wd2xOaWhzVVl2LVR1aGF3Y3RNTnltVENCRDBnU0lDZ0h0YzZQY1hwc1lOMGZ6SXoyUDJuQ0RDTGh1WWVMdlV0bUhoemMyQVBoTXRSNjAzYUd1Y2FOdlh6UXN6WWg?oc=5)
 
-- **[2026.07.08] Bitcoin — 比特币期权在FOMC会议纪要发布前看涨情绪浓厚**
-  English: Bitcoin (BTC) options expiring today, July 8, have shown a call-heavy bias, indicating traders are positioning for higher prices. This expiry coincides with the release of the Federal Reserve's June FOMC minutes. Despite Bitcoin's spot price hovering near $62,645, the build-up in call volume suggests early optimism may be returning to the crypto market, with significant call bets placed above the $69,000 strike. The FOMC minutes could act as a catalyst, potentially influencing Bitcoin's short-term trajectory.
-  中文：总结：今日（7月8日）到期的比特币（BTC）期权呈现看涨倾向，表明交易者正在为价格上涨做准备。此次期权到期恰逢美联储6月FOMC会议纪要发布。尽管比特币现货价格徘徊在62,645美元附近，但看涨期权交易量的增加表明市场可能正在恢复早期乐观情绪，大量看涨押注集中在69,000美元上方。FOMC会议纪要可能成为催化剂，影响比特币的短期走势。
-  📰 [Mitrade](https://www.mitrade.com/news/bitcoin-options-turn-call-heavy-before-july-8-fomc-minutes-will-btc-break-63000)
+- **[2026.07.07] Bitget — Market sentiment shifts sharply: Oil prices fall, tech stocks rise, yen nears intervention threshold—global markets enter a crucial week**
+  English: Summary: Bitget highlights a cross-asset signal tied to Oil. This matters because rates, currencies, commodities, and crypto all change the discount-rate and liquidity backdrop for risk assets. Watch Oil together with Treasury yields, USD/JPY, oil, gold, and major equity futures. If these indicators reinforce each other, the stock-market trend has stronger confirmation; if they diverge, investors may be rotating between growth, defensives, inflation hedges, and cash.
+  中文：总结：Oil 正在影响美元、日元、美债收益率和全球风险资产定价。利率和汇率变化会通过折现率、企业融资成本和跨境资金流影响股票估值，尤其是高估值科技股和出口导向型日股。后续要观察 Fed 预期、美债收益率曲线、USD/JPY 以及黄金和比特币等避险/风险资产是否同步确认。实盘上要看该宏观信号是否同时影响美元、利率、商品和股指。如果美元与美债收益率继续上行，高估值科技股可能承压；如果黄金、原油或比特币与股市出现背离，则说明市场对通胀、避险或流动性的判断还不一致。
+  📰 [Bitget](https://news.google.com/rss/articles/CBMiY0FVX3lxTE9wbThvS1VVR3h3TGZzSVBiQXMxV1FDWkR4aE5GekxreXYzWmw0aUR4aTF3WXU1Z0V2RjBIaGhfQzZ2RGdjUXQ3UkZvaWJzYk43UFdTNU5ORTR4RDJTOXVPeTNzb9IBY0FVX3lxTE9wbThvS1VVR3h3TGZzSVBiQXMxV1FDWkR4aE5GekxreXYzWmw0aUR4aTF3WXU1Z0V2RjBIaGhfQzZ2RGdjUXQ3UkZvaWJzYk43UFdTNU5ORTR4RDJTOXVPeTNzbw?oc=5)
 
-- **[2026.07.08] Crude Oil — 原油价格预测显示积极偏向**
-  English: Crude oil price predictions for today, Wednesday, July 8, 2026, indicate a range-bound market with a positive bias. MCX Crude Oil 20 July futures are expected to trade within the Rs 6,575 to Rs 6,645 band, with immediate support at Rs 6,575. The contract edged higher in the previous session as supply expectations stabilized. The reopening of the US market is considered a key external trigger, with fresh dollar index, yield, and global benchmark readings expected to influence MCX prices.
-  中文：总结：今日（2026年7月8日，星期三）原油价格预测显示市场将呈区间震荡并带有积极偏向。MCX原油7月20日期货预计在6,575至6,645卢比之间交易，即时支撑位在6,575卢比。前一交易日，由于供应预期稳定，合约小幅上涨。美国市场重新开盘被视为关键外部触发因素，新的美元指数、收益率和全球基准读数预计将影响MCX价格。
-  📰 [Univest](https://univest.in/blog/crude-oil-price-prediction-for-tomorrow-7-july-mcx-levels/)
+- **[2026.07.07] equiti.com — gold-prices-blocked-central-bank-demand-vs-fed-rate-hike-risks**
+  English: Summary: equiti.com highlights a cross-asset signal tied to Gold. This matters because rates, currencies, commodities, and crypto all change the discount-rate and liquidity backdrop for risk assets. Watch Gold together with Treasury yields, USD/JPY, oil, gold, and major equity futures. If these indicators reinforce each other, the stock-market trend has stronger confirmation; if they diverge, investors may be rotating between growth, defensives, inflation hedges, and cash.
+  中文：总结：Gold 正在影响美元、日元、美债收益率和全球风险资产定价。利率和汇率变化会通过折现率、企业融资成本和跨境资金流影响股票估值，尤其是高估值科技股和出口导向型日股。后续要观察 Fed 预期、美债收益率曲线、USD/JPY 以及黄金和比特币等避险/风险资产是否同步确认。实盘上要看该宏观信号是否同时影响美元、利率、商品和股指。如果美元与美债收益率继续上行，高估值科技股可能承压；如果黄金、原油或比特币与股市出现背离，则说明市场对通胀、避险或流动性的判断还不一致。
+  📰 [equiti.com](https://news.google.com/rss/articles/CBMirgFBVV95cUxPYldQb0hERDlCbkVMaFVNRmNfZkIxS1lCUDNHN2Qzc05TMGliMG92NEJKTnhKSlpudlZ5NE4tUGx5Nm1yTVVJOGdEUGRkTWR0OGExWWhMeGxSaWZRRVlodExlRkNnM2FOQzFId3dRQnE4RkRZeldBbXdDRS1ENlVXU214Rl9RSkoxb3VhUll1Z3hleDVTSW4wMGtNemVJZURiNFJFU2NJdVg4N2puaGc?oc=5)
 
-- **[2026.07.08] Gold (XAU/USD) — 黄金价格面临下行压力，等待美联储纪要**
-  English: Gold (XAU/USD) is expected to continue declining today, July 8, 2026, with forecasts indicating a bearish outlook. The precious metal is under pressure below $4,200 as investors take profits ahead of the Federal Reserve meeting minutes. Technical analysis suggests a bearish shift, with prices likely to test support levels at $4,100 and $4,070. While cooling U.S. labor data and easing inflation concerns have offered some support, the market remains cautious, awaiting further clarity from the Fed's policy signals.
-  中文：总结：今日（2026年7月8日）黄金（XAU/USD）价格预计将继续下跌，预测显示看跌前景。在美联储会议纪要发布前，投资者获利了结，金价在4,200美元下方承压。技术分析表明看跌趋势，价格可能测试4,100美元和4,070美元的支撑位。尽管美国劳动力数据降温和通胀担忧缓解提供了一些支撑，但市场仍保持谨慎，等待美联储政策信号的进一步明确。
-  📰 [TradingKey](https://www.tradingkey.com/news/gold-price-forecast-gold-under-pressure-below-4200-as-market-awaits-fed-minutes-20260706203635905)
+- **[2026.07.07] Bitcoin World — Gold Holds Near Daily Low As Rising US Bond Yields Lift Dollar Amid Hormuz Tensions**
+  English: Summary: Bitcoin World highlights a cross-asset signal tied to Gold. This matters because rates, currencies, commodities, and crypto all change the discount-rate and liquidity backdrop for risk assets. Watch Gold together with Treasury yields, USD/JPY, oil, gold, and major equity futures. If these indicators reinforce each other, the stock-market trend has stronger confirmation; if they diverge, investors may be rotating between growth, defensives, inflation hedges, and cash.
+  中文：总结：Gold 正在影响美元、日元、美债收益率和全球风险资产定价。利率和汇率变化会通过折现率、企业融资成本和跨境资金流影响股票估值，尤其是高估值科技股和出口导向型日股。后续要观察 Fed 预期、美债收益率曲线、USD/JPY 以及黄金和比特币等避险/风险资产是否同步确认。实盘上要看该宏观信号是否同时影响美元、利率、商品和股指。如果美元与美债收益率继续上行，高估值科技股可能承压；如果黄金、原油或比特币与股市出现背离，则说明市场对通胀、避险或流动性的判断还不一致。
+  📰 [Bitcoin World](https://news.google.com/rss/articles/CBMiigFBVV95cUxPQjFRUmR5X1VEWk55YmpPSVhibnRoZ3M3WnlRZTNwcERQMzFERk1tY2VXRjhmanlqT2M1WkwyVUJoZmdndWhEZ19iZTJJdEIySktBazdpcmk3SU5fTmdNcDRSTFpDb3NoRWV4dlJVbmI0VldKMmF3Slc4WU9wcjdvTFdQSXhrdHYxaGc?oc=5)
 
-- **[2026.07.08] USD/JPY — 美元/日元汇率预测显示小幅下跌**
-  English: The USD/JPY exchange rate is forecasted to experience a slight decrease today, July 8, 2026, with predictions suggesting a -0.20% change to ¥161.60. Despite this short-term dip, the broader market analysis anticipates a positive trend for USD/JPY in July, with a forecasted price range between ¥161.21 and ¥164.30 for the month. Goldman Sachs recently raised its 12-month USD/JPY forecast to 165, reflecting a bearish outlook for the Japanese Yen amid persistent weakness.
-  中文：总结：今日（2026年7月8日）美元/日元汇率预计将小幅下跌，预测显示可能下跌0.20%至161.60日元。尽管短期内有所回调，但更广泛的市场分析预计美元/日元在7月份将呈现积极趋势，月度预测价格区间在161.21至164.30日元之间。高盛近期将其12个月美元/日元预测上调至165，反映出在日元持续疲软背景下对日元的看跌展望。
-  📰 [CoinCodex](https://coincodex.com/forex/usd-jpy/forecast/)
+- **[2026.07.07] FXStreet — Gold remains depressed as rising yields clash with soft Fed bets**
+  English: Summary: FXStreet highlights a cross-asset signal tied to Gold. This matters because rates, currencies, commodities, and crypto all change the discount-rate and liquidity backdrop for risk assets. Watch Gold together with Treasury yields, USD/JPY, oil, gold, and major equity futures. If these indicators reinforce each other, the stock-market trend has stronger confirmation; if they diverge, investors may be rotating between growth, defensives, inflation hedges, and cash.
+  中文：总结：Gold 正在影响美元、日元、美债收益率和全球风险资产定价。利率和汇率变化会通过折现率、企业融资成本和跨境资金流影响股票估值，尤其是高估值科技股和出口导向型日股。后续要观察 Fed 预期、美债收益率曲线、USD/JPY 以及黄金和比特币等避险/风险资产是否同步确认。实盘上要看该宏观信号是否同时影响美元、利率、商品和股指。如果美元与美债收益率继续上行，高估值科技股可能承压；如果黄金、原油或比特币与股市出现背离，则说明市场对通胀、避险或流动性的判断还不一致。
+  📰 [FXStreet](https://news.google.com/rss/articles/CBMizwFBVV95cUxOQmgzYWUwR3hLc08zUHlBOFFuUzlkMHEwMnlxM3FrTlhFUzgtZEI4cXNVR21ndDBXSC1oSjRhbU1iRFk5VGRDcjk5cFJpTVZVX2VOaXFHSFNjTTg2bW5sLTcyczg2YjdCdkd4TC1uUDVoNHlPLUdySG5OdUJIajhKRzIyNWFwc05fWkNIS0dpcTVRWDFadDVueXlqUmVBcldGQ3ZFZDBLT3NGUk5IOTN0M1UxZmFVUEs0NjJwRXFjcmczT1A5V3NxLWIwaU1LbU0?oc=5)
 
-- **[2026.07.08] Nikkei 225 — 日经225指数面临波动，关注AI过热担忧**
-  日本語：日経平均株価は、7月に入りAIおよび半導体関連株への過剰投資懸念が市場に重くのしかかり、引き続き高値圏でのボラティリティの高い取引が予想されます。6月には3ヶ月連続で過去最高値を更新しましたが、TOPIXの上昇は限定的であり、AI関連銘柄への集中が顕著でした。今週はIMFの世界経済見通し（8日）や国内企業決算、日米金融政策の動向が注目され、特に半導体株の動向が市場全体の方向性を左右する可能性があります。
-  中文：总结：进入7月，日经225指数预计将继续面临高波动性，主要受人工智能和半导体相关股票过度投资担忧的影响。尽管6月该指数连续第三个月创下历史新高，但TOPIX指数涨幅有限，显示出涨势集中在少数AI相关股票。本周市场将关注国际货币基金组织（IMF）于8日发布的世界经济展望、日本国内企业财报以及日美货币政策走向，其中半导体股的走势可能决定市场整体方向。
-  📰 [Trading Economics](https://tradingeconomics.com/japan/stock-market)
-
-- **[2026.07.08] S&P 500 — 标普500指数展望积极，第二季度财报季开启**
-  English: The S&P 500 Index is entering July with a positive outlook, despite a slight dip in June, as the Q2 2026 earnings season kicks off. Analysts are optimistic about strong corporate results, with an estimated average earnings growth of 22%, historically potentially exceeding 30%. Technology and financial sectors are expected to lead this growth. While Fundstrat's Tom Lee projects the S&P 500 could reach 8,000 by year-end, he also warns of a potential 10-20% pullback between August and October, emphasizing the importance of upcoming earnings and Federal Reserve signals.
-  中文：总结：尽管6月略有下跌，标普500指数在第二季度财报季开启之际，7月展望积极。分析师对强劲的企业业绩持乐观态度，预计平均盈利增长率为22%，历史经验表明可能超过30%。科技和金融板块有望引领增长。Fundstrat的Tom Lee预测标普500指数年底可能达到8,000点，但也警告8月至10月可能出现10-20%的回调，强调即将到来的财报和美联储信号的重要性。
-  📰 [INDmoney](https://www.indmoney.com/articles/sp-500-price-prediction-2026)
+- **[2026.07.07] Mitrade — Silver Price Forecast: XAG/USD rally stalls, sellers eye $60.00**
+  English: Summary: Mitrade highlights a cross-asset signal tied to the relevant assets and sectors. This matters because rates, currencies, commodities, and crypto all change the discount-rate and liquidity backdrop for risk assets. Watch the relevant assets and sectors together with Treasury yields, USD/JPY, oil, gold, and major equity futures. If these indicators reinforce each other, the stock-market trend has stronger confirmation; if they diverge, investors may be rotating between growth, defensives, inflation hedges, and cash.
+  中文：总结：相关公司和板块 提供了判断股市趋势的背景变量。它需要和指数、行业轮动、汇率、利率和商品价格一起观察，才能判断资金是在追逐风险，还是降低仓位。对当天交易来说，最重要的是看该信号是否被美股科技股、日股半导体股和美元日元走势共同验证。实盘上要看该宏观信号是否同时影响美元、利率、商品和股指。如果美元与美债收益率继续上行，高估值科技股可能承压；如果黄金、原油或比特币与股市出现背离，则说明市场对通胀、避险或流动性的判断还不一致。
+  📰 [Mitrade](https://news.google.com/rss/articles/CBMilwFBVV95cUxPRU9HTVMtY1dXaElWdWRBR1lSSE9ac1pySm44eGJqd1d3T3lUNThGempoUllpalNEbXZkNkdjc2hkRGJaM3RIN1ZrQjNQRnFYODlUbG9IX0hDMjZkbGQ1Z3Y0SXdnOHRnUllEWWtUT3FiVkpKWkR0SkxvR2NiWVJGcGhYaTRCZ2NUczgxZjBKME11VEFQTGI4?oc=5)
 
 ---
 ※Stock Market Daily Digest | 2026.07.08
