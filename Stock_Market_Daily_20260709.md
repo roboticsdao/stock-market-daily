@@ -7,101 +7,118 @@
 
 ## 🇺🇸 美国股市 / US Market
 
-- **[2026.07.09] US Market — 中东冲突拖累美股，纳指逆势上涨**
-  English: The US stock market closed mixed on July 8th, with the Dow Jones Industrial Average falling 1.09% and the S&P 500 dropping 0.28%, primarily due to renewed Middle East conflict concerns following President Trump's statements on Iran. This geopolitical tension also led to a surge in international oil prices, with Brent crude rising over 5%. Conversely, the tech-heavy Nasdaq Composite managed a modest 0.20% gain, buoyed by strong performances in key tech stocks. The market's sensitivity to global events and energy costs remains a key factor for investors.
-  中文：总结：7月8日美国股市收盘涨跌互现，道琼斯工业平均指数下跌1.09%，标普500指数下跌0.28%。这主要是受中东冲突升级担忧的影响，特朗普总统关于伊朗的言论加剧了市场不确定性，并推动国际油价飙升超过5%。然而，科技股为主的纳斯达克综合指数小幅上涨0.20%，显示出科技板块的韧性。市场对地缘政治风险和能源成本高度敏感。
-  📰 [CHOSUNBIZ](https://biz.chosun.com/international/international_economy/2026/07/09/20260709A0001.html)
+Here are 8 recent news items regarding the US stock market as of July 9, 2026:
 
-- **[2026.07.09] NVIDIA — 英伟达股价反弹，估值触及11年低点**
-  English: NVIDIA shares rebounded strongly on July 8th, climbing 3.7%, as Wall Street analysts highlighted the stock's undervaluation after nearly two months of correction. The rally was further fueled by reports that China plans to allow its top AI firms to purchase a limited number of NVIDIA's H200 chips, signaling renewed sales potential in a key market. Despite recent shifts in AI investment focus towards memory semiconductors, NVIDIA's forward P/E ratio of 18.69x, the lowest in 11 years, suggests a compelling buying opportunity for investors.
-  中文：总结：7月8日，英伟达股价强劲反弹3.7%，此前经历近两个月调整后，华尔街分析师指出其估值被低估。此外，有报道称中国计划允许其顶级人工智能公司有限购买英伟达H200芯片，这预示着关键市场的销售潜力。尽管近期AI投资焦点转向内存芯片，但英伟达18.69倍的远期市盈率（11年来最低）表明其具有吸引力的买入机会。
-  📰 [Invezz](https://invezz.com/news/2026/07/09/nvidia-stock-hits-key-support-forms-bullish-pattern-as-key-valuation-metric-dips/)
+- **[2026.07.09] US Market — 纳斯达克期货上涨，科技股在地缘政治紧张局势下表现出韧性**
+  English: US stock futures were mixed on Thursday, July 9, 2026, as investors weighed escalating geopolitical tensions in the Middle East against the resilience of tech stocks. Nasdaq futures saw a rise of 0.61%, buoyed by strong performance in the technology sector, while the S&P 500 futures also edged higher by 0.21%. In contrast, Dow Jones Industrial Average futures experienced a slight decline of 0.1%. This divergence highlights a market where tech-driven optimism is contending with broader geopolitical uncertainties and a spike in oil prices, which had weighed on markets the previous day.
+  中文：总结：2026年7月9日，美国股市期货表现不一，投资者权衡中东地缘政治紧张局势与科技股的韧性。纳斯达克期货上涨0.61%，受科技板块强劲表现提振，而标普500期货也小幅上涨0.21%。道琼斯工业平均指数期货则略有下跌。市场在科技乐观情绪与地缘政治不确定性之间摇摆。
+  📰 [TheStreet](https://www.thestreet.com/markets/stock-market-today-july-9-2026-nasdaq-futures-rise-as-us-iran-conflict-escalates)
 
-- **[2026.07.09] Federal Reserve — 美联储会议纪要暗示2026年无降息，加息可能性上升**
-  English: The Federal Reserve's June FOMC minutes, released July 8th, suggest no interest rate cuts before early 2027, with a nearly 70% probability of a rate hike by September 2026. This reflects persistent inflation concerns and robust economic conditions, despite some officials viewing current policy as too restrictive. The market is now pricing in only a 21% chance of a Fed rate cut in 2026, signaling a shift in expectations towards prolonged restrictive monetary policy or even further tightening.
-  中文：总结：7月8日公布的美联储6月FOMC会议纪要显示，美联储预计在2027年初之前不会降息。鉴于持续的通胀担忧，市场对2026年9月加息的预期升至近70%。尽管部分官员认为当前政策过于紧缩，但整体基调偏鹰派。目前市场预计2026年降息的可能性仅为21%，表明对维持限制性货币政策或进一步收紧的预期增强。
-  📰 [Forbes](https://www.forbes.com/sites/tyroush/2026/07/08/fed-likely-wont-cut-interest-rates-this-year-minutes-show/)
+- **[2026.07.09] Federal Reserve — 美联储7月会议预计不会降息，加息可能性上升**
+  English: The Federal Reserve is highly unlikely to cut interest rates at its July 29, 2026 meeting, with futures trading indicating a 0% probability of a cut. The market's focus has shifted to whether rates will remain steady or increase, with a 74.9% chance of rates holding in the 3.50%-3.75% range and a 25.1% chance of a quarter-point hike. This hawkish stance is driven by persistent inflation, with May's CPI at 4.2% year-over-year, and a resilient labor market. New Fed Chair Kevin Warsh has also ended explicit forward guidance, emphasizing a data-dependent approach.
+  中文：总结：市场预计美联储在2026年7月29日的会议上不会降息，降息概率为0%。相反，市场普遍认为利率将维持不变，甚至有25.1%的可能性上调25个基点。通胀持续高企和劳动力市场韧性是美联储维持鹰派立场的主要原因。
+  📰 [The Motley Fool](https://www.fool.com/investing/2026/07/09/will-the-fed-cut-rates-in-july-2026-heres-what-the/)
 
-- **[2026.07.09] Apple & Broadcom — 苹果与博通达成300亿美元芯片采购协议**
-  English: Apple announced a significant multi-year agreement on July 8th to purchase at least $30 billion worth of chips from Broadcom. This deal provided a substantial boost to Broadcom, whose shares rallied nearly 5%, and also saw Apple's stock gain almost 1%. The agreement highlights Apple's strategic efforts to secure critical components amidst a competitive semiconductor market and underscores the ongoing demand for high-performance chips, particularly for AI-related functionalities. This partnership is expected to strengthen both companies' positions in the tech supply chain.
-  中文：总结：苹果公司于7月8日宣布与博通达成一项重要的多年期协议，将采购至少300亿美元的芯片。受此消息提振，博通股价上涨近5%，苹果股价也上涨近1%。该协议凸显了苹果在竞争激烈的半导体市场中确保关键组件的战略努力，并强调了对高性能芯片（尤其是AI相关功能）的持续需求。此次合作预计将加强两家公司在科技供应链中的地位。
-  📰 [CHOSUNBIZ](https://biz.chosun.com/international/international_economy/2026/07/09/20260709A0001.html)
+- **[2026.07.09] Amazon (AMZN) — 亚马逊斥资250亿美元债券用于AI基础设施建设，分析师上调目标价**
+  English: Amazon.com, Inc. (AMZN) is navigating a complex financial landscape, with its stock trading around $243.62 as of July 9, 2026. The company recently undertook a massive $25 billion bond offering to fund a large-scale artificial intelligence (AI) infrastructure buildout, a move that has generated both excitement for future capabilities and concerns regarding immediate cash flow. Despite some short-term pressures, Goldman Sachs maintained a "Buy" rating and increased its price target for AMZN from $325 to $335, citing strong growth in Amazon Web Services (AWS) and record Prime Day sales.
+  中文：总结：亚马逊公司（AMZN）股价在2026年7月9日交易于243.62美元附近。该公司通过250亿美元的债券发行，旨在大规模投资AI基础设施建设。尽管短期内面临现金流压力，高盛仍维持“买入”评级，并将亚马逊的目标价上调至335美元，主要得益于AWS的强劲增长和Prime Day的创纪录销售。
+  📰 [Watcher Guru](https://watcher.guru/news/goldman-sachs-increases-amazon-stock-price-target-see-new-forecast)
 
-- **[2026.07.09] Tesla — 特斯拉Robotaxi扩展至迈阿密，Q2交付量超预期**
-  English: Tesla's stock saw renewed attention on July 8th following the expansion of its Robotaxi service into Miami and better-than-expected second-quarter vehicle deliveries. The company reported 480,126 deliveries, surpassing analyst expectations. While record deliveries previously led to stock dips, the market's focus is increasingly shifting towards Tesla's autonomous driving and robotics ventures, such as the Cybercab and Optimus humanoid robot. The Miami Robotaxi rollout, though phased, signals Tesla's long-term technology roadmap and its ambition to transform into an AI technology company.
-  中文：总结：7月8日，特斯拉股价再次受到关注，此前其Robotaxi服务扩展至迈阿密，且第二季度车辆交付量超出预期，达到480,126辆。尽管此前创纪录的交付量曾导致股价下跌，但市场焦点正日益转向特斯拉的自动驾驶和机器人业务，如Cybercab和Optimus人形机器人。迈阿密Robotaxi的推出，尽管是分阶段进行，但预示着特斯拉的长期技术路线图及其转型为AI科技公司的雄心。
-  📰 [Kalkine Media](https://kalkinemedia.com/us/news/stock-market-news/tesla-nasdaqtsla-robotaxi-miami-launch-lifts-market-buzz)
+- **[2026.07.09] Tesla (TSLA) — 特斯拉Q2交付量超预期，被重新定义为AI基础设施平台**
+  English: Tesla (TSLA) delivered 480,126 vehicles and deployed 13.5 GWh of storage in Q2, significantly beating analyst estimates. This strong delivery performance is bolstering the investment case for the stock, with RBC Capital's top analyst, Tom Narayan, reframing Tesla as an AI infrastructure platform, integrating vehicles, batteries, chips, Robotaxis, and humanoids into a massive ecosystem. Narayan raised his price target to $500 from $475. However, some analysts like Gary Black express concerns about Tesla's stretched valuation, with a 2026 P/E ratio of 205x.
+  中文：总结：特斯拉（TSLA）第二季度交付量达到480,126辆，远超市场预期。RBC Capital分析师将特斯拉重新定义为AI基础设施平台，并将其目标价上调至500美元。尽管交付数据亮眼，但部分分析师对特斯拉高达205倍的2026年市盈率表示担忧。
+  📰 [TheStreet](https://www.thestreet.com/investing/stocks/tesla-stock-gets-a-surprising-spacex-reset)
 
-- **[2026.07.09] Microsoft — 微软重组劳动力以聚焦AI和云服务**
-  English: Microsoft announced a significant workforce restructuring on July 8th, impacting thousands of employees across commercial sales and Xbox operations. This strategic move aims to realign resources towards artificial intelligence infrastructure, cloud services, and productivity tools, reflecting the company's intensified focus on AI-led growth. Despite the broader technology sector showing firmer activity, Microsoft's shares moved lower after the announcement, indicating market caution regarding the near-term impact of large-scale organizational changes on product timelines and business continuity.
-  中文：总结：微软于7月8日宣布进行大规模劳动力重组，影响商业销售和Xbox运营部门的数千名员工。此举旨在将资源重新分配至人工智能基础设施、云服务和生产力工具，反映了公司对AI驱动增长的强化关注。尽管科技板块整体表现强劲，但微软股价在消息公布后下跌，表明市场对大规模组织变革可能对产品发布和业务连续性造成的短期影响持谨慎态度。
-  📰 [Kalkine Media](https://kalkinemedia.com/us/news/stock-market-news/bluechip-stocks-to-watch-as-microsoft-reshapes-workforce)
+- **[2026.07.09] Apple (AAPL) — 苹果与博通达成300亿美元芯片协议，强化供应链和AI投资**
+  English: Apple (AAPL) shares climbed nearly 1% on July 9, 2026, following the formal announcement of a long-discussed $30 billion chip supply agreement with Broadcom. This multiyear partnership is seen as a significant move to improve Apple's supply chain resiliency, reduce reliance on overseas suppliers, and strengthen its domestic manufacturing story. Wall Street views this deal as a clear indication of Apple's aggressive investment in long-term chip and AI infrastructure, which is expected to support future product launches and margin stability.
+  中文：总结：苹果公司（AAPL）股价在2026年7月9日上涨近1%，此前正式宣布与博通达成一项价值300亿美元的芯片供应协议。此举被视为苹果加强供应链韧性、减少对海外供应商依赖以及投资长期芯片和AI基础设施的重要战略，预计将支持未来的产品发布和利润稳定性。
+  📰 [The Daily Upside](https://www.thedailyupside.com/p/apple-edges-closer-to-dethroning-nvidia)
+
+- **[2026.07.09] Microsoft (MSFT) — 微软AI业务强劲增长，但面临企业自研软件挑战**
+  English: Microsoft (MSFT) stock has declined 21% year-to-date in 2026, hitting a 1-year low, but is now seen by some as a buying opportunity due to its strong position in the artificial intelligence (AI) space. Microsoft Azure is experiencing rapid growth, with 40% revenue growth in its last quarter, driven by companies renting computing resources for AI applications. However, concerns are emerging as companies like Starbucks are expanding their use of AI to develop in-house software, potentially reducing demand for enterprise software vendors like Microsoft and IBM.
+  中文：总结：微软（MSFT）股价在2026年迄今已下跌21%，触及一年低点，但因其在AI领域的强大实力被视为买入机会。微软Azure云业务增长强劲，上季度营收增长40%。然而，星巴克等公司利用AI开发内部软件的趋势，可能对微软等企业软件供应商的需求构成挑战。
+  📰 [The Motley Fool](https://www.fool.com/investing/2026/07/09/microsoft-just-hit-a-1-year-low-heres-why-youll-reg/)
+
+- **[2026.07.09] NVIDIA (NVDA) — 英伟达股价小幅上涨，AI芯片市场前景乐观**
+  English: NVIDIA Corp. (NVDA) stock was up slightly in Thursday's premarket session, attempting to stabilize after its June pullback, as improving risk sentiment lifted large-cap technology stocks. The company continues to be a central player in the AI market, with Jim Cramer highlighting its opportunities in "neoclouds" – outfits focused on getting AI factories online and making GPUs usable. Analysts maintain a "Buy" consensus rating for NVIDIA, with an average price forecast of $323.83, reflecting optimism about its strong growth and business quality in the AI chip sector.
+  中文：总结：英伟达（NVDA）股价在周四盘前小幅上涨，在6月回调后试图企稳，受风险情绪改善提振。该公司在AI市场中仍扮演核心角色，分析师普遍维持“买入”评级，平均目标价为323.83美元，反映了对其在AI芯片领域强劲增长和业务质量的乐观预期。
+  📰 [Benzinga](https://www.benzinga.com/news/26/07/27986047/whats-going-on-with-nvidia-stock-thursday)
+
+- **[2026.07.09] AI Stocks / Nasdaq — 科技股波动性达23年新高，AI股票持续吸引资金流入**
+  English: Technology stocks are experiencing one of their most volatile periods in over two decades, with options markets pricing significantly larger swings in the Nasdaq 100 compared to the broader S&P 500. Despite this heightened volatility, US technology funds attracted $14.3 billion in the week ended July 1, marking the second-largest weekly inflow on record. This indicates continued investor confidence in the long-term growth potential of AI and tech, with stocks like Micron Technology and Broadcom showing strong upward momentum.
+  中文：总结：科技股正经历二十多年来波动性最高的时期，纳斯达克100指数的波动幅度显著大于标普500指数。尽管波动性加剧，美国科技基金在7月1日结束的一周内吸引了143亿美元的资金流入，创下历史第二高纪录，显示投资者对AI和科技股的长期增长潜力仍抱有信心。
+  📰 [Benzinga](https://www.benzinga.com/news/26/07/27985956/tech-stock-volatility-hits-23-year-high-as-nasdaq-swings-outpace-s-p-500)
 
 ## 🇯🇵 日本株式市場 / Japan Market
 
 以下は、2026年7月9日の日本株式市場に関する最新ニュースです。
 
-- **[2026.07.09] 日経平均株価 — 米半導体株高を受け大幅反発**
-  日本語：9日の東京株式市場で日経平均株価は大幅に反発し、一時1000円超上昇して6万7800円台で推移しました。前日の米国市場でハイテク株、特にフィラデルフィア半導体株指数（SOX指数）が2％超上昇した流れを引き継ぎ、半導体やAI関連株を中心に買い戻しが強まりました。日経平均は前日までの3日間で約3000円下落していたため、押し目買いや自律反発狙いの買いが入りやすかったとみられます。しかし、中東情勢の緊迫化や原油価格の上昇は引き続き懸念材料として意識されています。
-  中文：总结：9日东京股市日经平均指数大幅反弹，一度上涨超过1000日元，交投于67800日元区间。受前一日美国科技股，特别是费城半导体指数（SOX指数）上涨超过2%的带动，半导体和AI相关股票的买盘回升。此前日经指数连续三天下跌近3000日元，因此逢低买入和技术性反弹的买盘容易入场。然而，中东局势紧张和原油价格上涨仍是市场关注的担忧因素。
-  📰 [みんかぶ](https://www.google.com/search?q=Japan)
+- **[2026.07.09] 日経平均株価 — 日经指数大幅反弹，半导体相关股票领涨**
+  日本語：9日の日本株式市場では、日経平均株価が4営業日ぶりに大幅反発し、終値は前日比924円80銭高の67,743円85銭となった。前日の米国市場で半導体関連株が上昇した流れを受け、東京市場でもアドバンテストや東京エレクトロン、キオクシアホールディングスなどのハイテク・半導体関連銘柄に買いが集中した。一時1,600円を超える上げ幅を見せたものの、後場は伸び悩んだ。中東情勢の緊迫化による原油高や長期金利上昇への懸念が残る中、AI関連株への資金集中が相場を牽引した形だ。
+  中文：7月9日，日本股市日经指数在连续三天下跌后大幅反弹924.80日元，收于67,743.85点。受前夜美国半导体股上涨提振，东京市场半导体及AI相关股票如爱德万测试、东京电子等受到追捧。尽管盘中一度上涨超1600点，但午后涨幅收窄。中东局势紧张和长期利率上升的担忧仍在，但资金集中流向AI相关股票支撑了市场。
+  📰 [株探ニュース](https://kabutan.jp/news/market/?b=k202607090251)
 
-- **[2026.07.09] TOPIX — 日経平均に追随し反発、半導体関連株が牽引**
-  日本語：9日のTOPIX（東証株価指数）先物9月限は、前日清算値比24ポイント高の4031ポイントで寄り付きました。前日のTOPIX現物終値4006.43ポイントに対し、24.57ポイント高となりました。日経平均株価の大幅反発に追随する形で、幅広い銘柄に買いが広がり、特に半導体関連株やAI関連株が市場を牽引しました。前日は半導体株安や中東情勢の緊迫化を受けて下落していましたが、本日は米国市場のハイテク株高が好感され、市場全体で買い戻しの動きが優勢となりました。
-  中文：总结：9日TOPIX（东证股价指数）期货9月合约开盘上涨24点至4031点，较前一交易日TOPIX现货收盘价4006.43点上涨24.57点。受日经平均指数大幅反弹带动，买盘扩散至广泛股票，特别是半导体和AI相关股票引领市场。尽管前一日因半导体股下跌和中东局势紧张而下跌，但今日受美国市场科技股上涨提振，市场整体回购情绪占优。
-  📰 [株探](https://www.google.com/search?q=Japan)
+- **[2026.07.09] 日本国債 — 日本10年期国债收益率升至30年新高，反映日银政策正常化预期**
+  日本語：9日の日本国債市場では、新発10年債利回りが一時2.900%まで上昇し、1996年9月以来およそ30年ぶりの高水準を記録した。これは、世界的な国債利回りの上昇傾向に連動した動きであり、さらに日本銀行が6月に政策金利を0.75%から1.0%に引き上げるなど金融政策の正常化を進めていることが、国内金利の先高観を強めている。市場では、日銀の次なる利上げのタイミングとペースに注目が集まっており、金利上昇は株式市場のバリュー株に重しとなる可能性もあるため、今後の動向が注視される。
+  中文：7月9日，日本新发10年期国债收益率一度升至2.900%，创下1996年9月以来的约30年新高。这反映了全球债券收益率的上升趋势，以及日本央行在6月将政策利率上调至1.0%后，市场对进一步货币政策正常化的预期。市场正密切关注日本央行下一次加息的时机和步伐，利率上升可能对股市中的价值股构成压力。
+  📰 [会社四季報オンライン](https://shikiho.toyokeizai.net/news/0/681710)
 
-- **[2026.07.09] 日本銀行・金利・円相場 — 長期金利30年ぶり高水準、円安は162円台で推移**
-  日本語：9日の東京市場では、日本の長期金利が一時2.880%まで上昇し、30年ぶりの高水準を記録しました。これは、日本銀行の金融政策正常化への思惑や、米国との金利差拡大への警戒感が背景にあるとみられます。一方、円相場は対ドルで162円台前半で推移しており、39年半ぶりの円安水準が続いています。円安は輸出企業には追い風となるものの、輸入物価の上昇を通じて家計には逆風となる複雑な状況が続いており、日銀の今後の金融政策運営に注目が集まっています。
-  中文：总结：9日东京市场，日本长期利率一度升至2.880%，创30年来新高。这被认为是受日本央行货币政策正常化预期以及对日美利差扩大的警惕情绪影响。另一方面，日元兑美元汇率在162日元区间前半段徘徊，持续处于39年半以来的低位。日元贬值对出口企业有利，但通过推高进口物价对家庭构成不利影响，这种复杂局面仍在持续，市场密切关注日本央行未来的货币政策操作。
-  📰 [読売新聞](https://www.google.com/search?q=Japan)
+- **[2026.07.09] 為替市場 (USD/JPY) — 日元兑美元小幅走强至162日元区间，但中东局势和日美利差仍是关键因素**
+  日本語：9日の東京為替市場では、ドル円は一時162円27銭台まで円高方向に動いた。前日の米国市場で中東情勢の緊迫化を受けてドル買いが進んだ反動や、トランプ米大統領がイランとの停戦合意終了を示唆した発言が一時的にリスク回避の円買いを誘った。しかし、日米の金利差は依然として大きく、日本銀行が明確な利上げ姿勢を示さない限り、本格的な円高トレンドへの転換は難しいとの見方が市場関係者の間で根強い。
+  中文：7月9日东京外汇市场，日元兑美元一度小幅走强至162.27日元区间。这部分是由于前夜美国市场因中东局势紧张而出现的美元买盘回调，以及特朗普总统关于伊朗停火协议结束的言论暂时引发了避险性日元买盘。然而，由于日美之间巨大的利差，市场普遍认为，除非日本央行明确表现出加息姿态，否则日元难以进入真正的升值趋势。
+  📰 [会社四季報オンライン](https://shikiho.toyokeizai.net/news/0/681710)
 
-- **[2026.07.09] 半導体関連株 — 米国市場の好調を受け買い戻し優勢**
-  日本語：9日の日本株式市場では、半導体およびAI関連株に買い戻しが集中しました。前日の米国市場でフィラデルフィア半導体株指数（SOX指数）が2％超上昇したことが好感され、東京市場でもアドバンテストや東京エレクトロンなどの主力半導体関連銘柄が上昇を牽引しました。前日までの「サムスンショック」による半導体株安の流れが一服し、投資家は押し目買いのスタンスを強めています。しかし、AIインフラへの過剰投資懸念は依然として存在し、今後の動向が注目されます。
-  中文：总结：9日日本股市，半导体和AI相关股票出现集中回购。受前一日美国市场费城半导体指数（SOX指数）上涨超过2%的提振，东京市场爱德万测试和东京电子等主要半导体相关股票也领涨。此前因“三星冲击”导致的半导体股下跌趋势有所缓解，投资者逢低买入的意愿增强。然而，对AI基础设施过度投资的担忧依然存在，未来走势值得关注。
-  📰 [Investing.com](https://www.google.com/search?q=Japan)
+- **[2026.07.09] ファーストリテイリング / セブン&アイ・ホールディングス — 迅销和柒和伊控股公布最新财报，市场关注零售业表现**
+  日本語：9日、ユニクロを展開するファーストリテイリングとコンビニエンスストア大手のセブン&アイ・ホールディングスが最新の決算を発表した。両社の業績は、国内外の個人消費の動向、海外事業の成長戦略、そして原材料費や人件費などのコスト上昇圧力への対応策が市場から注目されている。特にファーストリテイリングは日経平均株価への寄与度も高く、その業績は市場全体のセンチメントにも影響を与える可能性があるため、小売業界の動向を占う上で重要な発表となった。
+  中文：7月9日，优衣库母公司迅销集团和便利店巨头柒和伊控股公布了最新财报。市场关注两家公司的业绩表现，以了解个人消费趋势、海外业务增长战略以及应对成本上升压力的能力。特别是迅销集团对日经指数有较高贡献度，其业绩可能影响整体市场情绪。此次财报发布对零售业未来走向具有重要参考意义。
+  📰 [Every Stock NEWS - YouTube](https://www.youtube.com/watch?v=J_j9v3f110c)
 
-- **[2026.07.09] 新規上場ETF — ニッセイETFラッセル2000が上場**
-  日本語：2026年7月9日、東京証券取引所に「ニッセイETFラッセル2000（コード：600A）」が新規上場しました。このETFは米国の小型株指数であるラッセル2000に連動することを目指しており、投資家にとって米国小型株市場へのアクセス手段が拡大します。市場では、多様な投資機会を提供する新たな金融商品として注目されています。
-  中文：总结：2026年7月9日，“日盛ETF罗素2000（代码：600A）”在东京证券交易所新上市。该ETF旨在追踪美国小型股指数罗素2000，为投资者扩大了进入美国小型股市场的途径。市场将其视为提供多样化投资机会的新金融产品而备受关注。
-  📰 [Japan Exchange Group](https://www.google.com/search?q=Japan)
+- **[2026.07.09] グローバルX 半導体関連-日本株式 ETF (2644) — Global X日本半导体相关ETF净资产突破1000亿日元，凸显半导体投资热潮**
+  日本語：Global X Japan株式会社は9日、「グローバルX 半導体関連-日本株式 ETF」（銘柄コード：2644）の純資産総額が1,000億円を突破したと発表した。このETFは、半導体の製造・加工、製造装置、素材など半導体関連事業を行う日本企業への投資を通じて、世界の半導体サプライチェーンを支える日本企業の成長を捉えることを目指している。純資産総額の急増は、日本の半導体セクターに対する投資家の強い関心と期待を示している。
+  中文：Global X Japan株式会社于7月9日宣布，其“Global X半导体相关-日本股票ETF”（代码：2644）的净资产总额已突破1000亿日元。该ETF旨在通过投资从事半导体制造、加工、设备和材料等相关业务的日本企业，捕捉支撑全球半导体供应链的日本企业的增长。净资产总额的快速增长表明投资者对日本半导体行业的浓厚兴趣和高度期待。
+  📰 [PR TIMES](https://prtimes.jp/main/html/rd/p/000000067.000068593.html)
 
-- **[2026.07.09] 主要企業決算 — 吉野家HDなどが好決算発表**
-  日本語：8日の取引終了後、吉野家ホールディングス、ツルハホールディングス、アズ企画設計などが好決算を発表しました。これらの企業の良好な業績は、9日の東京株式市場において、個別銘柄への物色意欲を刺激し、株価の下支え要因の一つとなりました。特に、国内小売・流通関連銘柄の四半期決算発表が増える中で、好業績銘柄への関心が高まっています。
-  中文：总结：8日收盘后，吉野家控股、鹤羽控股、Az规划设计等公司发布了良好财报。这些公司的良好业绩刺激了9日东京股市对个股的投资意愿，成为支撑股价的因素之一。特别是在国内零售和流通相关股票季度财报发布增多的背景下，市场对业绩优异的股票关注度提高。
-  📰 [株探](https://www.google.com/search?q=Japan)
+- **[2026.07.09] 日本銀行 — 日本央行政策利率维持1.0%，市场关注月底货币政策会议**
+  日本語：日本銀行は、6月に政策金利を0.75%から1.0%に引き上げて以降、無担保コールO/N物レート（平均）が0.978%で推移していることを9日に発表した。次回の金融政策決定会合は7月30日、31日に予定されており、市場は追加利上げの可能性やイールドカーブ・コントロール（YCC）のさらなる修正について注目している。日銀の金融政策正常化への動きは、長期金利の上昇や為替市場の動向に引き続き大きな影響を与えている。
+  中文：日本央行于7月9日公布，自6月将政策利率从0.75%上调至1.0%以来，无担保隔夜拆借利率（平均）维持在0.978%。下一次货币政策会议定于7月30日至31日举行，市场正密切关注进一步加息的可能性以及收益率曲线控制（YCC）政策的进一步调整。日本央行货币政策正常化的举动将继续对长期利率和外汇市场走势产生重大影响。
+  📰 [日本銀行 Bank of Japan](https://www.boj.or.jp/)
 
 ## 🌍 宏观经济与投资 / Macro & Investment
 
-Here are recent news items concerning macroeconomics and investment:
+- **[2026.07.09] IMF — 国际货币基金组织下调全球经济增长预测**
+  English: The International Monetary Fund (IMF) has slightly downgraded its global economic growth forecast for 2026 to 3.0% from 3.1% previously, citing the persistent impact of the Middle East conflict, elevated inflation pressures, and risks from trade fragmentation. While the war shock weighs on energy importers, AI-driven demand is partially offsetting the downturn, lifting technology-integrated economies. Global disinflation has stalled, with headline inflation projected to rise to 4.7% in 2026. Policymakers are urged to maintain price stability and rebuild fiscal space amidst these crosscurrents.
+  中文：总结：国际货币基金组织将2026年全球经济增长预测下调至3.0%，主要原因是中东冲突的持续影响、高企的通胀压力以及贸易碎片化带来的风险。尽管战争冲击对能源进口国造成压力，但人工智能驱动的需求部分抵消了经济下行。全球去通胀进程停滞，预计2026年总体通胀将升至4.7%。
+  📰 [International Monetary Fund](https://www.imf.org/en/Publications/WEO/Issues/2026/07/09/world-economic-outlook-update-july-2026-global-economy-in-crosscurrents-of-war-and-technology-55099)
 
-- **[2026.07.09] IMF — 国际货币基金组织下调全球经济增长预测并上调通胀展望**
-  English: The International Monetary Fund (IMF) has once again lowered its global economic growth projection for 2026 to 3.0%, down from its April forecast of 3.1%. Concurrently, global inflation is now anticipated to accelerate to 4.7% this year, a higher level than previously projected. This revision reflects the lingering impact of the Middle East conflict, which has partially offset the momentum from an artificial intelligence (AI) boom. While the US economy's growth forecast remains unchanged at 2.3%, China's projection was slightly adjusted upwards to 4.6%. The IMF warns of continued uncertainty and risks, particularly from renewed conflict and potential commodity price volatility.
-  中文：总结：国际货币基金组织（IMF）将2026年全球经济增长预测下调至3.0%，并上调了全球通胀预期至4.7%，主要原因是中东冲突的持续影响部分抵消了人工智能（AI）繁荣带来的增长动力。美国经济增长预测保持在2.3%，而中国略微上调至4.6%。IMF警告称，地缘政治紧张局势和商品价格波动仍带来不确定性。
+- **[2026.07.09] US Stock Market — 美股涨跌互现，纳指受科技股提振上涨**
+  English: U.S. stock futures showed a mixed picture on Thursday, with the Nasdaq Composite rising 0.5% due to a rebound in tech stocks, particularly semiconductor companies like SK Hynix and Broadcom, which surged on AI euphoria. Meanwhile, the S&P 500 edged up 0.1% and the Dow Jones Industrial Average slipped 0.1%, as investors weighed escalating U.S.-Iran tensions and their potential impact on global markets. Oil prices also saw modest gains, contributing to a cautious sentiment. Upcoming economic data, including jobless claims and home sales, are keenly awaited.
+  中文：总结：周四美股期货涨跌互现，纳斯达克指数在科技股（特别是受人工智能热潮推动的半导体公司）反弹的带动下上涨0.5%。标普500指数微涨0.1%，道琼斯工业平均指数下跌0.1%，投资者权衡美国与伊朗之间不断升级的紧张局势及其对全球市场的影响。
+  📰 [TheStreet](https://www.thestreet.com/markets/stock-market-today-july-9-2026-nasdaq-futures-rise-as-us-iran-conflict-escalates-16789786)
 
-- **[2026.07.09] US Stock Market — 中东冲突与美联储会议纪要导致美股涨跌互现**
-  English: The U.S. stock market experienced mixed performance on July 8th, with the Dow Jones Industrial Average falling 1.09% and the S&P 500 dropping 0.28%, while the Nasdaq Composite Index managed a 0.20% gain. This volatility was largely driven by renewed fears over the Middle East conflict, which caused international oil prices to surge. Additionally, the release of the Federal Open Market Committee (FOMC) minutes from June revealed a sharp division among officials regarding future interest rate policy, with some advocating for rate hikes due to persistent inflation pressures from geopolitical tensions, tariffs, and AI investment.
-  中文：总结：7月8日美国股市表现不一，道琼斯指数下跌1.09%，标普500指数下跌0.28%，而纳斯达克指数上涨0.20%。中东冲突升级导致国际油价飙升，加剧了市场担忧。同时，美联储会议纪要显示，官员们对未来利率走向存在严重分歧，部分成员因地缘政治紧张、关税和AI投资引发的通胀压力而倾向于加息。
+- **[2026.07.09] 日本央行 — 日本央行警示中东冲突加剧通胀压力**
+  日本語：日本銀行は本日、中東紛争が今年後半に企業による物価引き上げを促す可能性が高いと発表し、インフレ圧力の高まりに警戒感を示しました。これは、さらなる利上げの可能性を強めるものです。同行はまた、AI需要の好調が企業収益を押し上げ、経済が緩やかな回復を維持できるとの自信を強調しつつ、紛争に関連する成長リスクが緩和していることも指摘しました。地域経済報告では、全9地域の景気判断を据え置きましたが、一部企業が夏以降の物価上昇を計画していると報告されています。
+  中文：总结：日本央行周四表示，美国与伊朗之间的冲突可能会促使更多企业在今年晚些时候提高物价，预示着通胀压力可能加剧，从而支持进一步加息的理由。央行还指出，与冲突相关的增长风险正在缓解，人工智能需求的蓬勃发展也提振了企业盈利，表明经济能够维持温和复苏。
+  📰 [The Business Times](https://www.businesstimes.com.sg/companies-markets/bank-japan-sees-growing-inflation-pressures-middle-east-war)
 
-- **[2026.07.09] Federal Reserve — 美联储官员对未来加息路径存在分歧**
-  English: Minutes from the Federal Reserve's June 16-17 Federal Open Market Committee (FOMC) meeting revealed a significant division among officials regarding the future direction of interest rates. While the benchmark rate was unanimously held steady at 3.50%-3.75%, nine out of eighteen attendees projected at least one rate hike by December, a stark contrast to March's expectations. Policymakers cited broadening price pressures, driven by the Middle East conflict, global tariffs, and the artificial intelligence investment boom, as key factors potentially necessitating further tightening to curb inflation. This internal debate signals ongoing uncertainty in monetary policy.
-  中文：总结：美联储6月联邦公开市场委员会（FOMC）会议纪要显示，官员们对未来利率走向存在显著分歧。尽管基准利率维持在3.50%-3.75%不变，但有九名官员预计到12月至少会加息一次，这与3月份的预期形成鲜明对比。决策者指出，中东冲突、全球关税和人工智能投资热潮导致的物价压力扩大，可能需要进一步收紧政策以抑制通胀。
+- **[2026.07.09] 日本10年期国债收益率 — 日本10年期国债收益率升至30年新高**
+  日本語：日本のベンチマークである10年物国債利回りが本日、約30年ぶりの高水準に上昇しました。これは、原油価格の高騰がインフレ懸念を再燃させたことと、政府の財政健全性に対する投資家の警戒感が背景にあります。政府の経済財政運営の基本方針（骨太の方針）草案が、積極的な財政政策と金融緩和を強調したことで、日本銀行がインフレリスクにもかかわらず金利を低く維持するよう圧力を受ける可能性があり、市場の不信感が高まっています。
+  中文：总结：日本基准10年期政府债券收益率周四攀升至近三十年来的最高水平，原因是油价飙升重新点燃了通胀担忧，同时投资者对日本的财政前景保持谨慎。政府的经济政策草案强调积极财政和货币宽松，引发市场对日本央行可能推迟加息的担忧，从而加剧了通胀和财政恶化风险。
+  📰 [The Edge Markets](https://www.theedgemarkets.com/article/japan-10year-bond-yield-hits-30year-high-inflation-fiscal-concerns)
 
-- **[2026.07.09] US 10-Year Treasury Yield — 美国10年期国债收益率升至4.58%**
-  English: The yield on the U.S. 10-year Treasury note increased to 4.58% on July 8, 2026, marking a 0.02 percentage point rise from the previous session and reaching its highest level since June 2026. This upward movement in bond yields reflects ongoing market adjustments to inflation expectations and the Federal Reserve's cautious stance on monetary policy, particularly in light of persistent price pressures and geopolitical uncertainties. Investors are closely monitoring these yields as they influence borrowing costs across the economy and impact various asset classes.
-  中文：总结：2026年7月8日，美国10年期国债收益率升至4.58%，较前一交易日上涨0.02个百分点，达到2026年6月以来的最高水平。债券收益率的上升反映了市场对通胀预期和美联储货币政策谨慎态度的持续调整，尤其是在持续的物价压力和地缘政治不确定性背景下。
+- **[2026.07.09] Federal Reserve — 美联储7月会议料维持利率不变，加息可能性仍存**
+  English: The Federal Reserve is widely expected to hold interest rates steady at its July 29 meeting, with futures trading indicating a 0% chance of a rate cut. The primary debate among policymakers is whether rates will remain at the current 3.50%-3.75% range or if a quarter-point hike will occur later in the year, with a 25.1% probability for a hike. Sticky inflation, with May's CPI at 4.2% and PCE at 4.1%, coupled with a resilient labor market, provides the Fed room to maintain a hawkish stance, contrasting with earlier expectations of continued rate cuts.
+  中文：总结：市场普遍预计美联储将在7月29日的会议上维持利率不变，期货交易显示降息的可能性为零。政策制定者主要讨论的是利率是维持在当前3.50%-3.75%的区间，还是在今年晚些时候进行25个基点的加息。顽固的通胀和有韧性的劳动力市场为美联储维持鹰派立场提供了空间。
+  📰 [The Motley Fool](https://www.fool.com/investing/2026/07/09/will-the-fed-cut-rates-in-july-2026-heres-what-the/)
 
-- **[2026.07.09] USD/JPY — 美元兑日元汇率攀升至162上方**
-  English: The USD/JPY currency pair continued its upward trajectory, climbing above 162.20 on July 9, 2026, with a 0.53% gain. This movement is primarily driven by a strengthening U.S. dollar, which is benefiting from its safe-haven appeal amid escalating geopolitical tensions, particularly between the U.S. and Iran. Japan's heavy reliance on imported energy also continues to pressure the Japanese Yen, especially with concerns over potential disruptions in oil supplies from the Strait of Hormuz. Traders are closely watching upcoming economic data and central bank statements for further direction.
-  中文：总结：2026年7月9日，美元兑日元汇率继续走高，突破162.20，上涨0.53%。这主要受美元走强推动，地缘政治紧张局势（尤其是美伊冲突）提升了美元的避险吸引力。日本对能源进口的依赖也持续对日元构成压力，市场担忧霍尔木兹海峡的石油供应可能中断。
+- **[2026.07.09] Oil Market — 油价因中东冲突升级而上涨**
+  English: Crude oil prices rose on Thursday following fresh U.S. airstrikes on Iran and retaliatory actions, intensifying concerns over global supply disruptions, particularly through the Strait of Hormuz. Brent crude futures gained 1% to trade around US$78.80 per barrel, while U.S. West Texas Intermediate (WTI) crude rose 1.01% to approximately US$74.26 per barrel. The escalation of the conflict, after President Trump declared a temporary ceasefire "over," has heightened geopolitical risks and increased market volatility, pushing oil benchmarks to their highest levels in over two weeks.
+  中文：总结：周四原油价格上涨，此前美国对伊朗发动新的空袭并遭到报复，加剧了对全球供应中断的担忧，特别是通过霍尔木兹海峡的供应。布伦特原油期货上涨1%至每桶约78.80美元，美国西德克萨斯中质原油（WTI）上涨1.01%至每桶约74.26美元。
+  📰 [Investing.com](https://www.investing.com/news/commodities-news/crude-oil-prices-rise-after-fresh-us-strikes-on-iran-raise-supply-concerns--july-9-2026-3476203)
 
-- **[2026.07.09] Japan Market — 日本股市涨跌互现，东证指数创新高，日经指数持平**
-  日本語：7月6日の東京株式市場は、日経平均株価がほぼ横ばい（-0.01%）で推移する一方、東証株価指数（TOPIX）は0.92%上昇し、新たな高値を記録しました。これは、AIおよび半導体関連株での利益確定売りが見られたものの、銀行株やバリュー株、内需関連株への幅広い買いが市場を支えたためです。セクター間の資金ローテーションが鮮明になり、市場の強さが一部のハイテク株に集中していた状況から、より広範な銘柄へと分散していることを示唆しています。また、円は対ドルで162.26付近と、依然として弱い水準で推移しており、日米金利差が主な要因となっています。
-  中文：总结：7月6日日本股市表现分化，日经225指数几乎持平（-0.01%），而东证指数（TOPIX）上涨0.92%并创下新高。这反映出投资者在人工智能和半导体相关股票中获利了结，同时转向银行、价值股和内需股。日元兑美元汇率徘徊在162.26附近，维持弱势，主要受日美利差扩大影响。
-
-- **[2026.07.09] Gold & Bitcoin ETF — 央行增持黄金，比特币ETF遭遇资金外流**
-  English: In a notable divergence of trends for reserve assets, central banks collectively added a net 41 tonnes of gold to their holdings in May 2026, marking the second-highest monthly total for the year. Conversely, spot Bitcoin Exchange Traded Funds (ETFs) experienced significant outflows, shedding approximately $8.9 billion across May and June. This indicates a potential shift in institutional preference towards traditional safe-haven assets like gold amidst global uncertainties, while the enthusiasm for Bitcoin ETFs, which saw a boom earlier, appears to be losing momentum.
-  中文：总结：2026年5月，全球各国央行净增持41吨黄金，创下年内第二高月度增幅。与此同时，现货比特币ETF在5月和6月期间遭遇约89亿美元的资金外流。这一趋势表明，在全球不确定性下，机构投资者可能更倾向于黄金等传统避险资产，而此前火爆的比特币ETF的吸引力似乎正在减弱。
+- **[2026.07.09] USD/JPY — 美元兑日元汇率下跌，市场担忧日本干预**
+  English: The USD/JPY exchange rate edged lower during Thursday's Asian trading, snapping a four-day winning streak and trading below the mid-162.00 level. This movement is attributed to heightened market vigilance regarding potential official Japanese intervention to support the yen, prompting investors to unwind yen short positions. However, the downside momentum remains weak, as expectations of further Fed rate hikes and the significant U.S.-Japan yield spread continue to underpin demand for the dollar as a safe-haven asset amidst escalating geopolitical tensions.
+  中文：总结：周四亚洲交易时段，美元兑日元汇率小幅走低，结束了连续四天的上涨，跌破162.00中段水平。这主要是由于市场对日本可能干预以支撑日元的警惕性提高，促使投资者解除日元空头头寸。然而，由于美联储进一步加息的预期以及美日之间巨大的利差，美元作为避险资产的需求在中东地缘政治紧张局势升级的背景下仍受到支撑，下行势头依然疲软。
+  📰 [TradingPedia](https://tradingpedia.com/news/forex-news/dollar-rally-pauses-as-yen-gains-on-intervention-fears/)
 
 ---
 ※Stock Market Daily Digest | 2026.07.09
