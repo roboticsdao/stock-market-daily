@@ -1,0 +1,99 @@
+# 📈 Stock Market Daily | 2026.07.10（金曜日 / Friday）
+
+> ⚠ 本日报优先收录最近24小时的市场新闻、个股异动与当时市场快照；数据仅供参考，不构成投资建议。
+
+---
+
+
+## 🇺🇸 美国股市 / US Market
+
+Here are 5 recent news items specifically about the US Market for July 10, 2026:
+
+- **[2026.07.10] SK Hynix — 韩国SK海力士在纳斯达克上市，创ADR发行历史新高**
+  English: SK Hynix is set to make its historic debut on the Nasdaq Global Select Market today, marking the largest American Depositary Receipt (ADR) offering in financial history. The South Korean semiconductor giant aims to raise up to $29.4 billion, with proceeds earmarked for scaling hardware and funding new AI-focused manufacturing facilities. This listing is expected to bridge the "Korea discount" and align its valuation with US peers, driven by explosive demand for High-Bandwidth Memory (HBM) chips essential for AI infrastructure.
+  中文：总结：韩国半导体巨头SK海力士今日在纳斯达克全球精选市场首次亮相，此次美国存托凭证（ADR）发行规模高达294亿美元，创下金融史上ADR发行纪录。此次上市旨在通过募集资金扩大硬件生产和投资人工智能制造设施，有望消除“韩国折价”，并使其估值与美国同行看齐，主要受人工智能高带宽内存（HBM）芯片的强劲需求推动。
+  📰 [KuCoin](https://www.kucoin.com/news/sk-hynix-nasdaq-adr-listing-historical-28b-offering-set-to-reshape-ai-semiconductor-market-on-july-10-2026)
+
+- **[2026.07.10] Adia Med Inc. — Adia Nutrition更名为Adia Med Inc.并开始交易**
+  English: Adia Nutrition, Inc. is expected to begin trading under its new corporate name, Adia Med Inc., on the OTC Markets today. This change follows an expedited FINRA review of the corporate name change, which aligns the company's identity with its strategic focus on stem cell and regenerative therapies. The swift processing allows the rebrand to take effect sooner than initially anticipated, reflecting its expansion into insurance-billable wound care products.
+  中文：总结：Adia Nutrition, Inc.预计今日起在OTC市场以新公司名称Adia Med Inc.进行交易。此次更名是FINRA加速审查后的结果，旨在使其公司名称与专注于干细胞和再生疗法的战略方向保持一致。快速的流程使得品牌重塑得以提前生效，反映了公司向可保险报销的伤口护理产品领域的拓展。
+  📰 [Stock Titan](https://stocktitan.net/news/ADIA/adia-nutrition-to-trade-as-adia-med-inc-after-lightning-fast-finra-review-q460y866n827.html)
+
+- **[2026.07.10] Tokyo Lifestyle Co., Ltd. — 东京生活有限公司发布2026财年业绩**
+  English: Tokyo Lifestyle Co., Ltd. (Nasdaq: TKLF), a retailer and wholesaler of Japanese beauty and health products, is scheduled to release its financial results for the fiscal year ended March 31, 2026, before the U.S. market opens today. The company will also host an earnings conference call to discuss its financial performance and outlook, providing investors with insights into its global operations across various markets.
+  中文：总结：日本美妆和健康产品零售及批发商东京生活有限公司（纳斯达克代码：TKLF）定于今日美国市场开盘前发布截至2026年3月31日的财年业绩。公司还将举行财报电话会议，讨论其财务表现和未来展望，为投资者提供对其全球运营情况的深入了解。
+  📰 [GlobeNewswire](https://www.globenewswire.com/news-release/2026/07/08/3277708/0/en/Tokyo-Lifestyle-Co-Ltd-to-Report-Fiscal-Year-2026-Financial-Results-on-Friday-July-10-2026.html)
+
+- **[2026.07.10] Cyabra — Cyabra完成600万美元私募配售**
+  English: Cyabra announced that the closing of its $6.0 million private placement, priced at a premium to the market price, is expected to occur on or about today. This private placement involves new and existing institutional investors, as well as management and board members. The company intends to utilize the net proceeds from this offering for working capital and other general corporate purposes, aiming to strengthen its capital structure.
+  中文：总结：Cyabra宣布，其以高于市场价格的600万美元私募配售预计将于今日或前后完成。此次私募配售吸引了新的和现有的机构投资者以及管理层和董事会成员的参与。公司计划将此次发行的净收益用于营运资金和其他一般企业用途，以期强化其资本结构。
+  📰 [Markets Insider](https://markets.businessinsider.com/news/stocks/cyabra-announces-pricing-of-$6-0-million-private-placement-priced-at-a-premium-to-the-market-price-with-new-and-existing-institutional-investors-management-and-board-members-10352528)
+
+- **[2026.07.10] Federal Reserve — 达拉斯联储主席洛里·洛根今日发表讲话**
+  English: Lorie Logan, President of the Federal Reserve Bank of Dallas and a 2026 FOMC Voting Member, is scheduled to deliver a speech today. Her remarks will be closely watched by investors for any insights into the Federal Reserve's monetary policy stance, inflation outlook, and potential future interest rate decisions, especially given the current economic climate and ongoing geopolitical tensions.
+  中文：总结：达拉斯联邦储备银行主席兼2026年联邦公开市场委员会（FOMC）票委洛里·洛根定于今日发表讲话。鉴于当前的经济形势和持续的地缘政治紧张局势，投资者将密切关注她的讲话，以获取有关美联储货币政策立场、通胀前景以及未来潜在利率决议的任何见解。
+  📰 [富途资讯](https://news.futunn.com/stock/16995669?src=3&report_type=market&level=1&data_ticket=1719999999999999)
+
+## 🇯🇵 日本株式市場 / Japan Market
+
+日本株式市場に関する2026年7月10日の最新ニュースは以下の通りです。
+
+- **[2026.07.10] 日経225先物 — 日经225期货在10日凌晨急涨**
+  日本語：2026年7月10日午前0時現在、大阪取引所の日経225先物期近2026年9月限は前日比860円高の6万8780円と急騰した。これは、前日の米国市場で半導体関連株が買い戻され、地政学リスクへの警戒感からハイテク株が選好された流れを引き継いだものと見られる。日経平均株価の現物終値6万7743.85円に対しては1036.15円高で推移しており、本日の市場開場に向けて強い買いが先行している状況を示している。この大幅な上昇は、投資家のリスクオン姿勢の強まりや、AI関連技術への期待感が継続していることを示唆しており、今日の日本株市場全体の動向に大きな影響を与える可能性がある。特に、半導体製造装置メーカーやAI関連サービスを提供する企業に注目が集まるだろう。
+  中文：2026年7月10日凌晨，大阪交易所的日经225期货9月合约较前一日上涨860日元，达到68780日元，显示出强劲的上涨势头。这预示着今日日本股市开盘可能出现大幅上涨，主要受前一晚美国半导体相关股票回购以及地缘政治风险下科技股受青睐的趋势影响。
+  📰 [株探](https://www.google.com/search?q=Japan)
+
+- **[2026.07.10] （株）ＴＨＥグローバル社 — THEグローバル社股票今日起被指定为整理股票并除名**
+  日本語：日本取引所グループは、株式会社ＴＨＥグローバル社の株式について、2026年7月10日（金）をもって上場廃止を決定し、整理銘柄に指定したと発表した。同社株式は本日以降、信用取引や発行日決済取引の委託保証金など、各種代用有価証券から除外される。この決定は、同社の経営状況や上場維持基準への適合性に関する審査の結果によるものであり、投資家は同社株式の取引に際して注意が必要となる。上場廃止は、当該企業への投資リスクを明確にするものであり、類似の経営課題を抱える他の中小企業への市場の評価にも影響を及ぼす可能性があるため、今後の市場の反応が注目される。
+  中文：日本交易所集团宣布，已决定于2026年7月10日（星期五）将株式会社THEグローバル社股票退市，并指定为整理股票。自今日起，该公司股票将从信用交易和发行日结算交易的保证金等各类替代有价证券中剔除。此举是基于对该公司经营状况和上市维持标准的审查结果。
+  📰 [日本取引所グループ](https://www.google.com/search?q=Japan)
+
+- **[2026.07.10] NEXT FUNDS TOPIX Exchange Traded Fund — NEXT FUNDS TOPIX ETF今日为年度分红记录日**
+  日本語：NEXT FUNDS TOPIX Exchange Traded Fundは、2026年7月10日を年次分配金の権利確定日と発表した。分配金は1株あたり7.9000円で、2026年8月18日に支払われる予定である。この権利確定日は、ETFの需給に影響を与える可能性があり、特に分配金再投資を目的とした買いや、権利落ち後の換金売りなど、市場参加者の動向が注目される。TOPIXに連動するこのETFの動きは、日本株市場全体の広範な銘柄に間接的な影響を及ぼすため、本日の市場の資金フローを理解する上で重要な要素となる。
+  中文：NEXT FUNDS TOPIX交易所交易基金（ETF）宣布，2026年7月10日为年度分红的记录日。每股分红7.9000日元，预计将于2026年8月18日支付。这一记录日可能会影响ETF的供需，市场参与者将密切关注分红再投资或赎回抛售等动向。
+  📰 [MarketScreener](https://www.google.com/search?q=Japan)
+
+- **[2026.07.10] iFreeETF TOPIX Ex-Financials — iFreeETF TOPIX Ex-Financials今日为半年度分红记录日**
+  日本語：iFreeETF TOPIX Ex-Financialsは、2026年7月10日を半期分配金の権利確定日と発表した。分配金は1株あたり23.2000円で、2026年8月18日に支払われる予定である。TOPIXから金融セクターを除外したこのETFの分配金権利確定は、特定のセクターに特化した投資家の動向に影響を与える可能性があり、特に金融株以外の広範な日本株への資金フローに注目が集まる。権利確定日を迎え、短期的な需給変動が生じる可能性があり、市場全体のセクターローテーションにも影響を与えるかもしれない。
+  中文：iFreeETF TOPIX Ex-Financials宣布，2026年7月10日为半年度分红的记录日。每股分红23.2000日元，预计将于2026年8月18日支付。这一不含金融板块的ETF分红记录日，可能会影响专注于特定板块的投资者行为，市场资金流向将受到关注。
+  📰 [MarketScreener](https://www.google.com/search?q=Japan)
+
+- **[2026.07.10] 日経225ミニ先物 — 日经225迷你期货9日夜间交易中ABN清算证券成交量居首**
+  日本語：日本取引所が公表した先物手口情報によると、7月9日の日経225ミニ期近（2026年7月限）の夜間取引で、ABNクリアリン証券が1万2119枚の取引高でトップとなった。この7月限の特別清算日は2026年7月10日であり、前日の夜間取引の動向は本日の市場開場における投資家のセンチメントやポジション調整に影響を与える可能性がある。特に、海外投資家による活発な取引は、日本株市場への関心の高さを示すものであり、本日の日経平均株価の寄り付きやその後の値動きに影響を与える重要な先行指標となるだろう。
+  中文：根据日本交易所公布的期货交易数据显示，在7月9日日经225迷你期货（2026年7月合约）的夜间交易中，ABN清算证券以12119手的成交量位居榜首。该7月合约的特别清算日为2026年7月10日，前一晚的交易动态可能影响今日市场开盘的投资者情绪和头寸调整。
+  📰 [株探](https://www.google.com/search?q=Japan)
+
+## 🌍 宏观经济与投资 / Macro & Investment
+
+- **[2026.07.10] Delta Air Lines — 达美航空公布第二季度财报**
+  English: Delta Air Lines is scheduled to report its second-quarter 2026 earnings today, kicking off the unofficial start of the Q2 earnings season for major U.S. companies. Analysts anticipate diluted EPS near $1.43–$1.44, a year-over-year decline as capacity-cost economics normalize, despite record Q1 revenue. Investors will closely watch management's commentary on premium cabin demand, corporate travel trends, and transatlantic bookings, as Delta's guidance often serves as a bellwether for the broader airline industry and consumer spending sentiment.
+  中文：总结：达美航空今日公布2026年第二季度财报，标志着美国财报季的非正式开始。分析师预计稀释后每股收益约为1.43-1.44美元，同比下降，反映出成本效益正常化。市场将密切关注管理层对高端舱位需求、商务旅行和跨大西洋预订的评论，其指引常被视为航空业和消费者支出的风向标。
+  📰 [Kiplinger](https://www.kiplinger.com/investing/stocks/earnings-calendar/605051/earnings-calendar-and-analysis-for-this-week-july-6-10)
+
+- **[2026.07.10] SK Hynix — SK海力士在纳斯达克上市**
+  English: SK Hynix, the South Korean semiconductor giant, is set to list its American Depositary Shares (ADS) on Nasdaq today, marking a significant $28 billion IPO that was heavily oversubscribed. This listing is one of the largest by a foreign company in the U.S. this year and highlights the booming investment in the semiconductor sector, particularly driven by demand for AI-related hardware. UBS has recommended buying the ADR over the Korean stock, indicating strong analyst confidence. The performance of this IPO will be a key indicator for investor appetite in the tech and AI infrastructure space.
+  中文：总结：韩国半导体巨头SK海力士今日在纳斯达克上市其美国存托股票（ADS），这是一项备受关注的280亿美元首次公开募股，且已获得超额认购。此次上市是今年美国市场外国公司最大规模的IPO之一，凸显了半导体领域，尤其是AI相关硬件投资的强劲需求。瑞银建议购买其ADR，显示出分析师的强烈信心。
+  📰 [The Financial Express](https://www.financialexpress.com/market/7-of-the-years-10-largest-ipos-nasdaq-raises-a-record-129-billion-from-new-listings-so-far-this-year/3135541/)
+
+- **[2026.07.10] Azio AI (formerly Envirotech Vehicles) — Azio AI完成更名并签署AI基础设施协议**
+  English: Envirotech Vehicles, Inc. officially changes its corporate name to Azio AI, Inc. today, completing its transformation into a dedicated AI infrastructure platform. This rebrand follows a merger and is accompanied by a significant $27.9 million AI infrastructure hosting agreement with Power Champion Investment Limited. The deal establishes Azio AI's first long-term contracted AI hosting relationship, providing approximately 3.1 megawatts of capacity. This move underscores the growing investment and strategic shifts towards AI infrastructure development in the market.
+  中文：总结：Envirotech Vehicles公司今日正式更名为Azio AI, Inc.，完成向AI基础设施平台的转型。此次更名伴随着与Power Champion Investment Limited签署的一项价值2790万美元的AI基础设施托管协议，为其带来了首个长期AI托管合作，提供约3.1兆瓦的容量。此举凸显了市场对AI基础设施开发日益增长的投资和战略重心转移。
+  📰 [Fidelity Investments](https://www.fidelity.com/news/article/story/202607091400FIDELITY_PUBLIC_162383)
+
+- **[2026.07.10] J-Star Holding Co., Ltd. — J-Star Holding实施股份合并以符合纳斯达克上市要求**
+  English: J-Star Holding Co., Ltd. is implementing a 1-for-5 share consolidation of its Class A and Class B ordinary shares, effective today. This corporate action aims to help the company regain compliance with Nasdaq Marketplace Rule 5550(a)(2), which pertains to the minimum bid price requirement, and thereby maintain its Nasdaq listing. While the consolidation reduces the number of shares and increases the per-share price, it is not expected to significantly alter individual ownership percentages, apart from minor rounding effects.
+  中文：总结：J-Star Holding Co., Ltd.今日起实施1股合5股的A类和B类普通股合并。此举旨在帮助公司重新符合纳斯达克市场规则5550(a)(2)的最低出价要求，以维持其纳斯达克上市资格。尽管合并会减少股份数量并提高每股价格，但预计不会显著改变个人持股比例，仅有少量四舍五入的影响。
+  📰 [Stock Titan](https://stocktitan.net/news/YMAT/j-star-to-enact-1-for-5-share-consolidation-ymat-sec-filing-form-6k-o0013h3m2h56.html)
+
+- **[2026.07.10] Aeon Co., Ltd. — イオンが第1四半期決算を発表**
+  日本語：日本の小売大手であるイオン株式会社は本日、2026年第1四半期決算を発表する予定です。消費者の支出動向やインフレ圧力への対応、そして今後の事業戦略について、投資家は詳細な情報を求めています。特に、食料品や日用品の販売実績、デジタル戦略の進捗、および海外事業の業績が注目されます。これらの結果は、日本の小売セクター全体の健全性を示す重要な指標となるでしょう。
+  中文：总结：日本零售巨头永旺株式会社今日将公布2026财年第一季度财报。投资者正密切关注其在消费者支出趋势、通胀压力应对以及未来业务战略方面的详细信息。特别是，食品和日用品销售业绩、数字化战略进展以及海外业务表现将成为焦点。这些结果将是衡量日本零售业整体健康状况的重要指标。
+  📰 [Wall Street Horizon](https://www.wallstreethorizon.com/earnings/calendar)
+
+- **[2026.07.10] Fast Retailing Co. Ltd. — ファーストリテイリングが四半期決算を発表**
+  日本語：ユニクロの親会社であるファーストリテイリングは、本日四半期決算を発表します。同社の業績は、グローバルなサプライチェーンの状況、主要市場での消費者需要、および為替変動の影響を反映するため、広範な注目を集めています。特に、北米や欧州市場での成長戦略、オンライン販売の動向、そして原材料コストの上昇に対する対応策が投資家にとって重要です。この発表は、アパレル業界のトレンドと日本の主要企業の国際的な競争力を測る上で鍵となります。
+  中文：总结：优衣库母公司迅销集团今日将公布季度财报。其业绩将反映全球供应链状况、主要市场的消费者需求以及汇率波动的影响，因此受到广泛关注。投资者将特别关注其在北美和欧洲市场的增长战略、在线销售趋势以及应对原材料成本上涨的措施。此次发布对于衡量服装行业趋势和日本主要企业的国际竞争力至关重要。
+  📰 [Wall Street Horizon](https://www.wallstreethorizon.com/earnings/calendar)
+
+---
+※Stock Market Daily Digest | 2026.07.10
