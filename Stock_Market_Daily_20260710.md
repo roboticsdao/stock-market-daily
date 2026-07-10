@@ -7,107 +7,115 @@
 
 ## 🇺🇸 美国股市 / US Market
 
-- **[2026.07.10] SK Hynix — SK海力士ADR今日在纳斯达克上市交易，此前IPO获得多倍超额认购**
-  English: SK Hynix, the world's largest producer of High Bandwidth Memory (HBM) and a crucial supplier for NVIDIA, is scheduled to commence trading its American Depositary Shares (ADRs) on the Nasdaq Global Select Market today, July 10, 2026, under the ticker SKHY. The $28 billion initial public offering (IPO) was reportedly multiples oversubscribed, signaling robust investor appetite for the semiconductor giant's U.S. listing. This significant debut is expected to draw considerable attention within the tech sector, particularly for companies involved in AI-related hardware, and could influence the broader memory chip market.
-  中文：SK海力士，全球最大的高带宽内存（HBM）生产商及英伟达的关键供应商，其美国存托凭证（ADR）定于今日（2026年7月10日）在纳斯达克全球精选市场开始交易，股票代码为SKHY。此次280亿美元的首次公开募股（IPO）据报道获得多倍超额认购，显示出投资者对这家半导体巨头在美国上市的强劲需求。此次上市对科技行业，特别是人工智能相关硬件领域，具有重要意义，并可能影响其他存储芯片制造商。
-  📰 [CNBC](https://www.cnbc.com)
+- **[2026.07.10] US Market — 芯片股带动美股主要指数上涨**
+  English: US major stock indexes closed higher on Thursday, July 9, with the Nasdaq leading gains, fueled by a strong rally in semiconductor stocks. The S&P 500 rose 0.81% to 7,543.64, the Nasdaq Composite gained 1.30% to 26,206.89, and the Dow Jones Industrial Average added 0.27% to 52,487.41. The AI boom and lower crude prices boosted market sentiment, overshadowing renewed Middle East conflict fears. Analysts are now keenly focused on upcoming corporate earnings reports to gauge market direction.
+  中文：总结：7月9日，美国主要股指收高，纳斯达克指数在芯片股强劲反弹的带动下领涨。标普500指数上涨0.81%，纳斯达克综合指数上涨1.30%，道琼斯工业平均指数上涨0.27%。人工智能热潮和原油价格下跌提振了市场情绪，盖过了中东冲突的担忧。分析师正密切关注即将公布的企业财报。
 
-- **[2026.07.10] Delta Air Lines (DAL) — 达美航空今日公布财报，市场关注其夏季旅游需求及盈利能力**
-  English: Delta Air Lines (DAL) is slated to release its quarterly earnings report today, July 10, 2026. Market participants will be keenly observing these results for critical insights into the current state of air travel demand, particularly business travel trends, and the airline's overall financial health and profitability as it enters the peak summer travel season. Analysts are broadly anticipating that Delta will report an earnings beat, with consensus estimates hovering around $1.47 per share on total revenue of $18.9 billion.
-  中文：达美航空（DAL）计划于今日（2026年7月10日）公布其季度财报。市场参与者将密切关注这些结果，以获取有关当前航空旅行需求、特别是商务旅行趋势以及该航空公司在进入夏季旅游旺季时的整体财务状况和盈利能力的关键见解。分析师普遍预计达美航空将超出盈利预期，普遍预测每股收益约为1.47美元，总收入为189亿美元。
-  📰 [Investing.com](https://www.investing.com)
+- **[2026.07.10] Federal Reserve — 美联储7月降息可能性为零**
+  English: The Federal Reserve is highly unlikely to cut interest rates at its July 29 meeting, with futures trading indicating a 0% probability. The market debate has shifted to whether rates will hold steady (74.9% chance) or increase by a quarter-point (25.1%). Persistent inflation, with May's CPI at 4.2% and PCE at 4.1%, coupled with a resilient labor market, provides the Fed room to maintain a hawkish stance. New Fed Chair Kevin Warsh's projections suggest a median year-end 2026 forecast of 3.8%.
+  中文：总结：美联储在7月29日的会议上降息的可能性极低，期货市场显示为0%。市场焦点已转向维持利率不变（74.9%）或加息25个基点（25.1%）。5月份CPI和PCE通胀数据居高不下，加上劳动力市场强劲，使美联储有空间保持鹰派立场。新任主席凯文·沃什预计2026年底利率中值为3.8%。
 
-- **[2026.07.10] Samos Energy Acquisition Corporation (SAMO U) — Samos能源收购公司今日在纽约证券交易所进行首次公开募股**
-  English: Samos Energy Acquisition Corporation (SAMO U) is scheduled to make its Initial Public Offering (IPO) today, July 10, 2026. The trading for this new listing is pending before the market open on the New York Stock Exchange (NYSE). This event marks the debut of a new special purpose acquisition company (SPAC) focused on the energy sector, and its initial market performance will be closely watched by investors interested in new listings and the broader energy investment landscape.
-  中文：Samos能源收购公司（SAMO U）定于今日（2026年7月10日）在纽约证券交易所（NYSE）进行首次公开募股（IPO），其交易将在开盘前进行。此次上市标志着一家专注于能源领域的新特殊目的收购公司（SPAC）的首次亮相，其初步市场表现将受到关注新上市和更广泛能源投资格局的投资者的密切关注。
-  📰 [NYSE](https://www.nyse.com)
+- **[2026.07.10] Amazon (AMZN) — 华尔街分析师看好亚马逊股票前景**
+  English: Wall Street analysts maintained a bullish outlook for Amazon (AMZN) stock on July 9, citing strong performance in Amazon Web Services (AWS) and expanding AI infrastructure. TD Cowen reiterated a "Buy" rating with a $340 price target, implying a potential 40.6% upside, while Goldman Sachs raised its target to $335. AWS grew 28% in Q1 2026, marking its fastest growth in 15 quarters. Amazon's recent $25 billion bond offering is aimed at funding further AI infrastructure development.
+  中文：总结：7月9日，华尔街分析师维持对亚马逊(AMZN)股票的看涨展望，理由是亚马逊网络服务(AWS)表现强劲且人工智能基础设施不断扩张。TD Cowen重申“买入”评级，目标价340美元，预示潜在40.6%的上涨空间。AWS在2026年第一季度增长28%，创15个季度以来最快增速。亚马逊近期发行250亿美元债券旨在资助AI基础设施建设。
 
-- **[2026.07.10] Cyabra — Cyabra公司预计今日完成600万美元私募配售，以支持营运资金**
-  English: Cyabra is expected to finalize a $6.0 million private placement today, July 10, 2026. This offering, structured at a premium to the prevailing market price, includes participation from both new and existing institutional investors, as well as members of the company's management and board. The primary objective for Cyabra in securing these net proceeds is to bolster its working capital and address other general corporate requirements, a strategic move aimed at resolving structural overhangs and optimizing its capital structure.
-  中文：Cyabra公司预计将于今日（2026年7月10日）完成一笔600万美元的私募配售。此次发行定价高于市场价格，吸引了新老机构投资者以及公司管理层和董事会成员的参与。Cyabra获得这些净收益的主要目的是补充其营运资金并满足其他一般公司需求，此举旨在解决结构性问题并优化其资本结构。
-  📰 [Markets Insider](https://markets.businessinsider.com)
+- **[2026.07.10] Microsoft (MSFT) — 微软面临证券欺诈诉讼，股价下跌**
+  English: Microsoft (MSFT) stock declined nearly 2% on July 9, following the announcement of a class-action lawsuit alleging securities fraud. The lawsuit claims Microsoft made misleading statements regarding its AI initiatives, specifically that Microsoft 365 Copilot premium customer numbers were materially below analyst estimates, and Azure cloud growth had slowed in Q2 2026. This news adds to investor caution ahead of Microsoft's Q4 2026 earnings report scheduled for July 29.
+  中文：总结：7月9日，微软(MSFT)股价下跌近2%，此前宣布了一项证券欺诈集体诉讼。诉讼指控微软对其AI计划做出误导性陈述，称Microsoft 365 Copilot高级客户数量远低于分析师预期，且Azure云业务在2026年第二季度增长放缓。此消息增加了投资者在7月29日微软2026财年第四季度财报发布前的谨慎情绪。
+
+- **[2026.07.10] SK Hynix (SKHYV) — SK海力士今日在纳斯达克首次亮相**
+  English: SK Hynix is set to debut on the Nasdaq Global Select Market today, July 10, 2026, trading on a "when issued" basis under the symbol SKHYV. The South Korean semiconductor giant proposed an initial public offering price of $149 per share, aiming to raise approximately $26.5 billion. This significant IPO is attracting considerable investor interest, particularly within the artificial intelligence sector, as the company is a key player in memory chips essential for AI development.
+  中文：总结：SK海力士定于今日（2026年7月10日）在纳斯达克全球精选市场首次亮相，以“发行时”方式交易，股票代码为SKHYV。这家韩国半导体巨头提议首次公开募股价格为每股149美元，目标筹集约265亿美元。此次重要的IPO吸引了投资者，尤其是在人工智能领域，因为该公司是AI发展所需存储芯片的关键参与者。
+
+- **[2026.07.10] NVIDIA (NVDA) — 英伟达股价下跌，跑输多数芯片股**
+  English: NVIDIA (NVDA) stock slipped 1.1% to $201.76 on July 9, underperforming many of its semiconductor peers which broadly rallied. Despite recent positive catalysts, such as China potentially allowing purchases of H200 AI chips and SpaceX utilizing GB300 GPUs for its Grok 4.5 model, NVIDIA has struggled to match the performance of other chip stocks in 2026. This divergence reflects a broader rotation within the AI trade rather than a deterioration in NVIDIA's business fundamentals.
+  中文：总结：7月9日，英伟达(NVDA)股价下跌1.1%至201.76美元，表现不及多数普遍上涨的半导体同行。尽管近期有中国可能允许购买H200 AI芯片以及SpaceX使用GB300 GPU训练Grok 4.5模型等利好催化剂，但英伟达在2026年仍未能与多数芯片股表现同步。这种分化反映了AI交易内部的更广泛轮动，而非英伟达业务基本面的恶化。
 
 ## 🇯🇵 日本株式市場 / Japan Market
 
-- **[2026.07.10] 日経225先物 — 日経225先物、大幅高で取引開始**
-  日本語：10日0時00分現在、大阪取引所の日経225先物期近2026年9月限は前日比860円高の6万8780円と急騰した。日経平均株価の現物終値6万7743.85円に対しては1036.15円高で推移しており、本日の日本株市場は買い先行で始まる見込み。米国市場のハイテク株高の流れを引き継ぎ、半導体関連株を中心に買いが強まる可能性がある。
-  中文：总结：2026年7月10日凌晨，大阪交易所日经225股指期货9月合约较前一日上涨860日元，报68780日元，大幅飙升。这预示着今日日本股市将高开，受美国科技股上涨带动，半导体相关股票有望迎来强劲买盘。
-  📰 [株探](https://kabutan.jp/news/market/202607100000_1)
+- **[2026.07.10] 日経平均株価 — 日経平均は782円高で寄り付き**
+  日本語：10日の日経平均株価は前日比782.87円高の6万8526.72円で寄り付いた。これは、前日の米国市場が堅調に推移し、特に半導体やAI関連株が大きく上昇した流れを強く引き継いだものだ。中東情勢の緊迫緩和への期待感や原油価格の下落も投資家心理を改善させ、リスク選好の動きが市場全体で強まっている。寄り付き後はさらに上げ幅を拡大する場面も見られ、市場の勢いの強さを示している。今後は、米国市場の動向に加え、国内企業の決算発表が相次ぐため、個別銘柄の業績動向が市場全体の方向性を左右する可能性がある。
+  中文：总结：7月10日日经平均指数高开782.87点，报68526.72点。受前夜美股上涨提振，半导体及AI相关股票受到追捧，市场风险偏好增强。中东局势缓和预期及油价下跌也为市场带来积极影响。
+  📰 [株探](https://kabutan.jp/news/market/20260710/20260710090200)
 
-- **[2026.07.10] 決算発表 — 本日、複数の日本企業が決算発表**
-  日本語：本日7月10日、IRBANKによるとエストラスト、メディカル一光グループ、スタジオアタオ、ほぼ日、イオンファンタジー、ダイト、日本エンタープライズなど、複数の日本企業が四半期決算や本決算を発表する予定だ。これらの企業の業績は、それぞれのセクターや市場全体のセンチメントに影響を与える可能性があるため、注目される。
-  中文：总结：根据IRBANK和有报捕手，今日7月10日，包括エストラスト、メディカル一光集团、スタジオアタオ、ほぼ日、イオンファンタジー、ダイト、日本エンタープライズ在内的多家日本企业将公布季度或年度财报。这些公司的业绩可能对其各自行业及整体市场情绪产生影响。
-  📰 [IRBANK](https://irbank.net/ir/schedule/2026/07/10)
+- **[2026.07.10] TOPIX先物 — TOPIX先物は15.5ポイント高で寄り付き**
+  日本語：10日午前8時45分、TOPIX先物期近2026年9月限は前日清算値比15.5ポイント高の4041.5ポイントで寄り付いた。前日のTOPIX現物終値4020.37ポイントに対し、21.13ポイント高でのスタートとなり、市場の強気な姿勢を反映している。米国市場の堅調な動き、特にハイテク株や半導体関連株の上昇が、日本市場全体の買いを誘引した。幅広い業種に買いが広がり、市場の底堅さを示している。今後も、海外市場の動向や企業業績がTOPIXの動きを左右する主要因となるだろう。
+  中文：总结：7月10日TOPIX股指期货9月合约高开15.5点，报4041.5点。较前日现货收盘价高出21.13点。受美股走强及半导体股预期提振，日本市场整体买盘活跃，显示出市场强劲势头。
+  📰 [株探](https://kabutan.jp/news/market/20260710/20260710084600)
 
-- **[2026.07.10] 日本株SQ — 本日、7月限の特別清算指数算出日**
-  日本語：本日7月10日は、日本株の7月限オプションおよび先物取引の特別清算指数（SQ）算出日である。SQに絡んだ大口投資家によるポジション調整の動きが活発化し、日経平均株価や個別銘柄の価格が一時的に大きく変動する可能性があるため、市場参加者は注意が必要だ。特に半導体関連株の動向と需給要因が重なることで、値動きが荒くなる可能性も指摘されている。
-  中文：总结：今日7月10日是日本股市7月期权和期货合约的特别清算指数（SQ）计算日。与SQ相关的机构投资者头寸调整可能导致日经平均指数和个股价格出现短期大幅波动，市场参与者需保持警惕。半导体相关股票的走势与供需因素叠加，可能加剧市场波动。
-  📰 [note](https://note.com/briller_invest/n/n2626e6e6e6e6)
+- **[2026.07.10] 日経平均株価 — 日経平均の上げ幅が900円を突破**
+  日本語：10日の東京株式市場で、日経平均株価は午前9時3分現在、前日比975.23円高の6万8719.08円まで上昇し、上げ幅が900円を突破した。前日の米国市場での半導体関連株の力強い上昇が、東京市場の買いを加速させている。特に、指数寄与度の高いアドバンテストや東京エレクトロンなどの主要半導体銘柄が大きく買われ、日経平均を押し上げている。市場では、中東情勢の落ち着きや原油価格の下落も好材料と捉えられており、リスクオンの流れが継続している。
+  中文：总结：7月10日东京股市，日经平均指数上涨超过900点，截至上午9时3分，报68719.08点，较前日上涨975.23点。受前夜美股半导体股强劲上涨推动，东京市场买盘加速，主要半导体股贡献显著。中东局势趋稳和油价下跌也提振了市场情绪。
+  📰 [みんかぶ](https://minkabu.jp/news/4215786)
 
-- **[2026.07.10] ETF — 複数のETFが本日分配金権利確定日**
-  日本語：NEXT FUNDSによると、本日7月10日はNF・日経高配当50 ETF（1489）、NF・日本株高配当70 ETF（1577）、NF・TOPIX ETF（1306）など、複数のETFの分配金権利確定日となっている。これらのETFを保有している投資家は、本日時点での保有状況に基づいて分配金を受け取る権利が確定する。
-  中文：总结：根据NEXT FUNDS，今日7月10日是包括NF・日经高股息50 ETF（1489）、NF・日本股高股息70 ETF（1577）、NF・TOPIX ETF（1306）在内的多只ETF的股息权利确定日。持有这些ETF的投资者将根据今日的持有情况确定获得股息的权利。
-  📰 [NEXT FUNDS](https://nextfunds.jp/schedule/dividend/)
+- **[2026.07.10] ドル円 — ドル円は横ばい圏で推移、162円台半ば**
+  日本語：10日の外国為替市場のドル円相場は午前9時時点で1ドル＝162円36銭前後と、前日午後5時時点に比べ2銭のドル高・円安と横ばい圏で推移している。中東情勢の緊迫化が一服したことで、前日のドル売りは限定的となった。市場は引き続きイラン情勢の動向や原油価格の動きを注視しており、これが今後のドル円相場に影響を与える可能性がある。日米金利差の拡大傾向も円安基調を支える要因として意識されている。
+  中文：总结：7月10日上午9时，美元兑日元汇率在162.36日元附近窄幅波动，较前日收盘价小幅上涨2分。中东局势紧张缓解，美元抛售有限。市场继续关注伊朗局势和油价走势，日美利差扩大也支撑了日元贬值趋势。
+  📰 [株探](https://kabutan.jp/news/market/20260710/20260710090100)
 
-- **[2026.07.10] 半導体関連株 — 今週の日本株は半導体関連株の動向に注目**
-  日本語：ダイヤモンド・オンラインによると、今週（7月6日～10日）の日本株市場では、米国や韓国の半導体関連株の動向が日経平均株価に大きな影響を与える。特に7月10日は半導体月次売上とSQが重なるため、半導体株の反応と先物主導の動きが重なり、指数も個別株も値動きが荒くなる可能性があると指摘されている。
-  中文：总结：据Diamond Online报道，本周（7月6日至10日）日本股市将密切关注美国和韩国半导体相关股票的走势。特别是7月10日，半导体月度销售数据和SQ（特别清算指数）叠加，可能导致半导体股票和股指出现剧烈波动。
-  📰 [ダイヤモンド・オンライン](https://diamond.jp/articles/-/344444)
+- **[2026.07.10] 日本株市場 — 半導体・AI関連株とファーストリテイリングが指数を押し上げ**
+  日本語：10日の日本株市場は、前日の米国市場での半導体やAI関連株の活発な物色を受け、強含みの展開が予想される。フィラデルフィア半導体指数（SOX）が3％超上昇したことで、アドバンテストや東京エレクトロン、キオクシアHDなど日本の半導体関連企業への資金流入が強まる見込み。また、昨夕決算を発表し、2026年8月期業績予想を上方修正したファーストリテイリングも日経平均株価を押し上げる要因となる。これらの主要銘柄の動向が、本日の市場全体のパフォーマンスを大きく左右するだろう。
+  中文：总结：7月10日日本股市预计将走强，受前夜美股半导体和AI相关股票活跃交易提振。费城半导体指数上涨超3%，预计将带动日本半导体相关企业如爱德万测试、东京电子等资金流入。此外，优衣库母公司迅销集团上调2026年8月期业绩预期，也将提振日经平均指数。
+  📰 [Investing.com](https://jp.investing.com/news/stock-market-news/article-2292790)
 
-- **[2026.07.10] 日本銀行 — 現在の金融政策と次回の会合予定**
-  日本語：日本銀行の金融市場調節によると、無担保コールO/N物レート（平均）は0.978%（7月9日時点）、補完当座預金制度適用利率は1.0%（6月17日以降）で推移している。次回の金融政策決定会合は7月30日、31日に予定されており、市場は今後の金利動向や金融政策の変更について注目している。
-  中文：总结：根据日本银行的金融市场调节信息，无担保隔夜拆借利率（平均）为0.978%（截至7月9日），补充活期存款制度适用利率为1.0%（自6月17日起）。下一次货币政策会议定于7月30日和31日举行，市场正密切关注未来的利率走势和货币政策变化。
-  📰 [日本銀行 Bank of Japan](https://www.boj.or.jp/)
+- **[2026.07.10] 個別銘柄 — アルバイトＴ、セブン＆アイ、プログリットが自社株買いを発表**
+  日本語：9日大引け後、アルバイトＴ、セブン＆アイ、プログリットの3社が自社株買いを発表した。アルバイトＴは発行済み株式数の3.78％にあたる100万株を消却予定。セブン＆アイは10.92％にあたる2億8429万7500株を消却予定。プログリットは発行済み株式数(自社株を除く)の9.99％にあたる125万株(金額で9億3750万円)を上限に、10日朝の東証の自己株式立会外買付取引「ToSTNeT-3」で自社株買いを実施する。これらの発表は、10日の取引で各銘柄の株価にポジティブな影響を与える可能性がある。
+  中文：总结：7月9日收盘后，アルバイトＴ、セブン＆アイ、プログリット三家公司宣布进行股票回购。アルバイトＴ计划注销3.78%的已发行股份，セブン＆アイ计划注销10.92%的股份。プログリット计划在7月10日早盘通过ToSTNeT-3回购最多9.99%的股份。这些公告可能对7月10日相关股票的股价产生积极影响。
+  📰 [株探](https://kabutan.jp/news/market/20260710/20260710064000)
 
-- **[2026.07.10] 円安 — ドル円相場、円安傾向と介入警戒が続く**
-  日本語：豊島逸夫の手帖によると、円安の波がNY金市場にも影響を与え、ドル高の代名詞として円安が注目されている。また、マネックス証券の吉田恒氏の分析では、高市政権の財政規律懸念などから円先安観が強く、過去の介入事例から163円台では当局による円買い介入への警戒感が高まると指摘されている。
-  中文：总结：据丰岛逸夫的手帖，日元贬值波及纽约黄金市场，成为美元走强的代名词。此外，Monex证券吉田恒分析指出，高市政府的财政纪律担忧加剧日元看跌情绪，历史干预案例表明，日元兑美元在163日元区间可能引发当局的买入干预。
-  📰 [三菱マテリアル](https://gold.mmc.co.jp/toshima_blog/2026/07/09/)
+- **[2026.07.10] 東証グロース市場250指数先物 — グロース先物は5ポイント安で寄り付き**
+  日本語：10日午前8時45分、東証グロース市場250指数先物期近2026年9月限は前日清算値比5ポイント安の703ポイントで寄り付いた。前日の東証グロース市場250指数の現物終値715.54ポイントに対しては12.54ポイント安でのスタートとなった。全体市場が堅調な中、グロース市場の先物はやや軟調な滑り出しを見せた。これは、大型株や半導体関連株に資金が集中する一方で、成長株への資金流入が相対的に鈍いことを示唆している可能性がある。
+  中文：总结：7月10日上午8时45分，东证Growth市场250指数期货9月合约低开5点，报703点。较前日现货收盘价低12.54点。在整体市场走强背景下，Growth市场期货开盘表现略显疲软，可能反映出资金集中于大型股和半导体股，而成长股资金流入相对较弱。
+  📰 [株探](https://kabutan.jp/news/market/20260710/20260710084600)
 
-- **[2026.07.10] THE GLOBAL社 — 本日より代用有価証券から除外**
-  日本語：日本取引所グループの発表によると、株式会社THEグローバル社（コード：3271）は、特定の者以外の株主の所有するすべての株式を1株に満たない端数となる割合で株式併合を行うため、7月28日に上場廃止となる。本日7月10日以降、同社株式は信用取引や発行日決済取引の委託保証金などの代用有価証券から除外される。
-  中文：总结：根据日本交易所集团的公告，株式会社THE GLOBAL社（代码：3271）因进行股票合并，导致特定股东以外的所有股份不足一股，将于7月28日退市。自今日7月10日起，该公司股票将从信用交易和发行日结算交易的保证金等替代有价证券中剔除。
+- **[2026.07.10] （株）ＴＨＥグローバル社 — 株式併合により上場廃止が決定、7月28日付**
+  日本語：東京証券取引所は9日、（株）ＴＨＥグローバル社（コード：3271）の株式併合に伴う上場廃止を決定したと発表した。整理銘柄指定期間は7月9日から7月27日までで、上場廃止日は7月28日となる。特定の者以外の株主の所有するすべての株式が1株に満たない端数となる割合で株式併合が行われるため。同社株式は10日以降、信用取引及び発行日決済取引の委託保証金など、各種代用有価証券から除外されるため、市場参加者は注意が必要だ。
+  中文：总结：东京证券交易所9日宣布，因股票合并，（株）ＴＨＥグローバル社（代码：3271）将于7月28日退市。整理股票指定期为7月9日至7月27日。由于特定股东以外的所有股份将合并为不足一股的零股，该公司股票自7月10日起将从信用交易等替代证券中剔除，市场参与者需留意。
   📰 [日本取引所グループ](https://www.jpx.co.jp/news/1020/20260709-01.html)
 
 ## 🌍 宏观经济与投资 / Macro & Investment
 
-Here are recent news items about macroeconomics and investment:
+Here are 4 to 8 recent news items specifically about Macro & Investment, dated 2026.07.10, adhering to your specified format and content requirements:
 
-- **[2026.07.10] US Stock Market — 华尔街股市在AI股带动下企稳**
-  English: Wall Street saw a steadier trading day with the S&P 500 and Nasdaq Composite posting modest gains, primarily driven by renewed strength in artificial intelligence (AI) related stocks like Micron Technology and Broadcom. This rebound comes despite ongoing geopolitical tensions in the Middle East, which had previously caused sharp swings in oil prices and broader market uncertainty. Investors are closely watching the performance of AI companies, which have become significant market movers, though concerns about their valuations persist. The Dow Jones Industrial Average, however, experienced a slight decline.
-  中文：总结：在人工智能相关股票如美光科技和博通的强劲表现带动下，华尔街股市表现企稳，标普500指数和纳斯达克综合指数小幅上涨。尽管中东地缘政治紧张局势持续，导致油价大幅波动并增加了市场不确定性，但AI股的上涨抵消了部分负面影响。投资者正密切关注AI公司的表现，但对其估值过高的担忧依然存在。道琼斯工业平均指数则略有下跌。
+- **[2026.07.10] US Stock Market — 芯片股上涨推动美股走高，投资者关注大型科技公司财报**
+  English: U.S. stock indexes closed higher on July 9, 2026, with the S&P 500 gaining 0.81% to 7,543.64, the Nasdaq Composite rising 1.30% to 26,206.89, and the Dow Jones Industrial Average up 0.27% to 52,487.41. The rally was primarily driven by a strong performance in semiconductor stocks, fueled by the artificial intelligence boom and positive news regarding Micron's significant investment in a new plant and SK Hynix's oversubscribed U.S. IPO book-building. Additionally, easing concerns over Middle East tensions and falling crude oil prices boosted risk appetite. Investors are now keenly awaiting upcoming corporate earnings reports for further market direction.
+  中文：总结：2026年7月9日，美国股市三大股指收高，芯片股在人工智能热潮和利好消息的推动下表现强劲，成为市场上涨的主要动力。中东地缘政治紧张局势的缓解以及原油价格下跌也提振了市场风险偏好。投资者目前正密切关注即将发布的大型科技公司财报，以寻找新的市场指引。
+  📰 [ChosunBiz](https://english.chosun.com/site/data/html_dir/2026/07/10/2026071080001.html)
 
-  📰 [BNN Bloomberg](https://www.bnnbloomberg.ca/oil-prices-and-stock-markets-worldwide-hold-steadier-as-ai-stocks-climb-1.2095368)
+- **[2026.07.10] Federal Reserve — 美联储新主席Kevin Warsh的鹰派立场重塑市场对利率的预期**
+  English: The Federal Reserve, under new Chairman Kevin Warsh, has adopted a hawkish stance, prioritizing price stability and inflation control. With the Personal Consumption Expenditures (PCE) price index at 4.1% in May 2026, well above the 2% target, the Fed is signaling that interest rates may remain higher for longer or even rise further. Market expectations have shifted, with futures trading indicating a 0% chance of a rate cut at the July 29 meeting and a 25.1% probability of a quarter-point hike. This pivot from anticipated easing to potential tightening has significant implications for equity valuations and bond yields, requiring investors to recalibrate their strategies.
+  中文：总结：美联储在新任主席Kevin Warsh的领导下，采取了鹰派货币政策，将物价稳定和通胀控制置于首位。鉴于2026年5月PCE物价指数高达4.1%，远超2%的目标，美联储暗示利率可能在更长时间内维持高位甚至进一步上调。市场预期已发生转变，期货交易显示7月29日降息的可能性为0%，而加息25个基点的可能性为25.1%。这一政策转向对股票估值和债券收益率产生重大影响，投资者需重新调整投资策略。
+  📰 [The Motley Fool](https://www.fool.com/investing/2026/07/09/will-the-fed-cut-rates-in-july-2026-heres-what-the/)
 
-- **[2026.07.10] Federal Reserve — 美联储维持利率不变，通胀前景仍受关注**
-  English: The Federal Reserve maintained its target range for the federal funds rate at 3.50%–3.75% at its June meeting, with the market now pricing in at least one 25 basis point rate increase in 2026. While economic activity is expanding at a solid pace and productivity growth is strong, inflation remains elevated relative to the Committee's 2% goal. New Fed Chair Kevin Warsh emphasized price stability, hinting at a potentially hawkish stance. Lower motor fuel prices are bringing some relief, suggesting inflation may have peaked, but geopolitical tensions could still impact the outlook.
-  中文：总结：美联储在6月会议上维持联邦基金利率目标区间在3.50%–3.75%不变，市场预计2026年至少会加息25个基点。尽管经济活动稳健扩张且生产率增长强劲，但通胀仍高于美联储2%的目标。新任主席凯文·沃什强调价格稳定，暗示可能采取鹰派立场。燃油价格下降带来一定缓解，表明通胀可能已见顶，但地缘政治紧张局势仍可能影响前景。
+- **[2026.07.10] Global Economy — 国际货币基金组织上调2026年全球通胀预期，地缘政治与科技周期交织**
+  English: The International Monetary Fund (IMF) released its July 2026 World Economic Outlook Update, projecting global growth at 3.0% for 2026 and 3.4% for 2027, broadly unchanged from April's forecasts. However, global headline inflation is now expected to increase from 4.1% in 2025 to 4.7% in 2026, a 0.3 percentage point upward revision from April, primarily due to higher energy and food prices. The report highlights that the global economy is navigating crosscurrents of ongoing Middle East conflict and an accelerated technology-driven investment boom, with impacts varying significantly across countries based on their exposure to these factors.
+  中文：总结：国际货币基金组织（IMF）在2026年7月的《世界经济展望更新》中预测，2026年全球经济增长率为3.0%，2027年为3.4%，与4月份的预测基本持平。然而，全球总体通胀预计将从2025年的4.1%上升至2026年的4.7%，较4月份上调了0.3个百分点，主要受能源和食品价格上涨影响。报告强调，全球经济正处于中东冲突和科技驱动投资热潮的交织影响下，各国受到的影响因其暴露程度而异。
+  📰 [International Monetary Fund](https://www.imf.org/en/Publications/WEO/Issues/2026/07/08/world-economic-outlook-update-july-2026)
 
-  📰 [Welch & Forbes](https://www.welchforbes.com/economic-outlook-july-2026/)
+- **[2026.07.10] Japan Market — 日本股市有望上涨，芯片和人工智能相关股票持续受关注**
+  日本語：2026年7月10日、日本株式市場は、前日の米国市場の上昇を受け、半導体およびAI関連銘柄への買いが継続し、堅調に推移する見込みです。米国のドナルド・トランプ大統領がイランとの対立が大規模な軍事作戦再開には至らないと発言し、原油価格が下落したことで、インフレ懸念が緩和され、市場センチメントが改善しました。これにより、テクノロジー株が市場を牽引し、日経平均株価はさらなる上昇が期待されます。ただし、ETF分配金に関連する売り圧力や、日本の企業決算発表シーズン本格化に伴うセクターローテーションの動向には引き続き注意が必要です。
+  中文：总结：2026年7月10日，日本股市预计将走高，主要受美国股市上涨以及半导体和人工智能相关股票持续买盘的推动。美国总统特朗普关于伊朗冲突的言论缓解了地缘政治紧张，原油价格下跌也减轻了通胀担忧，提振了市场情绪。科技股有望领涨，但投资者仍需关注ETF分配金相关的抛售压力以及日本企业财报季带来的板块轮动。
+  📰 [Finanzen.ch](https://www.finanzen.ch/news/japan-shares-poised-to-open-to-the-upside-on-friday-10.07.26-1035541584)
 
-- **[2026.07.10] Nikkei 225 & Japanese Yen — 日经225指数上涨，日元兑美元徘徊于40年低点**
-  日本語：7月9日、日経225指数は1.55%上昇し、不動産、銀行、繊維セクターが主導して取引を終えました。これは半導体株の回復に支えられた動きです。しかし、日本円は対米ドルで162円台後半と、40年ぶりの安値付近で推移しており、投機筋は日本政府による介入を警戒しています。日本銀行は先月、31年ぶりの高水準となる1%まで金利を引き上げ、さらなる利上げを示唆していますが、円安の進行は続いています。
-  中文：总结：7月9日，日经225指数上涨1.55%，主要受房地产、银行和纺织板块的带动，半导体股的反弹也提供了支撑。然而，日元兑美元汇率徘徊在162日元附近，接近40年来的低点，市场对日本央行可能采取干预措施保持警惕。尽管日本央行上月将利率上调至31年来的最高水平1%，并暗示可能进一步加息，但日元贬值趋势仍在持续。
+- **[2026.07.10] Crude Oil — 原油价格因中东局势缓和而下跌**
+  English: Crude oil prices experienced downward pressure on July 10, 2026, after an early advance, as speculation grew that the escalation of hostilities between the U.S. and Iran would be limited. West Texas Intermediate (WTI) for August delivery was down, giving up initial gains that followed reports of U.S. attacks on Iranian targets. Comments from President Trump, indicating he does not want a return to full-scale war and suggesting a willingness to negotiate, eased concerns about a prolonged conflict and bolstered expectations for the recovery of shipping flows through the Strait of Hormuz.
+  中文：总结：2026年7月10日，原油价格在早盘上涨后转为下跌，市场猜测美国与伊朗之间的敌对行动升级将受到限制。美国总统特朗普的言论，表明他不希望全面战争，并暗示愿意谈判，缓解了对冲突长期化的担忧，并增强了霍尔木兹海峡航运恢复的预期，导致原油价格承压。
+  📰 [Barchart.com](https://www.barchart.com/futures/quotes/CLN26/news)
 
-  📰 [Investing.com](https://jp.investing.com/news/stock-market-news/article-366938)
+- **[2026.07.10] Bitcoin ETF — 比特币ETF资金流出趋势逆转，但机构需求仍不均衡**
+  English: After an extended period of outflows, U.S. spot Bitcoin ETFs saw a significant shift in sentiment. While July 3rd recorded a notable inflow of $221 million, breaking a 10-day outflow streak, the overall picture for the week ending July 3rd still showed net outflows of $526.64 million, extending an eight-week outflow streak to over $8.2 billion. However, more recent data for July 6th indicated a substantial $265.7 million inflow, the largest since early May, suggesting renewed institutional interest. Despite these positive signs, crypto ETF flows turned negative again on July 8th, with U.S. spot Bitcoin funds recording $84.9 million in net outflows, highlighting uneven institutional demand post-Independence Day holiday.
+  中文：总结：美国现货比特币ETF在经历长期资金流出后，情绪出现显著转变。7月3日录得2.21亿美元的显著流入，打破了连续10天的流出趋势，但截至7月3日当周总体仍净流出5.2664亿美元，使连续八周的流出总额超过82亿美元。然而，7月6日的最新数据显示，流入资金达到2.657亿美元，为5月初以来最大单日流入，表明机构兴趣重燃。尽管有这些积极迹象，7月8日加密ETF资金流再次转为负值，美国现货比特币基金净流出8490万美元，显示出独立日假期后机构需求仍不均衡。
+  📰 [Crypto Briefing](https://cryptobriefing.com/us-spot-bitcoin-etfs-266m-inflow-largest-may/)
 
-- **[2026.07.10] IMF Global Economic Outlook — 国际货币基金组织预测全球经济增长受地缘政治与科技双重影响**
-  English: The International Monetary Fund (IMF) released its July 2026 World Economic Outlook, projecting global growth at 3.0% for 2026 and 3.4% for 2027, largely unchanged from April forecasts. The report highlights two opposing forces shaping the outlook: lingering war-related uncertainty, particularly from the Middle East conflict, and a powerful technology-driven investment boom, fueled by advancements in artificial intelligence. Global headline inflation is expected to rise from 4.1% in 2025 to 4.7% in 2026, mainly due to higher energy and food prices, indicating a stall in the disinflation trend.
-  中文：总结：国际货币基金组织（IMF）发布了2026年7月《世界经济展望报告》，预测2026年全球经济增长率为3.0%，2027年为3.4%，与4月份的预测基本持平。报告指出，地缘政治不确定性（特别是中东冲突）和人工智能驱动的科技投资热潮是影响全球经济前景的两个主要对立因素。受能源和食品价格上涨影响，全球总体通胀预计将从2025年的4.1%上升至2026年的4.7%，表明通胀下降趋势已停滞。
+- **[2026.07.10] India Central Bank — 印度央行将进行5000亿卢比的3天期可变利率回购拍卖**
+  English: The Reserve Bank of India (RBI) announced it would conduct a 3-day Variable Rate Repo (VRR) auction for ₹50,000 crore (approximately $6 billion USD) on July 10, 2026. This move comes after a review of liquidity conditions in the banking system, indicating the RBI's effort to stabilize short-term funding and money market rates. The auction will be held under the Liquidity Adjustment Facility (LAF) from 9:30 AM to 10:00 AM, with the reversal scheduled for July 13, 2026. This action is part of the central bank's ongoing liquidity management operations.
+  中文：总结：印度储备银行（RBI）宣布将于2026年7月10日进行一笔5000亿卢比（约合60亿美元）的3天期可变利率回购（VRR）拍卖。此举是在审查银行系统流动性状况后作出的，表明印度央行旨在稳定短期融资和货币市场利率。此次拍卖将在流动性调整工具（LAF）下进行，时间为上午9:30至10:00，并计划于2026年7月13日进行逆回购。这是央行持续流动性管理操作的一部分。
+  📰 [Traders Union](https://tradersunion.com/news/central-banks/rbi-to-conduct-a-3-day-vrr-auction-of-50000-crore-on-july-10/)
 
-  📰 [CNBC Africa](https://www.cnbcafrica.com/2026/imfs-july-2026-world-economic-outlook/)
-
-- **[2026.07.10] SK Hynix IPO — SK海力士280亿美元IPO超额认购，今日纳斯达克上市**
-  English: SK Hynix, the South Korean semiconductor giant, is set to make its major US stock market debut on the Nasdaq Global Select Market today, July 10, 2026, aiming for a $28 billion listing. This highly anticipated initial public offering (IPO) has been significantly oversubscribed, with reports indicating that its American Depositary Shares (ADS) were seven times oversubscribed. This listing could mark the largest-ever US listing by a foreign company and highlights the continued strong investor appetite for companies tied to the artificial intelligence boom.
-  中文：总结：韩国半导体巨头SK海力士计划于今日（2026年7月10日）在纳斯达克全球精选市场进行首次公开募股（IPO），目标筹集280亿美元。此次备受期待的IPO已获得大幅超额认购，有报道称其美国存托股票（ADS）超额认购达七倍。此次上市可能成为外国公司在美国规模最大的上市，凸显了投资者对人工智能热潮相关公司的持续强劲兴趣。
-
-  📰 [The Financial Express](https://www.financialexpress.com/global-markets-news/7-of-the-years-10-largest-ipos-nasdaq-raises-a-record-129-billion-from-new-listings-so-far-this-year/3553226/)
-
-- **[2026.07.10] Global Oil Market — 中东紧张局势加剧，油价波动但趋于稳定**
-  English: Oil prices are holding steadier after sharp swings, as global markets react to renewed hostilities in the Middle East, with the US launching new airstrikes against Iran. Brent crude futures edged lower to $77.94 a barrel, down slightly from the previous day but still significantly above last week's levels. The ongoing geopolitical uncertainty, particularly regarding the Strait of Hormuz, continues to fuel inflation fears and impact global bond markets, although a temporary truce had previously offered some respite.
-  中文：总结：在中东地区敌对行动再次升级，美国对伊朗发动新的空袭后，全球市场对油价的剧烈波动做出反应，目前油价趋于稳定。布伦特原油期货小幅下跌至每桶77.94美元，较前一日略有下降，但仍远高于上周水平。持续的地缘政治不确定性，特别是霍尔木兹海峡的局势，继续引发通胀担忧并影响全球债券市场，尽管此前曾有过短暂的休战。
-
-  📰 [Pittsburgh Post-Gazette](https://www.post-gazette.com/business/money/2026/07/09/oil-prices-stock-markets-worldwide-ai-stocks-climb/stories/202607090035)
+- **[2026.07.10] Delta Air Lines (DAL) — 达美航空公布第二季度财报，盈利下降但营收增长**
+  English: Delta Air Lines (DAL) is scheduled to release its second-quarter earnings report on July 10, 2026. Analysts forecast earnings per share (EPS) of $1.50, representing a nearly 29% year-over-year decline, despite an expected 13% increase in revenue to $18.85 billion. The airline anticipates low-teens percentage revenue growth and an operating margin between 6% and 8%. Investors are closely watching Delta's outlook on summer travel demand and the performance of its premium services, which are crucial for the company's recovery trajectory.
+  中文：总结：达美航空（DAL）计划于2026年7月10日发布第二季度财报。分析师预计其每股收益为1.50美元，同比下降近29%，尽管营收预计将增长13%至188.5亿美元。该航空公司预计营收将实现低两位数百分比增长，营业利润率在6%至8%之间。投资者正密切关注达美航空对夏季旅行需求及其高端服务表现的展望，这些对其复苏轨迹至关重要。
+  📰 [GuruFocus](https://www.gurufocus.com/news/2026/07/09/delta-air-lines-dal-prepares-for-q2-earnings-report-amid-rising-costs)
 
 ---
 ※Stock Market Daily Digest | 2026.07.10
