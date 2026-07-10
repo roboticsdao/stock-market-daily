@@ -1,0 +1,109 @@
+# 📈 Stock Market Daily | 2026.07.11（土曜日 / Saturday）
+
+> ⚠ 本日报优先收录最近24小时的市场新闻、个股异动与当时市场快照；数据仅供参考，不构成投资建议。
+
+---
+
+
+## 🇺🇸 美国股市 / US Market
+
+Here are recent news items concerning the US market as of July 11, 2026:
+
+- **[2026.07.11] Nasdaq — 纳斯达克计划于周六进行系统测试**
+  English: Nasdaq has scheduled a production system testing opportunity for Saturday, July 11, 2026, from 9:00 a.m. to 12:00 p.m. ET. This technical alert allows firms to test their automated systems integrating with Nasdaq's services. While not a trading day, such testing ensures system readiness and stability, which is crucial for market infrastructure, especially given the continuous evolution of trading technologies. Firms were required to register by Friday to participate.
+  中文：总结：纳斯达克交易所定于2026年7月11日（星期六）进行生产系统测试，时间为美国东部时间上午9点至中午12点。此次测试旨在让参与公司验证其自动化系统与纳斯达克服务的集成，确保市场基础设施的稳定性和技术准备，对未来交易顺畅运行至关重要。
+  📰 [Nasdaq](https://business.nasdaq.com/trade/trade-initiatives/equity-trader-alerts/2026/2026-36.html)
+
+- **[2026.07.11] SK Hynix — SK海力士在纳斯达克首次亮相，提振AI芯片板块情绪**
+  English: South Korean chipmaker SK Hynix made its Nasdaq debut on Friday, July 10th, pricing 177.9 million American Depositary Receipts (ADRs) at $149 each and raising $26.5 billion. This significant IPO, the largest U.S. share sale by a foreign company since SpaceX, has revitalized the AI trade, with strong investor appetite for AI-related stocks despite recent sector pullbacks. The successful listing is expected to influence market sentiment for tech and semiconductor stocks as the new trading week approaches.
+  中文：总结：韩国芯片制造商SK海力士于7月10日（周五）在纳斯达克成功上市，通过发行美国存托凭证筹集了265亿美元。此次大规模IPO是自SpaceX以来外国公司在美国最大的股票发行，显示出投资者对AI相关股票的强劲需求，预计将提振科技和半导体板块在下周的市场情绪。
+  📰 [24/7 Wall St.](https://247wallst.com/investing/2026/07/10/live-nasdaq-composite-tech-bulls-circle-amid-sk-hynixs-us-market-debut/)
+
+- **[2026.07.11] 联邦储备委员会 — 美联储7月加息预期升温，市场关注通胀控制**
+  English: Speculation about a potential Federal Reserve interest rate hike at the July 28-29 meeting intensified on Friday, July 10th, with the CME FedWatch tool assigning approximately a 25% probability to a 25-basis-point increase. The Fed's focus has "completely flipped" from labor market concerns to inflation containment, driven by sticky inflation data and resilient economic indicators. This hawkish pivot, under new Fed Chair Kevin Warsh, suggests a "higher for longer" interest rate scenario, impacting investor strategies across asset classes.
+  中文：总结：市场对美联储在7月28-29日会议上加息的预期在7月10日（周五）升温，CME FedWatch工具显示加息25个基点的可能性约为25%。在新任主席凯文·沃什的领导下，美联储的重心已完全转向控制通胀，而非劳动力市场，预示着“更高更久”的利率环境，对各类资产的投资策略产生深远影响。
+  📰 [Intellectia AI](https://intellectia.ai/blog/federal-reserve-interest-rate-decision-july-2026-market-impact-analysis)
+
+- **[2026.07.11] S&P 500 & Dow Jones — 标普500和道琼斯指数七月展望：预计温和上涨**
+  English: Forecasts updated on Friday, July 10th, for the S&P 500 and Dow Jones Industrial Average suggest a generally positive, albeit potentially volatile, July. The S&P 500 is projected to see an average gain of 1.2% for the month, closing around 7586, while the Dow Jones is forecasted for a 1.3% increase, ending near 52979. These outlooks indicate continued upward momentum, building on strong first-half performance, though geopolitical uncertainties and inflation risks remain factors to monitor.
+  中文：总结：7月10日（周五）更新的预测显示，标普500指数和道琼斯工业平均指数在7月份有望实现温和上涨。标普500指数预计本月平均上涨1.2%，收于7586点附近；道琼斯指数预计上涨1.3%，收于52979点附近。这些预测表明市场将延续上半年的上涨势头，但地缘政治不确定性和通胀风险仍需关注。
+  📰 [The Economy Forecast Agency](https://longforecast.com/dow-jones-forecast-2026-2027-2028)
+
+- **[2026.07.11] 美国市场 — 高盛预测下半年市场乐观，AI投资驱动企业盈利**
+  English: Goldman Sachs Asset Management's July 2026 market pulse report, released earlier in the week, maintains a constructive outlook for global equities, particularly in the US, for the second half of 2026. The report highlights robust corporate earnings, with consensus forecasting 22% year-over-year Q2 EPS growth for the S&P 500, largely driven by significant AI investments. This positive sentiment, coupled with potential market broadening, suggests continued growth for risk assets, although geopolitical uncertainty and inflation risks necessitate careful portfolio positioning.
+  中文：总结：高盛资产管理公司7月市场脉搏报告指出，对2026年下半年全球股市，特别是美国市场，保持乐观态度。报告强调，强劲的企业盈利（标普500第二季度每股收益预计同比增长22%）主要得益于大规模AI投资。这种积极情绪预示着风险资产将持续增长，但地缘政治不确定性和通胀风险要求投资者谨慎配置。
+  📰 [Goldman Sachs Asset Management](https://www.gsam.com/content/gsam/us/en/institutions/market-insights/gsam-insights/2026/us-market-pulse-july.html)
+
+- **[2026.07.11] 科技股 — 7月值得关注的美国科技股：摩根大通与特斯拉**
+  English: As of Friday, July 10th, several key US stocks are drawing attention for July, with upcoming earnings reports and market catalysts. JPMorgan Chase (JPM) is set to kick off earnings season on July 14th, with analysts expecting a 10% year-over-year EPS increase, though institutional buying pressure appears to be slipping. Tesla (TSLA) also remains a stock to watch, despite a year-to-date decline, with its Q2 earnings report on July 22nd potentially shifting sentiment, especially concerning robotaxi updates and demand outlook against new EV competition.
+  中文：总结：截至7月10日（周五），几只关键美国股票在7月因即将发布的财报和市场催化剂而备受关注。摩根大通（JPM）将于7月14日拉开财报季序幕，分析师预计其每股收益同比增长10%，但机构买盘压力有所减弱。特斯拉（TSLA）尽管今年迄今下跌，但其7月22日的第二季度财报，特别是关于自动驾驶出租车更新和面对新电动汽车竞争的需求前景，可能迅速改变市场情绪。
+  📰 [Mitrade](https://www.mitrade.com/articles/us-stocks-to-watch-in-july-2026)
+
+## 🇯🇵 日本株式市場 / Japan Market
+
+- **[2026.07.11] 日経225先物 — 日経225先物、小幅高で推移**
+  日本語：7月11日0時現在、大阪取引所の日経225先物期近2026年9月限は前日比40円高の6万8850円で推移しました。日経平均株価の現物終値6万8557.73円に対しては292.27円高となり、小幅ながらも上昇基調を維持しています。出来高は8159枚。TOPIX先物も前日比18ポイント高の4076ポイントで推移しており、週末を控えた市場で堅調な動きが見られます。これは、週明けの現物市場への期待感を示唆する可能性があります。
+  中文：总结：2026年7月11日0时，大阪交易所日经225股指期货2026年9月合约较前一交易日上涨40日元，报68850日元。相对于日经平均指数现货收盘价68557.73日元，高出292.27日元，显示出小幅上涨趋势。TOPIX期货也上涨18点至4076点，表明市场在周末前表现坚挺。
+  📰 [株探](https://kabutan.jp/news/market/20260711_0000)
+
+- **[2026.07.11] 円相場 — 円、対ドルで続伸**
+  日本語：ニューヨーク外国為替市場では、円が対ドルで続伸しました。片山財務相が10日、年金積立金管理運用独立行政法人（GPIF）など年金基金による日本の金融資産投資を後押しする考えを示したことが、引き続き円買いにつながりました。また、米イラン攻撃応戦中も和平交渉を進める意向が示され、原油価格の上昇が限定的となったことも円買いを支援したと見られます。ドル・円は161円80銭から161円64銭へじり安推移しました。
+  中文：总结：纽约外汇市场日元兑美元持续走强。日本财务大臣片山10日表示支持年金公积金管理运用独立行政法人（GPIF）等养老基金投资日本金融资产，持续推动日元买盘。此外，美伊冲突中和谈意向的表明，以及原油价格上涨受限，也支撑了日元买盘。美元兑日元从161.80日元逐步走低至161.64日元。
+  📰 [株探](https://kabutan.jp/news/market/20260711_0022)
+
+- **[2026.07.11] 週刊東洋経済 — NISAで注目すべき日本株を徹底分析**
+  日本語：週刊東洋経済2026年7月11日号では、「次のキオクシアは？ NISAで買いたい 日本株 徹底分析」と題し、AI・半導体、防衛・宇宙、肥満症薬、蓄電池、インバウンド、バフェット関連、低PER、高配当といった多岐にわたるテーマで日本株を深掘りしています。専業投資家テスタ氏のインタビューも掲載され、日経平均の予想の無意味さを指摘し、感情よりもルールを優先する投資戦略を提言。市場の二極化が進む中、新たな投資機会を探る投資家にとって有益な情報が満載です。
+  中文：总结：2026年7月11日发行的《周刊东洋经济》以“下一个铠侠是谁？NISA值得购买的日本股票深度分析”为主题，深入探讨了AI与半导体、防卫与宇宙、肥胖症药物、蓄电池、入境旅游、巴菲特相关、低市盈率、高股息等多个领域的日本股票。专业投资者テスタ的采访也指出预测日经平均指数的无意义性，并建议优先规则而非情感的投资策略。
+  📰 [紀伊國屋書店](https://www.kinokuniya.co.jp/f/dsg-08-9784492665045)
+
+- **[2026.07.11] 日本市場展望 — 週末の市場ヘッドラインと週明けの動向予測**
+  日本語：2026年7月10日時点の市場展望では、7月11日夜間から12日にかけての週末市場について分析しています。米国株の反発が日本株を支援する一方で、原油価格や円安介入警戒、中東供給リスクが上値を抑える要因として挙げられています。現物株市場は休場ですが、QQQ（ナスダック100連動ETF）やSPY（S&P500連動ETF）の動向、ブレント原油価格が週明けの日経平均株価の70,000円台維持、あるいは68,800円方向へのギャップダウンを左右すると予測されています。
+  中文：总结：2026年7月10日的市场展望分析了7月11日夜间至12日的周末市场。美国股市的反弹支撑日本股市，但原油价格、日元贬值干预警惕以及中东供应风险抑制了上涨空间。虽然现货市场休市，但QQQ和SPY的走势以及布伦特原油价格预计将影响下周日经平均指数能否维持在70,000日元水平，或出现跌至68,800日元的跳空低开。
+  📰 [Note](https://note.com/hide_tax/n/n2193b2169b18)
+
+## 🌍 宏观经济与投资 / Macro & Investment
+
+Here are 8 recent news items concerning macroeconomics and investment, dated 2026.07.11 as per your request.
+
+- **[2026.07.11] US Stock Market — 美股主要股指上涨，科技股领涨**
+  English: U.S. stock markets closed higher on Thursday, July 10, 2026, with the artificial intelligence (AI) trade regaining momentum and easing crude oil prices boosting market sentiment. The S&P 500 gained 0.8% to 7,543.64, the Nasdaq Composite rose 1.3% to 26,206.89, and the Dow Jones Industrial Average increased by 0.3% to 52,478.41. Technology and energy sectors saw gains, while materials, financials, and consumer discretionary sectors experienced declines.
+  中文：总结：2026年7月10日，美国股市主要股指收高，人工智能（AI）概念股重拾升势，油价回落也提振了市场情绪。标普500指数上涨0.8%，纳斯达克综合指数上涨1.3%，道琼斯工业平均指数上涨0.3%。科技和能源板块表现强劲，而材料、金融和非必需消费品板块则有所下跌。
+  📰 [Zacks Investment Research](https://www.zacks.com/stock/news/2773323/stock-market-news-for-july-10-2026)
+
+- **[2026.07.11] Japan Market — 日本生产者物价指数飙升，日经指数受AI提振上涨**
+  日本語：2026年7月10日、日本の6月生産者物価指数は前年比7.1%上昇し、予想を上回る結果となりました。これは2023年3月以来の高い卸売物価上昇率で、エネルギーコスト上昇と中東紛争によるサプライチェーン問題が影響しています。これを受け、日経225指数は1.5%上昇し、AI関連株が相場を牽引しました。円も対ドルで161.5円を下回る水準まで上昇しました。
+  中文：总结：2026年7月10日，日本6月份生产者物价指数同比飙升7.1%，超出预期，创2023年3月以来新高，主要受能源成本上涨和中东冲突引发的供应链问题影响。受此影响，日经225指数上涨1.5%，AI相关股票表现强劲。日元兑美元汇率也走强，跌破161.5。
+  📰 [GuruFocus](https://www.gurufocus.com/news/2405021/japans-producer-prices-surge-71-in-june-2026-nikkei-225-rise)
+
+- **[2026.07.11] Global Economic Outlook — 国际货币基金组织发布2026年7月世界经济展望更新**
+  English: The International Monetary Fund (IMF) released its July 2026 World Economic Outlook update, projecting global growth at 3.0% for 2026 and 3.4% for 2027, largely unchanged from April forecasts. The outlook is shaped by two opposing forces: lingering uncertainty from geopolitical conflicts and a technology-driven investment boom, particularly in AI. Global inflation is expected to rise to 4.7% in 2026 due to higher energy and food prices before easing in 2027.
+  中文：总结：国际货币基金组织（IMF）发布了2026年7月世界经济展望更新报告，预计2026年全球经济增长率为3.0%，2027年为3.4%，与4月份的预测基本持平。展望受到地缘政治冲突持续不确定性和人工智能驱动的技术投资热潮的双重影响。受能源和食品价格上涨影响，预计2026年全球通胀将升至4.7%。
+  📰 [International Monetary Fund](https://www.imf.org/en/Publications/WEO/Issues/2026/07/08/world-economic-outlook-update-july-2026)
+
+- **[2026.07.11] USD/JPY Exchange Rate — 美元兑日元汇率波动，日元走弱趋势持续**
+  English: The USD/JPY exchange rate was around 161.8020 on July 10, 2026, reflecting a 0.36% decline from the previous session. Over the past month, the Japanese Yen has weakened by 1.18%, and by 9.77% over the last 12 months. Analysts expect the Japanese Yen to trade around 160.28 by the end of the current quarter, with a further estimate of 156.96 in 12 months' time.
+  中文：总结：2026年7月10日，美元兑日元汇率约为161.8020，较前一交易日下跌0.36%。过去一个月，日元已贬值1.18%，过去12个月贬值9.77%。分析师预计本季度末日元将交易在160.28附近，未来12个月可能进一步跌至156.96。
+  📰 [Trading Economics](https://tradingeconomics.com/japan/currency)
+
+- **[2026.07.11] Gold Prices — 黄金价格受油价回落和地缘政治影响企稳**
+  English: Gold prices edged lower to $4,098.66 an ounce on July 10, 2026, ending the week down about 1.5%. The yellow metal's movements were influenced by rising crude oil prices and escalating US-Iran tensions, which raised concerns about the Federal Reserve maintaining a tight monetary policy. However, gold recovered some ground as oil prices retreated, with the metal expected to trade in the $4,000-$4,200 range in the near term.
+  中文：总结：2026年7月10日，黄金价格小幅下跌至每盎司4,098.66美元，本周累计下跌约1.5%。金价走势受到原油价格上涨和美伊紧张局势升级的影响，市场担忧美联储将维持紧缩货币政策。然而，随着油价回落，黄金收复部分失地，预计短期内将在4,000-4,200美元区间波动。
+  📰 [Trading Economics](https://tradingeconomics.com/commodity/gold)
+
+- **[2026.07.11] US Treasury Yields — 美国10年期国债收益率保持稳定**
+  English: The yield on the US 10-Year Treasury Note held steady at 4.56% on July 10, 2026. Over the past month, the yield has increased by 0.08 points, and it is 0.14 points higher than a year ago. Trading Economics' global macro models and analysts expect the yield to trade at 4.43% by the end of this quarter and 4.26% in 12 months.
+  中文：总结：2026年7月10日，美国10年期国债收益率稳定在4.56%。过去一个月，该收益率上升了0.08个百分点，较一年前高出0.14个百分点。Trading Economics的全球宏观模型和分析师预计，本季度末收益率将达到4.43%，未来12个月内将降至4.26%。
+  📰 [Trading Economics](https://tradingeconomics.com/united-states/government-bond-yield)
+
+- **[2026.07.11] Federal Reserve Policy — 美联储成立工作组审查货币政策**
+  English: Federal Reserve Chairman Kevin Warsh announced on July 9, 2026, the establishment of five task forces to review key areas of monetary policy. These groups, co-led by external advisors, will examine communications, balance sheet policy, data, productivity and jobs (including AI's impact), and inflation frameworks. This initiative aims to adapt the central bank's operations to structural changes in the U.S. economy and technological advancements.
+  中文：总结：2026年7月9日，美联储主席凯文·沃什宣布成立五个工作组，旨在审查货币政策的关键领域。这些工作组由外部顾问共同领导，将研究沟通、资产负债表政策、数据、生产力和就业（包括人工智能的影响）以及通胀框架。此举旨在使美联储的运作适应美国经济结构变化和技术进步。
+  📰 [Virginia Business](https://www.virginiabusiness.com/article/fed-names-task-force-members-as-it-examines-monetary-policy-decision-making/)
+
+- **[2026.07.11] Cryptocurrency Market — 比特币在63,000美元附近企稳，ETF资金流向复杂**
+  English: Bitcoin (BTC) traded around $63,000 on July 10, 2026, showing cautious recovery after a volatile week influenced by geopolitical risks, interest rate uncertainty, and mixed ETF flows. While Bitcoin maintained its resilience, institutional demand for spot Bitcoin ETFs showed mixed signals, with some outflows observed. Renewed US-Iran tensions also dampened risk appetite, limiting the cryptocurrency's upside potential.
+  中文：总结：2026年7月10日，比特币（BTC）在63,000美元附近交易，在一周的波动后呈现谨慎复苏，波动受地缘政治风险、利率不确定性和复杂的ETF资金流向影响。比特币保持韧性，但现货比特币ETF的机构需求显示出复杂信号，出现部分资金流出。美伊紧张局势的再度升级也抑制了风险偏好，限制了加密货币的上涨潜力。
+  📰 [Sergey Tereshkin](https://sergeytereshkin.com/bitcoin-around-63000-ethereum-top-10-cryptocurrencies-etf-and-stablecoins/)
+
+---
+※Stock Market Daily Digest | 2026.07.11
