@@ -7,118 +7,102 @@
 
 ## 🇺🇸 美国股市 / US Market
 
-Here are 8 recent news items concerning the US market, reflecting forecasts and scheduled events for July 15, 2026:
+Here are 6 recent news items concerning the US stock market for July 15, 2026:
 
-- **[2026.07.15] Tesla (TSLA) — 特斯拉股价今日预测**
-  English: Tesla's stock is forecasted to trade around $382 on July 15, with a potential range between $351 and $413. Analysts predict a slight dip from its previous closing of $394.76, reflecting ongoing market volatility and broader economic factors influencing tech sector performance. Investors are closely monitoring short-term price movements and long-term growth catalysts.
-  中文：总结：特斯拉股价预计在7月15日交易于382美元左右，波动区间可能在351美元至413美元之间。分析师预测其较前一交易日收盘价394.76美元可能略有下跌，这反映了市场持续的波动性以及影响科技板块表现的宏观经济因素。投资者正密切关注短期价格走势和长期增长催化剂。
+- **[2026.07.15] BlackRock (BLK) — 贝莱德公布第二季度财报**
+  English: BlackRock, the world's largest asset manager, is set to report its second-quarter 2026 earnings before the opening of the New York Stock Exchange today. Investors will closely monitor the company's assets under management (AUM), ETF inflows, fee income, and institutional investment trends for insights into the broader financial market health and investor sentiment. The results are expected to provide a key indicator for the asset management sector.
+  中文：总结：全球最大资产管理公司贝莱德今日美股开盘前公布2026年第二季度财报。投资者将密切关注其资产管理规模、ETF资金流入、费用收入以及机构投资趋势，以评估金融市场整体健康状况和投资者情绪。此次财报预计将成为资产管理行业的重要风向标。
 
-- **[2026.07.15] NVIDIA (NVDA) — 英伟达股价展望与分析师目标上调**
-  English: NVIDIA's stock is expected to reach approximately $204 by July 15, with a slight upward movement of 0.06% from its current price. KeyBanc recently raised its price target for NVIDIA to $330 from $310, maintaining an Overweight rating due to strong demand and upward revisions in CoWoS supply for 2027. Market sentiment is mixed, with some technical indicators signaling bearishness despite growth opportunities.
-  中文：总结：英伟达股价预计在7月15日达到约204美元，较当前价格小幅上涨0.06%。KeyBanc近期将英伟达的目标价从310美元上调至330美元，维持“增持”评级，理由是需求强劲以及2027年CoWoS供应量的上调。尽管存在增长机会，但市场情绪复杂，部分技术指标显示看跌。
+  📰 [Morningstar](https://www.google.com/search?q=US)
 
-- **[2026.07.15] Amazon (AMZN) — 亚马逊股价今日预测**
-  English: Amazon's stock is projected to trade around $249 on July 15, with a daily forecast range of $229 to $269. The company's stock closed the previous day at $247.31. While Amazon's cloud unit, AWS, showed strong growth in Q1 2026, concerns about massive AI infrastructure spending impacting free cash flow persist.
-  中文：总结：亚马逊股价预计在7月15日交易于249美元左右，日内预测区间为229美元至269美元。该公司股票前一交易日收盘价为247.31美元。尽管亚马逊的云计算部门AWS在2026年第一季度表现出强劲增长，但对大规模人工智能基础设施支出影响自由现金流的担忧依然存在。
+- **[2026.07.15] ASML Holding N.V. (ASML) — ASML发布第二季度财报，关注半导体设备需求**
+  English: Semiconductor equipment giant ASML Holding N.V. is scheduled to release its second-quarter 2026 financial results before the U.S. market opens today. As the sole provider of Extreme Ultraviolet (EUV) lithography technology, ASML's performance is crucial for its stock and serves as a key indicator for global AI infrastructure investment intensity. Analysts will be watching semiconductor equipment demand, AI-related order trends, and management's outlook.
+  中文：总结：半导体设备巨头ASML Holding N.V.今日美股开盘前公布2026年第二季度财报。作为EUV光刻技术的独家供应商，ASML的业绩对其股价至关重要，并被视为全球AI基础设施投资强度的重要风向标。分析师将关注半导体设备需求、AI相关订单趋势及管理层展望。
 
-- **[2026.07.15] Apple (AAPL) — 苹果股价展望与分析师评级**
-  English: Apple's stock is anticipated to see continued analyst attention on July 15, following recent upgrades and a "Strong Buy Candidate" designation. Morgan Stanley expects Apple to raise iPhone prices by approximately $200 in September, potentially boosting F3Q26 EPS. Despite a strong rally, some analysts, like Hedgeye, have turned bearish, citing rich valuation multiples and easing earnings growth forecasts for fiscal 2027.
-  中文：总结：苹果股价预计在7月15日继续受到分析师关注，此前有机构上调评级并将其列为“强力买入候选股”。摩根士丹利预计苹果将在9月上调iPhone价格约200美元，这可能提振2026财年第三季度的每股收益。尽管近期股价强劲反弹，但Hedgeye等一些分析师已转为看跌，理由是估值过高以及2027财年盈利增长预期放缓。
+  📰 [Digrin](https://www.google.com/search?q=US)
 
-- **[2026.07.15] US Economic Data — 美国生产者价格指数（PPI）发布**
-  English: The U.S. Bureau of Labor Statistics is scheduled to release the Producer Price Index (PPI) for June 2026 on Wednesday, July 15, at 8:30 AM ET. This key inflation data point will be closely watched by investors and policymakers for insights into wholesale price trends, which can influence future consumer prices and Federal Reserve monetary policy decisions.
-  中文：总结：美国劳工统计局定于7月15日星期三美国东部时间上午8:30发布2026年6月的生产者价格指数（PPI）。这一关键通胀数据将受到投资者和政策制定者的密切关注，以了解批发价格趋势，这可能影响未来的消费者价格和美联储的货币政策决策。
+- **[2026.07.15] NVIDIA (NVDA) — KeyBanc上调英伟达目标价至330美元**
+  English: KeyBanc has raised its price target on Nvidia Corp. (NASDAQ:NVDA) stock to $330 from $310, maintaining an Overweight rating. This adjustment reflects strong demand for the chipmaker's products, with positive takeaways from Asia regarding its product roadmap and supply chain developments. The firm anticipates increased CoWoS supply in 2027, driven by robust demand for Nvidia's AI-centric offerings.
+  中文：总结：KeyBanc将英伟达（NASDAQ:NVDA）的目标股价从310美元上调至330美元，并维持“增持”评级。此次上调反映了市场对英伟达产品，特别是AI相关产品的强劲需求，以及其在亚洲产品路线图和供应链方面的积极进展。该机构预计，受强劲需求推动，英伟达2027年的CoWoS供应将有所增加。
 
-- **[2026.07.15] Federal Reserve — 美联储7月降息预期微乎其微**
-  English: Futures trading indicates a near 0% chance of a Federal Reserve interest rate cut at its July 29 meeting. The market is primarily debating whether rates will hold steady (74.9% probability) or see a quarter-point hike (25.1% probability), a significant shift from earlier 2026 expectations of continued rate cuts. Sticky inflation and a resilient job market are contributing to the Fed's hawkish stance.
-  中文：总结：期货交易显示，美联储在7月29日会议上降息的可能性接近0%。市场主要关注利率是维持不变（74.9%的可能性）还是上调25个基点（25.1%的可能性），这与2026年初市场预期将继续降息的情况大相径庭。顽固的通胀和富有弹性的就业市场是美联储维持鹰派立场的原因。
+  📰 [Investing.com](https://www.google.com/search?q=US)
 
-- **[2026.07.15] S&P 500 — 标普500指数7月展望与财报季开端**
-  English: The S&P 500 faces a critical July, with its 11-year winning streak for the month on the line. The index's performance will be heavily influenced by the Q2 earnings season, which officially begins on July 14 with major U.S. banks reporting. Analysts anticipate strong S&P 500 profit growth, estimated at 23.3% year-over-year, providing potential support for the index.
-  中文：总结：标普500指数在7月面临关键时刻，其连续11年的7月上涨纪录面临考验。该指数的表现将受到第二季度财报季的严重影响，美国主要银行将于7月14日正式公布财报。分析师预计标普500指数的利润将实现强劲增长，同比增长约23.3%，为该指数提供潜在支撑。
+- **[2026.07.15] Apple (AAPL) — 苹果面临增长担忧与潜在iPhone涨价**
+  English: Apple's stock is experiencing mixed signals today. While KeyBanc downgraded Apple (NASDAQ:AAPL) due to slowing growth concerns and shifting device subsidy models, Morgan Stanley anticipates a potential $200 iPhone price hike in September, which could boost fiscal Q3 2026 EPS by 2-4%. Citi also raised its target price to $365, citing Apple's pricing power and loyal customer base. The company's hardware-focused AI strategy is also gaining renewed attention.
+  中文：总结：苹果公司股价今日面临复杂局面。KeyBanc因增长放缓和设备补贴模式变化而下调苹果评级，但摩根士丹利预计9月iPhone可能涨价200美元，有望提振2026财年第三季度每股收益。花旗也将目标价上调至365美元，看好苹果的定价能力和忠实客户群。同时，苹果以硬件为中心的AI战略也再次受到关注。
 
-- **[2026.07.15] ASML Holding (ASML) — ASML第二季度财报发布**
-  English: Global semiconductor equipment giant ASML is set to release its second-quarter 2026 financial results before the U.S. market opens on July 15. As the sole provider of Extreme Ultraviolet (EUV) lithography technology, ASML's performance is a crucial indicator for global AI infrastructure investment. Analysts are optimistic, with management having previously raised full-year revenue guidance.
-  中文：总结：全球半导体设备巨头ASML定于7月15日美国市场开盘前发布其2026年第二季度财报。作为极紫外（EUV）光刻技术的唯一供应商，ASML的业绩是全球人工智能基础设施投资的关键指标。分析师持乐观态度，此前管理层已上调全年营收指引。
+  📰 [Investing.com](https://www.google.com/search?q=US)
+
+- **[2026.07.15] Microsoft (MSFT) — 微软面临证券欺诈诉讼，AI投资回报受关注**
+  English: Microsoft is facing a securities fraud class-action lawsuit filed on July 14, 2026, alleging the company misled investors regarding its AI chatbot Copilot and cloud computing platform Azure, leading to a 10% stock drop in January 2026. Despite this legal challenge, Microsoft's stock gained on July 13, 2026, and analysts at Zacks consider it a strong growth stock, with expectations for significant earnings growth driven by AI infrastructure investments.
+  中文：总结：微软正面临一项于2026年7月14日提起的证券欺诈集体诉讼，指控其就AI聊天机器人Copilot和Azure云平台误导投资者，导致2026年1月股价下跌10%。尽管面临法律挑战，微软股价在2026年7月13日上涨，Zacks分析师仍认为其是强劲的成长股，预计AI基础设施投资将推动显著的盈利增长。
+
+  📰 [Morningstar](https://www.google.com/search?q=US)
+
+- **[2026.07.15] Tesla (TSLA) — 特斯拉第二季度交付量超预期，分析师上调目标价**
+  English: Tesla's stock is under scrutiny after Jefferies raised its price target to $400 from $375, maintaining a Hold rating, following the company's stronger-than-expected second-quarter automotive deliveries of 480,100 vehicles. This beat JPMorgan's estimate and the Bloomberg consensus, representing a 25% year-over-year growth. RBC Capital also raised its target to $500, factoring in a potential SpaceX acquisition. Investors are keenly awaiting further updates on Optimus and the Robotaxi network.
+  中文：总结：在特斯拉第二季度汽车交付量超出预期（达到480,100辆）后，杰富瑞将其目标股价从375美元上调至400美元，并维持“持有”评级。这一交付量超出了摩根大通和彭博社的预期，同比增长25%。加拿大皇家银行资本也将目标价上调至500美元，考虑了潜在的SpaceX收购。投资者正密切关注Optimus和Robotaxi网络的进一步更新。
+
+  📰 [Investing.com](https://www.google.com/search?q=US)
 
 ## 🇯🇵 日本株式市場 / Japan Market
 
-- **[2026.07.15] 日本銀行 — 日銀金融政策決定会合開始、利上げ観測**
-  日本語：日本銀行は7月15日から金融政策決定会合を開催し、政策金利を0.75%から1.0%へ引き上げるとの見方が強まっています。これは1995年以来31年ぶりの高水準となる可能性があり、市場は日銀の今後の金融政策運営に注目しています。中東情勢の不透明感や円安傾向が続く中、物価上昇を抑制する狙いがあるとみられますが、日米金利差は依然として大きく、円安抑制効果は限定的との見方もあります。会合の結果は日本株市場に大きな影響を与えるでしょう。
-  中文：日本央行将于7月15日召开货币政策会议，市场普遍预期将把政策利率从0.75%上调至1.0%，这将是1995年以来的最高水平。此次加息旨在抑制物价上涨，但由于日美利差依然较大，对抑制日元贬值的效果可能有限。此次会议结果将对日本股市产生重大影响。
-  📰 [YouTube](https://www.google.com/search?q=Japan)
-
-- **[2026.07.15] 日経平均株価 — 7月15日の日経平均株価予想**
-  日本語：2026年7月15日の日経平均株価は、前日の反発を受けて上昇が予想されています。予想レンジは67224円から69272円とされており、前日の終値67743.50円からさらに上値を試す展開が期待されます。しかし、日中の利益確定売りや外部要因による変動も予想されるため、上値は重くなる可能性も指摘されています。投資家は、米国市場の動向や国内企業の決算発表に引き続き注目するでしょう。
-  中文：2026年7月15日，日经平均指数预计将延续前一交易日的反弹走势。预测区间为67224日元至69272日元，有望进一步上探。然而，盘中获利回吐和外部因素可能导致指数承压。投资者将继续关注美国市场动态和日本企业财报。
-  📰 [経済予測会社](https://www.google.com/search?q=Japan)
-
-- **[2026.07.15] 東証 — 新規上場ETFと信用取引規制の変更**
-  日本語：2026年7月15日、東京証券取引所には「金２倍ブルＥＴＦ（コード606A）」が新規上場します。また、同日売買分から一部銘柄の信用取引に関する臨時措置が実施され、委託保証金率が現行の30％以上から50％以上（うち現金20％以上）に引き上げられます。これらの動きは、市場の流動性や特定の銘柄の取引に影響を与える可能性があります。新規上場ETFへの関心と、信用取引の動向が注目されます。
-  中文：2026年7月15日，东京证券交易所将迎来“黄金2倍看涨ETF（代码606A）”的新股上市。同时，部分股票的信用交易临时措施也将于同日生效，保证金率将从目前的30%上调至50%以上（其中现金20%以上）。这些变化可能影响市场流动性和特定股票的交易。
-  📰 [日本取引所グループ](https://www.google.com/search?q=Japan)
-
-- **[2026.07.15] 半導体関連株 — ASML決算に注目**
-  日本語：7月15日にはオランダの半導体製造装置大手ASMLホールディングスの決算発表が予定されており、日本の半導体関連株の動向に大きな影響を与える可能性があります。AI関連株はこれまで急騰してきましたが、最近は調整局面に入っており、ASMLの業績見通しや受注状況が、半導体市場全体のセンチメントを左右する重要な材料となるでしょう。投資家は、最先端半導体への投資拡大の継続性を見極めるため、この決算に注目しています。
-  中文：荷兰半导体设备巨头ASML控股公司将于7月15日公布财报，预计将对日本半导体相关股票走势产生重大影响。AI相关股票近期经历调整，ASML的业绩展望和订单情况将成为左右半导体市场整体情绪的关键因素。投资者正密切关注此次财报，以判断尖端半导体投资扩张的持续性。
+- **[2026.07.15] 日経225先物 — 日经225股指期货上涨**
+  日本語：2026年7月15日0時時点の大阪取引所における日経225先物9月限は、前日比620円高の6万8420円と急騰した。これは日経平均株価の現物終値6万7743.5円に対し676.50円高の水準であり、市場の強い買い意欲を示している。前日の米国ハイテク株安などの逆風を受けながらも、日経平均は前日比500.77円高で引けており、その流れを引き継いで先物市場でも上昇基調が続いている。特に、半導体関連株への下押し圧力が継続する中で、今後の市場の方向性を見極める上で注目される動きである。
+  中文：2026年7月15日0时，大阪交易所日经225股指期货9月合约较前一日上涨620日元，报68420日元，显示出强劲买盘。这比日经平均股价现货收盘价67743.5日元高出676.50日元。尽管受到美国科技股下跌等不利因素影响，日经平均指数前一日仍上涨500.77日元，期货市场延续涨势。在半导体相关股票持续面临下行压力的背景下，这一走势对判断未来市场方向至关重要。
   📰 [株探](https://www.google.com/search?q=Japan)
 
-- **[2026.07.15] 日本株市場 — 7月15日の注目銘柄と投資戦略**
-  日本語：2026年7月15日の日本株市場では、前日の米国ハイテク株安からの反発を受け、セクター別の動向に注目が集まります。特に、バイオ株の異例な暴騰や、SaaS企業の構造的な脅威（SaaSの死）への対応が市場の根底で進行しており、投資家はこれらのパラダイムシフトを考慮した投資戦略が求められます。個別の注目銘柄としては、メドレックスやDWTIなどのバイオ関連株、物流DX需要を取り込む関通ＨＤなどが挙げられています。
-  中文：2026年7月15日日本股市，在前一交易日美国科技股下跌后反弹，市场关注板块轮动。特别是生物科技股异常暴涨，以及SaaS企业面临结构性威胁（SaaS之死）的范式转变正在市场深层进行，投资者需制定考虑这些变化的投资策略。个股方面，生物科技股Medilex和DWTI，以及受益于物流DX需求的关通HD等值得关注。
+- **[2026.07.15] 日本株市場 — 市场展望与投资策略**
+  日本語：2026年7月15日の日本株市場は、前日の米国ハイテク株安からの反発を受け、波乱含みの展開が予想される。日経平均は前日に一時急落後、500円超高で引けたが、長期金利上昇による半導体製造装置などハイテク株への下押し圧力は継続。市場では「次世代生成AIの台頭によるSaaS企業の構造的脅威（SaaSの死）」が進行中とされ、ラクスやサーバーワークスなどの個別動向が注目される。また、メドレックスやデ・ウエスタン・セラピテクス研究所といったバイオ株の動向も特大サプライズとして挙げられている。国内の機械受注や6月訪日外客数、中国のGDP、米国のPPI、ウォーシュFRB議長の議会証言など、重要な経済指標発表が相次ぐため、為替市場のボラティリティ増幅にも警戒が必要だ。
+  中文：2026年7月15日日本股市预计将波动，此前美国科技股下跌后日经指数反弹。尽管日经指数前日大幅下跌后收涨逾500点，但长期利率上升对半导体设备等科技股的下行压力持续。市场正经历“SaaS之死”的结构性威胁，Raks和Serverworks等公司动态受关注。生物科技股如MedRx和De-Western Therapeutics Institute也可能带来惊喜。鉴于日本机械订单、访日游客数据、中国GDP、美国PPI以及美联储主席沃什的国会证词等重要经济数据将陆续公布，需警惕外汇市场波动加剧。
   📰 [note](https://www.google.com/search?q=Japan)
 
-- **[2026.07.15] 企業決算 — 主要企業の決算発表（TENTIAL、東宝など）**
-  日本語：2026年7月15日には、TENTIAL（325A）や東宝（9602）を含む複数の日本企業が決算発表を予定しています。これらの決算内容は、個別銘柄の株価だけでなく、関連セクターや市場全体のセンチメントにも影響を与える可能性があります。特に、市場予想を上回る好決算や、今後の業績見通しが強気であれば、市場の活性化につながることが期待されます。投資家は、発表される内容を精査し、今後の投資戦略に反映させるでしょう。
-  中文：2026年7月15日，包括TENTIAL（325A）和东宝（9602）在内的多家日本企业将公布财报。这些财报内容不仅会影响个股股价，还可能波及相关行业和整体市场情绪。如果财报超出市场预期或业绩展望乐观，有望提振市场活跃度。投资者将仔细分析公布内容，并将其纳入未来的投资策略。
-  📰 [株探](https://www.google.com/search?q=Japan)
+- **[2026.07.15] 決算発表 — 多家日本企业公布财报**
+  日本語：2026年7月15日には、多くの日本企業が決算発表を予定している。主要な発表企業には、本決算を発表するパソナグループ（2168）やグロービング（277A）、セイワホールディングス（523A）などが含まれる。また、第1四半期決算では北の達人コーポレーション（2930）、第2四半期決算ではHIOKI（6866）やFPパートナー（7388）などが注目される。これらの決算内容は、個別銘柄の株価だけでなく、関連セクターや市場全体のセンチメントにも影響を与える可能性があるため、投資家は各社の業績動向に注目している。特に、市場予想との乖離が大きい場合は、株価に大きな変動をもたらすことが予想される。
+  中文：2026年7月15日，多家日本公司将公布财报。主要公司包括Pasona Group (2168)、Gloving (277A)和Seiwa Holdings (523A)等将发布年度财报。此外，Kitano Tatsujin Corporation (2930)将发布第一季度财报，HIOKI (6866)和FP Partner (7388)等将发布第二季度财报。这些财报不仅影响个股股价，也可能波及相关行业和整体市场情绪，投资者正密切关注各公司业绩。若业绩与市场预期存在较大偏差，预计将引发股价大幅波动。
+  📰 [IRBANK](https://www.google.com/search?q=Japan)
 
-- **[2026.07.15] チャットプラス（598A） — 東証グロース市場上場**
-  日本語：2026年7月15日、チャットプラス（598A）が東証グロース市場に新規上場します。新規上場銘柄は、その成長性や事業内容への期待から、上場初日に大きな値動きを見せることがよくあります。特にグロース市場への上場は、今後の成長戦略や資金調達の動向が注目されます。投資家は、同社の事業モデルや市場での評価を注視し、今後の株価形成に影響を与える可能性があります。
-  中文：2026年7月15日，Chatplus（598A）将在东京证券交易所Growth市场首次上市。新股上市通常因其增长潜力和业务前景而受到市场高度关注，首日股价波动可能较大。投资者将密切关注该公司的商业模式和市场估值，这可能影响其未来股价走势。
-  📰 [ダイヤモンド・オンライン](https://www.google.com/search?q=Japan)
+- **[2026.07.15] 新規上場 — 两家公司在JPX上市**
+  日本語：日本取引所グループのJPXカレンダーによると、2026年7月15日には、新たに2社が上場する予定である。新規上場するのは「株式会社ａｎｄ ＵＳ」と「チャットプラス株式会社」の2銘柄だ。新規株式公開（IPO）は、市場に新たな資金流入を促し、投資家の関心を集めるイベントである。これらの企業の事業内容や成長性によっては、今後の市場の活況を測る指標の一つとなる可能性があり、特にテクノロジー関連企業の上場は、市場全体のイノベーションへの期待を高める要因となる。
+  中文：根据日本交易所集团的JPX日历，2026年7月15日将有两家公司新上市，分别是“株式会社and US”和“ChatPlus株式会社”。首次公开募股（IPO）是吸引新资金流入市场并引起投资者关注的事件。这些公司的业务内容和增长潜力可能成为衡量未来市场活跃度的指标之一，特别是科技相关公司的上市，将提升市场对整体创新的期待。
+  📰 [日本取引所グループ](https://www.google.com/search?q=Japan)
+
+- **[2026.07.15] 半導体株 — ASML财报前瞻与半导体股展望**
+  日本語：2026年7月15日には、オランダの最先端半導体製造装置メーカーであるASMLホールディングス（ASML）が決算発表を予定しており、その内容が世界の半導体株、ひいては日本市場の半導体関連銘柄に大きな影響を与えるとして注目されている。前日には米市場の半導体関連株が下落した流れを受け、日本市場でも半導体株は一時売られる場面があったが、ASMLの好業績発表があれば、半導体関連株に見直し買いが入る可能性が指摘されている。特に、アドバンテストや東京エレクトロンといった日本の主要半導体製造装置メーカーの動向に影響が及ぶとみられる。
+  中文：2026年7月15日，荷兰先进半导体设备制造商ASML控股（ASML）将公布财报，其结果备受关注，预计将对全球半导体股票乃至日本市场的半导体相关股票产生重大影响。此前，受美国市场半导体股下跌影响，日本半导体股一度承压。然而，如果ASML公布强劲业绩，市场预计将出现对半导体相关股票的重新买入。这尤其会影响到Advantest和Tokyo Electron等日本主要半导体设备制造商的股价走势。
+  📰 [Yahoo!ファイナンス](https://www.google.com/search?q=Japan)
 
 ## 🌍 宏观经济与投资 / Macro & Investment
 
-- **[2026.07.15] Bank of Canada — 加拿大央行公布利率决议及货币政策报告**
-  English: The Bank of Canada is set to announce its decision on the target for the overnight rate and release its quarterly Monetary Policy Report (MPR) today. Economists widely anticipate the central bank will hold its benchmark overnight rate steady at 2.25%, marking the sixth consecutive pause since a rate cut in October 2025. The decision will be closely watched for any shifts in the bank's dovish outlook amid persistent inflation concerns and the ongoing adjustment to US tariffs, which could influence future policy direction.
-  中文：总结：加拿大央行今日将公布隔夜利率目标决定及季度货币政策报告。市场普遍预期央行将维持基准利率在2.25%不变，这将是自2025年10月降息以来的第六次暂停。此次决定将密切关注央行在持续通胀担忧和美国关税调整背景下，其鸽派展望是否发生变化，这将影响未来的政策走向。
-  📰 [Oanda](https://www.oanda.com/us-en/market-commentary/technical-analysis/us-cpi-preview-inflation-divergence-and-policy-uncertainty/)
+- **[2026.07.15] US CPI — 美国6月通胀数据低于预期，缓解美联储加息压力**
+  English: The U.S. Consumer Price Index (CPI) for June came in softer than anticipated, with headline inflation easing to 3.5% annually, below the 3.8% forecast, and core CPI at 2.6%, also below expectations. This encouraging data suggests a potential moderation in inflationary pressures, largely driven by a significant decline in energy prices. The report offers the Federal Reserve some "wiggle room" regarding its monetary policy stance, potentially reducing the urgency for aggressive interest rate hikes and influencing market expectations for future tightening.
+  中文：总结：美国6月消费者物价指数（CPI）低于市场预期，整体通胀年率降至3.5%，核心CPI为2.6%。这一数据表明通胀压力可能正在缓解，主要得益于能源价格的显著下降。该报告为美联储的货币政策提供了更多灵活性，可能降低了激进加息的紧迫性，并影响市场对未来紧缩政策的预期。
+  📰 [BNN Bloomberg](https://www.bnnbloomberg.ca/market-outlook-u-s-inflation-cools-as-further-fed-rate-pressure-eases-1.2480604)
 
-- **[2026.07.15] US Bureau of Labor Statistics — 美国6月生产者价格指数即将公布**
-  English: The U.S. Bureau of Labor Statistics is scheduled to release the Producer Price Index (PPI) for June 2026 today. This key inflation gauge will provide further insights into wholesale price pressures, following yesterday's Consumer Price Index (CPI) report. Analysts will scrutinize the data for signs of persistent core inflation, especially in services, which could influence the Federal Reserve's monetary policy stance. A higher-than-expected PPI could reinforce hawkish sentiments and fuel expectations for potential future rate hikes.
-  中文：总结：美国劳工统计局定于今日公布2026年6月生产者价格指数（PPI）。继昨日消费者价格指数（CPI）报告之后，这一关键通胀指标将提供批发价格压力的进一步见解。分析师将仔细审查数据，以寻找核心通胀持续存在的迹象，尤其是在服务业，这可能影响美联储的货币政策立场。高于预期的PPI可能会强化鹰派情绪，并加剧对未来潜在加息的预期。
-  📰 [Bureau of Labor Statistics](https://www.bls.gov/ppi/)
+- **[2026.07.15] Crude Oil Prices — 中东紧张局势升级推动原油价格飙升**
+  English: Crude oil prices surged significantly as escalating tensions between the U.S. and Iran intensified, including reports of a reinstated blockade in the Strait of Hormuz. West Texas Intermediate (WTI) crude rose over 3% to $80.80 a barrel, while Brent crude jumped nearly 5% to $87.23. This geopolitical flare-up has reignited global inflation fears and is a critical factor influencing central bank policy discussions, as higher energy costs could impact economic growth and consumer spending worldwide.
+  中文：总结：由于美国与伊朗之间紧张局势升级，包括霍尔木兹海峡封锁的恢复，原油价格大幅飙升。WTI原油上涨超过3%至每桶80.80美元，布伦特原油上涨近5%至每桶87.23美元。此次地缘政治冲突重燃了全球通胀担忧，并成为影响各国央行政策讨论的关键因素，因为能源成本上升可能影响全球经济增长和消费者支出。
+  📰 [Semafor](https://www.semafor.com/article/07/14/2026/oil-prices-surge-10-as-us-iran-conflict-reignites)
 
-- **[2026.07.15] ASML Holding — ASML公布第二季度财报，关注半导体需求**
-  English: Semiconductor equipment giant ASML Holding is set to report its second-quarter 2026 earnings before the U.S. market open today. As the sole provider of Extreme Ultraviolet (EUV) lithography technology, ASML's performance is a critical indicator for the global semiconductor industry and AI infrastructure investment trends. Investors will closely monitor demand for semiconductor equipment, AI-related order trends, EUV shipments, and management's updated outlook, which could significantly impact the broader tech sector.
-  中文：总结：半导体设备巨头ASML Holding将于今日美国市场开盘前公布2026年第二季度财报。作为极紫外（EUV）光刻技术的唯一供应商，ASML的业绩是全球半导体行业和人工智能基础设施投资趋势的关键指标。投资者将密切关注半导体设备需求、AI相关订单趋势、EUV出货量以及管理层更新的展望，这可能对更广泛的科技行业产生重大影响。
-  📰 [The Motley Fool](https://www.fool.com/investing/2026/07/13/asml-holdings-next-earnings-report-on-july-15-could-send-the-stock-soaring-heres-why/)
+- **[2026.07.15] US Stock Market & IBM — 美股涨跌互现，IBM财报不及预期股价大跌**
+  English: U.S. stock markets exhibited mixed performance, with the S&P 500 and Dow Jones Industrial Average initially facing downward pressure from heightened Middle East tensions, while the Nasdaq Composite showed some gains. A notable corporate event was IBM's shares plunging 22% after the company reported preliminary second-quarter earnings that fell short of analyst expectations. CEO Arvind Krishna attributed the shortfall to clients shifting spending towards server and memory hardware, impacting software and infrastructure revenues, highlighting the dual influence of geopolitical events and specific corporate results on market sentiment.
+  中文：总结：美国股市表现喜忧参半，标普500指数和道琼斯工业平均指数因中东紧张局势加剧而承压，而纳斯达克综合指数则有所上涨。企业方面，IBM在公布低于预期的第二季度初步财报后，股价暴跌22%。首席执行官Arvind Krishna将业绩不佳归因于客户将支出转向服务器和内存硬件，影响了软件和基础设施收入，这表明地缘政治事件和公司业绩对市场情绪均有影响。
+  📰 [24/7 Wall St.](https://247wallst.com/investing/2026/07/14/stock-market-live-july-14-2026-sp-500-spy-regaining-lost-ground-on-inflation-report/)
 
-- **[2026.07.15] BlackRock — 贝莱德公布第二季度财报，资产管理受关注**
-  English: BlackRock, Inc. (NYSE: BLK) is scheduled to report its second-quarter 2026 earnings prior to the opening of the New York Stock Exchange today. As the world's largest asset manager, BlackRock's results will offer key insights into global investment trends, including assets under management (AUM), ETF inflows, and fee income. Analysts will be keen to assess the impact of market volatility and evolving investor sentiment on the firm's performance, providing a broader read on the financial services sector.
-  中文：总结：全球最大资产管理公司贝莱德（NYSE: BLK）定于今日纽约证券交易所开盘前公布2026年第二季度财报。其业绩将提供全球投资趋势的关键见解，包括资产管理规模（AUM）、ETF资金流入和费用收入。分析师将密切关注市场波动和不断变化的投资者情绪对公司业绩的影响，从而对金融服务业提供更广泛的解读。
-  📰 [Morningstar](https://www.morningstar.com/news/business-wire/2026-07-01-blackrock-report-second-quarter-2026-earnings-on-july-15th)
+- **[2026.07.15] Nikkei 225 & JPY — 日经225指数V型反弹，日元持续承压**
+  日本語：7月14日の日本株式市場では、日経平均株価が「V字回復」を見せ、0.74%高で取引を終えました。中東情勢の緊迫化と米国市場の変動を受け、一時的に大幅下落したものの、半導体関連株やテクノロジー株が主導し、押し目買いが入り反発しました。一方、円は対ドルで162円台後半と40年ぶりの安値圏で推移しており、日本政府は経済財政運営の基本方針に日本銀行の独立性を尊重する旨を明記することで、市場の懸念払拭に努めています。
+  中文：总结：7月14日，日本股市日经225指数呈现“V型反弹”，收盘上涨0.74%。尽管受中东紧张局势和美国市场波动影响一度大幅下跌，但在半导体和科技股的带动下，逢低买盘推动市场反弹。与此同时，日元兑美元汇率在162日元区间徘徊，接近40年低点，日本政府正通过在经济财政运营基本方针中明确尊重日本央行独立性来缓解市场担忧。
+  📰 [TradingKey](https://www.tradingkey.com/news/japan-and-south-korea-stocks-close-higher-in-deep-v-nikkei-225-and-kospi-escape-from-the-brink-samsung-sk-hynix-and-softbank-lead-tech-stocks-rally-3-202607141207)
 
-- **[2026.07.15] International Monetary Fund — 国际货币基金组织更新全球经济展望**
-  English: The International Monetary Fund (IMF) recently released its July 2026 World Economic Outlook Update, projecting global growth at 3.0% for 2026 and 3.4% for 2027. The report highlights a global economy navigating the crosscurrents of geopolitical conflict, particularly the war in the Middle East, and a technology-driven investment boom, especially in AI. Inflation is expected to pause its decline, with headline inflation projected to rise to 4.7% in 2026 due to higher energy and food prices. The outlook varies significantly based on countries' exposure to these factors.
-  中文：总结：国际货币基金组织（IMF）近期发布了2026年7月全球经济展望更新报告，预计2026年全球经济增长率为3.0%，2027年为3.4%。报告强调全球经济正处于地缘政治冲突（特别是中东战争）与技术驱动的投资繁荣（尤其是人工智能）的交织影响中。预计通胀将暂停下降，2026年总体通胀率因能源和食品价格上涨预计将升至4.7%。各国经济前景因受这些因素影响程度不同而差异显著。
-  📰 [International Monetary Fund](https://www.imf.org/en/Publications/WEO/Issues/2026/07/08/world-economic-outlook-update-july-2026)
+- **[2026.07.15] China Trade Data — 中国6月进出口超预期增长，AI需求是主要驱动力**
+  English: China's exports and imports in June significantly exceeded expectations, with exports jumping 27% year-on-year and imports surging 36%. This robust trade performance was largely fueled by strong global demand for computer chips and other technology essential for artificial intelligence data centers. The data underscores the resilience of global demand for AI-related components, providing a substantial boost to Asian trade flows amidst broader geopolitical uncertainties and concerns about the global economic outlook.
+  中文：总结：中国6月份进出口数据远超预期，出口同比增长27%，进口激增36%。这一强劲的贸易表现主要得益于全球对人工智能数据中心所需计算机芯片及其他技术的旺盛需求。该数据凸显了全球对人工智能相关组件需求的韧性，在全球地缘政治不确定性和经济前景担忧中，为亚洲贸易注入了显著动力。
+  📰 [Saxo Bank](https://www.home.saxo/content/articles/macro-analysis/market-quick-take-inflation-fears-return-14072026)
 
-- **[2026.07.15] Japanese Yen (USD/JPY) — 日元兑美元持续承压，市场关注干预信号**
-  日本語：日本円は対米ドルで162円台後半で推移し、40年来の安値圏に留まっている。市場は日本当局による介入の可能性に警戒しており、特に日本の年金基金が国内資産への配分を増やす可能性が議論されている。中東情勢の緊迫化による原油価格上昇と米国の金利優位性が、円安の主要な背景となっている。投資家は、米国CPIデータと連邦準備制度理事会（FRB）のタカ派的な発言を注視しており、これらが円の短期的な方向性を決定する可能性がある。
-  中文：总结：日元兑美元汇率徘徊在162附近，接近40年低点，市场对日本当局可能采取的干预行动保持警惕。日本财务大臣暗示，如果投资环境发生重大变化，政府养老金投资基金（GPIF）可能会调整其资产配置，这为日元提供了一定支撑。同时，中东紧张局势升级导致油价上涨，以及美联储加息预期，都加剧了日元面临的压力。
-  📰 [Investing.com](https://www.investing.com/news/forex-news/usdjpy-holds-at-highs-pressure-lingers-on-yen-432SI-3543166)
-
-- **[2026.07.15] Global Oil Market — 中东地缘政治紧张局势加剧，油价飙升引发通胀担忧**
-  English: Oil prices continue to surge as geopolitical tensions in the Middle East escalate, particularly around the Strait of Hormuz. Reports indicate renewed US blockades of Iranian ships and retaliatory actions, pushing Brent crude above $85 per barrel. This surge reignites inflation concerns globally and strengthens expectations for central banks, including the Federal Reserve, to maintain a hawkish stance or even consider further rate hikes. The situation adds a significant risk premium to energy markets and impacts broader economic stability.
-  中文：总结：中东地缘政治紧张局势升级，特别是霍尔木兹海峡附近冲突加剧，导致油价持续飙升，布伦特原油突破每桶85美元。美国对伊朗船只实施新的封锁以及报复行动，引发了全球对通胀的担忧，并强化了包括美联储在内的各国央行可能维持鹰派立场甚至进一步加息的预期。这一局势给能源市场带来了显著的风险溢价，并影响了更广泛的经济稳定。
-  📰 [Tickmill](https://www.tickmill.com/news/daily-market-outlook-july-14-2026)
-
-- **[2026.07.15] US Inflation & Federal Reserve — 美国CPI数据公布后，美联储加息预期升温**
-  English: Following yesterday's release of the June US Consumer Price Index (CPI), which showed persistent core inflation despite a cooling headline figure, market expectations for Federal Reserve rate hikes have intensified. Fed Governor Waller's recent hawkish comments, suggesting further tightening might be needed, have bolstered the probability of a July or September rate hike. Investors are now closely scrutinizing upcoming data, like today's PPI, and Fed officials' statements to gauge the central bank's next moves in its fight against sticky inflation.
-  中文：总结：昨日公布的美国6月消费者价格指数（CPI）显示，尽管总体通胀有所降温，但核心通胀依然顽固，市场对美联储加息的预期随之升温。美联储理事沃勒近期鹰派言论，暗示可能需要进一步紧缩政策，这增加了7月或9月加息的可能性。投资者正密切关注包括今日PPI在内的即将公布的数据以及美联储官员的表态，以研判央行在对抗顽固通胀方面的下一步行动。
-  📰 [Saxo Bank](https://www.home.saxo/content/articles/macro/market-quick-take-inflation-fears-return-14-07-2026-14072026)
+- **[2026.07.15] Cryptocurrency Market — ZKP代币价格暴跌，盈透证券拓展加密货币交易**
+  English: The cryptocurrency market witnessed a notable downturn for the ZKP token, which saw its price crash by over 5% on July 14. This sell-off was attributed to a broad risk-off sentiment in the crypto space and concerns surrounding a significant token unlock event scheduled for July 19. Conversely, Interactive Brokers expanded its cryptocurrency offerings, adding nine new tokens for trading and enhancing stablecoin funding options, including USDC, PYUSD, and RLUSD, signaling continued institutional integration despite market volatility.
+  中文：总结：加密货币市场出现显著波动，ZKP代币价格在7月14日暴跌超过5%，原因在于加密领域的普遍避险情绪以及即将于7月19日进行的大规模代币解锁。与此同时，盈透证券扩大了其加密货币产品，新增九种代币交易，并增强了稳定币充值选项，包括USDC、PYUSD和RLUSD，这表明尽管市场波动，机构整合仍在继续。
+  📰 [BitcoinFoundation.org](https://bitcoinfoundation.org/news/why-is-zkp-crypto-price-crashing-today-the-real-reason-behind-the-sell-off/)
 
 ---
 ※Stock Market Daily Digest | 2026.07.15
