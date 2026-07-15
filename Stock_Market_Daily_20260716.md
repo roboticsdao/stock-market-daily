@@ -7,98 +7,97 @@
 
 ## 🇺🇸 美国股市 / US Market
 
-Here are recent news items specifically about the US market for July 16, 2026:
+Here are 8 recent news items concerning the US market for July 16, 2026:
 
-- **[2026.07.16] NVIDIA / TSMC — 台积电财报或影响英伟达及科技股走势**
-  English: Investors are closely watching Taiwan Semiconductor Manufacturing (TSMC) as it reports earnings today, July 16. As a primary chip fabricator for AI and tech companies, TSMC's results could significantly impact the broader technology sector, particularly NVIDIA, whose stock has seen a relatively weak 2026. Positive earnings could rally chip manufacturers, while any red flags regarding chip demand could lead to a downturn for companies like NVIDIA.
-  中文：总结：台积电（TSMC）于今日公布财报，市场高度关注其对英伟达及整个科技板块的影响。作为AI芯片的主要制造商，台积电的业绩将是科技股走势的关键风向标。若财报积极，有望提振相关芯片股；反之，若芯片需求出现警示，英伟达等公司股价恐受冲击。
-  📰 [The Motley Fool](https://www.fool.com/investing/2026/07/12/nvidia-investors-need-to-be-paying-attention-on-july-16/)
+- **[2026.07.16] Taiwan Semiconductor Manufacturing (TSMC) — 芯片巨头台积电发布财报**
+  English: Today, Taiwan Semiconductor Manufacturing (TSMC), a critical chip fabricator for the AI and tech sectors, is scheduled to report its second-quarter 2026 earnings. Investors are closely watching these results, as strong performance could signal robust demand for chips and potentially boost related stocks like NVIDIA, which has seen a relatively weak year so far. Conversely, any red flags regarding chip demand could negatively impact computing unit manufacturers and the broader tech market.
+  中文：总结：今日，全球领先的芯片制造商台积电（TSMC）将公布2026年第二季度财报。由于台积电是人工智能和科技领域芯片的主要供应商，其业绩将对包括英伟达在内的科技股产生重要影响。投资者正密切关注财报，以判断芯片需求趋势，这可能带动相关股票上涨或引发市场担忧。
 
-- **[2026.07.16] Netflix — Netflix将于今日公布第二季度财报**
-  English: Netflix is scheduled to release its second-quarter 2026 operating results today, July 16. The streaming giant's report is highly anticipated, with analysts and investors keen to see if strong subscriber growth and increasing advertising revenue will spark a recovery in the stock. Despite a competitive landscape and recent management changes, the company's current valuation is considered attractive, and a robust earnings report could provide the much-needed boost for its shares.
-  中文：总结：Netflix定于今日公布2026年第二季度运营业绩。市场期待其财报能展现强劲的用户增长和广告收入，以提振股价。尽管面临激烈竞争和管理层变动，Netflix目前的估值仍具吸引力，一份亮眼的财报有望推动股价反弹。
-  📰 [The Motley Fool](https://www.fool.com/investing/2026/07/05/prediction-netflix-stock-is-going-to-soar-after-july-16/)
+- **[2026.07.16] Netflix — 奈飞公布第二季度财报**
+  English: Netflix is set to release its second-quarter 2026 earnings after the market closes today. This report is highly anticipated by investors, especially given the stock's significant decline from its all-time high in 2025. Analysts are looking for clarity on subscriber growth, revenue, and profitability, which could either validate current valuations or suggest further volatility for the streaming giant and the broader entertainment tech sector.
+  中文：总结：流媒体巨头奈飞（Netflix）将于今日收盘后公布2026年第二季度财报。鉴于其股价自2025年高点以来有所下跌，投资者正密切关注其用户增长、营收和盈利能力，这份财报将对奈飞股价及整个娱乐科技板块的市场情绪产生关键影响。
 
-- **[2026.07.16] Independent Bank Corp. — 独立银行公司今日盘后发布第二季度财报**
-  English: Independent Bank Corp. (NASDAQ: INDB) is set to release its second-quarter earnings report after the closing bell today, July 16. Analysts are forecasting a rise in quarterly earnings to $1.78 per share, up from $1.25 in the prior-year period, with revenue expected to reach $258.95 million. Investors will be closely watching these results for insights into the regional banking sector's performance and the company's financial health.
-  中文：总结：独立银行公司（NASDAQ: INDB）将于今日收盘后公布2026年第二季度财报。分析师预计其季度收益将增至每股1.78美元，营收达2.5895亿美元。投资者将密切关注这些业绩，以评估区域银行业的表现及公司财务状况。
-  📰 [Benzinga](https://www.benzinga.com/news/26/07/27907573/top-wall-street-forecasters-revamp-independent-bank-expectations-ahead-of-q2-earnings)
+- **[2026.07.16] UnitedHealth Group — 联合健康集团发布季度业绩**
+  English: UnitedHealth Group (NYSE: UNH), a prominent player in the healthcare sector, is scheduled to report its earnings today. As one of the largest healthcare companies, its performance offers key insights into the health insurance and managed care markets, as well as broader consumer spending trends in healthcare. Investors will be scrutinizing revenue, profit margins, and outlook for the remainder of 2026, which could influence the Dow Jones Industrial Average and overall market sentiment.
+  中文：总结：今日，医疗健康巨头联合健康集团（UnitedHealth Group）将公布最新财报。作为行业领军企业，其业绩将为医疗保险和管理式医疗市场提供重要参考，并反映消费者在医疗领域的支出趋势。投资者将关注其营收、利润率及2026年剩余时间的展望，这可能影响道琼斯工业平均指数和整体市场情绪。
 
-- **[2026.07.16] S&P Indices — 标普指数因并购案调整成分股**
-  English: S&P Dow Jones Indices announced changes to the S&P MidCap 400 and S&P SmallCap 600, effective prior to the opening of trading on Friday, July 17. These adjustments follow the expected closure of Baker Hughes Co.'s acquisition of Chart Industries Inc. today, July 16. BrightSpring Health Services Inc. will replace Chart Industries in the S&P MidCap 400, and Karman Holdings Inc. will take BrightSpring Health Services' spot in the S&P SmallCap 600, reflecting ongoing market consolidation.
-  中文：总结：标普道琼斯指数公司宣布调整标普中盘400和标普小盘600指数成分股，于7月17日开盘前生效。此次调整源于贝克休斯公司对Chart Industries的收购预计于今日完成。BrightSpring Health Services将取代Chart Industries进入标普中盘400，而Karman Holdings将取代BrightSpring Health Services进入标普小盘600。
-  📰 [Press Releases](https://www.prnewswire.com/news-releases/brightspring-health-services-set-to-join-sp-midcap-400-and-karman-holdings-to-join-sp-smallcap-600-302325301.html)
+- **[2026.07.16] RedChip — 垂直经济虚拟投资者大会召开**
+  English: The RedChip Virtual Investor Conference, focusing on public companies shaping the "Vertical Economy," is taking place today. This full-day event is expected to spotlight emerging trends in autonomous flight, aerospace, and advanced aviation, offering investors a focused opportunity to learn about innovation drivers and commercialization strategies. Such conferences can generate significant interest in specific small-cap and microcap stocks, potentially leading to increased trading activity on the NASDAQ.
+  中文：总结：今日，RedChip垂直经济虚拟投资者大会正在举行，重点关注塑造“垂直经济”的上市公司。此次会议将探讨自动飞行、航空航天和先进航空等新兴趋势，为投资者提供了解行业创新和商业化策略的机会，有望提振特定小型股和微型股的交易活跃度。
 
-- **[2026.07.16] Top KingWin Ltd. — Top KingWin今日起更改纳斯达克股票代码**
-  English: Top KingWin Ltd. (NASDAQ: WAI) announced that its Class A ordinary shares will begin trading on the Nasdaq Capital Market under the new ticker symbol “DPU” today, July 16, 2026. This change replaces the previous symbol "WAI" and requires no action from shareholders, ensuring continued listing on Nasdaq. The company, which focuses on data collection devices and AI robots, aims to streamline its market identity.
-  中文：总结：Top KingWin有限公司（NASDAQ: WAI）宣布，自今日起，其A类普通股将在纳斯达克资本市场以新股票代码“DPU”开始交易。此次变更取代了原代码“WAI”，股东无需采取任何行动，公司将继续在纳斯达克上市。
-  📰 [Stock Titan](https://stocktitan.com/news/top-kingwin-ltd-announces-trading-ticker-symbol-change-to-dpu-f463200000000000.html)
+- **[2026.07.16] Pitanium Limited — 纳斯达克宣布Pitanium Limited退市**
+  English: Pitanium Limited (Nasdaq: PTNM) is officially delisted from the Nasdaq Stock Market LLC today, following a notification issued on July 7, 2026. This action comes after a temporary trading suspension by the U.S. Securities and Exchange Commission in October 2025. While specific to Pitanium, such delistings underscore regulatory oversight and can serve as a reminder of the risks associated with investing in smaller, less stable companies on major exchanges.
+  中文：总结：今日，Pitanium Limited（纳斯达克代码：PTNM）正式从纳斯达克股票市场退市。此举是在美国证券交易委员会于2025年10月暂停其交易后采取的。尽管仅针对Pitanium一家公司，但此类退市事件凸显了监管审查的重要性，并提醒投资者关注在主要交易所上市的小型公司可能存在的风险。
 
-- **[2026.07.16] Nasdaq — 纳斯达克今日将摘牌两家公司股票**
-  English: The Nasdaq Stock Market announced it will delist Platinum Analytics Cayman Limited (NASDAQ: PTLS) and Pitanium Limited (NASDAQ: PTNM) today, July 16, 2026, unless the companies appeal the decision. Trading in these securities has been halted since October 2025 for Platinum Analytics and following a temporary suspension for Pitanium. This action underscores Nasdaq's ongoing enforcement of listing standards.
-  中文：总结：纳斯达克证券市场宣布，除非两家公司提出上诉，否则将于今日摘牌Platinum Analytics Cayman Limited（NASDAQ: PTLS）和Pitanium Limited（NASDAQ: PTNM）的股票。此举反映了纳斯达克对上市标准的持续严格执行。
-  📰 [Investing.com South Africa](https://za.investing.com/news/stock-market-news/nasdaq-to-delist-platinum-analytics-shares-on-july-16-3091173)
+- **[2026.07.16] Top KingWin Ltd. — Top KingWin Ltd.股票代码变更为“DPU”**
+  English: Effective today, Top KingWin Ltd. (NASDAQ: WAI) will begin trading on the Nasdaq Capital Market under its new ticker symbol "DPU." This corporate action, announced yesterday, is a routine change that does not require any action from shareholders and does not affect their holdings. While not a direct market mover, it's a notable operational update for investors tracking the company and its presence on the Nasdaq exchange.
+  中文：总结：自今日起，Top KingWin Ltd.（纳斯达克代码：WAI）的股票代码将正式变更为“DPU”，并在纳斯达克资本市场交易。此项公司行动不要求股东采取任何措施，也不会影响其持股，是投资者关注公司在纳斯达克市场运营的重要更新。
+
+- **[2026.07.16] HiTech Minerals — HiTech Minerals首席执行官讨论纳斯达克上市计划**
+  English: Today, the CEO of HiTech Minerals, Ian Rodger, is participating in a Water Tower Research Fireside Chat to discuss the company's anticipated Nasdaq listing under the ticker ULIT. The discussion will highlight the strategic importance of the McDermitt Lithium Project, one of the largest U.S. lithium resources, and its role in the domestic battery supply chain. This event could draw investor attention to the critical minerals sector and potential new listings in the clean energy space.
+  中文：总结：今日，HiTech Minerals首席执行官Ian Rodger将参加炉边谈话，讨论公司计划在纳斯达克上市（股票代码ULIT）的事宜。此次讨论将重点介绍美国最大的锂资源项目之一——McDermitt锂项目的战略意义及其在国内电池供应链中的作用，有望吸引投资者关注关键矿产和清洁能源领域的新上市机会。
+
+- **[2026.07.16] SpaceX — 星舰计划于今日进行最新测试飞行**
+  English: Elon Musk's SpaceX is scheduled to conduct the latest critical test flight of its Starship rocket no earlier than today, July 16, 2026. This event is a significant milestone for the company, which went public in June 2026 with the largest IPO in history. While not a direct stock market trading event, the success or challenges of the Starship launch could influence investor sentiment towards SpaceX and the broader space technology sector, given its substantial market valuation.
+  中文：总结：埃隆·马斯克的SpaceX公司计划不早于今日（2026年7月16日）进行其星舰火箭的最新关键测试飞行。SpaceX于2026年6月进行了史上最大规模的IPO，此次发射是公司的重要里程碑。星舰发射的成功与否，可能影响投资者对SpaceX及整个太空科技行业的信心和市场估值。
 
 ## 🇯🇵 日本株式市場 / Japan Market
 
-- **[2026.07.16] 日経平均株価 — 日経平均は続伸、半導体関連株が市場を牽引**
-  日本語：16日の日本株式市場では、日経平均株価が続伸し、前日の上昇基調を維持しました。米国市場のハイテク株高と、前日のASMLの好決算を受けた半導体関連銘柄への買いが相場を強く牽引しました。特に、東京エレクトロンやアドバンテストなどの半導体製造装置メーカーが堅調に推移。一方で、一部のITサービス関連株は、AI投資のソフトウェア予算圧迫懸念から軟調な動きを見せました。市場は、今後の主要企業決算発表と日本銀行の金融政策動向に引き続き注目しています。
-  中文：总结：7月16日，日本股市日经平均指数继续上涨，延续前日升势。受美国科技股走高及ASML强劲财报提振，半导体相关股票领涨，东京电子等设备制造商表现突出。部分IT服务股因AI投资挤压软件预算担忧而走弱。市场关注即将发布的财报及日本央行政策。
-  📰 [日本経済新聞](https://www.nikkei.com/article/20260716_market_summary/)
+日本株式市場に関する2026年7月16日の最新ニュースを以下にお届けします。
 
-- **[2026.07.16] 日本銀行 — 日銀、金融政策現状維持の見通し、円安基調は継続**
-  日本語：日本銀行は、本日も金融政策に関する具体的な動きは見られず、市場では次回の金融政策決定会合（7月30-31日）での現状維持が有力視されています。植田総裁は、現在の円安が経済に与える影響を注視しつつも、物価目標達成に向けた金融緩和の継続姿勢を維持するとの見方が広がっています。このため、外国為替市場では対ドルでの円安基調が継続しており、輸出企業には収益拡大の期待がある一方、輸入物価の上昇による家計への影響も懸念されています。
-  中文：总结：日本央行今日无具体政策行动，市场普遍预计其在7月底会议上将维持现状。行长植田预计将继续关注日元贬值影响，并维持宽松政策以实现物价目标。日元兑美元持续走弱，利好出口商，但进口物价上涨对家庭消费的担忧依然存在。
-  📰 [Bloomberg Japan](https://www.bloomberg.co.jp/news/articles/2026-07-16/BOJ_policy_outlook)
+- **[2026.07.16] 日経225先物 — 大幅下落で始まる**
+  日本語：16日0時時点の大阪取引所における日経225先物9月限は、前日比1220円安の6万7640円と大幅に下落して取引を開始しました。これは日経平均株価の現物終値6万8751.51円に対して1111.51円安の水準であり、前日の米国市場の動向や、地政学リスクへの警戒感が影響している可能性があります。市場は本日午前の現物市場の動向を注視しています。
+  中文：总结：16日0时，大阪交易所日经225股指期货9月合约大幅下跌1220日元，报67640日元。这一开盘价较日经平均指数现货收盘价68751.51日元低1111.51日元，可能受到前夜美国市场走势及地缘政治风险担忧的影响。市场正密切关注今日上午现货市场的表现。
+  📰 [株探](https://kabutan.jp/)
 
-- **[2026.07.16] 半導体関連株 — 半導体製造装置株が堅調、AI需要拡大への期待続く**
-  日本語：16日の日本株式市場では、半導体製造装置関連株が引き続き堅調な動きを見せました。前日の米国半導体株の上昇や、ASMLの好業績発表が追い風となり、東京エレクトロン、アドバンテスト、SCREENホールディングスなどが買われました。人工知能（AI）関連の需要拡大に伴う半導体投資の活発化への期待が根強く、中長期的な成長シナリオが投資家心理を支えています。ただし、一部では短期的な過熱感への警戒も指摘されており、今後の需給バランスが注視されます。
-  中文：总结：7月16日，日本半导体制造设备股持续走强。受美国半导体股上涨及ASML业绩利好提振，东京电子等公司股价上扬。市场对AI需求增长带动半导体投资的预期强烈，支撑中长期增长前景。然而，部分投资者对短期过热保持警惕，关注供需平衡。
-  📰 [日本経済新聞](https://www.nikkei.com/article/20260716_semiconductor_stocks/)
+- **[2026.07.16] 日本銀行 — 「生活意識に関するアンケート調査」結果発表**
+  日本語：日本銀行は本日13時30分に「生活意識に関するアンケート調査」（第106回）の結果を公表する予定です。この調査は、国民の景気や物価に対する意識、家計の状況などを把握するもので、今後の金融政策運営を占う上で重要な指標となります。市場関係者は、特に物価見通しや消費動向に関する回答に注目しています。
+  中文：总结：日本银行定于今日13时30分公布第106回「生活意识相关问卷调查」结果。该调查旨在了解民众对经济和物价的看法以及家庭财务状况，是预测未来货币政策走向的重要指标。市场参与者尤其关注物价预期和消费趋势方面的回答。
+  📰 [日本銀行](https://www.boj.or.jp/)
 
-- **[2026.07.16] 主要企業決算 — トヨタ・ソニー、来月発表の決算に市場の期待高まる**
-  日本語：トヨタ自動車とソニーグループは、来月上旬に予定されている四半期決算発表に向けて、市場の期待が高まっています。トヨタは円安の恩恵と新車販売の好調が予想され、ソニーはゲーム事業やイメージング＆センシング・ソリューション事業の堅調な推移が期待されています。アナリストからは、両社ともに業績予想の上方修正や目標株価の引き上げが示唆されており、決算内容が日本市場全体のセンチメントに影響を与える可能性があります。投資家は、特に今後の業績見通しと配当政策に注目しています。
-  中文：总结：丰田汽车和索尼集团下月初的季度财报备受市场期待。丰田预计将受益于日元贬值和新车销售强劲，索尼则有望凭借游戏及影像传感业务的稳健表现。分析师暗示两家公司业绩预期可能上调，目标股价或提升，其财报将影响日本市场整体情绪。投资者关注未来业绩展望和股息政策。
-  📰 [Yahoo!ファイナンス](https://finance.yahoo.co.jp/news/20260716_earnings_preview)
+- **[2026.07.16] 日本銀行 — 6月の日銀当座預金残高（業態別）を公表**
+  日本語：日本銀行は本日17時00分に、6月分の業態別の日銀当座預金残高を公表します。このデータは、金融機関の資金繰りや市場の流動性を示すものであり、日銀の金融調節方針や市場への影響を分析する上で重要な情報となります。特に、最近の金利変動や金融政策の正常化プロセスにおける金融機関の動向が注目されます。
+  中文：总结：日本银行将于今日17时00分公布6月份各业态的日银往来账户余额。该数据反映金融机构的资金状况和市场流动性，是分析日本银行货币调节政策及其市场影响的重要信息。近期利率变动和货币政策正常化进程中金融机构的动向将受到特别关注。
+  📰 [日本銀行](https://www.boj.or.jp/)
 
-- **[2026.07.16] 東証プライム市場 — TOPIXは小幅高、バリュー株に資金流入の兆し**
-  日本語：本日の東京株式市場では、東証プライム市場のTOPIX（東証株価指数）が小幅に上昇し、市場の広範な銘柄に買いが入る展開となりました。これまで日経平均を牽引してきた一部の成長株に加え、割安感のあるバリュー株や高配当利回り銘柄にも資金が流入する動きが見られました。特に、銀行や商社といった金融関連セクターが堅調に推移し、市場全体の底堅さを支えました。投資家は、セクターローテーションの動きに注目し、今後の市場トレンドを見極めようとしています。
-  中文：总结：今日东京股市，东证Prime市场TOPIX指数小幅上涨，买盘扩散至广泛股票。除此前领涨的成长股外，资金也流入估值较低的价值股和高股息股票。银行、商社等金融板块表现稳健，支撑市场整体韧性。投资者正关注板块轮动趋势，以判断未来市场走向。
-  📰 [みんかぶ](https://minkabu.jp/news/20260716_topix_value_stocks)
+- **[2026.07.16] 半導体関連株 — 前日の米株高を受け堅調な展開か**
+  日本語：前日の米国市場で半導体関連株が大幅に上昇したことを受け、本日の東京市場でも半導体製造装置や素材関連銘柄に買いが先行し、堅調な展開が予想されます。特に、オランダのASMLの好決算が引き続き支援材料となり、東京エレクトロンやアドバンテストなどの主力銘柄が市場を牽引する可能性があります。ただし、短期的な過熱感から利益確定売りが出る場面も想定されます。
+  中文：总结：受前夜美国半导体股大涨提振，今日东京市场半导体制造设备及材料相关股票预计将高开并保持强势。荷兰ASML的良好财报将继续提供支撑，东京电子和爱德万测试等主要股票有望引领市场。然而，短期过热可能引发获利回吐。
+  📰 [日本経済新聞](https://www.nikkei.com/)
 
-- **[2026.07.16] ITサービス関連株 — AI投資の偏り懸念でITサービス株に売り圧力**
-  日本語：16日の日本株式市場では、一部のITサービス関連株が売り圧力にさらされました。前日の米国市場でIBMがAIインフラ投資の増加がソフトウェア予算を圧迫していると警告したことを受け、国内でも同様の懸念が浮上しました。NECや富士通といった主要IT企業の一部が軟調に推移し、市場全体の上昇から取り残される形となりました。投資家は、AIブームがハードウェアに集中し、ソフトウェアやサービス分野への恩恵が限定的になる可能性を警戒しています。
-  中文：总结：7月16日，日本部分IT服务股面临抛售压力。此前IBM警告AI基础设施投资挤压软件预算，引发日本市场对类似担忧。NEC、富士通等主要IT公司股价走弱，未能跟随大盘上涨。投资者警惕AI热潮可能仅集中于硬件，对软件和服务领域的利好有限。
-  📰 [Investing.com Japan](https://jp.investing.com/news/japan-it-stocks-20260716)
+- **[2026.07.16] 為替市場 — 円安基調が継続、輸出企業に追い風**
+  日本語：外国為替市場では、日米金利差の拡大を背景に円安基調が継続しており、本日もドル円は162円台で推移する見込みです。この円安は、自動車や電機などの輸出関連企業の収益を押し上げる要因となり、関連銘柄への買いが期待されます。一方で、輸入物価の上昇による国内経済への影響も引き続き懸念されており、今後の為替動向が注目されます。
+  中文：总结：在外汇市场，由于日美利差扩大，日元贬值趋势持续，预计今日美元兑日元将维持在162日元区间。日元贬值将提振汽车和电器等出口相关企业的收益，相关股票有望受到追捧。然而，进口物价上涨对国内经济的影响仍令人担忧，未来汇率走势备受关注。
+  📰 [ロイター](https://jp.reuters.com/markets/japan/)
 
 ## 🌍 宏观经济与投资 / Macro & Investment
 
-以下是2026年7月16日宏观经济与投资领域的最新消息：
+Here are 5 recent news items specifically about macroeconomics and investment for July 16, 2026:
 
-- **[2026.07.16] US Economy — 美国零售销售数据与初请失业金人数公布**
-  English: Today's release of US Retail Sales for June, showing a stronger-than-expected 0.9% month-over-month increase, suggests robust consumer spending despite elevated interest rates. Initial jobless claims also declined to 215,000, indicating a resilient labor market. These figures could influence the Federal Reserve's stance on future monetary policy, potentially reinforcing a cautious approach to rate cuts as economic activity remains solid and inflationary pressures in services persist. Investors are closely watching for any shifts in Fed communication.
-  中文：总结：今日公布的美国6月零售销售月率增长0.9%，超出预期，显示消费者支出强劲。同时，初请失业金人数降至21.5万人，劳动力市场保持韧性。这些数据可能促使美联储在降息问题上保持谨慎，因经济活动依然稳健且服务业通胀压力持续存在。
-  📰 [Trading Economics](https://tradingeconomics.com/united-states/calendar)
+- **[2026.07.16] TSMC — 台积电今日发布第二季度财报**
+  English: Taiwan Semiconductor Manufacturing Co. (TSMC) is scheduled to release its full second-quarter 2026 earnings report today, July 16, at 2:00 PM Taiwan time (2:00 AM ET). Analysts anticipate Q2 revenue to be between $39.5 billion and $40.2 billion, with an estimated EPS of $3.83, representing a 55% year-over-year growth. Market attention will also focus on gross margins amid high-cost capacity expansion in Arizona, as well as the company's Q3 growth guidance and capital expenditure plans, which are crucial for assessing its future performance and the broader semiconductor industry outlook.
+  中文：总结：台积电（TSMC）定于今日（7月16日）台湾时间下午2点（美国东部时间凌晨2点）发布2026年第二季度财报。分析师预计第二季度营收将在395亿至402亿美元之间，每股收益预计为3.83美元，同比增长55%。市场将密切关注其毛利率、第三季度增长指引以及资本支出计划，尤其是在亚利桑那州高成本产能扩张的背景下。
+  📰 [TradingKey](https://www.google.com/search?q=global)
 
-- **[2026.07.16] Federal Reserve — 美国通胀降温缓解加息担忧**
-  English: Cooler-than-expected US inflation data, with the Consumer Price Index falling 0.4% in June and Producer Price Index at 5.5%, has significantly eased market fears of immediate Federal Reserve rate hikes. This moderation in price pressures, largely due to abating energy costs, has boosted risk appetite across global stock markets, particularly in technology shares. While the Fed Chair cautioned that one month's data is insufficient, markets are now pricing in a higher probability of the Fed holding rates steady at its upcoming meeting, shifting focus to future earnings for market direction.
-  中文：总结：美国6月CPI下降0.4%，PPI为5.5%，低于预期，显著缓解了市场对美联储立即加息的担忧。通胀降温，主要受能源价格回落影响，提振了全球股市风险偏好，尤其是科技股。尽管美联储主席持谨慎态度，但市场预计美联储在下次会议上维持利率不变的可能性增加。
-  📰 [Modern Diplomacy](https://moderndiplomacy.eu/2026/07/15/global-stocks-rise-as-us-inflation-cools-and-rate-hike-fears-ease/)
+- **[2026.07.16] Global Economic Data — 今日多项全球经济数据将公布**
+  English: Today, July 16, 2026, marks a busy day for global economic data releases, with key reports expected from various regions. The UK is set to release its May GDP figures, while Italy will publish its final June HICP data. The Eurozone will see its May Balance of Trade report. In the United States, investors will be watching for June Retail Sales, weekly Jobless Claims, the July Philly Fed Index, and June Pending Home Sales. These releases are crucial for assessing the current state of global economic health and inflation trends, potentially influencing central bank policy expectations and market sentiment.
+  中文：总结：2026年7月16日，全球将迎来多项重要经济数据发布。英国将公布5月份GDP数据，意大利发布6月份HICP终值，欧元区则有5月份贸易差额报告。美国方面，市场关注6月份零售销售、每周初请失业金人数、7月份费城联储指数以及6月份待售房屋销售数据。这些数据对评估全球经济状况和通胀趋势至关重要，可能影响市场对央行政策的预期。
+  📰 [Newsquawk](https://www.google.com/search?q=global)
 
-- **[2026.07.16] 日本制造业 — 日本制造业信心保持稳定，日元走势受关注**
-  日本語：7月のロイター短観指数は製造業で+13と前月と変わらず、堅調な半導体需要に支えられ安定した景況感を示しました。半導体市場の回復やAIサーバー向け受注の拡大が寄与しています。一方、中東情勢の悪化、円安、金利上昇が非製造業のコストを押し上げ、センチメントは低下。日本銀行は7月の金融政策決定会合で金利を据え置く見込みですが、将来的な追加利上げの可能性は示唆しており、市場は日銀の今後のガイダンスと円相場への影響を注視しています。
-  中文：总结：7月日本制造业景气判断指数稳定在+13，得益于半导体需求强劲。然而，非制造业受中东冲突、日元疲软和利率上升影响，信心下降。日本央行预计7月将维持利率不变，但仍暗示未来可能加息，市场正密切关注其政策指引及对日元汇率的影响。
-  📰 [TradingView](https://jp.tradingview.com/news/reuters:news:20260714:japan-manufacturers-mood-steady-in-july-reuters-tankan/)
+- **[2026.07.16] Top KingWin Ltd. — 拓金赢有限公司股票代码今日变更**
+  English: Top KingWin Ltd. (NASDAQ: WAI) announced that its Class A ordinary shares will commence trading under a new ticker symbol, "DPU," on the Nasdaq Capital Market, effective today, July 16, 2026. This change replaces the previous "WAI" symbol. No action is required from shareholders, and the company's Nasdaq listing and CUSIP number remain unchanged. This operational update is a notable event for the company and its investors, streamlining its market identification and potentially attracting new attention under the new symbol.
+  中文：总结：拓金赢有限公司（纳斯达克股票代码：WAI）宣布，自2026年7月16日起，其A类普通股将在纳斯达克资本市场以新的股票代码“DPU”开始交易，取代原有的“WAI”代码。此次变更无需股东采取任何行动，公司的纳斯达克上市状态和CUSIP号码保持不变。这一运营层面的更新是该公司及其投资者今日值得关注的事件。
+  📰 [Stock Titan](https://www.google.com/search?q=global)
 
-- **[2026.07.16] Bitcoin — 日本比特币ETF法案推进，提振加密市场情绪**
-  English: Bitcoin surged past $65,000 today, driven by cooler-than-expected US inflation data and significant news from Japan. A landmark bill to legalize spot Bitcoin ETFs cleared a major committee in Japan's Upper House, classifying cryptocurrencies as financial instruments and potentially paving the way for ETFs by 2027. This development, coupled with renewed institutional inflows into US Bitcoin ETFs ($181 million on July 14), signals growing mainstream acceptance and investor confidence in digital assets, despite ongoing geopolitical tensions.
-  中文：总结：比特币今日突破65,000美元，受美国通胀数据降温和日本利好消息提振。日本一项将加密货币归类为金融工具并可能在2027年推出比特币ETF的法案在参议院委员会获得通过。此举与美国比特币ETF的机构资金流入增加，共同增强了市场对数字资产的信心和主流接受度。
-  📰 [Pluang](https://www.pluang.com/news/japan-jcb-circle-stablecoin-payments-boost-cross-border-merchant-transactions)
+- **[2026.07.16] Ghana Fuel Prices — 加纳燃油价格今日上涨**
+  English: Effective today, July 16, 2026, Ghana's National Petroleum Authority (NPA) has increased the price floor for various petroleum products. Petrol prices have risen from GHC 12.79 to GHC 13.28 per litre, while diesel has increased from GHC 13.54 to GHC 14.35 per litre. This adjustment means consumers can expect higher fuel prices at the pumps. The move aims to prevent price distortions and promote market stability within the downstream petroleum sector, aligning with the Petroleum Pricing Guidelines and ensuring fair business practices.
+  中文：总结：自2026年7月16日起，加纳国家石油管理局（NPA）上调了多种石油产品的价格下限。汽油价格从每升12.79加纳塞地升至13.28加纳塞地，柴油价格从每升13.54加纳塞地升至14.35加纳塞地。这意味着消费者将面临更高的燃油价格。此举旨在防止价格扭曲，促进下游石油市场的稳定，并符合石油定价指导方针。
+  📰 [MyJoyOnline](https://www.google.com/search?q=global)
 
-- **[2026.07.16] Crude Oil — 中东紧张局势升级推高油价**
-  English: Crude oil prices continue to climb today, with Brent crude trading above $85, as escalating geopolitical tensions between the United States and Iran intensify concerns over global energy supplies. The reinstatement of a naval blockade of Iranian ports near the Strait of Hormuz by the US, following a series of retaliatory strikes, has disrupted shipping and fueled fears of prolonged supply chain issues. This surge in oil prices is reviving inflationary pressures, complicating central banks' efforts to manage inflation and potentially impacting global economic growth forecasts.
-  中文：总结：今日原油价格持续上涨，布伦特原油突破85美元，因美国与伊朗之间不断升级的地缘政治紧张局势加剧了全球能源供应担忧。美国恢复对霍尔木兹海峡附近伊朗港口的封锁，扰乱了航运，并引发了对供应链长期问题的担忧，这可能重新点燃通胀压力。
-  📰 [Economies.com](https://www.economies.com/commodities/oil-hits-four-week-high-as-us-iran-confrontation-intensifies-1748259)
+- **[2026.07.16] YBTC Bitcoin ETF — YBTC比特币ETF今日派发股息**
+  English: The Bitcoin Covered Call Strategy ETF/Roundhill ETF Trust (BATS: YBTC) is scheduled to pay a dividend of $0.0987 per share today, July 16, 2026, to shareholders of record as of July 15, 2026. This dividend, declared on July 14, represents a decrease of $0.0304 from the previous payment. YBTC has been paying dividends since 2024, highlighting its strategy to generate income for investors through covered calls on Bitcoin, offering a unique investment vehicle in the cryptocurrency space.
+  中文：总结：比特币备兑看涨期权策略ETF/Roundhill ETF Trust（BATS: YBTC）定于今日（2026年7月16日）向截至7月15日登记在册的股东支付每股0.0987美元的股息。这笔于7月14日宣布的股息较上次支付有所减少。YBTC自2024年以来一直派发股息，体现了其通过比特币备兑看涨期权为投资者创造收入的策略。
+  📰 [Stock Titan](https://www.google.com/search?q=global)
 
 ---
 ※Stock Market Daily Digest | 2026.07.16
