@@ -7,97 +7,129 @@
 
 ## 🇺🇸 美国股市 / US Market
 
-Here are 8 recent news items concerning the US market for July 16, 2026:
+- **[2026.07.16] Crypto Briefing — Dow, S&P 500 and Nasdaq rise in final hour despite chip-stock selloff**
+  English: Summary: Crypto Briefing is reporting a specific AI chips, memory, data centers, and semiconductor equipment story involving the relevant assets and sectors. Nasdaq futures make the story relevant for growth-tech risk appetite. The practical read-through is to compare the named stocks with Nasdaq futures, SOX-style semiconductor breadth, and opening volume. If the reaction spreads across peers, it supports a sector trade; if it stays isolated, it is more likely a short-term headline move.
+  中文：总结：相关公司和板块 是这条消息的主要观察对象。Nasdaq 是主要传导对象，因此这不只是单一公司消息，也会影响成长科技股风险偏好。交易上需要把标题里的具体催化和盘面反应分开看：如果同业、期货和成交量同步确认，说明资金正在沿 AI 芯片链扩散；如果只有单一股票反应，持续性就要打折。实盘上还应观察期货开盘后的成交量、期权隐含波动率、龙头股是否带动同业，以及资金是否从指数权重股扩散到中小型成长股。如果消息只推动单一公司而板块没有跟随，趋势持续性会弱一些；如果半导体、软件、云计算和电力基础设施同时响应，说明市场正在交易更完整的 AI 资本开支链条。
+  📰 [Crypto Briefing](https://news.google.com/rss/articles/CBMib0FVX3lxTFBta1E2QlgzY2J4Z3NucWR1YmRWWEIyLW9OejA3ai1leDdoaTJaWDRqbVBGWU5wbW1ERS1DUjRTNzNrNGtxV1N2VEMtbUNQTXZaeXBRSEZYOERmTE8tVFdxcG9hVnhDaUZILUhySm8wVQ?oc=5)
 
-- **[2026.07.16] Taiwan Semiconductor Manufacturing (TSMC) — 芯片巨头台积电发布财报**
-  English: Today, Taiwan Semiconductor Manufacturing (TSMC), a critical chip fabricator for the AI and tech sectors, is scheduled to report its second-quarter 2026 earnings. Investors are closely watching these results, as strong performance could signal robust demand for chips and potentially boost related stocks like NVIDIA, which has seen a relatively weak year so far. Conversely, any red flags regarding chip demand could negatively impact computing unit manufacturers and the broader tech market.
-  中文：总结：今日，全球领先的芯片制造商台积电（TSMC）将公布2026年第二季度财报。由于台积电是人工智能和科技领域芯片的主要供应商，其业绩将对包括英伟达在内的科技股产生重要影响。投资者正密切关注财报，以判断芯片需求趋势，这可能带动相关股票上涨或引发市场担忧。
+- **[2026.07.16] AOL.com — Bank of America Says Long Semiconductors is the “Most Crowded Trade Ever”**
+  English: Summary: AOL.com is reporting a specific AI chips, memory, data centers, and semiconductor equipment story involving the relevant assets and sectors. The headline points to a change in company-level expectations, sector rotation, or market sentiment. The practical read-through is to compare the named stocks with Nasdaq futures, SOX-style semiconductor breadth, and opening volume. If the reaction spreads across peers, it supports a sector trade; if it stays isolated, it is more likely a short-term headline move.
+  中文：总结：相关公司和板块 是这条消息的主要观察对象。标题反映的是个股预期、行业轮动或市场情绪的变化。交易上需要把标题里的具体催化和盘面反应分开看：如果同业、期货和成交量同步确认，说明资金正在沿 AI 芯片链扩散；如果只有单一股票反应，持续性就要打折。实盘上还应观察期货开盘后的成交量、期权隐含波动率、龙头股是否带动同业，以及资金是否从指数权重股扩散到中小型成长股。如果消息只推动单一公司而板块没有跟随，趋势持续性会弱一些；如果半导体、软件、云计算和电力基础设施同时响应，说明市场正在交易更完整的 AI 资本开支链条。
+  📰 [AOL.com](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUXFaWFNSZVJKc3RLT093eXd4bkF1cWc0SkM4YlIwaVl3UXp5bXR5VE1XQllBaDE5WFJpQXF0Z0JPekJWZ0RhOXVHTlZ5VjlxcnZqSjdLbk9weDlRbl81d2VNTFllbnpmc3Y2d2s3NHNPN2JNY1FsQ0dhRUllVkZ2RU8yOUFzMmF1?oc=5)
 
-- **[2026.07.16] Netflix — 奈飞公布第二季度财报**
-  English: Netflix is set to release its second-quarter 2026 earnings after the market closes today. This report is highly anticipated by investors, especially given the stock's significant decline from its all-time high in 2025. Analysts are looking for clarity on subscriber growth, revenue, and profitability, which could either validate current valuations or suggest further volatility for the streaming giant and the broader entertainment tech sector.
-  中文：总结：流媒体巨头奈飞（Netflix）将于今日收盘后公布2026年第二季度财报。鉴于其股价自2025年高点以来有所下跌，投资者正密切关注其用户增长、营收和盈利能力，这份财报将对奈飞股价及整个娱乐科技板块的市场情绪产生关键影响。
+- **[2026.07.16] AOL.com — Chip Stocks Just Flashed a Warning Even Wall Street’s Bulls Can’t Ignore**
+  English: Summary: AOL.com is reporting a specific AI chips, memory, data centers, and semiconductor equipment story involving the relevant assets and sectors. The headline points to a change in company-level expectations, sector rotation, or market sentiment. The practical read-through is to compare the named stocks with Nasdaq futures, SOX-style semiconductor breadth, and opening volume. If the reaction spreads across peers, it supports a sector trade; if it stays isolated, it is more likely a short-term headline move.
+  中文：总结：相关公司和板块 是这条消息的主要观察对象。标题反映的是个股预期、行业轮动或市场情绪的变化。交易上需要把标题里的具体催化和盘面反应分开看：如果同业、期货和成交量同步确认，说明资金正在沿 AI 芯片链扩散；如果只有单一股票反应，持续性就要打折。实盘上还应观察期货开盘后的成交量、期权隐含波动率、龙头股是否带动同业，以及资金是否从指数权重股扩散到中小型成长股。如果消息只推动单一公司而板块没有跟随，趋势持续性会弱一些；如果半导体、软件、云计算和电力基础设施同时响应，说明市场正在交易更完整的 AI 资本开支链条。
+  📰 [AOL.com](https://news.google.com/rss/articles/CBMiggFBVV95cUxPcXg5Z1dfVllyUzdPMDhuU3ByNFpzb2loVmFqczl5Z0ZQR1NhdUtGMGQ0eWJyYjc1Y0ZQU05TblRLNFY1VXJ2OERDVjBDX25XRk5QbE12dGRIYWxlcEZPczZ0ZUoyZUd5VmpEbEFBaDE4TnY5MGZ6TWJYZFhZSmVxLVl3?oc=5)
 
-- **[2026.07.16] UnitedHealth Group — 联合健康集团发布季度业绩**
-  English: UnitedHealth Group (NYSE: UNH), a prominent player in the healthcare sector, is scheduled to report its earnings today. As one of the largest healthcare companies, its performance offers key insights into the health insurance and managed care markets, as well as broader consumer spending trends in healthcare. Investors will be scrutinizing revenue, profit margins, and outlook for the remainder of 2026, which could influence the Dow Jones Industrial Average and overall market sentiment.
-  中文：总结：今日，医疗健康巨头联合健康集团（UnitedHealth Group）将公布最新财报。作为行业领军企业，其业绩将为医疗保险和管理式医疗市场提供重要参考，并反映消费者在医疗领域的支出趋势。投资者将关注其营收、利润率及2026年剩余时间的展望，这可能影响道琼斯工业平均指数和整体市场情绪。
+- **[2026.07.16] Seeking Alpha — AI memory, chip stocks fall again after brief recovery despite strong ASML results**
+  English: Summary: Seeking Alpha is reporting a specific AI chips, memory, data centers, and semiconductor equipment story involving the relevant assets and sectors. The headline points to a change in company-level expectations, sector rotation, or market sentiment. The practical read-through is to compare the named stocks with Nasdaq futures, SOX-style semiconductor breadth, and opening volume. If the reaction spreads across peers, it supports a sector trade; if it stays isolated, it is more likely a short-term headline move.
+  中文：总结：相关公司和板块 是这条消息的主要观察对象。标题反映的是个股预期、行业轮动或市场情绪的变化。交易上需要把标题里的具体催化和盘面反应分开看：如果同业、期货和成交量同步确认，说明资金正在沿 AI 芯片链扩散；如果只有单一股票反应，持续性就要打折。实盘上还应观察期货开盘后的成交量、期权隐含波动率、龙头股是否带动同业，以及资金是否从指数权重股扩散到中小型成长股。如果消息只推动单一公司而板块没有跟随，趋势持续性会弱一些；如果半导体、软件、云计算和电力基础设施同时响应，说明市场正在交易更完整的 AI 资本开支链条。
+  📰 [Seeking Alpha](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPR3lHUGNsWmpmTWNFM2FieFNGVUl6ZW9yUF9FZWtHZ2tNZl9COHJaT2hFOHVFMklnUkk3dmVGVFB2dWdXdEZVNHc4S2xFOHdhQTRyVTk1NWJTZWtGeENicEtFSENKNEk4YXB2YUFDTXpSbHEwWjFTaGNScXBBMW9EQ3E0UTFPMU5MM1NmTzRpQTUwLVk1cEpoV2JwR2JmRmZkUDI5VUZBdVpUT2E2amlYRm12Vlg2RkEtNEZ3?oc=5)
 
-- **[2026.07.16] RedChip — 垂直经济虚拟投资者大会召开**
-  English: The RedChip Virtual Investor Conference, focusing on public companies shaping the "Vertical Economy," is taking place today. This full-day event is expected to spotlight emerging trends in autonomous flight, aerospace, and advanced aviation, offering investors a focused opportunity to learn about innovation drivers and commercialization strategies. Such conferences can generate significant interest in specific small-cap and microcap stocks, potentially leading to increased trading activity on the NASDAQ.
-  中文：总结：今日，RedChip垂直经济虚拟投资者大会正在举行，重点关注塑造“垂直经济”的上市公司。此次会议将探讨自动飞行、航空航天和先进航空等新兴趋势，为投资者提供了解行业创新和商业化策略的机会，有望提振特定小型股和微型股的交易活跃度。
+- **[2026.07.15] TradingKey — NVDA|NVIDIA Corp|Price:212.470|Chg%:+0.670**
+  English: Summary: TradingKey is reporting a specific AI chips, memory, data centers, and semiconductor equipment story involving Nvidia. Peer moves show whether the trade is spreading through the AI-chip chain. The practical read-through is to compare the named stocks with Nasdaq futures, SOX-style semiconductor breadth, and opening volume. If the reaction spreads across peers, it supports a sector trade; if it stays isolated, it is more likely a short-term headline move.
+  中文：总结：Nvidia 是这条消息的主要观察对象。AMD、Intel、Qualcomm、Broadcom 或 Nvidia 等同业表现，可以判断资金是否在扩散到更完整的 AI 芯片链。交易上需要把标题里的具体催化和盘面反应分开看：如果同业、期货和成交量同步确认，说明资金正在沿 AI 芯片链扩散；如果只有单一股票反应，持续性就要打折。实盘上还应观察期货开盘后的成交量、期权隐含波动率、龙头股是否带动同业，以及资金是否从指数权重股扩散到中小型成长股。如果消息只推动单一公司而板块没有跟随，趋势持续性会弱一些；如果半导体、软件、云计算和电力基础设施同时响应，说明市场正在交易更完整的 AI 资本开支链条。
+  📰 [TradingKey](https://news.google.com/rss/articles/CBMiY0FVX3lxTE90LUVGbF9GdENUenRINFBHNUMyQnZacTd1WV8xTzZIU002bG5yWXZDTzEtUHBWZVZfd2J4UjJpNDlndFY1a0FRd3lzRnNYeVN2dURubDh6UjVGTVhGQllvT2hCYw?oc=5)
 
-- **[2026.07.16] Pitanium Limited — 纳斯达克宣布Pitanium Limited退市**
-  English: Pitanium Limited (Nasdaq: PTNM) is officially delisted from the Nasdaq Stock Market LLC today, following a notification issued on July 7, 2026. This action comes after a temporary trading suspension by the U.S. Securities and Exchange Commission in October 2025. While specific to Pitanium, such delistings underscore regulatory oversight and can serve as a reminder of the risks associated with investing in smaller, less stable companies on major exchanges.
-  中文：总结：今日，Pitanium Limited（纳斯达克代码：PTNM）正式从纳斯达克股票市场退市。此举是在美国证券交易委员会于2025年10月暂停其交易后采取的。尽管仅针对Pitanium一家公司，但此类退市事件凸显了监管审查的重要性，并提醒投资者关注在主要交易所上市的小型公司可能存在的风险。
+- **[2026.07.15] AOL.com — 5 Analog Chip Stocks Set to Rebound as the Cycle Changes**
+  English: Summary: AOL.com is reporting a specific AI chips, memory, data centers, and semiconductor equipment story involving the relevant assets and sectors. The article questions whether AI demand is changing the old memory boom-bust cycle. The price reaction is part of the news, so peer follow-through matters. The practical read-through is to compare the named stocks with Nasdaq futures, SOX-style semiconductor breadth, and opening volume. If the reaction spreads across peers, it supports a sector trade; if it stays isolated, it is more likely a short-term headline move.
+  中文：总结：相关公司和板块 是这条消息的主要观察对象。标题在讨论传统存储行业的景气循环是否被 AI 需求改写，这会影响 Micron 的估值逻辑；这类消息包含明确的股价反应，后续要看同业是否继续跟涨，而不是只看标题中的单日涨幅。交易上需要把标题里的具体催化和盘面反应分开看：如果同业、期货和成交量同步确认，说明资金正在沿 AI 芯片链扩散；如果只有单一股票反应，持续性就要打折。
+  📰 [AOL.com](https://news.google.com/rss/articles/CBMid0FVX3lxTE4wMXEySFRJaEEzQnRfTTVlQzNZZzJwbk0yTVJGdlZuU1NmWnF3ay1CZ0RiLV81Nkh5NU5reTJVTFcweUdMNnNRQWtyUGRKVUFUOEJMbGx3NHhhNk00YThvb2NEZXJqUXJ6akFzaFBhSVhBXzNBT09r?oc=5)
 
-- **[2026.07.16] Top KingWin Ltd. — Top KingWin Ltd.股票代码变更为“DPU”**
-  English: Effective today, Top KingWin Ltd. (NASDAQ: WAI) will begin trading on the Nasdaq Capital Market under its new ticker symbol "DPU." This corporate action, announced yesterday, is a routine change that does not require any action from shareholders and does not affect their holdings. While not a direct market mover, it's a notable operational update for investors tracking the company and its presence on the Nasdaq exchange.
-  中文：总结：自今日起，Top KingWin Ltd.（纳斯达克代码：WAI）的股票代码将正式变更为“DPU”，并在纳斯达克资本市场交易。此项公司行动不要求股东采取任何措施，也不会影响其持股，是投资者关注公司在纳斯达克市场运营的重要更新。
+- **[2026.07.15] AOL.com — Qualcomm’s Next Rally May Be Closer Than Investors Think**
+  English: Summary: AOL.com is reporting a specific AI chips, memory, data centers, and semiconductor equipment story involving Qualcomm. The price reaction is part of the news, so peer follow-through matters. Peer moves show whether the trade is spreading through the AI-chip chain. The practical read-through is to compare the named stocks with Nasdaq futures, SOX-style semiconductor breadth, and opening volume. If the reaction spreads across peers, it supports a sector trade; if it stays isolated, it is more likely a short-term headline move.
+  中文：总结：Qualcomm 是这条消息的主要观察对象。这类消息包含明确的股价反应，后续要看同业是否继续跟涨，而不是只看标题中的单日涨幅；AMD、Intel、Qualcomm、Broadcom 或 Nvidia 等同业表现，可以判断资金是否在扩散到更完整的 AI 芯片链。交易上需要把标题里的具体催化和盘面反应分开看：如果同业、期货和成交量同步确认，说明资金正在沿 AI 芯片链扩散；如果只有单一股票反应，持续性就要打折。
+  📰 [AOL.com](https://news.google.com/rss/articles/CBMif0FVX3lxTE5LY080b0l5QmVFRXhuRTRQVXExcERMaUpRS3VWR0V1R1ZUYUJFMkI0Ym9ybHpaU2E5bEUtM2F4Vk1HYURZOTR0ak92LUVvWFoxX2ZrZXllRXBiUy02SnVBR01kUWNaUHJJNjhRdUVWc3kwWTZGb1kxVGxiZjdYbkE?oc=5)
 
-- **[2026.07.16] HiTech Minerals — HiTech Minerals首席执行官讨论纳斯达克上市计划**
-  English: Today, the CEO of HiTech Minerals, Ian Rodger, is participating in a Water Tower Research Fireside Chat to discuss the company's anticipated Nasdaq listing under the ticker ULIT. The discussion will highlight the strategic importance of the McDermitt Lithium Project, one of the largest U.S. lithium resources, and its role in the domestic battery supply chain. This event could draw investor attention to the critical minerals sector and potential new listings in the clean energy space.
-  中文：总结：今日，HiTech Minerals首席执行官Ian Rodger将参加炉边谈话，讨论公司计划在纳斯达克上市（股票代码ULIT）的事宜。此次讨论将重点介绍美国最大的锂资源项目之一——McDermitt锂项目的战略意义及其在国内电池供应链中的作用，有望吸引投资者关注关键矿产和清洁能源领域的新上市机会。
-
-- **[2026.07.16] SpaceX — 星舰计划于今日进行最新测试飞行**
-  English: Elon Musk's SpaceX is scheduled to conduct the latest critical test flight of its Starship rocket no earlier than today, July 16, 2026. This event is a significant milestone for the company, which went public in June 2026 with the largest IPO in history. While not a direct stock market trading event, the success or challenges of the Starship launch could influence investor sentiment towards SpaceX and the broader space technology sector, given its substantial market valuation.
-  中文：总结：埃隆·马斯克的SpaceX公司计划不早于今日（2026年7月16日）进行其星舰火箭的最新关键测试飞行。SpaceX于2026年6月进行了史上最大规模的IPO，此次发射是公司的重要里程碑。星舰发射的成功与否，可能影响投资者对SpaceX及整个太空科技行业的信心和市场估值。
+- **[2026.07.15] MSN — Micron leads AI memory stocks higher after stellar results but chip stocks mixed**
+  English: Summary: MSN is reporting a specific AI chips, memory, data centers, and semiconductor equipment story involving Micron. Micron is the stock-specific signal, so memory pricing matters more than a generic chip move. The practical read-through is to compare the named stocks with Nasdaq futures, SOX-style semiconductor breadth, and opening volume. If the reaction spreads across peers, it supports a sector trade; if it stays isolated, it is more likely a short-term headline move.
+  中文：总结：Micron 是这条消息的主要观察对象。Micron 是主要个股信号，重点应看存储价格和 AI 服务器需求，而不只是泛泛看芯片股上涨。交易上需要把标题里的具体催化和盘面反应分开看：如果同业、期货和成交量同步确认，说明资金正在沿 AI 芯片链扩散；如果只有单一股票反应，持续性就要打折。实盘上还应观察期货开盘后的成交量、期权隐含波动率、龙头股是否带动同业，以及资金是否从指数权重股扩散到中小型成长股。如果消息只推动单一公司而板块没有跟随，趋势持续性会弱一些；如果半导体、软件、云计算和电力基础设施同时响应，说明市场正在交易更完整的 AI 资本开支链条。
+  📰 [MSN](https://news.google.com/rss/articles/CBMiqgNBVV95cUxQYWE3cWZrMDdweWU3WVR4eU1DejJQSi1VN2dlRjdiTExnQW9EOW9pQWFTLTBOT3Y4Q1Z6V2NoUFpRNklpbENqSkdwblhmYUNSeTlGcEdIVk9wb0UwNGJSOUVqWkU4Ynhnd3Jtdl9ZcDVNY1pOWTBaUDFLTC1zOTFldzVzQzJoaVFqay00UHB2TVctN216U3ZXWE11MTNTV1g1SWNibzN4VzdKUDU3NkJSWlo5UjFJeW0tMDlBcGQ3SnFtWF9zVThuRThUc2x2ZGZTNlV2dWRIT21sQUN4OVlKaDI4eV81RUxQWGtzZGdXaGV6QktLRXNrd09DYXpWb1pWSWNicmVXQ3d6c3JDODROZmVmNDA0OHc5UC0yYkl0QjlwNEFFeWRHMHR3bGZxVkNjYnFsTm0yRENZd2JLVThwM21LcnVhRnU2a3QzcG9fSV9Od3g0OFFaTnQ4NldLeWdzU1FNTlJUM0pfLWMtR3FLY3NuRVNZdjdlSXN4Wl9mckpyd0FHZk53ZmZHVkpLc2JZemNHQWxxQWNWNDR0Ui1MY3k3clQ2WTc2VGc?oc=5)
 
 ## 🇯🇵 日本株式市場 / Japan Market
 
-日本株式市場に関する2026年7月16日の最新ニュースを以下にお届けします。
+- **[2026.07.15] BigGo ファイナンス — 日経平均が反発、終値67743円 半導体株が押し上げ主導、アドバンテストなど寄与**
+  日本語：要約：BigGo ファイナンスの報道では、関連銘柄とセクターを中心に日本株の物色がどう広がるかが焦点です。半導体、AI、ソフトバンクグループ、輸出関連、金融などの主力株が同じ方向に動けば、日経平均やTOPIXの動きにも継続性が出やすくなります。一方で一部の値がさ株だけが上昇している場合は、市場全体の広がりが弱い可能性があります。次に見るべき点は、円相場、米国ハイテク株先物、出来高、海外投資家の買い姿勢です。決算やレーティング変更が材料の場合は、同業他社への波及も確認したいところです。指数寄与度の高い銘柄だけでなく、中小型株や内需株にも買いが広がるかを見ると、相場の持続力を判断しやすくなります。
+  中文：总结：相关公司和板块 把日本市场的焦点集中到半导体和 AI 产业链。日股中东京电子、Advantest、Kioxia、SoftBank Group 等常被视为 AI 基础设施和全球芯片周期的映射。如果海外芯片业绩或 AI 资本开支继续超预期，日经指数可能继续由高权重半导体股推动；同时也要留意日元和海外资金流向。实盘上还要结合日元汇率、外资买卖、美国科技股隔夜表现以及期货盘变化判断。如果日经上涨主要依赖少数半导体权重股，后续容易受海外芯片消息影响；如果汽车、金融、商社和中小盘也同步走强，说明市场宽度更健康。
+  📰 [BigGo ファイナンス](https://news.google.com/rss/articles/CBMidEFVX3lxTE1CcnZzVnhhZkhXMVRoUkg1MVU3UmhmVk0xVXZJa1BaelFXV0dkb1MyTHRDTlFieGRLdTZGVXQ5Xzlla3ptUTFjWnRCZGo5VmphbEQ2OW45cjJuYzFRUXpGcm9kZk9HOGdzNWVIMnkyWGo2NEdt?oc=5)
 
-- **[2026.07.16] 日経225先物 — 大幅下落で始まる**
-  日本語：16日0時時点の大阪取引所における日経225先物9月限は、前日比1220円安の6万7640円と大幅に下落して取引を開始しました。これは日経平均株価の現物終値6万8751.51円に対して1111.51円安の水準であり、前日の米国市場の動向や、地政学リスクへの警戒感が影響している可能性があります。市場は本日午前の現物市場の動向を注視しています。
-  中文：总结：16日0时，大阪交易所日经225股指期货9月合约大幅下跌1220日元，报67640日元。这一开盘价较日经平均指数现货收盘价68751.51日元低1111.51日元，可能受到前夜美国市场走势及地缘政治风险担忧的影响。市场正密切关注今日上午现货市场的表现。
-  📰 [株探](https://kabutan.jp/)
+- **[2026.07.15] みんかぶ — 株価指数先物【引け後】 世界の半導体株をにらんでのスキャルピング対応 投稿日時： 2026/07/15 18:21[株探]**
+  日本語：要約：みんかぶの報道では、関連銘柄とセクターを中心に日本株の物色がどう広がるかが焦点です。半導体、AI、ソフトバンクグループ、輸出関連、金融などの主力株が同じ方向に動けば、日経平均やTOPIXの動きにも継続性が出やすくなります。一方で一部の値がさ株だけが上昇している場合は、市場全体の広がりが弱い可能性があります。次に見るべき点は、円相場、米国ハイテク株先物、出来高、海外投資家の買い姿勢です。決算やレーティング変更が材料の場合は、同業他社への波及も確認したいところです。指数寄与度の高い銘柄だけでなく、中小型株や内需株にも買いが広がるかを見ると、相場の持続力を判断しやすくなります。
+  中文：总结：相关公司和板块 把日本市场的焦点集中到半导体和 AI 产业链。日股中东京电子、Advantest、Kioxia、SoftBank Group 等常被视为 AI 基础设施和全球芯片周期的映射。如果海外芯片业绩或 AI 资本开支继续超预期，日经指数可能继续由高权重半导体股推动；同时也要留意日元和海外资金流向。实盘上还要结合日元汇率、外资买卖、美国科技股隔夜表现以及期货盘变化判断。如果日经上涨主要依赖少数半导体权重股，后续容易受海外芯片消息影响；如果汽车、金融、商社和中小盘也同步走强，说明市场宽度更健康。
+  📰 [みんかぶ](https://news.google.com/rss/articles/CBMiRkFVX3lxTE9hWUIxdVVNcnNKNVlZRERoeEtxUHg2eDdoY1M1b0NfWHFKaDVTOWdZWFNmRVc5aDlGUzRWUWhIaUVLQzd6dVE?oc=5)
 
-- **[2026.07.16] 日本銀行 — 「生活意識に関するアンケート調査」結果発表**
-  日本語：日本銀行は本日13時30分に「生活意識に関するアンケート調査」（第106回）の結果を公表する予定です。この調査は、国民の景気や物価に対する意識、家計の状況などを把握するもので、今後の金融政策運営を占う上で重要な指標となります。市場関係者は、特に物価見通しや消費動向に関する回答に注目しています。
-  中文：总结：日本银行定于今日13时30分公布第106回「生活意识相关问卷调查」结果。该调查旨在了解民众对经济和物价的看法以及家庭财务状况，是预测未来货币政策走向的重要指标。市场参与者尤其关注物价预期和消费趋势方面的回答。
-  📰 [日本銀行](https://www.boj.or.jp/)
+- **[2026.07.15] ゴールドオンライン — 好決算・増配発表でストップ高となった〈東証プライム・上昇率1位銘柄〉の正体…日経平均は半導体株への“買い波及”で1,008.01円高の「68,751.51円」と大幅続伸【7月15日の国内株式市場概況】**
+  日本語：要約：ゴールドオンラインの報道では、関連銘柄とセクターを中心に日本株の物色がどう広がるかが焦点です。半導体、AI、ソフトバンクグループ、輸出関連、金融などの主力株が同じ方向に動けば、日経平均やTOPIXの動きにも継続性が出やすくなります。一方で一部の値がさ株だけが上昇している場合は、市場全体の広がりが弱い可能性があります。次に見るべき点は、円相場、米国ハイテク株先物、出来高、海外投資家の買い姿勢です。決算やレーティング変更が材料の場合は、同業他社への波及も確認したいところです。指数寄与度の高い銘柄だけでなく、中小型株や内需株にも買いが広がるかを見ると、相場の持続力を判断しやすくなります。
+  中文：总结：相关公司和板块 把日本市场的焦点集中到半导体和 AI 产业链。日股中东京电子、Advantest、Kioxia、SoftBank Group 等常被视为 AI 基础设施和全球芯片周期的映射。如果海外芯片业绩或 AI 资本开支继续超预期，日经指数可能继续由高权重半导体股推动；同时也要留意日元和海外资金流向。实盘上还要结合日元汇率、外资买卖、美国科技股隔夜表现以及期货盘变化判断。如果日经上涨主要依赖少数半导体权重股，后续容易受海外芯片消息影响；如果汽车、金融、商社和中小盘也同步走强，说明市场宽度更健康。
+  📰 [ゴールドオンライン](https://news.google.com/rss/articles/CBMiUkFVX3lxTE54dEQzZm5zLUo3ODR4LVI5UGh1STRRWGhHVHJld00wUjcyTTE3ZGVWQ1BnSXQ1dERwQ3ZCTWNwdml4eWxWbEJ2LW5xTW5ackRzNkE?oc=5)
 
-- **[2026.07.16] 日本銀行 — 6月の日銀当座預金残高（業態別）を公表**
-  日本語：日本銀行は本日17時00分に、6月分の業態別の日銀当座預金残高を公表します。このデータは、金融機関の資金繰りや市場の流動性を示すものであり、日銀の金融調節方針や市場への影響を分析する上で重要な情報となります。特に、最近の金利変動や金融政策の正常化プロセスにおける金融機関の動向が注目されます。
-  中文：总结：日本银行将于今日17时00分公布6月份各业态的日银往来账户余额。该数据反映金融机构的资金状况和市场流动性，是分析日本银行货币调节政策及其市场影响的重要信息。近期利率变动和货币政策正常化进程中金融机构的动向将受到特别关注。
-  📰 [日本銀行](https://www.boj.or.jp/)
+- **[2026.07.15] Yahoo!ニュース — 日経平均は続伸、ＡＩ・半導体株上昇 ＡＳＭＬ好決算支え（ロイター）**
+  日本語：要約：Yahoo!ニュースの報道では、関連銘柄とセクターを中心に日本株の物色がどう広がるかが焦点です。半導体、AI、ソフトバンクグループ、輸出関連、金融などの主力株が同じ方向に動けば、日経平均やTOPIXの動きにも継続性が出やすくなります。一方で一部の値がさ株だけが上昇している場合は、市場全体の広がりが弱い可能性があります。次に見るべき点は、円相場、米国ハイテク株先物、出来高、海外投資家の買い姿勢です。決算やレーティング変更が材料の場合は、同業他社への波及も確認したいところです。指数寄与度の高い銘柄だけでなく、中小型株や内需株にも買いが広がるかを見ると、相場の持続力を判断しやすくなります。
+  中文：总结：相关公司和板块 把日本市场的焦点集中到半导体和 AI 产业链。日股中东京电子、Advantest、Kioxia、SoftBank Group 等常被视为 AI 基础设施和全球芯片周期的映射。如果海外芯片业绩或 AI 资本开支继续超预期，日经指数可能继续由高权重半导体股推动；同时也要留意日元和海外资金流向。实盘上还要结合日元汇率、外资买卖、美国科技股隔夜表现以及期货盘变化判断。如果日经上涨主要依赖少数半导体权重股，后续容易受海外芯片消息影响；如果汽车、金融、商社和中小盘也同步走强，说明市场宽度更健康。
+  📰 [Yahoo!ニュース](https://news.google.com/rss/articles/CBMif0FVX3lxTFBaM0dqRV8xMF83b0RibFBvYXpIYm95WjgwcmNDc2RtS3pHMUF2eDR6b2NmX01HMUFlX0JONy1XUkJ3N1Uwc09aX1dOd281MXJXaUhwdXB2cGFLR2l3REpGNEhMcWpvMUFydEpZeEItUlVHTkpTUW5XbXhhMDEtbnc?oc=5)
 
-- **[2026.07.16] 半導体関連株 — 前日の米株高を受け堅調な展開か**
-  日本語：前日の米国市場で半導体関連株が大幅に上昇したことを受け、本日の東京市場でも半導体製造装置や素材関連銘柄に買いが先行し、堅調な展開が予想されます。特に、オランダのASMLの好決算が引き続き支援材料となり、東京エレクトロンやアドバンテストなどの主力銘柄が市場を牽引する可能性があります。ただし、短期的な過熱感から利益確定売りが出る場面も想定されます。
-  中文：总结：受前夜美国半导体股大涨提振，今日东京市场半导体制造设备及材料相关股票预计将高开并保持强势。荷兰ASML的良好财报将继续提供支撑，东京电子和爱德万测试等主要股票有望引领市场。然而，短期过热可能引发获利回吐。
-  📰 [日本経済新聞](https://www.nikkei.com/)
+- **[2026.07.15] ｄメニューニュース — 日経平均は続伸、ＡＩ・半導体株上昇 ＡＳＭＬ好決算支え**
+  日本語：要約：ｄメニューニュースの報道では、関連銘柄とセクターを中心に日本株の物色がどう広がるかが焦点です。半導体、AI、ソフトバンクグループ、輸出関連、金融などの主力株が同じ方向に動けば、日経平均やTOPIXの動きにも継続性が出やすくなります。一方で一部の値がさ株だけが上昇している場合は、市場全体の広がりが弱い可能性があります。次に見るべき点は、円相場、米国ハイテク株先物、出来高、海外投資家の買い姿勢です。決算やレーティング変更が材料の場合は、同業他社への波及も確認したいところです。指数寄与度の高い銘柄だけでなく、中小型株や内需株にも買いが広がるかを見ると、相場の持続力を判断しやすくなります。
+  中文：总结：相关公司和板块 把日本市场的焦点集中到半导体和 AI 产业链。日股中东京电子、Advantest、Kioxia、SoftBank Group 等常被视为 AI 基础设施和全球芯片周期的映射。如果海外芯片业绩或 AI 资本开支继续超预期，日经指数可能继续由高权重半导体股推动；同时也要留意日元和海外资金流向。实盘上还要结合日元汇率、外资买卖、美国科技股隔夜表现以及期货盘变化判断。如果日经上涨主要依赖少数半导体权重股，后续容易受海外芯片消息影响；如果汽车、金融、商社和中小盘也同步走强，说明市场宽度更健康。
+  📰 [ｄメニューニュース](https://news.google.com/rss/articles/CBMiiwFBVV95cUxQcWNKME1CZ3BVUnhZSTNfR0UzNG1CVTN6SzBvU1EtaXkzWEZOSTNRQ09GN1pvdHppejF6WWpDTGtiNVk4UkNucnBQMFhkaERyY2o0TXhFUlZ2ZEE5THpUbXNFZmZnX011U09sNUNuc0NGWWd5Q2Y1dFBLbUpyaGgxckltY1kyeHNiSGJB0gGHAUFVX3lxTE80LUZTUGh6aGZQTVU1VWJ0enE4TzRwcWxIck81aFBwT2ZrTGxVSmh3cmJiRVI4R2NORVhiMnNFRjZQdjJSNWQwaWFlWWRZRVlkaTQyMjhPZUkzMjZpRzRfYzhySFpoTU9rMXB3MWtCZ08zcTY5RlB4YXo4QzNWNmQ4VXZzQkQ2TQ?oc=5)
 
-- **[2026.07.16] 為替市場 — 円安基調が継続、輸出企業に追い風**
-  日本語：外国為替市場では、日米金利差の拡大を背景に円安基調が継続しており、本日もドル円は162円台で推移する見込みです。この円安は、自動車や電機などの輸出関連企業の収益を押し上げる要因となり、関連銘柄への買いが期待されます。一方で、輸入物価の上昇による国内経済への影響も引き続き懸念されており、今後の為替動向が注目されます。
-  中文：总结：在外汇市场，由于日美利差扩大，日元贬值趋势持续，预计今日美元兑日元将维持在162日元区间。日元贬值将提振汽车和电器等出口相关企业的收益，相关股票有望受到追捧。然而，进口物价上涨对国内经济的影响仍令人担忧，未来汇率走势备受关注。
-  📰 [ロイター](https://jp.reuters.com/markets/japan/)
+- **[2026.07.15] BigGo ファイナンス — 日経平均、後場に再浮上し6万8500円台 アジア半導体株高が追い風**
+  日本語：要約：BigGo ファイナンスの報道では、関連銘柄とセクターを中心に日本株の物色がどう広がるかが焦点です。半導体、AI、ソフトバンクグループ、輸出関連、金融などの主力株が同じ方向に動けば、日経平均やTOPIXの動きにも継続性が出やすくなります。一方で一部の値がさ株だけが上昇している場合は、市場全体の広がりが弱い可能性があります。次に見るべき点は、円相場、米国ハイテク株先物、出来高、海外投資家の買い姿勢です。決算やレーティング変更が材料の場合は、同業他社への波及も確認したいところです。指数寄与度の高い銘柄だけでなく、中小型株や内需株にも買いが広がるかを見ると、相場の持続力を判断しやすくなります。
+  中文：总结：相关公司和板块 把日本市场的焦点集中到半导体和 AI 产业链。日股中东京电子、Advantest、Kioxia、SoftBank Group 等常被视为 AI 基础设施和全球芯片周期的映射。如果海外芯片业绩或 AI 资本开支继续超预期，日经指数可能继续由高权重半导体股推动；同时也要留意日元和海外资金流向。实盘上还要结合日元汇率、外资买卖、美国科技股隔夜表现以及期货盘变化判断。如果日经上涨主要依赖少数半导体权重股，后续容易受海外芯片消息影响；如果汽车、金融、商社和中小盘也同步走强，说明市场宽度更健康。
+  📰 [BigGo ファイナンス](https://news.google.com/rss/articles/CBMidEFVX3lxTE9pekVDTG9yZ0ZPSk1XUEU0NnVaSDlUa0NPajBlYTlNZlFzR0drQXZzR0d1TkNTeXZ2X18zc3dEMzcyN1VMSG1aTkJfUXJzZy1TZ3ZCQWdHd1RoN01lamdDTGFjZGwwWHl4TE9XZGd1ZXotNU5L?oc=5)
+
+- **[2026.07.15] BigGo ファイナンス — 日経平均が720円高、6万8460円台 アドバンテスやキオクシアが牽引**
+  日本語：要約：BigGo ファイナンスの報道では、関連銘柄とセクターを中心に日本株の物色がどう広がるかが焦点です。半導体、AI、ソフトバンクグループ、輸出関連、金融などの主力株が同じ方向に動けば、日経平均やTOPIXの動きにも継続性が出やすくなります。一方で一部の値がさ株だけが上昇している場合は、市場全体の広がりが弱い可能性があります。次に見るべき点は、円相場、米国ハイテク株先物、出来高、海外投資家の買い姿勢です。決算やレーティング変更が材料の場合は、同業他社への波及も確認したいところです。指数寄与度の高い銘柄だけでなく、中小型株や内需株にも買いが広がるかを見ると、相場の持続力を判断しやすくなります。
+  中文：总结：相关公司和板块 把日本市场的焦点集中到半导体和 AI 产业链。日股中东京电子、Advantest、Kioxia、SoftBank Group 等常被视为 AI 基础设施和全球芯片周期的映射。如果海外芯片业绩或 AI 资本开支继续超预期，日经指数可能继续由高权重半导体股推动；同时也要留意日元和海外资金流向。实盘上还要结合日元汇率、外资买卖、美国科技股隔夜表现以及期货盘变化判断。如果日经上涨主要依赖少数半导体权重股，后续容易受海外芯片消息影响；如果汽车、金融、商社和中小盘也同步走强，说明市场宽度更健康。
+  📰 [BigGo ファイナンス](https://news.google.com/rss/articles/CBMidEFVX3lxTFBVRm1XM2U0WFhnSnIwSGxQRzM3cXBXMGE4SkJZNVJ1VjEyUU1STGdVNGlPUDB0UmpfdXRtMXdpVWRrUjhNLXRONlNnUFFUcXNDdmlYck5BLW8xdXl3aTJIUF9EVldFSHVxWVY0Y012N09jZERh?oc=5)
+
+- **[2026.07.15] ｄメニューニュース — 日経平均は続伸で寄り付く、米半導体株高を好感 金融株しっかり**
+  日本語：要約：ｄメニューニュースの報道では、関連銘柄とセクターを中心に日本株の物色がどう広がるかが焦点です。半導体、AI、ソフトバンクグループ、輸出関連、金融などの主力株が同じ方向に動けば、日経平均やTOPIXの動きにも継続性が出やすくなります。一方で一部の値がさ株だけが上昇している場合は、市場全体の広がりが弱い可能性があります。次に見るべき点は、円相場、米国ハイテク株先物、出来高、海外投資家の買い姿勢です。決算やレーティング変更が材料の場合は、同業他社への波及も確認したいところです。指数寄与度の高い銘柄だけでなく、中小型株や内需株にも買いが広がるかを見ると、相場の持続力を判断しやすくなります。
+  中文：总结：相关公司和板块 把日本市场的焦点集中到半导体和 AI 产业链。日股中东京电子、Advantest、Kioxia、SoftBank Group 等常被视为 AI 基础设施和全球芯片周期的映射。如果海外芯片业绩或 AI 资本开支继续超预期，日经指数可能继续由高权重半导体股推动；同时也要留意日元和海外资金流向。实盘上还要结合日元汇率、外资买卖、美国科技股隔夜表现以及期货盘变化判断。如果日经上涨主要依赖少数半导体权重股，后续容易受海外芯片消息影响；如果汽车、金融、商社和中小盘也同步走强，说明市场宽度更健康。
+  📰 [ｄメニューニュース](https://news.google.com/rss/articles/CBMiggFBVV95cUxQbW82d1ZtU3JIeDVreWRlVmhOTDlQdENINTRocHJFOXRTdHlfY3pSZTctellMc2JMRktzVmRCaVpzcG8tYkk1cHp2cklxWWp2dlU5OC1Cczc0bzJLemR0MUhja3FGUy1aa0paVEFlamZEb0dVZ3k5T0RPdGRja2xDSEN30gGHAUFVX3lxTFBNaVFaUnRwTEpRYVMyZERsUWc1X2F2Rm5FWHRiR2dJU1M0dEQwMEpYcnZWNk94a0wtRG5XR3RXd1I5TFY0SDhHVl8yYjFaRjhpSzhXaUpHTElRS3k0d3Rtc0h3bHo5VFVBYjZrV2o1SGlJMkRHYWF0SEowbkJ5ZFRLV2ZTZlEySQ?oc=5)
 
 ## 🌍 宏观经济与投资 / Macro & Investment
 
-Here are 5 recent news items specifically about macroeconomics and investment for July 16, 2026:
+- **[2026.07.16] US Stock Market — 美国股市因通胀降温和强劲财报上涨**
+  English: Wall Street indices advanced on July 15th, buoyed by softer-than-expected June Producer Price Index (PPI) data, which eased inflation concerns and reduced pressure on the Federal Reserve for aggressive rate hikes. The S&P 500, Dow Jones Industrial Average, and Nasdaq Composite all closed higher. Strong second-quarter earnings from major financial institutions like BlackRock and Morgan Stanley further boosted investor sentiment, signaling a robust start to the earnings season despite some weakness in the semiconductor sector.
+  中文：总结：7月15日，美国股市主要股指上涨，主要受低于预期的6月生产者物价指数（PPI）数据提振，这缓解了通胀担忧并减轻了美联储激进加息的压力。包括标普500指数在内的三大股指均收高。贝莱德和摩根士丹利等主要金融机构强劲的第二季度财报也进一步提振了投资者情绪，预示着财报季的良好开端。
+  📰 [The Straits Times](https://www.straitstimes.com/business/wall-st-ends-higher-on-cool-inflation-data-strong-earnings)
 
-- **[2026.07.16] TSMC — 台积电今日发布第二季度财报**
-  English: Taiwan Semiconductor Manufacturing Co. (TSMC) is scheduled to release its full second-quarter 2026 earnings report today, July 16, at 2:00 PM Taiwan time (2:00 AM ET). Analysts anticipate Q2 revenue to be between $39.5 billion and $40.2 billion, with an estimated EPS of $3.83, representing a 55% year-over-year growth. Market attention will also focus on gross margins amid high-cost capacity expansion in Arizona, as well as the company's Q3 growth guidance and capital expenditure plans, which are crucial for assessing its future performance and the broader semiconductor industry outlook.
-  中文：总结：台积电（TSMC）定于今日（7月16日）台湾时间下午2点（美国东部时间凌晨2点）发布2026年第二季度财报。分析师预计第二季度营收将在395亿至402亿美元之间，每股收益预计为3.83美元，同比增长55%。市场将密切关注其毛利率、第三季度增长指引以及资本支出计划，尤其是在亚利桑那州高成本产能扩张的背景下。
-  📰 [TradingKey](https://www.google.com/search?q=global)
+- **[2026.07.16] Federal Reserve — 美联储主席强调独立性，通胀前景仍受关注**
+  English: Federal Reserve Chair Kevin Warsh reaffirmed the central bank's independence during a Senate Banking Committee hearing on July 15th, vowing to defend it against external interference. His testimony followed earlier remarks emphasizing a focus on curbing inflation. While recent Producer Price Index data showed cooling inflation, the Fed's current benchmark rate remains in the 3.5%-3.75% range, with inflation still exceeding the 2% target. The ongoing debate between the Fed's price stability mandate and political pressures, alongside the impact of AI investments on prices, remains a key watchpoint.
+  中文：总结：7月15日，美联储主席凯文·沃什在参议院银行委员会听证会上重申了央行的独立性，并承诺抵御外部干预。尽管近期生产者物价指数显示通胀有所降温，但美联储的基准利率仍维持在3.5%-3.75%区间，且通胀仍高于2%的目标。美联储在价格稳定任务与政治压力之间的持续辩论，以及人工智能投资对物价的影响，仍是市场关注的焦点。
+  📰 [CHOSUNBIZ](https://www.google.com/search?q=global)
 
-- **[2026.07.16] Global Economic Data — 今日多项全球经济数据将公布**
-  English: Today, July 16, 2026, marks a busy day for global economic data releases, with key reports expected from various regions. The UK is set to release its May GDP figures, while Italy will publish its final June HICP data. The Eurozone will see its May Balance of Trade report. In the United States, investors will be watching for June Retail Sales, weekly Jobless Claims, the July Philly Fed Index, and June Pending Home Sales. These releases are crucial for assessing the current state of global economic health and inflation trends, potentially influencing central bank policy expectations and market sentiment.
-  中文：总结：2026年7月16日，全球将迎来多项重要经济数据发布。英国将公布5月份GDP数据，意大利发布6月份HICP终值，欧元区则有5月份贸易差额报告。美国方面，市场关注6月份零售销售、每周初请失业金人数、7月份费城联储指数以及6月份待售房屋销售数据。这些数据对评估全球经济状况和通胀趋势至关重要，可能影响市场对央行政策的预期。
-  📰 [Newsquawk](https://www.google.com/search?q=global)
+- **[2026.07.16] US Corporate Earnings — 奈飞、联合健康等公司今日公布财报**
+  English: Several prominent US companies are scheduled to release their second-quarter earnings reports on July 16th, including Netflix, UnitedHealth Group Inc., GE Aerospace, and Abbott Laboratories. These reports are closely watched by investors for insights into corporate performance and future guidance, which can significantly influence market movements. Earlier, BlackRock and Morgan Stanley reported stronger-than-expected results, setting a positive tone for the earnings season. The outcomes from today's releases will further shape market sentiment regarding the health of various sectors.
+  中文：总结：7月16日，包括奈飞、联合健康集团、通用电气航空和雅培实验室在内的多家美国知名公司将公布第二季度财报。这些财报受到投资者密切关注，以了解企业业绩和未来指引，这可能显著影响市场走势。此前，贝莱德和摩根士丹利公布了超出预期的业绩，为财报季奠定了积极基调。今日财报结果将进一步塑造市场对各行业健康状况的看法。
+  📰 [MarketScreener](https://www.marketscreener.com/quote/stock/FERMENTALG-11776518/news/Zonebourse-corporate-earnings-calendar-July-16-2026-44229497/)
 
-- **[2026.07.16] Top KingWin Ltd. — 拓金赢有限公司股票代码今日变更**
-  English: Top KingWin Ltd. (NASDAQ: WAI) announced that its Class A ordinary shares will commence trading under a new ticker symbol, "DPU," on the Nasdaq Capital Market, effective today, July 16, 2026. This change replaces the previous "WAI" symbol. No action is required from shareholders, and the company's Nasdaq listing and CUSIP number remain unchanged. This operational update is a notable event for the company and its investors, streamlining its market identification and potentially attracting new attention under the new symbol.
-  中文：总结：拓金赢有限公司（纳斯达克股票代码：WAI）宣布，自2026年7月16日起，其A类普通股将在纳斯达克资本市场以新的股票代码“DPU”开始交易，取代原有的“WAI”代码。此次变更无需股东采取任何行动，公司的纳斯达克上市状态和CUSIP号码保持不变。这一运营层面的更新是该公司及其投资者今日值得关注的事件。
-  📰 [Stock Titan](https://www.google.com/search?q=global)
+- **[2026.07.16] Bank of Korea — 韩国央行预计今日加息，以应对通胀压力**
+  日本語：韓国銀行は7月16日に金融政策委員会を開催し、基準金利の引き上げを決定すると広く予想されている。国内証券会社の専門家調査では、全回答者が0.25%ポイントの利上げを予想しており、実現すれば2023年1月以来3年6ヶ月ぶりの利上げとなる。これは、中東戦争後の消費者物価上昇に対応するための措置であり、5月と6月のインフレ率は韓国銀行の中期目標である2%を上回る3%台を記録し、物价安定への重点が置かれている。
+  中文：总结：韩国央行预计将于7月16日召开货币政策会议，市场普遍预期将加息0.25个百分点，这将是自2023年1月以来的首次加息。此举旨在应对中东冲突后持续上升的通胀压力，5月和6月的消费者物价指数均超过了央行2%的中期目标。
+  📰 [CHOSUNBIZ](https://www.google.com/search?q=global)
 
-- **[2026.07.16] Ghana Fuel Prices — 加纳燃油价格今日上涨**
-  English: Effective today, July 16, 2026, Ghana's National Petroleum Authority (NPA) has increased the price floor for various petroleum products. Petrol prices have risen from GHC 12.79 to GHC 13.28 per litre, while diesel has increased from GHC 13.54 to GHC 14.35 per litre. This adjustment means consumers can expect higher fuel prices at the pumps. The move aims to prevent price distortions and promote market stability within the downstream petroleum sector, aligning with the Petroleum Pricing Guidelines and ensuring fair business practices.
-  中文：总结：自2026年7月16日起，加纳国家石油管理局（NPA）上调了多种石油产品的价格下限。汽油价格从每升12.79加纳塞地升至13.28加纳塞地，柴油价格从每升13.54加纳塞地升至14.35加纳塞地。这意味着消费者将面临更高的燃油价格。此举旨在防止价格扭曲，促进下游石油市场的稳定，并符合石油定价指导方针。
-  📰 [MyJoyOnline](https://www.google.com/search?q=global)
+- **[2026.07.16] China GDP — 中国第二季度经济增长放缓至三年低点**
+  English: China's second-quarter economic growth slowed to 4.3% year-on-year, marking its lowest level since late 2022 and falling below market forecasts. While advanced manufacturing exports, such as semiconductors and electric vehicles, saw a boom, persistent weakness in domestic demand, particularly a significant contraction in investment, was identified as the primary drag on growth. This slowdown highlights the challenges China faces in balancing export-driven growth with the need to stimulate internal consumption and investment.
+  中文：总结：中国第二季度经济同比增长4.3%，创下2022年末以来的最低水平，并低于市场预期。尽管半导体和电动汽车等先进制造业出口表现强劲，但国内需求持续疲软，特别是投资大幅萎缩，被认为是经济增长放缓的主要原因。这凸显了中国在平衡出口驱动增长与刺激内部消费和投资方面面临的挑战。
+  📰 [Seoul Economic Daily](https://www.google.com/search?q=global)
 
-- **[2026.07.16] YBTC Bitcoin ETF — YBTC比特币ETF今日派发股息**
-  English: The Bitcoin Covered Call Strategy ETF/Roundhill ETF Trust (BATS: YBTC) is scheduled to pay a dividend of $0.0987 per share today, July 16, 2026, to shareholders of record as of July 15, 2026. This dividend, declared on July 14, represents a decrease of $0.0304 from the previous payment. YBTC has been paying dividends since 2024, highlighting its strategy to generate income for investors through covered calls on Bitcoin, offering a unique investment vehicle in the cryptocurrency space.
-  中文：总结：比特币备兑看涨期权策略ETF/Roundhill ETF Trust（BATS: YBTC）定于今日（2026年7月16日）向截至7月15日登记在册的股东支付每股0.0987美元的股息。这笔于7月14日宣布的股息较上次支付有所减少。YBTC自2024年以来一直派发股息，体现了其通过比特币备兑看涨期权为投资者创造收入的策略。
-  📰 [Stock Titan](https://www.google.com/search?q=global)
+- **[2026.07.16] Bitcoin ETFs — 比特币ETF资金流入激增，日本推动加密ETF框架**
+  English: Bitcoin and Ether ETFs experienced a significant recovery on July 15th, attracting a combined $239 million in inflows, with no outflows recorded across any fund. This positive shift follows softer-than-expected US inflation data, which ignited broader market optimism for stocks and gold, and was further fueled by Japan's progress towards establishing its own crypto ETF framework. BlackRock's IBIT led the Bitcoin ETF inflows, signaling renewed institutional interest and a more positive sentiment in the crypto market.
+  中文：总结：7月15日，比特币和以太坊ETF迎来显著复苏，合计吸引了2.39亿美元的资金流入，且没有基金出现资金流出。这一积极转变得益于美国低于预期的通胀数据，提振了股市和黄金的广泛乐观情绪，并受到日本推动加密ETF框架的进一步刺激。贝莱德的IBIT领跑比特币ETF的资金流入，预示着机构兴趣的回归和加密市场情绪的改善。
+  📰 [The Economic Times](https://economictimes.indiatimes.com/markets/cryptocurrency/bitcoin-btc-usd-and-ether-eth-usd-etfs-stage-massive-comeback-with-239-million-inflows-as-japans-crypto-etf-push-fuels-optimism-heres-what-investors-need-to-know/articleshow/111762125.cms)
+
+- **[2026.07.16] Nikkei 225 — 日経平均株価は金利見通し改善で続伸予想**
+  日本語：7月16日の日本株式市場では、日経平均株価が続伸すると予想されている。前日までの2日間で1,500ポイント以上、2.3%超上昇しており、世界的な金利見通しの改善がアジア市場全体に慎重ながらも楽観的な見方をもたらしている。欧州市場はまちまち、米国市場は上昇しており、アジア市場はこれらの中間に位置すると見られている。投資家は、今後の金利動向に引き続き注目している。
+  中文：总结：7月16日，日本股市日经225指数预计将继续上涨。此前两个交易日已累计上涨超过1500点，涨幅超2.3%。全球利率前景的改善为亚洲市场带来了谨慎乐观的情绪。投资者将继续关注未来的利率走势。
+  📰 [finanzen.ch](https://www.finanzen.ch/news/japan-bourse-may-extend-its-gains-on-thursday-1035090407)
+
+- **[2026.07.16] Nvidia Japan — 英伟达深化与日本企业的AI合作，瞄准制造业和机器人领域**
+  日本語：エヌビディアのジェンスン・フアンCEOは7月15日に日本を訪問し、日本の製造業および自動車企業とのAI協力を拡大する戦略を発表した。トヨタ、ファナック、NEC、ソフトバンクなどとの物理AI協力を強化し、物理AIの世界基盤モデル「Cosmos」を日本戦略の鍵と位置づけている。この動きは、日本の製造業およびロボット市場へのエヌビディアの進出を加速させ、国内のAI技術革新を促進すると期待されている。
+  中文：总结：英伟达CEO黄仁勋于7月15日访问日本，宣布将深化与丰田、发那科、NEC、软银等日本制造和汽车企业的AI合作。英伟达将物理AI的世界基础模型“Cosmos”作为其日本战略的关键，旨在加速进军日本的制造和机器人市场，预计将推动日本国内的AI技术创新。
+  📰 [CHOSUNBIZ](https://www.google.com/search?q=global)
 
 ---
 ※Stock Market Daily Digest | 2026.07.16
