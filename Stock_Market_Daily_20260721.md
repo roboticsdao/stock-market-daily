@@ -1,0 +1,119 @@
+# 📈 Stock Market Daily | 2026.07.21（火曜日 / Tuesday）
+
+> ⚠ 本日报优先收录最近24小时的市场新闻、个股异动与当时市场快照；数据仅供参考，不构成投资建议。
+
+---
+
+
+## 🇺🇸 美国股市 / US Market
+
+Here are 7 recent news items specifically about the US Market for July 21, 2026:
+
+- **[2026.07.21] General Motors (GM) — 通用汽车公布第二季度财报**
+  English: General Motors is set to release its second-quarter 2026 earnings before the market opens today, with analysts anticipating an EPS between $3.11 and $3.13 and revenue ranging from $45.96 billion to $47.03 billion. Investors will closely monitor the company's performance in North American margins, the profitability of its electric vehicle (EV) segment, and its operations in China, as these areas are crucial indicators of GM's strategic direction and financial health amidst a dynamic automotive landscape.
+  中文：总结：通用汽车今日盘前将公布2026年第二季度财报，分析师预计每股收益在3.11至3.13美元之间，营收预计在459.6亿至470.3亿美元。投资者将密切关注其北美市场利润、电动汽车业务盈利能力以及中国市场表现，这些是评估通用汽车在当前汽车市场中战略方向和财务状况的关键指标。
+  📰 [KuCoin](https://www.google.com/search?q=US)
+
+- **[2026.07.21] Ally Financial (ALLY) — Ally Financial公布第二季度财报**
+  English: Ally Financial is scheduled to report its second-quarter earnings before the opening bell today. Market analysts are forecasting the Detroit-based financial services company to post earnings of $1.23 per share, a notable increase from 99 cents per share in the same period last year. The consensus estimate for quarterly revenue stands at $2.22 billion, up from $2.08 billion reported previously. These figures will be key in assessing Ally's financial health and growth trajectory in the competitive banking sector.
+  中文：总结：Ally Financial今日盘前将发布第二季度财报。市场分析师预计这家底特律金融服务公司的每股收益为1.23美元，高于去年同期的99美分。季度营收的共识预期为22.2亿美元，高于此前报告的20.8亿美元。这些数据将是评估Ally在竞争激烈的银行业中财务状况和增长轨迹的关键。
+  📰 [Benzinga](https://www.google.com/search?q=US)
+
+- **[2026.07.21] Halliburton (HAL) — 斯伦贝谢公布第二季度财报**
+  English: Halliburton, a leading oilfield services company, is slated to release its second-quarter earnings report before the market opens today. Analysts project the Houston-based firm to report quarterly earnings of 54 cents per share, a slight decrease from 55 cents per share in the year-ago period. The consensus revenue estimate is $5.5 billion, compared to $5.51 billion reported last year. Investors will be keen to see how recent contract wins, such as the GranMorgu deepwater development, impact future outlook.
+  中文：总结：油田服务巨头斯伦贝谢今日盘前将公布第二季度财报。分析师预计该公司每股收益为54美分，略低于去年同期的55美分。营收共识预期为55亿美元，而去年为55.1亿美元。投资者将关注近期合同（如GranMorgu深水开发项目）对未来业绩的影响。
+  📰 [Benzinga](https://vertexaisearch.google.com/grounding/AUZIYQFDyp30ZFuoWmeWhRJjfDlbe1YhWTfNUQBgGfCVjscvihuaR6suPSW0ZfiE6lfRxmyrhBIlG_hYIranDenRSP48aq3A7H02ANC3zRAtpwVWcpaAyNs3OUp7HiWNHzdAKnJcImqJaZ38668azqD1i9irGanjfB7C1nHbRb78aowN3rL4zmNGeoqRZKRIOm70iODAA1OLuxTbpX6vZ3BPDaqqy7VGhMukEyV9bK-6DPcmS_19r3Xar746zX-Lq1R5r9-NUQhf_iFAqZmBLr9AfJHGx_HlylgmCUj6P4nUqkmd764WYgl63LwQHz4xmv7RciRw4cdqbCg)
+
+- **[2026.07.21] Concorde International Group (CIGL) — Concorde International Group纳斯达克股票代码变更**
+  English: Concorde International Group Ltd. will begin trading under its new Nasdaq ticker symbol "CIGL" today, July 21, 2026, replacing its previous symbol "YOOV". The company stated that this change aims to better align its market identity with its corporate name and its evolution into a diversified security, facilities management, and technology solutions group. Shareholders are not required to take any action as the CUSIP number remains unchanged.
+  中文：总结：Concorde International Group Ltd. 今日（2026年7月21日）起将在纳斯达克以新股票代码“CIGL”进行交易，取代原代码“YOOV”。公司表示，此举旨在使其市场身份与公司名称及其向多元化安保、设施管理和技术解决方案集团的演变更好地保持一致。股东无需采取任何行动，CUSIP号码保持不变。
+  📰 [Stock Titan](https://www.google.com/search?q=US)
+
+- **[2026.07.21] US Market & Tech Stocks — 美国股市科技股轮动，芯片股承压**
+  English: US equity markets closed lower on Friday, with the Nasdaq 100, S&P 500, and Dow Jones experiencing weekly declines, largely due to a renewed sell-off in chipmakers and ongoing geopolitical tensions. A significant rotation is observed within the technology sector, as investors shift away from AI infrastructure spenders and chip manufacturers like Nvidia, towards companies perceived to benefit from AI monetization through consumer products, such as Apple, which briefly reclaimed its title as the world's most valuable company.
+  中文：总结：上周五美国股市收跌，纳斯达克100指数、标普500指数和道琼斯指数均出现周度下跌，主要受芯片制造商抛售和地缘政治紧张局势影响。科技板块内部出现显著轮动，投资者正从英伟达等AI基础设施支出者和芯片制造商转向苹果等通过消费产品实现AI变现的公司，苹果一度重夺全球市值最高公司头衔。
+  📰 [IG](https://www.google.com/search?q=US)
+
+- **[2026.07.21] Amazon (AMZN) — 亚马逊面临关税集体诉讼，分析师仍看好AWS增长**
+  English: Amazon shares faced pressure last week after a proposed consumer class action lawsuit was filed on July 18, alleging the company improperly passed Trump-era tariff charges to shoppers. Despite this legal challenge, analysts remain largely optimistic about Amazon's outlook ahead of its Q2 earnings report on July 30. Truist and KeyBanc reiterated "Buy" ratings, citing strong anticipated growth in Amazon Web Services (AWS) and significant AI investment plans, projecting AWS net sales growth of 31% year-over-year for 2026 and 2027.
+  中文：总结：亚马逊股价上周因一项消费者集体诉讼而承压，该诉讼指控公司不当将特朗普时代的关税转嫁给消费者。尽管面临法律挑战，分析师在7月30日第二季度财报发布前仍普遍看好亚马逊前景。Truist和KeyBanc重申“买入”评级，理由是预计亚马逊网络服务（AWS）将强劲增长，并有大量AI投资计划，预计2026年和2027年AWS净销售额将同比增长31%。
+  📰 [Basis Report](https://www.google.com/search?q=US)
+
+- **[2026.07.21] Federal Reserve — 美联储降息预期渺茫，通胀仍是焦点**
+  English: Market expectations for a Federal Reserve rate cut in 2026 remain low, with futures trading indicating a 0% chance of a cut at the upcoming July 29 FOMC meeting and a 74.9% probability of rates holding steady. The new Fed Chair, Kevin Warsh, recently stated that "prices are too high," reinforcing the central bank's continued focus on combating inflation. This hawkish stance, driven by persistent inflation and a resilient labor market, suggests that higher interest rates may persist for longer than initially anticipated, impacting risk assets.
+  中文：总结：市场对美联储2026年降息的预期依然低迷，期货交易显示7月29日联邦公开市场委员会会议降息的可能性为0%，而维持利率不变的可能性为74.9%。新任美联储主席凯文·沃什近期表示“物价过高”，这强化了央行继续对抗通胀的决心。这种由持续通胀和强劲劳动力市场推动的鹰派立场表明，高利率可能会比最初预期持续更长时间，从而影响风险资产。
+  📰 [The Motley Fool](https://www.google.com/search?q=US)
+
+## 🇯🇵 日本株式市場 / Japan Market
+
+以下は、2026年7月21日の日本株式市場に関する最新ニュースです。
+
+- **[2026.07.21] 日経平均 — 歴史的急落後の反発と半導体株の動向に注目**
+  日本語：2026年7月21日の週、日経平均株価は前週の歴史的な急落からの自律反発が期待されています。想定レンジは60,500円から67,500円と広く、特にAI・半導体関連株の評価調整が完了したかどうかが焦点となります。米国市場の動向や主要テクノロジー企業の決算発表が、今後の相場を左右する重要な要素となるでしょう。また、日本の消費者物価指数や貿易統計、中東情勢も市場の変動要因として注視されています。
+  中文：总结：2026年7月21日当周，日经平均指数预计将从上周的历史性暴跌中反弹。市场关注AI和半导体相关股票的估值调整是否完成，美国市场动态和主要科技公司财报将是关键。日本消费者物价指数、贸易统计以及中东局势也将影响市场波动。
+  📰 [illogs](https://www.google.com/search?q=Japan)
+
+- **[2026.07.21] 日本銀行 — 気候変動対応オペで1兆3981億円を貸し付け**
+  日本語：日本銀行は2026年7月21日に、気候変動対応オペレーションを通じて1兆3981.2億円を金融機関に貸し付ける予定です。これは、金融機関の気候変動対応分野への資金供給を支援し、国内の脱炭素資金循環を促進するための政策手段となります。貸付期間は1年間で、2027年7月21日に満期を迎えます。
+  中文：总结：日本银行计划于2026年7月21日通过气候变化应对操作向金融机构提供1.39812万亿日元的贷款。此举旨在支持金融机构向气候变化应对领域提供资金，并促进国内脱碳资金循环。贷款期限为一年，将于2027年7月21日到期。
+  📰 [Traders Union](https://www.google.com/search?q=Japan)
+
+- **[2026.07.21] ドル円相場 — 162円台での攻防と日米金利差が焦点**
+  日本語：2026年7月21日の週のドル円相場は、162円台での攻防が続くと予想されています。米国の消費者物価指数（CPI）の下振れで一時円高が進んだものの、中東情勢の緊迫化や原油価格の高騰、FRBのインフレ警戒姿勢を背景に162円台を維持しました。今週は日本のCPIや貿易統計、日米金利差、そして為替介入の可能性がドル円の動向を左右する主要因となるでしょう。
+  中文：总结：2026年7月21日当周，美元兑日元汇率预计将在162日元区间内持续拉锯。尽管美国CPI数据不及预期曾导致日元短暂走强，但中东局势紧张、油价上涨以及美联储的通胀警惕态度使其维持在162日元水平。本周日本CPI、贸易统计、日美利差以及潜在的外汇干预将是影响美元兑日元走势的关键因素。
+  📰 [illogs](https://www.google.com/search?q=Japan)
+
+- **[2026.07.21] 企業決算 — 信越化学工業、インソースなどが発表予定**
+  日本語：2026年7月21日には、複数の日本企業が決算発表を予定しています。主な企業としては、信越化学工業（296A）、インソース（6200）、ピー・シー・エー（9629）などが挙げられます。これらの企業の四半期決算や本決算の内容は、個別銘柄の株価だけでなく、市場全体のセンチメントにも影響を与える可能性があります。
+  中文：总结：2026年7月21日，多家日本公司将发布财报，包括信越化学工业（296A）、Insource（6200）和PCA（9629）等。这些公司的季度或年度财报内容不仅会影响个股股价，还可能对整体市场情绪产生影响。
+  📰 [会社四季報オンライン](https://www.google.com/search?q=Japan)
+
+- **[2026.07.21] 半導体関連株 — 米国決算と世界的な需給調整が焦点**
+  日本語：最近のAI・半導体関連株の急落を受け、2026年7月21日の週も引き続きその動向が注目されます。米国の大手ハイテク企業の決算発表が相次ぐことから、AIブームの持続性や半導体の世界的な需給調整の行方が市場の主要な関心事となります。東京エレクトロンやアドバンテストなどの値がさ半導体株の動きが、日経平均株価に大きな影響を与える見込みです。
+  中文：总结：近期AI和半导体相关股票大幅下跌，2026年7月21日当周其走势仍是焦点。随着美国大型科技公司财报陆续发布，AI热潮的持续性以及全球半导体供需调整的走向将成为市场主要关注点。东京电子和爱德万测试等高价半导体股的动向预计将对日经平均指数产生重大影响。
+  📰 [株探](https://www.google.com/search?q=Japan)
+
+- **[2026.07.21] 市場センチメント — 中東情勢と米企業決算がリスク要因**
+  日本語：2026年7月21日の週の日本株式市場は、中東情勢の緊迫化や原油価格の高騰、そして米国主要企業の決算発表が投資家心理に大きな影響を与える見通しです。特に、米国のAI・半導体関連株の決算内容が、日本市場の半導体関連銘柄の動向を左右する重要な材料となるでしょう。国内では、消費者物価指数などの経済指標も注目されます。
+  中文：总结：2026年7月21日当周，日本股市预计将受到中东局势紧张、油价上涨以及美国主要企业财报发布等因素的显著影响。特别是美国AI和半导体相关股票的财报内容，将成为左右日本市场半导体相关股票走势的重要因素。此外，日本国内的消费者物价指数等经济指标也备受关注。
+  📰 [株探](https://www.google.com/search?q=Japan)
+
+- **[2026.07.21] 野村證券 — 日経平均の上方修正とTOPIXの追い上げに注目**
+  日本語：野村證券は、直近の日経平均株価とNT倍率の上昇を踏まえ、日経平均株価の指数見通しを上方修正しました。メインシナリオでは、2026年末に63,000円、2027年末に65,000円、2028年末に68,000円と引き上げています。一方、TOPIXは据え置きながらも、その追い上げに注目しており、ファンダメンタルズの改善とAI・DX投資による生産性向上を背景に、日本株のさらなる上昇を期待しています。
+  中文：总结：野村证券上调了日经平均指数的预测，预计在2026年底达到63,000日元，2027年底达到65,000日元，2028年底达到68,000日元。同时，野村证券关注TOPIX的追赶，并预计在基本面改善和AI/DX投资带来的生产力提升背景下，日本股市将进一步上涨。
+  📰 [NOMURA ウェルスタイル](https://www.google.com/search?q=Japan)
+
+## 🌍 宏观经济与投资 / Macro & Investment
+
+- **[2026.07.21] US Stock Market — 美股表现喜忧参半，科技股面临考验**
+  English: On July 20, US stocks exhibited mixed performance, influenced by escalating US-Iran tensions and upcoming technology earnings. The S&P 500 rose 0.63%, the Dow gained 0.23%, and the Nasdaq climbed 1.02% in early trading, showing a rebound after a sharp sell-off in megacap tech and semiconductor stocks on Friday. The previous week saw major indexes decline, with the Nasdaq, S&P 500, and Dow falling 2.9%, 1.6%, and 0.9% respectively, driven by an AI-related tech selloff and geopolitical concerns. Investors are keenly watching earnings reports to assess if corporate profits can justify current elevated valuations amidst market volatility.
+  中文：总结：7月20日，受美伊紧张局势升级和科技公司财报季临近影响，美股表现喜忧参半。标普500指数上涨0.63%，道指上涨0.23%，纳指上涨1.02%，从上周五科技股和半导体股的大幅抛售中反弹。上周，受AI科技股抛售和地缘政治担忧影响，主要股指均录得下跌。投资者正密切关注即将发布的财报，以判断企业盈利能否支撑当前高估值。
+  📰 [Zacks Investment Research](https://www.zacks.com/stock/news/2770258/stock-market-news-for-july-20-2026)
+
+- **[2026.07.21] US Macro Economy — 美国经济前景面临挑战，美联储或维持高利率**
+  English: The US economic outlook faces public pessimism despite a strong stock market and easing inflation, primarily due to persistent concerns over everyday living costs. The Federal Reserve is grappling with elevated inflation, as a robust labor market, with unemployment consistently below 4.5% for 57 months, fuels wage growth and price pressures. Analysts anticipate the Fed will maintain higher interest rates for an extended period to guide inflation towards its 2% target. The Conference Board's Leading Economic Index for the US saw a decline in June, partially reversing previous gains, though substantial AI-related business investment is expected to bolster economic activity.
+  中文：总结：尽管股市表现强劲且通胀有所缓解，但由于对日常商品成本的持续担忧，美国经济前景仍面临公众悲观情绪。 劳动力市场持续强劲，失业率连续57个月保持在4.5%或以下，推动工资增长和物价压力，使美联储面临持续的通胀挑战。 分析师预计美联储将长期维持高利率以实现2%的通胀目标。 尽管6月份美国领先经济指数有所下降，但强劲的AI相关商业投资预计将支撑经济活动。
+  📰 [CNBC](https://www.cnbc.com/2026/07/20/economic-outlook-is-worsening-and-trump-is-getting-blamed-cnbc-survey-finds.html)
+
+- **[2026.07.21] Japan Market — 日経平均株価はテクノロジー株の売りで下落、ストラテジストは米国株に注目**
+  日本語：7月20日、東京株式市場は「海の日」の祝日のため休場でした。 しかし、直前の取引日である7月17日には、日経平均株価が4.03%下落し64,140円で取引を終え、TOPIXも2.72%下落し3,919ポイントとなり、両指数ともに1ヶ月ぶりの安値を記録しました。 この下落は、米国市場での半導体およびAI関連株の急落に追随した世界的な売りが主因であり、AI関連投資の過熱感と高すぎるバリュエーションへの懸念が背景にありました。 また、米国とイラン間の紛争激化による原油価格上昇がインフレと金利上昇懸念を高め、投資家心理をさらに冷え込ませました。 Natixisの調査では、ストラテジストは2026年下半期には米国株式市場が再び主導権を握ると見ており、日経平均の上半期の好調（約40%上昇）はすでに織り込み済みであると指摘しています。
+  中文：总结：7月20日，东京股市因“海之日”休市。 但在7月17日，日经225指数下跌4.03%至64,140点，东证指数下跌2.72%至3,919点，均创逾一个月新低。 下跌主因是全球半导体和AI相关股票抛售，以及对AI投资过热和估值过高的担忧。 美伊冲突升级推高油价，加剧通胀和利率担忧，进一步打击投资者情绪。 Natixis调查显示，策略师预计下半年美股将重拾主导地位，日经指数上半年涨幅已充分反映。
+  📰 [Borsa Italiana](https://www.borsaitaliana.it/borsa/notizie/teleborsa/finanza/nikkei-225-positive_2026_7_20_TLB.html)
+
+- **[2026.07.21] Japanese Yen & BOJ Policy — 日元兑美元持续走弱，日本央行政策面临挑战**
+  日本語：日本円は対米ドルで引き続き数十年ぶりの安値圏で推移しており、7月初旬には1ドル＝162.83円を記録しました。 これは、日本銀行（BOJ）が6月にベンチマーク金利を1995年以来の高水準である1%に引き上げたにもかかわらず発生しています。 この持続的な円安は、日米間の金利差が大きく、利回り追求型投資家にとって円を保有する魅力が低いことに起因しています。 日本当局は2026年4月から5月にかけて約11.7兆円（約735億ドル）を投じて為替市場に介入しましたが、円の回復には至りませんでした。 円キャリートレードは世界の金融市場における重要なレバレッジ源であり、投資家は低金利の円を借りて、ビットコインを含む高利回り資産に投資しています。 BOJは7月の会合で金利を据え置く一方、今年の経済成長予測を上方修正する可能性が高いと広く予想されています。 市場では年末までに25ベーシスポイント、今後12ヶ月で合計50ベーシスポイントの追加利上げが織り込まれていますが、それでも金利は中立レンジの下限付近にとどまる見込みです。
+  中文：总结：尽管日本央行（BOJ）在6月将基准利率上调至1995年以来的最高水平1%，但日元兑美元汇率仍徘徊在数十年低点附近，7月初触及162.83日元。 这主要是由于日美之间巨大的利差，使得寻求收益的投资者对持有日元缺乏兴趣。 2026年4月至5月，日本当局投入约11.7万亿日元（约735亿美元）进行汇市干预，但未能有效提振日元。 日元套利交易仍是全球金融市场的重要杠杆来源，投资者借入低息日元投资包括比特币在内的高收益资产。 市场普遍预计日本央行将在7月会议上维持利率不变，但可能上调经济增长预测。
+  📰 [Vantage Markets](https://www.vantagemarkets.com/en-au/news/daily-trading/usdjpy-analysis-20-july-2026-yen-stuck-near-a-40-year-low-as-boj-and-fed-meetings-loom/)
+
+- **[2026.07.21] Oil Prices & Geopolitical Tensions — 油价飙升，中东地缘政治紧张局势加剧**
+  English: Oil prices surged on July 20, with Brent crude climbing above $91 a barrel, marking its highest level since June 11. This sharp increase is a direct consequence of escalating US-Iran conflict over the weekend, which led to Iran halting vessels transiting the Strait of Hormuz, severely disrupting global energy supplies. The renewed geopolitical tensions and the risk of prolonged interruptions to shipping through this vital corridor have reignited inflation concerns, particularly after recent softer US price data had temporarily eased fears of extended restrictive monetary policy. The US Central Command confirmed its ninth consecutive evening of strikes against Iran on July 20. Higher oil prices are also exerting upward pressure on bond yields and negatively impacting Asian currencies, especially those of major energy importers, through increased import costs and deteriorating trade balances.
+  中文：总结：7月20日，布伦特原油价格飙升至每桶91美元以上，创下6月11日以来的新高。 此次急剧上涨是周末美伊冲突升级的直接后果，伊朗停止船只通过霍尔木兹海峡，严重扰乱了全球能源供应。 地缘政治紧张局势的加剧以及该关键航道长期中断的风险，重新引发了通胀担忧，尤其是在近期美国物价数据走软曾暂时缓解了长期限制性货币政策的担忧之后。 油价上涨也对债券收益率构成上行压力，并通过增加进口成本和恶化贸易平衡，对亚洲货币，特别是主要能源进口国的货币产生负面影响。
+  📰 [Saxo Bank](https://www.home.saxo/content/articles/market-updates/market-quick-take-oil-surges-as-chips-crack-20072026)
+
+- **[2026.07.21] Bitcoin & Crypto Market — 比特币市场信号复杂，流动性与地缘政治双重影响**
+  English: Bitcoin's market displayed mixed signals on July 20, 2026. While US spot Bitcoin ETFs recorded two consecutive weeks of inflows, totaling $273 million, this only recouped about 3% of the over $8 billion withdrawn recently. Concurrently, major exchanges like Binance and Bybit saw nearly $2.3 billion in stablecoin withdrawals over 30 days, diminishing liquidity to support Bitcoin above $64,000. Bitcoin is stabilizing near $64,000 after an eight-week investor retreat, yet its recovery remains fragile. The cryptocurrency's price is also affected by surging oil prices and geopolitical tensions, which could reignite inflation concerns and impact risk assets. Analysts suggest Bitcoin could fall to $57,000 if support around $60,000-$61,000 breaks. Despite being one of 2026's worst-performing assets, down nearly 27%, Bitcoin's movements increasingly track macro liquidity and rate expectations rather than direct geopolitical headlines.
+  中文：总结：2026年7月20日，比特币市场呈现复杂信号。美国现货比特币ETF连续两周录得2.73亿美元资金流入，但这仅弥补了近期超过80亿美元流出的约3%。 同时，币安和Bybit等主要交易所30天内稳定币提款近23亿美元，削弱了比特币维持在6.4万美元以上的流动性。 比特币在经历八周的投资者撤离后，目前稳定在6.4万美元附近，但其复苏依然脆弱。 油价飙升和地缘政治紧张局势也影响着比特币价格，可能重新引发通胀担忧并冲击风险资产。 分析师认为，若6万至6.1万美元支撑位失守，比特币可能跌至5.7万美元。 尽管比特币是2026年表现最差的资产之一，下跌近27%，但其走势日益与宏观流动性和利率预期挂钩，而非直接的地缘政治新闻。
+  📰 [CryptoSlate](https://cryptoslate.com/bitcoin-etf-inflows-return-but-2-3-billion-stablecoin-liquidity-drain-leaves-57000-exposed/)
+
+---
+※Stock Market Daily Digest | 2026.07.21
