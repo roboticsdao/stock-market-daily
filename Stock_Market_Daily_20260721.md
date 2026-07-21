@@ -7,104 +7,111 @@
 
 ## 🇺🇸 美国股市 / US Market
 
-- **[2026.07.21] Concorde International Group — 纳斯达克股票代码变更为CIGL**
-  English: Concorde International Group Ltd. (formerly Nasdaq: YOOV) is set to begin trading under its new Nasdaq ticker symbol "CIGL" today, July 21, 2026. This change aims to better align the company's market identity with its corporate name and its diversified business in security, facilities management, and technology solutions. The CUSIP number remains unchanged, and no action is required from shareholders. This rebranding effort seeks to enhance clarity and consistency in investor communications as the company continues its strategic evolution.
-  中文：总结：协和国际集团（原纳斯达克股票代码：YOOV）今日起将以新股票代码“CIGL”在纳斯达克市场交易。此次变更旨在使其市场形象与公司名称及其在安全、设施管理和技术解决方案领域的多元化业务更好地保持一致，提升投资者沟通的清晰度。
-  📰 [Stock Titan](https://stocktitan.net/news/YOOV/concorde-international-group-nasdaq-yoov-to-trade-under-new-ciglj79l611j310c.html)
+- **[2026.07.21] S&P500, NASDAQ, Dow Jones — 美国主要股指小幅收跌**
+  English: Wall Street's main indices, including the S&P 500, Nasdaq Composite, and Dow Jones Industrial Average, closed marginally lower on Monday, July 20, 2026. Investors remained cautious amidst ongoing Middle East tensions and awaited key earnings reports from major technology companies later in the week. While Apple shares acted as a significant drag, some semiconductor stocks showed signs of recovery, limiting broader losses in the tech-heavy Nasdaq.
+  中文：总结：华尔街主要股指在2026年7月20日周一小幅收跌，标普500、纳斯达克综合指数和道琼斯工业平均指数均走低。投资者在中东紧张局势和等待本周晚些时候科技巨头财报之际保持谨慎。苹果股价构成主要拖累，但部分半导体股票有所反弹，限制了纳斯达克科技股的整体跌幅。
+  📰 [The Star](https://www.thestar.com.my/business/business-news/2026/07/21/us-stocks-close-lower)
 
-- **[2026.07.21] Ally Financial — Ally Financial公布第二季度财报**
-  English: Ally Financial Inc. (NYSE: ALLY) is scheduled to release its second-quarter earnings report before the market opens today, July 21, 2026. Analysts are forecasting a rise in quarterly earnings to $1.23 per share, up from $0.99 in the same period last year, with consensus revenue estimates at $2.22 billion, an increase from $2.08 billion. Investors will be closely watching these results for insights into the company's financial health and future outlook amidst evolving market conditions.
-  中文：总结：Ally Financial (NYSE: ALLY) 定于今日市场开盘前公布第二季度财报。分析师预计其季度每股收益将从去年同期的0.99美元增至1.23美元，营收预计为22.2亿美元，高于去年的20.8亿美元。投资者将密切关注财报以评估公司财务状况和未来展望。
-  📰 [Benzinga](https://www.benzinga.com/news/26/07/28169956/top-wall-street-forecasters-revamp-ally-financial-expectations-ahead-of-q2-earnings)
+- **[2026.07.21] AMD — AMD因微软AI合作股价跳涨**
+  English: Advanced Micro Devices (AMD) shares surged on Monday after announcing an expanded partnership with Microsoft. The deal involves Microsoft deploying AMD's new Helios AI system across its Azure cloud service, positioning AMD to directly compete with Nvidia's next-generation AI offerings. This collaboration is seen as a significant win for AMD, promising future revenue growth and strengthening its presence in the competitive AI chip market.
+  中文：总结：高级微设备（AMD）股价周一飙升，此前宣布与微软扩大合作。该协议涉及微软在其Azure云服务中部署AMD新的Helios AI系统，使AMD能够直接与英伟达的下一代AI产品竞争。此次合作被视为AMD的重大胜利，有望带来未来收入增长并巩固其在竞争激烈的AI芯片市场中的地位。
+  📰 [Stock Titan](https://stocktitan.net/news/AMD/amd-stock-jumps-as-microsoft-backs-its-nvidia-rival-072026.html)
 
-- **[2026.07.21] Halliburton — 斯伦贝谢公布第二季度财报**
-  English: Halliburton Company (NYSE: HAL) is set to announce its second-quarter earnings report before the market opens today, July 21, 2026. Analysts anticipate quarterly earnings of $0.54 per share, a slight decrease from $0.55 in the prior year, while revenue is expected to reach $5.5 billion, marginally up from $5.51 billion. The market will be keen to assess the impact of recent contract wins and the broader energy sector trends on the company's performance.
-  中文：总结：斯伦贝谢公司（NYSE: HAL）定于今日市场开盘前发布第二季度财报。分析师预计其季度每股收益为0.54美元，略低于去年同期的0.55美元，而营收预计将达到55亿美元。市场将关注近期合同中标和能源行业趋势对公司业绩的影响。
-  📰 [Benzinga](https://www.benzinga.com/news/26/07/28169957/halliburton-gears-up-for-q2-print-here-are-the-recent-forecast-changes-from-wall-streets-most-accur)
+- **[2026.07.21] Freenome Holdings (FRNM) — Freenome Holdings在纳斯达克首次亮相**
+  English: Freenome Holdings, an early cancer detection company, commenced trading on the Nasdaq Capital Market under the ticker symbol "FRNM" on July 21, 2026. This debut follows the closing of its business combination with Perceptive Capital Solutions Corp., securing approximately $310 million in gross proceeds to advance its blood-based screening tests and pipeline for various cancers.
+  中文：总结：早期癌症检测公司Freenome Holdings于2026年7月21日在纳斯达克资本市场开始交易，股票代码为“FRNM”。此次上市是其与Perceptive Capital Solutions Corp.业务合并完成后的结果，获得了约3.1亿美元的总收益，用于推进其基于血液的筛查测试和多种癌症的研发管线。
+  📰 [Markets Insider](https://markets.businessinsider.com/news/stocks/freenome-debuts-as-a-publicly-traded-company-focused-on-blood-based-early-cancer-detection-1052026-7-14)
 
-- **[2026.07.21] K Wave Media — K Wave Media普通股开始在纳斯达克资本市场交易**
-  English: K Wave Media's ordinary shares are expected to commence trading on the Nasdaq Capital Market today, July 21, 2026. This follows Nasdaq's approval of the company's application to transfer its listing and a granted 180-day compliance period to meet the minimum bid price requirement. This move signifies a strategic step for K Wave Media, aiming to enhance its financial position and market presence.
-  中文：总结：K Wave Media的普通股预计将于今日，即2026年7月21日，开始在纳斯达克资本市场交易。此前，纳斯达克已批准其转板申请，并给予180天合规期以满足最低出价要求。此举是K Wave Media加强财务状况和市场影响力的战略一步。
-  📰 [GlobeNewswire](https://www.globenewswire.com/news-release/2026/07/20/2916174/0/en/K-Wave-Media-Announces-Nasdaq-Capital-Market-Approval-Strengthened-Balance-Sheet-and-Strategic-AI-Growth-Initiative.html)
+- **[2026.07.21] B&R Technology Merger Corp. (BRTMU) — B&R Technology Merger Corp.在纳斯达克进行IPO**
+  English: B&R Technology Merger Corp. priced its $325 million initial public offering, with units beginning to trade on the Nasdaq Global Market under the ticker "BRTMU" on July 21, 2026. Each unit comprises one Class A ordinary share and one-third of a warrant, aiming to pursue business combinations in any industry. Citigroup Global Markets Inc. served as the sole bookrunner for the offering.
+  中文：总结：B&R Technology Merger Corp.以3.25亿美元定价其首次公开募股，其单位于2026年7月21日在纳斯达克全球市场开始交易，股票代码为“BRTMU”。每个单位包含一股A类普通股和三分之一份认股权证，旨在寻求任何行业的业务合并。花旗环球金融公司担任此次发行的独家账簿管理人。
+  📰 [Investing.com](https://www.investing.com/news/stock-market-news/br-technology-merger-corp-prices-325m-ipo-on-nasdaq-432SI-3999485)
 
-- **[2026.07.21] US Macro — 美国今日将公布多项经济数据**
-  English: Today, July 21, 2026, the United States is scheduled to release several key economic indicators. These include the ADP Employment Change Weekly, which provides insights into private sector employment, and the Redbook YoY for July 18, offering a retail sales snapshot. Additionally, the 6-Week Bill Auction results and API Crude Oil Stock Change for July 17 will be released. These data points are crucial for investors to gauge the health of the labor market, consumer spending, and energy sector, potentially influencing market sentiment and trading decisions.
-  中文：总结：美国今日将公布多项关键经济数据，包括ADP每周就业变化报告，提供私营部门就业情况；7月18日Redbook同比数据，反映零售销售状况；以及6周国库券拍卖结果和7月17日API原油库存变化。这些数据对评估劳动力市场、消费支出和能源行业健康状况至关重要，可能影响市场情绪和交易决策。
-  📰 [Trading Economics](https://tradingeconomics.com/united-states/calendar)
+- **[2026.07.21] Smart Powerr (CREG) — Smart Powerr从纳斯达克退市**
+  English: Smart Powerr Corp. (CREG) common stock was suspended from trading and delisted from Nasdaq at the open on July 21, 2026. This action follows the company's failure to meet Nasdaq's minimum bid price requirement of $1.00 per share. The company may seek a review of the decision, but a shift to OTCQB is expected, potentially reducing liquidity and pressuring the stock.
+  中文：总结：Smart Powerr Corp.（CREG）普通股于2026年7月21日开盘时在纳斯达克暂停交易并被摘牌。此举是由于该公司未能满足纳斯达克每股1.00美元的最低出价要求。该公司可能会寻求对该决定的复审，但预计将转至OTCQB市场，这可能会降低流动性并对股价造成压力。
+  📰 [Stock Titan](https://stocktitan.net/news/CREG/smart-powerr-to-be-delisted-from-nasdaq-creg-8-k-filing-072026.html)
 
-- **[2026.07.21] US Market — 科技股财报季前美股市场情绪复杂**
-  English: As the US market enters a critical week dominated by major tech earnings, including Tesla and Alphabet later this week, market sentiment on July 21, 2026, remains complex. Following a rebound in chipmakers on July 20th, which helped the S&P 500 and Nasdaq pare some losses from the previous week, investors are keenly awaiting proof that growth can sustain the high capital expenditure in AI. The "Magnificent Seven" stocks are under scrutiny, with their performance potentially dictating broader market direction.
-  中文：总结：随着美国市场进入以大型科技公司财报为主导的关键一周，投资者对7月21日的市场情绪复杂。在7月20日芯片股反弹帮助标普500和纳斯达克指数收复部分失地后，市场正密切关注增长能否支撑AI领域的高资本支出。“七巨头”股票表现将是决定大盘走向的关键。
-  📰 [TheStreet](https://www.thestreet.com/markets/stock-market-today-sp-500-climbs-as-us-strikes-iran-again-earnings-loom)
+- **[2026.07.21] Ally Financial (ALLY) — Ally Financial发布第二季度财报**
+  English: Ally Financial Inc. (NYSE: ALLY) is scheduled to release its second-quarter earnings report before the market opens on Tuesday, July 21, 2026. Analysts anticipate year-over-year earnings growth, with a consensus estimate of $1.23 per share on revenues of $2.22 billion, up from $0.99 per share and $2.08 billion in the prior-year period.
+  中文：总结：Ally Financial Inc.（NYSE: ALLY）定于2026年7月21日（周二）市场开盘前发布其第二季度财报。分析师预计该公司将实现同比增长，普遍预计每股收益为1.23美元，营收为22.2亿美元，高于去年同期的每股0.99美元和20.8亿美元。
+  📰 [PR Newswire](https://www.prnewswire.com/news-releases/ally-financial-declares-dividend-on-common-stock-and-series-c-and-series-d-preferred-stock-302636900.html)
 
-- **[2026.07.21] Federal Reserve — 美联储进入政策静默期，市场关注经济数据**
-  English: The Federal Reserve entered its official blackout period on July 18, 2026, which will last until July 30, ahead of the upcoming Federal Open Market Committee (FOMC) meeting. During this time, Fed officials are prohibited from making public statements on monetary policy. This means that on July 21, 2026, and throughout the blackout, market participants will need to rely solely on incoming economic data for signals regarding potential interest rate decisions, rather than guidance from central bank officials.
-  中文：总结：美联储已于2026年7月18日进入政策静默期，直至7月30日，在此期间联邦公开市场委员会（FOMC）会议召开前，美联储官员不得就货币政策发表公开声明。这意味着在7月21日及整个静默期内，市场参与者将完全依赖经济数据来判断潜在的利率决策，而非央行官员的指引。
-  📰 [Crypto Briefing](https://cryptobriefing.com/fed-blackout-period-fomc-meeting/)
+- **[2026.07.21] Tech Stocks / S&P 500 — 花旗建议将投资焦点从“七巨头”转向“增长集群”**
+  English: Citigroup's strategy team advised investors on July 20, 2026, to move beyond the "Magnificent Seven" framework for evaluating U.S. AI investment opportunities. They suggest focusing on a broader "Growth Cluster" within the S&P 500, as the correlation among the original seven tech giants has significantly declined in 2026, reflecting a more diversified landscape for AI-driven earnings growth.
+  中文：总结：花旗集团策略团队于2026年7月20日建议投资者，在评估美国AI投资机会时，应超越“七巨头”框架。他们建议关注标普500指数中更广泛的“增长集群”，因为这七家科技巨头之间的相关性在2026年已显著下降，反映出AI驱动的盈利增长格局更加多元化。
+  📰 [GuruFocus](https://www.gurufocus.com/news/2475945/citigroup-advises-shift-from-magnificent-seven-to-growth-cluster)
 
 ## 🇯🇵 日本株式市場 / Japan Market
 
-- **[2026.07.21] 日経平均・TOPIX — 半導体株主導で大幅下落**
-  日本語：7月17日の日本株式市場では、日経平均株価が4.03%安の64,141円12銭、TOPIXが2.72%安の3,919.21ポイントと大幅に下落しました。この急落は、特に半導体関連の値がさ株に集中しており、東京エレクトロンやアドバンテストなどの銘柄が指数を大きく押し下げました。台湾加権指数も6.47%安となるなど、アジア市場全体で半導体エクスポージャーの高い市場が深く売られる展開となりました。
-  中文：总结：7月17日日本股市大幅下挫，日经平均指数下跌4.03%至64,141.12日元，TOPIX指数下跌2.72%至3,919.21点。此次暴跌主要集中在半导体相关权重股，东京电子和爱德万测试等股票对指数造成巨大拖累。台湾加权指数也下跌6.47%，显示出亚洲市场中半导体敞口较高的市场普遍遭遇抛售。
-  📰 [日本市場レポート 2026年7月20日｜宮野宏樹 - note](https://www.google.com/search?q=Japan)
+- **[2026.07.21] 日経平均・TOPIX — 急落後の自律反発期待**
+  日本語：21日の東京株式市場は、前週末の急落に対する自律反発や値ごろ感からの押し目買いが優勢となり、日経平均株価は切り返す可能性が高いと見られています。特に、米国市場で半導体関連株が買い戻されたことを受け、AI・半導体関連株への買い戻しが相場を牽引する鍵となるでしょう。しかし、中東情勢の不透明感や今週予定される米ビッグテックの決算発表を前に、先物を絡めた不安定な値動きも予想されます。日経225先物は前週末清算値比1040円高の6万5100円で寄り付き、TOPIX先物も52ポイント高の3961.5ポイントで取引を開始しました。
+  中文：总结：21日东京股市预计将出现反弹，日经平均指数有望回升，主要受前周末急跌后的技术性反弹和逢低买入情绪推动。AI及半导体相关股票的买盘回流将是关键，因美国半导体股已出现反弹。然而，中东局势的不确定性和本周美国科技巨头的财报发布，可能导致期货市场波动。
+  📰 [株探](https://kabutan.jp/news/market/202607210800)
 
-- **[2026.07.21] UBS — 日本株の下落は魅力的な買い場と指摘**
-  日本語：UBSは最新レポートで、市場のボラティリティが急上昇しているにもかかわらず、日本株に対する「魅力的」との見方を維持していると発表しました。直近の下落によりバリュエーションが一層魅力的な水準になったと主張し、日経ボラティリティ・インデックス（日経VI）が40を超えた後の6カ月間の平均リターンは、TOPIXおよび日経平均のいずれも10%を上回っている過去のデータを引用しています。
-  中文：总结：瑞银在最新报告中指出，尽管市场波动性急剧上升，但仍维持对日本股市“具有吸引力”的看法。瑞银认为，近期下跌使估值更具吸引力，并援引历史数据称，日经波动率指数（日经VI）突破40后，TOPIX和日经平均指数在随后六个月的平均回报率均超过10%。
-  📰 [日経平均の下落は買い場、バリュエーションに割安感＝UBS - Investing.com](https://www.google.com/search?q=Japan)
+- **[2026.07.21] 個別銘柄 — テスHD、アジュバン、SRAHDなどに注目**
+  日本語：21日の東京市場では、複数の個別銘柄に注目が集まっています。テスホールディングス（5074）は長野県小諸市における系統用蓄電所のEPC（設計・調達・施工）を約60億円で受注し、2027年6月期から2028年6月期にかけて収益計上予定です。アジュバンホールディングス（4929）は4-6月期（1Q）経常利益が黒字転換で着地。SRAホールディングス（3817）は発行済み株式数の6.29％にあたる96万株（43億円）を上限に自社株買いを実施すると発表し、これらが本日の株価動向に影響を与える好材料として挙げられています。
+  中文：总结：21日东京市场多只个股受关注。Tes HD（5074）获得约60亿日元的蓄电站EPC订单；Adjuvant（4929）第一季度经常性利润转亏为盈；SRA HD（3817）宣布将以96万股（43亿日元）为上限进行股票回购。这些利好消息预计将影响今日股价走势。
+  📰 [Yahoo!ファイナンス](https://finance.yahoo.co.jp/news/detail/20260721-00000001-kabutan-stocks)
 
-- **[2026.07.21] 日本銀行 — 政策金利1.00%に引き上げ、追加利上げ観測も**
-  日本語：日本銀行は2026年6月16日の金融政策決定会合で、政策金利を0.25%引き上げ、1.00%としました。これは約31年ぶりの高水準であり、長く続いたゼロ金利・マイナス金利時代が名実ともに終焉したことを示しています。市場では、7月会合での追加利上げ確率は約3%と低いものの、9月会合で約24%、10月会合で約43%と、年内のさらなる利上げ観測が高まっています。
-  中文：总结：日本银行在2026年6月16日的货币政策会议上，将政策利率上调0.25%至1.00%，达到约31年来的最高水平，标志着零利率和负利率时代的结束。市场预计，尽管7月会议进一步加息的可能性较低（约3%），但9月会议的可能性升至24%，10月会议则为43%，表明年内进一步加息的预期正在增强。
-  📰 [日本市場レポート 2026年7月20日｜宮野宏樹 - note](https://www.google.com/search?q=Japan)
+- **[2026.07.21] 日本銀行・為替 — 日銀は政策金利維持、骨太の方針が円安圧力に**
+  日本語：日本銀行は7月30、31日の金融政策決定会合で、政策金利を現行の1.0％に据え置く方針を固めたと報じられています。一方、21日に閣議決定を控える「経済財政運営と改革の基本方針（骨太の方針2026）」において「財政健全化」の文言が削除されたことを受け、日本の長期金利は一時2.9％台まで上昇し、財政規律の緩みや日銀の追加利上げへの牽制姿勢から円売りが強まる場面が見られました。ドル円は162円台半ばで推移しており、中東情勢の緊迫化も円安圧力の一因となっています。
+  中文：总结：日本央行预计将在7月货币政策会议上维持1.0%的政策利率不变。同时，21日即将内阁决定的“经济财政运营与改革基本方针2026”中删除“财政健全化”表述，导致日本长期利率一度升至2.9%区间，引发市场对财政纪律松弛和央行进一步加息的担忧，从而加剧了日元抛售压力。美元兑日元维持在162日元区间，中东局势紧张也助长了日元贬值。
+  📰 [OANDA証券](https://www.oanda.com/jp-fx/market-analysis/daily-report/usd-jpy/20260721/)
 
-- **[2026.07.21] 円相場 — 日銀利上げ後も円安基調続く、日米金利差が背景**
-  日本語：日本銀行が政策金利を1.00%に引き上げたにもかかわらず、円相場は対ドルで162円台前半と円安基調が続いています。日米間の10年債スプレッドが1.838%ポイントと依然として大きく、米国の4.550%に対し日本の10年債利回りが2.712%にとどまっていることが、円キャリー取引を誘発し、円安圧力を支える構図となっています。日銀の緩やかな利上げペースがこの構図を維持する要因と見られます。
-  中文：总结：尽管日本央行将政策利率上调至1.00%，但日元兑美元汇率仍维持在162日元区间前半的疲软态势。日美10年期国债利差仍高达1.838个百分点，美国国债收益率为4.550%，而日本仅为2.712%，这刺激了日元套利交易，支撑了日元贬值压力。日本央行缓慢的加息步伐是维持这一格局的关键因素。
-  📰 [日本市場レポート 2026年7月20日｜宮野宏樹 - note](https://www.google.com/search?q=Japan)
+- **[2026.07.21] IPO・M&A — 日本企業による米国IPO関心高まる、新規ファンド設立も**
+  日本語：日本企業による米国株式市場への上場関心が高まっており、米国の法律事務所Anthony, Linder & Cacomanolis, PLLCが9月16日に東京で開催される「Japan Go IPO Summit」のプラチナスポンサーに就任しました。これは、日本と米国の資本市場を結ぶ重要な架け橋としての同事務所の存在感を示すものです。また、セイノーホールディングスは物流領域のスタートアップを対象とした100億円規模の新ファンド「SEINO Alliance Fund（SAF）」を設立し、IPOを視野に入れたミドル・レイターステージの企業を主な投資対象とします。さらに、独自のAIを活用するアイ・グリッド・ソリューションズ（603A）が7月29日に新規上場を予定しています。
+  中文：总结：日本企业对美国股市上市的兴趣日益增长，美国律师事务所Anthony, Linder & Cacomanolis, PLLC成为“Japan Go IPO Summit”的白金赞助商。此外，西浓控股设立了100亿日元的新基金“SEINO Alliance Fund（SAF）”，主要投资于以IPO为目标的物流领域初创企业。利用AI技术的i-Grid Solutions（603A）也计划于7月29日上市。
+  📰 [PR TIMES](https://prtimes.jp/main/html/rd/p/000000001.000185989.html)
 
-- **[2026.07.21] 市場見通し — 今週は主要企業の決算発表と半導体株の動向に注目**
-  日本語：7月21日から24日の週は、日本市場で多くの企業が決算発表を予定しており、市場の注目を集めるでしょう。特にAI・半導体関連株の動向が引き続き相場を左右する見込みで、米国での主要AI・半導体企業の決算発表（アルファベット、テキサス・インスツルメンツ、インテルなど）も焦点となります。中東情勢の緊迫化や原油価格の動向も市場心理に影響を与える可能性があり、景気敏感株や内需系銘柄への資金シフトも注目されます。
-  中文：总结：本周（7月21日至24日），日本市场将迎来多家主要公司的财报发布，备受市场关注。人工智能和半导体相关股票的走势预计将继续主导市场，美国主要人工智能和半导体公司（如Alphabet、德州仪器、英特尔等）的财报也将成为焦点。中东局势紧张和原油价格波动也可能影响市场情绪，资金流向周期性股票和内需型股票的趋势值得关注。
-  📰 [来週（7/21～7/24）の日経平均株価の予想レンジは､6万～6万8000円！ AI･半導体株を注視しつつ、決算が好調な株や出遅れていた景気敏感株などに注目！ - ダイヤモンド・オンライン](https://www.google.com/search?q=Japan)
-
-- **[2026.07.21] IPO市場 — 2026年の新規公開株、活発な動き続く**
-  日本語：2026年の新規公開株（IPO）市場は引き続き活発な動きを見せています。年間を通じて多くの企業が上場を予定しており、7月20日時点でも複数の銘柄がIPOスケジュールに掲載されています。投資家は、公開価格、初値、主幹事証券などの情報を注視し、新たな投資機会を探しています。特に成長性の高いテクノロジー企業や特定のニッチ市場の企業が注目を集めています。
-  中文：总结：2026年首次公开募股（IPO）市场持续活跃。全年预计将有多家公司上市，截至7月20日，仍有多只股票列入IPO日程。投资者正密切关注发行价、首次交易价格和主承销商等信息，以寻找新的投资机会。高增长的科技公司和特定利基市场的公司尤其受到关注。
-  📰 [2026年IPO（新規公開株）銘柄一覧 - みんかぶ](https://www.google.com/search?q=Japan)
+- **[2026.07.21] 高配当株 — トヨタ自動車と武田薬品工業に注目**
+  日本語：株価が下がりすぎた今、高配当株として超大型株の「トヨタ自動車」と「武田薬品工業」が注目されています。両社ともに配当利回りが3.5％を超えており、中東情勢の煽りなどで株価が調整局面にある中で、インフレに勝てる高利回りで有望な銘柄として紹介されています。7月21日発売のダイヤモンド・ザイ9月号では、このような高配当株143銘柄が特集されており、投資家にとって魅力的な選択肢となり得ると考えられます。
+  中文：总结：在股价下跌之际，超大型高股息股票“丰田汽车”和“武田药品工业”受到关注。两家公司的股息收益率均超过3.5%，在中东局势等因素导致股价调整的背景下，被视为能够抵御通胀、具有高收益潜力的有吸引力股票。
+  📰 [ダイヤモンドZAi](https://diamond.jp/articles/-/106670)
 
 ## 🌍 宏观经济与投资 / Macro & Investment
 
-- **[2026.07.21] Global Macro — 油价飙升重燃通胀担忧，央行政策面临挑战**
-  English: Renewed geopolitical tensions in the Middle East, specifically the US-Iran conflict and its effect on the Strait of Hormuz, have pushed Brent crude prices above $90 a barrel. This escalation is reigniting global inflation concerns and strengthening expectations for central banks, including the Federal Reserve and the European Central Bank, to maintain a hawkish stance or consider further rate hikes to combat persistent price pressures. The market is closely watching for any shifts in monetary policy in response to these supply-side shocks.
-  中文：总结：中东地缘政治紧张局势升级，美国与伊朗冲突加剧，导致布伦特原油价格突破每桶90美元。这重新点燃了全球通胀担忧，并强化了市场对美联储和欧洲央行等主要央行将维持鹰派立场或进一步加息以应对持续物价压力的预期。市场正密切关注央行对这些供应侧冲击的政策反应。
-  📰 [Reuters](https://www.reuters.com/)
+Here are 8 recent news items concerning macroeconomics and investment, specifically focusing on market movements, central bank policies, and key company updates as of July 21, 2026:
 
-- **[2026.07.21] US Market — 科技股抛售与财报季焦点**
-  English: U.S. equities experienced a mixed trading session as investors continued to digest a sharp sell-off in megacap technology and semiconductor stocks from the previous week. Despite some early recovery, market participants remain cautious as the second-quarter earnings season gathers momentum. Major tech companies are set to report, with investors keenly looking for strong results to justify elevated valuations, especially after the recent rotation out of AI-related investments. Geopolitical risks also contribute to headline-driven market volatility.
-  中文：总结：美国股市交易表现不一，投资者仍在消化上周大型科技股和半导体股票的剧烈抛售。尽管早盘有所反弹，但随着第二季度财报季的深入，市场参与者保持谨慎。主要科技公司即将发布财报，投资者正密切关注其业绩能否支撑高估值，尤其是在近期人工智能相关股票轮动之后。地缘政治风险也加剧了市场波动。
-  📰 [TheStreet](https://www.thestreet.com/)
+- **[2026.07.21] US Stock Market — 华尔街主要股指收盘小幅走低**
+  English: Wall Street's main indices closed marginally lower on Monday, July 20th, with the S&P 500 dipping 0.18% to 7,444.19, the Nasdaq Composite down 0.04% to 25,510.27, and the Dow Jones Industrial Average falling 0.57% to 51,848.96. This retreat was influenced by ongoing concerns over interest rate outlook and escalating geopolitical tensions in the Middle East, leading to a cautious sentiment as markets head into Tuesday's trading. Eight of the eleven primary S&P 500 sectors ended in the red, with health and materials sectors leading the declines.
+  中文：总结：7月20日，华尔街主要股指小幅收低，标普500指数下跌0.18%，纳斯达克综合指数下跌0.04%，道琼斯工业平均指数下跌0.57%。市场情绪受到对利率前景的担忧以及中东地缘政治紧张局势升级的影响，导致周二开盘前市场保持谨慎。
+  📰 [Big News Network](https://www.bignewsnetwork.com/news/274719602/wall-street-ends-slightly-lower-as-main-indices-retreat)
 
-- **[2026.07.21] Crypto & Gold — 避险资产表现分化，比特币金价走势受关注**
-  English: Gold and Bitcoin, traditionally seen as safe-haven assets, have surprisingly been among the worst-performing major assets in 2026, with Bitcoin down nearly 27% and gold over 7% year-to-date. Despite escalating Middle East tensions, gold prices have remained around $4,000 an ounce, showing a muted reaction. Bitcoin, however, found support near $63,000 and saw a modest rebound, with traders reportedly betting on a climb to $72,000 by month-end. Analysts are noting investor apathy around geopolitics impacting these assets.
-  中文：总结：黄金和比特币作为传统避险资产，在2026年表现出人意料地成为表现最差的主要资产之一，比特币今年迄今下跌近27%，黄金下跌超过7%。尽管中东紧张局势升级，黄金价格仍维持在每盎司4,000美元左右，反应平淡。然而，比特币在63,000美元附近获得支撑并温和反弹，交易员据称押注其将在月底前升至72,000美元。分析师指出，投资者对地缘政治的冷漠情绪正在影响这些资产。
-  📰 [Stocktwits](https://stocktwits.com/)
+- **[2026.07.21] Oil & Gold — 油价飙升，黄金持稳，中东冲突引发通胀担忧**
+  English: Oil prices surged, with Brent crude topping $91 a barrel, reaching its highest since mid-June, due to escalating US-Iran conflict and Iran's halt of vessels in the Strait of Hormuz. This renewed geopolitical tension has rekindled inflation worries, pushing bond yields higher. Gold, a traditional safe-haven asset, held near $4,000 an ounce after a previous week's decline, as investors weigh inflation risks against potential interest rate hikes.
+  中文：总结：由于美国与伊朗冲突升级以及霍尔木兹海峡的航运中断，油价飙升，布伦特原油突破每桶91美元。地缘政治紧张局势重燃通胀担忧，推高了债券收益率。黄金价格在每盎司4000美元附近持稳，投资者权衡通胀风险和潜在的加息。
+  📰 [SWI swissinfo.ch](https://www.swissinfo.ch/eng/business/oil-holds-gains--bonds-drop-on-inflation-concerns--markets-wrap/49592470)
 
-- **[2026.07.21] K Wave Media — K Wave Media今日起在纳斯达克资本市场交易，聚焦AI增长**
-  English: K Wave Media Ltd. is set to commence trading its ordinary shares on the Nasdaq Capital Market today, July 21, 2026, following Nasdaq's approval of its listing transfer. This move comes after the company completed significant corporate actions, including a restructuring and the disposition of a subsidiary, which substantially strengthened its balance sheet. K Wave Media also announced plans to pursue strategic AI-focused investments and acquisitions, signaling a pivot towards artificial intelligence for future growth.
-  中文：总结：K Wave Media有限公司的普通股预计于今日（2026年7月21日）开始在纳斯达克资本市场交易，此前纳斯达克批准了其上市转移申请。此举是在公司完成一系列重大公司行动之后进行的，包括重组和处置一家子公司，这显著增强了其资产负债表。K Wave Media还宣布计划寻求以人工智能为重点的战略投资和收购，预示着未来增长将转向人工智能领域。
-  📰 [Stock Titan](https://stocktitan.com/)
+- **[2026.07.21] AMD — AMD股价因微软合作而跳涨**
+  English: Advanced Micro Devices (AMD) shares jumped as much as 5% on Monday, July 20th, settling around 4% higher, following an announcement of an expanded partnership with Microsoft. Microsoft plans to deploy AMD's new Helios system at scale across its Azure cloud service to run AI services. This deal is seen as a significant win for AMD, positioning its hardware at the core of one of the world's largest cloud platforms and directly competing with Nvidia's AI systems, with shipments expected in the second half of the year.
+  中文：总结：7月20日，AMD股价上涨高达5%，收盘时仍上涨约4%，此前宣布与微软扩大合作。微软将在其Azure云服务中大规模部署AMD的Helios系统以运行AI服务，这被视为AMD的重要胜利，使其硬件成为全球最大云平台之一的核心。
+  📰 [MarketBeat](https://www.marketbeat.com/stocks/NASDAQ/AMD/news/amd-stock-jumps-as-microsoft-backs-its-nvidia-rival/)
 
-- **[2026.07.21] Nikkei 225 — 日経平均株価、世界的な半導体株売却で調整局面入り**
-  日本語：日経平均株価は、世界的な半導体株の売却とAI関連ポジションの巻き戻しを受け、先週金曜日に大幅下落し、調整局面入りしました。7月17日には64,141ポイントで取引を終え、6月25日の史上最高値から11.4%下落しました。この下落は、特にメモリおよびチップ製造装置関連銘柄に集中しており、KioxiaやSumcoなどが大きく値を下げました。UBSは、最近の調整によりバリュエーションが魅力的になったとして、「押し目買い」を推奨しており、市場の底堅さを示唆しています。
-  中文：总结：日经225指数上周五因全球芯片股抛售和人工智能相关头寸平仓而大幅下跌，进入调整区间。7月17日收于64,141点，较6月25日的历史高点下跌11.4%。此次下跌主要集中在内存和芯片制造设备股，Kioxia和Sumco等公司股价大跌。瑞银认为，近期回调使估值更具吸引力，建议“逢低买入”，预示市场可能具有韧性。
-  📰 [Investing.com](https://jp.investing.com/)
+- **[2026.07.21] Japan Stock Market — 日本股市预计将平稳开盘**
+  日本語：7月20日の市場休場（海の日）後、日本株市場は2営業日連続で下落し、日経225指数は合計4,600ポイント以上、約7%急落しました。しかし、7月21日火曜日は、主要平均株価が金曜日に急落したものの、ウォール街の軟調な動きにもかかわらず、日本市場は64,140ポイント台を維持し、ある程度の牽引力を得る可能性があります。世界的な見通しは、金利見通しと中東紛争の継続に対する懸念から軟調ですが、アジア市場は欧米市場の動きを分ける形となるでしょう。
+  中文：总结：在经历了连续两天下跌，日经225指数累计下跌超过7%之后，日本股市预计在7月21日周二将平稳开盘。尽管全球市场因利率前景和中东冲突担忧而表现疲软，但日本市场有望在64,140点上方找到支撑。
+  📰 [finanzen.ch](https://www.finanzen.ch/nachrichten/aktien/steady-start-called-for-japan-stock-market-1035058766)
 
-- **[2026.07.21] Bank of Japan — 日本銀行の金融政策見通し、追加利上げへの期待高まる**
-  日本語：日本銀行は、インフレ圧力の持続と賃金上昇の兆候を受け、年内の追加利上げを検討していると見られています。最近のデータでは、消費者物価指数（CPI）のリベースが日銀の利上げを妨げる可能性は低いとの見方が強まっています。ウェルズ・ファーゴなどのエコノミストは、日銀が最終的な利上げサイクルに入る可能性を指摘しており、市場は今後の政策決定会合での声明や経済見通しに注目しています。円安も政策決定に影響を与える可能性があります。
-  中文：总结：鉴于持续的通胀压力和工资上涨迹象，日本央行预计将在年内考虑进一步加息。最新数据显示，消费者物价指数（CPI）的重新基准化不太可能阻碍日本央行的加息步伐。包括富国银行在内的经济学家指出，日本央行可能进入最终的加息周期，市场正密切关注其未来政策会议的声明和经济展望。日元疲软也可能影响政策决定。
-  📰 [Barclays Investment Bank](https://www.barclays.com/investor-relations/fixed-income-investors/investment-bank.html)
+- **[2026.07.21] USD/JPY — 日元兑美元持续疲软，逼近数十年低点**
+  日本語：7月20日、米ドル/円は162.50付近で推移し、数十年来の高値付近で膠着状態が続いています。米国のインフレ率が軟化したにもかかわらず、円は依然として弱含みで、主要な抵抗線の下で値動きが収縮しています。中東情勢の緊迫化によるエネルギー価格上昇が円の重荷となっており、日銀の6月の利上げも円安の流れを大きく変えるには至っていません。市場は、7月23日の日本の貿易収支と7月25日の全国消費者物価指数（CPI）に注目しています。
+  中文：总结：7月20日，日元兑美元持续疲软，徘徊在162.50附近，逼近数十年来的低点。尽管美国通胀有所放缓，但中东冲突导致的能源价格上涨继续对日元构成压力。日本央行6月的加息未能显著扭转日元贬值趋势，市场正密切关注日本即将公布的贸易数据和全国CPI。
+  📰 [FOREX.com](https://www.forex.com/en-us/news-and-analysis/usd-jpy-weekly-outlook-coiling-beneath-multi-decade-highs-2026-07-20/)
+
+- **[2026.07.21] Bank of Japan — 日本央行或上调增长预测并维持利率不变**
+  日本語：日本銀行は、7月21日に発表される最新の四半期報告書で、経済成長予測を上方修正し、金利を据え置く可能性が高いと報じられています。中東紛争によるサプライチェーン混乱への懸念が緩和され、企業が代替原材料を確保できたこと、および輸出価格の上昇が経済を支えています。エコノミストや市場参加者は、7月の連続利上げはすでに可能性が低いと見ており、この見通しは円相場に大きな変化をもたらしていません。
+  中文：总结：日本央行预计将在7月21日上调其经济增长预测，并维持利率不变。由于中东冲突带来的供应链中断担忧缓解，以及出口价格上涨，日本经济前景改善。市场普遍认为7月连续加息的可能性较低，此消息对日元汇率影响不大。
+  📰 [The Japan Times](https://www.japantimes.co.jp/news/2026/07/21/business/economy/boj-growth-forecast-stand-pat/)
+
+- **[2026.07.21] BOK Financial Corporation — BOK Financial公布2026年第二季度财报**
+  English: BOK Financial Corporation (NASDAQ: BOKF) reported its operating results for the second quarter ended June 30, 2026, on Monday, July 20th. The company is scheduled to host a conference call to discuss these financial results at noon central time on Tuesday, July 21, 2026. Investors will be keen to hear management's commentary on the regional financial services company's performance, particularly in light of current economic conditions and interest rate environment.
+  中文：总结：BOK Financial Corporation于7月20日公布了截至2026年6月30日的第二季度运营业绩。该公司定于7月21日（周二）中午举行电话会议，讨论这些财务结果。投资者将密切关注管理层对这家区域性金融服务公司业绩的评论。
+  📰 [Morningstar](https://www.morningstar.com/news/accesswire/2026-07-20-bok-financial-corporation-announces-second-quarter-2026-earnings)
+
+- **[2026.07.21] Calix — Calix发布2026年第二季度财务业绩**
+  English: Calix, Inc. (NYSE: CALX) announced its unaudited financial results for the second quarter of 2026 on Monday, July 20th. The results have been posted as a letter to stockholders on the company's investor relations website. A conference call with President and CEO Michael Weening and CFO Cory Sindelar is scheduled for tomorrow, July 21, 2026, at 8:30 a.m. Eastern Time, where further details and outlook will be discussed.
+  中文：总结：Calix公司于7月20日公布了2026年第二季度未经审计的财务业绩，并已在其投资者关系网站上发布致股东函。公司总裁兼首席执行官Michael Weening和首席财务官Cory Sindelar将于7月21日（周二）上午8:30（美国东部时间）举行电话会议，讨论业绩并提供展望。
+  📰 [Investing News Network](https://investingnews.com/news/tech-investing/calix-releases-second-quarter-2026-financial-results/)
 
 ---
 ※Stock Market Daily Digest | 2026.07.21
