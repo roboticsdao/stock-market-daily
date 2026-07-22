@@ -7,104 +7,109 @@
 
 ## 🇺🇸 美国股市 / US Market
 
-- **[2026.07.22] US Market Indices — 美国股市全面上涨，科技股领涨**
-  English: U.S. stock indices closed higher on July 22, 2026, with the S&P 500 gaining 0.89%, the Nasdaq Composite rising 1.29%, and the Dow Jones Industrial Average increasing 0.74%. The broad-based rally was primarily driven by strength in large-cap technology stocks and a significant rebound in the semiconductor sector. Investors largely overlooked fresh geopolitical tensions and new trade tariffs, focusing instead on positive corporate earnings and expectations of a stabilizing interest rate environment. This positive sentiment suggests continued confidence in growth sectors.
-  中文：总结：2026年7月22日，美国股市三大主要指数全面收涨，其中标普500指数上涨0.89%，纳斯达克综合指数上涨1.29%，道琼斯工业平均指数上涨0.74%。此次上涨主要得益于大型科技股和半导体板块的强劲反弹。投资者对地缘政治紧张局势和新贸易关税的担忧有所减弱，转而关注积极的企业财报和对利率环境趋稳的预期，显示出市场对增长型板块的持续信心。
-  📰 [KuCoin](https://www.kucoin.com/news/us-stock-indices-rise-on-july-22-2026-kucoin)
+- **[2026.07.22] US Stock Market — 美股期货涨跌互现，科技股财报前谨慎**
+  English: US stock futures showed a mixed performance on Wednesday, July 22, 2026, as investors awaited a wave of major tech earnings reports and grappled with rising oil prices due to escalating Middle East tensions. Nasdaq 100 futures slipped, while S&P 500 and Dow Jones Industrial Average futures also saw slight declines in early trading. This cautious sentiment follows a rebound in major indices on Tuesday, driven by semiconductor stocks. The market is keenly focused on whether upcoming earnings can justify elevated tech valuations and the scale of AI investments.
+  中文：总结：美国主要股指期货周三涨跌互现，投资者在中东紧张局势导致油价上涨和大型科技公司财报季前表现谨慎。纳斯达克100指数期货下跌，标普500和道琼斯工业平均指数期货也小幅走低，市场关注即将公布的财报能否支撑科技股的高估值及AI投资规模。
+  📰 [TheStreet](https://www.thestreet.com/markets/stock-market-today-july-22-2026-nasdaq-futures-fall-as-investors-brace-for-big-tech-earnings)
 
-- **[2026.07.22] Chipmakers/AI Stocks — 芯片和AI股票强劲反弹，推动市场上涨**
-  English: The semiconductor sector experienced a strong rebound on July 22, with a key industry gauge rising 5.2%, significantly contributing to the broader market's gains. Major players like Micron Technology jumped over 12%, Intel advanced 8.64% on job cut plans, and Marvell Technology surged 6.68%. NVIDIA also announced its latest chip designs are reaching customers, further fueling optimism in the artificial intelligence trade. This resurgence indicates renewed investor confidence in the long-term growth potential of AI infrastructure and related technologies, despite recent volatility.
-  中文：总结：7月22日，半导体板块强劲反弹，关键行业指数上涨5.2%，成为推动大盘上涨的主要力量。美光科技股价跳涨超过12%，英特尔因裁员计划上涨8.64%，Marvell Technology飙升6.68%。英伟达也宣布其最新芯片设计已交付客户，进一步提振了人工智能相关股票的乐观情绪，表明投资者对AI基础设施的长期增长潜力重拾信心。
+- **[2026.07.22] Microsoft (MSFT) — 微软财报前瞻与证券诉讼**
+  English: Microsoft is slated to report its fiscal fourth-quarter 2026 earnings on July 29, with analysts anticipating strong performance driven by its robust AI business and stable M365 revenue growth. Oppenheimer reiterated a $515 price target, noting healthy demand, while Morgan Stanley initiated coverage with an overweight rating and a $600 target. However, the company faces a securities fraud class action lawsuit filed today, alleging misleading investors about its AI chatbot Copilot and Azure cloud growth, which caused a 10% stock drop in January.
+  中文：总结：微软预计将于7月29日发布第四季度财报，分析师对其AI业务和M365收入增长持乐观态度。然而，公司今日面临一项证券欺诈集体诉讼，指控其在AI聊天机器人Copilot和Azure云增长方面误导投资者，导致1月份股价下跌10%。
+  📰 [Investing.com](https://www.investing.com/news/stock-market-news/oppenheimer-reiterates-microsoft-stock-rating-ahead-of-results-432-4091392)
 
-- **[2026.07.22] Tesla (TSLA) — 特斯拉发布第二季度财报，市场关注利润率**
-  English: Tesla (TSLA) is scheduled to release its Q2 2026 earnings report after market close on July 22. Despite reporting record Q2 deliveries of over 480,000 units, investor attention is sharply focused on automotive gross margins amidst aggressive pricing strategies and increased capital expenditures for AI and robotics. Analysts anticipate EPS between $0.36 and $0.54, with options markets pricing in a potential 7.6% stock price swing. The report's details on profitability, energy storage growth, and Cybercab production timelines will be critical for market sentiment.
-  中文：总结：特斯拉（TSLA）定于7月22日收盘后发布2026年第二季度财报。尽管第二季度交付量创下48万辆的纪录，但投资者更关注在激进定价和AI及机器人领域资本支出增加背景下的汽车毛利率。分析师预计每股收益在0.36至0.54美元之间，期权市场暗示股价可能波动7.6%。财报中关于盈利能力、储能业务增长和Cybercab生产时间表的细节将对市场情绪至关重要。
+- **[2026.07.22] Tesla (TSLA) — 特斯拉财报前瞻：AI投资与现金流受关注**
+  English: Tesla is set to release its Q2 2026 earnings after market close today, July 22, with investors keenly focused on the impact of its substantial AI investments on free cash flow. Despite reporting record deliveries of 480,126 vehicles, analysts project a dip to negative $3.25 billion in free cash flow due to an estimated $25-$26.8 billion in AI spending through 2026. Options data suggests a potential 5.7% stock movement post-earnings, highlighting market volatility around its transition to an AI infrastructure leader.
+  中文：总结：特斯拉将于今日收盘后公布第二季度财报，市场密切关注其巨额AI投资对自由现金流的影响。尽管交付量创纪录，但分析师预计其自由现金流将因AI相关资本支出而转为负值。期权数据显示，财报后股价可能波动5.7%。
+  📰 [tastylive](https://www.tastylive.com/news/stocks/tesla-tsla-earnings-preview-record-deliveries-meet-a-margin-reckoning)
 
-- **[2026.07.22] Alphabet (GOOGL) — 谷歌母公司Alphabet发布第二季度财报**
-  English: Alphabet (GOOGL) is set to announce its second-quarter 2026 financial results after the market closes on July 22. Wall Street analysts are largely optimistic, with consensus estimates projecting a 21% increase in revenue and a 25% rise in earnings per diluted share (excluding investment gains). The focus will be on the performance of its cloud segment, driven by strong demand for AI infrastructure, and any updates on capital expenditures, which management previously guided to be between $180 billion and $190 billion for 2026.
-  中文：总结：谷歌母公司Alphabet（GOOGL）将于7月22日收盘后公布2026年第二季度财报。华尔街分析师普遍乐观，预计营收将增长21%，稀释后每股收益（不含投资收益）将增长25%。市场将密切关注其云业务的表现，该业务受到人工智能基础设施强劲需求的推动，以及对2026年资本支出（此前管理层预计为1800亿至1900亿美元）的任何更新。
+- **[2026.07.22] NVIDIA (NVDA) — 英伟达加速AI芯片生产，新工厂投产**
+  English: NVIDIA has commenced large-scale production of its GB300 Grace Blackwell Ultra Superchip at a new $700 million manufacturing facility in Fort Worth, Texas, marking its first U.S. manufacturing site. Concurrently, NVIDIA is accelerating production of its next-generation AI server platform, Vera Rubin, with key clients like OpenAI and Microsoft already testing the new server racks. This strategic expansion is part of NVIDIA's commitment to invest up to $500 billion in advanced AI infrastructure in the U.S., reinforcing its dominance in the semiconductor industry.
+  中文：总结：英伟达在德克萨斯州新工厂启动GB300 Grace Blackwell Ultra Superchip的大规模生产，这是其在美国的首个制造基地。同时，英伟达正加速下一代AI服务器平台Vera Rubin的生产，主要客户已开始测试。此举是其5000亿美元AI基础设施投资的一部分。
+  📰 [GuruFocus](https://www.gurufocus.com/news/2451965/nvidia-nvda-launches-mass-production-of-ultra-superchip-in-texas-facility)
 
-- **[2026.07.22] NVIDIA (NVDA) & Nebius Group (NBIS) — 英伟达披露对AI云公司Nebius的战略投资**
-  English: NVIDIA disclosed a 9.3% strategic equity stake in AI cloud infrastructure provider Nebius Group, sending Nebius shares soaring by over 18% on July 22. This investment, following NVIDIA's earlier $2 billion commitment, underscores its deepening involvement in specialized cloud hosting infrastructure to meet surging demand for AI computing capacity. The move highlights NVIDIA's strategy to expand its ecosystem beyond chip manufacturing into AI service delivery, reinforcing its dominant position in the rapidly evolving artificial intelligence landscape.
-  中文：总结：英伟达披露已战略性持有AI云基础设施提供商Nebius Group 9.3%的股权，导致Nebius股价在7月22日飙升超过18%。这项投资，加上英伟达此前20亿美元的承诺，凸显了其在专业云托管基础设施领域的深入布局，以满足对AI计算能力不断增长的需求。此举表明英伟达正将其生态系统从芯片制造扩展到AI服务交付，巩固其在快速发展的人工智能领域的领导地位。
+- **[2026.07.22] Apple (AAPL) — 苹果iPhone 18量产与CEO交接**
+  English: Apple's iPhone 18 series has entered mass production this month, with Foxconn in Zhengzhou significantly increasing hiring to meet the surging demand. This comes as CEO Tim Cook is set to host his final earnings call on July 30 before stepping down, marking a pivotal leadership transition for the tech giant. Bank of America maintains a "Buy" rating with a $380 target, anticipating Apple's Q2 results to surpass Wall Street expectations, driven by strong iPhone demand and expanding services.
+  中文：总结：苹果iPhone 18系列已进入大规模生产阶段，富士康正大幅增聘员工以满足需求。此外，蒂姆·库克将于7月30日主持其作为苹果CEO的最后一次财报电话会议后卸任，标志着公司领导层的重大转变，市场对其Q2业绩抱有高预期。
+  📰 [GuruFocus](https://www.gurufocus.com/news/2451967/apple-aapl-begins-production-of-iphone-18-series-hiring-surge-at-foxconn)
 
-- **[2026.07.22] Apple (AAPL) — 苹果推出新硬件租赁计划，股价持续上涨**
-  English: Apple shares continued their impressive 2026 run on July 22, trading up 0.71% and leading the "Magnificent Seven" with a 22.8% year-to-date gain. The rally is fueled by optimism surrounding Apple's AI strategy, expectations for a strong iPhone upgrade cycle, recent product price increases, and the announcement of an upcoming hardware leasing program, "Apple Upgrade," set to launch on July 28. This new program aims to encourage more frequent device upgrades and generate recurring revenue, further solidifying Apple's market leadership.
-  中文：总结：苹果公司股价在7月22日继续其2026年的强劲表现，上涨0.71%，并以22.8%的年初至今涨幅领跑“七巨头”。此次上涨得益于市场对苹果AI战略的乐观情绪、iPhone升级周期的预期、近期产品价格上涨以及即将于7月28日推出的新硬件租赁计划“Apple Upgrade”。该计划旨在鼓励更频繁的设备升级并创造经常性收入，进一步巩固苹果的市场领导地位。
-
-- **[2026.07.22] Change Agents Corp. (CHGA) — Change Agents Corp.在纳斯达克上市**
-  English: Avalon GloboCare Corp. officially rebranded as Change Agents Corp. and began trading on the Nasdaq Capital Market under the new ticker symbol "CHGA" on July 22, 2026. This strategic transformation signifies the company's pivot to focus entirely on agentic artificial intelligence software solutions. The move aims to leverage the burgeoning AI market by developing software-as-a-service platforms like Beacon and Catch-Up, designed to enhance digital presence and automate content creation, respectively, attracting investors keen on innovative AI ventures.
-  中文：总结：Avalon GloboCare Corp.于2026年7月22日正式更名为Change Agents Corp.，并以新股票代码“CHGA”在纳斯达克资本市场开始交易。此次战略转型标志着该公司全面转向专注于代理人工智能软件解决方案。此举旨在通过开发Beacon和Catch-Up等软件即服务平台，利用蓬勃发展的AI市场，分别旨在增强数字存在和自动化内容创作，吸引对创新AI企业感兴趣的投资者。
-
-- **[2026.07.22] Maison Solutions (MSS) — Maison Solutions进行1拆5反向股票分割**
-  English: Maison Solutions (MSS) implemented a 1-for-5 reverse stock split, with its Class A common stock beginning to trade on a split-adjusted basis on the Nasdaq Capital Market under the same symbol "MSS" on July 22, 2026. This corporate action was primarily undertaken to maintain compliance with Nasdaq's $1.00 minimum bid price requirement, ensuring the company's continued listing on the exchange. Existing shareholders' ownership interests remain unaffected, though the number of shares held has been consolidated.
-  中文：总结：Maison Solutions (MSS) 于2026年7月22日在纳斯达克资本市场实施了1拆5的反向股票分割，其A类普通股以调整后的基础开始交易，股票代码仍为“MSS”。此次公司行动主要是为了符合纳斯达克1.00美元的最低出价要求，以确保公司能够继续在交易所上市。现有股东的持股权益不受影响，但持股数量已进行合并。
+- **[2026.07.22] Amazon (AMZN) — 亚马逊AI投资与股价展望**
+  English: Amazon has launched its first Disaster Relief hub in Canada, focusing on wildfire response, while analysts remain bullish on its stock, with some predicting a 30% upside in 2026. This positive outlook is fueled by the accelerating growth of its AWS cloud services, a substantial $200 billion AI spending plan, and billions locked in through custom chip deals. Investors are keenly awaiting the July 30 earnings report to assess AWS margins and the profitability of its extensive AI buildout.
+  中文：总结：亚马逊在加拿大开设首个灾害救援中心，同时华尔街分析师对其股票持乐观态度，预计其股价在2026年可能上涨30%。这一预测主要基于AWS业务的加速增长、2000亿美元的AI支出计划以及定制芯片交易，投资者正关注其AI投资的盈利能力。
+  📰 [Watcher Guru](https://watcher.guru/news/will-amazon-stock-continue-to-rise-amzn-could-gain-30-in-2026)
 
 ## 🇯🇵 日本株式市場 / Japan Market
 
-- **[2026.07.22] 日経平均 — 大幅反発と続伸見通し**
-  日本語：21日の東京株式市場では、日経平均株価が前週末の急落から大幅に反発し、2,091円高の66,232円で取引を終えました。米国の半導体株の下げ止まりや韓国経済の好調が追い風となり、先週の過度な売りに対する買い戻しが優勢でした。22日も欧米市場の全面高や半導体株の上昇を受けて、日経平均は続伸し、6万7000円台回復を視野に入れる展開が予想されます。輸出関連株は歴史的な円安も追い風となる見込みです。
-  中文：总结：21日东京股市日经平均指数大幅反弹2091点，收于66,232点。受美国半导体股止跌和韩国经济增长超预期提振，市场出现强劲买盘。22日，受欧美股市全面上涨及半导体股走强影响，日经指数预计将继续上涨，有望重回67,000点上方。日元贬值也将利好出口相关股票。
-  📰 [みんかぶ](https://minkabu.jp/news/3920000)
+- **[2026.07.22] 日経平均 — 朝高から後場に失速し小反落**
+  日本語：22日の東京株式市場では、日経平均株価が前日の米国半導体株高を受けて一時1300円超上昇し、前場は高値圏で推移した。しかし、後場に入ると買いが途切れ、利益確定売りが優勢となり、最終的には前日比116円59銭安の6万6115円60銭と小幅反落して取引を終えた。半導体関連株の買い戻しが一巡したことや、中東情勢の混迷によるインフレ警戒感が重荷となった。
+  中文：总结：22日东京股市，日经平均指数受前夜美国半导体股上涨提振，盘中一度大涨逾1300点，上午维持高位。但午后买盘减弱，获利回吐压力显现，最终小幅下跌116.59点，收于66115.60点。半导体股买盘回补告一段落，中东局势引发的通胀担忧构成压力。
+  📰 [株探](https://kabutan.jp/news/market/20260722_01)
 
-- **[2026.07.22] 円相場 — 39年7カ月ぶりの円安水準**
-  日本語：21日のニューヨーク外国為替市場で円相場は対ドルで一時163円台をつけ、1986年12月以来、約39年7カ月ぶりの円安水準となりました。中東情勢の緊迫化を受けた「有事のドル買い」に加え、米連邦準備制度理事会（FRB）の利上げ観測が円売り・ドル買いを支えました。この歴史的な円安は、日本の輸出企業には収益改善の追い風となる一方、日本銀行の追加利上げ観測を高める可能性があり、市場の注目点となっています。
-  中文：总结：21日纽约外汇市场日元兑美元一度跌至163日元区间，创下约39年7个月以来的新低。中东局势紧张引发的“避险美元买盘”以及美联储加息预期支撑了日元抛售和美元买盘。历史性日元贬值利好日本出口企业，但可能加剧日本央行进一步加息的预期，成为市场关注焦点。
-  📰 [FNNプライムオンライン](https://www.fnn.jp/)
+- **[2026.07.22] TOPIX — 小幅続伸、日経平均と異なる動き**
+  日本語：22日の東京株式市場で、東証株価指数（TOPIX）は日経平均が反落する中で小幅ながら続伸し、前日比18.18ポイント高の4033.13で取引を終えた。プライム市場では値上がり銘柄数が値下がり銘柄数を上回り、全体の約54%が上昇。TOPIX先物も16ポイント高の4040.5ポイントで清算されるなど、底堅い動きを見せた。
+  中文：总结：22日东京股市，TOPIX指数在日经平均指数下跌的情况下小幅上涨，收盘上涨18.18点至4033.13点。主板市场上涨股票数量多于下跌股票，约54%的股票上涨。TOPIX期货也上涨16点至4040.5点，显示出坚挺走势。
+  📰 [株探](https://kabutan.jp/news/market/20260722_01)
 
-- **[2026.07.22] 半導体株 — 急反発とAIセクターの動向**
-  日本語：先週急落した半導体関連株は、21日の東京市場でキオクシアホールディングスが大幅反発するなど買い戻しが優勢となりました。米国の半導体株の下げ止まりや、マイクロン・テクノロジーの急騰が追い風となりました。22日も欧米市場のハイテク株高を受け、半導体関連株が相場を牽引すると見られています。しかし、AI関連株の乱高下は続いており、23日早朝に発表される米アルファベットの決算が今後のAI株全体の動向に影響を与える可能性があります。
-  中文：总结：上周暴跌的半导体相关股票在21日东京市场出现强劲反弹，其中铠侠控股大幅上涨。受美国半导体股止跌及美光科技飙升提振。22日，受欧美科技股上涨影响，半导体相关股票预计将继续引领市场。然而，AI相关股票的波动仍在持续，23日凌晨公布的美国Alphabet财报可能影响整个AI板块的未来走势。
-  📰 [株探](https://kabutan.jp/)
+- **[2026.07.22] 半導体関連株 — 買い戻し一巡で失速**
+  日本語：22日の東京市場では、前日の米国半導体株高を受けてAI・半導体関連株が取引序盤に大きく買われ、日経平均を押し上げた。キオクシアホールディングスやイビデン、太陽誘電などが上昇したが、後場に入ると買い戻しが一巡し、短期的な利益確定売りが増加。米ハイテク大手決算を控える中、相場を押し上げる新たな材料に乏しく、半導体セクターは失速した。
+  中文：总结：22日东京市场，受前夜美国半导体股上涨影响，AI及半导体相关股票在盘初大幅上涨，提振日经指数。但午后买盘回补告一段落，短期获利了结增加。在美国科技巨头财报公布前，市场缺乏新的上涨动力，半导体板块涨势减弱。
+  📰 [株探](https://kabutan.jp/news/market/20260722_01)
 
-- **[2026.07.22] 日本株 — 非AI・バリュー株への資金シフト**
-  日本語：AI関連株の調整局面が続く中、市場では非AI銘柄への資金シフトが見られます。特に、円安による好決算が期待される外需の重厚長大割安株や、値上げ期待の内需小売・サービス株など、業績に裏付けのある銘柄に買いが集まっています。先週の半導体株の急落後も、2期連続増益で株価が堅調に推移している17社が特定されており、AIバブル崩壊懸念の中で、これらの銘柄が新たな物色対象として注目されています。
-  中文：总结：随着AI相关股票持续调整，市场资金正转向非AI股票。特别是，受日元贬值预期利好出口的重工业价值股，以及受涨价预期提振的内需零售和服务股等，业绩有支撑的股票受到追捧。上周半导体股暴跌后，有17家连续两期实现利润增长且股价保持坚挺的公司被发现，在AI泡沫破裂的担忧下，这些股票正成为新的投资焦点。
-  📰 [会社四季報オンライン](https://shikiho.toyokeizai.net/)
+- **[2026.07.22] 円相場・インフレ — 歴史的円安と原油高で警戒感**
+  日本語：22日の外国為替市場では、円相場が対ドルで約40年ぶりに1ドル＝163円台まで下落し、歴史的な円安水準で膠着した。この円安は通常、輸出企業に有利だが、中東情勢の混迷による原油市況の上昇と相まって、インフレ警戒感が市場の重荷となった。日銀の利上げ思惑も高まる中、市場は今後の動向を注視している。
+  中文：总结：22日外汇市场，日元兑美元汇率跌至163日元区间，创约40年来新低，并在此历史性低位僵持。尽管日元贬值通常利好出口企业，但与中东局势引发的原油价格上涨叠加，加剧了市场对通胀的警惕。日本央行加息预期升温，市场正密切关注后续发展。
+  📰 [株探](https://kabutan.jp/news/market/20260722_01)
+
+- **[2026.07.22] 日本銀行 — 利上げペース加速に柔軟姿勢、物価上振れリスク警戒**
+  日本語：日本銀行は、円安が物価上振れリスクを増大させていることを警戒し、今後の利上げペース加速に柔軟な姿勢を示していると報じられた。7月の金融政策決定会合では政策金利の維持が決まる公算が大きいものの、9月以降の会合で次なる利上げに踏み切るタイミングが市場の焦点となっている。
+  中文：总结：据报道，日本央行对日元贬值加剧物价上涨风险保持警惕，并对未来加快加息步伐持灵活态度。尽管7月货币政策会议很可能维持政策利率不变，但市场正关注9月及以后会议上日本央行何时采取下一步加息行动。
+  📰 [みんかぶFX](https://fx.minkabu.jp/news/309489)
+
+- **[2026.07.22] トヨタ自動車 — 円安と半導体からの資金移動に注目、決算発表控える**
+  日本語：トヨタ自動車の株価は22日、市場で円安による業績への好影響や、半導体関連銘柄からの資金移動が注目される中で推移した。同社は8月4日に決算発表を控えており、投資家は米国の関税影響や電動車販売の動向、そして今後の業績見通しに注目している。
+  中文：总结：22日，丰田汽车股价在市场关注日元贬值对其业绩的积极影响以及资金从半导体股流出中波动。该公司将于8月4日公布财报，投资者正密切关注美国关税影响、电动汽车销售趋势以及未来业绩展望。
+  📰 [Yahoo!ファイナンス](https://finance.yahoo.co.jp/quote/7203.T/detail)
+
+- **[2026.07.22] ソニーグループ — 8月上旬の決算発表に期待集まる**
+  日本語：ソニーグループの株価は22日、8月上旬に予定されている次回の決算発表を前に、市場の関心を集めた。2026年3月期の連結業績は、音楽やイメージング＆センシング・ソリューション分野の好調により、営業利益が過去最高を更新する見通しが示されており、今後の業績動向に注目が集まっている。
+  中文：总结：22日，索尼集团股价在即将于8月上旬公布的下一份财报前受到市场关注。2026年3月财年合并业绩显示，受益于音乐和图像传感解决方案业务的强劲表现，营业利润预计将创历史新高，市场正密切关注其未来业绩走势。
+  📰 [Yahoo!ファイナンス](https://finance.yahoo.co.jp/quote/6758.T/detail)
+
+- **[2026.07.22] 地方銀行株 — 金利上昇期待で頑強な動き**
+  日本語：AI関連株のボラティリティが高い相場環境の中、地方銀行株が頑強な動きを見せ、市場の注目を集めている。国内金利の先高観が広がる中で、貸出利回りの上昇による収益拡大が見込めるため、中期的な株価上昇への期待が高まっている。日銀の利上げ路線が続くとの見方から、金利上昇メリットセクターとして評価されている。
+  中文：总结：在AI相关股票波动剧烈的市场环境中，地方银行股表现坚挺，受到市场关注。随着国内利率上升预期增强，贷款收益率提高有望带来盈利增长，中期股价上涨的预期升温。日本央行持续加息的路线，使得地方银行股被视为利率上升的受益板块。
+  📰 [株探](https://kabutan.jp/news/market/20260722_50)
 
 ## 🌍 宏观经济与投资 / Macro & Investment
 
-Here are 8 recent news items concerning macroeconomics and investment, dated 2026.07.22 or reporting on market activities from 2026.07.21 (which would be 2026.07.22 in Asian time zones).
+- **[2026.07.22] US Stock Futures — 科技股财报前美股期货下跌，油价上涨带来不确定性**
+  English: U.S. stock futures edged lower on Wednesday as investors braced for key earnings reports from tech giants like Alphabet and Tesla. Sentiment was dampened by rising geopolitical risks in the Middle East, which pushed oil prices higher, adding to inflation concerns. Weakness in semiconductor stocks also contributed to the cautious mood, with markets weighing elevated valuations against the sustainability of AI-related investments.
+  中文：总结：周三美国股指期货下跌，市场正等待Alphabet和特斯拉等科技巨头的财报。中东地缘政治风险加剧导致油价上涨，加剧了通胀担忧，半导体板块的疲软也令市场情绪谨慎，投资者权衡高估值与人工智能投资的可持续性。
+  📰 [The Economic Times](https://economictimes.indiatimes.com/markets/stocks/news)
 
-- **[2026.07.22] S&P500 — 标普500指数上涨，科技股和财报提振**
-  English: U.S. major stock indexes closed higher on July 21, with the S&P 500 rising 0.89%, the Nasdaq Composite gaining 1.29%, and the Dow Jones Industrial Average up 0.74%. The rally was primarily driven by a strong rebound in semiconductor shares and positive corporate earnings reports from companies like 3M and General Motors, which exceeded market expectations. Despite rising international oil prices and persistent geopolitical tensions in the Middle East, investor sentiment remained positive, particularly towards the technology sector, fueled by ongoing AI-driven growth expectations.
-  中文：总结：7月21日美国主要股指收高，标普500指数上涨0.89%，纳斯达克综合指数上涨1.29%。半导体股票强劲反弹以及3M和通用汽车等公司的积极财报提振了市场情绪。尽管国际油价上涨和中东地缘政治紧张局势持续，投资者对科技股的乐观情绪依然存在，受人工智能驱动的增长预期支撑。
-  📰 [Reuters](https://www.google.com/search?q=global)
+- **[2026.07.22] US 10-Year Treasury Yield — 美国10年期国债收益率因中东紧张局势和通胀担忧而上升**
+  English: The yield on the US 10-year Treasury note rose to 4.64% on Wednesday, reaching two-month highs. This increase was primarily driven by escalating hostilities between the US and Iran, which fueled a surge in oil prices and heightened concerns over inflation and potential interest rate adjustments by the Federal Reserve. Investors are closely monitoring geopolitical developments and upcoming economic data.
+  中文：总结：周三美国10年期国债收益率升至4.64%，创下两个月新高。主要原因是美国与伊朗之间不断升级的冲突推高了油价，加剧了对通胀和美联储潜在加息的担忧。投资者正密切关注地缘政治发展和即将发布的经济数据。
+  📰 [Trading Economics](https://tradingeconomics.com/united-states/10-year-bond-yield)
 
-- **[2026.07.22] 日经225 — 日本股市预计高开，半导体股反弹**
-  日本語：7月22日の日本株式市場は、前日の米国市場での半導体株の力強い反発を受けて買い先行で始まる見込みです。ダウ平均が385ポイント、ナスダックが329ポイント上昇したことが好材料となり、東京市場でもキオクシアホールディングス、東京エレクトロン、ソフトバンクグループ、アドバンテストといった主要半導体・AI関連銘柄に買いが集中すると予想されます。特にキオクシアは前日17%超上昇し、75日移動平均線を回復しており、この水準を明確に上回れば、他の半導体株にも反発買いが広がる可能性があります。
-  中文：总结：7月22日日本股市预计将高开，受前一交易日美国半导体股强劲反弹的提振。道琼斯指数上涨385点，纳斯达克指数上涨329点，预计将带动东京市场主要半导体和AI相关股票如铠侠、东京电子等上涨。特别是铠侠前日大涨超17%，收复75日均线，若能明确突破此水平，反弹买盘可能蔓延至其他半导体股。
-  📰 [富途资讯](https://www.google.com/search?q=global)
+- **[2026.07.22] Nikkei 225 & JPY — 日经指数收盘涨跌互现，日元兑美元跌至40年新低**
+  日本語：水曜日の日本株は、テクノロジー株が上昇したものの、日経平均株価は午後の利益確定売りで初期の上げ幅を失い、小幅安で引けた。一方、円は対ドルで163.24円まで下落し、40年ぶりの安値を更新した。これは、日米金利差の拡大と中東情勢の緊迫化による原油価格上昇が背景にある。日本政府当局は過度な円安に対し口頭介入を実施し、市場は今後の政策対応に注目している。
+  中文：总结：周三日本股市收盘涨跌互现，科技股上涨，但日经225指数午后因获利回吐而回落。日元兑美元跌至163.24，创40年新低，主要受日美利差和中东紧张局势推高油价影响。日本政府已对过度疲软的日元发出警告，市场正关注其后续行动。
+  📰 [Maaal](https://maaal.com/2026/07/japanese-stocks-closed-mixed-as-tech-shares-rose-and-yen-weakened/)
 
-- **[2026.07.22] USD/JPY — 美元兑日元触及40年新高**
-  English: The USD/JPY exchange rate extended its rally on July 21, reaching a new 40-year high near 163.20. This surge was primarily driven by higher U.S. Treasury yields and the widening policy divergence between the Federal Reserve and the Bank of Japan. Despite potential intervention risks from the Japanese government, the pair remains firmly in bullish territory, with momentum favoring additional gains as long as it holds above the previous July high of 162.833. The next key resistance level is anticipated around 164.50.
-  中文：总结：7月21日，美元兑日元汇率延续涨势，触及163.20附近，创下40年新高。此次上涨主要受美国国债收益率上升以及美联储与日本央行之间日益扩大的政策分歧推动。尽管日本政府可能进行干预，但只要该货币对保持在162.833的此前7月高点之上，其仍处于强劲的看涨区域，动能有利于进一步上涨。
-  📰 [investingLive](https://www.google.com/search?q=global)
+- **[2026.07.22] Bank of Japan — 日本央行警惕通胀风险，或加快加息步伐**
+  日本語：日本銀行の政策担当者は、円安と燃料費上昇による物価上昇圧力が予想以上に加速した場合、市場が予測するよりも速いペースで利上げを行う可能性に警戒感を示している。複数の関係者によると、多くの政策委員は利上げのペースとタイミングは事前に決められるものではなく、その時々の経済・物価動向に大きく依存すると考えている。ブルームバーグの報道も、日銀当局者がエコノミストのコンセンサスよりも速いペースでの利上げに前向きである可能性を示唆しており、円の継続的な弱さがインフレ上振れリスクを高めている。
+  中文：总结：日本央行官员表示，如果日元疲软和燃料成本上涨带来的通胀压力加速超过预期，央行可能会以比市场普遍预测更快的速度加息。多位政策制定者认为，加息的节奏和时机并非预设，将取决于当时的经济和物价发展。彭博社报道也指出，日本央行官员对加快加息持开放态度，日元持续走弱加剧了通胀上行风险。
+  📰 [WTVB](https://www.wtvb.com/news/2026/07/22/boj-on-alert-to-price-risks-that-may-lead-to-faster-rate-hikes-sources-say/)
 
-- **[2026.07.22] 全球通胀 — 芯片和油价上涨推动全球通胀担忧**
-  English: A new era of global inflation may be looming as rising memory chip prices and surging oil costs exert significant upward pressure on product prices worldwide. U.S. automaker General Motors reported an expected $2 billion increase in costs this year due to higher semiconductor prices. Similarly, tech giants like Apple, Nintendo, and Sony have already raised or are preparing to raise product prices. Concurrently, international oil prices have climbed, with Brent crude nearing $91 per barrel, fueled by escalating Middle East tensions and threats of a Red Sea blockade, further exacerbating inflation concerns.
-  中文：总结：随着存储芯片价格上涨和原油成本飙升，全球产品价格面临显著上行压力，预示着全球通胀新时代的到来。通用汽车预计今年成本将增加20亿美元，苹果、任天堂和索尼等科技公司也已提高或准备提高产品价格。同时，受中东紧张局势和红海封锁威胁影响，国际油价上涨，布伦特原油接近每桶91美元，进一步加剧了通胀担忧。
-  📰 [Seoul Economic Daily](https://www.google.com/search?q=global)
+- **[2026.07.22] Crude Oil — 油价因中东紧张局势加剧而飙升**
+  English: Crude oil prices surged significantly on Wednesday, with Brent crude rising to $93.07 a barrel and WTI crude jumping to $88.64 a barrel. The sharp increase was attributed to escalating tensions in the Middle East, particularly ongoing US-Iran conflicts and threats to key shipping routes, which intensified fears of global oil supply disruptions. This geopolitical backdrop is a major factor for market volatility.
+  中文：总结：周三原油价格大幅上涨，布伦特原油升至每桶93.07美元，WTI原油跳涨至每桶88.64美元。此轮涨势主要源于中东地区紧张局势升级，尤其是美国与伊朗的持续冲突以及对关键航运路线的威胁，加剧了全球石油供应中断的担忧。地缘政治背景是市场波动的主要因素。
+  📰 [TipRanks](https://www.tipranks.com/news/stock-market-news-today-7-22-26-futures-slip-as-oil-jumps-alphabet-tesla-earnings-ahead)
 
-- **[2026.07.22] 比特币 — 比特币突破6.6万美元，ETF资金流入恢复**
-  English: Bitcoin climbed above $66,000 on July 21, reaching a two-week high of $66,659.4, as institutional demand showed signs of recovery with steady inflows into spot Bitcoin ETFs. This rebound follows a period of significant losses for the cryptocurrency market earlier in 2026. While the recovery in ETF inflows and Bitcoin's price movement are encouraging, broader tensions stemming from the U.S.-Iran conflict continue to limit overall gains and maintain a cautious sentiment within the crypto sector.
-  中文：总结：7月21日，比特币价格突破6.6万美元，达到两周高点66,659.4美元，主要受机构需求复苏和现货比特币ETF资金持续流入的推动。尽管比特币和ETF资金流入有所恢复，但美国与伊朗冲突带来的更广泛紧张局势仍在限制加密货币市场的整体涨幅，并维持该行业的谨慎情绪。
-  📰 [Investing.com](https://www.google.com/search?q=global)
-
-- **[2026.07.22] 黄金 — 国际金价在4060美元上方运行**
-  English: Gold prices on the morning of July 22, 2026, remained above $4,060 per ounce, reaching $4,063.8 USD/ounce, an increase of $26.11 USD/ounce compared to the previous day. This upward trend is supported by expectations of a potential ceasefire agreement between the U.S. and Iran, which could alleviate pressure on energy prices and inflation. Commerzbank considers the $4,000/ounce mark a crucial support level, though the possibility of a Federal Reserve interest rate hike in September could temper the precious metal's near-term recovery.
-  中文：总结：2026年7月22日上午，国际金价维持在每盎司4,060美元上方，达到4,063.8美元/盎司，较前一日上涨26.11美元。这一上涨趋势受到美国与伊朗可能达成停火协议的预期支撑，这有望缓解能源价格和通胀压力。尽管如此，美联储9月加息的可能性可能会限制黄金的近期复苏。
-  📰 [Báo Nghệ An](https://www.google.com/search?q=global)
-
-- **[2026.07.22] 生产者物价指数 — 韩国生产者物价指数因油价和芯片上涨而飙升**
-  English: South Korea's producer price index (PPI) surged by 8.6% in the last month compared to the same period last year, marking the highest level since July 2022. This significant increase, reported by the Bank of Korea on July 22, 2026, was primarily driven by a 13.4% rise in energy prices and a 13.3% jump in IT items, including semiconductors. The ripple effects of rising global oil prices, exacerbated by geopolitical tensions, and skyrocketing semiconductor demand due to the AI boom, are fueling concerns about broader inflationary pressures.
-  中文：总结：韩国生产者物价指数（PPI）上月同比飙升8.6%，创下2022年7月以来的最高水平。韩国央行于2026年7月22日报告称，此次显著增长主要由能源价格上涨13.4%和包括半导体在内的IT产品价格上涨13.3%推动。全球油价上涨以及人工智能繁荣带来的半导体需求激增，正在加剧对更广泛通胀压力的担忧。
-  📰 [Shinyoung Kim](https://www.google.com/search?q=global)
-
-- **[2026.07.22] 匈牙利央行 — 匈牙利央行降息25个基点**
-  English: The Monetary Council of the Magyar Nemzeti Bank (MNB), Hungary's central bank, decided on July 21, 2026, to cut its central bank base rate by 25 basis points to 5.75%, effective July 22, 2026. This decision, following a review of economic and financial developments, also saw adjustments to the overnight central bank deposit rate and the overnight collateralized loan rate. Global investor sentiment continues to be influenced by geopolitical developments in the Middle East, with markets expecting both the European Central Bank and the Federal Reserve to hike interest rates once before year-end, while the Bank of Japan may also continue its rate hikes.
-  中文：总结：匈牙利国家银行（MNB）货币委员会于2026年7月21日决定，将央行基准利率下调25个基点至5.75%，自2026年7月22日起生效。此次降息是在审查最新经济和金融发展后作出的。全球投资者情绪仍受中东地缘政治发展影响，市场预计欧洲央行和美联储将在年底前各加息一次，日本央行也可能继续加息。
-  📰 [MNB.hu](https://www.google.com/search?q=global)
+- **[2026.07.22] Bitcoin & ETF — 比特币在宏观风险下保持稳定，ETF资金流入持续**
+  English: Bitcoin held steady around $66,000 on Wednesday, despite rising oil prices and escalating US-Iran tensions contributing to broader macroeconomic risks. ETF inflows remained resilient, with net inflows of $75.5 million, suggesting continued institutional interest. Market-makers are reportedly keeping BTC range-bound between $65,000 and $72,000, indicating a transition phase for the cryptocurrency as it navigates macro headwinds.
+  中文：总结：周三比特币价格稳定在66,000美元左右，尽管油价上涨和美伊紧张局势加剧了宏观经济风险。比特币ETF资金流入保持韧性，净流入7550万美元，显示机构兴趣持续。市场庄家据称将比特币维持在65,000美元至72,000美元区间，表明该加密货币在应对宏观逆风时正处于过渡阶段。
+  📰 [Hubbis](https://www.hubbis.com/article/hubbis-partners-with-independent-reserve-to-bring-you-weekly-crypto-news-and-market-trends-bitcoin-holds-steady-as-oil-surges-and-us-iran-tensions-escalate)
 
 ---
 ※Stock Market Daily Digest | 2026.07.22
