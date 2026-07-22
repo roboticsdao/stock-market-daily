@@ -7,104 +7,107 @@
 
 ## 🇺🇸 美国股市 / US Market
 
-Here are 6 recent news items regarding the US Market for July 23, 2026:
+以下是关于美国股市的8条最新消息：
 
-- **[2026.07.23] US Market — 市场关注科技股财报与美联储政策**
-  English: US stock markets are poised for a cautious opening on July 23, as investors digest a flurry of corporate earnings reports and continue to monitor the Federal Reserve's stance on interest rates. While some tech giants like Tesla reported after market close on July 22, setting the tone, the broader market remains sensitive to inflation data and geopolitical developments. Initial jobless claims data released today will offer fresh insights into labor market health, influencing overall market sentiment. Analysts suggest a mixed outlook, with strong earnings potentially offsetting concerns about tighter monetary policy.
-  中文：总结：美国股市在7月23日开盘前表现谨慎，投资者正在消化一系列公司财报并密切关注美联储的利率政策。尽管部分科技巨头如特斯拉已于7月22日收盘后公布财报，为市场定下基调，但整体市场仍对通胀数据和地缘政治发展保持敏感。今日公布的初请失业金人数将提供劳动力市场健康状况的新见解，从而影响整体市场情绪。分析师预计市场前景喜忧参半，强劲的财报可能抵消对货币政策收紧的担忧。
+- **[2026.07.23] Nasdaq — 纳斯达克第二季度财报前瞻**
+  English: Wall Street anticipates Nasdaq to report robust second-quarter results on July 23 before market open, with analysts forecasting $0.98 EPS on $1.46 billion revenue. Sentiment has become more bullish, with the consensus EPS estimate climbing 2.1% over the past 90 days. The stock's performance will be closely watched for any deviation from these tightly clustered estimates, as exchange operators benefit from market electronification and growth in index products.
+  中文：华尔街预计纳斯达克将于7月23日市场开盘前公布强劲的第二季度财报，分析师普遍预期每股收益0.98美元，营收14.6亿美元。市场情绪趋于乐观，共识EPS在过去90天内上升了2.1%。该股表现将受到密切关注，以判断是否偏离预期，因交易所运营商受益于市场电子化和指数产品增长。
+  📰 [Alphastreet](https://alphastreet.com/news/nasdaq-q2-2026-earnings-preview-july-23-street-expects-0-98-eps/)
 
-  📰 [Schwab Market Update](https://www.google.com/search?q=US)
+- **[2026.07.23] Intel — 英特尔第二季度财报发布**
+  English: Intel is set to release its Q2 2026 earnings report after market close on Thursday, July 23. Analysts expect $14.4 billion in revenue and $0.22 non-GAAP EPS. Key areas of focus include maintaining 39% gross margins and Data Center segment performance. Recent partnerships with Apple and Microsoft for Intel Foundry's 18A process, alongside 18A-P entering risk production, signal potential long-term growth, making this report crucial for investor sentiment.
+  中文：英特尔将于7月23日周四市场收盘后发布2026年第二季度财报。分析师预计营收144亿美元，非GAAP每股收益0.22美元。关注重点包括保持39%的毛利率和数据中心部门表现。与苹果、微软在18A工艺上的合作以及18A-P进入风险生产，预示着长期增长潜力，使这份报告对投资者情绪至关重要。
+  📰 [TradingKey](https://tradingkey.com/intel-intc-price-forecast-two-days-from-earnings-317-yoy-gain-12-options-swing/)
 
-- **[2026.07.23] Nasdaq Inc. / Dario — 纳斯达克公司公布财报，Dario完成股票发行**
-  English: Nasdaq Inc. is expected to report its Q2 2026 earnings before market open on July 23, with Wall Street anticipating $0.98 EPS on revenue of $1.46 billion, reflecting continued growth momentum. Meanwhile, Dario, a digital therapeutics company, announced the closing of its $23.5 million registered direct offering of common stock today, priced at-the-market under Nasdaq rules. This offering, with participation from existing and new institutional investors, aims to bolster Dario's working capital and support strategic initiatives, including investments and potential acquisitions.
-  中文：总结：纳斯达克公司预计于7月23日市场开盘前公布2026年第二季度财报，华尔街预期每股收益为0.98美元，营收达14.6亿美元，显示出持续的增长势头。与此同时，数字疗法公司Dario宣布今日完成2350万美元的普通股注册直接发行，此次发行根据纳斯达克规则以市价定价，旨在增强公司营运资金并支持包括投资和潜在收购在内的战略举措。
+- **[2026.07.23] S&P 500 — 标普500及科技股财报展望**
+  English: The S&P 500 is nearing the end of a bullish seasonal window, which closes on July 23, coinciding with major technology earnings. Wall Street futures edged lower as caution built ahead of these Big Tech reports, which are seen as a major test for the AI-driven rally. Investors will scrutinize cloud growth, AI monetization, margins, and capital expenditure guidance to determine if elevated valuations are justified.
+  中文：标普500指数正接近牛市季节性窗口的尾声，该窗口将于7月23日随着主要科技公司财报的发布而关闭。华尔街股指期货在大型科技公司财报前小幅走低，市场情绪谨慎。投资者将密切关注云增长、AI变现、利润率和资本支出指引，以判断高估值是否合理。
+  📰 [InvestorPlace](https://investorplace.com/2026/07/july-is-historically-strong-what-comes-next-is-the-problem/)
 
-  📰 [Alphastreet](https://www.google.com/search?q=US)
+- **[2026.07.23] Fed — 美联储利率展望保持稳定**
+  English: The Federal Reserve is widely expected to keep interest rates steady for the remainder of 2026, with a Reuters poll indicating a low probability of a rate cut at the upcoming July 29 meeting. Traders are pricing in over a 70% chance of no change. This outlook, influenced by sticky inflation and a resilient job market, suggests a hawkish stance will persist, impacting overall market sentiment and investor decisions on July 23.
+  中文：美联储预计将在2026年剩余时间维持利率不变，路透调查显示7月29日会议降息的可能性很低，交易员认为维持不变的几率超过70%。受通胀粘性和就业市场韧性影响，这种鹰派展望将持续，影响7月23日整体市场情绪和投资者决策。
+  📰 [WTVB](https://wtvb.com/news/articles/2026/jul/22/wall-st-futures-edge-lower-as-caution-builds-ahead-of-big-tech-earnings/)
 
-- **[2026.07.23] Federal Reserve — 美联储7月降息可能性微乎其微，市场关注未来加息路径**
-  English: The Federal Reserve's July 29 meeting is unlikely to result in a rate cut, with futures trading indicating a 0% chance. Instead, market participants are increasingly pricing in a potential rate hike by September, with a 64% probability. Fed Chair Kevin Warsh's recent comments reaffirming the focus on bringing inflation down, coupled with May's CPI rising 4.2% year-over-year, suggest a hawkish stance. Investors are closely watching economic data, particularly initial jobless claims today, for further clues on the Fed's monetary policy trajectory.
-  中文：总结：美联储在7月29日的会议上降息的可能性微乎其微，期货交易显示降息几率为0%。相反，市场参与者越来越倾向于预计9月可能加息，概率为64%。美联储主席Kevin Warsh近期重申将重点放在降低通胀的言论，加上5月份CPI同比上涨4.2%，表明美联储持鹰派立场。投资者正密切关注经济数据，特别是今日的初请失业金人数，以获取美联储货币政策走向的进一步线索。
+- **[2026.07.23] Microsoft — 微软股价7月23日预测**
+  English: Microsoft's stock is forecast to reach $396.33 on July 23, 2026. Analysts anticipate negative dynamics with possible volatility of 3.006%. Despite short-term fluctuations, Microsoft's Azure and AI segments continue to drive strong fundamentals, with Azure revenue growing 40% year-over-year in Q3 2026 and AI annual run rate surging 123% to $37 billion, reinforcing its leadership in cloud computing and AI.
+  中文：微软股价预计在2026年7月23日达到396.33美元，分析师预计可能出现3.006%的负面波动。尽管短期波动，微软的Azure和AI业务持续推动强劲基本面，Azure在2026年第三季度营收同比增长40%，AI年化收入飙升123%至370亿美元，巩固了其在云计算和AI领域的领导地位。
+  📰 [PandaForecast.com](https://pandaforecast.com/microsoft-msft-stock-forecast)
 
-  📰 [The Motley Fool](https://www.google.com/search?q=US)
+- **[2026.07.23] Apple — 苹果股价7月23日预测**
+  English: Apple's stock price is forecast to be around $329 on Thursday, July 23, with a potential range between $303 and $355. The stock closed the previous day at $327.74, showing a positive trend over the past 7 and 30 days. Analysts maintain a "Buy" consensus for AAPL, with a primary target of $330.00, driven by strong customer loyalty, growing services revenue, and ongoing AI integration efforts.
+  中文：苹果股价预计在7月23日周四约为329美元，波动区间可能在303至355美元之间。该股前一交易日收于327.74美元，过去7天和30天均呈上涨趋势。分析师对AAPL维持“买入”共识，主要目标价为330.00美元，这得益于强大的客户忠诚度、不断增长的服务收入以及持续的AI整合努力。
+  📰 [30 Rates](https://30rates.com/apple-stock-price-forecast-tomorrow-week-2026-2027)
 
-- **[2026.07.23] Apple / NVIDIA — 苹果超越英伟达成为全球市值最高公司，科技股板块轮动加剧**
-  English: Apple has reclaimed its position as the world's most valuable company, surpassing NVIDIA, amidst a significant rotation within the technology sector. This shift, which occurred around mid-July, sees investors moving away from high-spending AI infrastructure companies and towards those with strong product pipelines and established ecosystems. HSBC recently upgraded Apple, citing its robust hardware roadmap and enhanced AI capabilities. Conversely, NVIDIA's shares have faced pressure due to concerns about peak AI infrastructure spending and new competitive AI models from China.
-  中文：总结：苹果公司已超越英伟达，重新夺回全球市值最高公司的宝座，这标志着科技行业内部正在经历显著的板块轮动。此次转变发生在7月中旬左右，投资者正从高投入的AI基础设施公司转向拥有强大产品线和成熟生态系统的公司。汇丰银行近期上调了苹果评级，理由是其稳健的硬件路线图和增强的AI能力。相反，英伟达的股价则因对AI基础设施支出见顶以及来自中国的新竞争性AI模型的担忧而承压。
+- **[2026.07.23] Amazon — 亚马逊股价7月23日预测**
+  English: Amazon's stock is predicted to be around $248.87 on July 23, 2026, with a slight positive change expected. While the company's Q2 earnings report is scheduled for July 30, analysts view Amazon as a strong buying opportunity due to its robust position in the AI race, primarily driven by Amazon Web Services (AWS). AWS revenue reacceleration and significant AI capital expenditures are key catalysts for its long-term growth.
+  中文：亚马逊股价预计在2026年7月23日约为248.87美元，预计将有小幅上涨。尽管公司第二季度财报定于7月30日发布，但分析师认为亚马逊是强劲的买入机会，主要得益于亚马逊网络服务（AWS）在AI竞争中的强大地位。AWS营收加速增长和大规模AI资本支出是其长期增长的关键催化剂。
+  📰 [CoinCodex](https://coincodex.com/stock/amzn/price-prediction/)
 
-  📰 [Advisor Perspectives](https://www.google.com/search?q=US)
-
-- **[2026.07.23] Tesla — 特斯拉Q2财报后股价波动，AI投资成关注焦点**
-  English: Tesla's stock is experiencing volatility on July 23 after the electric vehicle maker reported its Q2 2026 earnings after market close on July 22. While delivery volumes were pre-announced, investor focus has shifted to automotive margins, capital spending, and management's outlook on autonomy and full-year guidance. Analysts had anticipated adjusted EPS between $0.50 and $0.54 on revenues of $25.7 billion to $25.8 billion. The company's significant investments in artificial intelligence and robotics are under scrutiny, with questions arising about when these expenditures will yield substantial returns.
-  中文：总结：特斯拉股价在7月22日收盘后公布2026年第二季度财报后，于7月23日出现波动。尽管交付量已提前公布，但投资者的关注点已转向汽车利润率、资本支出以及管理层对自动驾驶和全年业绩指引的展望。分析师此前预计调整后每股收益在0.50至0.54美元之间，营收为257亿至258亿美元。该公司在人工智能和机器人技术方面的巨额投资正受到密切关注，投资者质疑这些支出何时能产生可观回报。
-
-  📰 [TipRanks.com](https://www.google.com/search?q=US)
-
-- **[2026.07.23] Microsoft / Amazon — 微软与亚马逊财报前瞻，云服务与AI增长备受期待**
-  English: As July 23 unfolds, investors are keenly awaiting upcoming earnings reports from tech giants Microsoft and Amazon, scheduled for later in the month. Microsoft is set to release its Q4 2026 results on July 30, with analysts forecasting EPS of $4.24. The market is particularly interested in the continued surge in AI and cloud services, following Microsoft Cloud revenue reaching $54.5 billion in Q3. Similarly, Amazon, reporting on July 30, is expected to provide updates on AWS performance and AI progress, with its shares trading 8% below their early May peak, presenting a potential buying opportunity for long-term investors.
-  中文：总结：7月23日，投资者正密切关注科技巨头微软和亚马逊将于本月晚些时候公布的财报。微软定于7月30日发布2026财年第四季度业绩，分析师预计每股收益为4.24美元。市场尤其关注其AI和云服务的持续增长，此前微软云业务在第三季度营收达到545亿美元。同样，亚马逊也将在7月30日公布财报，预计将更新AWS业绩和AI进展，目前其股价较5月初峰值下跌8%，为长期投资者提供了潜在的买入机会。
-
-  📰 [IG SG](https://www.google.com/search?q=US)
+- **[2026.07.23] NVIDIA — 英伟达AI地位与估值展望**
+  English: NVIDIA's stock is currently grappling with technical resistance, but Goldman Sachs views its forward P/E of 21.7 times as attractive, close to the S&P 500 average and well below its five-year average of 72x. This valuation is compelling given major cloud providers are increasing AI infrastructure investments, with hyperscaler AI capex projected to rise significantly from $650 billion in 2026 to $1 trillion in 2027, underscoring NVIDIA's pivotal role.
+  中文：英伟达股价目前正面临技术阻力，但高盛认为其21.7倍的远期市盈率具有吸引力，接近标普500平均水平，远低于其五年平均72倍。考虑到主要云提供商正在增加AI基础设施投资，超大规模AI资本支出预计将从2026年的6500亿美元大幅增至2027年的1万亿美元，这凸显了英伟达的关键作用，使其估值更具吸引力。
+  📰 [TradingKey](https://tradingkey.com/nvidia-nvda-stock-price-forecast-july-2026-goldman-says-21-7x-is-compelling-after-kyber-delay-denied/)
 
 ## 🇯🇵 日本株式市場 / Japan Market
 
-- **[2026.07.23] 日経225先物 — 23日早朝は堅調な動き**
-  日本語：2026年7月23日0時現在、大阪取引所の日経225先物期近9月限は前日比140円高の6万6210円と大幅高で推移しており、日経平均株価の現物終値6万6115.6円に対しては94.40円高となっている。これは23日の東京株式市場が堅調なスタートを切る可能性を示唆している。一方、TOPIX先物期近は前日比13.5ポイント安の4027ポイントで推移しており、日経平均先物とは異なる動きを見せている。出来高は日経225先物が6175枚、TOPIX先物が10011枚となっている。市場は前日の米国市場の動きや、本日発表される主要企業の決算に注目している。
-  中文：截至2026年7月23日0时，大阪交易所日经225股指期货9月合约较前一日上涨140日元，报66210日元，比日经平均指数现货收盘价66115.6日元高出94.40日元。这预示着23日东京市场有望高开。然而，TOPIX股指期货则下跌13.5点至4027点，显示不同指数间走势分化。市场正密切关注前一晚美国市场的表现以及今日即将公布的重要企业财报。
-  📰 [株探](https://kabutan.jp/news/market/202607230000_1)
+- **[2026.07.23] 日経225先物 — 23日早朝、日経225先物は上昇、本日の市場は高値警戒感も**
+  日本語：2026年7月23日早朝の大阪取引所における日経225先物9月限は、前日比140円高の6万6210円と大幅高で推移しました。これは、前日の米国市場でのハイテク株高を受けた買い安心感が東京市場にも波及し、日経平均株価の現物終値6万6115.6円に対して94.40円高を示唆しています。本日の東京市場は高く始まる見込みですが、一部の市場予測では、日経平均が66,500円から67,900円を中心に推移しつつも、68,000円前後では利益確定売りが増加する可能性が指摘されており、短期的な上値の重さには警戒が必要です。特に、半導体関連株の動向が市場全体のセンチメントを左右する重要な要素となるでしょう。
+  中文：总结：2026年7月23日早盘，大阪交易所日经225股指期货9月合约大幅上涨140日元至66210日元，预示东京股市将受隔夜美股科技股上涨提振而高开。然而，市场预测日经指数在66,500至67,900日元区间波动，并可能在68,000日元附近遭遇获利回吐压力。投资者需关注半导体相关股票的表现，这可能成为影响市场情绪的关键因素。
+  📰 [株探](https://kabutan.jp/news/market/202607230000_2)
 
-- **[2026.07.23] 日本市場予測 — 米国市場と決算に注目**
-  日本語：2026年7月23日の東京市場は、米国市場の堅調な動きを受けて高く始まるか、あるいは米巨大テクノロジー企業の決算内容を見極めるために小動きで始まる可能性が予測されている。日経平均は66,500円から67,900円を中心に推移すると見られており、短期的には上向きの傾向にあるものの、68,000円前後では利益確定売りが増加する可能性があるため注意が必要だ。原油価格の高止まりと米国巨大テクノロジー企業の決算発表待ちが上値を抑制する一方で、円安基調は日本の輸出関連株にとって引き続き追い風となる見込みである。
-  中文：预测2026年7月23日东京市场可能受美国市场上涨影响高开，或因等待美国大型科技公司财报而小幅波动。日经平均指数预计在66,500至67,900日元区间波动，短期趋势向上，但在68,000日元附近可能面临获利回吐压力。油价高企和美国科技巨头财报是市场上涨的制约因素，而日元贬值则支撑出口相关股票。投资者需关注财报结果及地缘政治风险。
-  📰 [note](https://note.com/k_k_k_k_k/n/n251703135c34)
+- **[2026.07.23] 円安 — 消費者関連株に下落圧力、輸出株は堅調**
+  日本語：2026年7月22日の東京市場では、円が約40年ぶりの安値水準に迫る中、日本の消費者関連企業の株価が全般的に下落しました。輸入コストの上昇と個人消費の鈍化が懸念され、ニトリホールディングスやファーストリテイリング、ラウンドワンなどの小売・レジャー株に売りが集まりました。一方で、円安は輸出関連株やテクノロジー株には追い風となり、日経225指数は約1%上昇するなど、市場全体の上昇を牽引しました。この傾向は23日も続く可能性があり、内需と外需で明暗が分かれる展開が予想されます。
+  中文：总结：2026年7月22日，日元逼近40年低点，导致日本消费者相关股票普遍下跌，零售和休闲股因进口成本上升和个人消费疲软而承压。然而，日元贬值利好出口和科技股，推动日经225指数上涨约1%。预计此趋势在23日仍将持续，内需和外需板块表现将出现分化。
+  📰 [Investing.com](https://jp.investing.com/news/stock-market-news/article-904149)
 
-- **[2026.07.23] ディスコ他 — 主要企業の決算発表が予定**
-  日本語：2026年7月23日には、半導体製造装置大手であるディスコ（6146）を含む7社が四半期決算を発表する予定であり、特にディスコの決算は市場から「注目決算」として高い関心を集めている。同社の業績は、最近の半導体関連株の動向に大きな影響を与える可能性があるため、投資家は結果を注視するだろう。その他、未来工業（7931）、ナガセ（9733）、サーティワン（2268）、信越ポリマー（7970）、ＳＥＨＩ（9478）、ＫＯＡ（6999）などが決算発表を控えており、個別銘柄の動きに影響を与える可能性がある。
-  中文：2026年7月23日，包括半导体制造设备巨头迪斯科（6146）在内的7家公司将发布季度财报。迪斯科的财报尤其受到市场高度关注，其业绩可能对近期半导体相关股票的走势产生显著影响。此外，未来工业（7931）、纳加塞（9733）、31冰淇淋（2268）、信越聚合物（7970）、SEHI（9478）和KOA（6999）等公司也将发布财报，这些都可能影响各自股票的表现。
-  📰 [株探](https://kabutan.jp/news/market/202607220000_18)
+- **[2026.07.23] 半導体関連株 — 急落からの反発、ディスコ決算に注目**
+  日本語：2026年7月22日の東京株式市場では、前日の米国ハイテク株高を受け、AI・半導体関連株が急落からの反発を見せ、日経平均を押し上げました。アドバンテストや東京エレクトロンなどが上昇し、半導体セクター全体の回復期待が高まっています。しかし、今回の上昇が本格的なトレンド転換か、一時的なリバウンドかは見極めが必要とされています。特に、本日23日には半導体製造装置メーカーのディスコ（6146）が決算発表を予定しており、その内容が今後の半導体関連株の方向性を左右する重要な材料として注目されています。
+  中文：总结：2026年7月22日，受美股科技股上涨提振，日本AI和半导体相关股票从近期暴跌中反弹，推动日经指数走高。然而，此次反弹是否为趋势逆转仍需观察。今日（23日）半导体制造设备商迪斯科（6146）将发布财报，其业绩内容将成为影响半导体板块未来走势的关键因素。
+  📰 [EBC Financial Group](https://www.ebc.com/jp/news/market/20260722-japan-stock-market-semiconductor-rebound)
 
-- **[2026.07.23] AI・半導体株 — アルファベット決算が日本市場に影響**
-  日本語：日本時間2026年7月23日早朝に発表されるグーグル親会社アルファベット（GOOG）の決算は、日本のAI・半導体関連株の今後の動向を左右する極めて重要な鍵となる。市場がAIビジネスが巨額投資に見合う収益を生み出していると確信できれば、最近のAI株の急落が一服し、買い戻しが進む可能性がある。先週はAI株が大幅に下落したが、半導体製造装置メーカーのアドバンテストや東京エレクトロン、そして本日決算発表のディスコなど、一部の銘柄が反転上昇を先導する可能性も指摘されており、その動向が注目される。
-  中文：谷歌母公司Alphabet（GOOG）的财报将于日本时间2026年7月23日凌晨公布，这将是决定日本AI和半导体相关股票未来走势的关键因素。如果市场确信AI业务能产生与巨额投资相符的收益，近期AI股票的跌势可能会暂停并迎来反弹。尽管上周AI股票大幅下跌，但有观点指出，半导体制造设备制造商如爱德万测试、东京电子以及今日发布财报的迪斯科等公司可能引领反弹。
-  📰 [トウシル 楽天証券の投資情報メディア](https://media.rakuten-sec.net/articles/-/44627)
+- **[2026.07.23] トヨタ自動車 — 円安と半導体からの資金シフトで注目**
+  日本語：トヨタ自動車（7203）は、2026年3月期の連結決算で売上高が日本企業として初めて50兆円を超えましたが、米国の関税措置や中東情勢の影響で営業利益は減益となりました。しかし、足元では円安による業績への好影響や、最近のAI・半導体関連銘柄からの資金移動先として注目が集まっています。市場では、トヨタの堅調な販売実績と、国際政治リスクへの対応力が引き続き評価されており、今後の為替動向や地政学リスクの進展が株価に与える影響が注視されています。
+  中文：总结：丰田汽车（7203）在2026年3月财年实现营收突破50万亿日元，创日本企业新高，但受美国关税和中东局势影响，营业利润有所下降。当前，日元贬值对业绩的积极影响以及资金从AI和半导体板块流向丰田的趋势受到市场关注。投资者正密切关注汇率和地缘政治风险对丰田股价的持续影响。
+  📰 [Yahoo!ファイナンス](https://finance.yahoo.co.jp/quote/7203.T/bbs)
+
+- **[2026.07.23] 日本銀行 — 7月会合での政策金利据え置き観測**
+  日本語：日本銀行は、7月30日から31日に開催される金融政策決定会合において、政策金利を現在の1.0％に据え置く方針を固めたと報じられています。6月に31年ぶりの利上げを実施したばかりであり、企業活動や家計への影響を慎重に見極める期間に入っているためです。AI関連需要の拡大を背景に、2026年度の実質GDP成長率見通しは上方修正される公算が大きいものの、当面は金融政策の大きな変更はないとの見方が市場のコンセンサスとなっています。
+  中文：总结：据报道，日本央行已决定在7月30日至31日的货币政策会议上维持政策利率在1.0%不变。鉴于6月刚实施31年来的首次加息，央行正谨慎评估其对企业和家庭的影响。尽管AI需求扩大可能促使2026财年实际GDP增长预期上调，但市场普遍认为短期内货币政策不会有重大调整。
+  📰 [Bloomberg](https://www.bloomberg.co.jp/news/articles/2026-07-17/S7F000T0AFB401)
+
+- **[2026.07.23] 新規株式公開 (IPO) — ティアフォー、上場初値が公開価格を下回る**
+  日本語：2026年7月22日に東証グロース市場に上場した自動運転ソフトウェア開発のティアフォー（593A）は、公開価格1,085円に対し、初値が1,009円と公開価格を7%下回る結果となりました。これは、IPO市場における投資家の慎重な姿勢を示唆しており、特にグロース市場銘柄への評価が厳しくなっている可能性があります。今後のIPO銘柄においても、事業内容や成長戦略だけでなく、市場の需給状況が初値形成に大きく影響すると考えられます。
+  中文：总结：2026年7月22日在东京证券交易所Growth市场上市的自动驾驶软件开发商Tier IV（593A），其首次公开募股（IPO）发行价为1,085日元，但开盘价仅为1,009日元，较发行价下跌7%。这表明投资者对IPO市场持谨慎态度，尤其对Growth市场股票的估值趋严。未来IPO股票的开盘价将不仅受业务内容和增长战略影响，市场供需状况也将是关键因素。
+  📰 [東京IPO](https://www.tokyoipo.com/ipo/schedule.php)
 
 ## 🌍 宏观经济与投资 / Macro & Investment
 
-以下是2026年7月23日关于宏观经济与投资的最新消息：
+Here are 6 recent news items regarding Macro & Investment, dated 2026.07.23:
 
-- **[2026.07.23] 欧洲央行 — 欧洲央行预计将维持利率不变**
-  English: The European Central Bank is widely anticipated to maintain its key interest rates at the July 23 meeting, following a 0.25 percentage point hike in June. Despite a rebound in oil prices and renewed geopolitical tensions clouding the inflation outlook, economists and traders largely expect a pause this month. However, market participants will closely scrutinize President Christine Lagarde's post-meeting press conference for any hawkish signals that could hint at a September rate increase, which is already largely priced into futures markets. The euro's near-term direction and German Bund yields could be influenced by her remarks.
-  中文：欧洲央行预计将在7月23日的会议上维持关键利率不变，此前6月已加息25个基点。尽管油价回升和地缘政治紧张局势使通胀前景蒙上阴影，但市场普遍预期本月将暂停加息。投资者将密切关注欧洲央行行长拉加德会后的新闻发布会，以寻找可能暗示9月加息的鹰派信号，这已在期货市场中基本消化。欧元走势和德国国债收益率可能受其言论影响。
-  📰 [Crypto Briefing](https://cryptobriefing.com/ecb-rate-decision-july-23-hawkish-hold/)
+- **[2026.07.23] US Macro — 美联储维持鹰派立场，通胀数据仍受关注**
+  English: The Federal Reserve's hawkish stance continues to dominate market sentiment, with the federal funds rate held steady at 3.50%-3.75% following the June FOMC meeting. Investors are closely watching for any shifts ahead of the upcoming July 29th meeting, as the latest June inflation data showed a slight easing to 3.5% annually, down from 4.2% in May, while core inflation also moderated to 2.6%. Despite this moderation, the Fed's projections suggest a potential for further rate increases in 2026, signaling a prolonged higher-rate environment to combat persistent price pressures.
+  中文：总结：美联储的鹰派立场持续主导市场情绪，联邦基金利率在6月FOMC会议后维持在3.50%-3.75%不变。市场正密切关注7月29日会议前的任何政策信号，尽管6月通胀数据显示年化通胀率从5月的4.2%降至3.5%，核心通胀也放缓至2.6%，但美联储的预测仍暗示2026年可能进一步加息，以应对持续的物价压力。
 
-- **[2026.07.23] 美国劳动力市场 — 市场关注美国初请失业金数据**
-  English: Traders are keenly awaiting the release of the US Initial Jobless Claims data on July 23, a key economic indicator that provides insights into the health of the American labor market. This data point is crucial for assessing economic momentum and could influence market sentiment regarding the Federal Reserve's future monetary policy decisions. A lower-than-expected number of claims would suggest a robust labor market, potentially reinforcing expectations for sustained economic growth, while a higher figure could signal a slowdown. Investors will integrate this data with other upcoming economic reports to gauge the Fed's next move.
-  中文：市场正密切关注7月23日公布的美国初请失业金数据，这一关键经济指标将揭示美国劳动力市场的健康状况。该数据对评估经济动能至关重要，并可能影响市场对美联储未来货币政策决定的预期。低于预期的申请人数可能表明劳动力市场强劲，支持经济持续增长的预期；而高于预期则可能预示经济放缓。投资者将结合其他即将发布的经济报告来判断美联储的下一步行动。
-  📰 [FXStreet](https://www.fxstreet.com/news/japanese-yen-tumbles-to-40-year-low-as-us-dollar-safe-haven-rush-deepens-202607211130)
+- **[2026.07.23] US Market — 科技巨头财报季开启，英特尔与Alphabet备受瞩目**
+  English: The US stock market is bracing for a pivotal day as major tech companies kick off their second-quarter earnings reports after market close. Intel (INTC) and Alphabet (GOOGL) are among the key players scheduled to release their results today, with analysts anticipating Intel to potentially surpass earnings estimates amid strong CPU demand driven by AI. The broader market, particularly the S&P 500, has shown some caution, with the S&P 500 Momentum Index recently entering correction territory, as investors weigh elevated valuations against the profitability of massive AI investments.
+  中文：总结：美国股市正迎来关键一天，多家科技巨头将在今日收盘后公布第二季度财报。英特尔（INTC）和Alphabet（GOOGL）是今日备受关注的公司，分析师预计英特尔有望凭借人工智能驱动的CPU强劲需求超出盈利预期。 随着投资者权衡高估值与AI投资的盈利能力，标普500动量指数近期已进入回调区间，显示大盘情绪谨慎。
 
-- **[2026.07.23] USD/JPY — 日元兑美元触及40年新低**
-  日本語：米ドル/円は7月22日に40年ぶりの高値に達し、7月23日もその動向が注目されている。これは主に米国と日本の金融政策の乖離、特に米連邦準備制度理事会（FRB）のタカ派的姿勢と日本銀行（BoJ）の慎重な金融引き締め策によるものだ。米国の高金利がドル建て資産の魅力を高め、キャリー取引を促進している。中東情勢の緊迫化による原油価格の高騰も、日本の貿易赤字拡大を通じて円安を加速させている。日銀による利上げや政府の介入警告にもかかわらず、市場は円の持続的な回復に懐疑的であり、今後も米国の経済データと日銀の動向が円相場を左右するだろう。
-  中文：美元兑日元在7月22日触及40年新高，7月23日其走势仍受关注。这主要源于美联储与日本央行货币政策的显著分歧，即美联储的鹰派立场与日本央行谨慎的紧缩政策。美国较高的利率增加了美元资产的吸引力，推动了套利交易。中东紧张局势导致的油价飙升也通过扩大日本贸易逆差加速了日元贬值。尽管日本央行加息并发出干预警告，市场对日元持续复苏持怀疑态度，未来日元走势将继续受美国经济数据和日本央行行动的影响。
-  📰 [FXStreet](https://www.fxstreet.com/news/usdjpy-hits-40-year-peak-amid-fed-boj-divergence-and-middle-east-tensions-202607221000)
+- **[2026.07.23] Global Macro — 地缘政治紧张局势加剧，国际油价飙升**
+  English: Global crude oil prices continued their upward trajectory, with Brent crude topping $93 a barrel on July 22nd, extending gains amid escalating tensions between the US and Iran. The ongoing US strikes on Iran and concerns over the security of critical shipping routes like the Strait of Hormuz are fueling supply risk premiums. This surge in oil prices is raising fears of renewed inflationary pressures and potential stagflation, prompting investors to closely monitor geopolitical developments and their impact on energy markets.
+  中文：总结：受美国与伊朗之间地缘政治紧张局势升级影响，国际原油价格持续上涨，布伦特原油在7月22日突破每桶93美元。 美国对伊朗的持续打击以及对霍尔木兹海峡等关键航运路线安全的担忧，正在推高供应风险溢价。 油价飙升引发了对通胀压力重燃和潜在滞胀的担忧，促使投资者密切关注地缘政治发展及其对能源市场的影响。
 
-- **[2026.07.23] 美国股市 — 科技巨头财报前美股情绪谨慎**
-  English: US stock markets are showing mixed sentiment as investors brace for a crucial week of Big Tech earnings reports, including Alphabet and Tesla. Concerns about the monetization of artificial intelligence investments are weighing on some tech stocks, despite the sector having driven much of Wall Street's recent rally. Geopolitical risks, such as new tariff threats from former President Donald Trump and ongoing uncertainty in the Middle East, are adding to caution. Higher energy costs are also complicating the Federal Reserve's policy path, contributing to a cautious outlook as bond yields remain a key focus.
-  中文：美国股市情绪复杂，投资者正为本周关键的科技巨头财报（包括Alphabet和特斯拉）做准备。尽管科技板块是近期华尔街上涨的主要动力，但对人工智能投资变现能力的担忧正给一些科技股带来压力。前总统唐纳德·特朗普的新关税威胁以及中东持续的不确定性等地缘政治风险，加剧了市场的谨慎情绪。能源成本上升也使美联储的政策路径复杂化，在债券收益率仍是焦点的情况下，市场前景趋于谨慎。
-  📰 [The Economic Times](https://economictimes.indiatimes.com/markets/stocks/news/us-stocks-mixed-as-caution-rises-ahead-of-big-tech-earnings/articleshow/1020260722.cms)
+- **[2026.07.23] Japan Market — 日元跌至40年新低，日本央行加息预期升温**
+  日本語：7月22日、日元は対米ドルで163円台に下落し、1986年12月以来約40年ぶりの安値を更新しました。 これは、前日発表された高市早苗内閣の「骨太の方針」で拡張的な財政スタンスが強調されたことや、中東情勢の不安定化に伴うドル買いが続いたことが背景にあります。 市場では、日本銀行が7月30-31日の金融政策決定会合で政策金利を1%に据え置くとの見方が強いものの、一部では市場予想よりも早い利上げの可能性も議論されていると報じられており、今後の日銀の動向に注目が集まっています。
+  中文：总结：7月22日，日元兑美元汇率跌至163日元区间，创下近40年新低。 这主要是由于日本政府强调扩张性财政政策以及中东地区不稳定导致美元持续走强。 尽管市场普遍预计日本央行将在7月底的政策会议上维持利率不变，但有报道称央行内部正在讨论比市场预期更快的加息方案，这使得投资者对日本央行的未来政策路径保持高度关注。
 
-- **[2026.07.23] 比特币/加密货币 — 比特币无视地缘政治和关税担忧**
-  English: Bitcoin has shown remarkable resilience, nearing a seven-week high despite escalating geopolitical tensions in the Middle East and renewed talks of international trade tariffs by former President Donald Trump. US spot Bitcoin ETFs recorded $727 million in inflows over five consecutive sessions, signaling a stabilization in institutional demand after a period of outflows. While rising oil prices due to the US-Iran conflict and potential tariffs typically suggest a "risk-off" environment, crypto traders appear to be interpreting these disruptions as temporary, maintaining a bullish stance. Iran's proposal to charge Strait of Hormuz tolls in Bitcoin also adds a unique macro dimension.
-  中文：尽管中东地缘政治紧张局势升级以及前总统唐纳德·特朗普再次提出国际贸易关税，比特币仍表现出显著韧性，接近七周高点。美国现货比特币ETF连续五个交易日流入7.27亿美元，表明在经历一段资金流出后，机构需求趋于稳定。虽然美伊冲突导致的油价上涨和潜在关税通常预示着“避险”环境，但加密货币交易者似乎将这些干扰解读为暂时性，保持看涨立场。伊朗提议以比特币收取霍尔木兹海峡通行费也增添了独特的宏观维度。
-  📰 [WalletInvestor.com](https://walletinvestor.com/news/bitcoin-etfs-pull-727-million-as-oil-prices-and-an-iran-toll-plan-shift-the-macro-picture-1002607211130)
+- **[2026.07.23] Crypto — 比特币ETF资金流入势头强劲，市场情绪回暖**
+  English: US spot Bitcoin ETFs have demonstrated robust performance, recording a sixth consecutive day of net inflows on July 22nd, accumulating approximately $930 million over the six-session streak. This sustained institutional interest has helped Bitcoin maintain its price above the $65,000 mark, signaling a potential stabilization and improvement in investor sentiment after a period of significant outflows in May and June. The consistent inflows, even amidst broader macro headwinds, suggest institutional allocators are making strategic positioning decisions.
+  中文：总结：美国现货比特币ETF表现强劲，7月22日录得连续第六个交易日净流入，六个交易日内累计流入资金约9.3亿美元。 这种持续的机构兴趣帮助比特币价格维持在65,000美元以上，预示着在5月和6月经历大量资金流出后，投资者情绪可能正在稳定并改善。 即使在全球宏观逆风下，持续的资金流入也表明机构投资者正在进行战略性配置。
 
-- **[2026.07.23] 全球宏观经济 — 中东冲突推高全球利率和通胀**
-  English: The ongoing conflict in the Middle East, particularly involving Iran, is significantly reshaping global monetary policy, leading central banks worldwide to prepare for a prolonged period of higher interest rates. This geopolitical instability is fueling inflation risks and contributing to tighter financial conditions across economies. The rebound in oil prices, driven by the conflict and the effective closure of the Strait of Hormuz, is a major factor pushing up headline inflation and bond yields. Policymakers are grappling with the challenge of containing these secondary inflation bumps while preserving central bank credibility amidst a complex global landscape.
-  中文：中东地区持续的冲突，特别是涉及伊朗的冲突，正在显著重塑全球货币政策，促使世界各国央行准备应对长期高利率时期。这种地缘政治不稳定正在加剧通胀风险，并导致各国经济的金融状况趋紧。冲突和霍尔木兹海峡的实际关闭推动油价反弹，是推高整体通胀和债券收益率的主要因素。政策制定者正努力应对在复杂全球格局下，遏制这些次生通胀冲击并维护央行信誉的挑战。
-  📰 [Business Insider](https://www.businessinsider.com/trump-middle-east-war-higher-global-interest-rates-inflation-2026-7)
-
-- **[2026.07.23] 日本央行 — 日本央行预计7月维持利率不变，债券收益率受关注**
-  日本語：日本銀行は7月の金融政策決定会合で政策金利を据え置く見通しだ。これは、政策担当者が経済の回復力に自信を深めている一方で、最近の利上げが経済に与える影響を慎重に見極める姿勢を示しているためである。しかし、市場では日本の長期国債利回りが数十年ぶりの高水準に達しており、これは持続的なインフレ、財政見通しへの懸念、そして政府経済政策の不確実性が複合作用した結果とされている。日銀は、もし利回りが急騰した場合、国債買い入れを強化するよう政府から圧力を受ける可能性があり、今後の原油価格動向も利上げ時期に影響を与えるだろう。
-  中文：日本央行预计将在7月的货币政策会议上维持利率不变。这表明政策制定者在对经济韧性增强抱有信心的同时，也正谨慎评估近期加息对经济的影响。然而，日本长期国债收益率已升至数十年高位，这被认为是持续通胀、对国家财政前景的担忧以及政府经济政策不确定性等多重因素综合作用的结果。如果收益率飙升，日本央行可能会面临政府加大债券购买的压力，而未来原油价格的走势也将影响其进一步加息的时机。
-  📰 [TradingView](https://www.tradingview.com/news/reuters:20260717:newsml_L4N3J60XJ:0-bank-of-japan-to-keep-interest-rates-unchanged-at-july-meeting-kyodo/)
+- **[2026.07.23] US Bond Market — 美国国债收益率持续攀升，市场关注未来利率路径**
+  English: US Treasury yields continued their ascent, with the 10-year Treasury note yield rising to 4.65% on July 22nd, marking an increase from the previous session. The 2-year Treasury yield also saw an uptick, reaching 4.261% on July 21st. This upward movement in bond yields reflects market expectations of a prolonged higher interest rate environment, influenced by the Federal Reserve's commitment to price stability and persistent inflationary pressures. Investors are closely monitoring these yields as they impact borrowing costs across the economy and the valuation of various asset classes.
+  中文：总结：美国国债收益率持续上升，10年期国债收益率在7月22日升至4.65%，较前一交易日有所增加。 2年期国债收益率在7月21日也升至4.261%。 债券收益率的这种上行趋势反映了市场对长期高利率环境的预期，这受到美联储对物价稳定承诺和持续通胀压力的影响。投资者正密切关注这些收益率，因为它们影响着整个经济的借贷成本和各类资产的估值。
 
 ---
 ※Stock Market Daily Digest | 2026.07.23
