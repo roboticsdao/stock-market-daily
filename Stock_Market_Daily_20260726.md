@@ -1,0 +1,92 @@
+# 📈 Stock Market Daily | 2026.07.26（日曜日 / Sunday）
+
+> ⚠ 本日报优先收录最近24小时的市场新闻、个股异动与当时市场快照；数据仅供参考，不构成投资建议。
+
+---
+
+
+## 🇺🇸 美国股市 / US Market
+
+Here are recent news items specifically about the US Market for July 26, 2026:
+
+- **[2026.07.26] Baker Hughes — 贝克休斯今日发布财报**
+  English: Baker Hughes (BKR) is scheduled to release its earnings report today, Sunday, July 26, 2026. As a major player in the oilfield services industry, its performance is closely watched for insights into the energy sector's health and broader economic trends. Investors will be looking at key metrics such as revenue, earnings per share, and future guidance to gauge demand for oil and gas services amidst ongoing market dynamics.
+  中文：总结：贝克休斯（BKR）定于今日，即2026年7月26日星期日发布财报。作为油田服务行业的巨头，其业绩备受关注，以洞察能源行业的健康状况和更广泛的经济趋势。投资者将关注营收、每股收益和未来指引等关键指标，以评估在当前市场动态下对石油和天然气服务的需求。
+  📰 [Investing.com](https://www.investing.com/earnings-calendar/)
+
+- **[2026.07.26] Amazon — 亚马逊FTC和解金索赔截止日期临近**
+  English: Eligible Amazon Prime members have until July 27, 2026, to file claims for refunds of up to $51 as part of Amazon's $2.5 billion settlement with the FTC. This serves as a timely reminder for consumers and highlights ongoing regulatory scrutiny faced by major tech companies, which can impact market sentiment and investor perception regarding future operational costs and compliance.
+  中文：总结：符合条件的亚马逊Prime会员可在2026年7月27日前提交索赔，以获得亚马逊与FTC达成的25亿美元和解金中的最高51美元退款。这提醒了消费者，并凸显了大型科技公司面临的持续监管审查，这可能影响市场情绪以及投资者对未来运营成本和合规性的看法。
+  📰 [Robinhood](https://robinhood.com/news/AMZN)
+
+## 🇯🇵 日本株式市場 / Japan Market
+
+- **[2026.07.26] 日本市場 — 周末市场展望：美伊协议进展将影响下周原油与股市走向**
+  日本語：2026年7月26日は週末のため、日米の現物株式市場は休場となる。市場は価格調整ではなく、材料の蓄積期間に入ると見られる。特に、米国とイランの協議進展が注目され、具体化すれば週明けは原油安・株高に、後退すれば原油高・ハイテク株安に動く可能性がある。現時点では外交協議と軍事的緊張が併存しており、週明けの市場は中立からやや警戒寄りの見通しだ。
+  中文：总结：2026年7月26日为周末，日美股市休市。市场将进入信息积累期，而非价格调整。美伊协议进展是关键，若协议具体化，下周油价或下跌、股市上涨；若协议受挫，则油价上涨、科技股下跌。当前外交与军事紧张并存，下周市场展望偏中性至谨慎。
+  📰 [note.com](https://www.google.com/search?q=Japan)
+
+- **[2026.07.26] 円相場 / 日銀政策 — 日元兑美元逼近164，下周美联储与日本央行会议成焦点**
+  日本語：来週（7月27日～31日）は米連邦公開市場委員会（FOMC）と日銀金融政策決定会合が集中し、為替市場の焦点となる。ドル円は一時163.988円まで上昇し、約40年ぶりの164円台が視野に入っている。中東情勢の緊迫化による原油高や日本の財政規律を巡る不透明感が円売りを促しており、日銀会合で円安基調に変化が生じるかが注目される。予想レンジは161.00～165.00円。
+  中文：总结：下周（7月27日-31日）美联储FOMC和日本央行货币政策会议将密集召开，成为外汇市场焦点。日元兑美元一度升至163.988日元，逼近40年来的164日元关口。中东局势紧张导致油价上涨，以及日本财政纪律的不确定性推动日元走软。日本央行会议能否改变日元贬值趋势备受关注。预计汇率区间为161.00-165.00日元。
+  📰 [外為どっとコム マネ育チャンネル](https://www.google.com/search?q=Japan)
+
+- **[2026.07.26] 日本銀行 — 日本央行7月会议料维持政策利率不变，以评估前期加息影响**
+  日本語：日本銀行は7月30日、31日に金融政策決定会合を開催する予定だが、政策金利である短期金利の誘導目標を1.0％程度に据え置く公算が大きい。内部では、6月の利上げが経済や物価情勢に与える影響を慎重に見極める必要性を指摘する意見が多数を占めているため、追加利上げには慎重な姿勢が示される見込みだ。
+  中文：总结：日本央行预计将于7月30日至31日召开货币政策会议，但短期政策利率目标很可能维持在1.0%左右不变。内部普遍认为，需要谨慎评估6月加息对经济和物价形势的影响，因此预计将对进一步加息持谨慎态度。
+  📰 [読売新聞](https://www.google.com/search?q=Japan)
+
+- **[2026.07.26] 日本株市場 — 野村证券预测日本股市将进一步上涨，TOPIX和日经指数目标上调**
+  日本語：野村證券は、日本株に対する強気な見方を維持しており、中東情勢の改善による業績下方リスクの後退とAI・半導体関連の業績上振れを受け、TOPIXの2026年末予想値を4,400、2027年末を4,800へと引き上げた。また、日経平均株価の2026年末予想値も79,000円、2027年末は86,000円に引き上げられ、さらなる上昇余地があると見込んでいる。
+  中文：总结：野村证券维持对日本股市的乐观展望，鉴于中东局势改善带来的盈利下行风险减弱以及AI/半导体相关业绩超预期，将TOPIX 2026年末目标价上调至4,400点，2027年末上调至4,800点。同时，日经平均指数2026年末目标价上调至79,000日元，2027年末上调至86,000日元，预计仍有进一步上涨空间。
+  📰 [NOMURA ウェルスタイル](https://www.google.com/search?q=Japan)
+
+- **[2026.07.26] TOPIX — 强劲业绩和逢低买入意愿支撑TOPIX，日本股市展现独特优势**
+  日本語：7月の日本株指数の騰落率を要因分解すると、韓国株の大幅安や原油高による株安圧力に対し、日本独自要因のプラスが特にTOPIXで目立っている。堅調な企業業績の上方修正、事業法人の買い越し基調、個人投資家の押し目買い意欲の強さなどが背景にあり、野村證券はTOPIXがこれらの材料に支えられ、高値更新を続けやすいと予想している。
+  中文：总结：分析7月日本股指涨跌幅的驱动因素，发现尽管面临韩国股市大跌和油价上涨带来的抛压，但日本特有因素对TOPIX的积极支撑尤为显著。这主要得益于企业盈利的强劲上修、企业法人持续买入以及个人投资者逢低买入的强烈意愿。野村证券预计，在这些因素的支撑下，TOPIX有望继续刷新高点。
+  📰 [NOMURA ウェルスタイル](https://www.google.com/search?q=Japan)
+
+- **[2026.07.26] 半導体株 / 市場センチメント — 上周日本股市受美半导体股拖累大跌，日元贬值与国债收益率上升并存**
+  日本語：7月24日の東京市場は、米国市場での半導体株の急落を受け、日経平均株価が一時2,000円を超える大幅な下げに見舞われた。東京エレクトロンなど値がさ半導体株が指数を大きく押し下げ、年初来の急上昇に対する利益確定売りが集中した形だ。一方で、円は163円台の円安圏に張り付き、日本10年債利回りも上昇を続けており、株安、円安、金利高が同時に進む神経質な市場環境が週末を控えていた。
+  中文：总结：7月24日东京股市受美国半导体股暴跌影响，日经平均指数一度大跌超过2,000日元。东京电子等高价半导体股大幅拖累指数，市场出现针对年初以来快速上涨的获利了结。同时，日元兑美元维持在163日元区间，日本10年期国债收益率持续上升，股市下跌、日元贬值和利率上升并存，市场在周末前表现出高度敏感性。
+  📰 [note.com](https://www.google.com/search?q=Japan)
+
+- **[2026.07.26] トヨタ — 丰田汽车销售额创新高但利润下降，市场关注美国关税影响及未来盈利能力**
+  日本語：トヨタ自動車は2026年3月期決算で売上高が初の50兆円超えと過去最高を記録したが、営業利益は前期比21.5%減の3兆7662億円と減益となった。市場は、米国関税による約1.4兆円の一過性の影響を減益の主因と見ており、本業の稼ぐ力は維持されていると評価。しかし、株価はPBR1倍割れで推移しており、先行きの不確実性や減益理由を慎重に見極める動きが続いている。次回の決算発表は8月4日の予定。
+  中文：总结：丰田汽车在2026年3月财年实现销售额首次突破50万亿日元，创历史新高，但营业利润同比下降21.5%至3.7662万亿日元。市场认为美国关税带来的约1.4万亿日元一次性影响是利润下降的主要原因，并评估其核心盈利能力保持不变。然而，股价仍低于市净率1倍，市场正谨慎评估未来的不确定性和利润下降的原因。下次财报发布预计在8月4日。
+  📰 [LIMO＆ファイナンス](https://www.google.com/search?q=Japan)
+
+- **[2026.07.26] ソニー — 索尼集团Q1财报前瞻：娱乐业务表现强劲，游戏业务受半导体短缺拖累**
+  日本語：ソニーグループは7月31日に2026年度第1四半期決算を発表する予定で、エンターテインメント3事業（映画、音楽、ゲーム）は好調さが確認される見通しだ。特に映画と音楽事業が牽引役となり増益が期待される一方、AIブームによるメモリ半導体不足がゲーム事業の重荷となっており、株価の本格的な回復には課題が残る。ドル円の円安水準はイメージセンサーを手掛ける半導体事業には追い風となっている。
+  中文：总结：索尼集团预计将于7月31日公布2026财年第一季度财报，预计其三大娱乐业务（电影、音乐、游戏）表现良好。电影和音乐业务有望推动利润增长，但AI热潮导致的内存半导体短缺仍是游戏业务的负担，股价的全面复苏面临挑战。日元贬值对图像传感器半导体业务构成利好。
+  📰 [IG](https://www.google.com/search?q=Japan)
+
+## 🌍 宏观经济与投资 / Macro & Investment
+
+- **[2026.07.26] Federal Reserve — 美联储加息预期升温**
+  English: The Federal Reserve is widely expected to maintain current interest rates at its upcoming July 28-29 meeting. However, persistent inflation pressures, exacerbated by surging oil prices, have significantly increased market expectations for a quarter-point rate hike by the September Federal Open Market Committee (FOMC) meeting. This shift reflects a more hawkish stance among policymakers, including Chairman Kevin Warsh, who have reiterated their commitment to achieving the 2% inflation target, signaling potential policy adjustments if price stability remains elusive.
+  中文：总结：尽管市场普遍预期美联储将在7月会议上维持利率不变，但持续的通胀压力和不断上涨的油价已显著提升了市场对9月加息的预期。美联储主席凯文·沃什等官员重申了实现2%通胀目标的决心，暗示若物价稳定未能实现，可能会调整政策，预示着货币政策的鹰派倾向。
+  📰 [Forbes](https://www.forbes.com/advisor/investing/fed-interest-rate-hike-july-meeting-experts-predict/)
+
+- **[2026.07.26] IMF — 国际货币基金组织下调全球经济增长预测**
+  English: The International Monetary Fund (IMF) has revised its global growth projection for 2026 downwards to 3.0% in its latest July World Economic Outlook Update. This adjustment is attributed to the ongoing impact of geopolitical conflicts, particularly in the Middle East, which are partially offset by accelerated demand in the global technology sector driven by AI advancements. The IMF also projects global headline inflation to rise to 4.7% in 2026, primarily due to higher energy and food prices, indicating a pause in the disinflationary trend observed since early 2024.
+  中文：总结：国际货币基金组织（IMF）在2026年7月的《世界经济展望更新》中，将2026年全球经济增长预测下调至3.0%。此次调整反映了中东地缘政治冲突的持续影响，尽管部分被人工智能驱动的全球科技领域需求加速所抵消。IMF还预计2026年全球总体通胀将升至4.7%，主要受能源和食品价格上涨推动。
+
+- **[2026.07.26] Crude Oil — 原油价格飙升引发通胀担忧**
+  English: Crude oil prices have surged significantly, with Brent crude surpassing $100 per barrel, driven by escalating geopolitical tensions in the Middle East and threats to vital shipping routes in the Red Sea and Strait of Hormuz. This sharp increase in energy costs is intensifying global inflation concerns and complicating the monetary policy decisions for central banks worldwide. Analysts suggest that disruptions to global transportation are now a more critical factor in oil price movements than direct supply losses, making the market highly susceptible to further geopolitical risks.
+  中文：总结：受中东地缘政治紧张局势升级以及红海和霍尔木兹海峡航运路线受威胁的影响，布伦特原油价格已突破每桶100美元，全球原油价格显著上涨。能源成本的急剧上升加剧了全球通胀担忧，并使各国央行的货币政策决策复杂化。分析师指出，全球运输中断已成为影响油价的关键因素。
+
+- **[2026.07.26] Nikkei 225 — 日经225指数波动，科技股受关注**
+  日本語：日経225指数は最近変動が激しく、特に7月24日には2.73%下落し、64611ポイントを記録しました。これは、週初めに半導体やテクノロジー株が牽引した上昇局面からの反動です。米国でのテクノロジー株の軟調、原油価格の高騰、中東情勢の緊迫化といった世界的な要因に加え、日本銀行の金融政策の動向も市場に影響を与えています。投資家の注目は、今後発表される主要テクノロジー企業の第2四半期決算に集まっており、これが今後の市場の方向性を決定する可能性があります。
+  中文：总结：日经225指数近期波动剧烈，7月24日下跌2.73%至64611点，此前受半导体和科技股提振。市场受美国科技股疲软、油价飙升和中东紧张局势等全球因素影响，日本央行政策前景也构成压力。投资者正密切关注即将公布的日本主要科技公司第二季度财报。
+
+- **[2026.07.26] Bitcoin ETF — 比特币ETF资金流出，以太坊ETF持续流入**
+  English: US spot Bitcoin ETFs recorded significant net outflows of $225.2 million on July 24, 2026, bringing an end to a seven-day streak of inflows that had accumulated nearly $1 billion. This reversal coincided with renewed geopolitical tensions between the US and Iran, which also led to a downturn in US stock markets and briefly pushed Bitcoin below $65,000. Despite this recent outflow, the funds still managed to register approximately $274 million in net inflows for the week leading up to July 24. In contrast, US-listed spot Ether ETFs continued their positive momentum, attracting $26.3 million in net inflows on the same day.
+  中文：总结：美国现货比特币ETF在2026年7月24日录得2.252亿美元的净流出，结束了连续七天的资金流入，这与美伊地缘政治紧张局势升级以及美股下跌同时发生，一度将比特币推至6.5万美元以下。尽管如此，截至7月24日当周，比特币ETF仍有约2.74亿美元的净流入。与此同时，美国上市的现货以太坊ETF则持续吸引资金，当日净流入2630万美元。
+
+- **[2026.07.26] USD/JPY — 美元兑日元汇率走强**
+  English: The USD/JPY exchange rate has demonstrated recent upward momentum, trading around 163.855 on July 25, 2026. This represents a slight increase from the previous day and a 0.896% rise over the past week. Throughout the week, the pair fluctuated between a high of 163.955 and a low of 162.335. The strengthening of the dollar against the yen is largely influenced by broader macroeconomic factors, including the Federal Reserve's hawkish interest rate outlook and global risk sentiment, which typically bolster the greenback, while the yen remains near multi-decade lows.
+  中文：总结：美元兑日元汇率近期呈现上涨趋势，2026年7月25日交易价约为163.855，较前一日小幅上涨，过去一周累计上涨0.896%。本周汇率在163.955高点和162.335低点之间波动。美元走强主要受美联储鹰派利率前景和全球风险情绪等宏观因素影响，而日元则徘徊在数十年低点附近。
+
+---
+※Stock Market Daily Digest | 2026.07.26
