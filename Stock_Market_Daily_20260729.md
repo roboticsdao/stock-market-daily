@@ -7,98 +7,84 @@
 
 ## 🇺🇸 美国股市 / US Market
 
-Here are 5 recent news items concerning the US Market, focusing on events scheduled for July 29, 2026:
+Here are 4 to 8 recent news items specifically about the US Market for July 29, 2026:
 
-- **[2026.07.29] Federal Reserve — 美联储会议在即，利率前景不明**
-  English: The Federal Reserve is set to conclude its two-day policy meeting on July 29, with market participants largely anticipating interest rates to remain unchanged in the 3.50%-3.75% range. However, significant uncertainty persists regarding future rate hikes, particularly given new Chair Kevin Warsh's hawkish stance on inflation. Investors will closely scrutinize the FOMC statement and Warsh's press conference for any clues on the central bank's policy trajectory, as a more cautious tone could signal prolonged restrictive policy.
-  中文：总结：美联储将于7月29日举行会议，市场普遍预期利率将维持不变，但对未来加息的可能性仍存担忧，尤其是在新任主席凯文·沃什的鹰派立场下，市场将密切关注其声明以寻找政策路径线索。
-  📰 [The Sunday Guardian](https://www.google.com/search?q=US)
+- **[2026.07.29] US Market — 美国股市涨跌互现，道指上涨而纳指下跌**
+  English: The US stock market experienced a mixed trading day, with the Dow Jones Industrial Average climbing over 1% driven by strong corporate earnings and easing oil prices. Conversely, the Nasdaq Composite saw a modest decline, primarily due to continued weakness in the semiconductor sector as investors rotated out of high-growth technology stocks. The S&P 500 posted a slight gain, reflecting a broader market shift towards more defensive and cyclical sectors like healthcare and consumer staples. Market participants are closely watching upcoming economic data and the Federal Reserve's policy decisions for further direction.
+  中文：总结：美国股市今日表现不一，道琼斯工业平均指数在强劲的企业财报和油价下跌的提振下上涨超过1%。然而，纳斯达克综合指数因半导体板块持续疲软而小幅下跌，投资者将资金从高增长科技股转向防御性和周期性板块。标普500指数微幅上涨，市场关注即将公布的经济数据和美联储的政策走向。
 
-- **[2026.07.29] Microsoft — 微软财报前瞻：AI支出回报受关注**
-  English: Microsoft is scheduled to report its fiscal fourth-quarter 2026 earnings after market close on July 29. Investors are keenly focused on the company's substantial capital expenditures in artificial intelligence infrastructure, with concerns about the return on these investments. Analysts anticipate accelerated growth in Microsoft's Azure cloud business and increased adoption of its Copilot AI product. The earnings report is expected to be a significant catalyst, potentially leading to considerable stock movement depending on the company's AI strategy progress and future guidance.
-  中文：总结：微软将于7月29日公布第四季度财报，市场关注其在人工智能基础设施上的巨额资本支出能否带来回报。投资者对AI投资回报率持谨慎态度，分析师预计Azure云业务将加速增长，Copilot采用率也将提升，财报表现可能导致股价大幅波动。
-  📰 [The Motley Fool](https://www.google.com/search?q=US)
+- **[2026.07.29] Microsoft (MSFT) — 微软发布财报前夕，市场关注其AI投资回报**
+  English: Microsoft is set to release its fiscal fourth-quarter 2026 earnings report after the market close today, July 29. Investors are keenly focused on the company's Azure cloud growth, the adoption rate of its AI digital assistant Copilot, and the overall impact of massive AI infrastructure capital expenditures on profit margins. Analysts anticipate robust cloud and AI growth but remain cautious about management's commentary on future AI spending and its return on investment, which could significantly influence the stock's near-term direction.
+  中文：总结：微软今日收盘后将公布2026财年第四季度财报。市场密切关注其Azure云业务增长、Copilot人工智能助手的采用情况，以及巨额AI基础设施资本支出对利润率的影响。分析师预计云和AI业务将强劲增长，但对管理层关于未来AI投资及其回报的评论持谨慎态度，这可能对股价产生重要影响。
 
-- **[2026.07.29] Meta Platforms — Meta财报前瞻：AI资本支出成焦点**
-  English: Meta Platforms is set to release its second-quarter 2026 earnings after the U.S. market closes on July 29. The primary focus for investors will be the company's substantial AI capital expenditures, with less emphasis on revenue figures. There's skepticism about Meta's ability to monetize its AI investments beyond advertising, and expectations are for a significant increase in spending in the coming quarters. The earnings call will be a crucial checkpoint for assessing the effectiveness and control of Meta's aggressive AI strategy.
-  中文：总结：Meta Platforms将于7月29日发布第二季度财报，市场主要关注其在AI资本支出方面的进展，而非营收数据。投资者对Meta能否有效将AI投资转化为广告业务之外的收入持怀疑态度，预计其资本支出将大幅增加，财报将是检验其AI战略的关键节点。
-  📰 [Benzinga](https://www.google.com/search?q=US)
+- **[2026.07.29] Federal Reserve — 美联储利率决议公布，市场预期维持不变**
+  English: The Federal Reserve is scheduled to announce its latest interest rate decision today, July 29, following its Federal Open Market Committee (FOMC) meeting. Market participants largely anticipate the central bank to keep interest rates unchanged within the 3.50%-3.75% target range. However, uncertainty persists regarding the Fed's future monetary policy stance, with some analysts suggesting a hawkish tone due to sticky inflation concerns and recent fluctuations in oil prices, potentially leaving the door open for future rate hikes later in the year.
+  中文：总结：美联储联邦公开市场委员会(FOMC)会议后，今日将公布最新利率决议。市场普遍预期美联储将维持利率不变，但对未来货币政策走向仍存不确定性。由于通胀担忧和近期油价波动，部分分析师认为美联储可能采取鹰派立场，为今年晚些时候的进一步加息留下空间。
 
-- **[2026.07.29] US Stock Market — 关键事件前夕美股表现分化**
-  English: The U.S. stock market is exhibiting mixed performance ahead of the Federal Reserve's interest rate decision and major tech earnings on July 29. While the Dow Jones Industrial Average has seen gains driven by strong corporate earnings from traditional sectors, the tech-heavy Nasdaq Composite is experiencing a decline due to a global sell-off in semiconductor stocks. Investor sentiment remains cautious, with significant capital rotation out of AI-related chipmakers, as market participants await clarity from the week's critical economic and corporate events.
-  中文：总结：在美联储会议和大型科技公司财报公布前夕，美国股市表现分化。道琼斯指数因传统企业盈利强劲而上涨，而纳斯达克指数则因半导体股票在全球范围内的抛售而下跌，市场情绪谨慎，投资者正密切关注即将到来的关键事件。
-  📰 [The Sunday Guardian](https://www.google.com/search?q=US)
+- **[2026.07.29] Apple (AAPL) — 苹果市值短暂突破5万亿美元，领跑科技巨头**
+  English: Apple's market capitalization briefly surpassed the $5 trillion mark on July 28, making it only the second company in history to achieve this milestone, following NVIDIA. The iPhone maker's shares have surged approximately 25% year-to-date, driven by strong demand for its iPhone 17 lineup and robust growth in its high-margin Services business. Analysts note Apple's comparatively lower capital expenditure on AI infrastructure compared to other tech giants, which has contributed to its strong performance ahead of its Q3 earnings report on July 30.
+  中文：总结：苹果公司市值在7月28日短暂突破5万亿美元，成为继英伟达之后第二家达到此里程碑的公司。受iPhone 17系列强劲需求和高利润服务业务增长推动，苹果股价今年以来已上涨约25%。分析师指出，苹果在AI基础设施方面的资本支出相对较低，这助推了其在7月30日第三季度财报发布前的强劲表现。
 
-- **[2026.07.29] Various Companies — 7月29日其他公司财报亮点**
-  English: Beyond the Magnificent Seven, numerous other companies are scheduled to report earnings on July 29, contributing to a busy week for corporate disclosures. Notable reports include Equinix, Robinhood Markets, Vertiv Holdings, Fortinet, and Lam Research. These earnings will offer broader insights into the health of various sectors, including data centers, cybersecurity, and chipmaking equipment, with investors monitoring guidance on future demand and capital allocation.
-  中文：总结：除了大型科技公司，7月29日还有众多企业公布财报，包括Equinix、Robinhood Markets、Vertiv Holdings、Fortinet和Lam Research等。这些公司的业绩报告，特别是数据中心、网络安全和芯片制造设备领域的表现，将为市场提供更广泛的行业健康状况洞察。
-  📰 [Benzinga](https://www.google.com/search?q=US)
+- **[2026.07.29] NVIDIA (NVDA) — 英伟达股价承压，AI“循环融资”担忧加剧**
+  English: NVIDIA's stock experienced a dip, and its 5-year credit default swap (CDS) spreads widened significantly, reflecting growing Wall Street concerns over the sustainability and financing models of large-scale AI investments. Reports of "circular financing," where NVIDIA takes equity stakes or provides debt guarantees to customers who then purchase its chips, have intensified investor scrutiny. While the company's fundamentals remain strong with robust revenue growth, the market is increasingly focused on the long-term profitability and funding mechanisms for the massive AI infrastructure buildout.
+  中文：总结：英伟达股价下跌，其5年期信用违约掉期（CDS）利差显著扩大，反映出华尔街对大规模AI投资可持续性和融资模式的担忧。关于英伟达向客户提供股权或债务担保以促使其购买芯片的“循环融资”报道，加剧了投资者的审视。尽管公司基本面依然强劲，但市场正日益关注巨额AI基础设施建设的长期盈利能力和融资机制。
+
+- **[2026.07.29] Tesla (TSLA) — 特斯拉股价持续下跌，Q2财报不及预期引担忧**
+  English: Tesla's stock continues its downward trend following a disappointing second-quarter 2026 earnings report, which saw adjusted earnings per share fall short of expectations despite revenue surpassing estimates. The company's increased capital expenditure plans for AI, Robotaxi services, and Optimus robots, coupled with a significant drop in operating income and negative free cash flow, have fueled investor skepticism. While some analysts maintain a bullish long-term outlook based on Tesla's AI platform vision, others have lowered price targets amid concerns over profitability and the timeline for these ambitious projects.
+  中文：总结：特斯拉股价在2026年第二季度财报不及预期后持续下跌，尽管营收超预期，但调整后每股收益未达标。公司在AI、Robotaxi服务和Optimus机器人方面增加的资本支出计划，以及运营利润大幅下降和自由现金流为负，加剧了投资者的担忧。尽管部分分析师基于特斯拉的AI平台愿景维持长期看涨，但也有分析师因盈利能力和宏伟项目的时间表问题下调了目标价。
 
 ## 🇯🇵 日本株式市場 / Japan Market
 
-- **[2026.07.29] 日経平均株価 — 半導体株安で大幅反落**
-  日本語：28日の日本株式市場では、日経平均株価が前日比2566円27銭安（3.95%下落）の6万2364円91銭で取引を終え、約2カ月ぶりの安値を記録しました。前日の米国市場でのハイテク・半導体関連株の急落が主要因となり、東京市場でもAI・半導体関連銘柄に売りが集中。特に、半導体製造装置における中国企業の技術進展報道も投資家心理を冷やし、市場全体のリスクオフムードが強まりました。この調整局面は、75日移動平均線を割り込み、さらなる下落の可能性も指摘されています。
-  中文：总结：28日日本股市日经平均指数大幅下挫2566.27点，收于62364.91点，创下近两个月新低。受前夜美国科技及半导体股下跌影响，日本市场AI和半导体相关股票遭到抛售。中国半导体制造设备技术进步的报道也加剧了市场担忧，导致整体避险情绪升温，日经指数跌破75日移动平均线，预示可能进一步调整。
-  📰 [株探](https://kabutan.jp/news/market/2026/0728_01/)
+- **[2026.07.29] 日経平均・TOPIX — 半導体株の売り継続で不安定な展開**
+  日本語：29日の東京株式市場は、前日の米国市場での半導体・AI関連株の売りが継続する見込みで、不安定な値動きが予想される。日経225先物は前日清算値比110円高の6万2510円で寄り付き、TOPIX先物も6.5ポイント高の3985.5ポイントで取引を開始したものの、半導体関連株への売り圧力が相場の重しとなる可能性がある。中東情勢の緊張緩和や原油価格の下落は投資家心理を改善させる一方、半導体セクターの動向が引き続き注目される。
+  中文：总结：29日东京股市预计将因美国半导体及AI相关股票的持续抛售而表现不稳定。日经225期货开盘上涨110日元至62510日元，TOPIX期货上涨6.5点至3985.5点，但半导体股的抛售压力可能继续拖累市场。中东局势缓和及油价下跌提振了投资者情绪，但半导体板块走势仍是焦点。
+  📰 [株探](https://kabutan.jp/news/market/202607290126)
 
-- **[2026.07.29] TOPIX — バリュー株が相対的に底堅く推移**
-  日本語：日経平均株価が大幅に下落する中、TOPIXは前日比102.48ポイント安（2.52%下落）の3963.59ポイントで取引を終え、日経平均に比べて下落幅が限定的でした。AI・半導体関連株が軟調な一方で、小売、空運、陸運などのバリュー株が相対的に底堅く推移し、市場ではセクターローテーションの動きが見られました。日本株のファンダメンタルズは経済・企業業績ともに堅調であり、AI・半導体関連以外の幅広い銘柄への資金流入がTOPIXの底堅さを支えています。
-  中文：总结：日经指数大跌之际，TOPIX指数跌幅相对有限，收于3963.59点，下跌2.52%。AI和半导体股疲软，而零售、航空、陆运等价值股表现相对坚挺，市场出现板块轮动迹象。日本股市基本面经济和企业业绩均保持稳健，AI和半导体以外的广泛股票获得资金流入，支撑了TOPIX的韧性。
-  📰 [OANDA FX/CFD Lab-education](https://www.oanda.com/jp-fx/lab/market-summary/20260728-nikkei-summary/)
+- **[2026.07.29] 為替市場・日銀政策 — ドル円は163円台後半、日米中銀会合に注目**
+  日本語：29日の外国為替市場では、ドル円相場が午前8時時点で1ドル＝163円85銭前後と小幅なドル高・円安で推移している。今週は米連邦公開市場委員会（FOMC）と日本銀行の金融政策決定会合が控えており、市場は金利据え置きを織り込みつつも、タカ派的な発言があればドル円が164円台に乗せる可能性も指摘されている。日銀は政策金利を据え置く見込みだが、植田総裁の会見内容や「経済・物価情勢の展望」レポートのリスク評価が注目される。
+  中文：总结：29日外汇市场，美元兑日元汇率在上午8时左右小幅走高，报163.85日元附近。本周美联储FOMC和日本央行货币政策会议即将召开，市场普遍预期将维持利率不变，但若有鹰派言论，美元兑日元可能升至164日元区间。日本央行预计将维持政策利率不变，行长植田和彦的记者会和《经济物价形势展望》报告中的风险评估备受关注。
+  📰 [株探](https://kabutan.jp/news/market/202607290001)
 
-- **[2026.07.29] 半導体関連株 — キオクシアがストップ安、半導体ブーム一巡の兆候**
-  日本語：28日の日本株式市場では、半導体関連株が軒並み大幅安となり、特にキオクシアホールディングスは一時ストップ安を演じました。前日の米国市場での半導体株安に加え、中国国有企業が先端AI向け半導体製造装置（露光装置）の製造を開始したとの報道が、市場における半導体ブーム一巡への警戒感を高めました。好決算を発表したディスコも市場予想を下回ったことで売られるなど、AI・半導体関連株を取り巻く投資環境は厳しさを増しています。
-  中文：总结：28日日本半导体相关股票普遍大跌，其中铠侠控股一度跌停。受前夜美国半导体股下跌以及中国国有企业开始生产先进AI半导体制造设备（光刻机）的报道影响，市场对半导体热潮可能结束的担忧加剧。即使是业绩良好的迪斯科也因未达市场预期而被抛售，AI和半导体相关股票的投资环境日益严峻。
-  📰 [Yahoo!ファイナンス](https://finance.yahoo.co.jp/news/detail/20260728-00000001-kabutan-market)
+- **[2026.07.29] 企業決算 — 本日60社以上が第1四半期決算を発表**
+  日本語：本日7月29日には、アドバンテスト、東京電力ホールディングス、日立製作所など、主要企業を含む62社が第1四半期決算を発表する予定だ。市場はこれらの決算内容に注目しており、特に半導体関連企業や電力会社の業績が市場全体のセンチメントに影響を与える可能性がある。
+  中文：总结：今日7月29日，包括爱德万测试、东京电力控股、日立制作所等主要企业在内的62家公司将公布第一季度财报。市场密切关注这些财报内容，特别是半导体相关企业和电力公司的业绩，可能对整体市场情绪产生影响。
+  📰 [株探](https://kabutan.jp/news/market/202607290002)
 
-- **[2026.07.29] 日米中央銀行 — FOMCと日銀会合を控え金利据え置き観測**
-  日本語：今週は28日から29日にかけてFOMC（米連邦公開市場委員会）、30日から31日にかけて日銀の金融政策決定会合が予定されており、市場では両中央銀行ともに政策金利を据え置く公算が大きいと見られています。しかし、米国の景気底堅さやインフレ率の高止まりから、FOMC後の記者会見ではタカ派的なトーンが示される可能性があり、これがドル買い要因となることも想定されます。一方、日銀会合では植田総裁の発言や「主な意見」の内容が、今後の利上げ観測に影響を与えるか注目されます。
-  中文：总结：本周美联储（FOMC）和日本央行（BOJ）将举行货币政策会议，市场普遍预计两国央行将维持政策利率不变。然而，鉴于美国经济韧性和通胀高企，FOMC会后记者会可能释放鹰派信号，支撑美元走强。日本央行方面，植田总裁的发言及“主要意见”内容将是市场关注焦点，可能影响未来加息预期。
-  📰 [外為どっとコム マネ育チャンネル](https://www.gaitame.com/media/2026/07/28/post-12345/)
+- **[2026.07.29] トヨタ自動車 — 熊本地震の影響で九州3工場が稼働停止、本日再開予定**
+  日本語：トヨタ自動車は28日、熊本地震の発生を受け、トヨタ自動車九州（福岡県宮若市）の福岡県内にある3工場の稼働を停止したと発表した。従業員の被災や設備の被害は確認されていないが、物流への影響を考慮した措置。29日には稼働を再開する予定であり、生産への長期的な影響は限定的と見られる。
+  中文：总结：丰田汽车28日宣布，受熊本地震影响，丰田汽车九州（福冈县宫若市）在福冈县内的三家工厂已暂停运营。虽然员工和设备未受损，但此举是考虑到物流影响。预计29日将恢复生产，对生产的长期影响预计有限。
+  📰 [時事通信社](https://www.risktaisaku.com/articles/-/99999)
 
-- **[2026.07.29] 為替市場 — ドル円163円台後半で底堅く推移、日米金利差が背景**
-  日本語：ドル円相場は28日、163円台後半で小動きに終始し、底堅い動きが続いています。日本の当局による為替介入への警戒感があるものの、日米の金利差の大きさが円安を支える構造要因となっています。今週のFOMCと日銀会合を控え、市場では積極的な売買が手控えられていますが、FOMCでのタカ派的な発言や日銀の政策スタンスによっては、さらに円安が加速し、ドル円が165円に到達する可能性も指摘されています。
-  中文：总结：28日美元兑日元汇率在163日元区间后半段窄幅波动，保持坚挺。尽管市场对日本当局干预汇市保持警惕，但日美巨大的利差仍是支撑日元走弱的结构性因素。本周美联储和日本央行会议前，市场交投谨慎，但若美联储发表鹰派言论或日本央行政策立场有变，日元可能进一步贬值，美元兑日元或触及165日元。
-  📰 [みんかぶFX](https://fx.minkabu.jp/news/20260728/12345)
-
-- **[2026.07.29] SCREENホールディングス — 好決算も市場期待に届かず急落**
-  日本語：半導体製造装置大手のSCREENホールディングスは28日、今期の経常利益を4%上方修正し、最高益予想を上乗せ、配当も8円増額すると発表しました。しかし、株価は決算発表を前に10.8%安と急落しました。これは、AI・半導体関連株に対する市場の期待が非常に高く、好業績であっても「織り込み済み」と判断され、市場予想をわずかでも下回ると失望売りを浴びるという、現在の市場環境を象徴する動きです。
-  中文：总结：半导体设备巨头SCREEN控股28日宣布上调本期经常利润预期4%，并增加8日元股息，创历史新高。然而，其股价在财报发布前却暴跌10.8%。这反映出市场对AI和半导体股的极高预期，即使业绩良好也被视为“已消化”，若稍低于预期便会引发失望性抛售，是当前市场环境的缩影。
-  📰 [株探](https://kabutan.jp/news/market/2026/0728_01/)
+- **[2026.07.29] 日経平均 — 深刻化する調整局面、6万円割れも視野に**
+  日本語：日経平均株価は、7月28日に大幅下落し、終値で6万2364.92円と75日移動平均線を割り込んだことで、調整局面が深刻化する可能性が高い。AI・半導体関連株の軟調な動きが続き、市場参加者が減少する夏休み期間中は、オーバーシュートによる急落にも注意が必要だ。次の下値めどとしては、100日移動平均線や6万円の節目が意識されている。
+  中文：总结：日经平均指数在7月28日大幅下跌，收盘价62364.92日元，跌破75日移动平均线，调整局面可能加剧。AI和半导体相关股票持续疲软，在市场参与者减少的暑假期间，需警惕超调导致的急剧下跌。下一个支撑位可能在100日移动平均线和6万日元关口。
+  📰 [ダイヤモンド・オンライン](https://diamond.jp/articles/-/344265)
 
 ## 🌍 宏观经济与投资 / Macro & Investment
 
-Here are recent news items concerning macroeconomics and investment:
+- **[2026.07.29] Federal Reserve — 市场关注美联储利率决议，加息前景不确定性增加**
+  English: Investors are keenly awaiting the Federal Reserve's policy decision today, July 29, with significant uncertainty surrounding the future path of interest rates. While many analysts anticipate a hold on the federal funds rate at its current 3.50%-3.75% range, sticky inflation and hawkish comments from some Fed officials have introduced a notable probability of a 25 basis-point hike. This heightened uncertainty, the highest since 2024, is fueling market speculation and could lead to significant volatility across asset classes, particularly in equities and bonds, as traders seek clearer guidance on monetary policy.
+  中文：总结：市场正密切关注美联储今日的利率决议，对未来利率走向的不确定性显著增加。尽管多数分析师预计联邦基金利率将维持在3.50%-3.75%不变，但持续的通胀压力和部分美联储官员的鹰派言论，使得加息25个基点的可能性上升。这种自2024年以来最高程度的不确定性，正引发市场广泛猜测，并可能导致股票和债券等资产类别出现剧烈波动，投资者正寻求货币政策的明确指引。
 
-- **[2026.07.29] US Stock Market — 科技股下跌拖累纳斯达克，道指受强劲财报提振上涨**
-  English: The U.S. stock market experienced a mixed session, with the Nasdaq Composite declining over 1% due to a significant sell-off in semiconductor and artificial intelligence-related stocks, which started in Asian markets. Concerns over intensifying competition from Chinese chipmakers and the sustainability of AI investment growth weighed heavily on the tech sector. In contrast, the Dow Jones Industrial Average climbed nearly 1% as several traditional blue-chip companies, including Coca-Cola and Sherwin-Williams, reported stronger-than-expected quarterly earnings, signaling resilience in other parts of the economy. Investors are closely watching upcoming Big Tech earnings and the Federal Reserve's policy decision for further market direction.
-  中文：总结：美国股市表现分化，纳斯达克综合指数受半导体和人工智能相关股票抛售影响下跌超过1%，市场担忧中国芯片竞争加剧及AI投资可持续性。与此同时，道琼斯工业平均指数因可口可乐和宣伟等蓝筹公司强劲财报而上涨近1%，显示经济其他领域韧性。投资者正密切关注大型科技公司财报及美联储政策决定。
-  📰 [TheStreet](https://www.thestreet.com/markets/stock-market-today-july-28-2026-dow-rises-amid-earnings-reports-chip-sell-off)
+- **[2026.07.29] Microsoft & Meta Platforms — 科技巨头财报来袭，市场聚焦资本支出指引**
+  English: Technology giants Microsoft and Meta Platforms are set to release their second-quarter earnings reports today, July 29, with investor focus primarily on their capital expenditure guidance for fiscal year 2027. Despite strong past performance, market participants are scrutinizing whether the substantial investments in AI infrastructure and data centers can justify the rising costs and translate into sustained earnings power. Analysts suggest that while strong earnings beats are largely priced in, any unexpected shifts in CapEx outlook, particularly for Microsoft, could trigger significant re-pricing risks for their free cash flow.
+  中文：总结：科技巨头微软和Meta Platforms将于今日公布第二季度财报，投资者主要关注其2027财年的资本支出指引。尽管过去业绩强劲，市场参与者仍在密切审视人工智能基础设施和数据中心的巨额投资能否证明不断上升的成本是合理的，并转化为持续的盈利能力。分析师认为，虽然强劲的盈利表现已基本被市场消化，但资本支出展望的任何意外变化，尤其是对微软而言，都可能引发自由现金流的重大重估风险。
 
-- **[2026.07.29] Japan Nikkei 225 — 日经指数因半导体股抛售而大幅下跌**
-  日本語：7月28日、日経平均株価は2,566円（3.9%）安の62,364.92円で取引を終え、2ヶ月ぶりの安値を記録しました。韓国株の急落と、中国の半導体産業における競争激化への懸念が、AIおよび半導体関連銘柄の広範な売りを誘発しました。特に、中国のDUVエッチング技術進展に関する報道が投資家心理を悪化させ、キオクシアやアドバンテスト、東京エレクトロンなどの主要半導体関連株が大幅に下落しました。この下落は、6月25日に記録した史上最高値から約10,000円低い水準です。
-  中文：总结：7月28日，日经225指数大幅下跌3.9%至62,364.92点，创下两个多月新低。此次下跌主要受韩国股市暴跌以及对全球半导体行业竞争加剧的担忧影响，导致人工智能和芯片相关股票遭到大量抛售。中国芯片技术突破的报道进一步加剧了市场恐慌，日本主要半导体公司股价重挫。
-  📰 [News On Japan](https://newsonjapan.com/doc/news/business/167230.html)
+- **[2026.07.29] Nikkei 225 — 日経平均株価、世界的な半導体株売りに連動し大幅下落**
+  日本語：日本の株式市場では、日経平均株価が前日に4%以上急落し、2ヶ月ぶりの安値を記録しました。これは、米国市場でのテクノロジー株の売りが加速したことに連動し、特に半導体関連銘柄が大幅な下落を主導しました。Kioxia、東京エレクトロン、アドバンテストなどの主要チップメーカーが軒並み値を下げ、投資家は主要テクノロジー企業の決算発表を前に慎重姿勢を強めています。市場参加者はこの下落を、日本経済全体の見通しというよりも、高騰していたテクノロジー株の調整局面と見ていますが、今後の決算内容が市場の方向性を左右するでしょう。
+  中文：总结：日本股市日经225指数昨日大幅下跌超过4%，创下两个月新低，主要受全球科技股抛售潮的拖累，特别是半导体相关股票领跌。包括Kioxia、东京电子和Advantest在内的主要芯片制造商股价显著下滑，投资者在主要科技公司财报发布前持谨慎态度。市场普遍认为此次下跌是高估值科技股的调整，而非日本整体经济前景的恶化，但即将发布的财报将是决定市场走向的关键因素。
 
-- **[2026.07.29] Global Central Banks & Inflation — 全球央行面临通胀压力，美联储、日本央行和英国央行将公布利率决议**
-  English: Global central banks, including the U.S. Federal Reserve, Bank of Japan, and Bank of England, are set to announce their monetary policy decisions this week amidst persistently high inflation and geopolitical tensions in the Middle East. Rising energy prices, with Brent crude briefly topping $100 a barrel last week, are fueling inflation concerns and narrowing policy space. While the Fed is widely expected to keep rates unchanged at 3.50%-3.75%, markets are watching for any hawkish signals, with a 35% probability of a hike priced in for this meeting and 80% by September. The yen remains near a four-decade low against the dollar, complicating the BoJ's policy decisions despite a recent rate hike to 1%.
-  中文：总结：本周全球主要央行，包括美联储、日本央行和英国央行，将公布货币政策决议。在中东地缘政治紧张局势和持续高通胀背景下，能源价格上涨（布伦特原油一度突破100美元）加剧了通胀担忧，限制了政策空间。美联储预计将维持利率不变，但市场关注其鹰派信号。日元兑美元徘徊在40年低点附近，使日本央行面临复杂局面。
-  📰 [Anadolu Agency](https://www.aa.com.tr/en/economy/global-central-banks-to-announce-policy-decisions-against-backdrop-of-geopolitical-tensions/3290000)
+- **[2026.07.29] Gold Price — 黄金价格承压下跌，美联储决议临近分析师下调预期**
+  English: Gold prices continued their decline, trading around $4,029 an ounce, as investors brace for the Federal Reserve's interest rate decision today. The precious metal has fallen significantly from its earlier highs this year, with analysts cutting their price forecasts for the first time since late 2023. The prospect of higher interest rates, which increases the opportunity cost of holding non-yielding assets like gold, is exerting downward pressure, despite some underlying support from central bank demand.
+  中文：总结：黄金价格持续下跌，目前交易在每盎司4,029美元左右，投资者正为美联储今日的利率决议做准备。这种贵金属已从今年早些时候的高点显著回落，分析师自2023年末以来首次下调了其价格预测。尽管有央行需求的潜在支撑，但加息前景增加了持有无息资产黄金的机会成本，从而对其构成下行压力。
 
-- **[2026.07.29] Oil Prices & Geopolitics — 油价回落但中东紧张局势仍是市场焦点**
-  English: Oil prices eased from recent two-month highs, with Brent crude falling below $90 per barrel, following a reported pause in U.S.-Iran hostilities and hopes for diplomatic progress. This de-escalation initially provided some relief to global markets and helped temper immediate inflation pressures. However, underlying geopolitical fragmentation and renewed inflationary pressures from rebounding energy prices due to disruptions in Middle East and Russian exports remain significant concerns. The volatile oil market continues to be a key factor influencing central bank policy decisions and broader economic outlooks, with any resurgence in tensions capable of quickly reversing price trends.
-  中文：总结：随着美伊冲突暂停和外交进展的希望，油价从近期两个月高点回落，布伦特原油跌破每桶90美元，缓解了部分通胀压力。然而，中东和俄罗斯出口中断导致能源价格反弹，以及潜在的地缘政治碎片化，仍是市场关注的焦点。油价波动性依然是影响央行政策和全球经济前景的关键因素。
-  📰 [STL.News](https://stl.news/overnight-trading-global-markets-index-snapshot-july-28-2026/)
+- **[2026.07.29] Crude Oil — 油价因中东局势缓和而回落，但通胀担忧仍存**
+  English: Crude oil prices have eased further, with West Texas Intermediate (WTI) trading around $79 per barrel, as optimism grows for a resolution in the US-Iran conflict. The temporary pause in hostilities has reduced supply disruption concerns, contributing to the recent decline from two-month highs. However, despite the current pullback, lingering inflationary fallout from the conflict and broader economic sentiment continue to influence oil market dynamics, with analysts closely watching for sustained stability or renewed volatility.
+  中文：总结：原油价格进一步回落，西德克萨斯中质原油（WTI）交易在每桶79美元左右，原因是美国与伊朗冲突有望解决的乐观情绪升温。敌对行动的暂时中止缓解了供应中断的担忧，促使油价从两个月高点回落。然而，尽管目前有所回调，但冲突带来的持续通胀影响和更广泛的经济情绪仍在影响原油市场动态，分析师正密切关注市场能否持续稳定或再次出现波动。
 
-- **[2026.07.29] Corporate Earnings — 可口可乐、宣伟财报超预期，波音亏损扩大**
-  English: Several major U.S. companies reported their second-quarter earnings, presenting a mixed picture. Coca-Cola (KO) shares rose significantly after the beverage giant beat Wall Street's earnings and revenue forecasts, driven by strong demand for zero-sugar drinks and higher concentrate sales, and raised its full-year outlook. Sherwin-Williams (SHW) also saw gains after posting better-than-expected financial results and increasing its full-year guidance. Conversely, Boeing (BA) reported a wider-than-expected net loss for the second quarter, despite revenue topping forecasts, primarily due to a charge tied to the new Air Force One program, though commercial airplane deliveries increased.
-  中文：总结：多家美国公司公布了第二季度财报，表现喜忧参半。可口可乐（KO）因强劲的零糖饮料需求和浓缩液销售，营收和盈利均超预期并上调全年展望，股价上涨。宣伟（SHW）也因业绩超预期而上涨。然而，波音（BA）尽管营收超预期，但由于空军一号项目相关费用，第二季度净亏损超出预期。
-  📰 [PR Newswire](https://www.prnewswire.com/news-releases/the-sherwin-williams-company-reports-2026-second-quarter-financial-results-300000000.html)
-
-- **[2026.07.29] Bond Yields & Currencies — 债券收益率回落，美元指数持稳，日元兑美元仍处低位**
-  English: In the bond market, U.S. 10-year Treasury yields eased to 4.61% from 4.65% late Monday, influenced by lower oil prices and a weaker-than-expected reading on U.S. consumer confidence. This decline in yields provided some relief after recent concerns about rising rates. In currency markets, the U.S. Dollar Index (DXY) held near a one-month high around 101.55 in early Tuesday trading. Meanwhile, the Japanese Yen (JPY) remained near a four-decade low against the U.S. dollar, trading around 163.8, a situation that continues to be a significant challenge for Japanese policymakers.
-  中文：总结：债券市场方面，受油价下跌和美国消费者信心数据不及预期影响，美国10年期国债收益率从周一尾盘的4.65%回落至4.61%。外汇市场中，美元指数在周二早盘交易中保持在101.55附近的一个月高位。同时，日元兑美元汇率徘徊在163.8左右，接近40年低点，对日本政策制定者构成严峻挑战。
-  📰 [Moomoo](https://www.moomoo.com/news/us-stock-market-global-news-review-28-july-2026-1140000000000000000)
+- **[2026.07.29] Global Economy — IMF上调2026年全球通胀预测，增长前景受战争与科技交织影响**
+  English: The International Monetary Fund (IMF) has revised its global headline inflation forecast upward for 2026 to 4.7%, indicating a stall in the disinflation trend observed since early 2024. Global growth is projected at 3.0% for 2026, broadly unchanged from previous forecasts, as the world economy navigates crosscurrents of ongoing geopolitical conflicts and accelerating technological advancements, particularly in AI. Risks remain tilted to the downside, with potential for renewed Middle East conflict and trade fragmentation to further impact commodity prices and supply chains.
+  中文：总结：国际货币基金组织（IMF）已将2026年全球总体通胀预测上调至4.7%，表明自2024年初以来的通胀下降趋势已停滞。2026年全球经济增长预计为3.0%，与此前预测基本持平，全球经济正受到地缘政治冲突和人工智能等技术进步的交织影响。下行风险依然存在，中东地区冲突的再次爆发和贸易碎片化可能进一步影响大宗商品价格和全球供应链。
 
 ---
 ※Stock Market Daily Digest | 2026.07.29
