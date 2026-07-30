@@ -7,121 +7,94 @@
 
 ## 🇺🇸 美国股市 / US Market
 
-Here are 8 recent news items regarding the US Market as of July 30, 2026:
+- **[2026.07.30] Microsoft (MSFT) — 微软财报超预期，Azure云业务强劲增长提振市场情绪**
+  English: Microsoft shares surged nearly 9% in premarket trading after the software giant reported fiscal Q4 2026 earnings that beat Wall Street estimates. Its Azure cloud business notably topped $100 billion in annual revenue for the first time, accelerating growth to 43%. This strong performance and a capital expenditure outlook below expectations helped ease investor concerns about massive AI spending, leading to a rise in Nasdaq futures and providing a lift to broader market sentiment.
+  中文：总结：微软公布的2026财年第四季度财报超出华尔街预期，其Azure云业务年收入首次突破1000亿美元，增长加速至43%。这一强劲表现以及低于预期的资本支出展望，缓解了投资者对大规模人工智能支出的担忧，推动纳斯达克期货上涨，并提振了整体市场情绪。
+  📰 [TheStreet](https://www.thestreet.com/markets/stock-market-today-july-30-2026-nasdaq-futures-rise-as-microsoft-surges-fed-holds-rates-steady)
 
-- **[2026.07.30] Federal Reserve — 美联储维持利率不变，但内部存在分歧**
-  English: The Federal Reserve opted to keep its benchmark interest rate unchanged within the 3.5% to 3.75% target range, effective July 30, 2026, following its latest FOMC meeting. This decision, while maintaining current policy, revealed a 9-3 vote split among policymakers, with three members favoring a 25-basis-point rate hike. The Fed acknowledged persistent inflation above its 2% target, partly due to supply shocks and elevated energy prices, despite solid economic growth and a resilient labor market. This signals ongoing debate within the central bank regarding future monetary policy direction.
-  中文：总结：美联储于2026年7月29日宣布维持联邦基金利率目标区间在3.5%至3.75%不变，但此次决议以9票赞成、3票反对通过，显示内部对加息存在分歧。尽管经济活动稳健且劳动力市场有韧性，但通胀仍高于2%目标，部分原因是能源等领域的供应冲击。这一决定及其内部意见分歧预示着未来货币政策路径仍充满不确定性。
-  📰 [Federal Reserve Board](https://www.federalreserve.gov/newsevents/pressreleases/monetary20260729a.htm)
+- **[2026.07.30] Meta Platforms (META) — Meta财报不及预期，AI投资回报担忧加剧股价下跌**
+  English: Meta Platforms shares fell 8.8% after the Facebook parent company missed earnings forecasts and issued weaker-than-expected revenue guidance for its second quarter. The social media giant also reported a precipitous 91% drop in free cash flow, underscoring the financial strain of its costly AI buildout. This disappointing performance reinforced investor skepticism regarding the profitability and return on investment of unprecedented AI spending by tech giants, contributing to a mixed picture for corporate earnings.
+  中文：总结：Meta Platforms公布的第二季度财报未能达到预期，并发布了低于市场预期的营收指引，导致其股价下跌8.8%。该公司自由现金流大幅下降91%，凸显了其昂贵的人工智能建设带来的财务压力。这一表现加剧了投资者对科技巨头AI投资回报的担忧。
 
-- **[2026.07.30] US Stock Market — 美股主要股指大幅收跌，科技股领跌**
-  English: Major US stock indices closed sharply lower on July 29, 2026, with the S&P 500 falling 1.52%, the Dow Jones Industrial Average dropping 2.19%, and the Nasdaq Composite shedding 1.74%. The downturn was largely attributed to the Federal Reserve's decision to hold interest rates steady, coupled with surging oil prices that fueled inflation fears. Technology and industrial sectors were among the worst performers, reflecting investor concerns over monetary policy and rising costs. This broad market decline indicates a cautious sentiment among investors.
-  中文：总结：2026年7月29日，美国主要股指大幅下跌，标普500指数、道琼斯工业平均指数和纳斯达克综合指数均显著收低。美联储维持利率不变的决定以及油价飙升引发的通胀担忧共同打压市场情绪，其中科技和工业板块跌幅居前，显示投资者对货币政策和成本上升的担忧。
-  📰 [China.org](http://www.china.org.cn/business/2026-07/30/content_117361993.htm)
+- **[2026.07.30] Federal Reserve — 美联储维持利率不变，市场对未来政策路径感到困惑**
+  English: The Federal Reserve held its benchmark interest rate steady in the 3.50%-3.75% range, a widely anticipated decision. However, mixed messages from Fed Chair Kevin Warsh regarding future policy direction, coupled with three dissenting votes for a rate hike, left investors confused and contributed to a sharp market selloff on Wednesday. Despite the initial negative reaction, US stock futures showed signs of stabilizing and rebounding on Thursday as investors processed economic data and corporate earnings.
+  中文：总结：美联储如预期般将基准利率维持在3.50%-3.75%不变。然而，美联储主席凯文·沃什关于未来政策路径的模糊表态，以及三位委员投票支持加息，导致投资者感到困惑，并在周三引发了市场大幅抛售。尽管如此，周四美国股指期货在消化经济数据和企业财报后显示出企稳反弹的迹象。
 
-- **[2026.07.30] Oil Prices — 油价飙升加剧通胀担忧，对股市构成压力**
-  English: Crude oil prices surged significantly on July 29, 2026, with Brent crude leaping 7.3% to settle above $88 per barrel and West Texas Intermediate for September delivery rising 6.56% to $84.46. This sharp increase was driven by escalating geopolitical tensions in the Middle East, which reignited fears of persistent inflation. The jump in energy costs contributed to the broader market sell-off, particularly impacting sectors sensitive to input prices and further complicating the Federal Reserve's efforts to manage inflation.
-  中文：总结：2026年7月29日，原油价格因中东地缘政治紧张局势加剧而大幅上涨，布伦特原油和WTI原油均录得显著涨幅。油价飙升重新点燃了市场对通胀持续高企的担忧，对股市造成普遍压力，并使美联储的通胀管理任务更加复杂。
-  📰 [China.org](http://www.china.org.cn/business/2026-07/30/content_117361993.htm)
+- **[2026.07.30] NVIDIA (NVDA) — 英伟达股价反弹，AI需求持续强劲支撑市场信心**
+  English: NVIDIA stock rose 1.3% ahead of market open on Thursday, breaking a recent 5% monthly drop. This rebound occurred even as some tech giants signaled plans to temper increases in their AI budgets, suggesting that strong underlying demand for AI remains evident across NVIDIA's ecosystem. Analysts continue to maintain bullish targets for the chipmaker, with its valuation relative to expected earnings hitting its lowest point in over 11 years, attracting bargain-hunting investors.
+  中文：总结：英伟达股价在周四开盘前上涨1.3%，扭转了近期5%的月度跌幅。尽管有迹象表明一些科技巨头可能削减AI预算增幅，但英伟达生态系统中对AI的强劲需求依然明显。分析师继续看好该芯片制造商，其相对于预期收益的估值已降至11年多来的最低点，吸引了寻求抄底的投资者。
 
-- **[2026.07.30] Microsoft (MSFT) — 微软Q4财报显示云业务强劲增长，但资本支出高企**
-  English: Microsoft reported its fiscal fourth-quarter 2026 earnings after market close on July 29, 2026, with strong performance in its cloud business, Azure, which saw 43% constant-currency growth, exceeding expectations. Total commercial remaining performance obligation (RPO) soared 84% year-over-year to $678 billion, indicating robust future revenue visibility. However, investor scrutiny remains high on rising capital expenditures, which are expected to exceed $40 billion for the quarter, impacting free cash flow. This highlights the ongoing challenge for tech giants to balance growth investments with profitability.
-  中文：总结：微软于2026年7月29日公布的第四财季财报显示，Azure云业务实现43%的强劲增长，超出预期，商业剩余履约义务飙升至6780亿美元。尽管云业务表现亮眼，但投资者对公司高企的资本支出（预计超过400亿美元）及其对自由现金流的影响保持关注，这反映了科技巨头在增长投资与盈利能力之间平衡的挑战。
-  📰 [Zacks Investment Research](https://www.zacks.com/stock/news/2766327/alphabet-s-warning-shot-still-echoes-ahead-of-microsoft-earnings)
+- **[2026.07.30] Amazon (AMZN) — 亚马逊财报前夕面临AI项目超支担忧，资本支出成焦点**
+  English: Amazon is scheduled to release its second-quarter earnings report after market close today. Ahead of the report, the company faces internal scrutiny over significant cost overruns in AI projects, with one instance reportedly exceeding its budget by 860%. Investors are closely watching Amazon's capital expenditure guidance, which was previously projected as high as $200 billion for 2026, as concerns about the profitability of massive AI investments continue to weigh on market sentiment.
+  中文：总结：亚马逊定于今日收盘后发布第二季度财报。在财报发布前夕，公司内部被曝出人工智能项目存在严重超支问题，其中一个项目甚至超出预算860%。投资者正密切关注亚马逊的资本支出指引，此前预计2026年资本支出高达2000亿美元，对大规模AI投资盈利能力的担忧持续影响市场情绪。
 
-- **[2026.07.30] Meta Platforms (META) — Meta第二季度营收增长，但运营利润和净利润下降**
-  English: Meta Platforms announced its second-quarter 2026 financial results on July 29, 2026, reporting revenue of $60.80 billion, a 28% increase year-over-year. However, income from operations decreased by 8% and net income fell by 14% compared to the prior year. Total costs and expenses surged 55% to $42.03 billion, including significant charges for legal proceedings and severance expenses. Capital expenditures were substantial at $31.08 billion. Despite strong ad impressions and average price per ad increases, the rising costs and investments, particularly in AI, impacted overall profitability.
-  中文：总结：Meta Platforms于2026年7月29日公布的第二季度财报显示，营收同比增长28%至608亿美元。然而，由于总成本和费用飙升55%至420.3亿美元（包括法律诉讼和遣散费），运营利润下降8%，净利润下降14%。资本支出高达310.8亿美元，表明公司在AI等领域的巨额投资正在影响短期盈利能力。
-  📰 [SEC.gov](https://www.sec.gov/Archives/edgar/data/1326801/000132680126000062/meta-20260630xex99_1.htm)
-
-- **[2026.07.30] Semiconductor Stocks — 芯片股延续跌势，AI相关股票承压**
-  English: Semiconductor equities continued their recent downward trend on July 29, 2026, contributing significantly to the broader market's decline. Micron Technology plummeted nearly 10%, while Advanced Micro Devices (AMD) and KLA Corporation also saw substantial drops of 5.51% and 10.8% respectively. NVIDIA, a key player in AI, was also noted among "recent AI winners" that experienced declines. This sector-specific weakness reflects investor concerns about high capital expenditures, component costs, and potentially slowing demand for AI hardware, despite strong corporate earnings beats in some areas.
-  中文：总结：2026年7月29日，半导体股票延续近期跌势，美光科技、AMD和KLA公司均大幅下跌。英伟达等AI相关股票也承压，加剧了市场整体跌幅。这一板块的疲软反映了投资者对高资本支出、零部件成本以及AI硬件需求可能放缓的担忧。
-  📰 [China.org](http://www.china.org.cn/business/2026-07/30/content_117361993.htm)
-
-- **[2026.07.30] Reformation (REF) — 服装品牌Reformation首次公开募股定价，今日纽交所上市**
-  English: Sustainable fashion brand Reformation (NYSE: REF) priced its initial public offering (IPO) of 14,062,500 common shares at $15.00 per share. The company is issuing 9,478,821 shares, with selling stockholders offering the remainder. Shares are expected to commence trading on the New York Stock Exchange today, July 30, 2026, under the ticker symbol "REF," with the closing anticipated on July 31, 2026. This IPO marks a significant event for the brand as it enters the public market.
-  中文：总结：可持续时尚品牌Reformation（纽交所代码：REF）已将其首次公开募股（IPO）定价为每股15.00美元，发行14,062,500股普通股。公司将发行9,478,821股，其余由售股股东提供。股票预计于2026年7月30日在纽约证券交易所开始交易，标志着该品牌正式进入公开市场。
-  📰 [Stock Titan](https://stocktitan.net/news/REF/reformation-announces-pricing-of-initial-public-offering-qj021k6q447u.html)
-
-- **[2026.07.30] US Consumer Confidence — 美国7月消费者信心指数连续第三个月下滑**
-  English: US consumer confidence declined for the third consecutive month in July 2026, with the Conference Board Consumer Confidence Index® falling by 1.4 points to 90.8. This decrease was primarily driven by a more negative assessment of current business and labor market conditions by consumers. While the short-term outlook remained unchanged, the persistent decline in confidence, with the Expectations Index remaining below 80 since February 2025, historically signals potential recession risks within the next year.
-  中文：总结：2026年7月美国消费者信心指数连续第三个月下滑，会议委员会消费者信心指数下降1.4点至90.8。此次下降主要源于消费者对当前商业和劳动力市场状况的负面评估。尽管短期前景未变，但信心持续下降，且预期指数自2025年2月以来一直低于80，这在历史上预示着未来一年内可能出现经济衰退风险。
-  📰 [PR Newswire](https://www.prnewswire.com/news-releases/us-consumer-confidence-edged-down-in-july-300289416.html)
+- **[2026.07.30] Apple (AAPL) — 苹果Q3财报备受期待，iPhone和服务业务有望推动增长**
+  English: Apple is set to announce its fiscal third-quarter 2026 earnings today. Analysts anticipate strong results, with expectations for robust double-digit year-over-year earnings growth, primarily driven by strong demand for its iPhone 17 lineup and continued momentum in its high-margin Services business. Despite concerns about rising component costs potentially pressuring gross margins, Wall Street firms like BofA and Morgan Stanley maintain bullish ratings, expecting Apple to beat consensus estimates and potentially extend its rally.
+  中文：总结：苹果公司将于今日公布2026财年第三季度财报。分析师预计业绩将表现强劲，主要受iPhone 17系列强劲需求和高利润服务业务持续增长的推动，有望实现两位数的同比增长。尽管零部件成本上升可能对毛利率造成压力，但华尔街机构如美国银行和摩根士丹利仍维持看涨评级，预计苹果将超出市场普遍预期并可能延续涨势。
 
 ## 🇯🇵 日本株式市場 / Japan Market
 
-- **[2026.07.30] 日本株式市場 — 半導体株安で売り先行、日経平均は続落か**
-  日本語：30日の東京株式市場は、前日の米国市場での半導体株急落や中東情勢の緊迫化を受けた世界的なリスクオフの流れを引き継ぎ、売り先行で始まる見込み。日経平均株価は続落が予想され、特にAI関連株や半導体関連株が下落を主導する可能性が高い。一方で、日銀金融政策決定会合の結果発表を翌日に控え、売り一巡後は様子見ムードが強まることも想定される。
-  中文：总结：受前夜美国半导体股暴跌及中东局势紧张影响，30日东京股市预计将低开，日经平均指数可能继续下跌，AI及半导体相关股票预计领跌。然而，鉴于日本央行货币政策会议结果将于次日公布，市场在抛售潮后可能转为观望。
-  📰 [Yahoo!ファイナンス](https://finance.yahoo.co.jp/news/detail/20260729-00000002-wsad-stocks)
+- **[2026.07.30] 日経平均 — 半導体株主導で反発**
+  日本語：30日の日本株式市場では、日経平均株価が3営業日ぶりに反発し、前日比433円24銭高の61,867円43銭で取引を終えました。前日の米国株安を受けて安く始まったものの、アドバンテストの業績上方修正を好感した買いが半導体関連株に波及し、東京エレクトロンなども上昇を牽引しました。しかし、TOPIXは下落して引け、市場全体としては銀行株などからの資金流出が見られました。
+  中文：总结：30日日本股市，日经225指数在半导体相关股票的带动下，时隔三个交易日反弹433.24日元，收于61,867.43日元。尽管受前夜美股下跌影响低开，但爱德万测试上调业绩预期提振了半导体板块，东京电子等也表现强劲。然而，TOPIX指数收跌，显示市场资金从银行股等流出。
+  📰 [株探ニュース](https://kabutan.jp/news/market/202607300433)
 
-- **[2026.07.30] 日本銀行 — 金融政策決定会合開始、政策金利据え置きが有力視**
-  日本語：日本銀行は30日から31日にかけて金融政策決定会合を開催する。市場では、前回6月の利上げ（0.75%から1.00%へ）の影響を見極めるため、今回は政策金利を据え置く公算が大きいとみられている。会合では同時に「経済・物価情勢の展望（展望レポート）」が公表され、今年度の実質GDP見通しは上方修正、コアCPI見通しは下方修正される可能性が指摘されている。植田総裁の記者会見での発言が注目される。
-  中文：总结：日本央行于30日至31日召开货币政策会议。市场普遍预计，为评估6月加息（从0.75%至1.00%）的影响，此次会议将维持政策利率不变。同时发布的《经济・物价形势展望报告》预计将上调本年度实际GDP预测，下调核心CPI预测。行长植田和男的记者会发言将备受关注。
-  📰 [Yahoo!ファイナンス](https://finance.yahoo.co.jp/news/detail/20260729-00000002-wsad-stocks)
+- **[2026.07.30] 日本銀行 — 金融政策決定会合開始**
+  日本語：日本銀行は30日から31日にかけて金融政策決定会合を開催しました。市場では、前回6月に1.0%への利上げを実施したばかりであるため、今回は政策金利を据え置くとの見方が大勢を占めています。中東情勢の緊迫化による原油価格上昇や、米連邦準備制度理事会（FRB）の金融政策を巡る不透明感が高まる中、日銀の物価高対応と今後の利上げ判断に注目が集まっています。
+  中文：总结：日本银行于30日至31日召开金融政策决定会议。市场普遍预计，鉴于6月已将政策利率上调至1.0%，此次会议将维持利率不变。在中东局势紧张导致油价上涨以及美联储货币政策不确定性增加的背景下，市场密切关注日本央行如何应对物价上涨以及未来的加息判断。
+  📰 [FNNプライムオンライン](https://www.fnn.jp/articles/-/737039)
 
-- **[2026.07.30] 円相場 — ドル円163円台で推移、FOMC後のドル安は限定的か**
-  日本語：30日の東京為替市場では、ドル円相場が1ドル＝163円台半ばで推移している。前日の米連邦公開市場委員会（FOMC）で政策金利が据え置かれたことを受け、一時ドル売りが進んだものの、ウォーシュFRB議長がインフレ抑制姿勢を強調したことや、中東情勢の緊迫化による「有事のドル買い」が再燃したことで、ドル安の持続性は乏しいとみられる。日銀会合を控える中、円安基調は継続する可能性が高い。
-  中文：总结：30日东京外汇市场，美元兑日元汇率在163日元区间中段波动。尽管前夜美联储FOMC维持利率不变曾短暂引发美元抛售，但美联储主席沃什强调抑制通胀的立场，以及中东局势紧张引发的避险美元买盘再现，美元跌势预计有限。在日本央行会议前夕，日元贬值趋势可能持续。
-  📰 [みんかぶFX](https://fx.minkabu.jp/news/376269)
+- **[2026.07.30] TOPIX — 銀行株安で下落、半導体へ資金逆流**
+  日本語：30日の東京市場では、日経平均が反発する一方で、TOPIXは0.54%安の3,952.50ポイントと下落して取引を終えました。これは、前日まで資金の受け皿となっていた銀行株が急落したことに加え、半導体やAI関連といった高ベータ技術株への買い戻しが集中したためです。日本株全体への新たな資金流入というよりは、セクター間の資金移動が顕著な「逆回転相場」となりました。
+  中文：总结：30日东京市场，日经指数反弹，但TOPIX指数下跌0.54%至3,952.50点。主要原因是此前受青睐的银行股急剧下跌，资金转而流向半导体和AI等高贝塔科技股。这并非日本股市整体资金流入，而是板块间资金轮动明显的“逆转行情”。
+  📰 [Note](https://note.com/ryoma_tachibana/n/n21f662e08620)
 
-- **[2026.07.30] 半導体関連株 — 東エレク決算発表を控え、半導体株は下落圧力継続**
-  日本語：東京エレクトロン（8035）は30日に2027年3月期第1四半期決算を発表する予定であり、市場の注目が集まっている。前日の米国市場での半導体株急落を受け、東京市場でも半導体関連株は引き続き売り圧力がかかる見込み。特に、キオクシアホールディングス（285A）は前日に続き大幅続落しており、AI関連株への資金流出と決算前の需給調整が続いている。
-  中文：总结：东京电子（8035）将于30日公布2027年3月期第一季度财报，市场高度关注。受前夜美国半导体股暴跌影响，东京市场半导体相关股票预计将继续面临抛售压力。特别是铠侠控股（285A）继前日后大幅下跌，AI相关股票的资金流出和财报前的供需调整仍在持续。
-  📰 [LIMO＆ファイナンス](https://limo.media/articles/-/50361)
+- **[2026.07.30] タムロン — ソニーによる買収提案でストップ高**
+  日本語：光学機器メーカーのタムロン（7740）が30日の東証プライム市場でストップ高を記録しました。これは、ソニーから2,000億円規模の買収提案があったと報じられたことを好感したもので、同社株価は一時26.46%高の1,434円まで急騰し、東証プライム市場の値上がり率1位となりました。この動きは、M&Aが個別銘柄に与える大きな影響を示しています。
+  中文：总结：光学设备制造商腾龙（Tamron，7740）30日在东京证券交易所主板市场触及涨停。据报道，索尼提出了一项2000亿日元规模的收购要约，受此利好消息影响，腾龙股价一度飙升26.46%至1,434日元，成为东证主板涨幅榜首。此举显示了并购对个股的巨大影响。
+  📰 [ゴールドオンライン](https://gentosha-go.com/articles/-/63654)
 
-- **[2026.07.30] トヨタ自動車 — 半導体株安の中で株価堅調、8月4日の決算に注目**
-  日本語：半導体関連株が大幅に下落する中、トヨタ自動車（7203）の株価は堅調に推移している。同社は8月4日に2027年3月期第1四半期決算を控えており、米国関税の影響や減益計画に対する滑り出しが注目される。前期は売上高が過去最高を更新したものの、営業利益は減益となっており、今期の見通しと株主還元策が焦点となる。
-  中文：总结：在半导体相关股票大幅下跌之际，丰田汽车（7203）股价表现坚挺。该公司将于8月4日公布2027年3月期第一季度财报，美国关税影响及减益计划的开局备受关注。上财年营收创历史新高但营业利润下降，本财年展望及股东回报政策将成为焦点。
-  📰 [Yahoo!ファイナンス](https://finance.yahoo.co.jp/news/detail/20260729-00000003-limo-stocks)
-
-- **[2026.07.30] ソニーグループ — 31日に第1四半期決算発表、PS5販売台数などに注目**
-  日本語：ソニーグループ（6758）は31日に2026年度第1四半期決算説明会を開催する。市場は、PlayStation 5の累計販売台数やゲーム＆ネットワークサービス分野の業績、AFEELA動向、Xperiaスマートフォン事業などに注目している。前年度は減収減益となっており、今期の見通しや各事業の進捗が投資判断に影響を与える可能性がある。
-  中文：总结：索尼集团（6758）将于31日举行2026财年第一季度业绩说明会。市场关注PlayStation 5的累计销量、游戏与网络服务业务表现、AFEELA动向以及Xperia智能手机业务等。上财年索尼营收和利润均下降，本财年展望及各业务进展可能影响投资决策。
-  📰 [ソニーグループポータル](https://www.sony.com/ja/IR/library/er/2026/q1.html)
+- **[2026.07.30] トヨタ自動車 — 2026年上半期世界販売台数発表**
+  日本語：トヨタ自動車は30日、2026年上半期（1～6月）のグループ世界販売台数が前年同期比2.8％増となったと発表しました。一方で、6月の世界販売台数は前年同月比1.1%減と5カ月連続で前年割れとなりましたが、減少幅はこれまでで最も小さかったとのことです。特に中国市場での販売が27%減と厳しかったものの、米国や日本では二桁増を記録しています。
+  中文：总结：丰田汽车30日公布，2026年上半年（1-6月）集团全球销量同比增长2.8%。然而，6月全球销量同比下降1.1%，连续第五个月低于去年同期，但降幅为最小。尽管中国市场销售额下降27%，表现严峻，但美国和日本市场均实现两位数增长。
+  📰 [nippon.com](https://www.nippon.com/ja/news/yjj2026073000570/)
 
 ## 🌍 宏观经济与投资 / Macro & Investment
 
-- **[2026.07.30] US Federal Reserve — 美联储维持利率不变，异议凸显**
-  English: The Federal Reserve maintained its benchmark interest rate at 3.5%-3.75% following its July 29th meeting, a decision effective July 30th. The vote was 9-3, with three policymakers dissenting in favor of a quarter-point hike, highlighting persistent concerns over elevated inflation. Despite solid economic growth and a resilient labor market, the Fed acknowledged that inflation remains above its 2% target, partly due to energy-related supply shocks and Middle East conflict. This divided stance leaves investors seeking clearer guidance on future monetary policy.
-  中文：美联储在7月29日会议后决定将基准利率维持在3.5%-3.75%不变，该决定于7月30日生效。此次投票结果为9-3，三名委员投票支持加息25个基点，凸显了对高通胀的持续担忧。尽管经济增长稳健且劳动力市场富有韧性，美联储仍指出通胀高于2%的目标，部分原因是能源供应冲击和中东冲突。这种分歧立场使投资者对未来的货币政策路径缺乏明确指引。
-  📰 [Federal Reserve Board](https://www.federalreserve.gov/newsevents/pressreleases/monetary20260729a.htm)
+- **[2026.07.30] US Stock Market / Federal Reserve — 美联储维持利率不变，科技股财报喜忧参半**
+  English: US stock futures saw a mixed reaction today after the Federal Reserve held its benchmark interest rate steady at 3.5%-3.75% for the fifth consecutive meeting, despite three dissenting votes favoring a hike. This decision comes as investors digest a mixed bag of corporate earnings. Microsoft shares surged nearly 9% after its Azure cloud business exceeded $100 billion in annual revenue, signaling strong AI investment returns. Conversely, Meta Platforms fell 8.8% due to missed earnings forecasts and weak revenue guidance, highlighting investor scrutiny on AI spending profitability. The market remains focused on upcoming earnings from Apple and Amazon, and the Fed's future policy direction amidst persistent inflation.
+  中文：总结：美国股市期货今日表现不一，此前美联储连续第五次将基准利率维持在3.5%-3.75%不变，尽管有三位委员投票支持加息。微软Azure云业务年收入突破1000亿美元，股价飙升近9%，显示AI投资回报强劲。然而，Meta Platforms因财报不及预期和营收指引疲软而下跌8.8%，凸显投资者对AI支出盈利能力的严格审视。市场正密切关注苹果和亚马逊即将发布的财报，以及美联储在持续通胀背景下的未来政策走向。
+  📰 [TheStreet](https://www.thestreet.com/markets/stock-market-today-july-30-2026-nasdaq-futures-rise-as-microsoft-surges-fed-holds-rates-steady)
 
-- **[2026.07.30] US Stock Market — 美国股市因科技股抛售和美联储不确定性而下跌**
-  English: US stock indices closed lower on Wednesday, with the S&P 500 falling 1.5% and the Nasdaq 100 entering a technical correction, down 11% from its record high. The decline was largely driven by a renewed selloff in chipmakers and AI-related stocks, coupled with uncertainty following the Federal Reserve's decision to hold rates steady but with dissenting votes. Treasury yields surged, and Meta Platforms issued a lackluster forecast after hours, though Microsoft reported strong cloud growth. Market sentiment remains cautious ahead of further earnings and economic data.
-  中文：美国股市周三收低，标普500指数下跌1.5%，纳斯达克100指数进入技术性回调，较历史高点下跌11%。此次下跌主要受芯片制造商和人工智能相关股票抛售潮以及美联储维持利率不变但存在异议的决定影响。国债收益率飙升，Meta发布了平淡的财报预测，尽管微软云业务增长强劲。市场情绪在等待更多财报和经济数据之际保持谨慎。
-  📰 [The Edge Singapore](https://www.theedgesingapore.com/news/global-market/asian-stocks-fall-fed-keeps-rates-hold)
+- **[2026.07.30] US Economy — 美国第二季度GDP增长放缓，通胀仍高于目标**
+  English: The U.S. economy grew at a slower-than-expected pace in the second quarter, with Gross Domestic Product (GDP) increasing by 1.5% from April through June, missing economists' forecast of 1.8% growth and decelerating from the first quarter's 2.1% rise. Simultaneously, inflation remains a key concern, as the Personal Consumption Expenditures (PCE) price index, the Federal Reserve's preferred inflation gauge, showed prices were 3.7% higher than a year ago, despite a slight 0.1% dip in June. Core PCE inflation, excluding volatile food and energy prices, rose 0.1% monthly and was 3.3% higher year-over-year. These figures present a challenging backdrop for the Fed's monetary policy decisions.
+  中文：总结：美国第二季度GDP增长放缓至1.5%，低于市场预期的1.8%，也低于第一季度的2.1%。与此同时，美联储偏爱的通胀指标——个人消费支出（PCE）价格指数显示，物价同比上涨3.7%，核心PCE同比上涨3.3%，仍高于美联储2%的目标。这些数据为美联储的货币政策决策带来了挑战，表明经济增长放缓与持续高通胀并存。
+  📰 [24/7 Wall St.](https://247wallst.com/investing/2026/07/30/stock-market-live-july-30-2026-sp-500-spy-pivoting-from-fed-induced-drop/)
 
-- **[2026.07.30] Japan's Nikkei 225 — 日经225指数在全球科技股抛售和油价飙升中面临进一步压力**
-  日本語：日本株式市場は、中東での紛争再燃、原油価格の急騰、そして金利見通しへの懸念から、木曜日（7月30日）にさらなる下落圧力を受ける見込みだ。前日までの連続下落で日経平均株価は61,430ポイント台をわずかに上回る水準にあり、特にテクノロジー株、自動車メーカー、金融株が大きく売られた。世界的なテクノロジー株の売りが続き、アジア市場全体に弱気な見通しが広がっている。
-  中文：日本股市预计在周四（7月30日）面临进一步下跌压力，原因包括中东冲突再燃、原油价格飙升以及对利率前景的担忧。此前连续下跌已使日经225指数勉强维持在61,430点上方，科技股、汽车制造商和金融股遭受重创。全球科技股抛售潮持续，亚洲市场普遍呈现疲软态势。
-  📰 [Finanzen](https://www.finanzen.at/nachrichten/aktien/tech-shares-may-continue-to-weigh-on-japan-stock-market-1035515099)
+- **[2026.07.30] 日経平均株価 — 日経平均株価は半導体株に支えられ上昇、銀行株は下落**
+  日本語：本日、日本の日経平均株価は0.71%高で取引を終え、半導体関連株が市場を牽引しました。特に、アドバンテストが通期営業利益予想を35%上方修正したことを受け、株価が10.85%急騰しました。東京エレクトロンも4.48%上昇し、半導体セクター全体が好調でした。一方で、銀行株は軟調で、三菱UFJフィナンシャル・グループと三井住友フィナンシャルグループはそれぞれ3%以上下落しました。TOPIX指数は0.54%下落し、日経平均とは対照的な動きを見せました。
+  中文：总结：日本日经指数今日上涨0.71%，收于61,867.43点，主要受半导体相关股票的提振。Advantest因上调全年营业利润预期35%而股价飙升10.85%，东京电子也上涨4.48%。然而，银行股表现不佳，三菱UFJ和三井住友金融集团均下跌超过3%，导致更广泛的东证指数下跌0.54%。
+  📰 [Qatar News Agency](https://www.qna.org.qa/en/News/26073011450010/Japan's-Nikkei-Closes-Higher)
 
-- **[2026.07.30] Crude Oil — 原油价格因中东紧张局势升级而飙升**
-  English: Crude oil prices surged significantly on Wednesday, with West Texas Intermediate (WTI) for September delivery rising over 7% to $84.81 per barrel. This sharp increase was attributed to renewed hostilities in the Middle East, specifically Iran's surprise attacks on U.S. bases in Jordan, prompting retaliatory strikes. The escalating geopolitical tensions are fueling concerns about global oil supply disruptions and pushing inflation expectations higher, impacting broader market sentiment and central bank policy considerations.
-  中文：周三原油价格大幅上涨，9月交割的西德克萨斯中质原油（WTI）飙升逾7%至每桶84.81美元。此次大涨归因于中东地区冲突升级，特别是伊朗对美国驻约旦基地发动突袭，引发了报复性打击。地缘政治紧张局势的加剧引发了对全球石油供应中断的担忧，推高了通胀预期，从而影响了更广泛的市场情绪和央行政策考量。
-  📰 [Charles Schwab](https://www.schwab.com/learn/story/stocks-under-pressure-early-ahead-fed-decision)
+- **[2026.07.30] 日本経済 / USD/JPY — 日本政府下调GDP增长预测，日元兑美元维持强势**
+  日本語：日本政府は、原油価格の高騰が輸入依存度の高い経済に重くのしかかる中、2026年度の経済成長率予測を従来の1.3%から0.9%に下方修正しました。同時に、USD/JPYは163.56付近で取引されており、20日指数移動平均線（162.84）を上回る水準を維持し、強気な短期バイアスを示しています。米連邦準備制度理事会が金利を据え置いたこと、そして日本銀行が明日も現状維持を決定すると広く予想されていることが、ドルの反発と円安圧力に寄与しています。
+  中文：总结：日本政府将2026财年GDP增长预测从1.3%下调至0.9%，主要原因是原油价格上涨对高度依赖进口的经济体造成压力。与此同时，美元兑日元（USD/JPY）在163.56附近交易，维持看涨偏向，因美联储维持利率不变，且市场普遍预计日本央行将维持现状。
+  📰 [FXStreet](https://www.fxstreet.com/news/usd-jpy-price-forecast-rising-20-day-ema-backs-bullish-bias-202607300649)
 
-- **[2026.07.30] Gold Prices — 黄金价格受美联储决策和油价飙升影响承压**
-  English: Gold prices plummeted again on Thursday, July 30, facing significant pressure on the international market. Investors are closely watching for further signals from the Federal Reserve, whose recent decision to hold rates steady but with hawkish dissents, combined with surging oil prices, is creating a complex environment. While geopolitical tensions typically support gold, the focus on potential future rate hikes and the dollar's strength are currently weighing on the non-yielding asset, pushing SJC gold prices to a six-month low domestically.
-  中文：7月30日周四，国际金价再次大幅下跌，面临巨大压力。投资者正密切关注美联储的进一步信号，其近期维持利率不变但存在鹰派异议的决定，加上原油价格飙升，共同营造了一个复杂的市场环境。尽管地缘政治紧张局势通常会支撑黄金，但对未来可能加息的关注和美元走强目前正在打压这种非收益资产，导致国内SJC金价跌至六个月低点。
-  📰 [Vietnam.vn](https://vietnam.vn/en/vang-giam-manh-tro-lai-hom-nay-30-7-2026-vang-sjc-nhan-vang-co-the-giam-sau-tro-lai-20260730101859999.htm)
+- **[2026.07.30] 全球经济 / IMF — 国际货币基金组织预测全球增长放缓，通胀和油价上涨**
+  English: The International Monetary Fund (IMF) projects global growth to slow to 3.0% in 2026, a modest slowdown from 3.5% in 2024-25, partly due to the Middle East conflict. Global inflation is expected to pause its steady decline, rising from 4.1% in 2025 to 4.7% in 2026, primarily driven by higher energy and food prices. Brent crude oil prices rose to $88.93 a barrel, and WTI crude to $85.25 a barrel, reflecting renewed hostilities in the Middle East and concerns over global supply. This inflationary pressure and geopolitical uncertainty are key factors shaping the global economic outlook.
+  中文：总结：国际货币基金组织（IMF）预测2026年全球经济增长将放缓至3.0%，主要受中东冲突影响。全球通胀预计将从2025年的4.1%上升至2026年的4.7%，主要由能源和食品价格上涨推动。布伦特原油和WTI原油价格因中东地区冲突加剧而上涨，加剧了全球通胀压力和地缘政治不确定性。
+  📰 [International Monetary Fund](https://www.imf.org/en/Publications/WEO/Issues/2026/07/29/world-economic-outlook-update-july-2026)
 
-- **[2026.07.30] Bitcoin — 比特币在宏观经济逆风中谨慎交易**
-  English: Bitcoin traded cautiously on Wednesday, showing a slight rise of around 0.7% to $64,313, but remains sensitive to broader macroeconomic headwinds. The cryptocurrency market is closely watching the Federal Reserve's policy stance, especially after the central bank held rates steady but with a divided committee, and as surging oil prices fuel inflation concerns. Geopolitical uncertainties and the outlook for interest rates continue to influence risk assets like Bitcoin, with traders seeking clearer direction amidst the volatile environment.
-  中文：比特币周三交易谨慎，小幅上涨约0.7%至64,313美元，但仍对宏观经济逆风保持敏感。加密货币市场正密切关注美联储的政策立场，尤其是在央行维持利率不变但委员会存在分歧，以及油价飙升加剧通胀担忧之际。地缘政治不确定性和利率前景继续影响比特币等风险资产，交易员在波动环境中寻求更明确的方向。
-  📰 [Forex & Metals Watch](https://www.youtube.com/watch?v=1234567890) (Note: The provided URL for this source was a YouTube video, which is not a direct article URL. Using a placeholder as per instructions, but ideally, a direct article link would be preferred if available.)
+- **[2026.07.30] G7 / 全球贸易 — G7未能解决全球失衡，中国“第二波冲击”引关注**
+  English: The G7 is reportedly failing to address growing global imbalances, particularly a "China Shock 2.0" as China moves up the manufacturing value chain, producing advanced technology for export. This phenomenon, driven by government subsidies and an artificially suppressed exchange rate, threatens to repeat the job losses and trade deficits seen in Western economies over the past two decades. Economists warn that persistent and large excess current account balances, with China and the United States as main drivers, can signal uneven growth patterns and increase the risk of disorderly adjustments, underscoring the need for institutional change beyond tariffs.
+  中文：总结：G7被指未能解决日益加剧的全球经济失衡问题，尤其是在中国制造业向高端技术出口转型之际，正面临“中国冲击2.0”。这种由政府补贴和人为压低汇率驱动的现象，可能导致西方经济体重蹈过去二十年就业流失和贸易逆差的覆辙。经济学家警告，中国和美国作为主要驱动因素的持续大规模经常账户盈余，预示着不均衡的增长模式，并可能增加无序调整的风险。
+  📰 [ProMarket](https://promarket.org/2026/07/30/the-g7-is-failing-to-address-global-imbalances/)
 
-- **[2026.07.30] US Economic Data — 美国第二季度GDP和核心PCE数据即将公布**
-  English: The United States is scheduled to release its advance estimate for second-quarter GDP and the Core Personal Consumption Expenditure (PCE) Price Index on Thursday, July 30, 2026. These key economic indicators are crucial for assessing the nation's economic growth and underlying inflation trends. The data will provide further insights into whether inflation and growth remain consistent with the Federal Reserve's policy outlook, potentially influencing market expectations for future monetary policy adjustments and overall market sentiment.
-  中文：美国定于2026年7月30日周四公布第二季度GDP初值以及核心个人消费支出（PCE）物价指数。这些关键经济指标对于评估美国经济增长和潜在通胀趋势至关重要。这些数据将进一步揭示通胀和增长是否与美联储的政策前景保持一致，并可能影响市场对未来货币政策调整和整体市场情绪的预期。
-  📰 [Investing.com](https://www.investing.com/news/stock-market-news/core-pce-price-index-gdp-and-jobless-claims-due-thursday-3850000)
-
-- **[2026.07.30] Reformation IPO — Reformation首次公开募股（IPO）将在纽交所开始交易**
-  English: Reformation (NYSE: REF), a sustainable fashion brand, priced its initial public offering of 14,062,500 common shares at $15.00 per share on July 29, 2026. The shares are expected to commence trading on the New York Stock Exchange (NYSE) on July 30, 2026, under the ticker symbol REF. This IPO marks a significant event for the company and the retail sector, attracting investor attention as it enters the public market. The offering includes both company-issued and selling stockholder shares.
-  中文：可持续时尚品牌Reformation（纽交所代码：REF）于2026年7月29日将其首次公开募股（IPO）定价为每股15.00美元，共发行14,062,500股普通股。这些股票预计将于2026年7月30日在纽约证券交易所（NYSE）开始交易。此次IPO是该公司和零售业的一项重要事件，随着其进入公开市场，吸引了投资者的关注。此次发行包括公司发行和现有股东出售的股票。
-  📰 [Stock Titan](https://stocktitan.net/news/REF/reformation-announces-pricing-of-initial-public-offering-v609m98w200f.html)
+- **[2026.07.30] 加密货币 / 比特币 — 比特币在市场压力下企稳，交投区间有限**
+  English: The cryptocurrency market is facing pressure amidst renewed Middle East tensions, the Federal Reserve's hawkish stance, and concerns over AI investment returns. Bitcoin (BTC) has stabilized around the $64,000 level after previously testing $62,800. However, the rebound remains modest, with BTC trading in a low-volume range of $63,500–64,500, indicating a short-term weak recovery phase with limited directional momentum. The broader market sentiment, influenced by traditional financial market volatility and geopolitical events, continues to impact crypto asset performance.
+  中文：总结：受中东局势紧张、美联储鹰派立场以及对AI投资回报担忧的影响，加密货币市场面临压力。比特币（BTC）在此前测试62,800美元后，已在64,000美元附近企稳。然而，反弹幅度有限，BTC在63,500-64,500美元的低成交量区间内交易，表明短期复苏乏力，方向性动能有限。
+  📰 [KuCoin](https://www.kucoin.com/news/crypto-daily-market-report-july-30-2026)
 
 ---
 ※Stock Market Daily Digest | 2026.07.30
