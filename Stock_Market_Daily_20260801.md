@@ -7,94 +7,111 @@
 
 ## 🇺🇸 美国股市 / US Market
 
-- **[2026.08.01] Amazon (AMZN) — 亚马逊财报超预期，股价飙升**
-  English: Amazon shares surged over 10% after the company reported stronger-than-expected second-quarter earnings, driven by robust growth in its Amazon Web Services (AWS) cloud computing division. AWS revenue climbed 37% year-over-year, exceeding analyst forecasts and easing concerns about AI infrastructure spending. The strong performance, coupled with increased capital expenditure forecasts for AI and data centers, signals Amazon's continued leadership in the cloud and AI sectors, contributing significantly to a broader tech-led market rally.
-  中文：总结：亚马逊公布第二季度财报，业绩超出市场预期，尤其是在其云计算部门AWS的强劲增长推动下，股价飙升超过10%。AWS营收同比增长37%，超出分析师预测，缓解了市场对AI基础设施支出的担忧。这一强劲表现以及对AI和数据中心资本支出的增加，预示着亚马逊在云和AI领域的持续领先地位，并显著推动了科技股主导的市场反弹。
-  📰 [TheStreet](https://www.thestreet.com/markets/stock-market-today-july-31-2026-sp-500-slips-as-bond-yields-surge-apple-slides)
+- **[2026.08.01] Investor's Business Daily — Why Wall Street Likes Apple's AI Strategy Despite Friday's Stock Tumble**
+  English: Summary: Investor's Business Daily reports a market-moving item tied to Apple. The relevance is how it feeds into mega-cap technology leadership and index concentration. Watch Apple alongside Nasdaq futures, sector breadth, volume, and analyst revisions. If related stocks move together, the signal is more likely to reflect a real sector trend; if the reaction is isolated, it may be short-lived repricing. The next checkpoint is whether trading confirms the same direction across peers.
+  中文：总结：Apple 仍是大型科技股交易主线中的关键变量。这些公司权重高，对 S&P 500 和 Nasdaq 的方向影响明显；一旦估值、AI 投入、云业务或广告业务预期变化，指数可能被少数巨头牵引。接下来要看资金是继续集中在大型科技股，还是向软件、半导体设备、数据中心电力等周边产业扩散。实盘上还应观察期货开盘后的成交量、期权隐含波动率、龙头股是否带动同业，以及资金是否从指数权重股扩散到中小型成长股。如果消息只推动单一公司而板块没有跟随，趋势持续性会弱一些；如果半导体、软件、云计算和电力基础设施同时响应，说明市场正在交易更完整的 AI 资本开支链条。
+  📰 [Investor's Business Daily](https://news.google.com/rss/articles/CBMiigFBVV95cUxON1paeF9HVDlHR19Wb1czMG9uT1RhcVVGMjh5NEVZc1JQX0VJbUdzYkN4UXprYnBLNi1RN2xVYXIwcXVfaGY0T3E0NDdhZl92ZjVlRTZuam1GaEFMdWh4eFZ3TnVwbFU4OW5GeTAyZG5Dck93VzhTY3pZdW1aMVpQNGk0QzZUWHdwN0E?oc=5)
 
-- **[2026.08.01] Apple (AAPL) — 苹果财报后股价下跌，受中国市场和服务业务拖累**
-  English: Apple's stock tumbled over 7% despite beating overall earnings estimates for its fiscal third quarter. The decline was primarily attributed to weaker-than-expected revenue from its China business and Services segment, coupled with warnings from CEO Tim Cook about "very significant supply constraints" impacting future guidance. Investors reacted negatively to the slowing growth in key areas and rising component costs, overshadowing strong iPhone sales and contributing to a mixed sentiment for mega-cap tech stocks.
-  中文：总结：尽管苹果公司第三财季整体盈利超出预期，但其股价仍下跌超过7%。这主要是由于中国市场和服务业务营收不及预期，以及首席执行官蒂姆·库克对未来“非常显著的供应链限制”发出的警告。投资者对关键领域增长放缓和零部件成本上升反应消极，这盖过了iPhone强劲销售的表现，并导致大型科技股情绪复杂。
-  📰 [Business Insider](https://www.businessinsider.com/apple-earnings-supply-and-memory-costs-cloud-immense-iphone-demand-picture)
+- **[2026.08.01] tradingkey.com — AI Bubble or AI Boom? How Europe's Markets Read Alphabet Down 15%, Meta Down 10%, Microsoft Up 8%**
+  English: Summary: tradingkey.com reports a market-moving item tied to Microsoft, Meta, Alphabet. The relevance is how it feeds into mega-cap technology leadership and index concentration. Watch Microsoft, Meta, Alphabet alongside Nasdaq futures, sector breadth, volume, and analyst revisions. If related stocks move together, the signal is more likely to reflect a real sector trend; if the reaction is isolated, it may be short-lived repricing. The next checkpoint is whether trading confirms the same direction across peers.
+  中文：总结：Microsoft、Meta、Alphabet 仍是大型科技股交易主线中的关键变量。这些公司权重高，对 S&P 500 和 Nasdaq 的方向影响明显；一旦估值、AI 投入、云业务或广告业务预期变化，指数可能被少数巨头牵引。接下来要看资金是继续集中在大型科技股，还是向软件、半导体设备、数据中心电力等周边产业扩散。实盘上还应观察期货开盘后的成交量、期权隐含波动率、龙头股是否带动同业，以及资金是否从指数权重股扩散到中小型成长股。如果消息只推动单一公司而板块没有跟随，趋势持续性会弱一些；如果半导体、软件、云计算和电力基础设施同时响应，说明市场正在交易更完整的 AI 资本开支链条。
+  📰 [tradingkey.com](https://news.google.com/rss/articles/CBMizgFBVV95cUxPVzhnWkF1eHFtSVhBc0J0UzdOdl8yTTM0QjNmOUZPSUxKUllubmxZVHRXQWlwWTJGZlJmY3pNY1A5OHdwRGJFdHRqX0xNQmkyTEw2MkJ5ODhlUFZaVFNLWHc1UjRpbmhnQ1JGV3BxcWZOS3gxbk9jWVdjbEZYOHY2LUpUdnAzVVpMQ1hDTjBsSHhGVEZSRXZCU3o3SFB0RXR5NnFVeGFPa2RVUGw0MjFJa2NNc1JQenphVWhlZjJZdXNkMVAtUVAyTnd3Y0F5Zw?oc=5)
 
-- **[2026.08.01] Microsoft (MSFT) — 微软财报提振AI信心，股价大涨**
-  English: Microsoft shares experienced a significant rally, extending gains from the previous day, after the company reported strong fiscal year 2026 results. The impressive performance was largely driven by its Intelligent Cloud segment, with Azure revenue growing 43% year-over-year and surpassing $100 billion in annual revenue. This strong cloud growth and AI monetization signals reassured investors that substantial investments in artificial intelligence infrastructure are beginning to yield significant profits, bolstering overall market confidence in the tech sector.
-  中文：总结：微软公布2026财年强劲业绩后，股价大幅上涨，延续了前一天的涨势。这主要得益于其智能云部门的卓越表现，Azure营收同比增长43%，年收入首次突破1000亿美元。强劲的云增长和AI变现能力，让投资者相信对人工智能基础设施的大量投资正带来可观利润，从而提振了市场对科技行业的整体信心。
-  📰 [Seeking Alpha](https://seekingalpha.com/article/4620026-microsoft-fy-2026-heres-what-the-market-might-have-misunderstood-nasdaq-msft)
+- **[2026.08.01] The Sunday Guardian — S&P 500 Today: Index Falls -0.29% as Apple, Micron, Boeing & Qualcomm Crash Before Fed Decision & Inflation – Check Key Drivers, Daily Performance, Top Gainers-Losers & What Investors Should Watch**
+  English: Summary: The Sunday Guardian is reporting a specific AI chips, memory, data centers, and semiconductor equipment story involving Micron, Qualcomm, Apple. Micron is the stock-specific signal, so memory pricing matters more than a generic chip move. Qualcomm adds an AI-device chip angle separate from data-center memory. Peer moves show whether the trade is spreading through the AI-chip chain. This is more of an industry watchlist item, so it should be treated as context rather than one decisive catalyst. The practical read-through is to compare the named stocks with Nasdaq futures, SOX-style semiconductor breadth, and opening volume. If the reaction spreads across peers, it supports a sector trade; if it stays isolated, it is more likely a short-term headline move.
+  中文：总结：Micron、Qualcomm、Apple 是这条消息的主要观察对象。Micron 是主要个股信号，重点应看存储价格和 AI 服务器需求，而不只是泛泛看芯片股上涨；Qualcomm 带来的是 AI 终端或设备芯片角度，和 Micron 的数据中心存储逻辑并不完全相同；AMD、Intel、Qualcomm、Broadcom 或 Nvidia 等同业表现，可以判断资金是否在扩散到更完整的 AI 芯片链；这更像行业观察清单，适合作为背景信息，而不是单一明确催化。交易上需要把标题里的具体催化和盘面反应分开看：如果同业、期货和成交量同步确认，说明资金正在沿 AI 芯片链扩散；如果只有单一股票反应，持续性就要打折。
+  📰 [The Sunday Guardian](https://news.google.com/rss/articles/CBMi5gJBVV95cUxPOTR0TDhRbktVaXJvYUVwU2FCbVBicm92QmhkTlZ6U2VWMC1lMjROWVVTcnNwNUdSMjlLWkFhVHJlRE5rcVdTY05oMmRDdzlibGd1R1RtVnFyQUh5MFNkZ2l3R1M4WUpJcWFvc0M2Z2cwcTZTWTJ3WkNtek0xLTJ1b2NqU1QyT3VFRGJVRU51NEdWUVcxR3RfSTRzWnp6ZFpDWGc4QzJRT1F0Q0tNTy14N2VGMTUzWmt3QU16czhySi1PbDZQeW5RbHN4T1VEN21McklzTEcyQ0NJUHpLc2dXbjRpTEVwWTl4SlBMUElBbGVnR0xjTlVUUHdoTGR1ZWZMZXBaVEVZcVZleWREZnRQYkh5TV9JSDlya1h1N0pJZDl1VjlmR0F1dVprQXpzVTBZTGxfd3hBaDVKYW5BZHE1NXphNUNsSjZJeHY4Ulktc3NZY0s5dTNDUjY1azh5cnNYb05WcUF30gHmAkFVX3lxTE85NHRMOFFuS1Vpcm9hRXBTYUJtUGJyb3ZCaGROVnpTZVYwLWUyNE5ZVVNyc3A1R1IyOUtaQWFUcmVETmtxV1NjTmgyZEN3OWJsZ3VHVG1WcXJBSHkwU2RnaXdHUzhZSklxYW9zQzZnZzBxNlNZMndaQ216TTEtMnVvY2pTVDJPdUVEYlVFTnU0R1ZRVzFHdF9JNHNaenpkWkNYZzhDMlFPUXRDS01PLXg3ZUYxNTNaa3dBTXpzOHJKLU9sNlB5blFsc3hPVUQ3bUxySXNMRzJDQ0lQektzZ1duNGlMRXBZOXhKUExQSUFsZWdHTGNOVVRQd2hMZHVlZkxlcFpURVlxVmV5ZERmdFBiSHlNX0lIOXJrWHU3SklkOXVWOWZHQXV1WmtBenNVMFlMbF93eEFoNUphbkFkcTU1emE1Q2xKNkl4djhSWS1zc1ljSzl1M0NSNjVrOHlyc1hvTlZxQXc?oc=5)
 
-- **[2026.08.01] US Stock Market — 美股科技股领涨，但国债收益率攀升带来压力**
-  English: The US stock market saw a mixed performance, with the Nasdaq Composite leading gains, rising over 1%, while the S&P 500 and Dow Jones Industrial Average also advanced. This tech-led rally was primarily fueled by strong earnings from Amazon and Microsoft, which eased concerns about AI spending. However, the market's upward momentum was partially offset by surging US Treasury yields, which reached multi-year highs, adding pressure on stocks and indicating underlying inflation worries.
-  中文：总结：美国股市表现喜忧参半，纳斯达克综合指数领涨超过1%，标普500指数和道琼斯工业平均指数也上涨。此次科技股主导的反弹主要受亚马逊和微软强劲财报的推动，缓解了对AI支出的担忧。然而，美国国债收益率飙升至多年高位，给股市带来压力，并预示着潜在的通胀担忧，部分抵消了市场的上涨势头。
-  📰 [The Journal](https://www.thejournal.ie/wall-street-rises-as-amazon-and-chip-stocks-jump-even-as-oil-prices-add-to-worries-about-inflation-6140989-Jul2026/)
+- **[2026.07.31] benzinga.com — Michael Burry Expands Bets Against Nvidia, Micron— and Is Now Buying Lululemon and DraftKings**
+  English: Summary: benzinga.com is reporting a specific AI chips, memory, data centers, and semiconductor equipment story involving Nvidia, Micron. Micron is the stock-specific signal, so memory pricing matters more than a generic chip move. Peer moves show whether the trade is spreading through the AI-chip chain. The practical read-through is to compare the named stocks with Nasdaq futures, SOX-style semiconductor breadth, and opening volume. If the reaction spreads across peers, it supports a sector trade; if it stays isolated, it is more likely a short-term headline move.
+  中文：总结：Nvidia、Micron 是这条消息的主要观察对象。Micron 是主要个股信号，重点应看存储价格和 AI 服务器需求，而不只是泛泛看芯片股上涨；AMD、Intel、Qualcomm、Broadcom 或 Nvidia 等同业表现，可以判断资金是否在扩散到更完整的 AI 芯片链。交易上需要把标题里的具体催化和盘面反应分开看：如果同业、期货和成交量同步确认，说明资金正在沿 AI 芯片链扩散；如果只有单一股票反应，持续性就要打折。
+  📰 [benzinga.com](https://news.google.com/rss/articles/CBMi7gFBVV95cUxNRWtpMlZvUndqWnpxWG5KZGxHTXRQWjdWOHZ0Nm1UaGU1Wi1PTHR5U09MdlFfcmwyMzB3bjVjNG5LOGp5bGsyVzd4bTM2dHpvaU5BeXpKMUZNLXltWTZkSlE1TXVVRXQtNHprOVk5RVloQ2dNN1VBUEhKaF92MmE2djBubEVjYUtBYm01LUFQRGNkUE56d04wZzhSTEJFR0dEQ3NKZzJwYUNwbzVjcVhOTTRtTEY3SlNDclR3aE1reHNNNk9lWEpDSFJsTlpEZ0NTSGxUWl9yYndFT0pGNFJYQmJXNmhDVnBMQXFjWnlB?oc=5)
 
-- **[2026.08.01] Tesla (TSLA) — 特斯拉Q2财报后股价下跌，资本支出和盈利承压**
-  English: Tesla's stock continued its decline after its second-quarter 2026 earnings report, missing Wall Street's profit estimates and revealing significantly higher capital spending. Despite beating revenue forecasts and maintaining optimism for long-term AI initiatives like robotaxis, the increased capital expenditures for new factories and AI infrastructure, coupled with pressure on operating margins, weighed heavily on investor sentiment. Analysts remain divided, with some lowering price targets due to near-term headwinds.
-  中文：总结：特斯拉公布2026年第二季度财报后，股价持续下跌，未能达到华尔街的利润预期，并显示出显著增加的资本支出。尽管营收超出预期，且对机器人出租车等长期AI计划保持乐观，但新工厂和AI基础设施的资本支出增加，加上运营利润率承压，严重影响了投资者情绪。分析师对此看法不一，部分因近期不利因素下调了目标价。
-  📰 [Trefis](https://trefis.com/stock/tsla/articles/2026-07-31/tesla-stock-falls-more-than-twice-as-far-as-the-market-in-a-shock)
+- **[2026.07.31] StocksToTrade — Sandisk (SNDK) Stock Rockets On AI And WSB-Fueled Rally**
+  English: Summary: StocksToTrade reports a market-moving item tied to the relevant assets and sectors. The relevance is how it feeds into index breadth, sector rotation, and risk appetite. Watch the relevant assets and sectors alongside Nasdaq futures, sector breadth, volume, and analyst revisions. If related stocks move together, the signal is more likely to reflect a real sector trend; if the reaction is isolated, it may be short-lived repricing. The next checkpoint is whether trading confirms the same direction across peers.
+  中文：总结：相关公司和板块 反映美股盘面或个股情绪正在发生变化。它的重点不只是指数涨跌，而是资金正在选择哪些行业、哪些主题以及哪些公司作为交易主线。后续应结合盘前期货、板块涨跌、成交量和分析师评级变化，判断这是短线情绪反弹，还是能够延续的产业趋势。实盘上还应观察期货开盘后的成交量、期权隐含波动率、龙头股是否带动同业，以及资金是否从指数权重股扩散到中小型成长股。如果消息只推动单一公司而板块没有跟随，趋势持续性会弱一些；如果半导体、软件、云计算和电力基础设施同时响应，说明市场正在交易更完整的 AI 资本开支链条。
+  📰 [StocksToTrade](https://news.google.com/rss/articles/CBMifEFVX3lxTFA4VkVDNWlXQU8zMG9lcVRtc3JPcU82bEFWbVZ4aXRWZExQNGNLNjBla2E0UW4zUUdxQnQ5YkJ6bVNJUjkxMjR3MzFFLTh6QTRfTW5rV0pVdUl1VU4zc0FlRU5pOVhxc3pZUWNMMEhrekJEaS1KZDlENFlFU0s?oc=5)
 
-- **[2026.08.01] NVIDIA (NVDA) — 英伟达股价反弹，AI乐观情绪重燃但融资风险犹存**
-  English: NVIDIA's stock rebounded towards $200, partly driven by Cathie Wood's ARK Invest buying the dip and renewed optimism regarding AI spending following strong cloud results from Microsoft and Amazon. However, reports of NVIDIA potentially guaranteeing up to $250 billion in financing for an OpenAI data-center project introduced new risks, raising investor questions about the company's financial involvement beyond chip sales. Despite the rebound, the stock faces technical resistance, with market sentiment balancing AI growth prospects against potential financial liabilities.
-  中文：总结：英伟达股价反弹至接近200美元，部分原因在于凯茜·伍德的方舟投资公司逢低买入，以及微软和亚马逊强劲的云业务业绩重燃了对AI支出的乐观情绪。然而，有报道称英伟达可能为OpenAI数据中心项目提供高达2500亿美元的融资担保，这带来了新的风险，引发了投资者对其在芯片销售之外的财务参与的疑问。尽管股价反弹，但该股面临技术阻力，市场情绪在AI增长前景与潜在财务责任之间寻求平衡。
-  📰 [FX Leaders](https://www.fxleaders.com/news/nvidia-stock-rebounds-toward-200-as-cathie-wood-buys-the-dip-but-openai-risk-looms/)
+- **[2026.07.31] MarketBeat — NVIDIA Corporation $NVDA Shares Bought by Eaton Cambridge Inc.**
+  English: Summary: MarketBeat is reporting a specific AI chips, memory, data centers, and semiconductor equipment story involving Nvidia. Peer moves show whether the trade is spreading through the AI-chip chain. The practical read-through is to compare the named stocks with Nasdaq futures, SOX-style semiconductor breadth, and opening volume. If the reaction spreads across peers, it supports a sector trade; if it stays isolated, it is more likely a short-term headline move.
+  中文：总结：Nvidia 是这条消息的主要观察对象。AMD、Intel、Qualcomm、Broadcom 或 Nvidia 等同业表现，可以判断资金是否在扩散到更完整的 AI 芯片链。交易上需要把标题里的具体催化和盘面反应分开看：如果同业、期货和成交量同步确认，说明资金正在沿 AI 芯片链扩散；如果只有单一股票反应，持续性就要打折。实盘上还应观察期货开盘后的成交量、期权隐含波动率、龙头股是否带动同业，以及资金是否从指数权重股扩散到中小型成长股。如果消息只推动单一公司而板块没有跟随，趋势持续性会弱一些；如果半导体、软件、云计算和电力基础设施同时响应，说明市场正在交易更完整的 AI 资本开支链条。
+  📰 [MarketBeat](https://news.google.com/rss/articles/CBMivgFBVV95cUxPcU02bjZfeHpiV2FqYXc1T3NNajBiRjVkaWY3YjRSS3RQTkRCMWZyczJDZlUxelY3ZE83RUFxNEp0bnE1Wk04NGU4akdaeGJqdEJ0SFp0UWkteDJ3MUo1Sl9qR1l2eXV6cmRNamJRYUN0WG9VR3VWMW1nU3AyamFYTFFsSUJDeGFlczh2YndOUWF3V091THd1ZzBJcFZWejRaNFp2czJaR2pwdGhtTDlCbHd6c1lsdnBzWUgtbGFB?oc=5)
+
+- **[2026.07.31] tradingkey.com — Why Is Micron Stock Surging Today? Samsung Just Confirmed the Memory Shortage That Drove the $1,255 High**
+  English: Summary: tradingkey.com is reporting a specific AI chips, memory, data centers, and semiconductor equipment story involving Micron. Micron is the stock-specific signal, so memory pricing matters more than a generic chip move. The practical read-through is to compare the named stocks with Nasdaq futures, SOX-style semiconductor breadth, and opening volume. If the reaction spreads across peers, it supports a sector trade; if it stays isolated, it is more likely a short-term headline move.
+  中文：总结：Micron 是这条消息的主要观察对象。Micron 是主要个股信号，重点应看存储价格和 AI 服务器需求，而不只是泛泛看芯片股上涨。交易上需要把标题里的具体催化和盘面反应分开看：如果同业、期货和成交量同步确认，说明资金正在沿 AI 芯片链扩散；如果只有单一股票反应，持续性就要打折。实盘上还应观察期货开盘后的成交量、期权隐含波动率、龙头股是否带动同业，以及资金是否从指数权重股扩散到中小型成长股。如果消息只推动单一公司而板块没有跟随，趋势持续性会弱一些；如果半导体、软件、云计算和电力基础设施同时响应，说明市场正在交易更完整的 AI 资本开支链条。
+  📰 [tradingkey.com](https://news.google.com/rss/articles/CBMiywFBVV95cUxQYUFRbEc5U2otSFF1OFRoMXkyQVlFbUEyd0FWVlF0RVVOanBtWGlOYXp3SHBsMUZrRmpqV2kyb3RCZlBSUnlyYUZkeW93NEhhOXJFOXNsNUZ1elJ4UzBFdlhxMnBHS3VjR05ZS2ZxY0wxOTlONmVBcW8yZnMzZ1pOaXEtQUFPVElvUF9BNEM2blNyU1FNMlRYUWVtYzVJMHFZdFZhU01mWTVPVHNjMnlVUXBBNU9JWnF4OUxmOG9VY29tTFJrR1ZyX2oydw?oc=5)
+
+- **[2026.07.31] NST Online — Wall Street ends sharply higher, lifted by soaring Microsoft**
+  English: Summary: NST Online reports a market-moving item tied to Microsoft. The relevance is how it feeds into mega-cap technology leadership and index concentration. Watch Microsoft alongside Nasdaq futures, sector breadth, volume, and analyst revisions. If related stocks move together, the signal is more likely to reflect a real sector trend; if the reaction is isolated, it may be short-lived repricing. The next checkpoint is whether trading confirms the same direction across peers.
+  中文：总结：Microsoft 仍是大型科技股交易主线中的关键变量。这些公司权重高，对 S&P 500 和 Nasdaq 的方向影响明显；一旦估值、AI 投入、云业务或广告业务预期变化，指数可能被少数巨头牵引。接下来要看资金是继续集中在大型科技股，还是向软件、半导体设备、数据中心电力等周边产业扩散。实盘上还应观察期货开盘后的成交量、期权隐含波动率、龙头股是否带动同业，以及资金是否从指数权重股扩散到中小型成长股。如果消息只推动单一公司而板块没有跟随，趋势持续性会弱一些；如果半导体、软件、云计算和电力基础设施同时响应，说明市场正在交易更完整的 AI 资本开支链条。
+  📰 [NST Online](https://news.google.com/rss/articles/CBMiugFBVV95cUxNTWdlWlV6ZmQtcHVNYVhWSndzRHVNQUswczE4RHVqVm1zNjJSOWFicTh1cEJTY0hPZHJfRF9WSFNxNEZ1eWFOenVzdWJiVFdGcUxRNWhkeXhPTDRtdC0xQk5Mbk1SN0ZQYnhKaTItbnhfRkdNQlR0U000ZExXOThIa19qUlk5S0NhWEhtdE9ILXF0M0NGV0x3eHpPS2t5LUtFU0pKZmpTZlpBZnBLUUtJa1VTSm04TmUyYVHSAboBQVVfeXFMTU1nZVpVemZkLXB1TWFYVkp3c0R1TUFLMHMxOER1alZtczYyUjlhYnE4dXBCU2NIT2RyX0RfVkhTcTRGdXlhTnp1c3ViYlRXRnFMUTVoZHl4T0w0bXQtMUJOTG5NUjdGUGJ4SmkyLW54X0ZHTUJUdFNNNGRMVzk4SGtfalJZOUtDYVhIbXRPSC1xdDNDRldMd3h6T0treS1LRVNKSmZqU2ZaQWZwS1FLSWtVU0ptOE5lMmFR?oc=5)
 
 ## 🇯🇵 日本株式市場 / Japan Market
 
-- **[2026.08.01] 日経平均 — AI・半導体株主導で大幅続伸**
-  日本語：31日の日本株式市場では、日経平均株価が大幅に続伸し、一時6万5000円台を回復しました。前日の米国市場でのマイクロソフト決算を受けた半導体関連株の買い戻しが主導し、AI関連銘柄が軒並み高となりました。特にアドバンテストやキオクシアホールディングスなどが急騰し、市場全体を押し上げました。日本銀行の金融政策決定会合での金利据え置き発表も市場に安心感を与え、7月中の下落分を一部取り戻す形となりました。
-  中文：总结：日本股市日经平均指数31日大幅上涨，一度收复65000点关口。受美国科技巨头微软财报利好影响，半导体及AI相关股票领涨，如爱德万测试和铠侠控股等。日本央行维持利率不变的决定也为市场提供了支撑，部分弥补了7月早些时候的跌幅。
-  📰 [株探](https://kabutan.jp/news/market/202607310000000000)
+- **[2026.08.01] 日経225先物 — 夜間取引で大幅下落**
+  日本語：1日夜間取引において、日経225先物9月限は前日比770円安の6万2950円で取引を終えました。これは日経平均株価の現物終値6万4362.02円に対し1412.02円安となり、市場の警戒感を示しています。TOPIX先物も33ポイント安の3953.5ポイントで終了し、米国市場の動向や前日の日銀会合後の円高進行が影響したとみられます。投資家は来週の市場動向、特に為替介入の可能性や主要企業の決算発表に注目しています。
+  中文：总结：8月1日夜间交易中，日经225股指期货9月合约收跌770日元至62950日元，较现货收盘价低1412.02日元，显示市场警惕情绪。TOPIX期货亦下跌33点。这主要受美股走势及前日日本央行会议后日元走强影响。投资者正密切关注下周市场动态，特别是潜在的汇率干预和主要企业财报。
+  📰 [株探](https://kabutan.jp/news/market/20260801_0603)
 
-- **[2026.08.01] 日本銀行 — 政策金利を据え置き、高田委員は利上げを主張**
-  日本語：日本銀行は31日の金融政策決定会合で、政策金利を1.0%程度で据え置くことを決定しました。これは8対1の多数決で決定されましたが、高田委員は0.25%の利上げを提案し、反対票を投じました。日銀は2026年度の物価見通しを下方修正したものの、2027年度は上方修正しており、基調的な物価の上振れリスクを依然として意識している姿勢を示しました。
-  中文：总结：日本央行在31日的货币政策会议上决定维持政策利率在1.0%不变，以8比1的投票结果通过，其中高田委员提议加息0.25%并投了反对票。央行下调了2026财年的物价展望，但上调了2027财年，表明其仍关注潜在的通胀上行风险。
-  📰 [マネックス証券](https://info.monex.co.jp/news/2026/20260731_01.html)
+- **[2026.08.01] 日本銀行 — 政策金利を1%程度に据え置き**
+  日本語：日本銀行は7月31日に終了した金融政策決定会合で、政策金利を1%程度に据え置くことを決定しました。前回の会合で追加利上げを実施しており、今回は企業資金調達や物価動向への影響を見極める姿勢を示しました。会合後の植田総裁の会見では、金融環境が緩和的すぎる状態になれば利上げペースを速める可能性に言及し、今後の金融政策の方向性について市場の注目が集まっています。
+  中文：总结：日本央行在7月31日结束的货币政策会议上决定维持政策利率在1%左右不变。此前已进行过一次加息，此次旨在观察对企业融资和物价走势的影响。行长植田在会后记者会上表示，若金融环境过于宽松，可能加快加息步伐，市场正密切关注未来政策走向。
+  📰 [FNNプライムオンライン](https://www.fnn.jp/articles/-/737722)
 
-- **[2026.08.01] 円相場 — 一時157円台に急伸後160円台へ戻る、為替介入観測**
-  日本語：外国為替市場では、30日夜にドル円が一時157円台まで急落し、政府・日本銀行による円買い介入の観測が強まりました。しかし、その後は160円台後半まで円安方向に戻り、日銀の金融政策決定会合後も円安基調で推移しています。野村證券のストラテジストは、1ドル155～160円台での推移であれば、日本企業の業績改善期待が続くと分析しています。
-  中文：总结：外汇市场上，美元兑日元汇率在30日晚间一度急跌至157日元区间，市场对日本政府和央行进行买入日元干预的猜测升温。然而，随后汇率回升至160日元区间，在日本央行货币政策会议后仍保持日元贬值趋势。野村证券分析师认为，若汇率维持在155-160日元区间，日本企业业绩改善的预期将持续。
-  📰 [NOMURA ウェルスタイル](https://www.nomura.co.jp/well-style/column/market/quicknote/20260731.html)
+- **[2026.08.01] ソニーグループ — 第1四半期決算で大幅増益、通期見通しを上方修正**
+  日本語：ソニーグループが7月31日に発表した2027年3月期第1四半期決算は、売上高が前年同期比8.2%増の2兆8377億円、営業利益が同40.2%増の4764億円と大幅な増収増益となりました。イメージング＆センシング・ソリューション（I&SS）分野の好調や音楽事業のストリーミング収入増が牽引。通期業績見通しも上方修正し、ゲーム＆ネットワークサービス（G&NS）分野の増収などを反映しています。
+  中文：总结：索尼集团7月31日公布的2027财年第一季度财报显示，销售额同比增长8.2%至2.8377万亿日元，营业利润同比增长40.2%至4764亿日元，实现大幅增收增益。主要得益于影像与传感解决方案（I&SS）业务的强劲表现和音乐流媒体收入增长。公司同时上调了全年业绩预期，反映了游戏与网络服务（G&NS）业务的营收增长。
+  📰 [gamebiz](https://gamebiz.jp/news/353724)
 
-- **[2026.08.01] キオクシア — 大幅増益も市場予想に届かず、自社株買い発表**
-  日本語：キオクシアホールディングスが31日引け後に発表した第1四半期（4～6月）連結純利益は前年同期比46倍と大幅増益でしたが、会社予想の8690億円には届きませんでした。第2四半期（7～9月）の利益予想も市場予想を下回っています。一方で、発行済み株式数の5%超となる自社株取得枠の設定と株式分割を発表しており、週明けの市場の反応が注目されます。
-  中文：总结：铠侠控股31日收盘后公布的第一季度（4-6月）合并净利润同比大幅增长46倍，但未达到公司预期的8690亿日元。第二季度（7-9月）的利润预测也低于市场预期。然而，公司宣布了超过已发行股份5%的股票回购计划和股票拆分，下周市场反应备受关注。
-  📰 [株探](https://kabutan.jp/news/market/202607310000000000)
+- **[2026.08.01] トヨタグループ — 主要7社の4-6月期決算で明暗**
+  日本語：トヨタ自動車グループの主要7社が7月31日に発表した2026年4～6月期連結決算は、3社が増収増益、4社が増収減益と明暗が分かれました。円安が収益を押し上げた一方で、中東情勢に伴う原材料価格の高騰が重荷となりました。デンソーと豊田通商は通期業績予想を上方修正しましたが、トヨタ紡織は中国市場の低迷を理由に下方修正しています。
+  中文：总结：丰田汽车集团旗下七家主要公司于7月31日公布的2026年4-6月合并财报显示，三家公司实现增收增益，四家公司增收减益，业绩表现喜忧参半。日元贬值提振了收益，但中东局势导致的原材料价格飙升构成压力。电装和丰田通商上调了全年业绩预期，而丰田纺织则因中国市场低迷下调了预期。
+  📰 [読売新聞オンライン](https://www.yomiuri.co.jp/local/chubu/news/20260731-OYTNT50146/)
 
-- **[2026.08.01] 東京エレクトロン — 業績予想を上方修正、半導体関連株に買い**
-  日本語：東京エレクトロン（8035）は、2027年3月期の中間決算で純利益が前年同期比44%増の3490億円になる見込みと発表し、従来予想から上方修正しました。市場予想を上回る業績ガイダンスが好感され、株価は6.2%高と大幅続伸。米国のハイテク好決算も追い風となり、アドバンテストなど他のAI・半導体関連企業も軒並み買われ、日本市場全体の押し上げに貢献しました。
-  中文：总结：东京电子（8035）宣布2027年3月期中期净利润预计同比增长44%至3490亿日元，上调了此前预期。超出市场预期的业绩指引受到青睐，股价大涨6.2%。受美国科技公司强劲财报的提振，爱德万测试等其他AI和半导体相关股票也普遍上涨，推动了日本整体市场的上扬。
-  📰 [株探](https://kabutan.jp/news/market/202607310000000000)
+- **[2026.08.01] 為替市場 — 円安進行と政府・日銀の介入観測**
+  日本語：7月31日のニューヨーク外為市場でドル・円は一時160円53銭まで上昇後、157円28銭まで下落し、157円68銭で引けました。米国の経済指標が予想を上回る中でドル買いが優勢となりましたが、「米財務省が円相場介入の可能性を銀行に通知」「NY連銀が米大手銀にレートチェック」と報じられ、日米協調介入への警戒感から円買いが強まりました。円安は一時163円台に達し、約39年7カ月ぶりの水準となっています。
+  中文：总结：7月31日纽约外汇市场，美元兑日元一度升至160.53日元，随后跌至157.28日元，收于157.68日元。在美国经济数据超预期推动美元走强后，有报道称“美国财政部通知银行可能干预日元汇率”及“纽约联储对美国大银行进行汇率检查”，引发对日美联合干预的警惕，日元买盘增强。日元兑美元一度触及163日元区间，创下约39年7个月以来的新低。
+  📰 [みんかぶ](https://minkabu.jp/news/3882755)
 
-- **[2026.08.01] TOPIX先物 — 3986.5ポイントで清算値、来週の市場展望**
-  日本語：31日のTOPIX先物期近2026年9月限は、前日清算値比34.5ポイント高の3986.5ポイントで取引を終えました。現物終値4003.3ポイントに対しては16.8ポイント安でした。来週の株式相場は、日経平均に底打ち期待も出ていますが、キオクシア決算の評価や米7月雇用統計など重要経済指標の発表が相次ぐため、引き続き注目材料が多い状況です。
-  中文：总结：31日TOPIX期货2026年9月合约收盘价为3986.5点，较前一交易日结算价上涨34.5点。相对于现货收盘价4003.3点，低16.8点。展望下周股市，市场对日经平均指数触底反弹抱有期待，但铠侠财报的评估以及美国7月就业报告等重要经济数据将陆续公布，市场仍存在诸多关注点。
-  📰 [みんかぶ](https://minkabu.jp/)
+- **[2026.08.01] 半導体関連株 — AI投資への懸念後退でリバウンド期待**
+  日本語：世界的なAI・半導体関連株の下落が続く中、7月29日にマイクロソフトが市場予想を上回る好決算を発表したことで、AI投資の回収を巡る過度な懸念が後退しました。これを受け、30日にはマイクロソフト株が15%超急騰し、他の半導体・AI関連株にも買い戻しが波及。週末31日の東京市場でもキオクシアホールディングスなどがストップ高で取引を終え、調整一巡後のリバウンド機運が高まっています。
+  中文：总结：在全球AI和半导体相关股票持续下跌之际，微软于7月29日公布的超预期财报缓解了市场对AI投资回报的过度担忧。受此影响，微软股价在30日飙升逾15%，带动其他半导体和AI相关股票反弹。在31日的东京市场，铠侠控股等股票也以涨停收盘，显示出在经历调整后，市场对该板块反弹的预期正在升温。
+  📰 [株探](https://kabutan.jp/news/market/20260801_0800)
 
 ## 🌍 宏观经济与投资 / Macro & Investment
 
-- **[2026.08.01] Federal Reserve — 美联储维持利率不变，美股下跌**
-  English: The Federal Reserve maintained its benchmark interest rate at 3.50% to 3.75% on July 29, 2026, though three policymakers dissented, advocating for a 25-basis-point hike. This hawkish hold, coupled with Chair Kevin Warsh's defense of reduced forward guidance, led to significant market declines. The Dow Jones Industrial Average fell 2.19%, the S&P 500 lost 1.52%, and the Nasdaq Composite declined 1.74% on July 29. Long-term Treasury yields also rose, reflecting investor concerns over inflation and policy uncertainty.
-  中文：美联储于2026年7月29日维持基准利率在3.50%至3.75%不变，但三名决策者投票反对并主张加息25个基点。这一鹰派立场及主席沃什对减少前瞻性指引的辩护，导致市场显著下跌。道琼斯指数下跌2.19%，标普500指数下跌1.52%，纳斯达克综合指数下跌1.74%。长期国债收益率也随之上升，反映投资者对通胀和政策不确定性的担忧。
-  📰 [Bloomberg](https://www.google.com/search?q=global)
+Here are 6 recent news items about macroeconomics and investment, specifically for August 1, 2026, following your specified format:
 
-- **[2026.08.01] Bank of Japan — 日本央行维持利率不变，政府干预支撑日元**
-  日本語：日本銀行は7月31日、ベンチマーク金利を0.50%に据え置くことを決定し、慎重な金融政策スタンスを維持した。これは、日本当局が円を支援し過度な変動を抑制するために為替市場に介入したと報じられた数日後のことである。日米間の金利差が円安の主要因となっており、世界的な政策の乖離が課題として残る。エコノミストは、コアインフレ率や賃金上昇が大幅に加速しない限り、日銀は当面現状維持を続けると予想している。
-  中文：日本央行于7月31日维持基准利率在0.50%不变，延续其谨慎的货币政策立场。此前有报道称，日本当局已干预汇市以支撑日元并抑制过度波动。日美之间的利差仍是日元疲软的主要驱动因素，全球政策分歧依然是挑战。经济学家预计，除非核心通胀或工资增长显著加速，否则日本央行将在未来几次会议上维持利率不变。
-  📰 [LN24](https://www.google.com/search?q=global)
+- **[2026.08.01] S&P500 — 标普500指数七月收涨，亚马逊大涨苹果下跌，通胀担忧加剧**
+  English: The S&P 500 concluded a volatile July with a 0.7% gain, marking its first winning week in three, despite a slight monthly loss. Amazon surged 15.3% on stronger-than-expected profits and accelerated cloud growth, signaling potential AI investment payoffs. Conversely, Apple dropped 7.4% due to a revenue growth forecast miss, attributed to AI-driven component shortages. Inflation concerns intensified, pushing the 10-year Treasury yield to 4.71% from 4.68%, reflecting rising expectations for inflation and economic growth. The Federal Reserve's chairman reiterated commitment to 2% inflation without detailing the strategy.
+  中文：总结：标普500指数在动荡的7月收涨0.7%，结束了连续三周的下跌，但月度仍小幅下跌。亚马逊因超预期利润和云业务加速增长而大涨15.3%，预示其AI投资或正见成效。苹果则因营收预期不及预期下跌7.4%，主要受AI繁荣导致的零部件短缺影响。通胀担忧加剧，10年期国债收益率升至4.71%，反映市场对通胀和经济增长预期的上升。美联储主席重申将通胀降至2%的目标，但未公布具体策略。
+  📰 [Associated Press](https://apnews.com)
 
-- **[2026.08.01] Global Commodities — 地缘政治紧张局势推动油价上涨**
-  English: Global oil prices experienced a notable surge, driven by renewed hostilities and escalating geopolitical tensions, particularly in the Middle East. This rise in crude oil costs is contributing to persistent inflation concerns, impacting consumer prices and potentially influencing central bank policy decisions. The increased energy market disruptions and uncertainty about global capital flows are pushing up the compensation investors demand, further complicating the economic outlook.
-  中文：全球油价因地缘政治紧张局势加剧，特别是中东地区冲突再起而显著上涨。原油成本的上升加剧了持续的通胀担忧，影响消费者物价，并可能对央行政策决策产生影响。能源市场中断和全球资本流动的不确定性增加，推高了投资者要求的补偿，使经济前景更加复杂。
-  📰 [Bloomberg](https://www.google.com/search?q=global)
+- **[2026.08.01] 日本央行 — 日本央行维持利率不变，但发出通胀预警**
+  日本語：日本銀行は7月31日の金融政策決定会合で、短期金利を1%に据え置くことを決定したが、初めて基調的なインフレ率が目標を上回る可能性があると警告した。これは、政府の円買い介入後、さらなる利上げを示唆するものだ。世界的なAI需要によるインフレ圧力と中東紛争による経済的打撃への懸念後退を強調し、日銀はインフレリスクに焦点を当てている。一部の理事は1.25%への利上げを主張したが、多数決で現状維持となった。
+  中文：总结：日本央行在7月31日的政策会议上决定维持短期利率在1%不变，但首次警告称潜在通胀可能超出其目标，暗示在日本政府干预日元后可能进一步加息。央行强调全球AI需求带来的通胀压力以及中东冲突对经济影响的担忧减弱，表明其正密切关注通胀风险。尽管有理事呼吁加息至1.25%，但最终投票决定维持利率不变。
+  📰 [The Straits Times](https://www.straitstimes.com/business/economy/japan-central-bank-keeps-rates-steady-delivers-hawkish-signal-as-government-props-up-yen)
 
-- **[2026.08.01] Cryptocurrency — Hyperscale Data披露巨额比特币持仓**
-  English: Hyperscale Data, Inc. (GPUS) announced on July 21, 2026, that its balance sheet held 1,087.4527 Bitcoin (BTC) worth approximately $70.3 million as of July 19, 2026. This disclosure highlights the continued trend of publicly traded companies integrating significant cryptocurrency holdings into their corporate treasuries, reflecting growing institutional acceptance and investment in digital assets. Such moves often draw investor attention to the company's financial strategy and its exposure to the volatile crypto market.
-  中文：Hyperscale Data公司（GPUS）于2026年7月21日披露，截至2026年7月19日，其资产负债表上持有1,087.4527枚比特币，价值约7030万美元。这一披露凸显了上市公司将大量加密货币纳入其公司金库的持续趋势，反映了机构对数字资产日益增长的接受度和投资。此类举动常引起投资者对公司财务战略及其在波动性加密市场中风险敞口的关注。
-  📰 [NewsSOS](https://www.google.com/search?q=global)
+- **[2026.08.01] 原油价格 — 布伦特原油突破90美元，8月燃油价格面临上涨压力**
+  English: Oil prices settled over $1 higher on Friday, marking their largest monthly gain since March, with Brent crude futures climbing 1.2% to $90.12 a barrel. This surge is largely attributed to ongoing developments in the Middle East. Consequently, motorists and consumers are bracing for a sharp rise in petroleum product prices from August 1, driven by both the escalating global crude oil costs and the depreciation of local currencies like the Ghana cedi. Diesel is projected to see the biggest jump, increasing by 12.50%.
+  中文：总结：受中东局势影响，原油价格周五上涨超过1美元，布伦特原油期货上涨1.2%至每桶90.12美元，创下3月以来最大月度涨幅。受全球原油成本飙升和加纳塞地等当地货币贬值影响，预计从8月1日起，汽油和柴油等成品油价格将大幅上涨，其中柴油预计上涨12.50%。
+  📰 [WAM](https://www.wam.ae/en/details/1395303487053)
 
-- **[2026.08.01] US Economy — 美国经济数据喜忧参半，通胀担忧犹存**
-  English: Recent economic reports present a mixed picture for the U.S. economy. Real gross domestic product (GDP) grew at a 1.5% annualized rate in the second quarter, indicating moderate expansion. However, the personal consumption expenditures (PCE) price index, a key inflation gauge, fell 0.1% in June but remained 3.7% above its year-earlier level, with core PCE inflation at 3.3%. These figures suggest cooling inflation alongside resilient demand and a stable labor market, creating a complex environment for future monetary policy decisions.
-  中文：近期经济报告显示美国经济前景喜忧参半。第二季度实际国内生产总值（GDP）按年率计算增长1.5%，表明温和扩张。然而，作为关键通胀指标的个人消费支出（PCE）物价指数在6月份下降0.1%，但仍比去年同期高出3.7%，核心PCE通胀率为3.3%。这些数据表明通胀正在降温，同时需求保持韧性且劳动力市场稳定，为未来的货币政策决策创造了复杂环境。
-  📰 [Bloomberg](https://www.google.com/search?q=global)
+- **[2026.08.01] 黄金价格 — 黄金价格走势分化，市场关注美联储利率决议**
+  English: Gold prices began August with significant divergence. SJC gold in Vietnam saw buying at 137.9 million VND/ounce and selling at 141.9 million VND/ounce, up 200,000 VND/ounce. Meanwhile, on the COMEX division, gold prices slipped by $29.40 to $4,131.20 per troy ounce, as markets keenly awaited the Federal Reserve's two-day policy meeting outcome. The decline follows a 1.8% weekly gain for gold, which had seen six consecutive weekly advances since the Iran war began, despite recent surges in oil prices and interest rates.
+  中文：总结：8月1日黄金价格走势分化。越南SJC金条买入价为1.379亿越南盾/盎司，卖出价为1.419亿越南盾/盎司，上涨20万越南盾/盎司。与此同时，纽约商品交易所（COMEX）黄金价格下跌29.40美元至每盎司4,131.20美元，市场正密切关注美联储为期两天的政策会议结果。尽管自伊朗战争爆发以来黄金已连续六周上涨，且近期油价和利率飙升，但此次下跌仍发生。
+  📰 [Báo Nghệ An](https://baonghean.vn/gold-prices-for-august-1-2026-sjc-gold-price-9999-gold-ring-price-and-world-gold-price-post348560.html)
+
+- **[2026.08.01] 比特币ETF — VanEck比特币ETF免赞助费期结束，比特币价格承压**
+  English: VanEck's Bitcoin ETF (HODL) concluded its zero-sponsor-fee period on July 31, with its net assets reaching 43% of the $2.5 billion threshold. A 0.20% sponsor fee will now apply to all trust assets. Concurrently, Bitcoin's price has fallen below $63,000, with technical analysis indicating that holding above the $62,410 swing low is crucial for recovery. Hawkish signals from central banks and a historical average August decline of 10% for BTC are contributing to investor caution.
+  中文：总结：VanEck比特币ETF（HODL）于7月31日结束了其免赞助费期，其净资产达到25亿美元门槛的43%。此后，所有信托资产将适用0.20%的赞助费。与此同时，比特币价格已跌破6.3万美元，技术分析显示守住62,410美元的摆动低点对反弹至关重要。全球央行的鹰派信号以及比特币在历史上8月份平均下跌10%的趋势，都加剧了投资者的谨慎情绪。
+  📰 [WEEX](https://www.weex.com)
+
+- **[2026.08.01] 市场情绪 — 美国股市对AI股票的过度集中引发担忧**
+  English: Concerns are mounting that the U.S. stock market's reliance on a handful of AI-driven stocks has reached a dangerous concentration, reminiscent of the period just before the Great Depression. Analysts highlight that almost all market gains in recent years are attributable to AI-related stocks, with AI expenditures accounting for 92% of GDP growth. Roughly five companies now constitute nearly 30% of the entire S&P 500, exposing ordinary index investors to an unprecedented level of risk in a single theme.
+  中文：总结：有分析师警告称，美国股市对少数几只AI驱动型股票的过度依赖已达到危险的集中程度，这让人联想到大萧条前夕。近年来，几乎所有市场涨幅都归因于AI相关股票，AI支出占GDP增长的92%。目前，大约五家公司占据了标普500指数近30%的市值，使得普通指数投资者面临前所未有的单一主题风险。
+  📰 [The Manila Times](https://www.manilatimes.net/2026/08/01/business/the-entire-stock-market-is-now-resting-on-a-handful-of-stocks-that-hasnt-happened-since-before-the-great-depression/1865983)
 
 ---
 ※Stock Market Daily Digest | 2026.08.01
