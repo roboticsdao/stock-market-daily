@@ -7,52 +7,64 @@
 
 ## 🇺🇸 美国股市 / US Market
 
-- **[2026.08.01] 24/7 Wall St. — 5 Tech Stocks Most at Risk From NVIDIA’s Stranglehold on the Industry**
-  English: Summary: 24/7 Wall St. is reporting a specific AI chips, memory, data centers, and semiconductor equipment story involving Nvidia. Peer moves show whether the trade is spreading through the AI-chip chain. The practical read-through is to compare the named stocks with Nasdaq futures, SOX-style semiconductor breadth, and opening volume. If the reaction spreads across peers, it supports a sector trade; if it stays isolated, it is more likely a short-term headline move.
-  中文：总结：Nvidia 是这条消息的主要观察对象。AMD、Intel、Qualcomm、Broadcom 或 Nvidia 等同业表现，可以判断资金是否在扩散到更完整的 AI 芯片链。交易上需要把标题里的具体催化和盘面反应分开看：如果同业、期货和成交量同步确认，说明资金正在沿 AI 芯片链扩散；如果只有单一股票反应，持续性就要打折。实盘上还应观察期货开盘后的成交量、期权隐含波动率、龙头股是否带动同业，以及资金是否从指数权重股扩散到中小型成长股。如果消息只推动单一公司而板块没有跟随，趋势持续性会弱一些；如果半导体、软件、云计算和电力基础设施同时响应，说明市场正在交易更完整的 AI 资本开支链条。
-  📰 [24/7 Wall St.](https://news.google.com/rss/articles/CBMisgFBVV95cUxOWHUxOXhVVlQzT19XLVNCeE1YckRNMlI4cWthdnd6VUFrVUo4NU1WYkF6ZXo1b2x2RFM0VXFoX0JWbmpiRHBELWJPNjRMbGdxVGM0VWxFQTBPMk40WkFZZDVfdTJoUWlJa2JIOV9odEtQd1hYQS11YXBtRGJCSi1uOElRc1Q0WHNJMzVyWHhQQ1l6RlhCdHBJWmcyY05xM3RoeDVyWnZQOWdIZlVwNENsTlB3?oc=5)
+Here are 7 recent news items specifically about the US Market, as of August 2, 2026:
 
-- **[2026.08.01] Investor's Business Daily — These 7 Stocks Are Analyst Favorites For Magnificent Earnings Growth; Google Rebounds After Sell-Off**
-  English: Summary: Investor's Business Daily reports a market-moving item tied to the relevant assets and sectors. The relevance is how it feeds into mega-cap technology leadership and index concentration. Watch the relevant assets and sectors alongside Nasdaq futures, sector breadth, volume, and analyst revisions. If related stocks move together, the signal is more likely to reflect a real sector trend; if the reaction is isolated, it may be short-lived repricing. The next checkpoint is whether trading confirms the same direction across peers.
-  中文：总结：相关公司和板块 仍是大型科技股交易主线中的关键变量。这些公司权重高，对 S&P 500 和 Nasdaq 的方向影响明显；一旦估值、AI 投入、云业务或广告业务预期变化，指数可能被少数巨头牵引。接下来要看资金是继续集中在大型科技股，还是向软件、半导体设备、数据中心电力等周边产业扩散。实盘上还应观察期货开盘后的成交量、期权隐含波动率、龙头股是否带动同业，以及资金是否从指数权重股扩散到中小型成长股。如果消息只推动单一公司而板块没有跟随，趋势持续性会弱一些；如果半导体、软件、云计算和电力基础设施同时响应，说明市场正在交易更完整的 AI 资本开支链条。
-  📰 [Investor's Business Daily](https://news.google.com/rss/articles/CBMikgFBVV95cUxQd2FkMG42Rmh3aXFzM0xLX2hESGVCcnR6NW1MWjhiaFZjNGtST2pXOGY4dzVnUzFnQy13dHY5OGh0QzlnRjlxcmZrbEhEcGFtc00xWjY3S2g2NGZzTllfMzNMaGdWTmNfUEgyTEVRekF6aWZNLTRUOGNzcTRQVjdBb2M1c0Fia21VUTM1QWw2UXRodw?oc=5)
+- **[2026.08.02] US Market / S&P 500 — 华尔街对关键就业报告保持警惕，8月市场或面临回调**
+  English: Wall Street is bracing for a crucial jobs report this week, with investors on edge due to geopolitical tensions, uncertain interest-rate policy, and significant movements in major technology stocks. Historically, August has shown weakness, with the S&P 500 often experiencing a dip, particularly in midterm election years. The benchmark index closed July down slightly, but remains up year-to-date, with non-tech sectors providing some offset to AI and Big Tech volatility. Analysts are closely watching upcoming employment data and corporate results to gauge market direction and potential Federal Reserve actions.
+  中文：总结：华尔街本周正密切关注关键就业报告，投资者对地缘政治紧张局势、利率政策不确定性以及科技巨头股票的剧烈波动保持警惕。历史上，8月份市场表现往往疲软，标普500指数在中期选举年尤其可能出现回调。分析师正关注即将发布的就业数据和企业财报，以判断市场走向及美联储的潜在政策调整。
+  📰 [Gulf Daily News](https://www.gulf-daily-news.com/)
 
-- **[2026.08.01] AOL.com — Nvidia's Shareholder Meeting Is Aug. 26. Here's What Investors Should Be Looking Out For.**
-  English: Summary: AOL.com is reporting a specific AI chips, memory, data centers, and semiconductor equipment story involving Nvidia. Peer moves show whether the trade is spreading through the AI-chip chain. The practical read-through is to compare the named stocks with Nasdaq futures, SOX-style semiconductor breadth, and opening volume. If the reaction spreads across peers, it supports a sector trade; if it stays isolated, it is more likely a short-term headline move.
-  中文：总结：Nvidia 是这条消息的主要观察对象。AMD、Intel、Qualcomm、Broadcom 或 Nvidia 等同业表现，可以判断资金是否在扩散到更完整的 AI 芯片链。交易上需要把标题里的具体催化和盘面反应分开看：如果同业、期货和成交量同步确认，说明资金正在沿 AI 芯片链扩散；如果只有单一股票反应，持续性就要打折。实盘上还应观察期货开盘后的成交量、期权隐含波动率、龙头股是否带动同业，以及资金是否从指数权重股扩散到中小型成长股。如果消息只推动单一公司而板块没有跟随，趋势持续性会弱一些；如果半导体、软件、云计算和电力基础设施同时响应，说明市场正在交易更完整的 AI 资本开支链条。
-  📰 [AOL.com](https://news.google.com/rss/articles/CBMihAFBVV95cUxPOXN1NWo5UjhhUXpvb25wcHloZy1VbWJMYVlObTZWOVdCVThXTnZUTUF4UnhTaU5nb3pObWhNWkJ4b1JadFBNU25XbkxBVXBYczZHWGdla1AzTGc5eTVCdXdMYmZ0LVdzV0I4X1FqWWVJc0MyUkFqWnRBREpFYXJXTU5DV28?oc=5)
+- **[2026.08.02] Apple (AAPL) — 苹果公司因疲软预测和供应链问题市值蒸发近5000亿美元**
+  English: Apple's shares plummeted, wiping out nearly $500 billion from its market capitalization, after a disappointing forecast revealed the company's struggles to secure sufficient components amidst the AI-driven data center boom. This supply chain strain is impacting chip availability for major tech firms, threatening to shrink both the personal computer and smartphone markets. The weak outlook also saw Apple cede its position as the world's most valuable company back to NVIDIA, just days after reclaiming the top spot.
+  中文：总结：由于对组件供应的悲观预测，苹果公司市值蒸发近5000亿美元，并将全球市值第一的宝座拱手让给英伟达。人工智能驱动的数据中心热潮导致全球供应链紧张，影响了芯片供应，进而可能导致个人电脑和智能手机市场萎缩。投资者正密切关注苹果如何应对这些挑战。
+  📰 [The Economic Times](https://economictimes.indiatimes.com/)
 
-- **[2026.08.01] MarketBeat — NVIDIA (NASDAQ:NVDA) Stock Price Up 2.9% - Should You Buy?**
-  English: Summary: MarketBeat is reporting a specific AI chips, memory, data centers, and semiconductor equipment story involving Nvidia. Nasdaq futures make the story relevant for growth-tech risk appetite. Peer moves show whether the trade is spreading through the AI-chip chain. The practical read-through is to compare the named stocks with Nasdaq futures, SOX-style semiconductor breadth, and opening volume. If the reaction spreads across peers, it supports a sector trade; if it stays isolated, it is more likely a short-term headline move.
-  中文：总结：Nvidia 是这条消息的主要观察对象。Nasdaq 是主要传导对象，因此这不只是单一公司消息，也会影响成长科技股风险偏好；AMD、Intel、Qualcomm、Broadcom 或 Nvidia 等同业表现，可以判断资金是否在扩散到更完整的 AI 芯片链。交易上需要把标题里的具体催化和盘面反应分开看：如果同业、期货和成交量同步确认，说明资金正在沿 AI 芯片链扩散；如果只有单一股票反应，持续性就要打折。
-  📰 [MarketBeat](https://news.google.com/rss/articles/CBMipwFBVV95cUxPZHFFek45M3FUeUdmdmo1TEROTWpXalljN3c3UW9wMjgxU3VWdkhYRmEzMlJ5LUVITTZXRDBJWV95aU0zR09ySldKNnhtOG12TG1hZkZXT3FuSk9WYXlfRnYwd3NiTDJUOG8xUGpNUWZ4SlduZERqLWVJcnlucnVWTExWOWR0UFpKVjNaOXI2d1AzNjF5NXRaTXo4Rnl5dmZYVnZxdDVGVQ?oc=5)
+- **[2026.08.02] Microsoft (MSFT) — 微软Azure云服务收入突破1000亿美元，AI战略成效显著**
+  English: Microsoft's Azure cloud services have surpassed $100 billion in annual revenue, with quarterly growth accelerating to 43%, signaling robust and diversified enterprise adoption of AI beyond just frontier model companies. The company's commercial remaining performance obligations surged 84% to $678 billion, providing exceptional revenue visibility. Despite significant capital expenditures in AI infrastructure, Microsoft generated substantial free cash flow and expanded operating income, reinforcing its strong position in the evolving AI landscape.
+  中文：总结：微软的Azure云服务年收入首次突破1000亿美元，季度增长加速至43%，表明企业对人工智能的多元化采用正在强劲增长。公司商业剩余履约义务激增84%至6780亿美元，提供了卓越的收入可见性。尽管在AI基础设施方面投入巨资，微软仍产生了可观的自由现金流并扩大了营业收入，巩固了其在AI领域的领导地位。
+  📰 [Seeking Alpha](https://seekingalpha.com/article/4624326-microsoft-just-changed-the-ai-narrative-nasdaq-msft)
 
-- **[2026.08.01] Zacks Investment Research — NVIDIA vs. Sandisk: Which AI Stock Could Deliver Bigger Returns?**
-  English: Summary: Zacks Investment Research is reporting a specific AI chips, memory, data centers, and semiconductor equipment story involving Nvidia. Peer moves show whether the trade is spreading through the AI-chip chain. The practical read-through is to compare the named stocks with Nasdaq futures, SOX-style semiconductor breadth, and opening volume. If the reaction spreads across peers, it supports a sector trade; if it stays isolated, it is more likely a short-term headline move.
-  中文：总结：Nvidia 是这条消息的主要观察对象。AMD、Intel、Qualcomm、Broadcom 或 Nvidia 等同业表现，可以判断资金是否在扩散到更完整的 AI 芯片链。交易上需要把标题里的具体催化和盘面反应分开看：如果同业、期货和成交量同步确认，说明资金正在沿 AI 芯片链扩散；如果只有单一股票反应，持续性就要打折。实盘上还应观察期货开盘后的成交量、期权隐含波动率、龙头股是否带动同业，以及资金是否从指数权重股扩散到中小型成长股。如果消息只推动单一公司而板块没有跟随，趋势持续性会弱一些；如果半导体、软件、云计算和电力基础设施同时响应，说明市场正在交易更完整的 AI 资本开支链条。
-  📰 [Zacks Investment Research](https://news.google.com/rss/articles/CBMipAFBVV95cUxQVHU4Mk1jUGRLSkhDR2ktUGMwNVZsaTR3dTZobXJQblptbjZfTm5RSDRSekgyOHJUVkktSzdaTF8tWHB3MG9WbmpWdUt3ZXpZRjhuSXBtSmlWZ0ZDTzNMbTFFYUdVMVdWZ2h4aXRidFQzRHdkNVMxc0thVHZCWlAxS0xEM0l3TGJ4cV9aWVMwZHhFUjJwVHFFUE5rRHJJZ01pSkNWdw?oc=5)
+- **[2026.08.02] NVIDIA (NVDA) — 英伟达准备16个GB10节点集群以支持大型AI模型**
+  English: NVIDIA announced it is preparing a 16 GB, 10-node cluster to support large AI models like Kimi K3 and DeepSeek V4 Pro, along with future models such as GLM 5.5 and MiniMax M4. This development, shared as a first-hand preview, underscores NVIDIA's continued investment and leadership in the AI hardware sector. Market observers are closely monitoring this move, as it could significantly impact the AI training and inference demand, further solidifying NVIDIA's critical role in the artificial intelligence boom.
+  中文：总结：英伟达宣布正准备一个由16个GB10节点组成的集群，以支持Kimi K3、DeepSeek V4 Pro等大型AI模型，以及未来的GLM 5.5和MiniMax M4模型。此举突显了英伟达在AI硬件领域的持续投资和领导地位，市场密切关注其对AI训练和推理需求的影响，进一步巩固了英伟达在人工智能热潮中的关键作用。
+  📰 [KuCoin](https://www.kucoin.com/news/nvidia-preparing-a-16x-gb10-cluster-for-multiple-large-ai-models-20260801)
 
-- **[2026.08.01] Investor's Business Daily — Why Wall Street Likes Apple's AI Strategy Despite Friday's Stock Tumble**
-  English: Summary: Investor's Business Daily reports a market-moving item tied to Apple. The relevance is how it feeds into mega-cap technology leadership and index concentration. Watch Apple alongside Nasdaq futures, sector breadth, volume, and analyst revisions. If related stocks move together, the signal is more likely to reflect a real sector trend; if the reaction is isolated, it may be short-lived repricing. The next checkpoint is whether trading confirms the same direction across peers.
-  中文：总结：Apple 仍是大型科技股交易主线中的关键变量。这些公司权重高，对 S&P 500 和 Nasdaq 的方向影响明显；一旦估值、AI 投入、云业务或广告业务预期变化，指数可能被少数巨头牵引。接下来要看资金是继续集中在大型科技股，还是向软件、半导体设备、数据中心电力等周边产业扩散。实盘上还应观察期货开盘后的成交量、期权隐含波动率、龙头股是否带动同业，以及资金是否从指数权重股扩散到中小型成长股。如果消息只推动单一公司而板块没有跟随，趋势持续性会弱一些；如果半导体、软件、云计算和电力基础设施同时响应，说明市场正在交易更完整的 AI 资本开支链条。
-  📰 [Investor's Business Daily](https://news.google.com/rss/articles/CBMiigFBVV95cUxON1paeF9HVDlHR19Wb1czMG9uT1RhcVVGMjh5NEVZc1JQX0VJbUdzYkN4UXprYnBLNi1RN2xVYXIwcXVfaGY0T3E0NDdhZl92ZjVlRTZuam1GaEFMdWh4eFZ3TnVwbFU4OW5GeTAyZG5Dck93VzhTY3pZdW1aMVpQNGk0QzZUWHdwN0E?oc=5)
+- **[2026.08.02] Tesla (TSLA) — 特斯拉考虑剥离中国业务，并终止Model Y零利率融资**
+  English: Tesla is reportedly evaluating options to spin off its China operations into a separate unit, a move some link to potential future flexibility around merger discussions with SpaceX, though Elon Musk has publicly denied such plans. Concurrently, Tesla has ended its 0% APR financing deal for the Model Y and increased rates for Model 3 versions, following a Q2 earnings report that saw operating income collapse and cash flow turn negative. These strategic and financial adjustments highlight Tesla's efforts to manage global operations and profitability amidst evolving market conditions.
+  中文：总结：有报道称特斯拉正考虑将其中国业务剥离成独立部门，此举可能与未来与SpaceX的合并讨论有关，尽管埃隆·马斯克已公开否认。同时，特斯拉已终止Model Y的零利率融资优惠，并提高了Model 3的利率，此前第二季度财报显示其营业收入大幅下滑且现金流转负。这些战略和财务调整反映了特斯拉在不断变化的市场环境下管理全球运营和盈利能力的努力。
+  📰 [Simply Wall St](https://simplywall.st/stocks/us/automobiles/nasdaq-tsla/tesla/news/tesla-tsla-weighs-china-spinoff-as-spacex-merger-rumors-draw-a-denial)
 
-- **[2026.08.01] TradingKey — AI Bubble or AI Boom? How Europe's Markets Read Alphabet Down 15%, Meta Down 10%, Microsoft Up 8%**
-  English: Summary: TradingKey reports a market-moving item tied to Microsoft, Meta, Alphabet. The relevance is how it feeds into mega-cap technology leadership and index concentration. Watch Microsoft, Meta, Alphabet alongside Nasdaq futures, sector breadth, volume, and analyst revisions. If related stocks move together, the signal is more likely to reflect a real sector trend; if the reaction is isolated, it may be short-lived repricing. The next checkpoint is whether trading confirms the same direction across peers.
-  中文：总结：Microsoft、Meta、Alphabet 仍是大型科技股交易主线中的关键变量。这些公司权重高，对 S&P 500 和 Nasdaq 的方向影响明显；一旦估值、AI 投入、云业务或广告业务预期变化，指数可能被少数巨头牵引。接下来要看资金是继续集中在大型科技股，还是向软件、半导体设备、数据中心电力等周边产业扩散。实盘上还应观察期货开盘后的成交量、期权隐含波动率、龙头股是否带动同业，以及资金是否从指数权重股扩散到中小型成长股。如果消息只推动单一公司而板块没有跟随，趋势持续性会弱一些；如果半导体、软件、云计算和电力基础设施同时响应，说明市场正在交易更完整的 AI 资本开支链条。
-  📰 [TradingKey](https://news.google.com/rss/articles/CBMizgFBVV95cUxPVzhnWkF1eHFtSVhBc0J0UzdOdl8yTTM0QjNmOUZPSUxKUllubmxZVHRXQWlwWTJGZlJmY3pNY1A5OHdwRGJFdHRqX0xNQmkyTEw2MkJ5ODhlUFZaVFNLWHc1UjRpbmhnQ1JGV3BxcWZOS3gxbk9jWVdjbEZYOHY2LUpUdnAzVVpMQ1hDTjBsSHhGVEZSRXZCU3o3SFB0RXR5NnFVeGFPa2RVUGw0MjFJa2NNc1JQenphVWhlZjJZdXNkMVAtUVAyTnd3Y0F5Zw?oc=5)
+- **[2026.08.02] S&P 500 — 历史数据显示8月股市可能面临回调风险**
+  English: Historical data suggests that August could be a challenging month for the stock market, with the S&P 500 typically experiencing weakness, especially in midterm election years. Over the last three decades, the S&P 500 has declined by an average of 0.5% in August, with most of this seasonal weakness front-loading early in the month. Investors are advised to remain vigilant as the market navigates potential volatility and the anticipation of future interest rate hikes.
+  中文：总结：历史数据显示，8月份股市可能面临挑战，标普500指数通常表现疲软，尤其是在中期选举年。过去三十年，标普500指数在8月份平均下跌0.5%，且大部分季节性疲软集中在月初。随着市场应对潜在波动和对未来加息的预期，投资者应保持警惕。
+  📰 [The Motley Fool](https://www.fool.com/investing/2026/08/01/prediction-the-stock-market-will-hit-big-trouble-in-august/)
 
-- **[2026.08.01] The Sunday Guardian — S&P 500 Today: Index Falls -0.29% as Apple, Micron, Boeing & Qualcomm Crash Before Fed Decision & Inflation – Check Key Drivers, Daily Performance, Top Gainers-Losers & What Investors Should Watch**
-  English: Summary: The Sunday Guardian is reporting a specific AI chips, memory, data centers, and semiconductor equipment story involving Micron, Qualcomm, Apple. Micron is the stock-specific signal, so memory pricing matters more than a generic chip move. Qualcomm adds an AI-device chip angle separate from data-center memory. Peer moves show whether the trade is spreading through the AI-chip chain. This is more of an industry watchlist item, so it should be treated as context rather than one decisive catalyst. The practical read-through is to compare the named stocks with Nasdaq futures, SOX-style semiconductor breadth, and opening volume. If the reaction spreads across peers, it supports a sector trade; if it stays isolated, it is more likely a short-term headline move.
-  中文：总结：Micron、Qualcomm、Apple 是这条消息的主要观察对象。Micron 是主要个股信号，重点应看存储价格和 AI 服务器需求，而不只是泛泛看芯片股上涨；Qualcomm 带来的是 AI 终端或设备芯片角度，和 Micron 的数据中心存储逻辑并不完全相同；AMD、Intel、Qualcomm、Broadcom 或 Nvidia 等同业表现，可以判断资金是否在扩散到更完整的 AI 芯片链；这更像行业观察清单，适合作为背景信息，而不是单一明确催化。交易上需要把标题里的具体催化和盘面反应分开看：如果同业、期货和成交量同步确认，说明资金正在沿 AI 芯片链扩散；如果只有单一股票反应，持续性就要打折。
-  📰 [The Sunday Guardian](https://news.google.com/rss/articles/CBMi5gJBVV95cUxPOTR0TDhRbktVaXJvYUVwU2FCbVBicm92QmhkTlZ6U2VWMC1lMjROWVVTcnNwNUdSMjlLWkFhVHJlRE5rcVdTY05oMmRDdzlibGd1R1RtVnFyQUh5MFNkZ2l3R1M4WUpJcWFvc0M2Z2cwcTZTWTJ3WkNtek0xLTJ1b2NqU1QyT3VFRGJVRU51NEdWUVcxR3RfSTRzWnp6ZFpDWGc4QzJRT1F0Q0tNTy14N2VGMTUzWmt3QU16czhySi1PbDZQeW5RbHN4T1VEN21McklzTEcyQ0NJUHpLc2dXbjRpTEVwWTl4SlBMUElBbGVnR0xjTlVUUHdoTGR1ZWZMZXBaVEVZcVZleWREZnRQYkh5TV9JSDlya1h1N0pJZDl1VjlmR0F1dVprQXpzVTBZTGxfd3hBaDVKYW5BZHE1NXphNUNsSjZJeHY4Ulktc3NZY0s5dTNDUjY1azh5cnNYb05WcUF30gHmAkFVX3lxTE85NHRMOFFuS1Vpcm9hRXBTYUJtUGJyb3ZCaGROVnpTZVYwLWUyNE5ZVVNyc3A1R1IyOUtaQWFUcmVETmtxV1NjTmgyZEN3OWJsZ3VHVG1WcXJBSHkwU2RnaXdHUzhZSklxYW9zQzZnZzBxNlNZMndaQ216TTEtMnVvY2pTVDJPdUVEYlVFTnU0R1ZRVzFHdF9JNHNaenpkWkNYZzhDMlFPUXRDS01PLXg3ZUYxNTNaa3dBTXpzOHJKLU9sNlB5blFsc3hPVUQ3bUxySXNMRzJDQ0lQektzZ1duNGlMRXBZOXhKUExQSUFsZWdHTGNOVVRQd2hMZHVlZkxlcFpURVlxVmV5ZERmdFBiSHlNX0lIOXJrWHU3SklkOXVWOWZHQXV1WmtBenNVMFlMbF93eEFoNUphbkFkcTU1emE1Q2xKNkl4djhSWS1zc1ljSzl1M0NSNjVrOHlyc1hvTlZxQXc?oc=5)
+- **[2026.08.02] S&P 500 / SPY — 警惕8月股市下跌：历史表明月初可能出现疲软**
+  English: As Wall Street enters August, investors are cautioned about a potential "August dip," with historical data indicating early-month weakness for the S&P 500 (SPY). While August has shown a generally positive but mixed performance trend over the past decade, recent years highlight underlying volatility. Historically, the S&P 500 has often formed its August low by the 10th of the month, with the first few trading days accounting for a significant portion of these lows, suggesting a critical window for potential market pullbacks.
+  中文：总结：随着华尔街进入8月，投资者被警告可能出现“8月下跌”，历史数据显示标普500指数（SPY）在月初可能表现疲软。尽管过去十年8月整体趋势积极但表现复杂，但近年来的数据突显了潜在的波动性。历史上，标普500指数的8月低点通常在当月10日之前形成，其中前几个交易日占了很大一部分，预示着市场可能出现回调的关键窗口。
+  📰 [Seeking Alpha](https://seekingalpha.com/news/4996903-beware-the-august-dip-history-points-to-early-month-weakness-for-spy)
 
 ## 🇯🇵 日本株式市場 / Japan Market
 
-- **[2026.08.01] ABEMA — 【速報】日経平均株価 一時上げ幅2800円超 AI・半導体関連株が急伸 最新の経済ニュース【随時更新】**
-  日本語：要約：ABEMAの報道では、関連銘柄とセクターを中心に日本株の物色がどう広がるかが焦点です。半導体、AI、ソフトバンクグループ、輸出関連、金融などの主力株が同じ方向に動けば、日経平均やTOPIXの動きにも継続性が出やすくなります。一方で一部の値がさ株だけが上昇している場合は、市場全体の広がりが弱い可能性があります。次に見るべき点は、円相場、米国ハイテク株先物、出来高、海外投資家の買い姿勢です。決算やレーティング変更が材料の場合は、同業他社への波及も確認したいところです。指数寄与度の高い銘柄だけでなく、中小型株や内需株にも買いが広がるかを見ると、相場の持続力を判断しやすくなります。
+- **[2026.08.02] ig.com — 日経平均株価、円高急進で急落リスク 週次下落 キオクシア決算も悪材料**
+  日本語：要約：ig.comの報道では、関連銘柄とセクターを中心に日本株の物色がどう広がるかが焦点です。半導体、AI、ソフトバンクグループ、輸出関連、金融などの主力株が同じ方向に動けば、日経平均やTOPIXの動きにも継続性が出やすくなります。一方で一部の値がさ株だけが上昇している場合は、市場全体の広がりが弱い可能性があります。次に見るべき点は、円相場、米国ハイテク株先物、出来高、海外投資家の買い姿勢です。決算やレーティング変更が材料の場合は、同業他社への波及も確認したいところです。指数寄与度の高い銘柄だけでなく、中小型株や内需株にも買いが広がるかを見ると、相場の持続力を判断しやすくなります。
   中文：总结：相关公司和板块 把日本市场的焦点集中到半导体和 AI 产业链。日股中东京电子、Advantest、Kioxia、SoftBank Group 等常被视为 AI 基础设施和全球芯片周期的映射。如果海外芯片业绩或 AI 资本开支继续超预期，日经指数可能继续由高权重半导体股推动；同时也要留意日元和海外资金流向。实盘上还要结合日元汇率、外资买卖、美国科技股隔夜表现以及期货盘变化判断。如果日经上涨主要依赖少数半导体权重股，后续容易受海外芯片消息影响；如果汽车、金融、商社和中小盘也同步走强，说明市场宽度更健康。
-  📰 [ABEMA](https://news.google.com/rss/articles/CBMiW0FVX3lxTE5XRzRqRUZRdXY1bWR4N0VvX2RLYUVobmRIaDhjMS1fTERObzQtMUFBanFlNDItOFZuWTJXUkhTUHFuRmExYktkMW8xZEoyR3lLTkFUeFJKYjJ2S2s?oc=5)
+  📰 [ig.com](https://news.google.com/rss/articles/CBMirwFBVV95cUxNdElWazlNSFZ1TmRVamFzVklqSTYwb1QtRUp5ZlNYQXdDdUctTFNNV2dJN25WNkNKNGtKUjJkZkZqUmY4a242aEJWM0I5R2UzcmllT1RRMDFtM1Z5UXF1cFVGNnB3TVA4LVBlb1BlTjJVUndZaVFFeTBZYWJhMmZub3A3d2JJUnBGOWtTQml6Y3pYSklwdVhvRzV4dFlLa1Fhb1RlLXprMl9mSk9TS3Nv?oc=5)
+
+- **[2026.08.02] ダイヤモンド・オンライン — ソフトバンク経由で日本市場に入るOpenAIリスク**
+  日本語：要約：ダイヤモンド・オンラインの報道では、関連銘柄とセクターを中心に日本株の物色がどう広がるかが焦点です。半導体、AI、ソフトバンクグループ、輸出関連、金融などの主力株が同じ方向に動けば、日経平均やTOPIXの動きにも継続性が出やすくなります。一方で一部の値がさ株だけが上昇している場合は、市場全体の広がりが弱い可能性があります。次に見るべき点は、円相場、米国ハイテク株先物、出来高、海外投資家の買い姿勢です。決算やレーティング変更が材料の場合は、同業他社への波及も確認したいところです。指数寄与度の高い銘柄だけでなく、中小型株や内需株にも買いが広がるかを見ると、相場の持続力を判断しやすくなります。
+  中文：总结：相关公司和板块 把日本市场的焦点集中到半导体和 AI 产业链。日股中东京电子、Advantest、Kioxia、SoftBank Group 等常被视为 AI 基础设施和全球芯片周期的映射。如果海外芯片业绩或 AI 资本开支继续超预期，日经指数可能继续由高权重半导体股推动；同时也要留意日元和海外资金流向。实盘上还要结合日元汇率、外资买卖、美国科技股隔夜表现以及期货盘变化判断。如果日经上涨主要依赖少数半导体权重股，后续容易受海外芯片消息影响；如果汽车、金融、商社和中小盘也同步走强，说明市场宽度更健康。
+  📰 [ダイヤモンド・オンライン](https://news.google.com/rss/articles/CBMiTEFVX3lxTFBmNE5tdHpTVTBCVERrQWpaMG01Vkw5b1oxNTFmbXk4bFJuVEgwM0FIYmtvam50TnZtODBpUy10MXdNb1M3NUF0UnFITFfSAU9BVV95cUxOOHRzVzBRLU5oNTRuc2FVV1J2QVQtYUFWSm1WVkZvVlN1dWdkeUVFbkVIR2owT1BQSUtyRkVTN0hxSUEzanlXLW1rOHhkNmZr?oc=5)
+
+- **[2026.08.02] abema.tv — 【速報】日経平均株価 一時上げ幅2800円超 AI・半導体関連株が急伸 最新の経済ニュース【随時更新】**
+  日本語：要約：abema.tvの報道では、関連銘柄とセクターを中心に日本株の物色がどう広がるかが焦点です。半導体、AI、ソフトバンクグループ、輸出関連、金融などの主力株が同じ方向に動けば、日経平均やTOPIXの動きにも継続性が出やすくなります。一方で一部の値がさ株だけが上昇している場合は、市場全体の広がりが弱い可能性があります。次に見るべき点は、円相場、米国ハイテク株先物、出来高、海外投資家の買い姿勢です。決算やレーティング変更が材料の場合は、同業他社への波及も確認したいところです。指数寄与度の高い銘柄だけでなく、中小型株や内需株にも買いが広がるかを見ると、相場の持続力を判断しやすくなります。
+  中文：总结：相关公司和板块 把日本市场的焦点集中到半导体和 AI 产业链。日股中东京电子、Advantest、Kioxia、SoftBank Group 等常被视为 AI 基础设施和全球芯片周期的映射。如果海外芯片业绩或 AI 资本开支继续超预期，日经指数可能继续由高权重半导体股推动；同时也要留意日元和海外资金流向。实盘上还要结合日元汇率、外资买卖、美国科技股隔夜表现以及期货盘变化判断。如果日经上涨主要依赖少数半导体权重股，后续容易受海外芯片消息影响；如果汽车、金融、商社和中小盘也同步走强，说明市场宽度更健康。
+  📰 [abema.tv](https://news.google.com/rss/articles/CBMiW0FVX3lxTE5XRzRqRUZRdXY1bWR4N0VvX2RLYUVobmRIaDhjMS1fTERObzQtMUFBanFlNDItOFZuWTJXUkhTUHFuRmExYktkMW8xZEoyR3lLTkFUeFJKYjJ2S2s?oc=5)
+
+- **[2026.08.01] LIMO | くらしとお金の経済メディア — 2026年7月31日の東京株式市場｜パナソニックHD・キオクシアが急騰、円高でも半導体・電機が主導**
+  日本語：要約：LIMO | くらしとお金の経済メディアの報道では、関連銘柄とセクターを中心に日本株の物色がどう広がるかが焦点です。半導体、AI、ソフトバンクグループ、輸出関連、金融などの主力株が同じ方向に動けば、日経平均やTOPIXの動きにも継続性が出やすくなります。一方で一部の値がさ株だけが上昇している場合は、市場全体の広がりが弱い可能性があります。次に見るべき点は、円相場、米国ハイテク株先物、出来高、海外投資家の買い姿勢です。決算やレーティング変更が材料の場合は、同業他社への波及も確認したいところです。指数寄与度の高い銘柄だけでなく、中小型株や内需株にも買いが広がるかを見ると、相場の持続力を判断しやすくなります。
+  中文：总结：相关公司和板块 把日本市场的焦点集中到半导体和 AI 产业链。日股中东京电子、Advantest、Kioxia、SoftBank Group 等常被视为 AI 基础设施和全球芯片周期的映射。如果海外芯片业绩或 AI 资本开支继续超预期，日经指数可能继续由高权重半导体股推动；同时也要留意日元和海外资金流向。实盘上还要结合日元汇率、外资买卖、美国科技股隔夜表现以及期货盘变化判断。如果日经上涨主要依赖少数半导体权重股，后续容易受海外芯片消息影响；如果汽车、金融、商社和中小盘也同步走强，说明市场宽度更健康。
+  📰 [LIMO | くらしとお金の経済メディア](https://news.google.com/rss/articles/CBMiTEFVX3lxTE9nTHpuYTE5R01PSEtWSEZCcm5Zb1RLZk0zNzczdXI5cWlGajM1QnFkbk52QlJGOHZUa2RNMDNkU0M2WThQUjMzUURQWE0?oc=5)
 
 - **[2026.08.01] Yahoo!ファイナンス — (株)ヘッドウォータース【4011】：株価・株式情報（夜間PTS含む）**
   日本語：要約：Yahoo!ファイナンスの報道では、関連銘柄とセクターを中心に日本株の物色がどう広がるかが焦点です。半導体、AI、ソフトバンクグループ、輸出関連、金融などの主力株が同じ方向に動けば、日経平均やTOPIXの動きにも継続性が出やすくなります。一方で一部の値がさ株だけが上昇している場合は、市場全体の広がりが弱い可能性があります。次に見るべき点は、円相場、米国ハイテク株先物、出来高、海外投資家の買い姿勢です。決算やレーティング変更が材料の場合は、同業他社への波及も確認したいところです。指数寄与度の高い銘柄だけでなく、中小型株や内需株にも買いが広がるかを見ると、相場の持続力を判断しやすくなります。
@@ -64,76 +76,52 @@
   中文：总结：相关公司和板块 反映日本股市当天的行业轮动和个股表现。对日股来说，指数变化往往由半导体、汽车、金融、商社和 SoftBank 等权重股共同决定。需要结合日元走势、海外科技股表现、日银政策预期和外资买卖，判断行情是单日事件驱动，还是更广泛的趋势延续。实盘上还要结合日元汇率、外资买卖、美国科技股隔夜表现以及期货盘变化判断。如果日经上涨主要依赖少数半导体权重股，后续容易受海外芯片消息影响；如果汽车、金融、商社和中小盘也同步走强，说明市场宽度更健康。
   📰 [Yahoo!ファイナンス](https://news.google.com/rss/articles/CBMiUkFVX3lxTE9DSUVaX1hYQVdjR19RX19BV2h2b1l5amctcVJfVVVFSEN0dV9YN0Jva0JWZzFrSU5CZzdvbDRnTkJGWXZlQ0FfVVFPNnV1M3pxWGc?oc=5)
 
-- **[2026.08.01] Yahoo!ファイナンス — (株)ソリトンシステムズ【3040】：株価・株式情報（夜間PTS含む）**
-  日本語：要約：Yahoo!ファイナンスの報道では、関連銘柄とセクターを中心に日本株の物色がどう広がるかが焦点です。半導体、AI、ソフトバンクグループ、輸出関連、金融などの主力株が同じ方向に動けば、日経平均やTOPIXの動きにも継続性が出やすくなります。一方で一部の値がさ株だけが上昇している場合は、市場全体の広がりが弱い可能性があります。次に見るべき点は、円相場、米国ハイテク株先物、出来高、海外投資家の買い姿勢です。決算やレーティング変更が材料の場合は、同業他社への波及も確認したいところです。指数寄与度の高い銘柄だけでなく、中小型株や内需株にも買いが広がるかを見ると、相場の持続力を判断しやすくなります。
-  中文：总结：相关公司和板块 反映日本股市当天的行业轮动和个股表现。对日股来说，指数变化往往由半导体、汽车、金融、商社和 SoftBank 等权重股共同决定。需要结合日元走势、海外科技股表现、日银政策预期和外资买卖，判断行情是单日事件驱动，还是更广泛的趋势延续。实盘上还要结合日元汇率、外资买卖、美国科技股隔夜表现以及期货盘变化判断。如果日经上涨主要依赖少数半导体权重股，后续容易受海外芯片消息影响；如果汽车、金融、商社和中小盘也同步走强，说明市场宽度更健康。
-  📰 [Yahoo!ファイナンス](https://news.google.com/rss/articles/CBMiUkFVX3lxTE9CQkRXSEVWNHJoSTBvcmFLZ09WVzRmNjdWakhMTVVmOWNNSEdlNXFkYjk0QXpEanpJTTZlSzdhdC1rTXhianJ3M182THdZTXFmV0E?oc=5)
-
 - **[2026.08.01] ニコニコニュース — 配当「600円→1,640円」の特大サプライズ…“2日連続”ストップ高、東証プライム・上昇率1位となった〈半導体銘柄〉**
   日本語：要約：ニコニコニュースの報道では、関連銘柄とセクターを中心に日本株の物色がどう広がるかが焦点です。半導体、AI、ソフトバンクグループ、輸出関連、金融などの主力株が同じ方向に動けば、日経平均やTOPIXの動きにも継続性が出やすくなります。一方で一部の値がさ株だけが上昇している場合は、市場全体の広がりが弱い可能性があります。次に見るべき点は、円相場、米国ハイテク株先物、出来高、海外投資家の買い姿勢です。決算やレーティング変更が材料の場合は、同業他社への波及も確認したいところです。指数寄与度の高い銘柄だけでなく、中小型株や内需株にも買いが広がるかを見ると、相場の持続力を判断しやすくなります。
   中文：总结：相关公司和板块 把日本市场的焦点集中到半导体和 AI 产业链。日股中东京电子、Advantest、Kioxia、SoftBank Group 等常被视为 AI 基础设施和全球芯片周期的映射。如果海外芯片业绩或 AI 资本开支继续超预期，日经指数可能继续由高权重半导体股推动；同时也要留意日元和海外资金流向。实盘上还要结合日元汇率、外资买卖、美国科技股隔夜表现以及期货盘变化判断。如果日经上涨主要依赖少数半导体权重股，后续容易受海外芯片消息影响；如果汽车、金融、商社和中小盘也同步走强，说明市场宽度更健康。
-  📰 [ニコニコニュース](https://news.google.com/rss/articles/CBMie0FVX3lxTFA3Umx3QnRDQTFsdTkydTlpbENBbUcyX1RYbDNTaHpTRWtzYzJIdGRNNGd0WmswUGZhNVJVM05ieThCZHA4cU1kTWlEVEZDc0hqSFhXZlJfdlpoRm0xRXNyYTA0Z3hHcmdkVjJRVW9RQm9iWWw1TGpsY3FDSQ?oc=5)
+  📰 [ニコニコニュース](https://news.google.com/rss/articles/CBMiVEFVX3lxTE9RX0xOeGhRTjZ6Q2M0b2U5WWRVNEkybTcyX2RYaGVZYXpXbFNMcDY4eF9VUlBmN1I0VHRQNFY3elVLVEl0U2wwOUhPWF9MMHdJVjZWNA?oc=5)
 
 - **[2026.08.01] Yahoo!ファイナンス — ＬｉＮＫＸ(株)【584A】：株価・株式情報（夜間PTS含む）**
   日本語：要約：Yahoo!ファイナンスの報道では、関連銘柄とセクターを中心に日本株の物色がどう広がるかが焦点です。半導体、AI、ソフトバンクグループ、輸出関連、金融などの主力株が同じ方向に動けば、日経平均やTOPIXの動きにも継続性が出やすくなります。一方で一部の値がさ株だけが上昇している場合は、市場全体の広がりが弱い可能性があります。次に見るべき点は、円相場、米国ハイテク株先物、出来高、海外投資家の買い姿勢です。決算やレーティング変更が材料の場合は、同業他社への波及も確認したいところです。指数寄与度の高い銘柄だけでなく、中小型株や内需株にも買いが広がるかを見ると、相場の持続力を判断しやすくなります。
   中文：总结：相关公司和板块 反映日本股市当天的行业轮动和个股表现。对日股来说，指数变化往往由半导体、汽车、金融、商社和 SoftBank 等权重股共同决定。需要结合日元走势、海外科技股表现、日银政策预期和外资买卖，判断行情是单日事件驱动，还是更广泛的趋势延续。实盘上还要结合日元汇率、外资买卖、美国科技股隔夜表现以及期货盘变化判断。如果日经上涨主要依赖少数半导体权重股，后续容易受海外芯片消息影响；如果汽车、金融、商社和中小盘也同步走强，说明市场宽度更健康。
   📰 [Yahoo!ファイナンス](https://news.google.com/rss/articles/CBMiUkFVX3lxTFBfRzBPa0dHVmlFN01kT3lLR1V3aHRpdDdRUGpTeHZNRzdKclVRYXhpdHRaLWtua2RVVkJFcWpPdUVWMFpDakF3dmZ3VDVWWXZpUFE?oc=5)
 
-- **[2026.08.01] ダイヤモンド・オンライン — 来週（8/3～8/7）の日経平均株価の予想レンジは6万1000～6万8000円！ 決算発表後のキオクシアの動向や米･アマゾンの決算、為替介入＆中東情勢にも要注目**
-  日本語：要約：ダイヤモンド・オンラインの報道では、関連銘柄とセクターを中心に日本株の物色がどう広がるかが焦点です。半導体、AI、ソフトバンクグループ、輸出関連、金融などの主力株が同じ方向に動けば、日経平均やTOPIXの動きにも継続性が出やすくなります。一方で一部の値がさ株だけが上昇している場合は、市場全体の広がりが弱い可能性があります。次に見るべき点は、円相場、米国ハイテク株先物、出来高、海外投資家の買い姿勢です。決算やレーティング変更が材料の場合は、同業他社への波及も確認したいところです。指数寄与度の高い銘柄だけでなく、中小型株や内需株にも買いが広がるかを見ると、相場の持続力を判断しやすくなります。
-  中文：总结：相关公司和板块 把日本市场的焦点集中到半导体和 AI 产业链。日股中东京电子、Advantest、Kioxia、SoftBank Group 等常被视为 AI 基础设施和全球芯片周期的映射。如果海外芯片业绩或 AI 资本开支继续超预期，日经指数可能继续由高权重半导体股推动；同时也要留意日元和海外资金流向。实盘上还要结合日元汇率、外资买卖、美国科技股隔夜表现以及期货盘变化判断。如果日经上涨主要依赖少数半导体权重股，后续容易受海外芯片消息影响；如果汽车、金融、商社和中小盘也同步走强，说明市场宽度更健康。
-  📰 [ダイヤモンド・オンライン](https://news.google.com/rss/articles/CBMiU0FVX3lxTE16RmQzbVNDVDJTdEFRMXJ0TDgzcDZmNjNOOGt4c1p6b0lScm9HOWUwcTJBNlJuY2dXUXVvdG0yY1ZzS2tMRERuMWo5dzRlTXVXREVr?oc=5)
-
-- **[2026.08.01] 日本経済新聞 — 〈スクランブル〉嵐の後にらむ投資家 AI次の主役は「ニッチトップ」 ラリー復活、堅実銘柄探し**
-  日本語：要約：日本経済新聞の報道では、関連銘柄とセクターを中心に日本株の物色がどう広がるかが焦点です。半導体、AI、ソフトバンクグループ、輸出関連、金融などの主力株が同じ方向に動けば、日経平均やTOPIXの動きにも継続性が出やすくなります。一方で一部の値がさ株だけが上昇している場合は、市場全体の広がりが弱い可能性があります。次に見るべき点は、円相場、米国ハイテク株先物、出来高、海外投資家の買い姿勢です。決算やレーティング変更が材料の場合は、同業他社への波及も確認したいところです。指数寄与度の高い銘柄だけでなく、中小型株や内需株にも買いが広がるかを見ると、相場の持続力を判断しやすくなります。
-  中文：总结：相关公司和板块 把日本市场的焦点集中到半导体和 AI 产业链。日股中东京电子、Advantest、Kioxia、SoftBank Group 等常被视为 AI 基础设施和全球芯片周期的映射。如果海外芯片业绩或 AI 资本开支继续超预期，日经指数可能继续由高权重半导体股推动；同时也要留意日元和海外资金流向。实盘上还要结合日元汇率、外资买卖、美国科技股隔夜表现以及期货盘变化判断。如果日经上涨主要依赖少数半导体权重股，后续容易受海外芯片消息影响；如果汽车、金融、商社和中小盘也同步走强，说明市场宽度更健康。
-  📰 [日本経済新聞](https://news.google.com/rss/articles/CBMibEFVX3lxTE9MekFPeHcwOGQ3dGZXRnNVdmpPZ1UzVGJMajF4ZEtLN0NSOTlBc25aSVFOdXRqZVBGNTB4WW90dXAzNFdPRDl3VVRvbXJMSzktaGpGUXF6ZjBScS1yUkF5Y09jWFh4Sk1QUmhzWA?oc=5)
-
 ## 🌍 宏观经济与投资 / Macro & Investment
 
-Here are 7 recent news items concerning macroeconomics and investment, relevant for August 2, 2026:
+- **[2026.08.02] 日元 (Japanese Yen) — 美日联手干预汇市，日元大幅反弹**
+  日本語：米国と日本は協調介入を実施し、長らく下落していた円を救済しました。米財務省が円買い介入を行ったと報じられ、これを受けて円は対ドルで大幅に上昇し、一時1ドル＝157円台まで回復しました。この動きは、日本の当局がインフレと輸入コスト上昇への懸念を緩和するためのものであり、市場の投機的な動きに対する強い警告と見られています。今後も両国政府の動向が注目されます。
+  中文：总结：美国和日本今日联手对汇市进行干预，以支撑持续疲软的日元。据报道，美国财政部进行了自十多年前以来的首次日元购买干预，推动日元兑美元大幅反弹，一度升至157日元区间。此举旨在缓解日本对通胀和进口成本上升的担忧，并对市场投机行为发出强烈警告。
+  📰 [Dailynewsegypt](https://www.dailynewsegypt.com/2026/08/01/us-and-japan-execute-coordinated-intervention-to-rescue-beleaguered-yen/)
 
-- **[2026.08.02] US Economy — 美国第二季度GDP增长放缓，通胀压力持续**
-  English: The U.S. economy experienced a notable slowdown in the second quarter of 2026, with real GDP growth decelerating to an annualized rate of 1.5% from 2.1% in the first quarter. This figure fell short of economists' expectations, raising concerns about the pace of economic expansion. Despite the headline slowdown, underlying private domestic demand remained robust, driven by consumer spending and investment. However, inflation continued to be a persistent challenge, with the PCE price index rising by 5.1%, indicating that price pressures are still elevated and could influence future Federal Reserve policy decisions.
-  中文：总结：美国经济在2026年第二季度增长显著放缓，实际GDP年化增长率从第一季度的2.1%降至1.5%，低于市场预期。尽管整体增长减速，但消费者支出和投资支撑的私人国内需求依然强劲。然而，个人消费支出（PCE）价格指数上涨5.1%，显示通胀压力持续高企，这可能对美联储未来的政策路径产生影响。
+- **[2026.08.02] 美联储 (Federal Reserve) — 美联储维持利率不变，市场波动加剧**
+  English: The Federal Reserve opted to keep interest rates steady at 3.50%-3.75% following its latest policy meeting, a decision that led to significant market volatility. While the hold was largely anticipated, some dissent within the FOMC and a cautious tone from Chair Kevin Warsh regarding persistent inflation risks contributed to Wall Street experiencing its worst day of 2026. Investors are now closely scrutinizing upcoming inflation and GDP data for clearer signals on the Fed's future trajectory, as the central bank emphasizes data dependency amidst a complex economic backdrop.
+  中文：总结：美联储在最新政策会议后决定维持利率在3.50%-3.75%不变，此举引发了市场显著波动。尽管市场普遍预期利率将维持不变，但联邦公开市场委员会内部的分歧以及主席凯文·沃什对持续通胀风险的谨慎态度，导致华尔街经历了2026年以来最糟糕的一天。投资者正密切关注即将公布的通胀和GDP数据，以获取美联储未来政策走向的更清晰信号。
+  📰 [CBS News](https://www.cbsnews.com/news/stocks-plummet-wall-street-worst-day-2026-fed-interest-rates-steady/)
 
-  📰 [Fibre2Fashion](https://www.fibre2fashion.com/news/textile-news/us-gdp-growth-slows-to-1-5-in-q2-2026-302484-newsdetails.htm)
+- **[2026.08.02] 三井住友金融集团 (Sumitomo Mitsui Financial Group) — 三井住友金融集团一季度利润增长强劲**
+  日本語：住友三井フィナンシャルグループ（SMFG）は、第1四半期の純利益が前年同期比で33%増の5014億円（約31.3億ドル）に達したと発表しました。これは、グローバル市場の大きな変動や貿易摩擦にもかかわらず、堅調な融資需要に支えられたものです。特に、国内外で事業を展開する大企業からの融資需要が好調で、SMFGは記録的な利益達成に向けて順調に進んでいます。
+  中文：总结：三井住友金融集团（SMFG）今日公布，第一季度利润同比增长33%，达到5014亿日元（约31.3亿美元），显示出强劲的业绩。尽管全球市场波动和贸易环境复杂，但主要来自大型上市日本企业的稳健贷款需求支撑了这一增长。SMFG正朝着实现创纪录利润的目标迈进。
+  📰 [Business Recorder](https://www.brecorder.com/news/40296765/japan-bank-smfgs-q1-profit-jumps-3pc-on-robust-loan-demand)
 
-- **[2026.08.02] Federal Reserve — 美联储维持利率不变，内部对加息存在分歧**
-  English: The Federal Reserve recently opted to keep its benchmark interest rate unchanged in the range of 3.50-3.75% for the fifth consecutive meeting, despite inflation remaining stubbornly above its 2% target. The decision, while broadly anticipated, saw three policymakers dissenting in favor of an immediate quarter-point rate hike, highlighting growing internal divisions regarding the urgency of further tightening to combat persistent price pressures. Fed Chair Kevin Warsh has reiterated a low tolerance for elevated inflation, suggesting that future data, particularly the upcoming US CPI report, will be crucial in determining the Fed's next move.
-  中文：总结：美联储在连续第五次会议上选择维持基准利率在3.50-3.75%不变，尽管通胀率仍顽固地高于2%的目标。此次决定虽在市场预期之内，但有三位决策者投票支持立即加息25个基点，表明内部对进一步收紧政策以应对持续通胀的紧迫性存在分歧。美联储主席凯文·沃什重申对高通胀的零容忍态度，预示即将发布的美国CPI数据将对美联储的未来政策走向至关重要。
+- **[2026.08.02] 日本汽车制造业 (Japan Automakers) — 地震导致日本多家汽车厂停产**
+  日本語：熊本地震の影響で、トヨタ自動車は南部日本の3工場で操業を停止すると発表しました。前日の地震により、サプライヤーや物流への影響を評価するため、金曜日まで生産を停止する予定です。ホンダも熊本の二輪車工場で操業停止を延長し、ルネサスエレクトロニクスも2工場で操業を停止しています。この地震は、日本の主要製造業のサプライチェーンに広範な影響を及ぼしています。
+  中文：总结：受地震影响，丰田汽车宣布暂停日本南部三家工厂的运营至周五，以评估对供应商和物流的影响。本田也延长了其熊本摩托车工厂的停产时间，芯片制造商瑞萨电子亦有两家工厂停产。此次地震对日本主要制造业的供应链造成了广泛影响，引发了对生产中断的担忧。
+  📰 [The Manila Times](https://www.manilatimes.net/2026/08/02/business/tremor-halts-japan-automakers-plant-operations/1979929)
 
-  📰 [investingLive](https://www.investinglive.com/news/how-have-interest-rate-expectations-changed-after-this-weeks-events)
-
-- **[2026.08.02] USD/JPY & Bank of Japan — 日元兑美元波动加剧，日本央行维持政策不变**
-  日本語：7月31日、日本銀行は政策金利を1.00%に据え置くことを決定し、タカ派的なシグナルは示されませんでした。これにより、米ドルと日本円の金利差が拡大し、キャリートレードがドル高円安を加速させています。市場では、日本当局による円買い介入が何度か疑われ、一時的にUSD/JPYが急落する場面も見られましたが、長期的なドル高トレンドを覆すには至っていません。中東情勢の緊迫化による原油価格上昇も、エネルギー輸入国である日本経済にとって逆風となっており、今後の日銀の対応と米国CPIデータに注目が集まっています。
-  中文：总结：日本央行于7月31日维持政策利率在1.00%不变，未发出任何鹰派信号，导致美元与日元之间的利差扩大，推动套利交易并加剧日元贬值。尽管市场多次猜测日本当局进行了买入干预，导致美元兑日元汇率一度急剧下跌，但未能扭转美元的长期上涨趋势。中东局势紧张导致油价上涨，对作为能源进口国的日本经济构成挑战。市场正密切关注日本央行未来的行动以及即将公布的美国CPI数据。
-
-  📰 [PrimeXBT](https://primexbt.com/blog/usd-jpy-snaps-back-from-suspected-intervention-as-bank-of-japan-holds)
-
-- **[2026.08.02] S&P 500 — 标普500指数八月面临历史性挑战**
-  English: The S&P 500 index is entering August with historical data suggesting a challenging month ahead. Over the past three decades, August has typically seen the S&P 500 decline by an average of 0.5%. This year, the outlook is further complicated by the ongoing Iran war, which has fueled inflationary pressures and heightened expectations for higher interest rates. Additionally, during midterm election years, the S&P 500 has historically experienced significant corrections, often bottoming out in August. Analysts are advising investors to prepare for potential volatility and a possible dip into correction territory, despite the index's year-to-date gains.
-  中文：总结：标普500指数进入八月，历史数据显示该月市场表现通常不佳，过去三十年平均下跌0.5%。今年，受持续的伊朗战争引发的通胀压力和加息预期，以及中期选举年市场通常会出现大幅回调并在八月触底等因素影响，市场前景更趋复杂。分析师建议投资者为潜在的市场波动和可能的回调做好准备，尽管该指数今年迄今仍有上涨。
-
+- **[2026.08.02] 标普500指数 (S&P 500 Index) — 历史数据显示八月股市或面临挑战**
+  English: Analysts are warning that August could be a challenging month for the U.S. stock market, with historical data indicating a tendency for the S&P 500 to perform poorly. Over the last three decades, the S&P 500 has declined by an average of 0.5% in August. This year, factors such as ongoing geopolitical conflicts, which have fueled inflation concerns and expectations of higher interest rates, coupled with the historical pattern of corrections during midterm election years, suggest potential downside. Investors are advised to prepare for increased volatility and a possible market correction.
+  中文：总结：分析师警告称，八月美国股市可能面临挑战，历史数据显示标普500指数在八月表现不佳。过去三十年，该指数在八月平均下跌0.5%。今年，持续的地缘政治冲突、通胀担忧以及中期选举年通常出现的市场回调模式，都预示着潜在的下行风险。投资者应为市场波动加剧和可能的回调做好准备。
   📰 [The Motley Fool](https://www.fool.com/investing/2026/08/01/prediction-the-stock-market-will-hit-big-trouble-in-august/)
 
-- **[2026.08.02] Global Trade — 美国对加拿大及其他贸易伙伴实施新关税**
-  English: The Trump administration has recently imposed new tariffs, including a 50% additional duty on certain Canadian imports, effective August 19, 2026. This move, citing Canada's alleged discrimination against U.S. exports in sectors like dairy and motor vehicles, impacts nearly $20 billion in annual imports. Separately, the U.S. also implemented tariffs of up to 12.5% on goods from 60 trading partners, effective July 26, 2026, over concerns about their enforcement against forced labor. These broad measures underscore a continued aggressive stance on trade policy, potentially reshaping global supply chains and trade relations.
-  中文：总结：特朗普政府近期宣布对部分加拿大进口商品征收50%的额外关税，将于2026年8月19日生效，理由是加拿大在乳制品和汽车等领域歧视美国出口，此举涉及近200亿美元的年度进口额。此外，美国还于2026年7月26日对60个贸易伙伴的商品征收最高12.5%的关税，理由是这些国家未能有效打击强迫劳动。这些广泛的贸易措施表明美国贸易政策持续强硬，可能重塑全球供应链和贸易关系。
+- **[2026.08.02] 美国GDP (US GDP) — 美国第二季度GDP增速放缓，通胀压力持续**
+  English: The U.S. Bureau of Economic Analysis released its advance estimate for second-quarter GDP, showing an annualized growth rate of 1.5%. While still positive, this marks a deceleration from the first quarter's pace, reflecting moderating consumer spending and investment. Concurrently, the price index for gross domestic purchases increased by 5.7%, indicating persistent inflationary pressures. The Federal Reserve's preferred inflation measure, core PCE, also remains above target. This combination of slowing growth and elevated inflation presents a complex challenge for policymakers and investors alike.
+  中文：总结：美国商务部公布的第二季度GDP先行估值显示，年化增长率为1.5%，较第一季度有所放缓，反映出消费支出和投资的温和增长。与此同时，国内生产总值价格指数上涨5.7%，表明通胀压力持续存在。美联储偏爱的核心PCE通胀指标也仍高于目标。经济增长放缓与通胀高企并存，给政策制定者和投资者带来了复杂挑战。
+  📰 [U.S. Bureau of Economic Analysis (BEA)](https://www.bea.gov/news/2026/gdp-advance-estimate-2nd-quarter-2026)
 
-  📰 [Wiley Rein](https://www.wiley.law/alert-President-Trump-Imposes-New-50-Tariffs-on-Certain-Canadian-Imports)
-
-- **[2026.08.02] Crypto Market — 比特币ETF资金流出，市场情绪谨慎**
-  English: The cryptocurrency market is experiencing heightened volatility, with Bitcoin recently slipping below $63,000. This downturn is partly attributed to significant outflows from Bitcoin ETFs in late July, signaling a pause in institutional interest and a cautious market sentiment heading into August. Reports indicate that Bitcoin ETFs shed hundreds of millions of dollars over a few days, reversing an earlier inflow trend for 2026. The uncertainty surrounding Federal Reserve policy and a broader sell-off in chip stocks are also contributing to the subdued mood in the crypto space, with investors closely watching for clearer directional signals.
-  中文：总结：加密货币市场波动加剧，比特币近期跌破63,000美元。这一下跌部分归因于7月下旬比特币ETF的显著资金流出，预示机构兴趣暂停，市场情绪在进入8月时趋于谨慎。报告显示，比特币ETF在几天内流出数亿美元，逆转了2026年早些时候的流入趋势。美联储政策的不确定性以及芯片股的普遍抛售也加剧了加密货币市场的低迷情绪，投资者正密切关注更明确的方向性信号。
-
-  📰 [ICO Bench](https://icobench.com/blog/july-bitcoin-etf-flows-signal-institutional-pause-august-risk-in-focus)
-
-- **[2026.08.02] Nikkei 225 — 日经指数受半导体板块影响波动，AI乐观情绪与估值担忧并存**
-  日本語：7月下旬、日経平均株価は半導体関連株の動向に大きく左右され、一時的に大幅な上昇を見せた後、AI関連株の売却により二ヶ月ぶりの安値を記録しました。マイクロソフトやアマゾンの好決算がAI需要の継続に対する楽観論を再燃させ、半導体株を押し上げた一方で、高騰したバリュエーションに対する警戒感も高まっています。特に、アドバンテストが年間営業利益予測を上方修正したことは好材料ですが、全体としては、AI市場の将来性に対する見方の変化が市場のボラティリティを高めています。
-  中文：总结：7月下旬，日经225指数受到半导体板块影响剧烈波动，在微软和亚马逊强劲财报推动AI乐观情绪下，半导体股一度大涨，但随后因AI相关股票抛售而跌至两个月低点。尽管Advantest等公司上调了年度盈利预测，但市场对AI相关股票高估值的担忧加剧，导致全球范围内的抛售。AI市场前景看法的转变正在加剧市场波动性。
-
-  📰 [TradingView News](https://www.tradingview.com/news/reuters:108253:0/)
+- **[2026.08.02] 比特币 (Bitcoin) — 美联储利率决议后，加密货币市场展望复杂**
+  English: Following the Federal Reserve's decision to hold interest rates steady, the outlook for Bitcoin and the broader cryptocurrency market in August remains complex. While a dovish stance might typically support risk assets, the Fed's cautious tone on inflation and the ongoing debate over future rate hikes are creating uncertainty. Key factors influencing crypto performance this month include inflation data, treasury yields, dollar strength, and ETF flows. Investors are closely monitoring these macroeconomic indicators for clues on potential price movements, with Bitcoin's trajectory tied to both traditional market sentiment and specific crypto developments.
+  中文：总结：美联储决定维持利率不变后，八月份比特币及更广泛加密货币市场的展望依然复杂。尽管鸽派立场通常会支撑风险资产，但美联储对通胀的谨慎态度以及未来加息的持续辩论正在制造不确定性。本月影响加密货币表现的关键因素包括通胀数据、国债收益率、美元走强和ETF资金流向。投资者正密切关注这些宏观经济指标，以获取潜在价格走势的线索。
+  📰 [BeInCrypto](https://beincrypto.com/fed-holds-rates-bitcoin-ethereum-altcoins-august-2026/)
 
 ---
 ※Stock Market Daily Digest | 2026.08.02
