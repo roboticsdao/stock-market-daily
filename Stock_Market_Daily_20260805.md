@@ -7,104 +7,109 @@
 
 ## 🇺🇸 美国股市 / US Market
 
-- **[2026.08.05] S&P 500 — 标普500指数首次突破7400点**
-  English: The S&P 500 index reached an unprecedented 7,400 points today, marking a significant milestone for the U.S. stock market. This surge reflects robust market sentiment and continued investor confidence, potentially driven by strong corporate earnings and easing inflation concerns. The index's upward trajectory suggests a bullish outlook, but investors should monitor upcoming economic data and central bank policies for sustained growth. This new high could attract further capital inflows, especially into large-cap equities.
-  中文：总结：标普500指数在今日交易中首次突破7400点大关，标志着美国股市的强劲表现和投资者信心的持续高涨。这一历史性突破可能得益于强劲的企业盈利和通胀担忧的缓解。未来市场走势仍需关注经济数据和央行政策。
-  📰 [NYSE.com](https://www.nyse.com/)
+- **[2026.08.05] US Market — 美国股市昨日创下新高，科技股领涨**
+  English: The U.S. stock market closed significantly higher on Tuesday, August 4, 2026, with all major indices reaching new record highs, setting a positive tone for today's trading. The S&P 500 surged 1.8%, the Dow Jones Industrial Average added 1.7%, and the Nasdaq Composite jumped 2.6%. This broad rally was primarily fueled by robust corporate earnings reports and a slight easing in oil prices, with technology and materials sectors leading the gains. Investor confidence appears strong despite underlying concerns about inflation and geopolitical developments.
+  中文：总结：美国股市在2026年8月4日周二收盘时大幅上涨，主要股指均创下新高，为今日交易奠定积极基调。标普500指数上涨1.8%，道琼斯工业平均指数上涨1.7%，纳斯达克综合指数上涨2.6%。此次上涨主要受强劲的企业财报和油价小幅回落推动，科技和材料板块表现尤为突出。
+  📰 [Associated Press via BNN Bloomberg](https://www.bnnbloomberg.ca/u-s-stocks-hit-records-as-profits-keep-piling-up-for-palantir-and-others-while-oil-prices-ease-1.2099719)
 
-- **[2026.08.05] Ferguson Enterprises — 弗格森企业加入标普500指数**
-  English: Ferguson Enterprises (NYSE: FERG), a leading distributor of water and air solutions, officially joined the S&P 500 index today, replacing Electronic Arts (NASD: EA). This inclusion is effective prior to the opening of trading and signifies Ferguson's growing market presence and financial viability. Electronic Arts is being removed due to its pending acquisition by an investor consortium. This change will impact index-tracking funds and could lead to rebalancing activities.
-  中文：总结：领先的水和空气解决方案分销商弗格森企业（NYSE: FERG）于今日开盘前正式加入标普500指数，取代了即将被收购的艺电（NASD: EA）。此次变动反映了弗格森日益增长的市场地位，并将影响追踪该指数的基金。
-  📰 [PR Newswire](https://www.prnewswire.com/news-releases/ferguson-enterprises-set-to-join-sp-500-and-adi-global-distribution-to-join-sp-smallcap-600-302302300.html)
+- **[2026.08.05] TCGX Acquisition Corp. — TCGX SPAC今日在纳斯达克上市**
+  English: TCGX Acquisition Corp., a special purpose acquisition company (SPAC), is making its debut on the Nasdaq Capital Market today, August 5, 2026. The company priced its initial public offering (IPO) at $10.00 per share, successfully raising $75 million. Its Class A ordinary shares will begin trading under the ticker symbol "TCGX." The SPAC intends to focus its acquisition efforts on targets within the healthcare and life sciences industries, signaling potential future M&A activity in these sectors.
+  中文：总结：TCGX Acquisition Corp.这家特殊目的收购公司（SPAC）于2026年8月5日今日在纳斯达克资本市场首次公开募股（IPO）。该公司以每股10.00美元的价格发行，成功募集7500万美元。其A类普通股将以“TCGX”为代码开始交易，主要目标是医疗保健和生命科学领域的收购标的。
+  📰 [Investing.com Nigeria](https://ng.investing.com/news/tcgx-acquisition-corp-prices-75m-ipo-on-nasdaq-432SI-351806)
 
-- **[2026.08.05] Invesco Nasdaq Technology ETF — 景顺纳斯达克科技ETF暂停交易**
-  English: The Invesco Nasdaq Technology ETF will experience a temporary trading suspension from market opening today, resuming at 10:30 AM on August 5, 2026. Redemptions will continue as normal during this pause. This event, reported by Jin10 and Binance News, could affect liquidity and short-term trading strategies for investors holding or looking to trade this specific technology-focused ETF. The reason for the pause is not explicitly detailed in the snippet, but such events can sometimes be related to operational adjustments or market structure changes.
-  中文：总结：景顺纳斯达克科技ETF今日开盘后将暂停交易，并于上午10:30恢复。暂停期间赎回业务正常进行。此举可能影响持有该科技ETF的投资者的短期流动性和交易策略。
-  📰 [Binance News](https://www.binance.com/en/square/post/7950942442431)
+- **[2026.08.05] Ferguson (FERG) — Ferguson公司今日起纳入标普500指数**
+  English: Ferguson Enterprises Inc. (NYSE: FERG), a prominent distributor of essential water and air solutions, is officially joining the S&P 500 index, with its inclusion effective at the open of trading today, August 5, 2026. This significant move highlights Ferguson's robust market performance and solidifies its position among the largest U.S. publicly traded companies. The addition is expected to increase the company's visibility and liquidity, potentially attracting broader institutional investment.
+  中文：总结：领先的水和空气解决方案分销商Ferguson Enterprises Inc.（NYSE: FERG）今日（2026年8月5日）起正式被纳入标普500指数。这一重要举措彰显了Ferguson强劲的市场表现，并巩固了其在美国大型上市公司中的地位，预计将提升公司的市场知名度和流动性。
+  📰 [Ferguson](https://www.ferguson.com/content/corporate/news/ferguson-joins-the-sp-500)
 
-- **[2026.08.05] Novo Nordisk — 诺和诺德公布2026年第二季度财报**
-  English: Novo Nordisk A/S is scheduled to announce its financial results for the first six months of 2026 today, August 5. This earnings report is highly anticipated, especially given the company's significant presence in the pharmaceutical sector, particularly with its diabetes and obesity treatments. Investors will be closely watching revenue growth, profit margins, and any updates on pipeline developments or market outlook, which could influence the stock's performance and broader healthcare sector sentiment.
-  中文：总结：诺和诺德公司（Novo Nordisk A/S）定于今日公布2026年上半年财报。鉴于该公司在制药领域的突出地位，投资者将密切关注其营收增长、利润率以及对未来展望的任何更新，这可能影响其股价和医疗保健板块情绪。
-  📰 [Novo Nordisk Investor Relations](https://www.novonordisk.com/investors/financial-results-and-events/financial-results-and-events-overview.html)
+- **[2026.08.05] Invesco Nasdaq Technology ETF — Invesco纳斯达克科技ETF今日暂停交易**
+  English: The Invesco Nasdaq Technology ETF will experience a temporary trading halt today, August 5, 2026, from the market opening until 10:30 AM. While trading will be suspended for this period, redemptions for the ETF will proceed as usual. Investors holding or looking to trade this technology-focused fund should be aware of the brief interruption in market activity.
+  中文：总结：Invesco纳斯达克科技ETF今日（2026年8月5日）将暂停交易，从开盘起至上午10:30。尽管交易暂停，但该ETF的赎回业务将正常进行。持有或计划交易此科技基金的投资者应留意此次短暂的市场活动中断。
+  📰 [Binance](https://www.binance.com/en/feed/news/stocks/2026-08-04-invesco-nasdaq-technology-etf-to-pause-trading-on-august-5-2026-1144023223126)
 
-- **[2026.08.05] The New York Times Company — 纽约时报公司公布2026年第二季度财报**
-  English: The New York Times Company (NYSE: NYT) is set to release its second-quarter financial results today, August 5, 2026, before market open. Investors will be keen to analyze subscriber growth across its digital and print platforms, advertising revenue trends, and overall profitability. The company's performance will offer insights into the health of the media industry and its ongoing digital transformation efforts, potentially impacting investor sentiment towards other media stocks.
-  中文：总结：纽约时报公司（NYSE: NYT）将于今日开盘前发布2026年第二季度财报。投资者将关注其订阅用户增长、广告收入趋势及整体盈利能力，以评估媒体行业的健康状况和公司的数字化转型进展。
-  📰 [The New York Times Company Investor Relations](https://investors.nytco.com/)
+- **[2026.08.05] Microsoft (MSFT) — 微软股价飙升，分析师看好其AI前景**
+  English: Microsoft (NASDAQ: MSFT) shares have experienced a significant rally, climbing 24% over the past five days, driven by strong Q4 FY26 earnings. The company's Azure cloud platform achieved over $100 billion in annual revenue with a 43% growth rate. Jefferies maintained a "buy" rating on MSFT, setting an ambitious price target of $575, reflecting strong analyst confidence in Microsoft's continued leadership and investment in AI infrastructure.
+  中文：总结：微软（NASDAQ: MSFT）股价在过去五天内飙升24%，主要得益于其2026财年第四季度强劲的财报。Azure云平台年收入突破1000亿美元，增长率达43%。Jefferies维持对微软的“买入”评级，并将目标价定为575美元，显示分析师对其在AI基础设施投资的持续领导力充满信心。
+  📰 [Watcher Guru](https://watcher.guru/news/jefferies-delivers-latest-microsoft-stock-price-target-msft)
 
-- **[2026.08.05] Joby Aviation — Joby Aviation发布2026年第二季度财报**
-  English: Joby Aviation (JOBY) is scheduled to report its second-quarter earnings after the market closes today, August 5, 2026. The eVTOL (electric vertical takeoff and landing) company's stock has seen a significant decline in 2026, and investors are eagerly awaiting updates on commercialization, regulatory progress, particularly FAA type certification, and cash burn. A positive update on these fronts could help the stock recover, while any delays might exacerbate investor concerns.
-  中文：总结：Joby Aviation（JOBY）将于今日收盘后公布第二季度财报。投资者正密切关注这家电动垂直起降公司在商业化、FAA型号认证进展以及现金消耗方面的更新，以期扭转其2026年股价大幅下跌的局面。
-  📰 [The Motley Fool](https://www.fool.com/investing/2026/08/03/joby-aviations-next-earnings-report-on-aug-5-could/)
-
-- **[2026.08.05] Icahn Enterprises — 伊坎企业2026年第二季度财报网络直播**
-  English: Icahn Enterprises L.P. (NASDAQ: IEP) will host a webcast today, August 5, 2026, to discuss its second-quarter financial results. Investors will be looking for insights into the performance of its diverse portfolio of businesses, any strategic shifts, and commentary from Carl Icahn himself. The webcast provides an opportunity for the company to address market concerns and outline its outlook for the remainder of the year, potentially influencing its stock price.
-  中文：总结：伊坎企业（NASDAQ: IEP）将于今日举行网络直播，讨论其2026年第二季度财报。投资者将关注其多元化业务组合的表现、战略调整以及卡尔·伊坎的评论，这可能影响公司股价。
-  📰 [Icahn Enterprises Investor Relations](https://www.iep.com/news-events/events/event-details/2026/Q2-2026-Earnings-Webcast/default.aspx)
+- **[2026.08.05] Apple (AAPL) — 苹果遭分析师下调评级，受芯片成本和供应限制影响**
+  English: Apple (NASDAQ: AAPL) saw its stock rating downgraded from "buy" to "hold" by DZ Bank on August 4, 2026, with a price target of $310. Despite reporting better-than-expected quarterly earnings, the tech giant's shares have faced downward pressure. This is largely attributed to rising memory chip costs and ongoing supply constraints, which are anticipated to impact the company's profit margins in the upcoming quarters.
+  中文：总结：2026年8月4日，DZ Bank将苹果（NASDAQ: AAPL）的股票评级从“买入”下调至“持有”，目标价为310美元。尽管苹果公布的季度收益超出预期，但由于内存芯片成本上涨和持续的供应限制，预计将影响未来季度的利润率，导致股价承压。
+  📰 [MarketBeat](https://www.marketbeat.com/stocks/NASDAQ/AAPL/price-target/)
 
 ## 🇯🇵 日本株式市場 / Japan Market
 
-- **[2026.08.05] 日経平均・TOPIX — 日本株市場は方向感に欠ける展開**
-  日本語：本日の日本株式市場は、前日の米国株高を背景に日経平均が一時反発する場面も見られたものの、全体としては方向感に欠ける展開となりました。特に、決算発表が本格化する中で、外国為替市場での円高是正の動きが企業業績に与える影響への警戒感が広がり、上値の重い展開が続きました。東証プライム市場では値下がり銘柄数が値上がり銘柄数を上回り、市場全体の58%を占めるなど、物色の二極化が鮮明となっています。AI関連株の一部には買いが入る一方、広範な銘柄には利益確定売りが出やすい状況です。
-  中文：总结：日本股市今日表现平淡，尽管受隔夜美股上涨提振，日经指数一度反弹，但整体市场缺乏明确方向。财报季全面展开，市场对日元升值修正对企业盈利的影响保持警惕，导致股指承压。主板市场下跌股票数量超过上涨股票，占总数的58%，显示出明显的两极分化。
-  📰 [株探](https://kabutan.jp/news/market/20260804_05)
+- **[2026.08.05] 日経平均 — 欧米株高受け大幅続伸の公算**
+  日本語：5日の東京株式市場は、前日の欧米株市場が史上最高値を更新する全面高となった流れを引き継ぎ、リスクオンムードが急速に広がる見通し。日経平均株価は6万5000円台への大幅な水準切り上げが想定され、半導体関連やAI関連株への買い戻しが加速するとみられる。中東情勢の緊張緩和による原油価格下落も好感され、日経平均は6万6000円を視野に入れる可能性もある。
+  中文：总结：受前夜欧美股市全面创新高提振，5日东京股市预计将大幅上涨，风险偏好情绪迅速升温。日经平均指数有望突破65000点，半导体及AI相关股票的买盘将加速。中东局势缓和导致油价下跌也构成利好，日经指数甚至可能剑指66000点。
+  📰 [みんかぶ](https://minkabu.jp/)
 
-- **[2026.08.05] 日本銀行 — 金融政策は据え置きも、追加利上げへの警戒感高まる**
-  日本語：日本銀行は先週の金融政策決定会合で政策金利を1.0%に据え置きましたが、植田総裁は記者会見で、基調的な物価上昇率が2%に近づく中で、物価上振れリスクへの警戒を一段と強化する姿勢を示しました。金融環境が緩和的過ぎると判断すれば、利上げペースを速める可能性も十分あり得ると発言し、市場では9月以降の追加利上げ観測が強まっています。特に、グローバルなAI関連需要の増加や円安が物価を押し上げる要因として注視されており、今後の経済・物価情勢次第では、より機動的な政策調整が視野に入ると見られています。
-  中文：总结：日本央行上周维持政策利率在1.0%不变，但行长植田在记者会上表示，将进一步加强对物价上涨风险的警惕。他指出，若判断金融环境过于宽松，则有可能加快加息步伐，市场对9月后再次加息的预期升温。
-  📰 [日本銀行](https://www.boj.or.jp/announcements/press/kaiken/index.htm)
+- **[2026.08.05] トヨタ自動車 — 通期純利益予想を上方修正、1兆円の自社株買い発表**
+  日本語：トヨタ自動車は、2027年3月期の連結最終利益予想を従来の2兆8000億円から3兆2500億円に上方修正した。堅調なハイブリッド車（HV）需要と円安が業績を押し上げると見込んでいる。同時に、発行済み株式総数の4.22%にあたる5億株、上限1兆円の自社株買いを発表し、取得した2億株を消却する計画。ただし、電気自動車（EV）の販売目標は世界的なEV需要の再評価により、1割超下方修正された。
+  中文：总结：丰田汽车上调2027年3月期合并净利润预期至3.25万亿日元，高于此前的2.8万亿日元，主要得益于强劲的混合动力车需求和日元贬值。同时，公司宣布将以最高1万亿日元回购5亿股股票（占已发行股份的4.22%），并计划注销其中2亿股。然而，受全球电动汽车需求重新评估影响，电动汽车销售目标被下调超过10%。
+  📰 [読売新聞](https://www.yomiuri.co.jp/)
 
-- **[2026.08.05] 為替市場 — 日米協調介入で円高に振れるも、円安圧力は根強く残る**
-  日本語：外国為替市場では、先週の日米協調為替介入により円が対ドルで一時的に円高方向に振れ、155円台まで調整する場面が見られました。日米当局が追加介入の可能性を示唆したことで、円安期待是正への強い意思が示されています。しかし、日米間の金利差拡大が依然として円安の主要因であり、介入一巡後は再び円売り・ドル買いが優勢となる展開も見られます。円安が輸出企業の業績を押し上げる一方で、輸入物価上昇による家計や企業の負担増も懸念されており、為替動向は引き続き市場の注目を集めています。
-  中文：总结：外汇市场受上周日美协调干预影响，日元兑美元一度走强至155日元区间。尽管日美当局暗示可能进一步干预，但日美利差扩大仍是日元贬值的主要原因，干预结束后日元卖盘和美元买盘再次占据主导。
-  📰 [外為どっとコム](https://www.gaitame.com/markets/report/today/)
+- **[2026.08.05] 日本銀行 — 10月利上げ前倒しの可能性、物価上振れリスクを警戒**
+  日本語：日本銀行の次回の利上げが10月に前倒しされる可能性が高まっている。7月の金融政策決定会合の議事要旨や展望レポートでは、物価上振れリスクへの警戒が鮮明に示された。特に、世界的なAI需要の増加や円安が物価を押し上げる要因として指摘されており、2027年7月までに政策金利が1.75%に達するとの見方も出ている。日米協調介入後の円安是正への期待も、日銀のタカ派化観測を強めている。
+  中文：总结：日本央行下次加息可能提前至10月，因其7月货币政策会议纪要及展望报告明确强调了物价上涨风险。全球AI需求增长和日元贬值被视为推高物价的关键因素，市场预计到2027年7月政策利率可能升至1.75%。日美协调干预后日元贬值修正的预期也强化了日本央行鹰派立场。
+  📰 [ダイヤモンド・オンライン](https://diamond.jp/)
 
-- **[2026.08.05] トヨタ自動車 — 円安とハイブリッド車販売好調で業績予想を上方修正**
-  日本語：トヨタ自動車は本日、今年度の業績予想を上方修正しました。中東情勢の影響が重しとなる一方で、円安の進行とハイブリッド車の販売好調が利益を大きく押し上げる見込みです。特に、4月から6月期の決算では、営業利益が前年同期比で減少したものの、純利益は75.6%増と大幅な増益を達成しました。同社は通期の想定為替レートを1ドル160円としており、現在の円安水準が収益に引き続き貢献すると見ています。物流の代替ルート構築も進んでおり、地政学リスクへの対応も進んでいます。
-  中文：总结：丰田汽车今日上调了本财年业绩预期。尽管中东局势带来压力，但日元贬值和混合动力汽车销售强劲预计将大幅提振利润。尤其在4-6月财季，营业利润同比下降，但净利润大幅增长75.6%。
-  📰 [KSB瀬戸内海放送](https://www.ksb.co.jp/newsweb/index)
+- **[2026.08.05] 為替市場 — ベッセント米財務長官、円の安定と広範な政策対応の必要性を強調**
+  日本語：アメリカのベッセント財務長官は、円の安定がアメリカだけでなく地域全体にとって非常に重要であると述べた。最近の日米協調介入に続き、円安の長期化が世界の金融市場を不安定化させる恐れがあるとの認識を示し、日本政府が介入だけでなく、より広範な政策対応を行う必要があるとの考えを強調した。米国は日本の政策実施を支援し、地域の安定化に協力する姿勢を示している。
+  中文：总结：美国财政部长贝森特强调，日元稳定对美国乃至整个地区都至关重要。继近期日美协调干预后，她指出日元长期贬值可能导致全球金融市场不稳定，并强调日本政府除了干预外，还需要采取更广泛的政策措施。美国表示将支持日本的政策实施，并协助地区稳定。
+  📰 [フジテレビ](https://www.fnn.jp/)
 
-- **[2026.08.05] 半導体関連株 — AI需要を背景にリバウンドの動き、個別銘柄に買い集中**
-  日本語：日本株式市場では、AI（人工知能）関連需要の拡大を背景に半導体関連株にリバウンドの動きが見られました。特に、キオクシアホールディングスや東京エレクトロン、レーザーテックといった主要銘柄が上昇し、指数を支える形となりました。先週までの世界的な半導体株の調整が一巡したとの見方も出ており、AIデータセンター向け需要の堅調さが引き続き追い風となっています。ただし、市場全体としては値下がり銘柄が多く、半導体関連株への資金集中が目立つ一日となりました。
-  中文：总结：日本股市半导体相关股票在人工智能（AI）需求扩张的背景下出现反弹。特别是铠侠控股、东京电子、Lasertec等主要股票上涨，支撑了指数。市场认为全球半导体股票的调整已告一段落，AI数据中心需求持续强劲。
-  📰 [株探](https://kabutan.jp/news/market/20260804_05)
+- **[2026.08.05] イビデン — AI需要拡大で通期経常利益を大幅上方修正**
+  日本語：AIブームを背景とした半導体需要の拡大が続き、半導体製造装置の納期が1年以上と長期化している。このような状況下、半導体パッケージ基板大手のイビデンは、2027年3月期の連結経常利益予想を従来の900億円から1270億円へ41.1%も上方修正し、過去最高益予想をさらに上乗せした。生成AI用サーバー向け高機能ICパッケージ基板の受注が想定を上回り、高付加価値製品の販売好調や円安効果も寄与した。
+  中文：总结：受AI热潮推动，半导体需求持续扩大，半导体制造设备交货期已延长至一年以上。在此背景下，半导体封装基板巨头Ibiden将2027年3月期合并经常利润预期大幅上调41.1%，从900亿日元增至1270亿日元，进一步刷新历史最高利润预期。面向生成式AI服务器的高功能IC封装基板订单超预期，高附加值产品销售强劲及日元贬值效应均有所贡献。
+  📰 [株探](https://kabutan.jp/)
 
-- **[2026.08.05] 決算発表 — 好決算でも売られる銘柄と、円安恩恵銘柄の二極化進む**
-  日本語：決算発表が本格化する中、日本市場では「材料出尽くし」感から好決算を発表したにもかかわらず売られる銘柄が散見されました。特にファナックやソニーグループなど、事前の期待が高かった銘柄では利益確定売りが優勢となりました。一方で、円安の恩恵を受けやすい輸出関連や機械株、特に三菱重工業やフジクラなどは大きく反発しました。銀行、保険、商社などのバリュー株は軟調な展開が続き、市場の物色傾向が二極化していることが鮮明になりました。
-  中文：总结：随着财报季深入，日本市场出现“利好出尽”现象，部分公司即使发布良好财报也遭遇抛售，如发那科和索尼集团。与此同时，受益于日元贬值的出口相关和机械股，如三菱重工和藤仓，则大幅反弹。银行、保险、商社等价值股表现疲软，市场两极分化明显。
-  📰 [LIMO](https://limo.media/articles/-/51579)
+- **[2026.08.05] 決算発表 — 本日178社が決算発表、ホンダ、IHI、アステラス製薬などに注目**
+  日本語：本日8月5日には、東京証券取引所で178社が四半期決算や通期決算を発表する予定。主要企業では、ホンダ、IHI、アステラス製薬、花王、メルカリ、ローム、太陽誘電などが含まれる。これらの企業の業績発表は、市場全体の動向や個別銘柄の株価に大きな影響を与える可能性があり、投資家の注目が集まっている。
+  中文：总结：8月5日，东京证券交易所预计将有178家公司发布季度或年度财报。主要企业包括本田、IHI、安斯泰来制药、花王、Mercari、罗姆、太阳诱电等。这些公司的业绩发布可能对整体市场走势和个股股价产生重大影响，备受投资者关注。
+  📰 [株探](https://kabutan.jp/)
 
 ## 🌍 宏观经济与投资 / Macro & Investment
 
-- **[2026.08.05] S&P 500 — Ferguson Enterprises纳入标普500指数**
-  English: Ferguson Enterprises (FERG) is set to join the S&P 500 index before the market opens today, replacing Electronic Arts (EA) which is being acquired by an investor consortium. This inclusion highlights Ferguson's growing market capitalization and significance in the industrial sector, particularly in water and air solutions. The move is expected to generate increased investor interest and potentially boost trading volumes for FERG shares. Analysts will be watching for any immediate impact on the broader index, though such changes are typically priced in ahead of time.
-  中文：总结：弗格森企业 (FERG) 今日开盘前将正式纳入标普500指数，取代即将被收购的艺电 (EA)。此举彰显了弗格森在工业领域，特别是水和空气解决方案市场的日益增长的市值和重要性。预计此举将吸引更多投资者关注，并可能提振FERG股票的交易量。
-  📰 [S&P Dow Jones Indices](https://www.spglobal.com/spdji/en/documents/index-notices/main/sp-500-ferguson-enterprises-inc-to-replace-electronic-arts-inc.pdf)
+- **[2026.08.05] US GDP — 美国第二季度GDP增长放缓**
+  English: The U.S. Bureau of Economic Analysis reported today that real Gross Domestic Product (GDP) increased at an annualized rate of 1.5% in the second quarter of 2026, a deceleration from the 2.1% growth seen in Q1. While consumer spending remained the primary driver, and business investment contributed positively, increased imports and lower government spending offset some of these strengths. This moderation in growth, though still positive, suggests a more challenging economic landscape ahead, potentially influencing the Federal Reserve's future monetary policy decisions. Investors will be closely watching upcoming labor market data for further clues on economic health.
+  中文：总结：美国商务部经济分析局今日公布，2026年第二季度实际GDP按年率计算增长1.5%，较第一季度的2.1%有所放缓。尽管消费支出和商业投资仍是主要驱动力，但进口增加和政府支出减少抵消了部分增长。这一温和增长表明经济前景更具挑战性，可能影响美联储未来的货币政策。投资者将密切关注即将发布的劳动力市场数据。
+  📰 [U.S. Bureau of Economic Analysis](https://www.bea.gov/news/2026/gross-domestic-product-second-quarter-2026-advance-estimate)
 
-- **[2026.08.05] 印度储备银行 — 印度央行维持回购利率不变**
-  English: The Reserve Bank of India's (RBI) Monetary Policy Committee (MPC) announced today its decision to keep the benchmark repo rate unchanged at 5.25%. This move was widely anticipated by economists and market participants, as the central bank aims to balance resilient economic growth with persistent inflationary pressures. The RBI's commentary emphasized a data-dependent approach, closely monitoring crude oil prices, monsoon progress, and global financial market uncertainties. Investors will scrutinize the detailed policy statement for clues on future monetary policy direction amidst a shifting global interest rate environment.
-  中文：总结：印度储备银行货币政策委员会今日宣布维持基准回购利率5.25%不变，此举符合市场普遍预期。印度央行旨在平衡经济增长韧性与持续的通胀压力。政策声明强调数据依赖性，并将密切关注原油价格、季风进展和全球金融市场不确定性。投资者将仔细研究政策声明，以获取未来货币政策走向的线索。
-  📰 [Reserve Bank of India](https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=62000)
+- **[2026.08.05] Federal Reserve — 美联储官员对未来利率政策持开放态度**
+  English: Federal Reserve officials continue to maintain an "open mind" regarding the future path of monetary policy, even as inflation pressures remain elevated. Philadelphia Fed President Anna Paulson stated that while recent improvements in some inflation data are welcome, they are merely "one step" in the right direction. The persistence of inflation above the Fed's 2% target has led to expectations of two rate hikes this year, rather than the cuts anticipated earlier. This cautious stance, coupled with a divided FOMC at its last meeting, highlights ongoing uncertainty about how aggressively the Fed will act to curb inflation without stifling economic growth.
+  中文：总结：美联储官员对未来货币政策路径保持“开放态度”，尽管通胀压力依然高企。费城联储主席Anna Paulson表示，近期通胀数据改善只是“第一步”。通胀持续高于美联储2%的目标，导致市场预期今年将有两次加息而非降息。这种谨慎立场和上次FOMC会议的分歧，凸显了美联储在抑制通胀和维持经济增长之间的不确定性。
+  📰 [KELO-AM](https://www.keloland.com/news/business/fed-s-paulson-keeps-open-mind-on-rate-policy-outlook-amid-high-inflation/)
 
-- **[2026.08.05] 日経平均株価 — 日経平均は前日小幅下跌后市场关注出口数据**
-  日本語：東京株式市場では、前日の日経平均株価が0.4%下落したことを受け、本日は輸出関連企業の動向に注目が集まっています。昨日の下落は、一部大手商社（如三井物产）の決算発表が市場予想を上回ったにもかかわらず、整体としては軟調な地合いが続いたためです。投資家は、円安が輸出企業の収益を押し上げる効果が持続するかどうかを見極めようとしています。また、米国の金融政策の方向性も円相場に影響を与えるため、引き続き警戒が必要です。
-  中文：总结：继前一日日经平均指数小幅下跌0.4%后，今日市场焦点转向出口相关企业表现。尽管部分大型贸易公司（如三井物产）财报超预期，但整体市场情绪依然谨慎。投资者正评估日元疲软对出口企业盈利的持续提振作用。同时，美国货币政策走向对日元汇率的影响也需持续关注。
-  📰 [日本経済新聞](https://www.nikkei.com/markets/japan/stock/summary/)
+- **[2026.08.05] S&P 500 — Ferguson Enterprises加入标普500指数**
+  English: Ferguson Enterprises Inc. (NYSE: FERG), North America's largest value-added distributor of essential water and air solutions, is set to join the S&P 500 index today, August 5, 2026. The company will replace Electronic Arts Inc. (NASD: EA), which is being acquired by an investor consortium. This inclusion marks a significant milestone for Ferguson, completing its transition to a solely NYSE-listed, North American-headquartered company. The move is expected to increase Ferguson's visibility and liquidity among institutional investors, reflecting its strong market position and financial viability.
+  中文：总结：北美最大的水和空气解决方案分销商Ferguson Enterprises Inc. (NYSE: FERG) 将于今日（2026年8月5日）加入标普500指数，取代即将被收购的Electronic Arts Inc. (NASD: EA)。此次纳入是Ferguson的重要里程碑，标志着其完全转型为在纽约证券交易所上市的北美总部公司，预计将提升其在机构投资者中的知名度和流动性。
+  📰 [S&P Dow Jones Indices](https://www.spglobal.com/spdji/en/documents/indexnews/announcements/20260731-1033328/1033328_fergusonenterprisesetsetojoinsp500andadiglobaldistributiontojoinsp600.pdf)
 
-- **[2026.08.05] 比特币ETF — 比特币ETF资金流入恢复，市场情绪谨慎乐观**
-  English: Bitcoin spot ETFs saw renewed inflows yesterday, with a net positive of $10.2 million, signaling a cautious return of institutional interest after a period of outflows. This development comes as the broader cryptocurrency market attempts to stabilize. While the inflows are modest compared to earlier in the year, they suggest a potential shift in sentiment. Investors are closely monitoring these ETF flows as a key indicator of institutional adoption and market health, with future price action likely influenced by sustained demand and macroeconomic factors.
-  中文：总结：昨日比特币现货ETF录得1020万美元的净流入，标志着在经历一段资金流出后，机构兴趣正谨慎回归。尽管流入量相对温和，但表明市场情绪可能正在转变。投资者正密切关注ETF资金流向，将其视为机构采纳和市场健康的关键指标，未来价格走势可能受持续需求和宏观经济因素影响。
-  📰 [CoinDesk](https://www.coindesk.com/markets/2026/08/05/bitcoin-etf-flows-resume/)
+- **[2026.08.05] Nikkei 225 — 科技股有望提振日本股市**
+  日本語：本日、日本株式市場はテクノロジー株の動向に注目が集まっています。前日の取引では、日経平均株価が63,960ポイント付近で推移し、一部のテクノロジー関連銘柄の反発が市場を押し上げました。AI関連株の最近の売りが緩和の兆しを見せていることから、投資家は引き続きテクノロジーセクターのパフォーマンスを注視しています。特に、半導体関連やAIインフラ関連企業が市場の牽引役となる可能性があり、今後の企業決算やアナリストの見通しが市場センチメントを左右するでしょう。
+  中文：总结：今日日本股市焦点集中在科技股表现。昨日日经指数在63,960点附近波动，部分科技股反弹提振市场。随着AI相关股票抛售压力减缓，投资者持续关注科技板块表现。半导体和AI基础设施相关企业可能成为市场领头羊，未来企业财报和分析师预期将影响市场情绪。
+  📰 [finanzen.at](https://www.finanzen.at/nachrichten/aktien/tech-shares-may-fuel-japan-stock-market-05-08-26-10355153)
 
-- **[2026.08.05] StoneX Group Inc. — StoneX Group公布第三季度财报**
-  English: StoneX Group Inc. (NASDAQ: SNEX) is scheduled to release its fiscal third-quarter 2026 earnings after market close today. Investors will be keenly focused on the financial services firm's performance, particularly its revenue from various segments including commodities, foreign exchange, and equities. Analysts will be looking for insights into how global market volatility and interest rate environments have impacted its trading volumes and profitability. The accompanying conference call tomorrow will provide further details on the company's outlook and strategic initiatives for the remainder of the fiscal year.
-  中文：总结：StoneX Group Inc. (NASDAQ: SNEX) 定于今日收盘后公布2026财年第三季度财报。投资者将密切关注这家金融服务公司在商品、外汇和股票等业务板块的收入表现。分析师将寻求了解全球市场波动和利率环境对其交易量和盈利能力的影响。明日的财报电话会议将提供公司本财年剩余时间的展望和战略举措的更多细节。
-  📰 [GlobeNewswire](https://www.globenewswire.com/news-release/2026/08/05/StoneX-Group-Inc-to-Announce-2026-Fiscal-Third-Quarter-Earnings.html)
+- **[2026.08.05] USD/JPY — 美日联合干预后日元走强**
+  日本語：昨日、米国と日本が協調して為替市場に介入したことが確認され、本日アジア市場で米ドル/円は157.40付近まで下落し、円が対ドルで一段と強含んでいます。日本の財務省は、東京とワシントンが円買い介入を実施し、必要であればさらなる行動を躊躇しないと表明しました。この共同介入は、円安進行に対する強い警告と受け止められており、投機的な円売りポジションの解消を促す可能性があります。市場参加者は、今後の介入の兆候や、今週発表される米国の雇用統計に注目しています。
+  中文：总结：昨日美日确认联合干预汇市后，今日亚洲市场美元/日元跌至157.40附近，日元兑美元进一步走强。日本财务省表示，东京和华盛顿已实施买入日元干预，并会毫不犹豫地采取进一步行动。此次联合干预被视为对日元贬值的强烈警告，可能促使投机性日元空头平仓。市场参与者正关注未来干预迹象及本周美国就业报告。
+  📰 [FXStreet](https://www.fxstreet.com/news/japanese-yen-gathers-strength-as-us-japan-confirm-rare-joint-intervention-202608040700)
 
-- **[2026.08.05] 黄金与原油 — 中东局势缓和预期提振黄金，原油承压**
-  English: Gold prices are showing resilience today, supported by continued safe-haven demand and a slightly weaker U.S. dollar, following reports earlier in the week of potential diplomatic progress in the Middle East. This optimism has simultaneously put downward pressure on crude oil prices, with Brent crude futures trading lower as fears of supply disruptions ease. The inverse relationship observed between gold and oil reflects shifting investor sentiment regarding geopolitical risks and their impact on inflation expectations. Market participants remain vigilant for further developments in the region and their implications for global commodity markets.
-  中文：总结：受本周早些时候中东局势可能缓和的报道影响，避险需求持续以及美元小幅走弱支撑黄金价格今日表现坚挺。与此同时，原油价格承压，布伦特原油期货走低，因市场对供应中断的担忧有所缓解。黄金与原油之间的反向关系反映了投资者对地缘政治风险及其对通胀预期影响的看法转变。市场参与者正密切关注该地区的事态发展及其对全球大宗商品市场的影响。
-  📰 [Reuters](https://www.reuters.com/markets/commodities/gold-oil-2026-08-05)
+- **[2026.08.05] RBI — 印度央行维持回购利率不变**
+  English: The Reserve Bank of India's (RBI) Monetary Policy Committee (MPC) announced its decision today, August 5, 2026, to keep the benchmark repo rate unchanged at 5.25%. This decision was widely anticipated by economists and market participants, who expected the central bank to maintain its neutral policy stance amidst resilient economic growth but persistent inflation concerns. While retail inflation accelerated to 4.38% in June, exceeding the RBI's medium-term target, policymakers believe it's largely driven by supply-side factors. The RBI will continue to monitor crude oil prices, monsoon progress, and global developments.
+  中文：总结：印度储备银行（RBI）货币政策委员会（MPC）于今日（2026年8月5日）宣布，维持基准回购利率在5.25%不变。此决定符合市场普遍预期，央行在全球经济增长韧性但通胀持续的背景下，保持中性政策立场。尽管6月零售通胀加速至4.38%，超出目标，但政策制定者认为主要受供应侧因素驱动。印度央行将继续关注原油价格、季风进展和全球动态。
+  📰 [NDTV Profit](https://www.ndtvprofit.com/markets/rbi-mpc-meeting-august-2026-date-time-expectations-where-to-watch-governor-sanjay-malhotras-speech-live)
+
+- **[2026.08.05] Gold — 油价下跌和美国就业数据疲软提振金价**
+  English: Gold prices are seeing gains today, extending a rebound driven by a significant drop in crude oil prices and weaker-than-expected U.S. labor market data. Yesterday, crude oil plunged over 5% on hopes for a diplomatic resolution to the Iran conflict, which could improve oil flows through the Strait of Hormuz. This easing of oil prices, coupled with a softer June JOLTS report showing fewer job openings, has tempered inflation worries and reduced the likelihood of an immediate Federal Reserve interest rate hike. Lower short-term rates and a less hawkish Fed outlook typically provide support for non-yielding assets like gold.
+  中文：总结：受原油价格大幅下跌和美国劳动力市场数据不及预期影响，今日金价持续上涨。昨日原油价格因伊朗冲突外交解决希望而下跌超过5%，缓解了通胀担忧，并降低了美联储立即加息的可能性。较低的短期利率和不那么鹰派的美联储前景，通常会支撑黄金等非收益资产。
+  📰 [Seeking Alpha](https://seekingalpha.com/news/4998701-gold-gains-as-lower-oil-prices-lackluster-us-jobs-data-ease-inflation-fears)
+
+- **[2026.08.05] Bitcoin ETF — 首个现货比特币ETF即将清算**
+  English: The Hashdex Bitcoin ETF is reportedly undergoing liquidation today, making it potentially the first U.S. spot Bitcoin offering to shut down. With only $14.7 million in assets under management, the fund's closure highlights the challenges smaller ETFs face in maintaining long-term viability in a competitive market. While this event underscores the volatile and immature nature of the cryptocurrency asset class, analysts suggest the long-term bull case for Bitcoin remains intact, particularly its potential to compete with gold as a store of value. Institutional adoption and stabilizing ETF flows are still seen as positive catalysts for the broader crypto market.
+  中文：总结：Hashdex比特币ETF据报今日正在清算，可能成为美国首个关闭的现货比特币产品。该基金管理资产仅1470万美元，其关闭凸显了小型ETF在竞争市场中维持长期生存的挑战。尽管此事件突显了加密货币资产的波动性和不成熟性，但分析师认为比特币的长期牛市前景依然存在，尤其是在作为价值储存手段方面与黄金竞争的潜力。机构采用和稳定的ETF资金流仍被视为更广泛加密市场的积极催化剂。
+  📰 [The Motley Fool](https://www.fool.com/investing/2026/08/04/the-first-spot-bitcoin-etf-is-about-to-shut-down-h/)
 
 ---
 ※Stock Market Daily Digest | 2026.08.05
