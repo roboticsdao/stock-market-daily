@@ -1,0 +1,112 @@
+# 📈 Stock Market Daily | 2026.08.08（土曜日 / Saturday）
+
+> ⚠ 本日报优先收录最近24小时的市场新闻、个股异动与当时市场快照；数据仅供参考，不构成投资建议。
+
+---
+
+
+## 🇺🇸 美国股市 / US Market
+
+Here are recent news updates concerning the US market:
+
+- **[2026.08.08] US Stock Market — 弱于预期的就业报告提振美股，主要股指集体上涨**
+  English: US stocks rallied across the board on Friday, August 7, following a surprisingly weak July jobs report that showed employers cut 23,000 jobs. This unexpected data fueled investor optimism that the Federal Reserve might delay further interest rate hikes or even consider cuts, leading to a broad market surge. The S&P 500, Nasdaq Composite, and Dow Jones Industrial Average all closed higher, with technology stocks playing a significant role in the gains. The market's reaction suggests a shift in focus towards potential dovish monetary policy amidst signs of a cooling labor market.
+  中文：总结：美国股市周五全面上涨，此前公布的7月份就业报告意外疲软，显示就业岗位减少2.3万个。这一数据提振了投资者对美联储可能暂停加息甚至考虑降息的乐观情绪，推动市场普涨。标普500指数、纳斯达克综合指数和道琼斯工业平均指数均收高，科技股贡献显著。
+  📰 [Pittsburgh Post-Gazette](https://www.post-gazette.com/business/money/2026/08/07/us-stocks-jump-employers-unexpectedly-cut-23000-jobs-raising-hopes-that-rate-hikes-can-wait/stories/202608070077)
+
+- **[2026.08.08] S&P 500 & NASDAQ — 标普500和纳斯达克指数创历史新高**
+  English: The S&P 500 and Nasdaq Composite both achieved fresh record closing highs on Friday, August 7, extending a strong performance into August. The S&P 500 rose 0.6% to 7,757.64, surpassing its previous all-time high set earlier in the week, while the Nasdaq composite climbed 1.3% to 26,690.62. This marks a continuation of the S&P 500's record run throughout the year, supported by robust corporate earnings and shifting expectations for Federal Reserve policy.
+  中文：总结：标普500指数和纳斯达克综合指数在8月7日周五均创下历史新高，延续了8月份的强劲表现。标普500指数上涨0.6%至7,757.64点，纳斯达克综合指数上涨1.3%至26,690.62点。这得益于强劲的企业财报和对美联储政策预期的转变。
+  📰 [STL.News](https://www.stl.news/us-stock-market-today-friday-august-7-2026/)
+
+- **[2026.08.08] Federal Reserve — 疲软就业数据影响美联储加息预期**
+  English: The unexpected decline of 23,000 nonfarm jobs in July significantly altered market expectations regarding the Federal Reserve's monetary policy. While some Fed officials still maintain a hawkish stance, the weaker labor market data has increased hopes that the central bank might keep interest rates unchanged at its September meeting or even consider a rate cut. The yield on the 10-year Treasury fell to 4.64%, reflecting this dovish shift in investor sentiment, although the path for future Fed action remains a subject of debate.
+  中文：总结：7月份非农就业岗位意外减少2.3万个，显著改变了市场对美联储货币政策的预期。尽管部分美联储官员仍持鹰派立场，但疲软的劳动力市场数据增加了央行在9月会议上维持利率不变甚至降息的可能性。10年期国债收益率下跌，反映了市场情绪的鸽派转变。
+  📰 [The Business Journal](https://www.bizjournals.com/pittsburgh/news/2026/08/07/us-stocks-jump-as-employers-unexpectedly-cut-23000-jobs-raising-hopes-that-rate-hikes-can-wait.html)
+
+- **[2026.08.08] Tech Stocks / NVIDIA — 科技股领涨，英伟达表现强劲**
+  English: Technology stocks were a primary driver of Friday's market rally, with the Nasdaq Composite seeing substantial gains. Nvidia jumped 2.3%, contributing significantly to the broader market's upward movement. While the "Magnificent Seven" tech giants (Nvidia, Apple, Microsoft, Amazon, Tesla, Alphabet, Meta) have dominated, newer AI hardware plays like SanDisk and Dell are also showing impressive growth, challenging the traditional leadership. Investors are closely watching the evolving dynamics within the tech sector as AI continues to drive innovation and investment.
+  中文：总结：科技股是周五市场上涨的主要推动力，纳斯达克综合指数大幅上涨。英伟达股价跳涨2.3%。尽管“七巨头”科技公司仍具主导地位，但SanDisk和戴尔等新兴AI硬件公司也显示出强劲增长，挑战着传统领导地位。
+  📰 [MarketBeat](https://www.marketbeat.com/stocks/technology/)
+
+- **[2026.08.08] Corporate Earnings — 第二季度财报季表现强劲，提振市场信心**
+  English: The second-quarter 2026 earnings season is proving robust, with nearly 90% of S&P 500 companies having reported results. Analysts anticipate an impressive 50% overall profit growth, marking the strongest growth since Q2 2021. This strong earnings performance is helping to justify the significant stock market gains observed throughout 2026. Notable individual company performances include Airbnb surging 17.4% and Atlassian soaring 35% after reporting stronger-than-expected profits and revenues, while some companies like Honeywell Aerospace and Axon missed estimates.
+  中文：总结：2026年第二季度财报季表现强劲，标普500指数近90%的公司已公布业绩，分析师预计整体利润增长将达到50%。强劲的盈利表现支撑了2026年股市的显著上涨。Airbnb和Atlassian等公司业绩超预期，股价大涨。
+  📰 [FactSet Insight](https://insight.factset.com/sp-500-earnings-season-update-august-7-2026)
+
+## 🇯🇵 日本株式市場 / Japan Market
+
+- **[2026.08.08] 日本株式市場 — 日経平均小幅続落、TOPIXは上昇**
+  日本語：8月7日の東京株式市場では、日経平均株価が半導体関連株の売りに押され小幅続落した一方、TOPIXは幅広い銘柄への買いが入り上昇し、市場の二極化が鮮明となった。特にAI・半導体関連の主力銘柄が指数を押し下げたが、好決算を発表した銘柄には買いが集まり、市場全体の底堅さを示した。米雇用統計発表を控え、様子見姿勢も強かった。
+  中文：总结：8月7日东京股市日经平均指数因半导体相关股票抛售而小幅下跌，而东证指数（TOPIX）则因广泛买盘而上涨，市场分化明显。AI和半导体巨头拖累了日经指数，但业绩良好的公司受到追捧，显示市场整体韧性。
+  📰 [News On Japan](https://newsonjapan.com/article/20260807/Nikkei-Slips-as-Chip-Selling-Offsets-Broader-Market-Strength.html)
+
+- **[2026.08.08] トヨタ自動車 (7203) — 第1四半期決算が市場予想を上回り、自社株買いを発表**
+  日本語：トヨタ自動車は2027年3月期第1四半期決算を発表し、売上高と利益が市場予想を上回った。特に、為替効果や原価改善、ハイブリッド車販売増が寄与し、営業利益は前年並みを維持。同時に、1兆円を上限とする自己株式取得と2億株の自己株式消却を発表し、株主還元と持続的成長への意欲を示した。
+  中文：总结：丰田汽车公布2027财年第一季度业绩，营收和利润均超市场预期。汇率效应、成本改善和混合动力汽车销量增长是主要驱动力。公司同时宣布最高1万亿日元的股票回购计划和2亿股的库存股注销，以回馈股东并促进持续增长。
+  📰 [Simply Wall St](https://simplywall.st/stocks/jp/automobiles/tse-7203/toyota-motor-corporation/news/toyota-motor-corporation-just-beat-analyst-forecasts-and-an)
+
+- **[2026.08.08] 東証TOPIX — 600社超が指数から除外される見込み**
+  日本語：東京証券取引所のTOPIX指数は、新たな銘柄選定基準に基づき、600社以上の企業が段階的に除外される見込み。これはTOPIXの構成銘柄の3分の1以上に相当し、10月から2年間かけて実施される。浮動株時価総額が下位3%の企業が対象となり、指数からの除外はパッシブファンドからの資金流出を招く可能性があるため、対象企業は対策を迫られている。
+  中文：总结：东京证券交易所（TSE）的东证指数（TOPIX）预计将进行大规模改革，超过600家公司（占总数的逾三分之一）将根据新的资格标准被逐步剔除。此举将于10月开始，分两年进行，旨在解决指数中小型和流动性差股票过多的问题，可能导致被剔除公司面临被动基金的资金流出压力。
+  📰 [The Japan Times](https://www.japantimes.co.jp/news/2026/08/07/business/topix-overhaul-companies-culled/)
+
+- **[2026.08.08] 円相場 — 日米協調介入後も円安圧力継続**
+  日本語：最近の日米協調介入にもかかわらず、円は対ドルで158円台半ばまで再び軟化し、介入効果が薄れていることが示された。日米間の金利差が依然として大きく、これが円安の主要な要因となっている。市場では、当局がさらなる介入に踏み切る可能性が引き続き意識されている。
+  中文：总结：尽管近期美日进行了联合干预，日元兑美元汇率再次走弱至158日元区间，表明干预效果正在减弱。美日之间巨大的利差仍然是日元贬值的主要驱动因素。市场持续关注当局是否会采取进一步干预措施。
+  📰 [The Business Times](https://www.businesstimes.com.sg/markets/yen-surrenders-nearly-half-its-gains-us-japan-intervention-traders-speculate-fresh-action)
+
+- **[2026.08.08] ソフトバンクグループ (9984) — 第1四半期純利益が前年比17.7%減**
+  日本語：ソフトバンクグループが発表した4-6月期（第1四半期）決算では、純利益が前年同期比で17.7%減少した。これは主にビジョン・ファンド事業の投資利益が大幅に減少したことが影響しており、日経平均株価の重しとなった。AI関連株への期待は高いものの、投資事業の不透明感が株価に影響を与えている。
+  中文：总结：软银集团公布的4-6月（第一季度）财报显示，其净利润同比下降17.7%。这主要受到愿景基金投资收益大幅减少的影响，对日经平均指数构成压力。尽管市场对AI相关股票的期望很高，但投资业务的不确定性仍在影响公司股价。
+  📰 [Investing.com](https://www.investing.com/news/stock-market-news/japan-stocks-lower-at-close-of-trade-nikkei-225-down-007-3999999)
+
+- **[2026.08.08] フジクラ (5803) — 今期業績予想を上方修正、株価急騰**
+  日本語：フジクラは今期の業績予想を2度目の上方修正を発表し、AIデータセンター向けケーブルの需要増加が寄与した。この好材料を受けて株価は後場に急騰し、日経平均が軟調な中で市場の注目を集めた。同社の業績改善は、データセンターインフラ関連株への広範な関心を裏付けるものとなった。
+  中文：总结：藤仓公司第二次上调本财年业绩预期，主要得益于AI数据中心电缆需求的增长。受此利好消息推动，公司股价在午后交易中飙升，在日经指数疲软之际吸引了市场关注。藤仓的业绩改善也印证了市场对数据中心基础设施相关股票的广泛兴趣。
+  📰 [OANDA FX/CFD Lab-education](https://www.oanda.com/jp-ja/lab-education/market-summary/nikkei-summary-20260807/)
+
+## 🌍 宏观经济与投资 / Macro & Investment
+
+- **[2026.08.08] US Stock Market — 美国股市上涨，因就业数据意外疲软提振降息预期**
+  English: US stock markets saw a rally on Friday, August 7th, with the S&P 500 rising 0.6% to an all-time high, the Dow Jones Industrial Average up 0.3%, and the Nasdaq composite gaining 1.3%. This surge was primarily driven by a government report indicating an unexpected cut of 23,000 jobs last month, which fueled hopes that the Federal Reserve might delay interest rate hikes to combat inflation. Treasury yields fell in response, further bolstering market sentiment. Technology stocks, particularly Nvidia and Broadcom, were notable movers, contributing significantly to the broader market's gains.
+  中文：总结：美国股市周五上涨，标普500指数创历史新高，道指和纳斯达克指数也录得涨幅。此次上涨主要受政府报告显示上月就业岗位意外减少2.3万个的推动，这增强了市场对美联储可能推迟加息以对抗通胀的预期。国债收益率随之下降，进一步提振了市场情绪。科技股表现突出，对大盘贡献显著。
+  📰 [The Washington Post](https://www.washingtonpost.com/business/2026/08/07/how-major-us-stock-indexes-fared-thursday-862026/)
+
+- **[2026.08.08] Federal Reserve — 美联储八月通胀预测显示核心通胀顽固**
+  English: The Federal Reserve's initial August inflation forecast, while projecting a modest tapering in headline inflation, reveals a concerning persistence in core inflation. Headline CPI is expected to decline further to 3.22% in August, following a dip to 3.5% in June. However, Core Personal Consumption Expenditures (PCE), which excludes volatile food and energy costs, is forecast to remain sticky, potentially reaccelerating to 3.36% in August after holding steady at 3.31% in July. This suggests that underlying price pressures, partly influenced by tariffs and the Iran conflict, remain a significant challenge for policymakers despite some easing in energy prices.
+  中文：总结：美联储八月份的初步通胀预测显示，尽管总体通胀预计将温和回落，但核心通胀的顽固性令人担忧。预计八月核心PCE将回升至3.36%，表明在能源价格有所缓解的情况下，由关税和中东冲突等因素引发的潜在价格压力依然存在，对政策制定者构成挑战。
+  📰 [The Motley Fool](https://www.fool.com/investing/2026/08/06/the-federal-reserves-initial-august-inflation-for/)
+
+- **[2026.08.08] Nikkei 225 — 日经指数因芯片股抛售而下跌，日元走弱**
+  日本語：8月7日の東京株式市場では、日経平均株価が小幅に下落し、終値は65,606.71円となりました。これは主に、米国テクノロジー株の軟化と中東情勢による原油価格上昇を受け、半導体関連株やAI関連株が売られたためです。しかし、市場全体としては、内需関連株や金融株、一部の産業株が堅調に推移し、日経平均の下げ幅は限定的でした。また、日中には円が対ドルで158.38円付近まで軟化し、日米間の金利差が依然として円安圧力となっていることが示唆されました。
+  中文：总结：8月7日东京股市日经225指数小幅收跌0.12%，主要受美国科技股走软和中东局势推高油价影响，芯片及AI相关股票遭到抛售。然而，内需、金融及部分工业股表现坚挺，支撑了市场。日元兑美元走弱至158.38附近，显示日美利差仍是日元贬值的主要压力。
+  📰 [News On Japan](https://newsonjapan.com/article/20260807/Nikkei-Slips-as-Chip-Selling-Offsets-Broader-Market-Strength.php)
+
+- **[2026.08.08] USD/JPY — 美元兑日元汇率预测及关键干预水平**
+  English: The USD/JPY exchange rate is forecasted to trade around ¥157.43 on August 8, 2026, representing a slight decrease of 0.06% from current rates. Despite recent intervention-led reversals from July's highs, the underlying bullish case for a higher exchange rate has not disappeared, with Crédit Agricole projecting an average of ¥162 in Q3 and ¥163 in Q4. Analysts suggest that the ¥164 level remains a critical "line in the sand" for authorities, with both Japan and the US having resources to defend it, particularly if Tokyo utilizes the Fed's FIMA facility.
+  中文：总结：2026年8月8日，美元兑日元汇率预计在157.43日元附近波动，较当前水平略有下降。尽管7月高点后出现干预引发的回调，但分析师认为美元兑日元走强的基本面并未改变，预计第三季度平均为162日元，第四季度为163日元。164日元被视为当局的关键防线。
+  📰 [CoinCodex](https://coincodex.com/forex/usd-jpy/forecast/)
+
+- **[2026.08.08] Gold & Bitcoin — 黄金飙升而比特币停滞，受地缘政治和美联储展望影响**
+  English: Gold prices surged significantly on Friday, August 7th, with futures climbing above $4,300, driven by fresh Middle East tensions and expectations of the Federal Reserve maintaining higher interest rates for longer. This strong performance saw gold gain nearly 25% over the past 12 months with less volatility. In contrast, Bitcoin struggled to break above the $65,000 mark, having fallen over 40% in the same period. Investors are closely watching geopolitical developments and upcoming U.S. economic data, as continued tensions and rising oil prices could further favor gold, while weaker U.S. data or increased Bitcoin ETF inflows might boost the cryptocurrency.
+  中文：总结：受中东地缘政治紧张局势和美联储维持高利率预期的影响，黄金价格在8月7日大幅上涨，期货突破4300美元，过去12个月涨幅近25%。相比之下，比特币在6.5万美元关口附近停滞不前，同期下跌超过40%。投资者正密切关注地缘政治和美国经济数据，这些因素将决定黄金和比特币在八月的表现。
+  📰 [CoinGape](https://coingape.com/gold-vs-bitcoin-which-could-outperform-in-august-2026/)
+
+- **[2026.08.08] US-China Tech — 美中科技打压恐危及全球创新与经济增长**
+  English: The United States is intensifying its efforts to reshape strategic technology supply chains by reducing dependence on Chinese manufacturing, introducing measures like proposed tariffs on solar materials and restrictions on Chinese-made optical transceivers and advanced robotics. While proponents argue these steps safeguard national security and rebuild American manufacturing, critics contend that such protectionism risks raising costs, slowing technological progress, and deepening global economic fragmentation. This ongoing competition in critical industries like AI, semiconductors, and renewable energy, coupled with slower economic growth in both nations, poses significant challenges for balancing national security with economic efficiency and innovation.
+  中文：总结：美国正通过对中国制造的太阳能材料、光收发器和先进机器人等产品征收关税和实施限制，加剧重塑科技供应链的努力。尽管支持者认为此举旨在保障国家安全和重建美国制造业，但批评者警告，这种保护主义可能导致成本上升、技术进步放缓并加剧全球经济碎片化，对全球创新和增长构成风险。
+  📰 [Weekly Blitz](https://weeklyblitz.net/news/2026/08/07/americas-china-tech-crackdown-risks-innovation-energy-and-ai-growth/)
+
+- **[2026.08.08] Global Macro Outlook — 交易经济学：未来一周全球宏观经济展望**
+  English: Trading Economics' "Week Ahead" report for August 10th highlights key global economic indicators and central bank actions. In the US, July inflation data will be central, with CPI expected to rise 0.1% and core CPI 0.2%, suggesting receding price pressures from the Iran conflict. The FOMC and financial markets are split on the Fed's next rate decision. Europe will see Q2 GDP figures from the UK and Switzerland, and industrial production data from the Eurozone. In Asia, Chinese monetary aggregates and Taiwan's GDP (crucial for global chip production) will be in focus, alongside inflation rates from China and India. The Bank of Japan will also release its July Summary of Opinions.
+  中文：总结：交易经济学发布的“未来一周”报告指出，美国7月通胀数据将是焦点，预计CPI和核心CPI将温和上涨，表明伊朗冲突带来的价格压力正在减弱。美联储的下一步利率决定存在分歧。欧洲将公布二季度GDP和工业生产数据。亚洲方面，中国货币总量、台湾GDP以及中印通胀率将受关注，日本央行也将发布7月意见摘要。
+  📰 [Trading Economics](https://tradingeconomics.com/articles/2026-08-07/week-ahead-aug-10th)
+
+- **[2026.08.08] Brazil & India Central Banks — 巴西央行连续第四次降息，印度央行维持利率不变但关注通胀**
+  English: The Central Bank of Brazil (BCB) unanimously voted on August 5th to cut its benchmark Selic rate by a quarter point for the fourth consecutive meeting, signaling continued efforts to stimulate economic activity. Meanwhile, the Reserve Bank of India (RBI) is widely expected to keep its repo rate unchanged at 5.25% in its August policy meeting. While a pause is anticipated, the focus will be on Governor Sanjay Malhotra's assessment of inflation, which accelerated to 4.38% in June, moving above the RBI's 4% target for the first time in 17 months, and the conditions that could prompt future rate adjustments.
+  中文：总结：巴西央行于8月5日一致投票决定连续第四次降息25个基点，以刺激经济增长。与此同时，印度储备银行预计将在8月政策会议上维持回购利率在5.25%不变。尽管预计将暂停加息，但市场关注印度央行行长对6月通胀加速至4.38%的评估，以及未来可能调整利率的条件。
+  📰 [Central Banking](https://www.centralbanking.com/central-banks/monetary-policy/interest-rates/7961291/brazil-cuts-rates-for-a-fourth-time-in-a-row)
+
+---
+※Stock Market Daily Digest | 2026.08.08
