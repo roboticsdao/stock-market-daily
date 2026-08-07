@@ -7,109 +7,113 @@
 
 ## 🇺🇸 美国股市 / US Market
 
-Here are recent news updates concerning the US stock market:
+Here are 7 recent news items specifically about the US Market for August 7, 2026:
 
-- **[2026.08.07] US Stock Market — 华尔街股市周四收跌，投资者关注中东局势与就业报告**
-  English: US stock markets closed lower on Thursday, August 6, as investors paused after a strong start to the week, digesting corporate earnings and monitoring developments in US-Iran peace talks. The Dow Jones Industrial Average fell 0.85%, the S&P 500 eased 0.18%, and the Nasdaq Composite dipped 0.06%. The pullback was partly attributed to a rebound in oil prices, reigniting concerns about potential Federal Reserve interest rate hikes. Attention now shifts to Friday's nonfarm payrolls report for further clues on the Fed's monetary policy path.
-  中文：总结：美国股市在周四（8月6日）收盘走低，此前一周开局强劲。投资者正在消化最新的企业财报，并密切关注美国与伊朗和平谈判的进展。道琼斯指数下跌0.85%，标普500指数下跌0.18%，纳斯达克综合指数下跌0.06%。油价回升引发了对美联储可能加息的担忧，市场焦点转向周五的非农就业报告。
+- **[2026.08.07] US Stock Market — 华尔街股市周四收跌，周五期货表现不一**
+  English: Wall Street closed lower on Thursday, with the Dow Jones Industrial Average falling 0.9% and ending a five-day winning streak, while the S&P 500 and Nasdaq Composite also saw modest declines of 0.2% and 0.1% respectively. This pullback was influenced by mixed corporate earnings and ongoing geopolitical concerns in the Middle East. As of Friday morning, US stock futures were mixed, with Nasdaq futures showing a slight rise, as investors awaited the crucial July jobs report.
+  中文：总结：华尔街股市周四收盘走低，道琼斯工业平均指数下跌0.9%，结束了连续五天的上涨势头。标普500指数和纳斯达克综合指数也分别小幅下跌0.2%和0.1%。此次回调主要受企业财报好坏参半以及中东地缘政治紧张局势的影响。周五早盘，美国股指期货表现不一，纳斯达克期货小幅上涨，市场正等待关键的7月就业报告。
 
-- **[2026.08.07] Microsoft — 微软Azure云服务收入突破1000亿美元，股价受分析师看涨**
-  English: Microsoft's stock has been a focal point after reporting stronger-than-expected fiscal fourth-quarter 2026 results, with its Azure cloud platform surpassing $100 billion in annual revenue for the first time. Citi raised its price target for Microsoft to $600, reaffirming a bullish outlook, as Azure revenue grew 43% and is expected to accelerate further. Goldman Sachs also added Microsoft to its U.S. Conviction List, anticipating robust EPS growth. This performance underscores the company's success in monetizing AI and its strong competitive position.
-  中文：总结：微软公布了强劲的2026财年第四季度业绩，其Azure云服务年收入首次突破1000亿美元，超出华尔街预期。花旗银行将微软目标股价上调至600美元，高盛也将其列入“美国确信买入名单”，反映出市场对其AI驱动增长战略的信心以及云业务的持续强劲表现。
+- **[2026.08.07] US Macro — 市场高度关注7月就业报告，以研判美联储利率路径**
+  English: Investors are keenly awaiting the release of the July jobs report today, Friday, August 7, 2026, which is expected to significantly influence the Federal Reserve's future interest rate decisions. Economists surveyed by Bloomberg anticipate the U.S. economy added approximately 80,000 jobs in July, with the unemployment rate holding steady at 4.2%. This report is critical for gauging the labor market's health amidst elevated interest rates and AI-driven productivity gains.
+  中文：总结：市场正高度关注今日（2026年8月7日）发布的7月就业报告，该报告预计将对美联储未来的利率路径产生重要影响。经济学家普遍预计美国经济在7月份新增约8万个就业岗位，失业率维持在4.2%。这份报告对于在高利率和人工智能驱动的生产力提升背景下评估劳动力市场健康状况至关重要。
 
-- **[2026.08.07] NVIDIA — 英伟达AI芯片获SpaceX独家采用，市场对其前景乐观**
-  English: NVIDIA's stock continues to benefit from strong endorsements and its dominant position in AI chips. SpaceX CEO Elon Musk announced that his company will exclusively use NVIDIA's chips, including the upcoming Vera Rubin architecture, for its AI infrastructure. This high-profile commitment reinforces NVIDIA's growth trajectory amid market concerns about the durability of AI spending. Analysts anticipate significant revenue growth for NVIDIA's data center business, with some suggesting current consensus numbers are conservative.
-  中文：总结：英伟达的股价因其在AI芯片领域的领先地位和重要客户的认可而持续受到关注。SpaceX首席执行官埃隆·马斯克宣布，SpaceX将独家采用英伟达的AI芯片，包括即将推出的Vera Rubin架构。这一重磅消息进一步巩固了英伟达在AI市场的领导地位，并提振了投资者对其未来增长的信心。
+- **[2026.08.07] Microsoft (MSFT) — 微软财报超预期，Azure和AI业务强劲增长**
+  English: Microsoft reported strong fiscal 2026 fourth-quarter results, with revenue of $90.01 billion and EPS of $4.74, both exceeding analyst expectations. Azure cloud revenue notably increased by 43%, pushing full-year Azure sales past $100 billion for the first time, driven by robust AI demand. Despite these strong results, the company's significant capital expenditures for AI infrastructure, which hit $115.948 billion for the full year, and a class-action lawsuit regarding Copilot disclosures, remain points of investor discussion.
+  中文：总结：微软公布了强劲的2026财年第四季度业绩，营收达900.1亿美元，每股收益4.74美元，均超出分析师预期。Azure云服务营收增长43%，全年Azure销售额首次突破1000亿美元，主要得益于强劲的人工智能需求。尽管业绩表现出色，但公司在AI基础设施方面高达1159.48亿美元的资本支出，以及与Copilot披露相关的集体诉讼，仍是投资者关注的焦点。
 
-- **[2026.08.07] Apple — 苹果股价在强劲财报后下跌，受供应链限制影响**
-  English: Apple's stock experienced a notable decline despite reporting strong fiscal third-quarter 2026 results, including record iPhone demand and services revenue. The downturn was primarily driven by a disappointing forecast, as the company struggles with securing enough components amid global chip shortages and the AI-driven data center boom. Analysts have a divided reaction, with some lowering price targets due to concerns over production capacity, rising memory prices, and slower Services growth, despite the company's robust installed base and AI advancements like Siri AI.
-  中文：总结：尽管苹果公司公布了强劲的2026财年第三季度财报，iPhone需求和服务收入创下新高，但其股价仍出现下跌。主要原因是公司对未来业绩的展望不及预期，全球芯片短缺和AI数据中心热潮导致零部件供应受限，以及内存价格上涨对利润率构成压力。
+- **[2026.08.07] Amazon (AMZN) — 亚马逊AWS业务强劲增长，CEO预测其年收入将达万亿美元**
+  English: Amazon delivered strong second-quarter results, with revenue rising 19.6% year-over-year to $200.61 billion and earnings per share significantly beating consensus estimates. Amazon Web Services (AWS) recorded a 37% growth rate, its fastest in five years, fueled by surging demand for AI computing resources. CEO Andy Jassy projected that AWS could eventually become a $1 trillion annual revenue business. The company has also raised its 2026 capital expenditure outlook to over $220 billion to meet intense AI infrastructure demand.
+  中文：总结：亚马逊公布了强劲的第二季度业绩，营收同比增长19.6%至2006.1亿美元，每股收益远超预期。亚马逊网络服务（AWS）增长率达到37%，是五年来的最快增速，这得益于对AI计算资源的强劲需求。首席执行官安迪·贾西预测AWS最终可能成为一个年收入达万亿美元的业务。公司还将其2026年资本支出预期提高到2200多亿美元，以满足庞大的AI基础设施需求。
 
-- **[2026.08.07] Tesla — 特斯拉股价因二季度盈利不及预期而承压，AI投资巨大**
-  English: Tesla's stock price declined on August 6, closing at $321.55, reflecting market pressure following its Q2 2026 earnings report. Despite a 7% revenue beat, non-GAAP EPS missed consensus by 38%, and operating margin compressed significantly due to surging operating expenses driven by AI infrastructure spending and R&D. While the company shows accelerating top-line growth and significant progress in Optimus and Robotaxi, the substantial capital expenditure for AI capabilities and negative free cash flow in Q2 have raised profitability concerns among investors.
-  中文：总结：特斯拉股价在8月6日下跌，此前公布的2026年第二季度财报显示，尽管营收超出预期，但非GAAP每股收益远低于市场共识，且运营利润率因AI基础设施和研发投入激增而大幅收缩。尽管特斯拉在Optimus和Robotaxi项目上取得进展，但巨额的AI投资和负自由现金流引发了投资者对其近期盈利能力的担忧。
+- **[2026.08.07] Geopolitics / Oil Prices — 中东地缘政治紧张局势推高油价，影响市场情绪**
+  English: Geopolitical tensions in the Middle East, particularly concerning the Strait of Hormuz, continued to weigh on market sentiment and contributed to Wall Street's decline on Thursday. Brent crude prices surged nearly 4% on Thursday due to ongoing uncertainty surrounding the reopening of the vital shipping lane. While Iran has indicated progress towards a deal with Oman to reopen the strait, the protracted nature of the conflict has kept oil prices volatile and inflationary fears elevated.
+  中文：总结：中东地区的地缘政治紧张局势，特别是围绕霍尔木兹海峡的冲突，持续打压市场情绪，并导致华尔街股市周四下跌。由于关键航道重新开放的不确定性，布伦特原油价格周四飙升近4%。尽管伊朗表示与阿曼就海峡重新开放的协议取得进展，但冲突的长期性使得油价波动剧烈，通胀担忧加剧。
 
-- **[2026.08.07] Latigo Biotherapeutics — Latigo Biotherapeutics在纳斯达克全球精选市场上市**
-  English: Latigo Biotherapeutics, a clinical-stage biopharmaceutical company, announced the pricing of its upsized initial public offering (IPO) of 19,200,000 shares at $18.00 per share. The shares are expected to begin trading on The Nasdaq Global Select Market on August 7, 2026, under the ticker symbol "LTGO." The offering is anticipated to generate gross proceeds of $345.6 million, with the closing expected on August 10, 2026.
-  中文：总结：临床阶段生物制药公司Latigo Biotherapeutics宣布其首次公开募股（IPO）定价为每股18.00美元，发行19,200,000股。该公司股票预计于2026年8月7日在纳斯达克全球精选市场开始交易，股票代码为“LTGO”，预计此次IPO将筹集3.456亿美元的总收益。
+- **[2026.08.07] Tech Stocks / AI — 华尔街对大型科技公司AI支出的看法转为积极**
+  English: Wall Street's perception of Big Tech's massive capital expenditures for artificial intelligence has undergone a significant shift, now viewing them as a positive catalyst rather than a drag on stock prices. Recent blowout earnings reports from giants like Microsoft, Amazon, and Alphabet, despite their substantial AI investment plans, have driven this change. This indicates growing investor confidence that the demand for AI is real and that these investments are translating into strong revenue growth and profitability for hyperscalers and chipmakers.
+  中文：总结：华尔街对大型科技公司在人工智能领域巨额资本支出的看法已发生显著转变，现在将其视为积极的催化剂而非股价的拖累。微软、亚马逊和Alphabet等巨头近期公布的超预期财报，尽管伴随着庞大的AI投资计划，推动了这一转变。这表明投资者越来越相信AI需求真实存在，并且这些投资正在为超大规模云计算公司和芯片制造商带来强劲的营收增长和盈利能力。
 
-- **[2026.08.07] Braveheart Bio — Braveheart Bio在纳斯达克全球市场上市**
-  English: Braveheart Bio, Inc., a clinical-stage biopharmaceutical company, announced the pricing of its upsized initial public offering of 21,250,000 shares of common stock at $18.00 per share. The shares are expected to begin trading on the Nasdaq Global Market on August 6, 2026, under the ticker symbol "BRVE," with the offering expected to close on August 7, 2026. The gross proceeds from the IPO are anticipated to be $382.5 million.
-  中文：总结：临床阶段生物制药公司Braveheart Bio, Inc.宣布其首次公开募股（IPO）定价为每股18.00美元，发行21,250,000股普通股。该公司股票预计于2026年8月6日在纳斯达克全球市场开始交易，股票代码为“BRVE”，IPO预计于2026年8月7日完成，总收益预计为3.825亿美元。
+- **[2026.08.07] Apple (AAPL) — 苹果第三财季业绩稳健，AI战略受关注**
+  English: Apple reported solid third-quarter fiscal 2026 results, demonstrating broad demand across its iPhone and Mac product lines, while its Services segment benefited from a record installed base and increasing paid subscriptions. The company's ongoing development in AI, including Siri AI and deeper on-device intelligence, is seen as a key factor to strengthen its ecosystem engagement and support future hardware upgrades. While analyst sentiment remains generally positive, some concerns persist regarding Apple's premium valuation and rising memory costs.
+  中文：总结：苹果公布了2026财年第三季度稳健的业绩，iPhone和Mac产品线需求广泛，服务业务受益于创纪录的安装用户群和不断增长的付费订阅。公司在人工智能领域的持续发展，包括Siri AI和更深层次的设备端智能，被视为加强其生态系统参与度和支持未来硬件升级的关键因素。尽管分析师普遍持积极态度，但对苹果的高估值和不断上涨的内存成本仍存在一些担忧。
 
 ## 🇯🇵 日本株式市場 / Japan Market
 
-- **[2026.08.07] 東京株式市場 / SoftBank Group — 7日股市展望：个股主导，软银财报受关注**
-  日本語：7日の東京株式市場は、前日の米国株安やイラン情勢を受けた原油価格・米長期金利の上昇が重荷となり、日経平均株価は一進一退の展開が予想される。特に、取引終了後に発表されたソフトバンクグループの27年3月期第1四半期決算が純利益17.7%減と振るわず、同社株の動向が日経平均に与える影響に注目が集まる。また、レーザーテックの業績予想が市場の期待を下回った場合、半導体関連株全体への波及も懸念される。一方で、主要企業の決算発表が本格化する中、個別銘柄の物色は活発化する見通し。米雇用統計の発表を控え、先物主導の売りは限定的との見方も広がっている。
-  中文：预计今日东京股市将呈一进一退的态势，日经平均指数能否守住65000点备受关注。前夜美股下跌，但纳斯达克指数跌幅不大。伊朗局势导致油价和美长期利率上升构成压力。软银集团财报不佳，其股价走势及Lasertec财报对半导体股的影响将是焦点。
-  📰 [株探](https://kabutan.jp/news/market/202608070010)
+- **[2026.08.07] 日経平均・TOPIX — 日経平均は小幅続落、半導体株軟調もTOPIXは続伸**
+  日本語：7日の日本株式市場では、日経平均株価が前日比76円安の6万5606円と小幅に続落しました。前日の米国市場でのダウ平均反落や中東情勢の不透明感、原油高が重しとなり、特にAI・半導体関連株に売りが先行しました。ソフトバンクグループやレーザーテック、アドバンテストなどが下落を主導し、一時1000円を超える下げ幅となりました。しかし、後場には買い戻しが入り下げ渋る展開に。一方、TOPIXは4日続伸し、市場ではAI・半導体などのグロース株から出遅れていたバリュー株への資金シフトが継続している模様です。
+  中文：总结：8月7日日本股市，日经平均指数小幅下跌76日元至65606日元，主要受前夜美股下跌、中东局势不确定性及油价上涨影响，AI及半导体相关股票领跌。软银集团、Lasertec等股价显著下滑。然而，午后市场出现买盘，跌幅收窄。与此同时，TOPIX指数连续第四个交易日上涨，显示资金正从AI和半导体等成长股转向价值股。
+  📰 [Yahoo!ファイナンス](https://finance.yahoo.co.jp/news/detail/20260807-00000030-stkbn-market)
 
-- **[2026.08.07] ドル円相場 — 美元兑日元大幅走高，日元贬值**
-  日本語：7日午前の外国為替市場では、ドル円相場が前日午後5時時点に比べ56銭の大幅なドル高・円安となる1ドル＝158円42銭前後で推移している。ユーロ円も33銭のユーロ高・円安となる1ユーロ＝182円57銭前後で取引されており、全体的に円安基調が鮮明となっている。この円安の動きは、日本企業の輸出採算改善に寄与する可能性がある一方で、輸入物価の上昇を通じて国内経済に影響を与える可能性もあるため、今後の動向が注視される。中東情勢の緊迫化や米国の金融政策動向も為替市場に影響を与える要因として意識されている。
-  中文：7日早盘，外汇市场美元兑日元汇率大幅走高，报1美元兑158.42日元附近，较前一日下午5时上涨56钱，显示出显著的美元走强和日元贬值趋势。欧元兑日元也呈现欧元走强、日元贬值态势，报1欧元兑182.57日元附近，上涨33钱。
-  📰 [株探](https://kabutan.jp/news/market/202608070014)
+- **[2026.08.07] 企業決算 — フジクラ、リョーサン菱洋HDなどが好決算を発表**
+  日本語：8月7日の取引終了後、複数の企業が好決算を発表しました。特にフジクラは決算内容が市場に好感され、株価が急伸しました。その他、リョーサン菱洋ホールディングスは非開示だった今期経常利益が23％増で2期連続最高益更新を見込むと発表。手間いらずは今期経常利益が14％増で6期連続最高益、配当も増額修正。AIメカテックも今期経常利益28％増で3期連続最高益、増配を発表するなど、ポジティブなサプライズ決算が相次ぎました。
+  中文：总结：8月7日收盘后，多家日本企业公布了亮眼的财报。其中，藤仓（Fujikura）因业绩超预期而股价飙升。此外，Ryoyo Electro Holdings预计本财年经常性利润将增长23%，连续两年创历史新高。Tema-hima和AI Mechatronics也分别宣布了连续盈利增长和股息增加的利好消息，显示出强劲的业绩表现。
+  📰 [株探](https://kabutan.jp/news/marketnews/?b=k202608070335)
 
-- **[2026.08.07] 決算発表 — 今日679家公司将发布财报**
-  日本語：8月7日には、フジクラ、川崎重工業、リクルートホールディングスなど、合計679社もの企業が決算発表を予定している。この中には、取引時間中に発表される大林組や出光興産、引け後に発表される三井金属やハーモニック・ドライブ・システムズといった注目企業も含まれており、市場では個別の決算内容を受けた銘柄選別が活発化すると見られている。特に、業績予想を上方修正した企業や、市場予想を上回る好決算を発表した企業には買いが集まる可能性があるため、投資家は各社の発表内容を注意深く分析する必要がある。
-  中文：8月7日，日本市场将迎来679家公司的财报发布，其中包括富士电机、川崎重工和瑞可利等知名企业。投资者需密切关注这些公司的业绩表现，特别是那些预计盈利增长或扭亏为盈的“好决算”公司，其股价可能受到积极影响。
-  📰 [株探](https://kabutan.jp/news/market/202608070001)
+- **[2026.08.07] 為替・金利 — 円安進行と日本国債利回りの上昇**
+  日本語：日本市場では、円安の進行が続き、ドル円レートは一時1ドル＝158.49円近辺で推移しました。前日の東京株式市場終了時の157.81円からさらに円安方向へ動いています。同時に、日本10年国債利回りも2.780%近辺まで上昇し、前日比で2bpの上昇となりました。これは、中東情勢の不透明感による原油価格の高騰や、それに伴うインフレ懸念が背景にあると見られています。
+  中文：总结：日本市场持续面临日元贬值压力，美元兑日元汇率一度触及158.49日元附近，较前一交易日收盘价157.81日元进一步走弱。与此同时，日本10年期国债收益率也上升至2.780%左右，较前日上涨2个基点。这主要受到中东局势不确定性导致的油价上涨以及通胀担忧的影响。
+  📰 [note](https://note.com/kabu_memo/n/n2626e6f2b023)
 
-- **[2026.08.07] 半導体・AI関連株 — 关注半导体和AI相关股票的韧性**
-  日本語：7日の日本株市場は、前日の米国株安を受けて利益確定売りが先行するものの、半導体やAI関連株の底堅さが注目される展開となる見込みだ。米連邦準備理事会（FRB）高官の利上げ示唆発言や中東情勢の緊迫化による原油価格上昇が重荷となる中、日経平均株価はシカゴ先物にサヤ寄せする形で小動きで始まることが予想される。特に、前日に大きく売られたキオクシアホールディングスや東京エレクトロンといった指数寄与度の大きい半導体・AI関連株が、どこまで押し目買いで支えられるかが市場の焦点となる。昨夕決算を発表したソフトバンクグループの動向も注目され、個別物色は活発化するだろう。
-  中文：7日日本股市开盘，受美股下跌影响，获利回吐压力显现，但市场将关注半导体和AI相关股票的韧性。前夜美股道指下跌，纳斯达克小幅走低。中东局势推高油价，美联储官员言论也引发担忧。日经225期货显示市场可能小幅低开，投资者将密切关注Kioxia和东京电子等半导体巨头的表现。
-  📰 [株探](https://kabutan.jp/news/market/202608070008)
+- **[2026.08.07] 市場動向 — AI・半導体株からバリュー株への資金シフトが継続**
+  日本語：東京市場では、日経平均が下落する一方でTOPIXが上昇するという「ねじれた状態」が続いています。これは、これまで市場を牽引してきたAI・半導体関連株から、出遅れていたバリュー（割安）株へと資金がシフトしていることを示唆しています。AI・半導体株は一部企業のネガティブな決算や利益確定売りで軟調な動きを見せる一方、TOPIXは1カ月前につけた最高値にじわりと接近しており、市場全体の安定した動きが継続していると見られます。
+  中文：总结：东京市场呈现日经指数下跌而TOPIX指数上涨的“扭曲”局面。这表明资金正从此前领涨的AI和半导体相关股票转向被低估的价值股。AI和半导体股因部分公司业绩不佳及获利回吐而表现疲软，而TOPIX指数则稳步逼近一个月前的高点，显示市场整体保持稳定。
+  📰 [株探](https://kabutan.jp/news/marketnews/?b=k202608070335)
 
-- **[2026.08.07] ロブテックス (5969) — 第一季度经常利润实现扭亏为盈**
-  日本語：ロブテックス<5969>が8月7日午前に発表した27年3月期第1四半期（4-6月）の連結経常損益は、前年同期の1200万円の赤字から8800万円の黒字に転換し、好調な滑り出しを見せた。通期計画の1億8000万円に対する進捗率は48.9％に達し、過去5年平均の26.4％を大きく上回る結果となった。直近3ヵ月間の売上営業損益率も前年同期の-1.2％から6.1％へと急改善しており、同社の業績回復が鮮明になっている。この好決算は、今後の株価動向にポジティブな影響を与える可能性がある。
-  中文：罗布特克斯（5969）于8月7日上午公布了2027年3月期第一季度（4-6月）财报，公司实现合并经常损益8800万日元的盈利，成功扭亏为盈。这一业绩显著好于去年同期的1200万日元亏损，且已达到全年计划的48.9%，远超五年平均水平，显示出强劲的复苏势头。
-  📰 [株探](https://kabutan.jp/news/market/202608070013)
+- **[2026.08.07] 地政学リスク — 中東情勢の不透明感と原油高が市場の重荷に**
+  日本語：中東情勢の不透明感が再燃し、特にホルムズ海峡を巡るイランとオマーンの合意、そしてイランが米国とイスラエルの通航を認めないとしていることが、市場のマイナス要因となりました。これにより原油輸送コストの上昇が確実視され、原油価格が高騰。この地政学リスクと原油高が、前日の米国市場の反落や、本日の日本市場における投資家心理を冷やし、株価の上値を抑える要因となっています。
+  中文：总结：中东局势的不确定性再次升温，特别是霍尔木兹海峡问题上伊朗与阿曼的协议以及伊朗拒绝美国和以色列船只通航的立场，成为市场负面因素。这导致原油运输成本上升，油价飙升。地缘政治风险和油价上涨抑制了投资者情绪，对日本股市构成压力，并导致前夜美股下跌。
+  📰 [株探](https://kabutan.jp/news/marketnews/?b=k202608070335)
 
-- **[2026.08.07] 日経平均株価 — 6日日经平均指数时隔三日反弹后再次下跌**
-  日本語：6日の日経平均株価は、前日の米国ハイテク株安を受けてAI・半導体関連株に売りが広がり、3営業日ぶりに反落した。終値は前日比617円18銭安の65,683円26銭で、下落率は0.93%だった。特に、メモリー開発を手掛ける米サンディスクの決算が市場予想を下回ったことが意識され、電気機器や通信、非鉄金属製品などのセクターが下落を主導した。一方で、小売業やサービス業は上昇した。個別銘柄ではキオクシアホールディングスやフジクラ、レーザーテックなどが大きく値を下げた。
-  中文：6日日经平均指数时隔三日反弹后再次下跌，收盘报65683.26日元，较前一日下跌617.18日元，跌幅0.93%。受前夜美股科技股下跌影响，AI和半导体相关股票普遍承压。美国SanDisk财报不及预期也加剧了市场担忧。
-  📰 [FOREX.com](https://www.forex.com/jp/news-and-analysis/market-analysis/daily-market-report/2026/08/07/nikkei-225-falls-for-the-first-time-in-3-days-on-the-6th/)
-
-- **[2026.08.07] TOPIX先物 — 7日开盘上涨15.5点**
-  日本語：7日午前8時45分、TOPIX先物期近2026年9月限は、前日清算値比15.5ポイント高の4071ポイントで寄り付いた。前日のTOPIX現物終値4055.85ポイントに対しては15.15ポイント高となっており、現物市場の開場を前に、先物市場ではやや買いが先行する形で取引が開始された。この動きは、本日の東京株式市場全体に影響を与える可能性があり、特にTOPIXを構成する幅広い銘柄の動向が注目される。
-  中文：7日早盘8时45分，TOPIX股指期货2026年9月合约以4071点开盘，较前一日结算价上涨15.5点。相对于前一日TOPIX现货收盘价4055.85点，上涨了15.15点，显示出市场对今日开盘的积极预期。
-  📰 [株探](https://kabutan.jp/news/market/202608070011)
+- **[2026.08.07] 主要株価 — ソフトバンクGなどAI・半導体関連株が軟調**
+  日本語：本日の日本株式市場では、AI・半導体関連の主要銘柄が軟調に推移しました。特に、前日に減益決算を発表したソフトバンクグループが売られ、レーザーテック、SCREENホールディングス、アドバンテスト、東京エレクトロン、キオクシアホールディングスなども下落しました。これは、一部企業のネガティブな決算内容に加え、前日の米国市場における半導体株の下落や、これまでの上昇に対する利益確定売りが重なったためと考えられます。
+  中文：总结：今日日本股市，AI和半导体相关主要股票表现疲软。软银集团因前日公布的盈利下降财报而遭到抛售，Lasertec、SCREEN Holdings、Advantest、Tokyo Electron和Kioxia Holdings等也出现下跌。这主要是由于部分公司业绩不佳、前夜美股半导体板块下跌以及前期上涨后的获利回吐等多重因素叠加所致。
+  📰 [株探](https://kabutan.jp/news/marketnews/?b=k202608070335)
 
 ## 🌍 宏观经济与投资 / Macro & Investment
 
-Here are 8 recent news items about Macro & Investment as of August 7, 2026:
+Here are 7 recent news items specifically about Macro & Investment for August 7, 2026:
 
-- **[2026.08.07] Global Oil Market — 油价因霍尔木兹海峡紧张局势而上涨**
-  English: Oil prices extended their gains today, with Brent crude climbing above $83 a barrel and West Texas Intermediate nearing $78, following reports of Iran attacking "hostile targets" in the Strait of Hormuz. This development has reignited fears of disruptions to a crucial energy shipping route, reversing earlier optimism about a potential agreement to ease tensions. The ongoing geopolitical instability in the Middle East, coupled with Iran's reported intentions to ban US and Israeli ships from the strait, is keeping energy markets volatile and remains a key factor for global inflation outlooks.
-  中文：总结：今日油价继续上涨，布伦特原油突破每桶83美元，西德克萨斯中质原油接近78美元，此前有报道称伊朗在霍尔木兹海峡袭击“敌对目标”。这一事件重新引发了对关键能源航线中断的担忧，逆转了此前对缓解紧张局势的潜在协议的乐观情绪。中东地区持续的地缘政治不稳定，加上伊朗据称打算禁止美国和以色列船只通过该海峡，使得能源市场保持波动，并成为全球通胀前景的关键因素。
-  📰 [NDTV Profit](https://www.google.com/search?q=global)
+- **[2026.08.07] US Stock Market — 美股收盘涨跌互现，等待非农就业报告**
+  English: U.S. stock markets closed mixed on Thursday, with the S&P 500 and Nasdaq Composite seeing slight declines of 0.2% and 0.1% respectively, while the Dow Jones Industrial Average fell 0.9%, ending a five-day winning streak. Investors largely paused after a recent rally, awaiting the crucial July nonfarm payrolls report due today, which is expected to show the economy added 80,000 jobs. Mixed corporate earnings and ongoing geopolitical uncertainties in the Middle East contributed to the cautious sentiment, though underlying bullishness persists, particularly in semiconductor stocks.
+  中文：总结：美国股市周四收盘涨跌互现，标普500指数和纳斯达克综合指数小幅下跌，道琼斯指数结束五连涨。投资者在近期上涨后持谨慎态度，等待今日公布的7月非农就业报告。企业财报喜忧参半以及中东地缘政治不确定性也影响了市场情绪，但半导体板块的潜在看涨情绪依然存在。
 
-- **[2026.08.07] US Stock Market — 美股下跌，受中东局势和企业财报影响**
-  English: US stock markets closed lower today, with the Dow Jones Industrial Average falling nearly 0.9%, the S&P 500 down 0.18%, and the Nasdaq Composite dropping 0.06%. This pullback followed a strong start to the week, as investors digested a new round of corporate earnings and reacted to renewed geopolitical tensions in the Middle East, specifically Iran's actions in the Strait of Hormuz. Disappointing corporate earnings outlooks also contributed to dampened investor sentiment, ending the Dow's five-day winning streak. The market is also looking ahead to Friday's monthly government jobs report for further direction.
-  中文：总结：今日美股收跌，道琼斯工业平均指数下跌近0.9%，标普500指数下跌0.18%，纳斯达克综合指数下跌0.06%。此次回调是在本周强劲开局之后发生的，投资者正在消化新一轮企业财报，并对中东地区（特别是霍尔木兹海峡的伊朗行动）地缘政治紧张局势的重新加剧做出反应。令人失望的企业盈利前景也抑制了投资者情绪，结束了道琼斯指数的五连涨。市场也在关注周五的政府月度就业报告以寻求进一步指引。
+  📰 [Zacks Investment Research](https://www.zacks.com/stock/news/2026-08-07/stock-market-news-for-aug-7-2026)
 
-- **[2026.08.07] US Treasury Yields — 美国10年期国债收益率持稳，市场关注通胀和美联储政策**
-  English: The yield on the US 10-year Treasury note held steady at 4.68% today, reflecting ongoing market assessment of inflation and the Federal Reserve's monetary policy path. Despite some earlier fluctuations, yields are being influenced by persistent inflation concerns, particularly the stickiness of Core Personal Consumption Expenditures (PCE), which the Fed projects at 3.6% for 2026. Investors are closely watching upcoming US employment data for clues on labor market conditions and potential implications for future interest rate decisions by the Fed, which has adopted a more cautious communication style under Chair Kevin Warsh.
-  中文：总结：今日美国10年期国债收益率稳定在4.68%，反映市场对通胀和美联储货币政策路径的持续评估。尽管早些时候有所波动，但收益率受到持续通胀担忧的影响，特别是核心个人消费支出（PCE）的粘性，美联储预计2026年PCE通胀率为3.6%。投资者正密切关注即将公布的美国就业数据，以获取劳动力市场状况的线索，以及对美联储未来利率决定的潜在影响。
+- **[2026.08.07] US Corporate Earnings — 美国多家公司公布财报，股价表现各异**
+  English: Several major U.S. companies reported earnings today, with mixed results impacting their stock performance. Honeywell Aerospace (HONA) and Axon (AXON) saw their shares tumble 23.2% and 14.3% respectively after missing second-quarter earnings estimates. Conversely, Parker-Hannifin Corp. (PH) surged 7.3% and Ralph Lauren Corp. (RL) climbed 4% after both beat analyst expectations for their latest quarterly results. ATI Inc. (ATI) and MACOM Technology Solutions Holdings Inc. (MTSI) also saw significant jumps of 8.9% and 14.5% respectively, following strong earnings reports.
+  中文：总结：多家美国公司今日公布财报，市场反应不一。霍尼韦尔航空和Axon因业绩不及预期股价大跌，而派克汉尼汾和拉尔夫·劳伦则因超出预期而股价上涨。ATI公司和MACOM科技解决方案控股公司也因强劲财报录得显著涨幅。
 
-- **[2026.08.07] Japanese Yen (USD/JPY) — 日元在美日联合干预后仍面临挑战**
-  日本語：7月30日に始まった米国と日本の協調介入後も、日本円は引き続き注目されている。介入前、USD/JPYは40年ぶりの安値である164円付近で取引されていた。介入により一時的に円高に振れたものの、市場参加者は、米国と日本の当局が再び介入する用意があると述べているため、依然として警戒している。日本銀行が政策金利をさらに引き上げ、円への資金還流を促す外生的な触媒がなければ、円安がさらに進む可能性があるとの見方もある。
-  中文：总结：7月30日美日联合干预后，日元仍是市场焦点。干预前美元兑日元汇率接近164日元，创40年新低。尽管干预导致日元短暂走强，但市场参与者仍保持警惕，因美日官员表示如有需要将再次干预。有分析认为，除非日本央行进一步加息并出现促使资金回流日元的外生性催化剂，否则日元可能面临进一步贬值压力。
+  📰 [Zacks Investment Research](https://www.zacks.com/stock/news/2026-08-07/company-news-for-aug-7-2026)
 
-- **[2026.08.07] US Trade Policy — 美国对多晶硅进口征收15%关税**
-  English: President Donald Trump has ordered new tariffs and price floors on imported polysilicon, a critical material used in semiconductors and solar panels, citing national security concerns over US reliance on foreign supplies. Effective December 4, imported polysilicon derivatives, including silicon wafers, photovoltaic cells, and solar modules, will be subject to a 15% tariff. The measure also sets minimum import prices for polysilicon and related products, aiming to boost domestic production and protect the US manufacturing industry from foreign dumping.
-  中文：总结：美国总统特朗普已下令对进口多晶硅征收新关税并设定价格下限，理由是美国对外国供应的依赖威胁国家安全。自12月4日起，包括硅晶圆、光伏电池和太阳能组件在内的进口多晶硅衍生物将面临15%的关税。该措施还设定了多晶硅及相关产品的最低进口价格，旨在促进国内生产并保护美国制造业免受外国倾销。
+- **[2026.08.07] Nikkei 225 — 日経平均は半導体株の売りで小幅安、広範な市場は堅調**
+  日本語：東京株式市場は8月7日、日経平均株価が76.55ポイント（0.12%）安の65,606.71で取引を終えた。半導体関連株やAI関連株の売りに押されたものの、幅広い銘柄では買いが入り、藤倉の回復が下支えとなった。一時1,000ポイント以上下落する場面もあったが、押し目買いや好決算銘柄への物色で下げ幅を縮小した。TOPIXは0.47%高となり、市場全体の底堅さを示している。
+  中文：总结：8月7日东京股市日经225指数小幅收跌0.12%，报65,606.71点。半导体和人工智能相关股票的抛售是主要拖累因素，但广泛市场表现坚挺，藤仓等个股的上涨提供了支撑。盘中一度下跌超过1,000点，但逢低买盘和业绩强劲股的支撑使其跌幅收窄。
 
-- **[2026.08.07] Gold Market — 黄金价格在通胀担忧和就业数据前盘整**
-  English: Gold prices are consolidating today, holding near the $4,300 area after a significant move from $4,060-$4,080, as the market awaits the crucial US Employment Situation/Non-Farm Payroll (NFP) report scheduled for today. While buyers remain in control, the market may need a pullback or sideways consolidation before the next push. Higher Treasury yields, currently around 4.674%, are acting as a headwind for gold, as it does not pay interest. Persistent inflation forecasts from the Federal Reserve are also influencing gold price prediction markets, with increased odds for higher price targets in August.
-  中文：总结：今日黄金价格在4300美元附近盘整，此前从4060-4080美元区间大幅上涨，市场正等待今日公布的关键美国就业报告（NFP）。尽管买方仍占主导，但市场可能需要回调或横向盘整才能进一步上涨。较高的国债收益率（目前约为4.674%）对黄金构成阻力，因为黄金不支付利息。美联储持续的通胀预测也影响着黄金价格预测市场，8月份达到更高价格目标的可能性增加。
+  📰 [News On Japan](https://newsonjapan.com/article/20260807/Nikkei-Slips-as-Chip-Selling-Offsets-Broader-Market-Strength.html)
 
-- **[2026.08.07] Cryptocurrency (Bitcoin ETF) — 比特币ETF资金流入，但市场情绪复杂**
-  English: Bitcoin ETFs have seen significant capital inflows recently, with US-listed spot Bitcoin ETFs recording $626 million in three days of inflows, ending a three-week buying streak. BlackRock's IBIT fund alone captured $479 million of this total. This renewed institutional demand, coupled with easing Middle East geopolitical tensions, has supported Bitcoin's price action. However, some smaller Bitcoin ETFs are facing challenges, with Hashdex's Bitcoin ETF being the first US spot Bitcoin ETF to announce a closure due to insufficient size to cover operational costs. Macroeconomic sentiment, including stagflation concerns and upcoming US jobs reports, continues to influence Bitcoin's price movements.
-  中文：总结：近期比特币ETF资金流入显著，美国上市的现货比特币ETF在三天内录得6.26亿美元的净流入，结束了连续三周的买入势头。贝莱德的IBIT基金独占其中4.79亿美元。这种机构需求的复苏，加上中东地缘政治紧张局势的缓解，支撑了比特币的价格走势。然而，一些小型比特币ETF面临挑战，Hashdex的比特币ETF成为首个因规模不足以覆盖运营成本而宣布关闭的美国现货比特币ETF。宏观经济情绪，包括滞胀担忧和即将公布的美国就业报告，继续影响比特币的价格走势。
+- **[2026.08.07] Bank of Japan — 日本銀行、9月利上げ観測高まる中、追加講演イベントを設定**
+  日本語：日本銀行は、9月の次回政策会合を前に、理事による3回目の講演イベントを設定した。これは、市場で高まっている9月利上げの期待に対するヒントを与える可能性がある。増数和幸審議委員が9月10日に講演と記者会見を行う予定で、これはタカ派とされる高田創審議委員（9月2日）と氷見野良三副総裁（8月27日）の講演に続くものとなる。米国の円支援介入や米財務長官の早期利上げへの期待発言も、日銀の9月利上げ観測を強めている。
+  中文：总结：日本央行在9月政策会议前安排了理事的第三次演讲活动，这可能为市场日益增长的9月加息预期提供线索。增数和幸理事将于9月10日发表演讲并举行记者会，此前鹰派的高田创理事和冰见野良三副总裁也将发表讲话。美国对日元的支持性干预以及美财政部长对日本早期加息的期望，进一步强化了市场对日本央行9月加息的预期。
 
-- **[2026.08.07] Global Economy/Inflation — 全球经济增长面临挑战，通胀粘性仍存**
-  English: The global economy continues to face a challenging environment, with modest growth expected at 2.0% for 2026, but with a steeper climb ahead. Inflation remains a key concern, as CPI is projected at 3.2% for 2026 and core CPI at 2.8%, both notably above the Federal Reserve's 2% target. The stickiness of core inflation, driven by persistent wage growth and supply constraints, suggests that underlying inflationary pressures are more entrenched than headline figures indicate. Geopolitical flare-ups, such as those in the Middle East, and supply disruptions continue to pose risks, making the economic path more vulnerable to policy error and financial market repricing.
-  中文：总结：全球经济持续面临挑战，预计2026年将实现2.0%的温和增长，但未来增长之路将更加艰难。通胀仍是主要担忧，预计2026年CPI为3.2%，核心CPI为2.8%，均显著高于美联储2%的目标。核心通胀的粘性，受持续工资增长和供应限制驱动，表明潜在通胀压力比总体数据所示更为根深蒂固。中东等地区的地缘政治冲突和供应中断继续构成风险，使得经济路径更容易受到政策失误和金融市场重新定价的影响。
+  📰 [KFGO](https://kfgo.com/2026/08/07/bank-of-japan-lines-up-another-speaking-event-ahead-of-key-september-meeting/)
+
+- **[2026.08.07] Oil Prices — 油价因霍尔木兹海峡紧张局势而上涨**
+  English: Oil prices continued their upward trend today, with Brent crude climbing above $83 a barrel and West Texas Intermediate (WTI) trading near $78. This surge is primarily attributed to escalating geopolitical tensions in the Middle East, particularly renewed concerns over the Strait of Hormuz. Reports of potential disruptions to oil shipments through the vital waterway, following Iranian state news about reviewing a bill to bar certain ships, have fueled market anxieties and supported crude futures.
+  中文：总结：今日油价继续上涨，布伦特原油突破每桶83美元，西德克萨斯中质原油接近78美元。中东地缘政治紧张局势加剧，特别是对霍尔木兹海峡的担忧，是此轮上涨的主要原因。有关该关键航道石油运输可能中断的报道，加剧了市场焦虑。
+
+  📰 [NDTV Profit](https://profit.ndtv.com/news/oil-prices-on-august-7-brent-crude-rises-to-83-as-irans-reported-hormuz-attacks-cloud-shipping-deal-6140084)
+
+- **[2026.08.07] Gold Prices — 黄金价格在美国非农就业数据公布前大幅上涨**
+  English: Gold prices surged over 1% today, exceeding $4,300 per troy ounce, marking its largest weekly gain since January. The precious metal's rally comes ahead of the highly anticipated July nonfarm payrolls report, which is expected to significantly influence Federal Reserve interest rate hike expectations for September. Weaker-than-expected U.S. economic data, including initial jobless claims and the ADP report, have strengthened hopes for the Fed to maintain current interest rates, making non-interest-bearing gold more attractive to investors.
+  中文：总结：今日黄金价格上涨超过1%，突破每盎司4,300美元，创下1月以来最大单周涨幅。此次上涨发生在美国非农就业报告公布前，该报告预计将显著影响美联储9月加息预期。美国经济数据弱于预期，增强了市场对美联储维持当前利率的希望，从而提升了无息黄金的吸引力。
+
+  📰 [TradingKey](https://www.tradingkey.com/news/gold-price-forecast-can-gold-still-rise-above-4300-ahead-of-july-non-farm-payrolls/)
+
+- **[2026.08.07] Bitcoin ETF — 比特币ETF资金流入强劲，但价格仍受阻于关键水平**
+  English: U.S.-listed spot Bitcoin ETFs have seen robust inflows, totaling over $750 million since the beginning of August, with BlackRock's IBIT fund accounting for a significant portion. This marks a positive shift after a challenging July. Despite these strong institutional inflows, Bitcoin's price is currently trading around $64,300, down slightly by 0.8% over the past 24 hours, struggling to decisively breach the $65,000 resistance level. Conflicting signals from strong ETF demand and brutal earnings reports from public mining giants like MARA Holdings and CleanSpark are contributing to market indecision.
+  中文：总结：美国上市的现货比特币ETF在8月初录得强劲资金流入，总额超过7.5亿美元，其中贝莱德的IBIT基金贡献巨大。尽管机构资金流入强劲，比特币价格仍在64,300美元附近徘徊，未能突破65,000美元的关键阻力位。ETF的强劲需求与矿业公司糟糕的财报形成对比，导致市场出现犹豫不决。
+
+  📰 [99Bitcoins](https://99bitcoins.com/bitcoin-news/bitcoin-etf-news-bullish-institutional-flows-send-btc-to-70k/)
 
 ---
 ※Stock Market Daily Digest | 2026.08.07
