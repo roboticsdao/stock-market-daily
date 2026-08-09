@@ -7,118 +7,114 @@
 
 ## 🇺🇸 美国股市 / US Market
 
-Here are 8 recent news items about the US stock market:
+以下是关于美国股市的8条最新消息：
 
-- **[2026.08.09] US Stock Market — 标普500指数因就业数据疲软而上涨**
-  English: The S&P 500 rallied, extending gains from a strong week, as a weaker-than-expected July jobs report eased concerns about aggressive Federal Reserve rate hikes. Technology and consumer discretionary sectors led the charge, with investors rotating into growth and AI-driven tech stocks. Despite the optimism, some market participants caution about elevated bullish sentiment and mixed signals from Fed officials, suggesting potential volatility ahead of upcoming inflation data.
-  中文：总结：由于7月份就业报告弱于预期，市场对美联储激进加息的担忧减弱，标普500指数上涨，延续了本周的强劲涨势。科技和非必需消费品板块领涨，投资者转向增长型和人工智能驱动的科技股。尽管市场乐观，但一些参与者对看涨情绪高涨和美联储官员的混合信号持谨慎态度，预示着即将公布的通胀数据前可能出现波动。
-  📰 [Commercial Dispatch](https://www.cdispatch.com/news/article_6a1b2c3d-4e5f-6a7b-8c9d-0e1f2a3b4c5d.html)
+- **[2026.08.09] S&P500 — 标普500指数因就业数据疲软和科技股上涨而走高**
+  English: The S&P 500 ETF (SPY) rose 0.61% on August 9, extending a strong week driven by softer-than-expected July labor market data, which eased fears of aggressive Federal Reserve rate hikes. Technology and consumer discretionary sectors led the gains, with Oracle, NVIDIA, and Tesla among top performers. This sector rotation indicates investor preference for growth and AI-driven tech stocks ahead of upcoming earnings and inflation data, while financials and energy lagged.
+  中文：总结：8月9日，标普500指数上涨0.61%，延续了因7月就业数据弱于预期而引发的涨势，这缓解了市场对美联储激进加息的担忧。科技和非必需消费品板块领涨，甲骨文、英伟达和特斯拉表现突出。投资者转向增长型和AI驱动的科技股，而金融和能源板块表现滞后。
+  📰 [TipRanks](https://www.tipranks.com/news/article/the-week-that-was-the-week-ahead-macro-and-markets-august-9)
 
-- **[2026.08.09] Amazon (AMZN) — 亚马逊第二季度业绩强劲，AWS和AI需求是主要驱动力**
-  English: Amazon reported robust second-quarter results, with revenue surging 19.6% year-over-year to $200.61 billion and EPS of $5.75, significantly surpassing analyst estimates. The strong performance was primarily fueled by sustained demand for Amazon Web Services (AWS) and AI infrastructure. Analysts maintain a "Moderate Buy" rating, though increased capital expenditures for 2026, projected at $220 billion, could impact free cash flow and margins if AI-related returns fall short of expectations.
-  中文：总结：亚马逊公布了强劲的第二季度业绩，营收同比增长19.6%至2006.1亿美元，每股收益5.75美元，远超分析师预期。这一强劲表现主要得益于对亚马逊网络服务（AWS）和人工智能基础设施的持续需求。分析师维持“适度买入”评级，但2026年预计高达2200亿美元的资本支出，如果人工智能相关回报未能达到预期，可能会对自由现金流和利润率造成压力。
-  📰 [The Motley Fool](https://www.fool.com/investing/2026/08/09/jeff-bezos-amazon-stock-surged-14-after-a-blowout/)
+- **[2026.08.09] Microsoft — 微软股价受Azure和AI需求推动，分析师上调目标价**
+  English: Citi raised its price target for Microsoft to $600, citing the company's strong quarterly Azure performance with a 43% cloud-revenue increase and better-than-expected earnings. Analysts highlighted that robust AI demand is accelerating cloud growth, further supported by Microsoft's internally developed custom AI chips, which promise up to 40% efficiency gains. Institutional investors show mixed sentiment with some reducing holdings while others increase, reflecting ongoing evaluation of AI's concentrated growth.
+  中文：总结：花旗银行将微软目标价上调至600美元，因其Azure云服务收入增长43%且盈利超预期。分析师指出，强劲的AI需求正加速云业务增长，微软自研AI芯片也带来高达40%的效率提升。尽管部分机构减持，但整体市场对微软在AI领域的表现仍持乐观态度。
+  📰 [MarketBeat](https://www.marketbeat.com/stocks/NASDAQ/MSFT/news/)
 
-- **[2026.08.09] Microsoft (MSFT) — 微软Azure云服务表现强劲，AI需求推动增长**
-  English: Microsoft's Azure cloud performance continues to impress, with analysts highlighting a 43% cloud-revenue increase and stronger-than-expected earnings, indicating that AI demand is translating into accelerated cloud growth. Citi raised its price target for Microsoft to $600, citing these robust results and the company's strategic investments in custom AI chips, which are expected to improve cloud economics by delivering up to 40% efficiency gains.
-  中文：总结：微软Azure云服务表现持续强劲，分析师指出云收入增长43%，盈利超出预期，表明人工智能需求正在推动云业务加速增长。花旗银行将微软的目标股价上调至600美元，理由是其强劲的业绩和对定制AI芯片的战略投资，预计这将通过提高高达40%的效率来改善云经济效益。
-  📰 [The Motley Fool](https://www.fool.com/investing/2026/08/09/this-trillion-dollar-ai-stock-offers-better-quantum-computing-exposure-than-ionq-rigetti-or-d-wave-at-a-multi-year-valuation-low/)
+- **[2026.08.09] Apple — 苹果测试中国存储芯片以应对供应短缺，CEO警告内存价格上涨**
+  English: Apple is reportedly testing memory chips from China's Changxin Storage Technology for its iPhones and MacBooks to mitigate the global chip shortage, exacerbated by surging AI demand. This strategic move follows CEO Tim Cook's warning of a "100-year flood" in memory chip pricing, which has already led to Apple's product price increases. Despite recent earnings beating estimates, securing a diversified chip supply chain is crucial for managing rising costs and maintaining production.
+  中文：总结：据报道，苹果公司正测试中国长鑫存储的内存芯片，以应对全球芯片短缺，尤其是在AI需求激增的背景下。此前，苹果CEO蒂姆·库克曾警告内存芯片价格出现“百年一遇”的上涨，导致苹果产品提价。多元化供应链对苹果控制成本和维持生产至关重要。
+  📰 [GuruFocus](https://www.gurufocus.com/news/2471900/apple-tests-memory-chips-from-changxin-storage-amid-supply-chall)
 
-- **[2026.08.09] Apple (AAPL) — 苹果第三季度盈利超预期，但面临OpenAI诉讼**
-  English: Apple reported better-than-expected fiscal third-quarter earnings, with revenue reaching $109.42 billion and EPS of $2.02, surpassing analyst estimates. However, the company is facing a trade secrets lawsuit from OpenAI, which has filed a motion to dismiss, asserting it has no need for Apple's proprietary information. Despite the legal challenge, strong core business momentum across iPhone, Mac, and Services continues to support a bullish outlook for the tech giant.
-  中文：总结：苹果公司公布了超出预期的第三财季业绩，营收达到1094.2亿美元，每股收益2.02美元，均超分析师预期。然而，该公司正面临OpenAI提起的商业秘密诉讼，OpenAI已提交动议要求驳回，声称其不需要苹果的专有信息。尽管面临法律挑战，iPhone、Mac和服务等核心业务的强劲势头继续支撑着这家科技巨头的看涨前景。
-  📰 [Benzinga](https://www.benzinga.com/news/26/08/49600000/apples-openai-lawsuit-earnings-senators-stock-sales-and-more)
+- **[2026.08.09] Amazon — 亚马逊巨额投资AI基础设施，计划在德克萨斯州建设数据中心和燃气发电厂**
+  English: Amazon announced plans for a massive investment in AI infrastructure, including a large data center and a gas power plant in Pecos County, Texas, raising its 2026 capital expenditure outlook to approximately $220 billion. This aggressive build-out, centered on AWS, aims to meet surging AI and cloud demand. While recent quarterly results exceeded expectations with revenue up 19.6%, the substantial capital outlay could pressure free cash flow and margins if AI-related returns fall short.
+  中文：总结：亚马逊宣布将在德克萨斯州投资建设大型数据中心和燃气发电厂，并将其2026年资本支出上调至约2200亿美元，以大力发展AWS的AI基础设施。尽管近期财报营收增长19.6%超预期，但巨额资本支出可能对自由现金流和利润率构成压力，若AI投资回报不及预期。
+  📰 [Simply Wall St](https://simplywall.st/news/nasdaqgsamzn-amazons-massive-ai-infrastructure-bet-might-change-the-case-for-investing-in-amazoncom-amzn)
 
-- **[2026.08.09] NVIDIA (NVDA) — 英伟达在AI热潮中领涨科技股**
-  English: NVIDIA continues to be a leading force in the tech market, with its stock climbing amidst broad enthusiasm for AI-driven growth. ChatGPT, in an August 9 assessment, identified NVIDIA as a stronger buy for 2026 compared to Micron Technology, citing NVIDIA's competitive moat, greater earnings visibility, and broader position in the AI infrastructure market. The company's strong financial performance, including a record $68.1 billion in quarterly revenue for fiscal Q4 2026, underscores its dominance.
-  中文：总结：英伟达在科技市场持续领跑，其股价在人工智能驱动的增长热潮中上涨。ChatGPT在8月9日的评估中认为，与美光科技相比，英伟达是2026年更好的买入选择，理由是英伟达的竞争优势、更高的盈利可见性和在AI基础设施市场更广泛的地位。该公司强劲的财务表现，包括2026财年第四季度创纪录的681亿美元季度营收，凸显了其主导地位。
+- **[2026.08.09] US Market — 标普500市盈率接近历史高位，市场发出估值过高警告**
+  English: The US stock market is flashing a "once-in-a-generation" warning as the S&P 500's cyclically adjusted price-to-earnings (CAPE) ratio has climbed to approximately 41.4, nearing its dot-com era peak. This historically high valuation suggests stocks are very expensive, with around three-quarters of American investors concerned about a potential market downturn in 2026. Experts advise focusing on companies with strong fundamentals, low debt, and consistent earnings growth to navigate potential volatility.
+  中文：总结：美国股市正发出“一代人一次”的警告，标普500指数的周期调整市盈率（CAPE）已升至约41.4，接近互联网泡沫时期的峰值。这一历史高估值表明股市非常昂贵，约四分之三的美国投资者担忧2026年市场可能出现回调。专家建议投资者关注基本面强劲、低负债且盈利持续增长的公司。
+  📰 [The Motley Fool](https://www.fool.com/investing/2026/08/09/a-once-in-a-generation-stock-market-warning-just-a/)
+
+- **[2026.08.09] Federal Reserve — 美联储主席Warsh鹰派立场挑战华尔街牛市，市场预期9月加息**
+  English: Federal Reserve Chair Kevin Warsh's hawkish stance on inflation is challenging Wall Street's bullish run, which has seen major indices reach record highs driven by AI and strong earnings. Warsh, sworn in on May 22, has repeatedly pledged to achieve price stability, pushing back against soft inflation targets. Traders now anticipate a quarter-point Fed rate hike in September 2026, followed by another in March 2027, marking a potential new tightening cycle that historically leads to market corrections.
+  中文：总结：美联储主席凯文·沃什的鹰派立场正挑战华尔街牛市，他承诺实现价格稳定，反对软通胀目标。受此影响，市场目前预计美联储将在2026年9月加息25个基点，2027年3月再次加息，这可能标志着新的紧缩周期开始，历史上此类周期常导致市场回调。
+  📰 [IndexBox](https://www.indexbox.io/blog/fed-chair-warshs-hawkish-stance-challenges-wall-streets-bullish-run/)
+
+- **[2026.08.09] NVIDIA — ChatGPT评估英伟达为2026年AI领域更优投资选择**
+  English: ChatGPT has identified NVIDIA as a stronger stock pick than Micron Technology for 2026, citing NVIDIA's robust competitive moat, greater earnings visibility, and broader market position across the AI infrastructure landscape. While Micron could see upside from high-bandwidth memory demand, NVIDIA's comprehensive CUDA software ecosystem, networking products, and full-stack computing platform provide a more defensible position. Investors are keenly awaiting NVIDIA's fiscal Q2 2027 results at the end of August for sustained AI demand signals.
+  中文：总结：ChatGPT评估英伟达是2026年优于美光的股票选择，理由是英伟达在AI基础设施领域的竞争优势、盈利可见性和更广泛的市场地位。尽管美光可能受益于高带宽内存需求，但英伟达的CUDA软件生态系统和全栈计算平台提供了更强的防御性。投资者正密切关注英伟达8月底的财报，以获取AI需求的持续信号。
   📰 [Finbold](https://finbold.com/nvidia-vs-micron-we-asked-chatgpt-which-stock-is-a-better-buy-for-2026/)
 
-- **[2026.08.09] US Market Sentiment — 标普500估值逼近历史高位，市场发出警示**
-  English: The US stock market is nearing its most expensive valuation ever, with the cyclically adjusted price-to-earnings (CAPE) ratio hovering around 41.4. This level is only slightly below the all-time high seen during the dot-com bubble, signaling that stocks are significantly overvalued by historical standards. A July survey revealed that approximately three-quarters of American investors are concerned about a potential market downturn in 2026, reflecting apprehension despite the ongoing bull run.
-  中文：总结：美国股市估值正逼近历史最高水平，周期调整市盈率（CAPE）徘徊在41.4左右，仅略低于互联网泡沫时期的历史高点，表明股票估值按历史标准来看已严重过高。7月份的一项调查显示，约四分之三的美国投资者担心2026年可能出现市场下跌，这反映出尽管牛市持续，但市场仍存在担忧情绪。
-  📰 [The Motley Fool](https://www.fool.com/investing/2026/08/09/the-stock-market-is-sending-a-chilling-warning-and-history-isnt-reassuring/)
-
-- **[2026.08.09] SpaceX (SPCX) — SpaceX股价飙升，得益于与特斯拉的合作及AI收入增长**
-  English: SpaceX shares surged 15.8% on August 8, defying typical post-IPO lock-up expiry sell-offs. This rally was driven by a significant $16.8 billion semiconductor and AI compute megafactory partnership with Tesla, named Terafab, aimed at bolstering AI infrastructure. Strong Q2 earnings, featuring a 92% revenue jump and expanding AI cloud contracts, further fueled investor confidence, positioning SpaceX as a key player in the AI hardware supply chain beyond its space exploration ventures.
-  中文：总结：SpaceX股价在8月8日飙升15.8%，打破了IPO锁定期结束后通常出现的抛售。此次上涨得益于与特斯拉达成一项价值168亿美元的半导体和AI计算超级工厂（Terafab）合作，旨在加强AI基础设施。强劲的第二季度财报，包括营收增长92%和AI云合同的扩大，进一步提振了投资者信心，使SpaceX不仅是太空探索领域的领导者，也成为AI硬件供应链中的关键参与者。
-  📰 [InteractiveCrypto](https://interactivecrypto.com/spacex-shares-surge-15-8-on-tesla-partnership-and-ai-revenue-boom-despite-lock-up-expiry/)
-
-- **[2026.08.09] Federal Reserve — 美联储官员立场鹰派，加息担忧再起**
-  English: Despite a surprisingly weak July jobs report, which saw employers cut 23,000 jobs, several Federal Reserve officials maintain a hawkish stance, raising concerns about potential interest rate hikes. Three officials voted to increase rates at the July FOMC meeting, and Governor Lisa Cook reiterated readiness to raise rates if inflation remains "too high." This signals a complicated outlook for monetary policy, as the Fed balances supporting job growth with persistent inflation risks, challenging earlier rate-cut expectations.
-  中文：总结：尽管7月份就业报告出人意料地疲软，雇主削减了2.3万个工作岗位，但几位美联储官员仍持鹰派立场，引发了对潜在加息的担忧。在7月份的联邦公开市场委员会会议上，三名官员投票支持加息，理事丽莎·库克重申，如果通胀仍“过高”，她准备加息。这预示着货币政策前景复杂，美联储在支持就业增长与持续通胀风险之间寻求平衡，挑战了此前的降息预期。
-  📰 [The Motley Fool](https://www.fool.com/investing/2026/08/09/stock-market-investors-just-got-bad-news-from-the-federal-reserve/)
+- **[2026.08.09] Tesla — 特斯拉股价下跌34%后，市场关注其AI和机器人战略**
+  English: Tesla's stock has fallen approximately 34% from its December high, closing at $328.58 on August 7, reflecting investor concerns over deteriorating operating profit and negative free cash flow despite revenue beats. The market is grappling with valuing Tesla as both a car company and a major AI and robotics bet, especially after its significant investment in an AI chip manufacturing complex. Analysts remain divided, with some predicting substantial gains based on its AI pivot, while others are skeptical.
+  中文：总结：特斯拉股价自去年12月高点已下跌约34%，8月7日收于328.58美元，反映出投资者对其运营利润恶化和自由现金流转负的担忧。市场正努力评估特斯拉作为汽车公司和AI及机器人巨头的双重价值，尤其是在其巨额投资AI芯片制造后。分析师对特斯拉的未来走势看法不一。
+  📰 [TIKR.com](https://tikr.com/stock-reviews/tesla-has-fallen-34-from-its-high-is-the-selloff-a-setup-or-a-trap)
 
 ## 🇯🇵 日本株式市場 / Japan Market
 
-- **[2026.08.09] 日本市場概況 — 日経平均は小幅安、TOPIXは続伸**
-  日本語：8月7日の東京市場では、日経平均株価が前日比76円55銭安の6万5,606円71銭と小幅に下落した一方、TOPIXは19.08ポイント高の4,074.93ポイントと続伸しました。日経平均は前場に一時1,000円超下落する場面もありましたが、後場には買い戻しが入り、日中安値からの戻り率は1.48%に達しました。東証プライム市場の売買代金は10兆8,960億円と高水準で、値上がり銘柄数が値下がり銘柄数を上回り、市場全体の底堅さを示しました。この日の日経平均の下げは、AI・半導体関連など一部の値がさ株の下落によるもので、市場では決算シーズンが進む中で銘柄選別が進んでいます。日本銀行の政策金利は7月会合で1.0%に据え置かれています。
-  中文：总结：8月7日，日经平均指数小幅下跌0.12%至65,606.71日元，而TOPIX指数上涨0.47%至4,074.93点。日经指数盘中一度大跌千点，但午后反弹。东证主板成交额达10.89万亿日元，上涨股票数量多于下跌股票，显示市场韧性。此次下跌主要受AI和半导体等部分高价股拖累，市场正经历财报季的选股。日本央行政策利率在7月会议上维持在1.0%不变。
-  📰 [note](https://note.com/miyano_hiroki/n/n2b22572a15f0)
+- **[2026.08.09] 円相場 — 日米協調介入で円安是正へ**
+  日本語：本日、日本と米国は28年ぶりとなる円買い協調介入を実施し、急速に進む円安の是正に乗り出した。この介入は、市場の無秩序な動きに対する断固たる措置として行われ、為替市場に大きな影響を与えている。今後も円相場の動向次第では追加介入の可能性が示唆されており、日米両政府の連携が注目される。この動きは、輸出企業には一時的な逆風となる可能性がある一方、輸入物価の安定には寄与すると見られる。
+  中文：日本和美国今日进行了28年来首次联合干预，旨在纠正日元快速贬值。此次干预被视为对市场无序波动的果断措施，对汇市产生重大影响。未来可能根据日元走势采取进一步干预措施，日美两国政府的合作备受关注。
+  📰 [ライブドアニュース](https://news.livedoor.com/)
 
-- **[2026.08.09] 日経平均株価 — 8月相場は値動き乏しく、今後の動向に注目**
-  日本語：8月に入ってからの日経平均株価は、比較的値動きが乏しい展開が続いています。先週（8月3日～7日）は、前日比で4桁の変動があったのは5日だけで、それ以外の日は終値ベースで3桁前半の小幅な動きにとどまりました。この値動きの乏しさの背景には、移動平均線と株価の位置関係や、上昇・下落の勢いが影響していると分析されています。日経平均は5日線と25日線に挟まれた状態が続き、明確なトレンドが発生していない状況です。今後の動向を予測するためには、移動平均線やモメンタムといったテクニカル指標を用いた分析が重要視されています。
-  中文：总结：进入8月以来，日经平均指数走势相对平淡。上周（8月3日至7日），仅8月5日出现四位数涨跌，其余交易日收盘价波动在三位数以内。这种波动性不足的背后，是移动平均线与股价的关系以及涨跌动能的影响。日经指数目前夹在5日线和25日线之间，尚未形成明确趋势。未来走势需密切关注技术指标分析。
-  📰 [会社四季報オンライン](https://www.google.com/search?q=Japan)
+- **[2026.08.09] 日経225先物 — 週間展望、SQ通過後を見据えた動き**
+  日本語：今週の日経225先物は、膠着感の強い相場展開が予想されるものの、8月のオプション取引特別清算指数（SQ）通過後を見据えた押し目買いの動きが中心となる見込みだ。前週末の日米協調介入による円高進行で、週明けは一時下落したが、その後リバウンド基調を強めた。市場参加者が減少するお盆休み期間に入るため、スキャルピング中心の取引が余儀なくされる可能性が高い。
+  中文：本周日经225期货预计将呈现胶着走势，但市场普遍预期在8月期权特别清算指数（SQ）结算后将出现逢低买入。受上周末日美联合干预导致日元升值影响，本周初市场一度下跌，随后反弹势头增强。
+  📰 [株探](https://kabutan.jp/)
 
-- **[2026.08.09] 企業決算 — 8月7日発表の好悪材料が市場に影響**
-  日本語：8月7日に発表された企業決算やその他の開示情報が、今後の日本市場に影響を与える好悪材料として注目されています。好材料としては、セイコーグループ（8050）が今期経常利益を22%上方修正し最高益予想を上乗せ、配当も15円増額したほか、アニコムホールディングス（8715）が4-6月期経常利益3.7倍増益、三菱地所（8802）が同94%増益で着地しました。一方、悪材料としては、リガク・ホールディングス（268A）の上期最終利益が57%減益、シャープ（6753）が今期経常利益を44%下方修正するなど、業績悪化を発表した企業も複数見られました。これらの個別企業の動向は、来週以降の市場の銘柄選別に影響を与えるでしょう。
-  中文：总结：8月7日公布的企业财报及其他披露信息成为影响日本市场的利好和利空因素。利好方面，精工集团（8050）上调本财年经常性利润22%并增加派息15日元；Anicom Holdings（8715）第一季度经常性利润增长3.7倍；三菱地所（8802）第一季度经常性利润增长94%。利空方面，Rigaku Holdings（268A）上半年净利润下降57%；夏普（6753）下调本财年经常性利润44%。这些公司动态将影响下周的市场选股。
-  📰 [Yahoo!ファイナンス](https://www.google.com/search?q=Japan)
+- **[2026.08.09] 市場シナリオ — 円高と日経平均の8月展望**
+  日本語：市場アナリストは、8月中の日経平均株価について、戻りがあれば売られる展開になる公算が大きいと指摘している。ドル・円相場は、2026年7月の163.99円を戻り高値として、今後値幅を伴った円高方向への動きを作る可能性が出てきた。過去の協調介入の歴史を鑑みると、円高は100円から120円のレンジへ向かう動きになることが多く、今年の年末に向けても円高トレンドが続く可能性があると分析されている。
+  中文：市场分析师指出，8月份日经平均指数很可能呈现“逢高卖出”的走势。美元兑日元汇率可能以2026年7月的163.99日元为高点，未来将出现大幅升值。鉴于历史上的联合干预，日元汇率常向100-120日元区间移动，预计今年底前日元升值趋势将持续。
+  📰 [株探](https://kabutan.jp/)
 
-- **[2026.08.09] 株価指数先物 — SQ通過後を見据えたロング対応が焦点**
-  日本語：今週の日経225先物市場は、基本的には膠着感の強い相場展開が予想されるものの、押し目待ち狙いのロング対応が注目されています。前週末の日米協調介入による円買いの影響で円高が進み、週明けは6万3000円を挟んでの推移となりましたが、その後リバウンド基調が強まりました。特に8月5日には、米国市場での中東情勢懸念緩和とNYダウの史上最高値更新を受け、AI・半導体関連株が牽引し、日経平均は2440円高の6万6000円台を回復しました。今週は8月のオプションSQを控えており、中東情勢の動向や原油先物価格の変動にも引き続き注意が必要です。
-  中文：总结：本周日经225股指期货市场预计将维持胶着态势，但逢低做多策略受到关注。受上周末日美联合干预日元买盘影响，日元走强，周初股指在63000日元附近波动，随后反弹。8月5日，受中东局势担忧缓解和道琼斯指数创新高影响，AI和半导体相关股票带动日经指数上涨2440点，重回66000点上方。本周面临8月期权SQ，中东局势和原油期货价格仍需密切关注。
-  📰 [株探](https://www.google.com/search?q=Japan)
+- **[2026.08.09] 主要企業決算 — 好材料発表が相次ぐ**
+  日本語：8月7日に発表された決算情報では、複数の企業から好材料が報告された。オリンパス（7733）は4-6月期（第1四半期）の最終利益が2.1倍増益で着地。セイコーグループ（8050）は今期経常利益を22％上方修正し、最高益予想を上乗せ、配当も15円増額した。また、三菱地所（8802）も4-6月期の経常利益が94％増益と大幅な伸びを見せた。これらの好決算は、市場全体のセンチメントを支える要因となっている。
+  中文：8月7日公布的财报显示，多家公司发布利好消息。奥林巴斯（7733）第一季度净利润增长2.1倍。精工集团（8050）上调本财年经常性利润预期22%，并增加股息15日元。三菱地所（8802）第一季度经常性利润增长94%。
+  📰 [Yahoo!ファイナンス](https://finance.yahoo.co.jp/)
 
-- **[2026.08.09] 為替市場 — ドル円は150円台を試す展開か、円高トレンドへの転換示唆**
-  日本語：米ドル/円相場は、最近の日米協調介入の効果により、ドル高・円安のトレンドが終焉を迎え、今後は150円台を試す展開が予想されています。一部アナリストは、2026年中に140円の大台を打診する可能性も指摘しており、今回の介入は成功すると見ています。過去の介入事例から、ドル円相場は80円前後や150円前後の水準で協調介入が入ると、それまでの流れが変化し、100円から120円のレンジへ向かう動きになる傾向があります。2026年7月の163.99円が戻り高値となり、今後は値幅を伴った円高の流れが形成される公算が大きいと分析されています。
-  中文：总结：受近期日美联合干预影响，美元/日元汇率的强势美元/弱势日元趋势可能结束，预计将测试150日元关口。有分析师指出，2026年内甚至可能触及140日元，认为此次干预将取得成功。历史经验表明，当美元/日元在80日元或150日元附近出现联合干预时，汇率走势会发生变化，并趋向100-120日元区间。分析认为，2026年7月的163.99日元可能是高点，未来日元大幅升值的可能性较大。
-  📰 [株探](https://www.google.com/search?q=Japan), [Yahoo!ファイナンス](https://www.google.com/search?q=Japan)
+- **[2026.08.09] 主要企業決算 — 業績下方修正も散見**
+  日本語：一方で、一部企業からは業績の下方修正も発表された。シャープ（6753）は今期経常利益を44％下方修正し、野村マイクロ・サイエンス（6254）も4-6月期（第1四半期）の経常利益が56％減益で着地した。これらの発表は、特定のセクターや企業における厳しい事業環境を示唆しており、投資家は個別銘柄の選別をより慎重に行う必要がある。市場全体としては、好材料と悪材料が混在する状況が続いている。
+  中文：与此同时，部分公司也发布了业绩下调。夏普（6753）将本财年经常性利润下调44%，野村微科学（6254）第一季度经常性利润下降56%。这些公告表明特定行业和企业面临严峻的经营环境，投资者需谨慎选择个股。
+  📰 [Yahoo!ファイナンス](https://finance.yahoo.co.jp/)
 
-- **[2026.08.09] 来週の主要経済イベント — 米国CPIと日本の企業物価指数に注目**
-  日本語：来週（8月10日～14日）のドル円相場は、主要な経済指標の発表によって変動する可能性があります。特に注目されるのは、8月12日に発表される米国の7月消費者物価指数（CPI）です。インフレの鈍化が確認されれば米金利低下でドル売りが強まる一方、インフレ高止まりの場合はドル買いが優勢となるでしょう。また、8月13日には日本の7月国内企業物価指数が発表され、輸入物価上昇が企業間の取引価格にどこまで波及しているかが、日本銀行の追加利上げを占う上で重要なポイントとなります。これらの指標は、日米の金融政策への思惑を強め、為替市場に大きな影響を与える見込みです。
-  中文：总结：下周（8月10日至14日）美元/日元汇率可能受主要经济指标发布影响。8月12日美国7月消费者物价指数（CPI）备受关注，通胀放缓可能导致美元走弱，而通胀高企则可能支撑美元。此外，8月13日日本7月国内企业物价指数将公布，进口物价上涨对企业交易价格的影响程度，将是判断日本央行是否进一步加息的关键。这些指标预计将加剧日美货币政策预期，对汇市产生重大影响。
-  📰 [外為どっとコム](https://www.google.com/search?q=Japan)
+- **[2026.08.09] 日本市場 — 8月10日の市場予測**
+  日本語：8月10日の日本市場は、前週末の米ナスダック1.30％高を受け、半導体・AI関連株が買い先行で始まることが予測される。しかし、円高基調と中東情勢の緊張が、自動車、航空、輸送、小売といった輸出・内需関連銘柄の上値を抑える展開となる見込みだ。日経平均は高寄りしやすいものの、翌11日が祝日で休場となるため、後場には利益確定売りが出る可能性があり、全体としてはプラス0.1～0.9％での大引けが中心と見られている。
+  中文：预计8月10日日本市场将受前周末美国纳斯达克指数上涨1.30%提振，半导体和AI相关股票将高开。然而，日元升值趋势和中东紧张局势可能抑制汽车、航空、运输和零售等出口及内需相关股票的上涨空间。
+  📰 [note](https://note.com/)
 
 ## 🌍 宏观经济与投资 / Macro & Investment
 
-Here are 7 recent news items related to macroeconomics and investment, based on reports from August 9, 2026:
-
-- **[2026.08.09] S&P500 — 标普500指数创历史新高，企业盈利超预期提振市场信心**
-  English: The S&P 500 has reached new record highs, with strong second-quarter earnings from major U.S. companies easing concerns about the market rally's narrow focus on AI stocks. Approximately 86% of S&P 500 companies reporting results beat analyst estimates, marking the seventh consecutive quarter of double-digit earnings growth. Energy and communication services sectors saw significant profit increases, partly driven by higher oil prices due to geopolitical tensions. AI spending continues to fuel growth across various sectors, with Amazon and Microsoft reporting strong cloud computing and AI-related gains. Investors are now looking towards upcoming inflation reports for further market direction.
-  中文：总结：美国主要企业第二季度强劲的盈利表现推动标普500指数创下新高，缓解了市场对涨势过度集中于少数AI股的担忧。约86%的标普500公司盈利超出预期，这是连续第七个季度实现两位数增长。能源和通信服务业利润显著增长，部分原因在于地缘政治紧张局势推高了油价。人工智能支出继续推动各行业增长，亚马逊和微软在云计算和AI领域表现强劲。
-  📰 [Investing.com](https://www.investing.com/news/stock-market-news/earnings-beats-ease-concerns-over-record-us-stock-rally-432SI-3990838)
-
-- **[2026.08.09] 日元 — 日本政府干预后日元汇率或已触底反弹**
-  日本語：米ドル/円（USD/JPY）為替レートは、日本政府による協調介入を受けて、7月下旬の164円付近のピークから約6円下落し、157.80円で週末を終えました。三菱UFJ銀行は、この介入がトレンドの転換点となる可能性があり、今後USD/JPYは緩やかに下落するものの、急激な崩壊は予想されないと見ています。日本銀行が9月と2027年1月に25ベーシスポイントの利上げを実施する意図を示すことが、中期的な円高トレンドを支える上で重要となります。
-  中文：总结：日本政府的协调干预行动可能已改变了美元兑日元（USD/JPY）的单边贬值趋势。在干预后，美元兑日元汇率从7月下旬的164日元高点回落至157.80日元。三菱UFJ银行认为，此次干预可能标志着趋势的转折点，预计美元兑日元将逐步走低，但不会出现突然暴跌。日本央行在9月和2027年1月加息25个基点将是支撑日元中期走强的关键。
-  📰 [Exchange Rates UK](https://www.poundsterlinglive.com/japanese-yen-exchange-rates/28741-japanese-yen-intervention-may-have-changed-the-usd-jpy-trend)
-
-- **[2026.08.09] 美联储 — 美联储加息预期升温，市场担忧情绪加剧**
-  English: Stock market investors are facing renewed concerns as the Federal Reserve's July FOMC meeting minutes revealed three officials voted for an interest rate hike, a significant shift from zero in June. Inflation, as measured by the PCE price index, has exceeded the Fed's 2% target for five years, accelerating to 4.1% in May due to the Iran conflict disrupting oil supplies. Traders now anticipate a quarter-point rate hike in September 2026, followed by another in March 2027. Historically, the first hike in a tightening cycle often leads to stock market corrections, suggesting investors should prepare for potential drawdowns.
-  中文：总结：美联储7月联邦公开市场委员会（FOMC）会议纪要显示，三名官员投票支持加息，引发市场对未来货币政策收紧的担忧。通胀已连续五年超出美联储2%的目标，5月份受伊朗冲突影响加速至4.1%。市场普遍预计美联储将在2026年9月和2027年3月各加息25个基点。历史数据显示，紧缩周期中的首次加息常伴随股市回调，投资者应警惕潜在的市场下跌风险。
+- **[2026.08.09] Federal Reserve — 美联储9月加息预期升温**
+  English: Despite the Federal Reserve holding interest rates steady in July, market expectations for a September rate hike have significantly increased. This shift is primarily driven by persistent inflation, which has remained above the Fed's 2% target for over five years, and recent weaker-than-expected U.S. jobs data that has complicated the Fed's dual mandate. Three dissenting votes in the July FOMC meeting in favor of a hike further underscore the growing pressure on the central bank to act. Investors are closely watching upcoming CPI and PPI reports for further clues on the Fed's next move, with a 25-basis-point hike now widely anticipated in September.
+  中文：总结：尽管美联储在7月份的会议上维持利率不变，但市场对9月份加息的预期显著升温。这主要是由于通胀持续高于美联储2%的目标已超过五年，以及近期美国就业数据弱于预期，使美联储的双重使命面临挑战。7月联邦公开市场委员会会议上三位委员投票支持加息，进一步凸显了央行面临的行动压力。投资者正密切关注即将发布的CPI和PPI报告，以获取美联储下一步行动的更多线索，目前市场普遍预计9月将加息25个基点。
   📰 [The Motley Fool](https://www.fool.com/investing/2026/08/09/stock-market-investors-just-got-bad-news-from-the-federal-reserve/)
 
-- **[2026.08.09] 全球经济 — 美国就业报告不及预期，通胀前景仍存不确定性**
-  English: The global economy is navigating complicated cross-currents, with a recent U.S. jobs report showing an unexpected 23,000 decline in July payrolls. This prompted financial markets to reduce the implied probability of a September Federal Reserve rate hike from nearly 60% to roughly 40%. Despite this, inflation remains a concern, with core CPI expected at 2.5% for July, still above the Fed's target. Corporate earnings, while strong in some areas, also highlight behavioral shifts and spending fatigue among lower-income households. Geopolitical tensions, particularly the Iran war, continue to influence oil prices and the overall inflation outlook.
-  中文：总结：全球经济面临复杂局面，美国7月就业报告意外减少2.3万个就业岗位，导致市场对美联储9月加息的预期概率从近60%降至约40%。尽管如此，核心消费者物价指数（CPI）预计仍为2.5%，高于美联储目标，通胀压力依然存在。企业盈利报告显示，低收入家庭的消费行为和支出疲劳现象日益明显。伊朗战争等地缘政治紧张局势继续影响油价和整体通胀前景。
-  📰 [Mohamed A. El-Erian on Substack](https://mohamedel-erian.substack.com/p/the-weekly-look-at-the-global-economy-and-markets-aug-9-2026)
+- **[2026.08.09] S&P 500 — 标普500指数因强劲财报和AI热潮创历史新高**
+  English: The S&P 500 has surged to an all-time high, propelled by a robust earnings season where 86% of reporting companies beat estimates, leading to a blended earnings growth of 50.4%. This strong performance is largely attributed to continued demand in artificial intelligence, benefiting companies like NVIDIA and Micron Technology. The "Magnificent 7" tech giants have been particularly strong, contributing significantly to the index's 3.6% rise last week. While the rally has broadened beyond just a few tech names, investor focus now shifts to upcoming inflation data, which could test the market's momentum.
+  中文：总结：标普500指数在强劲财报季的推动下创下历史新高，86%的上市公司业绩超出预期，综合盈利增长率达到50.4%。人工智能领域的持续需求是主要驱动力，英伟达和美光科技等公司从中受益。“七巨头”科技股表现尤为突出，对上周指数3.6%的涨幅贡献巨大。尽管涨势已扩大到少数科技股之外，但投资者目前正关注即将公布的通胀数据，这可能考验市场动能。
 
-- **[2026.08.09] SpaceX — SpaceX上市后首份财报公布，高额AI资本支出引关注**
-  English: Elon Musk's SpaceX, now a public company, reported its first earnings, beating Wall Street expectations with a 92% year-over-year revenue increase and a smaller-than-expected loss per share. However, the stock fell 12% after the report, primarily due to the market's focus on its substantial capital expenditures (capex) of $18.4 billion in Q2, with $15.8 billion allocated to AI. While management expects to recoup these investments within a year and aims for a $100 billion annualized revenue run rate by year-end, investors are wary of high AI spending, despite the company's aggressive build-out of AI compute capacity.
-  中文：总结：埃隆·马斯克的SpaceX作为上市公司首次公布财报，第二季度营收同比增长92%，亏损低于预期，超出华尔街预期。然而，由于市场关注其高达184亿美元的资本支出（其中158亿美元用于AI），股价在报告后下跌12%。尽管管理层预计一年内收回投资并计划年底实现1000亿美元的年化营收，但投资者对高额AI支出仍持谨慎态度。
-  📰 [The Motley Fool](https://www.fool.com/investing/2026/08/09/elon-musks-spacex-just-delivered-its-first-earnings-report-as-a-public-company-heres-the-1-number-that-matters-most/)
+  📰 [Forbes](https://www.forbes.com/sites/billstone/2026/08/09/sp-500-earnings-beat-expectations-as-ai-leaders-remain-in-focus/)
 
-- **[2026.08.09] 黄金 — 黄金价格持稳，市场关注美国CPI报告及地缘政治进展**
-  English: Gold prices remained largely stable on August 9, 2026, holding near $4,342 per ounce after a recent rally fueled by geopolitical optimism and softer U.S. labor market data. The market's attention is now shifting to next week's U.S. Consumer Price Index (CPI) report, which is anticipated to be a key driver for gold's next significant movement. Record gold purchases by central banks in 2026 continue to provide strong underlying support for the metal, despite potential headwinds from stronger macroeconomic data or a firmer U.S. dollar.
-  中文：总结：2026年8月9日，黄金价格基本持稳在每盎司4,342美元附近。此前，地缘政治乐观情绪和美国劳动力市场数据走软推动金价上涨。目前市场焦点转向下周公布的美国消费者物价指数（CPI）报告，预计这将是影响黄金下一步走势的关键因素。尽管面临宏观经济数据走强或美元走强的潜在阻力，但2026年各国央行创纪录的黄金购买量持续为金价提供强劲支撑。
-  📰 [InteractiveCrypto](https://interactivecrypto.com/news/gold-holds-steady-near-4342-as-market-awaits-us-cpi-report-and-geopolitical-developments-aug-9-2026)
+- **[2026.08.09] Bitcoin & Ethereum ETFs — 比特币和以太坊ETF流入强劲，但价格波动**
+  English: U.S. spot Bitcoin and Ether ETFs experienced their strongest weekly inflows since April, attracting a combined $1.1 billion in the first full week of August. Bitcoin ETFs alone saw $865 million in inflows, with BlackRock's IBIT accounting for 80% of that. Despite this significant institutional demand, Bitcoin's price remained below $65,000 and Ethereum under $1,900, suggesting that exchange and derivatives selling might be offsetting the inflows. Traders are closely monitoring key support and resistance levels, as the disconnect between strong ETF inflows and relatively flat prices raises questions about market dynamics.
+  中文：总结：美国现货比特币和以太坊ETF在8月第一周吸引了总计11亿美元的资金流入，创下自4月以来的最强周表现。其中，比特币ETF流入8.65亿美元，贝莱德的IBIT占据了80%。尽管机构需求强劲，但比特币价格仍低于65,000美元，以太坊也未能突破1,900美元，这表明交易所和衍生品抛售可能抵消了流入。交易员正密切关注关键支撑和阻力位，ETF强劲流入与价格相对持平之间的脱节引发了市场动态的疑问。
+  📰 [KuCoin](https://www.kucoin.com/news/bitcoin-and-ethereum-etfs-attract-1.1b-in-inflows-prices-remain-flat)
 
-- **[2026.08.09] 半导体行业 — AI需求激增推动半导体行业签订长期供应协议**
-  English: The semiconductor industry is undergoing a significant shift as surging AI-driven demand leads to a proliferation of long-term supply agreements (LTAs). Recent quarterly earnings reports from global memory semiconductor companies indicate that LTAs now account for over half of total production, with five-year contracts becoming standard. Major U.S. hyperscalers building AI data centers are key customers, securing substantial volumes. This trend is transforming the industry from cyclical boom-bust patterns to a more stable, order-based model, ensuring sales stability for manufacturers but making spot market access harder and potentially driving up costs for smaller buyers.
-  中文：总结：受人工智能（AI）需求激增推动，半导体行业正经历重大变革，长期供应协议（LTA）数量激增。全球存储半导体公司最新财报显示，LTA已占总产量的半数以上，五年期合同成为常态。美国大型超大规模数据中心建设者是主要客户，确保了大量采购。这一趋势正将行业从周期性繁荣-萧条模式转变为更稳定的订单驱动模式，确保了制造商的销售稳定性，但也使得现货市场获取难度增加，并可能推高小型采购商的成本。
-  📰 [Reuters](https://www.reuters.com/)
+- **[2026.08.09] Gold Market — 黄金价格持稳，市场关注美国CPI报告**
+  English: Gold prices are holding steady near $4,342 per ounce today, following a recent rally driven by geopolitical optimism and softer U.S. labor market figures. The market's attention is now firmly on next week's U.S. CPI report, which is anticipated to be the next major catalyst for gold's movement. Record purchases by global central banks continue to provide a strong fundamental underpinning for gold's long-term bullish outlook, despite potential headwinds from a stronger U.S. dollar or more robust macroeconomic data. Geopolitical tensions in the Middle East, particularly concerning the Strait of Hormuz, also remain a key factor influencing safe-haven demand for gold.
+  中文：总结：今日黄金价格稳定在每盎司4,342美元附近，此前受地缘政治乐观情绪和美国劳动力市场数据走软的推动而上涨。市场目前正密切关注下周公布的美国CPI报告，预计这将是引发黄金价格下一步走势的主要催化剂。全球央行创纪录的黄金购买量继续为黄金的长期牛市前景提供坚实支撑，尽管美元走强或宏观经济数据更强劲可能带来潜在阻力。中东地区的地缘政治紧张局势，特别是霍尔木兹海峡问题，也仍然是影响黄金避险需求的关键因素。
+
+  📰 [InteractiveCrypto](https://interactivecrypto.com/news/gold-holds-steady-near-4342-as-market-awaits-us-cpi-report-and-geopolitical-developments/)
+
+- **[2026.08.09] Oil Prices — 原油价格波动，地缘政治紧张局势持续**
+  English: Global crude oil prices remain volatile today, with Brent crude around $83.55 per barrel and WTI crude at approximately $78.18 per barrel. This volatility is largely attributed to ongoing geopolitical tensions, particularly in the Middle East, where Iran's demands for reopening the Strait of Hormuz are keeping supply-risk premiums elevated. While there were hopes for a diplomatic resolution, the specific conditions for a full agreement remain unclear, leading to continued market caution. Analysts suggest that if negotiations stall or regional tensions escalate, oil prices could quickly rebound, potentially towards $95.
+  中文：总结：今日全球原油价格持续波动，布伦特原油徘徊在每桶83.55美元，WTI原油约为每桶78.18美元。这种波动主要归因于持续的地缘政治紧张局势，特别是在中东地区，伊朗就重新开放霍尔木兹海峡提出的要求使得供应风险溢价居高不下。尽管曾有希望达成外交解决方案，但全面协议的具体条件仍不明确，导致市场持续保持谨慎。分析师指出，如果谈判停滞或地区紧张局势升级，油价可能迅速反弹，甚至可能升至95美元。
+
+  📰 [News24](https://news24online.com/business/petrol-diesel-price-today-fresh-rates-of-fuel-issued-as-crude-oil-prices-remain-volatile-check-latest-petrol-diesel-prices-in-delhi-mumbai-kolkata-bengaluru-chennai-lucknow-noida/233072/)
+
+- **[2026.08.09] Japan Market / BOJ — 日本央行9月加息预期升温，日元走势受关注**
+  日本語：日本銀行は9月の金融政策決定会合を前に、追加の講演イベントを設定し、市場では9月利上げへの期待が高まっています。タカ派とされる政策委員による発言機会が増えることで、日銀が市場の期待に応え、利上げに踏み切る可能性が示唆されています。過去の利上げ局面では、日銀幹部の事前講演が政策変更のシグナルとなっており、今回も同様の動きが注目されます。国内の生産者物価上昇が続く中、日米金利差の拡大による円安是正のため、日銀は利上げを迫られる状況にあります。
+  中文：总结：日本央行在9月货币政策会议前夕增加了多场演讲活动，市场对9月加息的预期正在升温。被视为鹰派的政策委员将有更多发言机会，这暗示日本央行可能为了回应市场预期而采取加息行动。过去，日本央行高级官员的预定演讲曾是政策转变的信号，此次也受到类似关注。在日本国内生产者物价持续上涨的背景下，为了纠正日美利差扩大导致的日元贬值，日本央行面临加息的压力。
+  📰 [Reuters (via Yahoo News Japan)](https://www.google.com/search?q=global)
 
 ---
 ※Stock Market Daily Digest | 2026.08.09
