@@ -7,102 +7,109 @@
 
 ## 🇺🇸 美国股市 / US Market
 
-Here are 5 recent news items specifically about the US Market for August 10, 2026:
+- **[2026.08.10] US Stock Market — 股指期货涨跌互现，美联储利率前景受关注**
+  English: U.S. stock futures showed mixed movements on Monday as investors anticipated a busy week of corporate earnings and crucial CPI inflation data. Last week, major indexes including the S&P 500, Nasdaq, and Dow Jones posted significant gains, with the S&P 500 closing above 7,700 for the first time. A weaker-than-expected July jobs report, showing a loss of 23,000 jobs, has led many traders to expect the Federal Reserve to maintain current interest rates in September, easing fears of an immediate hike. This sentiment is influencing market confidence ahead of upcoming inflation reports.
+  中文：总结：美国股指期货周一涨跌互现，投资者正为本周繁忙的企业财报季和关键的CPI通胀数据做准备。上周，标普500指数、纳斯达克指数和道琼斯指数均录得显著上涨，其中标普500指数首次收于7,700点上方。7月份就业数据弱于预期，失业人数达2.3万，这使得市场普遍预计美联储将在9月份维持利率不变，缓解了加息担忧。
+  📰 [TipRanks](https://www.tipranks.com/news/stock-market-news-today-8-10-26-futures-wobble-ahead-of-earnings-cpi-data)
 
-- **[2026.08.10] US Stock Market — 市场展望：本周开局温和看涨，关注企业财报**
-  English: The US stock market is anticipated to begin the week of August 10th with a moderately bullish sentiment, despite ongoing US-Iran geopolitical tensions and August's historical tendency as a bearish month. While no major economic reports are scheduled for Monday, corporate earnings will drive stock-specific movements. The Dow Jones and Nasdaq saw significant gains last week, and the S&P 500 reached new highs, suggesting underlying strength. Investors will monitor upcoming CPI and PPI data later in the week for broader market direction.
-  中文：总结：尽管地缘政治风险和八月历史上的看跌趋势，美国股市预计在8月10日这一周开局温和看涨。周一没有重要的经济报告，但企业财报将是推动个股表现的关键因素。道琼斯指数和纳斯达克指数上周表现强劲，标准普尔500指数也创下新高，显示市场具有韧性。投资者将密切关注本周晚些时候公布的CPI和PPI数据以判断市场走向。
-  📰 [Goodreturns](https://www.goodreturns.in/news/us-stock-market-trading-outlook-for-august-10-14-what-s-next-after-dow-jones-nasdaq-s-1300-pts-rally-1311005.html)
+- **[2026.08.10] S&P 500 — 摩根大通上调标普500指数年终目标**
+  English: JPMorgan has raised its year-end target for the S&P 500 index to 8,000 from 7,800, citing a strong second-quarter earnings season and growing confidence in AI investments. The bank's strategists noted robust results across various industries, with 87% of S&P 500 companies beating earnings expectations. This bullish revision, aligning with other Wall Street banks, suggests a 3% upside from Friday's close, driven by accelerating cloud growth and expanding backlogs from AI-related capital expenditures.
+  中文：总结：摩根大通将标普500指数的年终目标从7,800点上调至8,000点，理由是第二季度财报强劲以及对人工智能投资的信心日益增强。该行策略师指出，标普500指数中87%的公司业绩超出预期，各行业表现稳健。此次上调与华尔街其他银行的看法一致，预示该指数较上周五收盘价有3%的上涨空间，主要受云业务加速增长和人工智能相关资本支出带来的订单积压推动。
+  📰 [Morningstar](https://www.morningstar.com/news/marketwatch/20260810-wall-streets-biggest-bank-just-raised-its-expectations-for-the-stock-market)
 
-- **[2026.08.10] GameSquare Holdings Inc. (NASDAQ:GAME) — GameSquare公布第二季度财报**
-  English: GameSquare Holdings, Inc. (NASDAQ:GAME) is scheduled to release its second-quarter 2026 financial results after the close of business on Monday, August 10, 2026. The media, entertainment, and technology company focuses on connecting brands with Gen Z, Gen Alpha, and Millennial audiences. Shareholders and interested parties are invited to join the earnings call via webcast to hear from CEO Justin Kenna and other management team members.
-  中文：总结：GameSquare Holdings, Inc. (NASDAQ:GAME) 计划于2026年8月10日（周一）收盘后公布其2026财年第二季度财务业绩。这家专注于连接品牌与Z世代、Alpha世代和千禧一代受众的媒体、娱乐和科技公司，将通过网络直播举行财报电话会议，由首席执行官Justin Kenna及其他管理团队成员主持。
-  📰 [Accesswire](https://www.accesswire.com/950123/gamesquare-to-report-q2-2026-financial-results-on-august-10-2026)
+- **[2026.08.10] Microsoft — 微软在AI投资浪潮中保持强劲现金流**
+  English: Microsoft reported an impressive $19.6 billion in free cash flow for the June quarter, demonstrating a disciplined spending approach compared to competitors heavily investing in AI. This strategy, including leasing data center resources, has contributed to a 29% surge in its stock price. Bernstein also raised Microsoft's price target to $660, maintaining an outperform rating, reflecting optimism about its cloud computing and productivity software segments. The company's GF Value™ suggests it is currently undervalued by 13.1%.
+  中文：总结：微软公布6月季度自由现金流高达196亿美元，显示出在AI投资热潮中采取了审慎的支出策略，与竞争对手形成对比。这一策略，包括租赁数据中心资源，推动其股价上涨29%。伯恩斯坦也将微软目标价上调至660美元，维持跑赢大盘评级，看好其云计算和生产力软件业务。
+  📰 [GuruFocus](https://www.gurufocus.com/news/2311451/microsoft-msft-maintains-cash-flow-amidst-ai-investment-surge)
 
-- **[2026.08.10] Apple Inc. (NASDAQ:AAPL) — 苹果公司股息除息日**
-  English: Monday, August 10, 2026, marks the ex-dividend date for Apple Inc.'s quarterly cash dividend of $0.27 per share. Investors recorded as shareholders by the close of business on this date will be eligible to receive the dividend, which is scheduled to be paid on Thursday, August 13, 2026. This represents an annualized dividend of $1.08 and a dividend yield of 0.3%.
-  中文：总结：2026年8月10日（周一）是苹果公司每股0.27美元季度现金股息的除息日。在此日期收盘前登记为股东的投资者将有资格获得该股息，股息预计将于2026年8月13日（周四）支付。这相当于每年1.08美元的股息和0.3%的股息收益率。
-  📰 [MarketBeat](https://www.marketbeat.com)
+- **[2026.08.10] Apple — 苹果因iPhone定价挑战面临评级下调**
+  English: Apple's stock experienced a pre-market decline of 1.3% following a downgrade by Jefferies from "Hold" to "Underperform," with a revised price target of $263.66. The firm cited challenges in Apple's growth strategy, particularly its reliance on higher-priced iPhones and the scrapping of an all-glass iPhone design due to low yield rates. Rising storage chip costs further complicate its premium pricing strategy, raising concerns about future innovation and product differentiation.
+  中文：总结：苹果股价盘前下跌1.3%，此前Jefferies将其评级从“持有”下调至“跑输大盘”，目标价下调至263.66美元。该机构指出，苹果的增长战略面临挑战，特别是对高价iPhone的依赖以及因良率低而放弃全玻璃iPhone设计。存储芯片成本上升进一步加剧了其高端定价策略的复杂性，引发了对未来创新和产品差异化的担忧。
+  📰 [GuruFocus](https://www.gurufocus.com/news/2311453/apple-inc-aapl-faces-downgrade-amidst-iphone-pricing-challenges)
 
-- **[2026.08.10] Quantum Computing Inc. (QUBT) — 量子计算公司第二季度财报前瞻**
-  English: Quantum Computing Inc. (QUBT) is poised to report its second-quarter earnings on Monday, August 10, 2026. Analysts suggest the stock may face downward pressure post-earnings, as previous revenue growth has largely stemmed from acquisitions rather than organic expansion. Despite a substantial cash balance, the company continues to operate at a loss and low manufacturing utilization, leading to investor concerns about meaningful commercial progress.
-  中文：总结：量子计算公司 (QUBT) 预计将于2026年8月10日（周一）公布第二季度财报。分析师认为，该股在财报发布后可能面临下跌压力，因为此前的营收增长主要来自收购而非内生增长。尽管公司拥有大量现金，但仍处于亏损状态且产能利用率较低，这引发了投资者对其商业进展的担忧。
-  📰 [The Motley Fool](https://www.fool.com/investing/2026/08/07/1-quantum-computing-stock-poised-to-drop-after-aug/)
+- **[2026.08.10] Amazon — 亚马逊投资AI数据中心，股价创新高**
+  English: Amazon announced plans to heavily invest in a natural gas power facility in Texas to supply energy for a new AI data center, highlighting the surging demand for dedicated energy sources for advanced computing. This comes as Amazon's stock recently hit a new all-time high of over $287, rallying after strong quarterly earnings. Its cloud platform, Amazon Web Services (AWS), achieved its fastest growth rate in 18 quarters, contributing significantly to operating income.
+  中文：总结：亚马逊宣布计划在德克萨斯州大力投资天然气发电设施，为新的AI数据中心供电，凸显了对先进计算专用能源的强劲需求。此前，亚马逊股价在强劲的季度财报后飙升，创下超过287美元的历史新高。其云平台AWS实现了18个季度以来最快的增长，为运营收入做出了巨大贡献。
+  📰 [GuruFocus](https://www.gurufocus.com/news/2311454/amzn-looks-119-overvalued-on-gf-value-amid-natural-gas-power)
 
-- **[2026.08.10] US Corporate Earnings — 多家美国公司今日公布季度财报**
-  English: On Monday, August 10, 2026, several US companies are slated to release their quarterly financial results. Notable firms expected to report include AECOM (ACM), Apogee Therapeutics (APGE), AST SpaceMobile (ASTS), Axsome Therapeutics (AXSM), Barrick Mining Corp. (B), California Resources Corp. (CRC), Camtek (CAMT), Embraer SA (EMBJ), Ferguson Enterprises (FERG), Rocket Lab Corp. (RKLB), Simon Property Group (SPG), and YPF SA (YPF). These earnings will provide key insights into sector-specific performance and broader economic health.
-  中文：总结：2026年8月10日（周一），多家美国公司将公布其季度财务业绩。预计发布财报的知名公司包括AECOM (ACM)、Apogee Therapeutics (APGE)、AST SpaceMobile (ASTS)、Axsome Therapeutics (AXSM)、Barrick Mining Corp. (B)、California Resources Corp. (CRC)、Camtek (CAMT)、Embraer SA (EMBJ)、Ferguson Enterprises (FERG)、Rocket Lab Corp. (RKLB)、Simon Property Group (SPG)和YPF SA (YPF)。这些财报将为特定行业表现和整体经济健康状况提供重要见解。
-  📰 [Goodreturns](https://www.goodreturns.in/news/us-stock-market-trading-outlook-for-august-10-14-what-s-next-after-dow-jones-nasdaq-s-1300-pts-rally-1311005.html)
+- **[2026.08.10] First Phosphate — First Phosphate ADRs在纳斯达克全球市场上市**
+  English: First Phosphate Corp. announced that its American Depositary Receipts (ADRs) have been uplisted to the Nasdaq Global Market as a Level 2 ADR under the ticker symbol "PHOS," effective August 10, 2026. This move will see its Level 1 ADRs delisted from the OTCQX market and automatically converted, making them readily tradeable on the Nasdaq Stock Exchange. The company's ADR ratio remains at ten common shares for each ADR.
+  中文：总结：First Phosphate Corp.宣布，其美国存托凭证（ADRs）已于2026年8月10日正式在纳斯达克全球市场上市，股票代码为“PHOS”。此举意味着其一级ADRs将从OTCQX市场退市并自动转换为可在纳斯达克交易的二级ADRs。公司ADR与普通股的比例仍为1:10。
+  📰 [Newsfile Corp.](https://www.newsfilecorp.com/release/221312/RETRANSMISSION-First-Phosphate-Announces-Uplisting-of-American-Depositary-Receipt-ADR-to-Nasdaq-Global-Market-Under-Ticker-Symbol-PHOS)
+
+- **[2026.08.10] Intel — 英特尔宣布发行150亿美元普通股**
+  English: Intel Corporation announced a proposed $15 billion underwritten public offering of common stock today, August 10, 2026. The company intends to use the net proceeds for general corporate purposes, driven by strong and sustainable demand for AI compute and significant growth opportunities in emerging areas like physical AI, purpose-built silicon, and advanced packaging. This offering underscores Intel's commitment to investing in its AI-driven future and expanding its capabilities in the rapidly evolving technology landscape.
+  中文：总结：英特尔公司于2026年8月10日宣布拟发行150亿美元普通股。公司计划将此次发行的净收益用于一般企业用途，主要受人工智能计算的强劲和可持续需求，以及物理AI、专用芯片和先进封装等新兴领域的巨大增长机遇所驱动。此次发行彰显了英特尔对AI驱动未来的投资承诺。
+  📰 [Intel Newsroom](https://www.intc.com/newsroom/news-releases/news-release-details/2026/Intel-Announces-Proposed-15-Billion-Common-Stock-Offering/)
 
 ## 🇯🇵 日本株式市場 / Japan Market
 
-- **[2026.08.10] 株探 — 半導体やAI関連株の再動意を見極め／オープニングコメント**
-  日本語：要約：株探の報道では、関連銘柄とセクターを中心に日本株の物色がどう広がるかが焦点です。半導体、AI、ソフトバンクグループ、輸出関連、金融などの主力株が同じ方向に動けば、日経平均やTOPIXの動きにも継続性が出やすくなります。一方で一部の値がさ株だけが上昇している場合は、市場全体の広がりが弱い可能性があります。次に見るべき点は、円相場、米国ハイテク株先物、出来高、海外投資家の買い姿勢です。決算やレーティング変更が材料の場合は、同業他社への波及も確認したいところです。指数寄与度の高い銘柄だけでなく、中小型株や内需株にも買いが広がるかを見ると、相場の持続力を判断しやすくなります。
-  中文：总结：相关公司和板块 把日本市场的焦点集中到半导体和 AI 产业链。日股中东京电子、Advantest、Kioxia、SoftBank Group 等常被视为 AI 基础设施和全球芯片周期的映射。如果海外芯片业绩或 AI 资本开支继续超预期，日经指数可能继续由高权重半导体股推动；同时也要留意日元和海外资金流向。实盘上还要结合日元汇率、外资买卖、美国科技股隔夜表现以及期货盘变化判断。如果日经上涨主要依赖少数半导体权重股，后续容易受海外芯片消息影响；如果汽车、金融、商社和中小盘也同步走强，说明市场宽度更健康。
-  📰 [株探](https://news.google.com/rss/articles/CBMiYEFVX3lxTE1Zbktwdm04VWhtbHFGeC1RZjViR181UkdaQ2VGNkhlelcwQTJYQW5XUWlrQ1U4UkpMZ0t0TUV4R1pSYUFLNzJ6R0pfbVJmQTdkOGU0RFpFR2lGMjB1bnoxRQ?oc=5)
+- **[2026.08.10] 日経平均・TOPIX — 日本株が大幅反発、米雇用統計受け利上げ観測後退**
+  日本語：10日の日本株式市場は、前週末の米7月雇用統計が予想を下回ったことで米国の早期利上げ観測が後退し、買いが先行しました。日経平均株価は前週末比1363.51円（2.08%）高の6万6970.22円と3日ぶりに大幅反発し、一時6万7000円台を回復する場面も見られました。TOPIXも0.63%高の4100.61ポイントで取引を終え、市場全体に買いが広がりました。特に半導体やAI関連株が指数を牽引し、サービス業、精密機器、非鉄金属などが上昇を主導しました。
+  中文：总结：8月10日日本股市大幅反弹，受上周五美国7月就业数据不及预期影响，市场对美联储提前加息的担忧减弱，买盘积极。日经平均指数上涨1363.51日元（2.08%），收于66970.22日元，为三个交易日以来首次大幅上涨，盘中一度重回67000点。TOPIX指数也上涨0.63%，收于4100.61点，整体市场普涨。半导体和AI相关股票领涨，服务业、精密仪器、有色金属等板块表现突出。
+  📰 [株探](https://kabutan.jp/news/market/20260810_01)
 
-- **[2026.08.10] Yahoo!ファイナンス — 正念場のソフトバンクG株、決算焦点はAI戦略進度－OpenAI傾斜に懸念(Bloomberg)**
-  日本語：要約：Yahoo!ファイナンスの報道では、関連銘柄とセクターを中心に日本株の物色がどう広がるかが焦点です。半導体、AI、ソフトバンクグループ、輸出関連、金融などの主力株が同じ方向に動けば、日経平均やTOPIXの動きにも継続性が出やすくなります。一方で一部の値がさ株だけが上昇している場合は、市場全体の広がりが弱い可能性があります。次に見るべき点は、円相場、米国ハイテク株先物、出来高、海外投資家の買い姿勢です。決算やレーティング変更が材料の場合は、同業他社への波及も確認したいところです。指数寄与度の高い銘柄だけでなく、中小型株や内需株にも買いが広がるかを見ると、相場の持続力を判断しやすくなります。
-  中文：总结：相关公司和板块 把日本市场的焦点集中到半导体和 AI 产业链。日股中东京电子、Advantest、Kioxia、SoftBank Group 等常被视为 AI 基础设施和全球芯片周期的映射。如果海外芯片业绩或 AI 资本开支继续超预期，日经指数可能继续由高权重半导体股推动；同时也要留意日元和海外资金流向。实盘上还要结合日元汇率、外资买卖、美国科技股隔夜表现以及期货盘变化判断。如果日经上涨主要依赖少数半导体权重股，后续容易受海外芯片消息影响；如果汽车、金融、商社和中小盘也同步走强，说明市场宽度更健康。
-  📰 [Yahoo!ファイナンス](https://news.google.com/rss/articles/CBMihwFBVV95cUxQRklfNjFYZEQza1V2UFQ4VkQybmo3cF9WaWZMalIxdlpPWmY0NVN2SzRvc0l6a1VXdkFPTWxOeU8xeThfYUxrUDRPdVFLWWxNZ3FORWZSSWowd19vazQ3cVEwR1FGaEEwaEFKa1dJLWxKN0g0ak9FR19OcExpQ0RMMUZrUTFMd2s?oc=5)
+- **[2026.08.10] ソニーフィナンシャルグループ (8729) — 今期最終利益予想を黒字に上方修正**
+  日本語：ソニーフィナンシャルグループ（8729）は10日、2027年3月期第1四半期（4～6月）の連結最終損益が91.6億円の黒字（前年同期は244億円の赤字）に転換したと発表しました。これに伴い、通期の連結最終利益予想を従来の160億円の赤字から230億円の黒字へと大幅に上方修正しました。生命保険、損害保険、銀行の全3事業で増益を達成し、特に銀行事業は日銀の利上げを追い風に利鞘が改善し急成長しています。
+  中文：总结：索尼金融集团（8729）于10日宣布，2027年3月财年第一季度（4-6月）合并净利润转亏为盈，实现91.6亿日元盈利（去年同期为244亿日元亏损）。同时，公司将全年合并净利润预期从原先的160亿日元亏损大幅上调至230亿日元盈利。寿险、财险和银行三大业务均实现增长，其中银行业务受益于日本央行加息，利差改善，实现快速增长。
+  📰 [株探](https://kabutan.jp/news/market/20260810_02)
 
-- **[2026.08.09] t.co — 【株ライブ】日経先物＋650円｜月曜の日本株、日経平均は25日線を突破できるか**
-  日本語：要約：t.coの報道では、関連銘柄とセクターを中心に日本株の物色がどう広がるかが焦点です。半導体、AI、ソフトバンクグループ、輸出関連、金融などの主力株が同じ方向に動けば、日経平均やTOPIXの動きにも継続性が出やすくなります。一方で一部の値がさ株だけが上昇している場合は、市場全体の広がりが弱い可能性があります。次に見るべき点は、円相場、米国ハイテク株先物、出来高、海外投資家の買い姿勢です。決算やレーティング変更が材料の場合は、同業他社への波及も確認したいところです。指数寄与度の高い銘柄だけでなく、中小型株や内需株にも買いが広がるかを見ると、相場の持続力を判断しやすくなります。
-  中文：总结：相关公司和板块 反映日本股市当天的行业轮动和个股表现。对日股来说，指数变化往往由半导体、汽车、金融、商社和 SoftBank 等权重股共同决定。需要结合日元走势、海外科技股表现、日银政策预期和外资买卖，判断行情是单日事件驱动，还是更广泛的趋势延续。实盘上还要结合日元汇率、外资买卖、美国科技股隔夜表现以及期货盘变化判断。如果日经上涨主要依赖少数半导体权重股，后续容易受海外芯片消息影响；如果汽车、金融、商社和中小盘也同步走强，说明市场宽度更健康。
-  📰 [t.co](https://news.google.com/rss/articles/CBMiO0FVX3lxTE1uOWZPZy1GTTFwSjYtMlFvWC1EVWJSNjZPVjh1aWxDcUppQzhTV1podkpuX2xuaVNjRDFR?oc=5)
+- **[2026.08.10] トヨタ自動車 (7203) — 第1四半期最終利益75.6%増、通期見通しも上方修正**
+  日本語：トヨタ自動車（7203）は、2027年3月期第1四半期（4～6月）の連結最終利益が前年同期比75.6%増の1兆4770億円に拡大したと報じられました。これを受け、通期の連結最終利益予想も従来の3兆円から3兆2500億円へ8.3%上方修正されました。中東情勢の影響を受けつつも、円安の恩恵や原価改善、競争力の高いハイブリッド車の増販が寄与しました。特に北米市場での黒字転換が特筆されます。
+  中文：总结：丰田汽车（7203）公布，2027年3月财年第一季度（4-6月）合并净利润同比增长75.6%至1.477万亿日元。同时，公司将全年合并净利润预期上调8.3%至3.25万亿日元。尽管受到中东局势影响，但日元贬值、成本改善以及高竞争力混合动力汽车销量增加均做出贡献。值得注意的是，北美市场已实现扭亏为盈。
+  📰 [carview!](https://carview.yahoo.co.jp/news/detail/20260810-10705001-carview/)
 
-- **[2026.08.09] みんかぶ — 株価指数先物 【週間展望】―スキャルピング中心ながらSQ通過後をにらんだロング対応 投稿日時： 2026/08/09 17:00[株探]**
-  日本語：要約：みんかぶの報道では、関連銘柄とセクターを中心に日本株の物色がどう広がるかが焦点です。半導体、AI、ソフトバンクグループ、輸出関連、金融などの主力株が同じ方向に動けば、日経平均やTOPIXの動きにも継続性が出やすくなります。一方で一部の値がさ株だけが上昇している場合は、市場全体の広がりが弱い可能性があります。次に見るべき点は、円相場、米国ハイテク株先物、出来高、海外投資家の買い姿勢です。決算やレーティング変更が材料の場合は、同業他社への波及も確認したいところです。指数寄与度の高い銘柄だけでなく、中小型株や内需株にも買いが広がるかを見ると、相場の持続力を判断しやすくなります。
-  中文：总结：相关公司和板块 反映日本股市当天的行业轮动和个股表现。对日股来说，指数变化往往由半导体、汽车、金融、商社和 SoftBank 等权重股共同决定。需要结合日元走势、海外科技股表现、日银政策预期和外资买卖，判断行情是单日事件驱动，还是更广泛的趋势延续。实盘上还要结合日元汇率、外资买卖、美国科技股隔夜表现以及期货盘变化判断。如果日经上涨主要依赖少数半导体权重股，后续容易受海外芯片消息影响；如果汽车、金融、商社和中小盘也同步走强，说明市场宽度更健康。
-  📰 [みんかぶ](https://news.google.com/rss/articles/CBMiSEFVX3lxTE1SaE52Wm0zMWdPaEM5TmhyQXE5SHNFMkthUzNIbE92VnJuSDBsUWVGX3dxZkRZaFZsTVZEOUcyNmZjTXlkRjlQdQ?oc=5)
+- **[2026.08.10] 日本銀行 — 金融政策決定会合「主な意見」公表、追加利上げ観測に注目**
+  日本語：日本銀行は10日、7月30・31日に開催された金融政策決定会合における「主な意見」を公表しました。会合では政策金利が1.0%に据え置かれたものの、一部委員からは1.25%への引き上げを主張する声も出ており、今回の公表内容から物価上昇への警戒度や今後の追加利上げペースに関する手掛かりが注目されます。米国の利上げ観測後退と日米協調介入後の円安動向も相まって、日銀の金融政策への関心が高まっています。
+  中文：总结：日本央行于10日公布了7月30日至31日货币政策会议的“主要意见”。尽管会议决定维持政策利率在1.0%不变，但部分委员主张将利率上调至1.25%，因此此次公布的内容将为市场提供关于通胀警惕程度和未来加息步伐的线索。随着美国加息预期减弱以及日美协调干预后日元走势，市场对日本央行货币政策的关注度正在提高。
+  📰 [日本銀行](https://www.boj.or.jp/announcements/release_2026/rel260810a.htm)
 
-- **[2026.08.09] Yahoo!ファイナンス — 株価指数先物 【週間展望】―スキャルピング中心ながらSQ通過後をにらんだロング対応(株探ニュース)**
-  日本語：要約：Yahoo!ファイナンスの報道では、関連銘柄とセクターを中心に日本株の物色がどう広がるかが焦点です。半導体、AI、ソフトバンクグループ、輸出関連、金融などの主力株が同じ方向に動けば、日経平均やTOPIXの動きにも継続性が出やすくなります。一方で一部の値がさ株だけが上昇している場合は、市場全体の広がりが弱い可能性があります。次に見るべき点は、円相場、米国ハイテク株先物、出来高、海外投資家の買い姿勢です。決算やレーティング変更が材料の場合は、同業他社への波及も確認したいところです。指数寄与度の高い銘柄だけでなく、中小型株や内需株にも買いが広がるかを見ると、相場の持続力を判断しやすくなります。
-  中文：总结：相关公司和板块 反映日本股市当天的行业轮动和个股表现。对日股来说，指数变化往往由半导体、汽车、金融、商社和 SoftBank 等权重股共同决定。需要结合日元走势、海外科技股表现、日银政策预期和外资买卖，判断行情是单日事件驱动，还是更广泛的趋势延续。实盘上还要结合日元汇率、外资买卖、美国科技股隔夜表现以及期货盘变化判断。如果日经上涨主要依赖少数半导体权重股，后续容易受海外芯片消息影响；如果汽车、金融、商社和中小盘也同步走强，说明市场宽度更健康。
-  📰 [Yahoo!ファイナンス](https://news.google.com/rss/articles/CBMihwFBVV95cUxPbUZOTVlnaENMc0pIRmVPUjJ2Zk1Wb1R1LXNCTEhDQjJ4STV6Z1RLVkRrVmZyZmE4OVhMUjRNbi1yYlBWRVNucVVoZS1TUXhSQmZrYWJ2UDhOWGFwYks4ZEdKRlRqcXZlWmp1QjBpeGFQcVNERFFlTHprMjVVM3dfZEJEOVdzREU?oc=5)
+- **[2026.08.10] 円相場 — ドル円158円台で推移、米雇用統計後の円安圧力継続**
+  日本語：10日の外国為替市場では、ドル円相場が1ドル＝158円台半ばで推移しました。前週末に発表された米7月雇用統計が予想を下回ったことで、一時ドル安・円高に振れる場面もありましたが、その後は円売り圧力が根強く、再び158円66銭前後までドル高・円安が進みました。日米協調介入後の円安抑止策や日銀の追加利上げペースが引き続き市場の焦点となっています。
+  中文：总结：10日外汇市场，美元兑日元汇率在158日元区间中段波动。尽管上周末公布的美国7月就业数据不及预期，一度导致美元走弱、日元走强，但随后日元卖压持续，美元兑日元再次升至158.66日元附近。日美协调干预后的日元贬值抑制措施以及日本央行进一步加息的步伐，仍是市场关注的焦点。
+  📰 [株探](https://kabutan.jp/news/market/20260810_03)
 
-- **[2026.08.10] Nikkei 225 — 日经225下跌0.12%**
-  日本語：要約：日经225（Nikkei 225）は15:45 JST時点で65,606.71となり、前日比0.12%下落しています。この価格変化は、日本株のなかで外部環境と個別材料がどの程度一致しているかを見る手がかりになります。半導体や大型輸出株が同時に強ければ、海外テック株や円安を背景にした買いが入りやすい一方、指数だけが動いて個別株の広がりが乏しい場合は短期的な反動にとどまる可能性があります。次は出来高、米国先物、円相場、同業銘柄の連動を確認する場面です。関連ニュースと価格方向が一致するかも重要です。
-  中文：总结：截至 15:45 JST，日经225较前收盘下跌0.12%。这对日本市场的意义在于，它能反映外资、日元汇率和全球科技周期对日股权重股的即时影响。若半导体或大型权重股同步走强，日经指数通常更容易被推升；若个股分化明显，则要警惕指数上涨背后的市场宽度不足。接下来应观察日元、美国科技股期货以及东京市场收盘后的海外反馈。
-  📰 [Yahoo Finance](https://finance.yahoo.com/quote/%5EN225)
+- **[2026.08.10] リクルートホールディングス (6098) — 好決算でストップ高、市場の期待上回る**
+  日本語：リクルートホールディングス（6098）の株価は10日、好決算が好感され、値幅制限いっぱいのストップ高を付けました。今期の営業利益予想を上方修正したことが材料視され、市場の期待を上回る内容が投資家から高く評価されました。同社の好調な業績は、市場全体の買いを誘う要因の一つとなり、日経平均の上昇にも寄与しました。
+  中文：总结：瑞可利控股（6098）股价在10日因业绩利好而触及涨停板。公司上调本财年营业利润预期被视为利好因素，超出市场预期的业绩内容受到投资者高度评价。该公司的强劲业绩成为吸引整体市场买盘的因素之一，也对日经指数的上涨做出了贡献。
+  📰 [OANDA FX/CFD Lab-education](https://www.oanda.com/jp-fx/market-news/japan/202608101758/)
 
-- **[2026.08.10] Tokyo Electron — 东京电子下跌1.50%**
-  日本語：要約：东京电子（Tokyo Electron）は15:30 JST時点で54,500.00となり、前日比1.50%下落しています。この価格変化は、日本株のなかで外部環境と個別材料がどの程度一致しているかを見る手がかりになります。半導体や大型輸出株が同時に強ければ、海外テック株や円安を背景にした買いが入りやすい一方、指数だけが動いて個別株の広がりが乏しい場合は短期的な反動にとどまる可能性があります。次は出来高、米国先物、円相場、同業銘柄の連動を確認する場面です。関連ニュースと価格方向が一致するかも重要です。
-  中文：总结：截至 15:30 JST，东京电子较前收盘下跌1.50%。这对日本市场的意义在于，它能反映外资、日元汇率和全球科技周期对日股权重股的即时影响。若半导体或大型权重股同步走强，日经指数通常更容易被推升；若个股分化明显，则要警惕指数上涨背后的市场宽度不足。接下来应观察日元、美国科技股期货以及东京市场收盘后的海外反馈。
-  📰 [Yahoo Finance](https://finance.yahoo.com/quote/8035.T)
-
-- **[2026.08.10] Advantest — 爱德万测试下跌2.25%**
-  日本語：要約：爱德万测试（Advantest）は15:30 JST時点で32,190.00となり、前日比2.25%下落しています。この価格変化は、日本株のなかで外部環境と個別材料がどの程度一致しているかを見る手がかりになります。半導体や大型輸出株が同時に強ければ、海外テック株や円安を背景にした買いが入りやすい一方、指数だけが動いて個別株の広がりが乏しい場合は短期的な反動にとどまる可能性があります。次は出来高、米国先物、円相場、同業銘柄の連動を確認する場面です。関連ニュースと価格方向が一致するかも重要です。
-  中文：总结：截至 15:30 JST，爱德万测试较前收盘下跌2.25%。这对日本市场的意义在于，它能反映外资、日元汇率和全球科技周期对日股权重股的即时影响。若半导体或大型权重股同步走强，日经指数通常更容易被推升；若个股分化明显，则要警惕指数上涨背后的市场宽度不足。接下来应观察日元、美国科技股期货以及东京市场收盘后的海外反馈。
-  📰 [Yahoo Finance](https://finance.yahoo.com/quote/6857.T)
+- **[2026.08.10] 半導体・AI関連株 — 米国市場の好地合い引き継ぎ、日本株を牽引**
+  日本語：10日の日本株式市場では、前週末の米国市場でハイテク株が買われた流れを引き継ぎ、半導体やAI関連株が相場を大きく牽引しました。アドバンテスト（6857）や東京エレクトロン（8035）といった主力銘柄に買いが集中し、日経平均株価を押し上げる主要因となりました。米国の早期利上げ観測後退が金利に敏感なハイテク株に追い風となり、日本市場でも関連銘柄への物色が活発化しました。
+  中文：总结：8月10日日本股市，受上周末美国科技股上涨的带动，半导体和AI相关股票大幅领涨。爱德万测试（6857）和东京电子（8035）等主要股票受到集中买入，成为推动日经平均指数上涨的主要因素。美国提前加息预期减弱，为对利率敏感的科技股带来利好，日本市场对相关股票的投资也变得活跃。
+  📰 [会社四季報オンライン](https://shikiho.toyokeizai.net/news/0/600000000000000000)
 
 ## 🌍 宏观经济与投资 / Macro & Investment
 
-Here are 6 recent news items concerning macroeconomics and investment, dated 2026.08.10, as requested:
+- **[2026.08.10] US Economy — 美国就业数据疲软，美联储加息预期减弱**
+  English: The U.S. labor market showed unexpected weakness in July, with non-farm payrolls declining by 23,000 jobs, significantly missing expectations for a gain. This softer-than-expected report, coupled with downward revisions to previous months' data, has led most traders to anticipate the Federal Reserve will keep interest rates unchanged in September. The S&P 500 and Nasdaq indices, which saw gains last week partly due to eased rate hike fears, are now looking ahead to this week's crucial CPI inflation data for further monetary policy clues.
+  中文：总结：美国7月非农就业数据意外下降2.3万，远低于市场预期，且前月数据也被下修，这使得市场普遍预计美联储在9月会议上将维持利率不变。受此影响，上周标普500和纳斯达克指数均创下新高。本周即将公布的CPI通胀数据将成为市场关注的焦点，以寻找更多关于货币政策走向的线索。
+  📰 [TipRanks](https://www.google.com/search?q=global)
 
-- **[2026.08.10] US Market — 美股展望：CPI与PPI数据前市场情绪谨慎乐观**
-  English: The US stock market is anticipated to trade moderately bullish for the week of August 10-14, building on strong gains from the previous week. Despite a decline in US nonfarm payroll data, positive macro and internal factors are supporting the bullish sentiment. However, potential overbuying could lead to consolidation in the S&P 500. Investors will closely monitor the upcoming US Consumer Price Index (CPI) and Producer Price Index (PPI) reports, scheduled for Wednesday and Thursday respectively, for further clues on inflation and Federal Reserve policy direction. Corporate earnings will also continue to drive stock-specific movements.
-  中文：总结：美国股市预计在8月10日至14日这一周保持适度看涨，延续上周的强劲涨势。尽管非农就业数据有所下降，但宏观和内部因素仍支持看涨情绪。然而，过度买入可能导致标普500指数出现盘整。市场将密切关注本周三和周四即将公布的美国消费者物价指数（CPI）和生产者物价指数（PPI）报告，以获取通胀和美联储政策方向的进一步线索。公司财报也将继续推动个股表现。
+- **[2026.08.10] Global Oil Market — 油价上涨，中东地缘政治紧张局势加剧**
+  English: Oil prices are experiencing an upward trend today, driven by persistent uncertainty surrounding the reopening of the Strait of Hormuz and mixed signals from ongoing negotiations between the U.S. and Iran. Brent crude and WTI crude both saw gains, reflecting investor concerns over potential supply disruptions in the critical Middle East shipping lane. Geopolitical risks in the region continue to be a significant factor influencing global energy markets and broader market sentiment.
+  中文：总结：受霍尔木兹海峡重新开放的不确定性以及美伊谈判进展不明朗的影响，今日油价上涨。布伦特原油和WTI原油均录得涨幅，反映出投资者对中东关键航运通道潜在供应中断的担忧。该地区的地缘政治风险持续对全球能源市场和整体市场情绪产生重要影响。
+  📰 [TheStreet](https://www.google.com/search?q=global)
 
-- **[2026.08.10] Bitcoin ETF — 比特币ETF资金流入强劲，但价格表现平淡**
-  English: US spot Bitcoin and Ether ETFs recorded their strongest weekly inflows since April, with Bitcoin ETFs alone seeing over $853.5 million in net inflows from August 3 to August 7. BlackRock's IBIT and Fidelity's FBTC led the demand, pushing total Bitcoin ETF assets to around $80 billion. Despite this significant institutional demand, Bitcoin's price has remained relatively flat, hovering near $65,000. This divergence between strong inflows and subdued price action suggests that some institutional selling might be absorbing the buying pressure, leading to a period of flat distribution rather than a breakout.
-  中文：总结：美国现货比特币和以太坊ETF录得自4月以来最强劲的周度资金流入，其中比特币ETF在8月3日至7日期间净流入超过8.535亿美元。尽管机构需求强劲，但比特币价格仍保持相对平稳，徘徊在65,000美元附近。这种资金流入与价格表现之间的背离表明，部分机构抛售可能正在吸收买盘压力，导致市场处于横盘整理而非突破。
+- **[2026.08.10] Nikkei 225 — 日本股市受人工智能及降息预期提振走高**
+  日本語：月曜日の日本株式市場は、日経平均株価が2.08%高、TOPIXが0.63%高と大幅に上昇して取引を終えた。この上昇は、ウォール街の好調な動きと、予想を下回る米国の雇用統計が米連邦準備制度理事会（FRB）の早期利上げ懸念を後退させたことに支えられた。特にテクノロジーおよびAI関連銘柄が市場を牽引し、半導体および人工知能セクターへの投資家の継続的な楽観的な見方を反映した。富士倉、アドバンテスト、東京エレクトロン、古河電気、イビデンなどの株価が大幅に上昇した。消費関連株も好調だった一方、金融株は市場全体に遅れをとり下落した。
+  中文：总结：周一日本股市大幅收高，日经225指数上涨2.08%，东证指数上涨0.63%。市场情绪受到华尔街股市上涨以及美国就业数据弱于预期、从而降低美联储近期加息担忧的提振。科技和人工智能相关股票领涨，反映出投资者对半导体和人工智能领域的持续乐观情绪。
+  📰 [Business Standard](https://www.google.com/search?q=global)
 
-- **[2026.08.10] Gold Market — 黄金价格在美国CPI报告前保持稳定，受地缘政治乐观情绪影响**
-  English: Gold prices are holding steady near $4,342 per ounce, showing a negligible increase after a recent rally. The market is now keenly awaiting the upcoming U.S. Consumer Price Index (CPI) report, which is expected to be a major catalyst for gold's near-term direction. Recent geopolitical optimism, particularly regarding easing U.S.-Iran tensions and hopes for a peace deal, has contributed to gold's earlier gains by reducing safe-haven demand. Central banks' record gold purchases in 2026 continue to provide underlying support for the precious metal, despite technical resistance levels.
-  中文：总结：黄金价格在每盎司4,342美元附近保持稳定，在近期上涨后涨幅微乎其微。市场正密切关注即将公布的美国消费者物价指数（CPI）报告，预计这将是黄金短期走势的主要催化剂。近期地缘政治乐观情绪，特别是美国与伊朗紧张局势的缓解以及和平协议的希望，通过降低避险需求，助推了黄金此前的涨势。2026年各国央行的创纪录黄金购买量继续为贵金属提供基本支撑。
+- **[2026.08.10] Bank of Japan (BOJ) — 日本央行政策转向，日元贬值提振出口企业盈利**
+  日本語：日本銀行（BOJ）は、7月会合の「主な意見」要旨でインフレの上振れリスクを指摘し、一部委員からは利上げペース加速の可能性が示唆された。これは、BOJが金融引き締めを加速する可能性を示唆しており、市場は年内の利上げを強く織り込み始めている。日本の10年物国債利回りも2.81%に上昇し、BOJのタカ派的な姿勢が鮮明になった。同時に、日元安はトヨタ自動車などの日本輸出企業に有利な環境をもたらし、多くの企業が業績予想を上方修正している。この傾向は、2016年度以来最高の調整比率を記録しており、為替変動に対する企業の堅調な対応を示している。
+  中文：总结：日本央行7月会议纪要显示，有委员指出通胀上行风险增加，并暗示可能加快加息步伐，市场对年内加息的预期增强。日本10年期国债收益率也升至2.81%，凸显了日本央行的鹰派立场。与此同时，日元持续贬值为包括丰田汽车在内的日本出口企业带来了显著的商业优势，促使许多公司上调了盈利预测。
+  📰 [GuruFocus](https://www.google.com/search?q=global)
 
-- **[2026.08.10] USD/JPY — 日元兑美元持续疲软，汇率徘徊在159附近**
-  日本語：日本円は対米ドルで引き続き顕著な弱さを示しており、USD/JPYは本日159円前後で推移しています。これは、高橋早苗首相の下での日本の財政政策に対する継続的な懸念と、日本銀行の金融政策スタンスへの市場の期待が主な要因です。市場は、日銀のタカ派的な姿勢への移行を織り込みつつありますが、巨額の財政赤字が円の上昇を抑制しています。
-  中文：总结：日元兑美元持续走弱，USD/JPY汇率徘徊在159附近。这主要受到对首相高桥早苗领导下日本财政政策的持续担忧以及市场对日本央行货币政策立场的预期影响。尽管市场正在消化日本央行转向鹰派的预期，但庞大的财政赤字限制了日元的上涨空间。
+- **[2026.08.10] Bitcoin ETF — 比特币ETF资金流入强劲，美国加密法案停滞**
+  English: U.S. spot Bitcoin Exchange-Traded Funds (ETFs) recorded robust inflows of $853.54 million in the week ending August 7, marking their strongest weekly performance since April, with BlackRock's IBIT leading the charge. This surge in institutional demand comes despite the Digital Asset Market Clarity Act stalling in the Senate, failing to secure the necessary votes before the August recess. Bitcoin's price held firm around $65,200, supported by a softer-than-expected U.S. jobs report which eased Federal Reserve rate hike concerns.
+  中文：总结：截至8月7日的一周内，美国现货比特币ETF录得8.5354亿美元的强劲资金流入，创下4月以来最佳周表现，其中贝莱德的IBIT贡献最大。尽管《数字资产市场清晰法案》在参议院休会前未能获得足够票数而停滞，但机构需求依然旺盛。受美国就业报告弱于预期、缓解美联储加息担忧的支撑，比特币价格稳定在65,200美元附近。
+  📰 [IG UK](https://www.google.com/search?q=global)
 
-- **[2026.08.10] US Stock Market — 美国主要股指强劲反弹，受地缘政治紧张局势缓解提振**
-  English: US stock markets concluded the week ending August 9 with significant gains, as the Dow Jones Industrial Average, S&P 500, and Nasdaq Composite all posted strong weekly advances. The rally was primarily fueled by an easing of geopolitical tensions in the Middle East, particularly diplomatic efforts concerning the Strait of Hormuz, which led to a sharp correction in energy markets. This shift from a defensive posture to a more constructive outlook saw the S&P 500 stabilize and volatility indices moderate, despite persistent concerns about core inflation and the 10-year Treasury yield.
-  中文：总结：截至8月9日当周，美国股市主要股指道琼斯工业平均指数、标普500指数和纳斯达克综合指数均录得强劲周涨幅。此次反弹主要得益于中东地缘政治紧张局势的缓解，特别是霍尔木兹海峡的外交努力，导致能源市场大幅回调。尽管对核心通胀和10年期国债收益率的担忧依然存在，但市场情绪从防御转向建设性，标普500指数企稳，波动性指数趋于缓和。
-
-- **[2026.08.10] International Paper — 华尔街Zen将国际纸业评级下调至“卖出”**
-  English: International Paper (NYSE:IP) has been downgraded by Wall Street Zen from a "hold" to a "sell" rating. This analyst action comes despite the basic materials company reporting quarterly earnings per share (EPS) of $0.04, which surpassed consensus estimates of a $0.04 loss. However, the company's revenue declined by 11.3% year-over-year to $6 billion and it posted a negative net margin, raising concerns among some analysts about its financial health and future prospects. The broader analyst consensus for International Paper remains a "Moderate Buy" with an average price target of $48.75.
-  中文：总结：华尔街Zen将国际纸业（NYSE:IP）的评级从“持有”下调至“卖出”。尽管这家基础材料公司公布的季度每股收益（EPS）为0.04美元，超出市场普遍预期的亏损0.04美元，但其营收同比下降11.3%至60亿美元，并录得负净利润率，引发部分分析师对其财务状况和未来前景的担忧。目前，对国际纸业的普遍分析师共识仍为“适度买入”，平均目标价为48.75美元。
+- **[2026.08.10] People's Bank of China (PBOC) — 中国央行发布五年规划，旨在扩大人民币国际使用**
+  English: China's central bank, the People's Bank of China (PBOC), announced a five-year plan today, reaffirming its commitment to maintaining the yuan's exchange rate stability. The plan also outlines efforts to significantly expand the use of the Chinese currency in international trade and investment. Additionally, the PBOC pledged to mitigate risks in key financial areas and enhance support for consumption, while steadily promoting the high-level opening up of its financial sector.
+  中文：总结：中国人民银行今日发布五年规划，承诺将保持人民币汇率基本稳定，并致力于扩大人民币在国际贸易和投资中的使用。此外，央行还誓言化解重点领域风险，加强对扩大消费的金融支持，并稳步推进金融业高水平对外开放。
+  📰 [WTVB](https://www.google.com/search?q=global)
 
 ---
 ※Stock Market Daily Digest | 2026.08.10
