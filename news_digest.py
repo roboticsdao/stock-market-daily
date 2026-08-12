@@ -164,8 +164,12 @@ def fetch_rss_items(sec, limit=8):
         params = {"q": f"{query} when:1d", "hl": hl, "gl": gl, "ceid": ceid}
         url = "https://news.google.com/rss/search?" + urllib.parse.urlencode(params)
         req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0"})
-        with urllib.request.urlopen(req, timeout=20) as response:
-            root = ET.fromstring(response.read())
+        try:
+            with urllib.request.urlopen(req, timeout=25) as response:
+                root = ET.fromstring(response.read())
+        except Exception as ex:
+            print(f"   {sec['emoji']} RSS query failed: {query[:70]}... ({ex})")
+            continue
 
         for node in root.findall("./channel/item"):
             headline, source = parse_google_news_title(node.findtext("title", ""))
@@ -199,6 +203,10 @@ def mentioned_entities(headline):
     ]
     found = [name for name in names if name.lower() in headline.lower()]
     return "、".join(found[:5]) if found else "相关公司和板块"
+
+def short_event(headline, limit=95):
+    clean = re.sub(r"\s+", " ", headline).strip()
+    return clean if len(clean) <= limit else clean[:limit].rstrip() + "..."
 
 def us_event_points(headline):
     lower = headline.lower()
@@ -243,57 +251,58 @@ def infer_market_summary(sec, item):
     lower = headline.lower()
     section = sec["label"]
     entities = mentioned_entities(headline)
+    event = short_event(headline)
     if "美国" in section or "US" in section:
         if any(k in lower for k in ["micron", "nvidia", "amd", "qualcomm", "broadcom", "chip", "semiconductor"]):
             _, zh_points = us_event_points(headline)
             return (
-                f"{entities} 是这条消息的主要观察对象。"
+                f"{entities} 是这条消息的主要观察对象，具体事件是「{event}」。"
                 + "；".join(zh_points)
                 + "。交易上需要把标题里的具体催化和盘面反应分开看：如果同业、期货和成交量同步确认，说明资金正在沿 AI 芯片链扩散；如果只有单一股票反应，持续性就要打折。"
             )
         if any(k in lower for k in ["tesla", "rivian", "ev", "vehicle"]):
             return (
-                f"{entities} 的变化会直接牵动美股电动车及高 beta 成长股情绪。"
+                f"{entities} 的变化会直接牵动美股电动车及高 beta 成长股情绪，具体事件是「{event}」。"
                 "Tesla 或同类公司的变化常会影响投资者对消费科技、自动驾驶、能源存储和成长股风险偏好的判断。"
                 "如果消息涉及交付、价格、监管或分析师评级，通常会直接牵动期权交易和盘前波动；后续要看成交量、同业联动以及 Nasdaq 风险偏好是否跟随。"
             )
         if any(k in lower for k in ["apple", "microsoft", "amazon", "meta", "alphabet", "magnificent"]):
             return (
-                f"{entities} 仍是大型科技股交易主线中的关键变量。"
+                f"{entities} 仍是大型科技股交易主线中的关键变量，具体事件是「{event}」。"
                 "这些公司权重高，对 S&P 500 和 Nasdaq 的方向影响明显；一旦估值、AI 投入、云业务或广告业务预期变化，指数可能被少数巨头牵引。"
                 "接下来要看资金是继续集中在大型科技股，还是向软件、半导体设备、数据中心电力等周边产业扩散。"
             )
         return (
-            f"{entities} 反映美股盘面或个股情绪正在发生变化。"
+            f"{entities} 反映美股盘面或个股情绪正在发生变化，具体事件是「{event}」。"
             "它的重点不只是指数涨跌，而是资金正在选择哪些行业、哪些主题以及哪些公司作为交易主线。"
             "后续应结合盘前期货、板块涨跌、成交量和分析师评级变化，判断这是短线情绪反弹，还是能够延续的产业趋势。"
         )
     if "日本" in section or "Japan" in section:
         if any(k in headline for k in ["半導体", "アドバンテスト", "東エレク", "東京エレクトロン", "キオクシア", "マイクロン", "AI"]):
             return (
-                f"{entities} 把日本市场的焦点集中到半导体和 AI 产业链。"
+                f"{entities} 把日本市场的焦点集中到半导体和 AI 产业链，具体事件是「{event}」。"
                 "日股中东京电子、Advantest、Kioxia、SoftBank Group 等常被视为 AI 基础设施和全球芯片周期的映射。"
                 "如果海外芯片业绩或 AI 资本开支继续超预期，日经指数可能继续由高权重半导体股推动；同时也要留意日元和海外资金流向。"
             )
         return (
-            f"{entities} 反映日本股市当天的行业轮动和个股表现。"
+            f"{entities} 反映日本股市当天的行业轮动和个股表现，具体事件是「{event}」。"
             "对日股来说，指数变化往往由半导体、汽车、金融、商社和 SoftBank 等权重股共同决定。"
             "需要结合日元走势、海外科技股表现、日银政策预期和外资买卖，判断行情是单日事件驱动，还是更广泛的趋势延续。"
         )
     if any(k in lower for k in ["dollar", "yen", "treasury", "yield", "fed", "rate"]):
         return (
-            f"{entities} 正在影响美元、日元、美债收益率和全球风险资产定价。"
+            f"{entities} 正在影响美元、日元、美债收益率和全球风险资产定价，具体事件是「{event}」。"
             "利率和汇率变化会通过折现率、企业融资成本和跨境资金流影响股票估值，尤其是高估值科技股和出口导向型日股。"
             "后续要观察 Fed 预期、美债收益率曲线、USD/JPY 以及黄金和比特币等避险/风险资产是否同步确认。"
         )
     if any(k in lower for k in ["oil", "gold", "bitcoin", "crypto"]):
         return (
-            f"{entities} 属于需要和股市一起观察的跨资产信号。"
+            f"{entities} 属于需要和股市一起观察的跨资产信号，具体事件是「{event}」。"
             "原油、黄金和比特币的变化会反映通胀预期、避险需求和风险偏好，对能源股、资源股、科技股估值和美元走势都有间接影响。"
             "如果这些资产与股指同向或背离，往往能提示市场是在交易增长、通胀，还是避险。"
         )
     return (
-        f"{entities} 提供了判断股市趋势的背景变量。"
+        f"{entities} 提供了判断股市趋势的背景变量，具体事件是「{event}」。"
         "它需要和指数、行业轮动、汇率、利率和商品价格一起观察，才能判断资金是在追逐风险，还是降低仓位。"
         "对当天交易来说，最重要的是看该信号是否被美股科技股、日股半导体股和美元日元走势共同验证。"
     )
