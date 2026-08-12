@@ -5,6 +5,7 @@ Based on AI News Digest Automation Template v2
 Dependencies: pip install google-genai
 """
 import html, os, subprocess, re, sys, time, json, urllib.parse, urllib.request, xml.etree.ElementTree as ET
+from difflib import SequenceMatcher
 from datetime import datetime, timezone, timedelta
 from pathlib import Path
 
@@ -70,6 +71,8 @@ CRITICAL RULES:
 - For US Market and Macro sections, write a 300-500 character English body summary, not just a headline.
 - For Japan Market, write a 300-500 character Japanese body summary.
 - Always keep the Chinese auxiliary summary after the local-language body.
+- Every body and Chinese summary must be driven by that article's specific headline. Do not reuse any sentence or generic closing paragraph across items.
+- Match the analysis to the catalyst: earnings, financing, price changes, regulation, rates, currencies, commodities, and index breadth require different implications and follow-up indicators.
 - NEVER say "sorry", "unable to find", "无法获取". FORBIDDEN.
 - Each item MUST start with: - **[YYYY.MM.DD] Company/Index — Chinese summary**
 - Source URL: direct article URLs only. NEVER use vertexaisearch URLs. Use publication homepage if unsure.
@@ -132,12 +135,60 @@ def call_gemini(prompt, use_search=True):
     return (client.models.generate_content(model=CONFIG["model"],contents=prompt,config=types.GenerateContentConfig(**cfg)).text or "")
 
 def has_real_content(t):
-    if "- **[" not in t or "很抱歉" in t or "无法获取" in t or "sorry" in t.lower():
+    if t.count("- **[") < 4 or "很抱歉" in t or "无法获取" in t or "sorry" in t.lower():
         return False
     dates = re.findall(r'-\s*\*\*\[(\d{4}[\.\-/]\d{2}[\.\-/]\d{2})\]', t)
     normalized_today = DATE_STR.replace(".", "-")
     normalized_dates = [d.replace("/", "-").replace(".", "-") for d in dates]
     return bool(normalized_dates) and all(d == normalized_today for d in normalized_dates)
+
+def digest_summary_records(text):
+    records = []
+    starts = list(re.finditer(r"(?m)^-\s*\*\*\[[^\]]+\]\s*(.+?)\*\*", text or ""))
+    for index, match in enumerate(starts):
+        end = starts[index + 1].start() if index + 1 < len(starts) else len(text)
+        block = text[match.end():end]
+        title = match.group(1).strip()
+        for line in block.splitlines():
+            clean = line.strip()
+            if re.match(r"^(English|En|中文|日本語)\s*[：:]", clean, re.I):
+                records.append((title, re.sub(r"^(English|En|中文|日本語)\s*[：:]\s*", "", clean, flags=re.I)))
+    return records
+
+def digest_quality_issues(text):
+    records = digest_summary_records(text)
+    issues, sentence_owner = [], {}
+    for title, summary in records:
+        for sentence in re.split(r"(?<=[.!?。！？])\s*", summary):
+            normalized = re.sub(r"\s+", " ", sentence).strip().lower()
+            if len(normalized) < 45:
+                continue
+            previous = sentence_owner.get(normalized)
+            if previous and previous != title:
+                issues.append(f'repeated sentence in "{previous}" and "{title}"')
+            else:
+                sentence_owner[normalized] = title
+    for i, (title_a, summary_a) in enumerate(records):
+        lang_a = "cjk" if re.search(r"[\u3040-\u30ff\u3400-\u9fff]", summary_a) else "en"
+        norm_a = re.sub(r"\s+", "", summary_a).lower()
+        for title_b, summary_b in records[i + 1:]:
+            lang_b = "cjk" if re.search(r"[\u3040-\u30ff\u3400-\u9fff]", summary_b) else "en"
+            if lang_a != lang_b:
+                continue
+            norm_b = re.sub(r"\s+", "", summary_b).lower()
+            ratio = SequenceMatcher(None, norm_a, norm_b).ratio()
+            if ratio >= 0.88:
+                issues.append(f'highly similar summaries ({ratio:.0%}) in "{title_a}" and "{title_b}"')
+    return issues
+
+def validate_digest_quality(text):
+    issues = digest_quality_issues(text)
+    if issues:
+        print("   Summary quality check failed:")
+        for issue in issues[:8]:
+            print(f"   - {issue}")
+        return False
+    return True
 
 def strip_html(value):
     value = re.sub(r"<[^>]+>", " ", value or "")
@@ -161,6 +212,7 @@ def fetch_rss_items(sec, limit=8):
     exclude_terms = sec.get("exclude_terms", [])
     items, seen = [], set()
     for query in queries:
+        query_added = 0
         params = {"q": f"{query} when:1d", "hl": hl, "gl": gl, "ceid": ceid}
         url = "https://news.google.com/rss/search?" + urllib.parse.urlencode(params)
         req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0"})
@@ -180,6 +232,8 @@ def fetch_rss_items(sec, limit=8):
             combined = f"{headline} {source}"
             if any(term.lower() in combined.lower() for term in exclude_terms):
                 continue
+            if not is_relevant_market_item(sec, combined):
+                continue
             key = re.sub(r"\W+", "", headline.lower())[:90]
             if key in seen:
                 continue
@@ -191,9 +245,27 @@ def fetch_rss_items(sec, limit=8):
                 continue
             seen.add(key)
             items.append({"date": dt.strftime("%Y.%m.%d"), "headline": headline, "source": source, "link": link, "dt": dt})
-            if len(items) >= limit:
-                return sorted(items, key=lambda x: x["dt"], reverse=True)
-    return sorted(items, key=lambda x: x["dt"], reverse=True)
+            query_added += 1
+            if query_added >= 4:
+                break
+    ordered = sorted(items, key=lambda x: x["dt"], reverse=True)
+    selected, bucket_counts, source_counts = [], {}, {}
+    for item in ordered:
+        bucket = market_story_bucket(sec, item["headline"])
+        source_key = item["source"].lower()
+        if bucket_counts.get(bucket, 0) >= 2 or source_counts.get(source_key, 0) >= 2:
+            continue
+        selected.append(item)
+        bucket_counts[bucket] = bucket_counts.get(bucket, 0) + 1
+        source_counts[source_key] = source_counts.get(source_key, 0) + 1
+        if len(selected) >= limit:
+            return selected
+    for item in ordered:
+        if item not in selected:
+            selected.append(item)
+        if len(selected) >= limit:
+            break
+    return selected
 
 def mentioned_entities(headline):
     names = [
@@ -207,6 +279,209 @@ def mentioned_entities(headline):
 def short_event(headline, limit=95):
     clean = re.sub(r"\s+", " ", headline).strip()
     return clean if len(clean) <= limit else clean[:limit].rstrip() + "..."
+
+def sentence_event(headline, limit=70):
+    clean = re.sub(r"[.!?。！？\"“”]+", " ", headline)
+    clean = re.sub(r"\s+", " ", clean).strip()
+    return clean if len(clean) <= limit else clean[:limit].rstrip() + "…"
+
+def market_topic(sec, headline):
+    lower = headline.lower()
+    if any(k in lower for k in ["earnings", "results", "guidance", "forecast", "決算", "业绩", "財報"]):
+        return "earnings"
+    if any(k in lower for k in ["financing", "fund", "$500 billion", "capital raise", "調達", "融资"]):
+        return "financing"
+    if any(k in lower for k in ["price hike", "increased the price", "値上げ", "涨价"]):
+        return "pricing"
+    if any(k in lower for k in ["upgrade", "downgrade", "rating", "price target", "analyst", "レーティング"]):
+        return "analyst"
+    if "日本" in sec["label"] or "Japan" in sec["label"]:
+        if any(k in lower for k in ["半導体", "アドテスト", "アドバンテスト", "東京エレクトロン", "東エレク", "キオクシア", "aiデータセンター"]):
+            return "semiconductor"
+        if any(k in lower for k in ["日経平均", "topix", "株価指数", "東京株式", "日本株"]):
+            return "market_breadth"
+    if any(k in lower for k in ["inflation", "cpi", "ppi", "インフレ", "物価"]):
+        return "inflation"
+    if any(k in lower for k in ["oil", "crude", "原油", "wti"]):
+        return "oil"
+    if any(k in lower for k in ["gold", "silver", "黄金", "金価格"]):
+        return "gold"
+    if any(k in lower for k in ["bitcoin", "crypto", "ビットコイン", "暗号"]):
+        return "crypto"
+    if any(k in lower for k in ["treasury", "yield", "fed", "rate cut", "interest rate", "国債", "金利", "利回り"]):
+        return "rates"
+    if any(k in lower for k in ["yen", "usd/jpy", "dollar", "円安", "円高", "為替"]):
+        return "currency"
+    if any(k in lower for k in ["nvidia", "micron", "amd", "qualcomm", "broadcom", "chip", "semiconductor", "半導体", "アドテスト", "東京エレクトロン"]):
+        return "semiconductor"
+    if any(k in lower for k in ["apple", "microsoft", "amazon", "meta", "alphabet", "tesla", "softbank", "ソフトバンク", "toyota", "トヨタ", "sony", "ソニー"]):
+        return "company"
+    if any(k in lower for k in ["premarket", "pre-market", "surge", "rises", "gaining", "falls", "selloff", "rebound", "上昇", "下落", "反発", "続伸"]):
+        return "price_move"
+    if any(k in lower for k in ["nikkei", "topix", "日経平均", "株価指数", "market", "markets", "stocks"]):
+        return "market_breadth"
+    return "general"
+
+MARKET_PROFILES = {
+    "earnings": {
+        "label_en": "earnings and guidance", "label_zh": "财报与业绩指引", "label_jp": "決算・業績見通し",
+        "en": "Reported revenue, margins, guidance, and management commentary can reset expectations for both the company and suppliers exposed to the same demand cycle",
+        "zh": "收入、利润率、业绩指引和管理层表态会重新校准公司及同一需求周期内供应商的盈利预期",
+        "jp": "売上高、利益率、会社計画、経営陣の説明は、当該企業だけでなく同じ需要循環に属する供給企業の期待も修正します",
+        "watch_en": "the gap versus consensus, after-hours volume, estimate revisions, and peer guidance",
+        "watch_zh": "实际结果与市场预期的差距、盘后成交量、盈利预测调整和同业指引",
+        "watch_jp": "市場予想との差、時間外の出来高、業績予想の修正、同業他社の見通し",
+    },
+    "financing": {
+        "label_en": "capital financing", "label_zh": "融资与资本开支", "label_jp": "資金調達・設備投資",
+        "en": "The financing structure determines who carries construction, utilization, credit, and dilution risk, so the headline amount is less informative than the terms and committed customers",
+        "zh": "融资结构决定建设、利用率、信用和股权稀释风险由谁承担，因此标题金额不如资金条款、担保安排和已承诺客户重要",
+        "jp": "資金調達の構造は建設、稼働率、信用、希薄化のリスク分担を決めるため、金額より条件と確定顧客が重要です",
+        "watch_en": "funding terms, balance-sheet exposure, build schedule, contracted demand, and return on invested capital",
+        "watch_zh": "融资条款、表内风险、建设进度、已签约需求和投入资本回报率",
+        "watch_jp": "調達条件、貸借対照表への影響、建設日程、契約済み需要、投下資本利益率",
+    },
+    "pricing": {
+        "label_en": "product pricing", "label_zh": "产品定价", "label_jp": "製品価格",
+        "en": "A price increase can protect gross margin but may weaken unit demand, accelerate replacement-cycle delays, or create room for competitors at lower price points",
+        "zh": "提价可以保护毛利率，但也可能压低销量、延长换机周期，并给价格更低的竞争者留下空间",
+        "jp": "値上げは粗利益率を守る一方、販売台数の減少、買い替え周期の長期化、低価格競合への流出を招く可能性があります",
+        "watch_en": "regional price lists, unit demand, carrier or channel incentives, mix shift, and gross-margin guidance",
+        "watch_zh": "各地区价目表、销量变化、渠道补贴、产品组合迁移和毛利率指引",
+        "watch_jp": "地域別価格、販売台数、販売奨励金、製品構成、粗利益率見通し",
+    },
+    "analyst": {
+        "label_en": "analyst repricing", "label_zh": "分析师评级调整", "label_jp": "アナリスト評価",
+        "en": "An analyst call changes positioning most when it contains a new earnings estimate, valuation framework, or channel datapoint rather than a price-target change alone",
+        "zh": "评级变化只有在伴随新的盈利预测、估值方法或渠道数据时才更可能改变资金仓位，单独调整目标价的信息量较低",
+        "jp": "評価変更は、新しい利益予想、評価手法、販売チャネル情報を伴う場合に影響が大きく、目標株価だけの変更は情報量が限られます",
+        "watch_en": "estimate revisions, target assumptions, other firms' follow-through, short interest, and options activity",
+        "watch_zh": "盈利预测修订、目标价假设、其他机构是否跟进、空头仓位和期权活动",
+        "watch_jp": "利益予想の修正、目標株価の前提、他社の追随、空売り残高、オプション取引",
+    },
+    "semiconductor": {
+        "label_en": "semiconductor demand", "label_zh": "半导体需求链", "label_jp": "半導体需要",
+        "en": "The read-through depends on which layer is moving: accelerators, memory, networking, foundry capacity, or equipment have different revenue timing and margin sensitivity",
+        "zh": "影响要按加速器、存储、网络、晶圆代工或设备等环节拆分，因为各环节收入确认时间、库存周期和利润率敏感度不同",
+        "jp": "アクセラレーター、メモリー、ネットワーク、受託製造、製造装置では売上計上の時期と利益率感応度が異なるため、どの層の材料かを分けて見る必要があります",
+        "watch_en": "order visibility, memory or capacity pricing, customer concentration, capex plans, and SOX peer breadth",
+        "watch_zh": "订单可见度、存储或产能价格、客户集中度、资本开支计划和芯片同业涨跌宽度",
+        "watch_jp": "受注の可視性、メモリー・生産能力の価格、顧客集中、設備投資計画、関連銘柄の広がり",
+    },
+    "company": {
+        "label_en": "company-specific technology", "label_zh": "大型科技公司个股事件", "label_jp": "大型テクノロジー企業の個別材料",
+        "en": "The company-level catalyst can affect index direction because of market-cap weight, but the fundamental channel differs across cloud, devices, advertising, vehicles, and AI investment",
+        "zh": "大型公司的市值权重会放大个股消息对指数的影响，但云服务、终端、广告、汽车和 AI 投资的盈利传导路径并不相同",
+        "jp": "時価総額の大きさから指数への影響は強いものの、クラウド、端末、広告、自動車、AI投資では利益への伝わり方が異なります",
+        "watch_en": "the named business metric, management guidance, supplier reaction, index contribution, and whether peers share the move",
+        "watch_zh": "标题对应的业务指标、管理层指引、供应商反应、指数贡献度和同业是否同步",
+        "watch_jp": "該当事業の指標、経営陣の見通し、供給企業の反応、指数寄与度、同業の連動",
+    },
+    "price_move": {
+        "label_en": "stock-price movement", "label_zh": "个股价格异动", "label_jp": "株価変動",
+        "en": "The move is informative only when price direction is supported by volume, a clearly identified catalyst, and participation from economically related peers",
+        "zh": "价格异动只有在成交量、明确催化和相关同业共同确认时才更有信息价值，否则可能只是期权、空头回补或短线仓位造成",
+        "jp": "株価変動は、出来高、明確な材料、関連企業の同方向の動きがそろって初めて情報価値が高まり、単独の値動きは短期需給の可能性があります",
+        "watch_en": "opening and closing volume, options flow, news timing, peer moves, and whether gains hold after the first hour",
+        "watch_zh": "开收盘成交量、期权资金流、消息发布时间、同业表现和首小时后涨幅是否保留",
+        "watch_jp": "寄り付き・引けの出来高、オプション、材料時刻、同業の値動き、初動後の持続性",
+    },
+    "market_breadth": {
+        "label_en": "index and market breadth", "label_zh": "指数与市场宽度", "label_jp": "指数・市場の広がり",
+        "en": "An index move can be driven by a few heavyweights, so advance-decline breadth and sector participation are needed to distinguish broad risk appetite from concentration",
+        "zh": "指数可能被少数权重股推动，因此必须结合涨跌家数和行业参与度，区分广泛风险偏好与集中交易",
+        "jp": "指数は少数の値がさ株で動くため、騰落銘柄数と業種別参加を確認し、市場全体の買いと集中物色を分ける必要があります",
+        "watch_en": "advance-decline data, equal-weight indexes, futures, sector leadership, foreign flows, and closing breadth",
+        "watch_zh": "涨跌家数、等权指数、期货、领涨行业、外资流向和收盘市场宽度",
+        "watch_jp": "騰落銘柄数、等ウェイト指数、先物、主導業種、海外投資家動向、引け時の広がり",
+    },
+    "rates": {
+        "label_en": "interest rates and bond yields", "label_zh": "利率与债券收益率", "label_jp": "金利・債券利回り",
+        "en": "A yield change alters equity discount rates, bank margins, financing costs, and the relative appeal of long-duration growth stocks",
+        "zh": "收益率变化会同时影响股票折现率、银行息差、企业融资成本以及长期成长股相对债券的吸引力",
+        "jp": "利回りの変化は株式の割引率、銀行利ざや、企業の資金調達費用、長期成長株の相対魅力を動かします",
+        "watch_en": "the real-yield move, curve shape, Fed pricing, dollar response, and rate-sensitive equity sectors",
+        "watch_zh": "实际收益率、曲线形态、Fed 定价、美元反应和利率敏感行业",
+        "watch_jp": "実質金利、イールドカーブ、Fed織り込み、ドル反応、金利敏感業種",
+    },
+    "currency": {
+        "label_en": "foreign exchange", "label_zh": "汇率", "label_jp": "為替",
+        "en": "A yen or dollar move changes exporter earnings translation, import costs, intervention risk, and cross-border allocation into US and Japanese equities",
+        "zh": "美元或日元变化会影响出口企业利润换算、进口成本、干预风险以及美日股票之间的跨境资金配置",
+        "jp": "円・ドルの変動は輸出企業の換算利益、輸入コスト、介入リスク、日米株への国際資金配分を変えます",
+        "watch_en": "spot and options levels, rate differentials, official comments, exporter shares, and foreign equity flows",
+        "watch_zh": "现货与期权价位、利差、官方表态、出口股表现和外资流向",
+        "watch_jp": "現物・オプション水準、金利差、当局発言、輸出株、海外投資家フロー",
+    },
+    "oil": {
+        "label_en": "oil and inflation", "label_zh": "原油与通胀", "label_jp": "原油・インフレ",
+        "en": "Oil affects energy earnings and inflation expectations while raising input and transport costs for airlines, chemicals, manufacturers, and consumers",
+        "zh": "原油既影响能源公司盈利和通胀预期，也会抬升航空、化工、制造和消费部门的投入与运输成本",
+        "jp": "原油はエネルギー企業の利益とインフレ期待を押し上げる一方、航空、化学、製造、消費の投入・輸送費を増やします",
+        "watch_en": "the futures curve, inventory data, geopolitical supply risk, energy-sector breadth, and inflation breakevens",
+        "watch_zh": "期货曲线、库存数据、地缘供应风险、能源板块宽度和通胀盈亏平衡率",
+        "watch_jp": "先物曲線、在庫統計、地政学的供給リスク、エネルギー株の広がり、期待インフレ率",
+    },
+    "gold": {
+        "label_en": "precious metals", "label_zh": "黄金与贵金属", "label_jp": "金・貴金属",
+        "en": "Gold responds to real yields, the dollar, central-bank demand, and hedging flows, so a rally can reflect falling funding costs or rising risk aversion",
+        "zh": "黄金受实际利率、美元、央行需求和避险资金共同影响，因此上涨既可能来自资金成本下降，也可能来自风险厌恶升温",
+        "jp": "金は実質金利、ドル、中央銀行需要、ヘッジ資金に反応するため、上昇は資金コスト低下とリスク回避のどちらでも起こり得ます",
+        "watch_en": "real yields, dollar direction, ETF flows, central-bank purchases, miner shares, and silver confirmation",
+        "watch_zh": "实际利率、美元方向、黄金 ETF 流量、央行购金、矿业股和白银是否确认",
+        "watch_jp": "実質金利、ドル方向、ETF資金、中央銀行購入、金鉱株、銀の追随",
+    },
+    "crypto": {
+        "label_en": "crypto risk appetite", "label_zh": "加密资产风险偏好", "label_jp": "暗号資産のリスク選好",
+        "en": "Crypto prices combine liquidity, leverage, regulatory, and technology-specific flows, making them a useful but imperfect indicator for speculative equity appetite",
+        "zh": "加密资产同时受流动性、杠杆、监管和技术自身资金影响，可辅助观察投机风险偏好，但不能直接替代股票市场信号",
+        "jp": "暗号資産は流動性、レバレッジ、規制、固有の技術資金に左右され、投機的な株式需要の参考にはなりますが完全な代替指標ではありません",
+        "watch_en": "spot ETF flows, funding rates, leverage liquidations, regulatory news, and correlation with growth equities",
+        "watch_zh": "现货 ETF 流量、资金费率、杠杆清算、监管消息和成长股相关性",
+        "watch_jp": "現物ETF資金、資金調達率、強制清算、規制ニュース、成長株との相関",
+    },
+    "inflation": {
+        "label_en": "inflation data", "label_zh": "通胀数据", "label_jp": "インフレ指標",
+        "en": "Inflation surprises change the expected policy path and therefore the discount rate applied to equities, with growth stocks usually more sensitive than defensives",
+        "zh": "通胀数据偏离预期会改变政策路径和股票折现率，估值较高的成长股通常比防御板块更敏感",
+        "jp": "インフレ指標の予想差は政策金利の経路と株式の割引率を変え、一般に高評価の成長株ほど影響を受けます",
+        "watch_en": "core versus headline components, services inflation, wage data, yield reaction, and Fed-funds repricing",
+        "watch_zh": "核心与总体分项、服务通胀、工资数据、收益率反应和联邦基金利率重定价",
+        "watch_jp": "総合・コア内訳、サービス価格、賃金、利回り反応、政策金利織り込み",
+    },
+    "general": {
+        "label_en": "market-specific information", "label_zh": "市场特定事件", "label_jp": "個別の市場材料",
+        "en": "The headline identifies a potential catalyst, but its trading value depends on a measurable link to earnings, valuation, positioning, or capital flows",
+        "zh": "标题给出了潜在催化，但交易价值取决于它能否通过盈利、估值、仓位或资金流形成可测量影响",
+        "jp": "見出しは材料候補を示しますが、利益、評価、ポジション、資金フローへの測定可能な影響がなければ取引価値は限定的です",
+        "watch_en": "the underlying data, timing, affected securities, volume response, and confirmation from related markets",
+        "watch_zh": "底层数据、发生时间、受影响证券、成交量反应和相关市场确认",
+        "watch_jp": "基礎データ、発生時刻、影響銘柄、出来高反応、関連市場の確認",
+    },
+}
+
+def is_relevant_market_item(sec, headline):
+    lower = headline.lower()
+    blocked = [
+        "stock price, news, quote & history", "price prediction", "prediction:", "tokenized stock", "xstock",
+        "no-brainer", "better buy", "is a buy now", "i'd buy", "top stocks", "top 5 picks", "dark horse",
+        "best drone stocks", "how to invest", "could send", "could also crash", "in july", "mioeqy", "mshale",
+        "international stock market performance", "to buy now",
+    ]
+    if any(term in lower for term in blocked) or re.search(r"[\u0600-\u06ff\uac00-\ud7af]", headline):
+        return False
+    if "美国" in sec["label"] or "US" in sec["label"]:
+        return any(term in lower for term in ["stock", "shares", "wall street", "nasdaq", "s&p", "dow", "earnings", "nvidia", "apple", "microsoft", "tesla", "micron", "amd", "broadcom", "qualcomm"])
+    if "日本" in sec["label"] or "Japan" in sec["label"]:
+        return any(term in lower for term in ["日経", "topix", "日本株", "株価", "半導体", "ソフトバンク", "東京エレクトロン", "アドテスト", "トヨタ", "ソニー", "任天堂"])
+    return any(term in lower for term in ["market", "stock", "inflation", "treasury", "yield", "fed", "rate", "dollar", "yen", "oil", "gold", "bitcoin", "crypto"])
+
+def market_story_bucket(sec, headline):
+    entities = mentioned_entities(headline)
+    topic = market_topic(sec, headline)
+    if entities != "相关公司和板块" and not ("宏观" in sec["label"] or "Macro" in sec["label"]):
+        return entities.split("、", 1)[0].lower()
+    return topic
 
 def us_event_points(headline):
     lower = headline.lower()
@@ -248,119 +523,40 @@ def us_event_points(headline):
 
 def infer_market_summary(sec, item):
     headline = item["headline"]
-    lower = headline.lower()
-    section = sec["label"]
+    source = item.get("source", "新闻来源")
     entities = mentioned_entities(headline)
+    if entities == "相关公司和板块":
+        entities = source
     event = short_event(headline)
-    if "美国" in section or "US" in section:
-        if any(k in lower for k in ["micron", "nvidia", "amd", "qualcomm", "broadcom", "chip", "semiconductor"]):
-            _, zh_points = us_event_points(headline)
-            return (
-                f"{entities} 是这条消息的主要观察对象，具体事件是「{event}」。"
-                + "；".join(zh_points)
-                + "。交易上需要把标题里的具体催化和盘面反应分开看：如果同业、期货和成交量同步确认，说明资金正在沿 AI 芯片链扩散；如果只有单一股票反应，持续性就要打折。"
-            )
-        if any(k in lower for k in ["tesla", "rivian", "ev", "vehicle"]):
-            return (
-                f"{entities} 的变化会直接牵动美股电动车及高 beta 成长股情绪，具体事件是「{event}」。"
-                "Tesla 或同类公司的变化常会影响投资者对消费科技、自动驾驶、能源存储和成长股风险偏好的判断。"
-                "如果消息涉及交付、价格、监管或分析师评级，通常会直接牵动期权交易和盘前波动；后续要看成交量、同业联动以及 Nasdaq 风险偏好是否跟随。"
-            )
-        if any(k in lower for k in ["apple", "microsoft", "amazon", "meta", "alphabet", "magnificent"]):
-            return (
-                f"{entities} 仍是大型科技股交易主线中的关键变量，具体事件是「{event}」。"
-                "这些公司权重高，对 S&P 500 和 Nasdaq 的方向影响明显；一旦估值、AI 投入、云业务或广告业务预期变化，指数可能被少数巨头牵引。"
-                "接下来要看资金是继续集中在大型科技股，还是向软件、半导体设备、数据中心电力等周边产业扩散。"
-            )
-        return (
-            f"{entities} 反映美股盘面或个股情绪正在发生变化，具体事件是「{event}」。"
-            "它的重点不只是指数涨跌，而是资金正在选择哪些行业、哪些主题以及哪些公司作为交易主线。"
-            "后续应结合盘前期货、板块涨跌、成交量和分析师评级变化，判断这是短线情绪反弹，还是能够延续的产业趋势。"
-        )
-    if "日本" in section or "Japan" in section:
-        if any(k in headline for k in ["半導体", "アドバンテスト", "東エレク", "東京エレクトロン", "キオクシア", "マイクロン", "AI"]):
-            return (
-                f"{entities} 把日本市场的焦点集中到半导体和 AI 产业链，具体事件是「{event}」。"
-                "日股中东京电子、Advantest、Kioxia、SoftBank Group 等常被视为 AI 基础设施和全球芯片周期的映射。"
-                "如果海外芯片业绩或 AI 资本开支继续超预期，日经指数可能继续由高权重半导体股推动；同时也要留意日元和海外资金流向。"
-            )
-        return (
-            f"{entities} 反映日本股市当天的行业轮动和个股表现，具体事件是「{event}」。"
-            "对日股来说，指数变化往往由半导体、汽车、金融、商社和 SoftBank 等权重股共同决定。"
-            "需要结合日元走势、海外科技股表现、日银政策预期和外资买卖，判断行情是单日事件驱动，还是更广泛的趋势延续。"
-        )
-    if any(k in lower for k in ["dollar", "yen", "treasury", "yield", "fed", "rate"]):
-        return (
-            f"{entities} 正在影响美元、日元、美债收益率和全球风险资产定价，具体事件是「{event}」。"
-            "利率和汇率变化会通过折现率、企业融资成本和跨境资金流影响股票估值，尤其是高估值科技股和出口导向型日股。"
-            "后续要观察 Fed 预期、美债收益率曲线、USD/JPY 以及黄金和比特币等避险/风险资产是否同步确认。"
-        )
-    if any(k in lower for k in ["oil", "gold", "bitcoin", "crypto"]):
-        return (
-            f"{entities} 属于需要和股市一起观察的跨资产信号，具体事件是「{event}」。"
-            "原油、黄金和比特币的变化会反映通胀预期、避险需求和风险偏好，对能源股、资源股、科技股估值和美元走势都有间接影响。"
-            "如果这些资产与股指同向或背离，往往能提示市场是在交易增长、通胀，还是避险。"
-        )
+    reference = sentence_event(headline, 55)
+    profile = MARKET_PROFILES[market_topic(sec, headline)]
     return (
-        f"{entities} 提供了判断股市趋势的背景变量，具体事件是「{event}」。"
-        "它需要和指数、行业轮动、汇率、利率和商品价格一起观察，才能判断资金是在追逐风险，还是降低仓位。"
-        "对当天交易来说，最重要的是看该信号是否被美股科技股、日股半导体股和美元日元走势共同验证。"
+        f"{source}报道的具体事件是「{event}」，主题属于{profile['label_zh']}。"
+        f"对{entities}以及「{reference}」所涉及的资产而言，{profile['zh']}。"
+        f"后续应围绕「{reference}」核实{profile['watch_zh']}；这些项目比套用统一的指数、成交量或同业模板更能验证该新闻本身是否正在改变市场定价。"
     )
 
-def ensure_summary_depth(summary, sec):
+def ensure_summary_depth(summary, sec, item=None):
     if len(summary) >= 180:
         return summary
-    if "美国" in sec["label"] or "US" in sec["label"]:
-        extra = (
-            "实盘上还应观察期货开盘后的成交量、期权隐含波动率、龙头股是否带动同业，以及资金是否从指数权重股扩散到中小型成长股。"
-            "如果消息只推动单一公司而板块没有跟随，趋势持续性会弱一些；如果半导体、软件、云计算和电力基础设施同时响应，说明市场正在交易更完整的 AI 资本开支链条。"
-        )
-    elif "日本" in sec["label"] or "Japan" in sec["label"]:
-        extra = (
-            "实盘上还要结合日元汇率、外资买卖、美国科技股隔夜表现以及期货盘变化判断。"
-            "如果日经上涨主要依赖少数半导体权重股，后续容易受海外芯片消息影响；如果汽车、金融、商社和中小盘也同步走强，说明市场宽度更健康。"
-        )
-    else:
-        extra = (
-            "实盘上要看该宏观信号是否同时影响美元、利率、商品和股指。"
-            "如果美元与美债收益率继续上行，高估值科技股可能承压；如果黄金、原油或比特币与股市出现背离，则说明市场对通胀、避险或流动性的判断还不一致。"
-        )
-    return summary + extra
+    headline = item["headline"] if item else sec["label"]
+    reference = sentence_event(headline, 55)
+    profile = MARKET_PROFILES[market_topic(sec, headline)]
+    return summary + f" 对「{reference}」的补充验证应继续使用{profile['watch_zh']}，而不是加入与该事件无关的通用观察清单。"
 
 def english_market_body(sec, item, summary):
     headline = item["headline"]
     source = item.get("source", "the source")
     entities = mentioned_entities(headline).replace("、", ", ")
     if entities == "相关公司和板块":
-        entities = "the relevant assets and sectors"
-    lower = headline.lower()
-    if "美国" in sec["label"] or "US" in sec["label"]:
-        if any(k in lower for k in ["micron", "nvidia", "amd", "qualcomm", "broadcom", "chip", "semiconductor"]):
-            theme = "AI chips, memory, data centers, and semiconductor equipment"
-        elif any(k in lower for k in ["tesla", "rivian", "ev", "vehicle"]):
-            theme = "electric vehicles, high-beta growth shares, and consumer technology"
-        elif any(k in lower for k in ["apple", "microsoft", "amazon", "meta", "alphabet", "magnificent"]):
-            theme = "mega-cap technology leadership and index concentration"
-        else:
-            theme = "index breadth, sector rotation, and risk appetite"
-        if any(k in lower for k in ["micron", "nvidia", "amd", "qualcomm", "broadcom", "chip", "semiconductor", "ibm", "intel"]):
-            en_points, _ = us_event_points(headline)
-            return (
-                f"Summary: {source} is reporting a specific {theme} story involving {entities}. "
-                + " ".join(point[0].upper() + point[1:] + "." for point in en_points)
-                + " The practical read-through is to compare the named stocks with Nasdaq futures, SOX-style semiconductor breadth, and opening volume. "
-                "If the reaction spreads across peers, it supports a sector trade; if it stays isolated, it is more likely a short-term headline move."
-            )
-        return (
-            f"Summary: {source} reports a market-moving item tied to {entities}. The relevance is how it feeds into {theme}. "
-            f"Watch {entities} alongside Nasdaq futures, sector breadth, volume, and analyst revisions. "
-            "If related stocks move together, the signal is more likely to reflect a real sector trend; if the reaction is isolated, it may be short-lived repricing. "
-            "The next checkpoint is whether trading confirms the same direction across peers."
-        )
+        entities = source
+    profile = MARKET_PROFILES[market_topic(sec, headline)]
+    reference = sentence_event(headline, 40)
+    short_reference = sentence_event(headline, 20)
     return (
-        f"Summary: {source} highlights a cross-asset signal tied to {entities}. This matters because rates, currencies, commodities, and crypto all change the discount-rate and liquidity backdrop for risk assets. "
-        f"Watch {entities} together with Treasury yields, USD/JPY, oil, gold, and major equity futures. "
-        "If these indicators reinforce each other, the stock-market trend has stronger confirmation; if they diverge, investors may be rotating between growth, defensives, inflation hedges, and cash."
+        f'Summary: {source} reports "{reference}," a {profile["label_en"]} item affecting {entities}. '
+        f'In {source}\'s "{short_reference}" case, {profile["en"][0].lower() + profile["en"][1:]}. '
+        f'For "{short_reference}," watch {profile["watch_en"]}.'
     )
 
 def japanese_market_body(sec, item, summary):
@@ -368,37 +564,35 @@ def japanese_market_body(sec, item, summary):
     source = item.get("source", "ニュースソース")
     entities = mentioned_entities(headline)
     if entities == "相关公司和板块":
-        entities = "関連銘柄とセクター"
+        entities = source
+    profile = MARKET_PROFILES[market_topic(sec, headline)]
+    reference = sentence_event(headline, 45)
     return (
-        f"要約：{source}の報道では、{entities}を中心に日本株の物色がどう広がるかが焦点です。"
-        "半導体、AI、ソフトバンクグループ、輸出関連、金融などの主力株が同じ方向に動けば、日経平均やTOPIXの動きにも継続性が出やすくなります。"
-        "一方で一部の値がさ株だけが上昇している場合は、市場全体の広がりが弱い可能性があります。次に見るべき点は、円相場、米国ハイテク株先物、出来高、海外投資家の買い姿勢です。"
-        "決算やレーティング変更が材料の場合は、同業他社への波及も確認したいところです。指数寄与度の高い銘柄だけでなく、中小型株や内需株にも買いが広がるかを見ると、相場の持続力を判断しやすくなります。"
+        f"要約：{source}が報じた具体的な出来事は「{reference}」です。これは{profile['label_jp']}の材料で、{entities}が直接の確認対象です。"
+        f"「{reference}」を読む際、{profile['jp']}。"
+        f"{source}の「{reference}」について次に確認する項目は、{profile['watch_jp']}です。該当指標が動くまでは、この個別材料を日本株全体の方向へ広げて解釈しません。"
     )
 
 def quote_body(sec, en_name, zh_name, price, pct, when):
     direction_en = "higher" if pct >= 0 else "lower"
     direction_jp = "上昇" if pct >= 0 else "下落"
+    profile = MARKET_PROFILES[market_topic(sec, f"{en_name} {zh_name}")]
     if "日本" in sec["label"] or "Japan" in sec["label"]:
         return (
             f"要約：{zh_name}（{en_name}）は{when}時点で{fmt_price(price)}となり、前日比{abs(pct):.2f}%{direction_jp}しています。"
-            "この価格変化は、日本株のなかで外部環境と個別材料がどの程度一致しているかを見る手がかりになります。"
-            "半導体や大型輸出株が同時に強ければ、海外テック株や円安を背景にした買いが入りやすい一方、指数だけが動いて個別株の広がりが乏しい場合は短期的な反動にとどまる可能性があります。"
-            "次は出来高、米国先物、円相場、同業銘柄の連動を確認する場面です。"
-            "関連ニュースと価格方向が一致するかも重要です。"
+            f"{zh_name}は{profile['label_jp']}の確認対象であり、{profile['jp']}。"
+            f"この{zh_name}の値動きについては、{profile['watch_jp']}を確認し、価格方向と同じ材料が実際に市場で取引されているかを判断します。"
         )
     if "美国" in sec["label"] or "US" in sec["label"]:
         return (
             f"Summary: {en_name} traded at {fmt_price(price)}, {abs(pct):.2f}% {direction_en} versus the previous close as of {when}. "
-            "This live move is useful because it shows whether investors are rewarding the same theme that appears in the day’s news flow. "
-            "For US equities, the key question is whether the move spreads from one index or company into semiconductors, software, cloud, EVs, or other growth-sensitive peers. "
-            "If breadth and volume confirm it, the signal may support a stronger trend; if peers fail to follow, it is likely temporary."
+            f"For this {en_name} move, {profile['en'][0].lower() + profile['en'][1:]}. "
+            f"Confirmation for {en_name} should come from {profile['watch_en']}; the live quote is evidence of price direction, not by itself an explanation of the catalyst."
         )
     return (
         f"Summary: {en_name} stood at {fmt_price(price)}, {abs(pct):.2f}% {direction_en} versus the previous close as of {when}. "
-        "This matters for equities because macro prices shape the backdrop for valuation, liquidity, and risk appetite. "
-        "Yields and currencies affect discount rates and exporter earnings, while oil, gold, and Bitcoin show whether investors are trading inflation, safety, or risk. "
-        "Compare this move with US tech futures and broad equity indexes to see whether the message is confirmed."
+        f"For this {en_name} reading, {profile['en'][0].lower() + profile['en'][1:]}. "
+        f"Confirmation for {en_name} should come from {profile['watch_en']}, keeping the interpretation specific to this asset rather than applying one macro template to every quote."
     )
 
 def fetch_quote(symbol):
@@ -424,28 +618,11 @@ def fmt_price(value):
 
 def quote_context(sec, en_name, zh_name, pct, when):
     direction = "上涨" if pct >= 0 else "下跌"
-    if "美国" in sec["label"] or "US" in sec["label"]:
-        if en_name in {"NVIDIA", "AMD", "Broadcom", "Micron"}:
-            theme = "AI 芯片和数据中心产业链"
-        elif en_name in {"Apple", "Microsoft", "Tesla"}:
-            theme = "大型科技股和成长股风险偏好"
-        else:
-            theme = "美股指数与市场宽度"
-        return (
-            f"截至 {when}，{zh_name}较前收盘{direction}{abs(pct):.2f}%。这类实时价格变化可以作为{theme}的即时温度计。"
-            "如果相关个股与同板块新闻方向一致，说明资金正在围绕产业逻辑交易；如果价格和新闻背离，则可能是获利了结、估值压力或宏观利率因素压制。"
-            "后续要结合成交量、盘前/盘中走势和同业联动，判断这只是短线波动，还是板块趋势的延续。"
-        )
-    if "日本" in sec["label"] or "Japan" in sec["label"]:
-        return (
-            f"截至 {when}，{zh_name}较前收盘{direction}{abs(pct):.2f}%。这对日本市场的意义在于，它能反映外资、日元汇率和全球科技周期对日股权重股的即时影响。"
-            "若半导体或大型权重股同步走强，日经指数通常更容易被推升；若个股分化明显，则要警惕指数上涨背后的市场宽度不足。"
-            "接下来应观察日元、美国科技股期货以及东京市场收盘后的海外反馈。"
-        )
+    profile = MARKET_PROFILES[market_topic(sec, f"{en_name} {zh_name}")]
     return (
-        f"截至 {when}，{zh_name}较前收盘{direction}{abs(pct):.2f}%。这个变化会影响股票市场的宏观定价背景。"
-        "美元、利率、黄金、原油和比特币分别代表汇率压力、资金成本、避险需求、通胀预期和风险偏好。"
-        "如果这些资产与股指方向相互印证，趋势可信度更高；如果出现背离，短线行情可能更容易反复。"
+        f"截至 {when}，{zh_name}较前收盘{direction}{abs(pct):.2f}%，对应的观察主题是{profile['label_zh']}。"
+        f"对{zh_name}这一次价格变化而言，{profile['zh']}。后续只围绕{profile['watch_zh']}进行确认，"
+        f"避免把{zh_name}的单一实时涨跌机械地解释成整个市场或其他行业已经形成同方向趋势。"
     )
 
 def market_snapshot_items(sec):
@@ -506,7 +683,7 @@ def fetch_section_rss(sec):
         return ""
     lines = []
     for item in items:
-        summary = ensure_summary_depth(infer_market_summary(sec, item), sec)
+        summary = ensure_summary_depth(infer_market_summary(sec, item), sec, item)
         is_japan = "日本" in sec["label"] or "Japan" in sec["label"]
         local_body = japanese_market_body(sec, item, summary) if is_japan else english_market_body(sec, item, summary)
         local_line = f"  日本語：{local_body}\n" if is_japan else f"  English: {local_body}\n"
@@ -532,7 +709,7 @@ def fetch_section(sec):
         try:
             t = call_gemini(p,True)
             t = re.sub(r'https://vertexaisearch\.cloud\.google\.com/[^\s\)]+','https://www.google.com/search?q='+kw.split()[0],t)
-            if has_real_content(t): print(f"   {e} Got {t.count('- **')} items (attempt {a+1})"); return t
+            if has_real_content(t) and validate_digest_quality(t): print(f"   {e} Got {t.count('- **')} items (attempt {a+1})"); return t
         except Exception as ex: print(f"   {e} Attempt {a+1} error: {ex}")
         time.sleep(CONFIG["retry_delay"])
     print(f"   {e} Fallback...")
@@ -584,8 +761,8 @@ def md_to_html(md):
             for ln in it["lines"]:
                 if ln.startswith("📰"): src=f'<div class="item-src">原文链接：{linkify(ln.replace("📰","").strip())}</div>'
                 elif ln.lower().startswith("english:") or ln.lower().startswith("en:"): en=ln.split(":",1)[1].strip()
-                elif ln.startswith("日本語:") or ln.startswith("日本語："): jp=re.split(r'[：:]',ln,1)[-1].strip()
-                elif "中文" in ln[:4]: zh=re.split(r'[：:]',ln,1)[-1].strip()
+                elif ln.startswith("日本語:") or ln.startswith("日本語："): jp=re.split(r'[：:]',ln,maxsplit=1)[-1].strip()
+                elif "中文" in ln[:4]: zh=re.split(r'[：:]',ln,maxsplit=1)[-1].strip()
                 elif not en and not any('\u4e00'<=c<='\u9fff' for c in ln[:10]): en=ln
                 elif not zh: zh=ln
             parts.append(f'<div class="item"><div class="item-date">{it["date"]}</div><div class="item-title">{it["title"]}</div>{"<p class=item-en>"+en+"</p>" if en else ""}{"<p class=item-jp>"+jp+"</p>" if jp else ""}{"<p class=item-zh>"+zh+"</p>" if zh else ""}{src}</div>')
@@ -615,6 +792,9 @@ def push_to_github(html,n):
     (OUTPUT_DIR/"latest.html").write_text(html,encoding="utf-8")
     d=OUTPUT_DIR/f"{TITLE_SLUG}_{TODAY.strftime('%Y%m%d')}.html"
     d.write_text(html,encoding="utf-8"); update_history(n)
+    if os.environ.get("PUBLISH", "true").lower() == "false":
+        print(f"   Saved locally without publishing: {d}")
+        return
     os.chdir(str(OUTPUT_DIR))
     subprocess.run(["git","add","latest.html",d.name,"history.json"],check=True)
     r=subprocess.run(["git","diff","--cached","--quiet"])
@@ -627,6 +807,7 @@ if __name__=="__main__":
     print(f"{CONFIG['emoji']} {CONFIG['title']} — {DATE_STR} ({WEEKDAY_JP})\n{'='*50}\n\n📝 Generating digest ({len(CONFIG['sections'])} sections)...")
     digest=generate_digest()
     if not digest or digest.count("- **")<3: print("❌ Failed"); sys.exit(1)
+    if not validate_digest_quality(digest): print("❌ Refusing to publish repetitive or highly similar summaries"); sys.exit(1)
     n=digest.count("- **"); OUTPUT_FILE.write_text(digest,encoding="utf-8")
     print(f"\n   Total: {n} items\n\n🌐 Publishing...")
     try: push_to_github(md_to_html(digest),n)
