@@ -7,121 +7,104 @@
 
 ## 🇺🇸 美国股市 / US Market
 
-Here are 8 recent news items regarding the US stock market as of August 13, 2026:
+- **[2026.08.13] US Market — 美国股市期货涨跌互现，等待关键PPI数据**
+  English: US stock futures traded mixed on Thursday as investors awaited the July Producer Price Index (PPI) data, a crucial wholesale inflation measure, following a softer Consumer Price Index (CPI) report earlier in the week. While the Nasdaq and S&P 500 futures edged higher, buoyed by strong AI earnings and a calming inflation outlook, Dow Jones futures saw a slight dip. This mixed sentiment reflects ongoing geopolitical tensions and a cautious approach as market participants assess the Federal Reserve's potential interest rate path. The tech sector, particularly AI-related stocks, continues to show resilience, driving broader market gains despite overall investor hesitancy.
+  中文：总结：周四美国股指期货涨跌互现，投资者正等待7月生产者价格指数(PPI)数据，此前公布的消费者价格指数(CPI)报告显示通胀放缓。纳斯达克和标普500指数期货在人工智能相关企业强劲财报和通胀前景趋缓的提振下小幅上涨，而道琼斯指数期货则略有下跌。市场情绪复杂，反映出地缘政治紧张局势和对美联储利率路径的谨慎评估。科技板块，尤其是AI相关股票，继续表现出韧性，推动大盘上涨。
+  📰 [TheStreet](https://www.google.com/search?q=US)
 
-- **[2026.08.13] US Market — 美国股市受通胀数据和AI股票提振普遍走高**
-  English: US stocks closed mostly higher on August 12, with the S&P 500 gaining 0.26% and the Nasdaq Composite rising 0.54%, while the Dow Jones Industrial Average edged down 0.04%. This mixed performance was largely influenced by July's Consumer Price Index (CPI) data, which showed a modest 0.1% month-on-month increase and a 3.4% annual rise, aligning with market expectations and easing concerns about aggressive Federal Reserve rate hikes. Additionally, strong earnings from AI-related companies further boosted investor confidence, particularly in the technology sector. The market's reaction suggests a reduced likelihood of a September rate increase, shifting focus to upcoming economic reports and corporate guidance.
-  中文：总结：8月12日，美国股市收盘涨跌互现，标普500指数上涨0.26%，纳斯达克综合指数上涨0.54%，而道琼斯工业平均指数微跌0.04%。这一表现主要受7月份消费者物价指数（CPI）数据影响，该数据显示月度增长0.1%，年度增长3.4%，符合市场预期，缓解了对美联储激进加息的担忧。此外，人工智能相关公司的强劲财报也提振了投资者信心。
-  📰 [Anadolu Ajansı](https://www.aa.com.tr/en/economy/us-stocks-end-mostly-higher-after-inflation-data-ai-shares-rally/3299999)
+- **[2026.08.13] NVIDIA — 华尔街分析师上调英伟达盈利预期，受AI需求激增推动**
+  English: NVIDIA shares are experiencing renewed bullish sentiment from Wall Street analysts, who have significantly raised consensus earnings estimates. Analysts now project NVIDIA's earnings to grow at 44% annually over the next three years, up from a previous 33% forecast, driven by robust demand for AI infrastructure. Hyperscalers' capital expenditure projections for 2026 have also been revised upwards, signaling sustained investment in AI. This positive outlook reinforces NVIDIA's dominant position in the AI chip market, making it a key stock to watch as the AI build-out accelerates.
+  中文：总结：华尔街分析师上调了英伟达的盈利预期，预计未来三年其年收益将增长44%，高于此前33%的预测，主要得益于对AI基础设施的强劲需求。超大规模数据中心2026年的资本支出预测也被上调，预示着AI投资的持续增长。这一积极展望巩固了英伟达在AI芯片市场的领先地位，使其成为AI建设加速中的关键关注股票。
+  📰 [The Motley Fool](https://www.google.com/search?q=US)
 
-- **[2026.08.13] AI Stocks — 人工智能股票在强劲财报和通胀缓解下飙升**
-  English: Artificial intelligence-linked stocks led the market rally on August 12, with companies like Super Micro Computer surging 19% after reporting earnings per share 84% above analyst estimates and issuing strong future guidance. AI cloud provider CoreWeave also jumped 19.3% after exceeding revenue expectations and narrowing its losses, reinforcing the view that the AI infrastructure investment boom continues unabated. This strong performance in the AI sector, coupled with moderating inflation data, bolstered investor confidence that these companies can sustain significant growth to justify their valuations, driving demand for chips and other AI infrastructure.
-  中文：总结：8月12日，人工智能相关股票领涨市场，Super Micro Computer在公布超出预期的财报和强劲指引后飙升19%。 AI云服务提供商CoreWeave也因营收超预期且亏损收窄而大涨19.3%。 这些强劲的业绩表现，加上通胀放缓，增强了投资者对AI公司持续增长的信心，并推动了对芯片和AI基础设施的需求。
-  📰 [The Times of India](https://timesofindia.indiatimes.com/business/international-business/us-stock-market-today-wall-street-near-record-high-as-ai-stocks-rally-and-inflation-moderates/articleshow/112444444.cms)
+- **[2026.08.13] Microsoft — 微软股价在第四季度财报后飙升，分析师上调目标价**
+  English: Microsoft's stock surged by 26% on August 13th, following its strong Q4 fiscal 2026 results released on July 29th, which saw revenue growth of 17.7% and EPS of $4.74, significantly beating estimates. The Intelligent Cloud segment, particularly Azure's 43% growth, was a key driver, justifying increased capital expenditure. Several Wall Street firms, including Bernstein and Wells Fargo, have subsequently raised their price targets, indicating continued bullish sentiment despite earlier concerns about capital intensity. This performance underscores Microsoft's successful AI commercialization and ecosystem strength.
+  中文：总结：微软股价在8月13日飙升26%，此前7月29日公布的2026财年第四季度财报显示，营收增长17.7%，每股收益4.74美元，远超预期。智能云部门，尤其是Azure 43%的增长，是主要推动力，证明了增加资本支出的合理性。包括Bernstein和Wells Fargo在内的多家华尔街机构上调了其目标价，表明尽管此前对资本密集度有所担忧，但市场仍保持看涨情绪。
+  📰 [GuruFocus](https://www.google.com/search?q=US)
 
-- **[2026.08.13] NVIDIA — 英伟达股价因新融资计划上涨**
-  English: NVIDIA (NVDA) shares climbed approximately 3% in early trading on August 12, as investors reacted positively to a new financing initiative. This program involves six major Wall Street investment firms, including Apollo Global Management, BlackRock, and Goldman Sachs, aiming to mobilize over $500 billion in third-party capital for AI infrastructure projects. This arrangement is seen as a strategic move to provide NVIDIA's customers with broader access to capital, reducing the chipmaker's direct funding burden for large-scale AI buildouts and further solidifying its central role in the AI ecosystem. Analysts maintain a bullish outlook, viewing these partnerships as supportive of long-term growth.
-  中文：总结：8月12日，英伟达（NVDA）股价早盘上涨约3%，原因是投资者对一项新的融资计划反应积极。 该计划联合了华尔街六大投资公司，旨在为AI基础设施项目筹集超过5000亿美元的第三方资本。 此举被视为一项战略性举措，旨在为英伟达的客户提供更广泛的资金来源，减轻其在大型AI建设中的直接资金负担，并巩固其在AI生态系统中的核心地位。
-  📰 [Invezz](https://invezz.com/news/stocks/why-nvidia-stock-is-climbing-around-3-today/)
+- **[2026.08.13] Apple — 苹果股票在财报后下跌，机构持仓变动并派发股息**
+  English: Apple Inc. shares experienced institutional investment adjustments, with Janus Henderson Group reducing its stake by 1.6% while Pine Ridge Advisers increased its position. The company also paid a quarterly dividend of $0.27 per share on August 13th. This comes after Apple's stock dropped approximately 5% following its Q3 fiscal 2026 earnings report on July 30th, despite solid revenue growth, due to weaker-than-expected guidance and ongoing supply constraints. Investors are closely monitoring how Apple navigates these challenges and its future iPhone and AI momentum.
+  中文：总结：苹果公司股票出现机构投资调整，Janus Henderson集团减持1.6%，而Pine Ridge Advisers则增持。该公司于8月13日支付了每股0.27美元的季度股息。此前，苹果股价在7月30日公布2026财年第三季度财报后下跌约5%，尽管营收增长稳健，但由于低于预期的指引和持续的供应链限制。投资者正密切关注苹果如何应对这些挑战及其未来iPhone和AI业务的动能。
+  📰 [MarketBeat](https://www.google.com/search?q=US)
 
-- **[2026.08.13] Microsoft — 微软股价因AI芯片猜测和基础设施支出而下跌**
-  English: Microsoft Corp. (MSFT) shares experienced a 2% decline in Wednesday morning trading on August 12, as investors weighed new speculation regarding the company's in-house Maia AI chips against its rapidly increasing infrastructure spending. While Microsoft has not confirmed reports of a potential Maia processor launch as early as September, analysts view the custom silicon strategy as crucial for its long-term AI ambitions. The pullback occurred despite ongoing optimism about Microsoft's AI business following strong fiscal fourth-quarter results, with market focus shifting to whether massive capital investments can translate into sustained earnings growth and improved Azure economics.
-  中文：总结：8月12日周三上午交易中，微软公司（MSFT）股价下跌2%，投资者正在权衡有关该公司内部Maia AI芯片的新猜测与其快速增长的基础设施支出。 尽管微软尚未证实可能在9月推出Maia处理器的报道，但分析师认为定制芯片战略对其长期AI抱负至关重要。 此次下跌发生在微软AI业务持续乐观的背景下，市场关注点转向大规模资本投资能否转化为持续的盈利增长和更强的Azure经济效益。
-  📰 [Invezz](https://invezz.com/news/stocks/why-is-microsoft-stock-falling-2-today/)
+- **[2026.08.13] Amazon — 亚马逊受益于通胀降温和AWS强劲增长，分析师看好前景**
+  English: Amazon is positioned favorably as cooling US inflation eases pressure on retail, while its robust Amazon Web Services (AWS) segment continues to be a primary bullish catalyst. The company reportedly raised its 2026 capital expenditure forecast to approximately $220 billion, driven by accelerating cloud demand, with AWS revenue growing 36.7% year-over-year. Analysts maintain a "Moderate Buy" consensus, with strong confidence in AWS's growth trajectory and significant backlog, providing clear visibility into future performance despite concerns over AI spending returns.
+  中文：总结：随着美国通胀降温缓解了零售业压力，亚马逊的市场地位得到巩固，其强劲的亚马逊网络服务（AWS）部门仍是主要的看涨催化剂。据报道，受云需求加速推动，亚马逊将其2026年资本支出预测上调至约2200亿美元，AWS营收同比增长36.7%。分析师普遍维持“适度买入”评级，对AWS的增长轨迹和大量积压订单充满信心，尽管对AI支出回报存在担忧，但未来业绩可见度较高。
+  📰 [MarketBeat](https://www.google.com/search?q=US)
 
-- **[2026.08.13] Apple — 苹果公司派发每股0.27美元现金股息**
-  English: Apple Inc. (AAPL) shareholders of record as of August 10, 2026, are set to receive a cash dividend of $0.27 per share, payable on August 13, 2026. This dividend payment follows the company's fiscal 2026 third-quarter results, reported on July 30, 2026, where Apple announced record revenue of $109.4 billion, up 16% year over year, with strong performance across iPhone, Mac, and Services segments. The consistent dividend payout reflects Apple's robust financial health and commitment to returning value to its shareholders amidst its ongoing growth and innovation in its product ecosystem.
-  中文：总结：截至2026年8月10日登记在册的苹果公司（AAPL）股东，将于2026年8月13日获得每股0.27美元的现金股息。 此次股息派发是在公司于2026年7月30日公布2026财年第三季度业绩之后，苹果报告称营收达到创纪录的1094亿美元，同比增长16%，iPhone、Mac和服务部门表现强劲。 持续的股息支付体现了苹果稳健的财务状况。
-  📰 [Apple](https://www.apple.com/newsroom/2026/07/apple-reports-third-quarter-results/)
-
-- **[2026.08.13] AMCON Distributing Company — AMCON分销公司在纽约证券交易所德克萨斯州分所双重上市**
-  English: AMCON Distributing Company (NYSE American: DIT) announced its official dual listing on the NYSE Texas Exchange, effective August 13, 2026. The Omaha, Nebraska-based convenience and foodservice distributor will maintain its primary listing on the NYSE American Stock Exchange and continue trading under the "DIT" ticker symbol on both exchanges. This strategic move aims to support AMCON's growth strategy and enhance shareholder value by leveraging Texas's business-friendly environment and its emergence as a leading capital markets center in the United States.
-  中文：总结：AMCON分销公司（NYSE American: DIT）宣布，自2026年8月13日起，其股票正式在纽约证券交易所德克萨斯州分所双重上市。 这家总部位于内布拉斯加州奥马哈的便利店和餐饮服务分销商将保留其在NYSE American证券交易所的主要上市地位，并继续在两个交易所使用“DIT”股票代码进行交易。 此举旨在通过利用德克萨斯州友好的商业环境及其作为美国领先资本市场中心的地位，支持AMCON的增长战略并提升股东价值。
-  📰 [Business Wire](https://www.businesswire.com/news/home/20260812234567/en/AMCON-Distributing-Company-Announces-Dual-Listing-on-NYSE-Texas-Exchange)
-
-- **[2026.08.13] Evolve NASDAQ Technology UltraYield ETF — Evolve纳斯达克科技超高收益ETF今日开始交易**
-  English: Evolve Funds Group Inc. announced that its Evolve NASDAQ Technology UltraYield ETF (TSX: TECY) is expected to begin trading on the Toronto Stock Exchange (TSX) on August 13, 2026. Concurrently, Evolve has reduced the management fee payable on each class of units of the Evolve Fund, effective August 13, 2025. This new ETF aims to offer Canadian investors exposure to NASDAQ technology stocks with a focus on yield, reflecting ongoing innovation in financial products designed to capture growth and income from the tech sector.
-  中文：总结：Evolve Funds Group Inc.宣布，其Evolve纳斯达克科技超高收益ETF（TSX: TECY）预计将于2026年8月13日在多伦多证券交易所（TSX）开始交易。 同时，Evolve已将该基金各类别单位的管理费下调，自2025年8月13日起生效。 这只新ETF旨在为加拿大投资者提供纳斯达克科技股的投资机会，并侧重于收益，体现了金融产品在捕捉科技行业增长和收入方面的持续创新。
-  📰 [Newsfile Corp.](https://www.newsfilecorp.com/release/309377/Evolve-Announces-Management-Fee-Reduction-on-Evolve-NASDAQ-Technology-UltraYield-ETF-Expected-to-Begin-Trading-on-August-13-2026)
-
-- **[2026.08.13] My Size — My Size公司实施1股拆8股反向股票分割**
-  English: My Size, Inc. (MYSZ) enacted a 1-for-8 reverse stock split, with split-adjusted trading commencing on the Nasdaq Capital Market on August 13, 2026. This reverse split is primarily intended to increase the per-share price and bid price of its common stock, enabling the company to regain compliance with Nasdaq's continued listing requirements. The move also aims to make the stock more appealing to certain institutional investors, potentially improving liquidity and investor interest in the company's shares.
-  中文：总结：My Size公司（MYSZ）实施了1股拆8股的反向股票分割，调整后的股票于2026年8月13日在纳斯达克资本市场开始交易。 此次反向分割的主要目的是提高其普通股的每股价格和买入价，以符合纳斯达克的持续上市要求。 此举还旨在吸引特定的机构投资者，从而可能提高公司股票的流动性和投资者的兴趣。
-  📰 [StockTitan](https://stocktitan.net/news/MYSZ/my-size-enacts-1-for-8-reverse-stock-split.html)
+- **[2026.08.13] Tesla — 特斯拉拟建101亿美元德州太阳能工厂，强化可再生能源雄心**
+  English: Tesla's shares saw a slight premarket climb on Thursday as venture capitalist Chamath Palihapitiya highlighted the company's proposed "Project Crystal Sun," a $10.1 billion solar factory in Texas. This significant investment, planned from 2026 through 2028, aims to revive Tesla's solar business and complement its battery-storage operations, potentially creating nearly 10,000 jobs. The move underscores Tesla's expanding ambitions in renewable energy, though the stock has lagged its "Magnificent Seven" peers this year, with profitability and Robotaxi progress remaining key investor concerns.
+  中文：总结：特斯拉股价周四盘前小幅上涨，风险投资家Chamath Palihapitiya强调了该公司在德克萨斯州拟建的“水晶太阳项目”，一座耗资101亿美元的太阳能工厂。这项2026年至2028年的重大投资旨在重振特斯拉的太阳能业务并补充其电池存储业务，预计将创造近万个就业岗位。此举彰显了特斯拉在可再生能源领域的扩张雄心，尽管今年该股表现落后于“七巨头”同行，盈利能力和Robotaxi进展仍是投资者关注的焦点。
+  📰 [TradingView](https://www.google.com/search?q=US)
 
 ## 🇯🇵 日本株式市場 / Japan Market
 
-- **[2026.08.13] 日本株式市場 — 半導体主導で日経平均が続伸、米CPI鈍化が追い風**
-  日本語：2026年8月13日の東京株式市場は、前日の米国市場におけるフィラデルフィア半導体株指数（SOX指数）の上昇と、米7月消費者物価指数（CPI）の伸び鈍化が追い風となり、日経平均株価は続伸する公算が大きい。特にAI・半導体関連銘柄への資金流入が継続し、市場全体を押し上げる展開が予想される。日経平均は6万8000円台を回復し、更なる上値を目指す動きが見込まれる一方、高値警戒感から利益確定売りが出る可能性も指摘されている。市場は、半導体関連の好調が持続するか、幅広いセクターへの波及が見られるかに注目している。
-  中文：总结：2026年8月13日，东京股市预计将延续涨势，主要受美国费城半导体指数上涨及7月消费者物价指数（CPI）增速放缓的利好影响。半导体和AI相关股票的资金流入持续，推动日经平均指数有望突破68000点。市场关注半导体板块的强势能否扩散至其他领域，同时警惕高位获利回吐压力。
-  📰 [株探](https://kabutan.jp/)
+- **[2026.08.13] 日経平均・TOPIX — 半導体株主導で日本株が大幅続伸**
+  日本語：13日の日本株式市場では、日経平均株価が前日比784.53円高の68,308.59円と3日続伸し、TOPIXも0.89%高の4,176.04ポイントで取引を終えました。米国市場でのハイテク株高や7月の消費者物価指数（CPI）鈍化による米早期利上げ観測の後退を受け、AI・半導体関連株が相場を牽引しました。特にアドバンテストや東京エレクトロンといった銘柄が指数を大きく押し上げ、市場全体のセンチメントが強気に傾きました。韓国KOSPIの堅調な動きも追い風となり、幅広い銘柄に買いが広がった一日でした。
+  中文：总结：8月13日，日本股市日经平均指数大涨784.53点，收于68,308.59点，实现三连涨，TOPIX指数也上涨0.89%，收于4,176.04点。受美国科技股上涨和7月CPI数据放缓、美联储提前加息预期减弱的提振，AI和半导体相关股票成为市场主要推动力。Advantest和东京电子等权重股显著拉升指数，市场情绪普遍乐观，韩国KOSPI指数的强劲表现也为日本股市提供了支撑。
+  📰 [株探](https://kabutan.jp/news/market/202608130009)
 
-- **[2026.08.13] 円相場 — 日本株上昇が円安圧力を強める可能性、日銀の次期利上げに注目**
-  日本語：2026年8月13日のニューヨーク為替市場では、日本株の上昇が短期的に円への下押し圧力を強める可能性が指摘された。外国人投資家による日本株保有の多くが為替ヘッジを伴っており、株価上昇に伴うヘッジ調整が円安要因となる可能性がある。ドル円相場は159円台後半から160円台前半での膠着状態が続いており、7月末の日米協調介入後の半値戻しを達成したことで、次の焦点は160円台半ばへと移っている。日銀が今後の方針をより明確にするまでの数週間、円は再び下落圧力を受ける一因となる可能性があるため、9月の金融政策決定会合での日銀の動向が注目される。
-  中文：总结：2026年8月13日，纽约汇市分析指出，日本股市上涨可能短期内加剧日元下行压力。由于外国投资者持有的日股多伴随汇率对冲，股价上涨可能引发对冲调整，从而推低日元。美元兑日元在159-160区间徘徊，突破此前干预后的半数回撤位，市场正密切关注日本央行9月政策会议，以判断日元是否会进一步承压。
-  📰 [みんかぶFX](https://fx.minkabu.jp/)
+- **[2026.08.13] TOPIX — 東証株価指数が連日で最高値を更新**
+  日本語：13日の東京株式市場では、東証株価指数（TOPIX）が前日比37.04ポイント高の4,176.04で取引を終え、連日で終値ベースの最高値を更新しました。日経平均株価も3日続伸し、約1カ月ぶりに6万8000円台を回復。東証プライム市場では値上がり銘柄が値下がり銘柄を大幅に上回り、幅広い業種に買いが広がりました。特に非鉄金属、銀行、鉱業といった業種が牽引し、市場の地合いの強さが改めて示され、年初来の上昇率が世界の主要指数で断トツの水準を維持しています。
+  中文：总结：8月13日，东京股市TOPIX指数上涨37.04点，收于4,176.04点，连续第二个交易日创下收盘历史新高。日经平均指数也连续三日上涨，重回68,000点大关。东京证券交易所主板市场上涨股票数量远超下跌股票，显示市场普涨格局。非铁金属、银行和矿业等行业表现突出，进一步印证了市场强劲的上涨势头。
+  📰 [note.com (宮野宏樹)](https://note.com/hirokimiya/n/n2b22d1045237)
 
-- **[2026.08.13] トヨタ自動車 — 円安効果で通期業績予想を上方修正、営業利益3.4兆円へ**
-  日本語：トヨタ自動車は、2027年3月期通期の業績予想を上方修正し、本業の儲けを示す営業利益を従来の3兆円から3兆4000億円に引き上げた。これは主に円安の進行による為替レートの見直し効果に加え、中東向け代替物流ルートの構築による販売回復を見込んだもの。2026年4月から6月までの第1四半期連結決算では、売上高は前年同期比0.4％増の13兆5254億円だったが、営業利益は8.8％減の1兆634億円となっていた。今回の通期上方修正は、為替の追い風と営業努力が評価された形だが、熊本地震の影響については現在精査中であり、今後の動向が注目される。
-  中文：总结：丰田汽车上调2027年3月财年全年业绩预期，营业利润从3万亿日元上调至3.4万亿日元，主要得益于日元贬值带来的汇率利好以及中东替代物流路线建立后的销量恢复。尽管第一季度营业利润同比下降8.8%，但全年展望的改善显示出公司对汇率优势和销售策略的信心，熊本地震的影响仍在评估中。
-  📰 [MarkLines](https://www.marklines.com/)
+- **[2026.08.13] 銀行業 — 日銀の追加利上げ観測で銀行株が急伸**
+  日本語：13日の日本株式市場では、銀行業が業種別で最も高い上昇率を記録し、特に三菱UFJフィナンシャル・グループなどの大手銀行株にも買いが入りました。これは、円安の進行を背景に日本銀行による追加利上げ観測が強まったことが主な要因です。政府が日銀の利上げを支持しているとの報道も伝わり、金融関連セクター全体に強い買いが入る形となりました。金利上昇は銀行の収益改善に直結するため、今後の日銀の金融政策決定会合が引き続き注目されます。
+  中文：总结：8月13日，日本股市银行板块表现强劲，涨幅居各行业之首，三菱UFJ金融集团等大型银行股受到追捧。主要原因是日元贬值背景下，市场对日本央行进一步加息的预期升温。政府支持日本央行加息的报道也提振了金融板块的整体买气。利率上升通常会直接改善银行盈利，因此日本央行未来的货币政策会议将持续受到关注。
+  📰 [会社四季報オンライン](https://shikiho.toyokeizai.net/news/0/775438)
 
-- **[2026.08.13] ソニーフィナンシャルグループ — 今期最終損益を黒字に上方修正、第1四半期は黒字転換**
-  日本語：ソニーフィナンシャルグループは、2027年3月期第1四半期（2026年4-6月）の連結最終損益が91.6億円の黒字に浮上したと発表した。これに伴い、通期の最終損益予想を従来の160億円の赤字から230億円の黒字へと大幅に上方修正した。前年同期は244億円の赤字だったが、IFRS適用後の売上営業損益率も前年同期の-13.8％から5.7％へと急改善しており、財務状況の健全化が進んでいることを示している。経営陣は第2四半期の動向を注視する姿勢を示しつつも、今回の黒字転換と通期見通しの上方修正は市場に好感される見込みだ。
-  中文：总结：索尼金融集团公布2027年3月财年第一季度（2026年4-6月）合并净利润为91.6亿日元，实现扭亏为盈。公司同时将全年净利润预期从亏损160亿日元大幅上调至盈利230亿日元。国际财务报告准则（IFRS）下，销售营业利润率也从去年同期的-13.8%显著改善至5.7%，表明公司财务状况显著好转，市场对此持积极态度。
-  📰 [株探](https://kabutan.jp/)
+- **[2026.08.13] 凸版ホールディングス — 第1四半期純利益倍増で株価急騰**
+  日本語：印刷・包装大手の凸版ホールディングス（7911）は、13日の東京株式市場で株価が10.78％急騰し、日経平均の寄与度上位に名を連ねました。同社が発表した第1四半期（4-6月期）の純利益が前年同期比で2倍以上に増加したことが好感されました。これは、堅調な企業業績見通しが日本株全体の上昇を支える中で、個別企業の好決算が投資家の買い意欲を刺激する形となり、今後の業績動向や市場評価が注目されます。
+  中文：总结：8月13日，印刷包装巨头凸版控股（7911）股价在东京股市飙升10.78%，成为日经指数涨幅贡献最大的个股之一。此前公司公布的第一季度（4-6月）净利润同比增长超过一倍，受到市场积极评价。在日本股市整体受企业强劲业绩预期支撑的背景下，个别公司的良好财报进一步刺激了投资者的买入情绪，其未来业绩表现和市场估值将持续受到关注。
+  📰 [ARAB NEWS](https://www.arabnews.jp/article/japan/japan-stock-market/article_123996/)
 
-- **[2026.08.13] 中堅化学株 — 半導体関連売上高が牽引、高値突破を狙う**
-  日本語：2026年8月13日、中堅化学株の一部が半導体関連事業の好調を背景に高値更新を狙う動きを見せている。特に、売上高の半分を半導体関連が占める企業は、メモリー需要の急増を追い風に、日台韓米の4極供給体制を強化しており、業績拡大への期待が高まっている。AI技術の進化に伴う半導体需要の持続的な増加は、関連素材や部品を提供する化学メーカーにとって大きな成長機会となっており、市場はこれらの企業の技術力と供給体制の強化に注目している。
-  中文：总结：2026年8月13日，部分日本中型化工企业因半导体相关业务表现强劲，正寻求股价突破新高。这些公司半数营收来自半导体领域，受益于存储器需求激增，正加强在日本、台湾、韩国和美国的四极供应体系。AI技术发展带来的半导体需求持续增长，为相关材料和部件供应商提供了巨大机遇。
-  📰 [会社四季報オンライン](https://shikiho.toyokeizai.net/)
+- **[2026.08.13] KOKUSAI ELECTRIC — MSCI新規採用で株価が大幅続伸**
+  日本語：半導体製造装置メーカーのKOKUSAI ELECTRIC（6525）は、13日の東京株式市場で株価が大幅に続伸しました。これは、MSCI（モルガン・スタンレー・キャピタル・インターナショナル）の定期入れ替えで、同社が新規採用されることが伝わったためです。MSCI指数への採用は、グローバルな機関投資家からの買いを呼び込む効果があるため、株価に強い上昇圧力がかかりました。今後の指数連動型ファンドからの資金流入が期待され、株価のさらなる動向が注目されます。
+  中文：总结：8月13日，半导体制造设备制造商KOKUSAI ELECTRIC（6525）股价在东京股市大幅上涨，实现连续上涨。主要原因是市场传出该公司将被MSCI（摩根士丹利资本国际）指数新纳入的消息。被纳入MSCI指数通常会吸引全球机构投资者的买盘，从而对股价产生强劲的上涨动力。预计未来将有更多指数跟踪基金的资金流入，其股价后续走势值得关注。
+  📰 [OANDA FX/CFD Lab-education](https://www.oanda.com/jp-ja/lab-education/market-summary/20260813/)
 
-- **[2026.08.13] 本日の決算発表 — 三越伊勢丹HD、すかいらーくHDなど221社が発表予定**
-  日本語：2026年8月13日、東京証券取引所では、三越伊勢丹ホールディングス（3099）、すかいらーくホールディングス（3197）を含む221社が四半期決算や通期決算を発表する予定だ。取引時間中にはフリー（4478）やチャットプラス（598A）などが本決算を、三越伊勢丹HDやサンケン電気（6707）などが第1四半期決算を発表する。引け後にはトライアルホールディングス（141A）やアイスタイル（3660）などが本決算を控えており、これらの企業の業績動向が個別銘柄の株価、ひいては市場全体のセンチメントに影響を与える可能性がある。
-  中文：总结：2026年8月13日，东京证券交易所将有包括三越伊势丹控股（3099）和云雀控股（3197）在内的221家公司发布季度或年度财报。交易时段内，Free（4478）和ChatPlus（598A）将发布年度财报，三越伊势丹控股和Sanken Electric（6707）将发布第一季度财报。收盘后，Trial Holdings（141A）和iStyle（3660）等公司也将发布年度财报，这些业绩将影响相关个股及市场情绪。
-  📰 [株探](https://kabutan.jp/)
+- **[2026.08.13] ソニーフィナンシャルグループ — SBI証券が目標株価引き上げ、好決算を評価**
+  日本語：SBI証券は13日、ソニーフィナンシャルグループ（8729）の目標株価を引き上げました。これは、同社が先日発表した2027年3月期第1四半期（4-6月期）の連結最終損益が黒字に転換し、通期の最終損益予想も従来の赤字から黒字へと大幅に上方修正されたことを高く評価したためです。好調な業績とガイダンスの上方修正がアナリストの評価を押し上げ、今後の投資判断に影響を与える可能性があります。
+  中文：总结：8月13日，SBI证券上调了索尼金融集团（8729）的目标股价。此举是基于该公司近期公布的2027年3月财年第一季度（4-6月）合并净利润转亏为盈，且全年净利润预测从亏损大幅上调至盈利的良好业绩。强劲的业绩表现和上调的业绩指引获得了分析师的高度评价，预计将对未来的投资决策产生积极影响。
+  📰 [時事通信 (via 株探)](https://kabutan.jp/news/market/202608130002)
 
 ## 🌍 宏观经济与投资 / Macro & Investment
 
-- **[2026.08.13] US Market — 华尔街股市涨跌互现，芯片股受CPI数据和AI基础设施财报提振**
-  English: Wall Street saw a mixed close on August 12th, with major indices showing slight movements despite July's consumer price index (CPI) data matching expectations. The S&P 500 and Nasdaq Composite edged higher, primarily driven by a robust rally in semiconductor stocks and AI infrastructure companies like Nvidia, SK hynix, and CoreWeave, which posted better-than-expected earnings. This performance signals continued strong investment in AI infrastructure, reassuring investors that the boom is not cooling. Conversely, many traditional Big Tech names mostly declined, indicating a selective market focus. Investors are now closely watching for further inflation data and central bank commentary to gauge future monetary policy.
-  中文：总结：华尔街股市8月12日收盘涨跌互现，尽管7月CPI数据符合预期，但市场对人工智能基础设施投资的信心推动半导体板块走高，英伟达、SK海力士等芯片股表现强劲。传统科技巨头则普遍下跌，显示市场情绪分化。投资者正密切关注后续通胀数据及央行政策指引。
-  📰 [Seoul Economic Daily](https://www.google.com/search?q=global)
+- **[2026.08.13] U.S. Stock Futures — 股指期货在PPI报告前波动**
+  English: U.S. stock futures showed mixed movements on Thursday as investors awaited the release of July's Producer Price Index (PPI) data, which economists anticipate will rise by 0.2% month-over-month. This follows Wednesday's session where the S&P 500 and Nasdaq Composite closed higher, buoyed by a softer Consumer Price Index report and robust tech earnings, while the Dow Jones saw a slight dip. Meanwhile, oil prices remained volatile, with Brent crude near $88 a barrel and WTI around $82, amid ongoing concerns about supply disruptions in the Strait of Hormuz due to Middle East conflict. The benchmark U.S. 10-year Treasury yield also edged up to 4.67%.
+  中文：总结：美国股指期货周四开盘前表现不一，市场正等待7月份生产者价格指数（PPI）数据，经济学家预计环比增长0.2%。此前，周三标普500指数和纳斯达克综合指数因消费者价格指数走软及科技股强劲财报而上涨，道琼斯指数小幅下跌。同时，受中东冲突导致霍尔木兹海峡供应中断担忧影响，油价波动剧烈，布伦特原油和WTI原油分别徘徊在88美元和82美元附近。美国10年期国债收益率升至4.67%。
+  📰 [TipRanks](https://www.tipranks.com/news/stock-market-news-today-8-13-26-futures-wobble-ahead-of-key-ppi-report)
 
-- **[2026.08.13] Norges Bank — 挪威央行预计维持利率不变**
-  English: The Norges Bank is widely anticipated to maintain its policy rate at 4.25% during its announcement on August 13, 2026. This consensus stems from recent core inflation figures for June and July, which registered 2.7% year-over-year, falling below the central bank's own 3.3% forecast. While the bank had previously indicated a potential need for further rate hikes, the cooler-than-expected inflation data is likely to temper hawkish sentiment. Analysts expect verbal guidance to remain largely unchanged, given this is an interim meeting, suggesting a cautious approach to future policy adjustments, with a September hike still a possibility if inflation trends reverse.
-  中文：总结：挪威央行预计在2026年8月13日的政策会议上维持利率在4.25%不变。此前6月和7月核心通胀数据低于央行预期，缓解了加息压力。尽管此前曾暗示可能进一步加息，但当前通胀降温可能促使央行保持谨慎，市场将关注其对未来政策路径的指引，9月加息的可能性仍存。
-  📰 [Newsquawk](https://www.google.com/search?q=global)
+- **[2026.08.13] US Treasury Yields — 美国国债收益率创2007年以来新高**
+  English: The auction yield for 10-year U.S. Treasury notes, a critical global bond market benchmark, reached its highest level since the 2007 financial crisis, settling at 4.683%. This significant increase is primarily attributed to persistent inflation concerns, exacerbated by ongoing conflict in the Middle East and substantial spending on artificial intelligence infrastructure. In the secondary market, the 10-year yield closed at 4.701%. Analysis of the auction revealed a decline in overseas investment demand, with the indirect bidder share falling to 76.7%, the lowest since May, while domestic demand saw a rise. This trend suggests investors are demanding higher yields to offset the eroding value of currency due to inflation.
+  中文：总结：美国10年期国债拍卖收益率升至4.683%，创下2007年金融危机以来的新高。这一上涨主要受中东冲突和人工智能基础设施大规模支出引发的通胀担忧推动。二级市场10年期国债收益率收于4.701%。拍卖数据显示，海外投资需求下降至76.7%，为5月以来最低，而国内需求有所增加。这表明投资者要求更高的收益率以弥补通胀导致的货币贬值。
+  📰 [Seoul Economic Daily](https://www.sedaily.com/NewsView/2681577)
 
-- **[2026.08.13] US Inflation & Fed Outlook — 7月CPI数据缓解美联储9月加息压力**
-  English: The U.S. Consumer Price Index (CPI) for July rose 3.4% year-on-year, aligning with market expectations and easing concerns about a potential inflation resurgence. This data, coupled with last week's unexpected decline in employment figures, has significantly reduced the immediate pressure on the Federal Reserve to implement an interest rate hike in September. While the possibility of future hikes isn't entirely off the table, the in-line inflation report provides the Fed with more flexibility to assess economic conditions, particularly amidst ongoing geopolitical uncertainties and fluctuating oil prices. The focus now shifts to upcoming economic indicators for clearer policy direction.
-  中文：总结：美国7月CPI同比上涨3.4%，符合市场预期，缓解了对通胀反弹的担忧。结合此前就业数据意外下降，美联储9月加息的紧迫性显著降低。尽管未来加息可能性仍存，但此次通胀数据为美联储提供了更多评估经济状况的时间，尤其是在地缘政治不确定性和油价波动背景下。市场将密切关注后续经济指标以研判政策走向。
-  📰 [Seoul Economic Daily](https://www.google.com/search?q=global)
+- **[2026.08.13] US Inflation & Fed Policy — 通胀报告缓解加息担忧，美联储新指引引市场风险关注**
+  English: The latest U.S. inflation report, showing July's Consumer Price Index (CPI) increased by a benign 0.1% month-over-month, has provided the Federal Reserve with some breathing room in its inflation control efforts. This in-line reading has led traders to scale back expectations for a near-term Fed interest rate hike, with the probability for a September hike now at 40%, down from 54% a week ago. However, investors are simultaneously expressing concerns over the Fed's new communication strategy under Chair Kevin Warsh, which involves removing forward guidance. This shift is seen as potentially increasing market uncertainty and driving up bond yields and borrowing costs, as markets must now rely more heavily on economic data to anticipate policy moves.
+  中文：总结：最新通胀报告显示，美国7月消费者价格指数（CPI）环比上涨0.1%，符合预期，这为美联储的通胀控制工作提供了喘息空间，并降低了市场对近期加息的预期。目前市场对9月加息的押注已降至40%。然而，投资者对美联储主席凯文·沃什（Kevin Warsh）领导下的新沟通策略表示担忧，该策略取消了前瞻性指引，可能增加市场不确定性，并推高债券收益率和借贷成本。
+  📰 [WWNO](https://www.wwno.org/2026-08-13/latest-inflation-report-may-give-the-fed-more-time-for-its-control-efforts)
 
-- **[2026.08.13] Global Economy — 金砖国家经济体成为全球增长主要引擎**
-  English: BRICS economies are highlighted as significant drivers of global economic growth, despite facing common challenges in mobilizing private capital at scale. This assessment comes from an Indian official at a seminar on the role of the New Development Bank, held on the sidelines of the BRICS Finance Ministers' and Central Bank Governors Meeting on August 13, 2026. The discussion emphasized the critical need for multilateral development banks to de-risk investments and enhance project bankability to attract private sector participation. The challenge lies in fostering confidence, stability, and predictable long-term frameworks to unlock sustained private investment across member countries, underscoring the importance of partnerships between governments, institutions, and the private sector for future development finance.
-  中文：总结：金砖国家经济体被视为全球经济增长的主要引擎，尽管在动员大规模私人资本方面面临共同挑战。在8月13日金砖国家财长和央行行长会议期间的研讨会上，印度官员强调多边开发银行在降低投资风险和提高项目可融资性方面的重要性。核心挑战在于建立信心、稳定性和可预测的长期框架，以吸引私人投资，促进政府、机构和私营部门的合作以推动发展融资。
-  📰 [WAM](https://www.google.com/search?q=global)
+- **[2026.08.13] Major US Earnings — Fossil和Omeros财报强劲股价飙升，Cerebras营收不及预期下跌**
+  English: Thursday's market saw significant individual stock movements driven by corporate earnings reports. Fossil (FOSL) shares jumped 7% after the watchmaker exceeded Q2 earnings and revenue expectations, raising its full-year outlook on broad-based strength and improved gross margins. Omeros (OMER) surged 15% as the biotech reported strong Q2 results, fueled by the successful commercial launch of YARTEMLEA, with both revenue and adjusted EPS surpassing forecasts. Conversely, Cerebras (CBRS), an AI hardware company, tumbled 19% in premarket trading after its second-quarter revenue fell short of Wall Street's estimates, highlighting the high stakes in the competitive AI sector.
+  中文：总结：周四市场受企业财报驱动，个股表现分化。Fossil (FOSL) 股价上涨7%，因其第二季度盈利和营收超出预期，并上调了全年展望。生物科技公司Omeros (OMER) 股价飙升15%，得益于YARTEMLEA的成功商业发布，第二季度业绩强劲。然而，人工智能硬件公司Cerebras (CBRS) 在盘前交易中下跌19%，因其第二季度营收未达华尔街预期，凸显了人工智能领域竞争的激烈。
+  📰 [Seeking Alpha](https://seekingalpha.com/news/4004000-biggest-stock-movers-thursday-csco-spce-and-more)
 
-- **[2026.08.13] IPO — Robinhood Ventures Fund II (RVII) 在纽交所首次亮相**
-  English: Robinhood Ventures Fund II (RVII) is set to debut on the NYSE on August 13, 2026, with an expected IPO price of $25 per share. This closed-end fund offers retail investors exposure to approximately 80 early-stage, Y Combinator-linked private companies. Unlike its predecessor, RVI, which focused on concentrated late-stage bets, RVII provides a more diversified, earlier-stage investment opportunity. Investors will be closely monitoring its initial trading performance to gauge market confidence in Robinhood's valuation of private companies, especially given its 4.18% total annual expense ratio. The fund's performance in its first weeks will be crucial in setting market sentiment for this new venture product.
-  中文：总结：Robinhood Ventures Fund II (RVII) 预计于2026年8月13日在纽约证券交易所首次亮相，IPO价格定为每股25美元。该封闭式基金为散户投资者提供了投资约80家与Y Combinator相关的早期私营公司的机会。与前一只基金RVI不同，RVII更侧重多元化和早期投资。市场将密切关注其上市初期表现，以评估对Robinhood私营公司估值的信心，尤其是在其4.18%的总年度费用率背景下。
-  📰 [Robinhood](https://www.google.com/search?q=global)
+- **[2026.08.13] USD/JPY & BoJ Policy — 美元兑日元逼近160，日元干预效果减弱，日本央行加息预期升温**
+  日本語：ドル円相場は、最近の日米共同介入の効果が薄れ、根強い金利差を背景に160円台に再び接近している。日本の政府は、円安を抑制し、介入効果を強化するため、日本銀行（BoJ）が9月または10月に利上げを行うことを支持していると報じられた。この報道を受け、日銀の金融引き締めペース加速への期待が高まり、円は一時的に小幅上昇した。しかし、市場参加者は、日銀が再び為替市場に介入し、円を支援するかどうかを注視している。キャリートレードの優位性が継続しており、日銀は債券市場の安定か、それとも通貨の崩壊かという選択を迫られている状況だ。
+  中文：总结：美元兑日元汇率再次逼近160日元，此前日美联合干预的效果逐渐消退，而持续的利差依然存在。有报道称，日本政府支持日本央行在9月或10月进行近期加息，以抑制日元疲软并强化干预效果。受此消息影响，市场对日本央行加速紧缩政策的预期升温，日元隔夜小幅走强。然而，市场参与者正密切关注日本是否会再次干预外汇市场以支撑日元。
+  📰 [Daily Forex](https://www.dailyfx.com/forex/technical/usd-jpy/2026/08/13/USDJPY-Forecast-1308-Dollar-Holds-Gains.html)
 
-- **[2026.08.13] Japan Market — 美元兑日元汇率波动，市场关注美国数据及日本当局动向**
-  日本語：2026年8月13日現在、米ドル/日本円の為替レートは159.52円前後で推移しており、前日比でわずかな変動を見せています。過去1週間では、米ドルは対円で比較的安定しており、約1.16%上昇しました。この動きは、米国のインフレデータや金融政策の見通しに影響を受けています。市場は、米連邦準備制度理事会（FRB）の利上げ期待が後退する中で、円安傾向が続くかどうかに注目しています。特に、日本の当局が為替市場に介入する可能性も引き続き警戒されており、今後の米国の経済指標発表が円相場に与える影響が注視されます。
-  中文：总结：2026年8月13日，美元兑日元汇率在159.52附近波动，过去一周美元对日元相对稳定并小幅上涨。受美国通胀数据和美联储政策预期的影响，市场关注日元是否会继续走弱，同时警惕日本当局可能进行的汇市干预。未来美国经济指标将是影响日元走势的关键因素。
-  📰 [Wise](https://www.google.com/search?q=global)
+- **[2026.08.13] Norges Bank Policy — 挪威央行维持利率不变，但未来加息信号趋软**
+  English: Norges Bank maintained its policy rate at 4.25% in August, aligning with market expectations, as inflation slowed more than anticipated over the summer. July's CPI inflation fell to 3%, and underlying inflation declined to 2.7%, both below the central bank's previous forecasts. Despite this cooling, both measures remain above the 2% target, prompting the bank to maintain a restrictive monetary policy stance. While softening its forward guidance from "will likely" to "may still become necessary" for future hikes, Norges Bank cautioned that it's too early to conclude inflation is sustainably moving lower, leaving the door open for potential adjustments in September when new economic forecasts are due.
+  中文：总结：挪威央行在8月维持政策利率在4.25%不变，符合市场预期，因夏季通胀放缓幅度超出预期。7月CPI通胀降至3%，核心通胀降至2.7%，均低于央行此前的预测。尽管通胀有所降温，但两项指标仍高于2%的目标，促使央行维持限制性货币政策立场。虽然前瞻性指引有所软化，但挪威央行警告称，现在断定通胀可持续下降还为时过早，为9月发布新经济预测时的潜在调整留下了空间。
+  📰 [TradingView](https://www.tradingview.com/news/reuters:20260813:newsml_L8N3J701D:0-norges-bank-keeps-interest-rate-at-4-25-as-inflation-slows-more-than-expected/)
 
-- **[2026.08.13] Korea Market — 韩国百货公司股价暴跌，便利店股票上涨**
-  English: South Korean department store stocks have experienced a sharp decline of over 40% since July, contrasting with double-digit gains in convenience store shares. This divergence reflects profit-taking after a strong first half for department stores, coupled with valuation concerns and fears of a shrinking "wealth effect" following a July stock market crash, which could curb luxury spending. Conversely, convenience stores are seen as resilient amid economic fluctuations, benefiting from stable essential consumption, a heatwave, increased foreign tourism, and market consolidation. This highlights a shift in consumer spending patterns and investor sentiment towards defensive sectors in a volatile market.
-  中文：总结：韩国百货公司股价自7月以来暴跌逾40%，而便利店股票则实现两位数增长。这反映了百货公司上半年强劲表现后的获利回吐、估值担忧以及7月股市暴跌后“财富效应”减弱对奢侈品消费的冲击。相比之下，便利店在经济波动中表现出韧性，受益于必需品消费稳定、高温天气、外国游客增加和市场整合。这表明市场情绪转向防御性板块。
-  📰 [Seoul Economic Daily](https://www.google.com/search?q=global)
-
-- **[2026.08.13] Taiwan Semiconductor — 钰祥企业预计下半年业绩强劲增长**
-  日本語：台湾の半導体化学フィルター大手である鈺祥企業（Yesiang Enterprise Co）は、2026年8月13日に、先進的な2ナノメートルチップ工場からのフィルター需要増加により、下半期の売上が上半期を大幅に上回るとの見通しを発表しました。同社の会長は、5月以降売上高が前年比100%以上増加していると述べ、この力強い成長モメンタムが下半期も続くと予想しています。また、主要顧客が台南の新チップ・オン・ウェハー・オン・基板（CoWoS）パッケージング工場で同社の化学フィルターを採用し始めることも、成長の重要な推進要因となります。これにより、同社の全体的な粗利益率も過去最高を更新する見込みです。
-  中文：总结：台湾半导体化学滤材大厂钰祥企业于2026年8月13日表示，受先进2纳米芯片工厂滤材需求强劲增长推动，预计下半年营收将显著超越上半年。公司董事长指出，自5月以来营收已实现同比超100%的增长，预计此强劲势头将持续。此外，主要客户在新CoWoS封装厂采用其滤材也将是重要增长动力，有望带动公司整体毛利率创历史新高。
-  📰 [Taipei Times](https://www.google.com/search?q=global)
+- **[2026.08.13] Bullish — Bullish公布2026年第二季度业绩，数字资产销售额326亿美元**
+  English: Bullish (NYSE: BLSH), an institutionally focused global digital asset platform, announced its financial results for the second quarter ended June 30, 2026. The company reported digital asset sales of $32.6 billion, a decrease from $58.6 billion in Q2 2025, and a net loss of $(280.0) million, compared to a net income of $108.3 million in the prior year. However, adjusted revenue, a non-IFRS measure, increased by 62% year-over-year to $92.6 million, primarily driven by record subscription, services, and other revenue of $62.7 million. CEO Tom Farley highlighted the ongoing shift of the global securities market onto public blockchains and Bullish's role in facilitating this transition.
+  中文：总结：机构级全球数字资产平台Bullish (NYSE: BLSH) 公布了截至2026年6月30日的第二季度财务业绩。公司报告数字资产销售额为326亿美元，较2025年第二季度的586亿美元有所下降，并录得2.8亿美元的净亏损。然而，调整后收入同比增长62%至9260万美元，主要得益于订阅、服务及其他收入的强劲增长。首席执行官Tom Farley强调了全球证券市场向公共区块链转移的趋势以及Bullish在其中扮演的角色。
+  📰 [GlobeNewswire](https://www.globenewswire.com/news-release/2026/08/13/3280000/0/en/Bullish-reports-second-quarter-2026-results.html)
 
 ---
 ※Stock Market Daily Digest | 2026.08.13
