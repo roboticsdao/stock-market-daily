@@ -115,6 +115,8 @@ Rules:
 - Condense the full article's main event, parties, actions, key figures, reasons and stated context.
 - Do not evaluate business prospects, investment meaning, commercialization, market implications, future indicators, or what readers should watch.
 - Do not give advice, forecasts, conclusions about success, or generic industry commentary.
+- You may include forecasts or opinions only when the article explicitly attributes them to a named person or organization; preserve that attribution.
+- Preserve every number, date, percentage, currency and unit exactly. In zh_summary, keep expressions such as '$733 billion' or '$20 million' in their original notation instead of converting billion/million into 亿/万.
 - local_summary must use the requested language. zh_summary must be Simplified Chinese.
 - Aim for 300-500 characters in each field. If the article itself is short, be shorter rather than padding.
 - Start directly with facts. Do not write meta phrases such as 'this article reports', 'this news concerns', or 'the headline says'.
