@@ -1,6 +1,6 @@
 import unittest
 
-from article_summaries import FORBIDDEN_ANALYSIS, summarize_articles, summary_quality_issues
+from article_summaries import FORBIDDEN_ANALYSIS, _preserve_source_units, summarize_articles, summary_quality_issues
 
 
 class ArticleSummaryTests(unittest.TestCase):
@@ -28,6 +28,13 @@ class ArticleSummaryTests(unittest.TestCase):
         }
         self.assertTrue(summary_quality_issues([item]))
         self.assertIn("后续要看", FORBIDDEN_ANALYSIS)
+
+    def test_large_units_are_not_mistranslated(self):
+        source = "Cloud operators are expected to spend approximately $733 billion in 2026."
+        chinese = "云运营商预计2026年支出约733亿美元。"
+        corrected = _preserve_source_units(chinese, source)
+        self.assertIn("$733 billion", corrected)
+        self.assertNotIn("733亿美元", corrected)
 
 
 if __name__ == "__main__":

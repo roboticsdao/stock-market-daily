@@ -144,6 +144,24 @@ def _valid_summary(value):
     return len(clean) >= 80 and not any(phrase.lower() in lower for phrase in FORBIDDEN_ANALYSIS)
 
 
+def _preserve_source_units(summary, article_text):
+    for match in re.finditer(r"(?i)([$€£¥]?\s*\d[\d,.]*)\s+(million|billion|trillion)\b", article_text or ""):
+        amount = _clean(match.group(1))
+        unit = match.group(2).lower()
+        original = f"{amount} {unit}"
+        if re.search(re.escape(original), summary, re.I):
+            continue
+        number = re.sub(r"^[$€£¥]\s*", "", amount)
+        localized = re.compile(
+            rf"(?<!\d){re.escape(number)}\s*(?:万亿|千亿|百亿|十亿|亿|千万|百万|十万|万)?\s*(?:美元|欧元|英镑|日元|元)?",
+            re.I,
+        )
+        summary, count = localized.subn(original, summary, count=1)
+        if not count and number in summary:
+            summary = summary.replace(number, original, 1)
+    return _clean(summary)
+
+
 def summarize_articles(items, api_key, model="gemini-3.5-flash-lite"):
     if not items:
         return []
@@ -166,8 +184,8 @@ def summarize_articles(items, api_key, model="gemini-3.5-flash-lite"):
                 completed = []
                 for index, item in enumerate(items):
                     row = rows.get(str(index), {})
-                    local = _clean(row.get("local_summary", ""))
-                    chinese = _clean(row.get("zh_summary", ""))
+                    local = _preserve_source_units(_clean(row.get("local_summary", "")), item.get("article_text", ""))
+                    chinese = _preserve_source_units(_clean(row.get("zh_summary", "")), item.get("article_text", ""))
                     if not (_valid_summary(local) and _valid_summary(chinese)):
                         raise ValueError(f"invalid or analytical summary for item {index}")
                     current = dict(item)
