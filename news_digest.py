@@ -579,14 +579,8 @@ def quote_body(sec, en_name, zh_name, price, pct, when):
     direction_en = "higher" if pct >= 0 else "lower"
     direction_jp = "上昇" if pct >= 0 else "下落"
     if "日本" in sec["label"] or "Japan" in sec["label"]:
-        return (
-            f"{zh_name}（{en_name}）は{when}時点で{fmt_price(price)}となり、前日終値比で{abs(pct):.2f}%{direction_jp}しています。"
-            "この項目は取得時点の価格と騰落率のみを示しており、値動きの原因は付加していません。"
-        )
-    return (
-        f"{en_name} stood at {fmt_price(price)} as of {when}, {abs(pct):.2f}% {direction_en} than the previous close. "
-        "This snapshot reports only the observed price and percentage move; it does not assign a cause to the move."
-    )
+        return f"{zh_name}（{en_name}）は{when}時点で{fmt_price(price)}となり、前日終値比で{abs(pct):.2f}%{direction_jp}しています。"
+    return f"{en_name} stood at {fmt_price(price)} as of {when}, {abs(pct):.2f}% {direction_en} than the previous close."
 
 def fetch_quote(symbol):
     url = "https://query1.finance.yahoo.com/v8/finance/chart/" + urllib.parse.quote(symbol, safe="") + "?range=1d&interval=1m"
@@ -611,10 +605,7 @@ def fmt_price(value):
 
 def quote_context(sec, en_name, zh_name, pct, when):
     direction = "上涨" if pct >= 0 else "下跌"
-    return (
-        f"截至 {when}，{zh_name}较前收盘{direction}{abs(pct):.2f}%。"
-        "这里仅记录抓取时的价格变动，不根据涨跌幅推测原因。"
-    )
+    return f"截至 {when}，{zh_name}较前收盘{direction}{abs(pct):.2f}%。"
 
 def market_snapshot_items(sec):
     if "日本" in sec["label"] or "Japan" in sec["label"]:
