@@ -141,7 +141,16 @@ def _parse_json_array(raw):
 def _valid_summary(value):
     clean = _clean(value)
     lower = clean.lower()
-    return len(clean) >= 80 and not any(phrase.lower() in lower for phrase in FORBIDDEN_ANALYSIS)
+    return len(clean) >= 40 and not any(phrase.lower() in lower for phrase in FORBIDDEN_ANALYSIS)
+
+
+def _sanitize_summary(value):
+    sentences = re.split(r"(?<=[.!?。！？])\s*", _clean(value))
+    kept = [
+        sentence for sentence in sentences
+        if sentence and not any(phrase.lower() in sentence.lower() for phrase in FORBIDDEN_ANALYSIS)
+    ]
+    return _clean(" ".join(kept))
 
 
 def _preserve_source_units(summary, article_text):
@@ -182,8 +191,8 @@ def summarize_articles(items, api_key, model="gemini-3.5-flash-lite"):
                 completed = []
                 for index, item in enumerate(items):
                     row = rows.get(str(index), {})
-                    local = _preserve_source_units(_clean(row.get("local_summary", "")), item.get("article_text", ""))
-                    chinese = _preserve_source_units(_clean(row.get("zh_summary", "")), item.get("article_text", ""))
+                    local = _preserve_source_units(_sanitize_summary(row.get("local_summary", "")), item.get("article_text", ""))
+                    chinese = _preserve_source_units(_sanitize_summary(row.get("zh_summary", "")), item.get("article_text", ""))
                     if not (_valid_summary(local) and _valid_summary(chinese)):
                         raise ValueError(f"invalid or analytical summary for item {index}")
                     current = dict(item)

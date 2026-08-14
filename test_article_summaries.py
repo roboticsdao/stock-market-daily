@@ -1,6 +1,6 @@
 import unittest
 
-from article_summaries import FORBIDDEN_ANALYSIS, _preserve_source_units, summarize_articles, summary_quality_issues
+from article_summaries import FORBIDDEN_ANALYSIS, _preserve_source_units, _sanitize_summary, summarize_articles, summary_quality_issues
 
 
 class ArticleSummaryTests(unittest.TestCase):
@@ -43,6 +43,13 @@ class ArticleSummaryTests(unittest.TestCase):
         self.assertIn("8月13日", corrected)
         self.assertIn("100万美元", corrected)
         self.assertNotIn("$1 million3日", corrected)
+
+    def test_analytical_sentence_is_removed_without_losing_facts(self):
+        summary = "公司发布了新机器人，并公布三项技术参数。后续要看量产节奏和商业指标。产品将于9月公开展示。"
+        sanitized = _sanitize_summary(summary)
+        self.assertIn("三项技术参数", sanitized)
+        self.assertIn("9月公开展示", sanitized)
+        self.assertNotIn("后续要看", sanitized)
 
 
 if __name__ == "__main__":
