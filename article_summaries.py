@@ -169,6 +169,27 @@ def _preserve_source_units(summary, article_text):
     return _clean(summary)
 
 
+def repair_legacy_unit_corruption(value):
+    repaired = value or ""
+    embedded = re.compile(
+        r"[$€£¥]?(\d[\d,]*)(?:\s*(?:million|billion|trillion))+(?=(?:\d|[,.]\d))",
+        re.I,
+    )
+    for _ in range(3):
+        updated = embedded.sub(r"\1", repaired)
+        if updated == repaired:
+            break
+        repaired = updated
+    months = "January|February|March|April|May|June|July|August|September|October|November|December"
+    repaired = re.sub(
+        rf"\b({months})\s+(\d{{1,2}})\s+(?:million|billion|trillion)(?=\s*[,，])",
+        r"\1 \2",
+        repaired,
+        flags=re.I,
+    )
+    return repaired
+
+
 def summarize_articles(items, api_key, model="gemini-3.5-flash-lite"):
     if not items:
         return []

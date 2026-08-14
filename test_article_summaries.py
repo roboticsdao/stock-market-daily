@@ -1,6 +1,6 @@
 import unittest
 
-from article_summaries import FORBIDDEN_ANALYSIS, _preserve_source_units, _sanitize_summary, summarize_articles, summary_quality_issues
+from article_summaries import FORBIDDEN_ANALYSIS, _preserve_source_units, _sanitize_summary, repair_legacy_unit_corruption, summarize_articles, summary_quality_issues
 
 
 class ArticleSummaryTests(unittest.TestCase):
@@ -50,6 +50,15 @@ class ArticleSummaryTests(unittest.TestCase):
         self.assertIn("三项技术参数", sanitized)
         self.assertIn("9月公开展示", sanitized)
         self.assertNotIn("后续要看", sanitized)
+
+    def test_legacy_embedded_units_are_repaired(self):
+        broken = "8月$1 million3日，出货8,4 billion00台，占比4 billion4%。On August 1 trillion0 billion, valuation was 60 millionbillion.993 billion yuan."
+        repaired = repair_legacy_unit_corruption(broken)
+        self.assertIn("8月13日", repaired)
+        self.assertIn("8,400台", repaired)
+        self.assertIn("占比44%", repaired)
+        self.assertIn("On August 10,", repaired)
+        self.assertIn("60.993 billion yuan", repaired)
 
 
 if __name__ == "__main__":
