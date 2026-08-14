@@ -153,12 +153,10 @@ def _preserve_source_units(summary, article_text):
             continue
         number = re.sub(r"^[$€£¥]\s*", "", amount)
         localized = re.compile(
-            rf"(?<!\d){re.escape(number)}\s*(?:万亿|千亿|百亿|十亿|亿|千万|百万|十万|万)?\s*(?:美元|欧元|英镑|日元|元)?",
+            rf"(?<![\d,.]){re.escape(number)}(?![\d,.])\s*(?:万亿|千亿|百亿|十亿|亿|千万|百万|十万|万)?\s*(?:美元|欧元|英镑|日元|人民币|元)",
             re.I,
         )
         summary, count = localized.subn(original, summary, count=1)
-        if not count and number in summary:
-            summary = summary.replace(number, original, 1)
     return _clean(summary)
 
 

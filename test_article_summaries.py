@@ -36,6 +36,14 @@ class ArticleSummaryTests(unittest.TestCase):
         self.assertIn("$733 billion", corrected)
         self.assertNotIn("733亿美元", corrected)
 
+    def test_large_unit_guard_does_not_replace_dates_or_plain_numbers(self):
+        source = "Asteria announced on August 13 that it invested $1 million."
+        chinese = "Asteria于8月13日宣布投资100万美元，这是第一笔投资。"
+        corrected = _preserve_source_units(chinese, source)
+        self.assertIn("8月13日", corrected)
+        self.assertIn("100万美元", corrected)
+        self.assertNotIn("$1 million3日", corrected)
+
 
 if __name__ == "__main__":
     unittest.main()
