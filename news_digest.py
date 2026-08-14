@@ -9,6 +9,8 @@ from difflib import SequenceMatcher
 from datetime import datetime, timezone, timedelta
 from pathlib import Path
 
+from article_summaries import enrich_articles, summarize_articles, summary_quality_issues
+
 # ╔═══════════════════════════════════════════════════════════╗
 # ║  CONFIG — 日美股市新闻播报                                 ║
 # ╚═══════════════════════════════════════════════════════════╝
@@ -60,7 +62,7 @@ CONFIG = {
             ],
         },
     ],
-    "items_per_section": "4 to 8",
+    "items_per_section": 8,
     "time_window": "today only",
     "section_prompt": """Search for {items_per_section} recent news specifically about {label}.
 Search keywords: {keywords}. Today is {date_str}.
@@ -576,23 +578,14 @@ def japanese_market_body(sec, item, summary):
 def quote_body(sec, en_name, zh_name, price, pct, when):
     direction_en = "higher" if pct >= 0 else "lower"
     direction_jp = "上昇" if pct >= 0 else "下落"
-    profile = MARKET_PROFILES[market_topic(sec, f"{en_name} {zh_name}")]
     if "日本" in sec["label"] or "Japan" in sec["label"]:
         return (
-            f"要約：{zh_name}（{en_name}）は{when}時点で{fmt_price(price)}となり、前日比{abs(pct):.2f}%{direction_jp}しています。"
-            f"{zh_name}は{profile['label_jp']}の確認対象であり、{profile['jp']}。"
-            f"この{zh_name}の値動きについては、{profile['watch_jp']}を確認し、価格方向と同じ材料が実際に市場で取引されているかを判断します。"
-        )
-    if "美国" in sec["label"] or "US" in sec["label"]:
-        return (
-            f"Summary: {en_name} traded at {fmt_price(price)}, {abs(pct):.2f}% {direction_en} versus the previous close as of {when}. "
-            f"For this {en_name} move, {profile['en'][0].lower() + profile['en'][1:]}. "
-            f"Confirmation for {en_name} should come from {profile['watch_en']}; the live quote is evidence of price direction, not by itself an explanation of the catalyst."
+            f"{zh_name}（{en_name}）は{when}時点で{fmt_price(price)}となり、前日終値比で{abs(pct):.2f}%{direction_jp}しています。"
+            "この項目は取得時点の価格と騰落率のみを示しており、値動きの原因は付加していません。"
         )
     return (
-        f"Summary: {en_name} stood at {fmt_price(price)}, {abs(pct):.2f}% {direction_en} versus the previous close as of {when}. "
-        f"For this {en_name} reading, {profile['en'][0].lower() + profile['en'][1:]}. "
-        f"Confirmation for {en_name} should come from {profile['watch_en']}, keeping the interpretation specific to this asset rather than applying one macro template to every quote."
+        f"{en_name} stood at {fmt_price(price)} as of {when}, {abs(pct):.2f}% {direction_en} than the previous close. "
+        "This snapshot reports only the observed price and percentage move; it does not assign a cause to the move."
     )
 
 def fetch_quote(symbol):
@@ -618,11 +611,9 @@ def fmt_price(value):
 
 def quote_context(sec, en_name, zh_name, pct, when):
     direction = "上涨" if pct >= 0 else "下跌"
-    profile = MARKET_PROFILES[market_topic(sec, f"{en_name} {zh_name}")]
     return (
-        f"截至 {when}，{zh_name}较前收盘{direction}{abs(pct):.2f}%，对应的观察主题是{profile['label_zh']}。"
-        f"对{zh_name}这一次价格变化而言，{profile['zh']}。后续只围绕{profile['watch_zh']}进行确认，"
-        f"避免把{zh_name}的单一实时涨跌机械地解释成整个市场或其他行业已经形成同方向趋势。"
+        f"截至 {when}，{zh_name}较前收盘{direction}{abs(pct):.2f}%。"
+        "这里仅记录抓取时的价格变动，不根据涨跌幅推测原因。"
     )
 
 def market_snapshot_items(sec):
@@ -718,12 +709,45 @@ def fetch_section(sec):
 def generate_digest():
     h = f"# {CONFIG['emoji']} {CONFIG['title']} | {DATE_STR}（{WEEKDAY_JP}曜日 / {WEEKDAY_EN}）\n\n> {CONFIG['disclaimer']}\n\n---\n"
     parts = [h]
+    grouped_items = []
     for sec in CONFIG["sections"]:
-        print(f"\n   Fetching {sec['emoji']} {sec['label']}...")
-        c = fetch_section(sec)
+        print(f"\n   Fetching article bodies for {sec['emoji']} {sec['label']}...")
+        try:
+            candidates = fetch_rss_items(sec, limit=12)
+            for item in candidates:
+                item["summary_language"] = "Japanese" if "日本" in sec["label"] or "Japan" in sec["label"] else "English"
+                item["section_label"] = sec["label"]
+            items = enrich_articles(candidates)[:CONFIG["items_per_section"]]
+        except Exception as ex:
+            print(f"   {sec['emoji']} article fetch failed: {ex}")
+            items = []
+        grouped_items.append((sec, items))
+
+    flat_items = [item for _, items in grouped_items for item in items]
+    summarized = summarize_articles(flat_items, GEMINI_API_KEY, model=CONFIG["model"])
+    issues = summary_quality_issues(summarized)
+    if issues:
+        raise RuntimeError("; ".join(issues[:5]))
+    summarized_by_section = {}
+    for item in summarized:
+        summarized_by_section.setdefault(item["section_label"], []).append(item)
+
+    for sec, _ in grouped_items:
+        items = summarized_by_section.get(sec["label"], [])
         parts.append(f"\n## {sec['emoji']} {sec['label']}\n")
-        parts.append(c if c else f"- **[{DATE_STR}] 暂无更新 — No updates**\n  English: No recent news.\n  中文：暂无新闻。")
-        time.sleep(2)
+        lines = []
+        for item in items:
+            local_label = "日本語" if item["summary_language"] == "Japanese" else "English"
+            zh_line = f"  中文：总结：{item['zh_summary']}\n" if item.get("zh_summary") else ""
+            lines.append(
+                f"- **[{item['date']}] {item['source']} — {item['headline']}**\n"
+                f"  {local_label}：{item['local_summary']}\n"
+                f"{zh_line}"
+                f"  📰 [{item['source']}]({item['link']})"
+            )
+        if len(lines) < CONFIG["items_per_section"]:
+            lines.extend(market_snapshot_items(sec)[: CONFIG["items_per_section"] - len(lines)])
+        parts.append("\n\n".join(lines) if lines else f"- **[{DATE_STR}] 暂无更新 — No readable article**\n  中文：近期文章正文无法可靠读取，因此未生成推测性摘要。")
     parts.append(f"\n---\n※{CONFIG['title']} Digest | {DATE_STR}")
     return "\n".join(parts)
 
