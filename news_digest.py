@@ -97,7 +97,7 @@ Format: - **[YYYY.MM.DD] Company/Index — 中文概要**
   📰 [Source](https://url)""",
     "disclaimer": "⚠ 本日报优先收录最近24小时的市场新闻、个股异动与当时市场快照；数据仅供参考，不构成投资建议。",
     "history_days": 90,
-    "model": "gemini-2.5-flash",
+    "model": "gemini-3.5-flash-lite",
     "temperature": 0.3,
     "max_retries": 3,
     "retry_delay": 5,

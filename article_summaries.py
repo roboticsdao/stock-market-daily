@@ -142,7 +142,7 @@ def _valid_summary(value):
     return len(clean) >= 80 and not any(phrase.lower() in lower for phrase in FORBIDDEN_ANALYSIS)
 
 
-def summarize_articles(items, api_key, model="gemini-2.5-flash"):
+def summarize_articles(items, api_key, model="gemini-3.5-flash-lite"):
     if not items:
         return []
     if api_key:
@@ -157,7 +157,6 @@ def summarize_articles(items, api_key, model="gemini-2.5-flash"):
                     model=model,
                     contents=prompt,
                     config=types.GenerateContentConfig(
-                        temperature=0.1,
                         response_mime_type="application/json",
                     ),
                 )
