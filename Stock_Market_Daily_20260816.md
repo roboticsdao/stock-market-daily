@@ -1,0 +1,135 @@
+# 📈 Stock Market Daily | 2026.08.16（日曜日 / Sunday）
+
+> ⚠ 本日报优先收录最近24小时的市场新闻、个股异动与当时市场快照；数据仅供参考，不构成投资建议。
+
+---
+
+
+## 🇺🇸 美国股市 / US Market
+
+- **[2026.08.16] Stocktwits — NBIS, CRWV, APLD, IREN: Why Are Neocloud Stocks Jumping Premarket?**
+  English：Neocloud stocks, including Nebius (NBIS) and CoreWeave (CRWV), climbed in early premarket trading after Micron's strong quarterly results reinforced confidence in robust AI demand and cloud infrastructure spending. NBIS rose 4. 4% while CRWV advanced 4%. Applied Digital and IREN Ltd gained 3. 4% and 3. 8%. Micron reported record fiscal third-quarter figures, with revenue up 346% year over year and gross margin more than doubling to 84. 9%, driven by major customers like Nvidia, AMD, Amazon, Microsoft, and Google. Micron management stated that memory chip demand and constrained supply will persist through at least 2028. Both Nebius and CoreWeave recently joined the Nasdaq-100 index, but experienced stock drops earlier in the week that sparked retail buying, though overall retail sentiment turned bearish on Thursday following recent declines.
+  中文：总结：美光公布强劲的第三财季业绩后，包括Nebius和CoreWeave在内的新云股票在盘前交易中走高。 美光当季营收同比大增346%，毛利率翻倍至84. 9%，并预计AI需求和芯片短缺将至少持续到2028年。 受此影响，NBIS股价上涨4. 4%，CRWV上涨4%，Applied Digital和IREN分别上涨3. 4%和3. 8%。 尽管两家公司近期被纳斯达克100指数纳入，但由于本周早些时候股价下跌，散户情绪在周四转为看跌。
+  📰 [Stocktwits](https://stocktwits.com/news-articles/markets/equity/nbis-crwv-apld-iren-why-are-neocloud-stocks-jumping-premarket/cZ1GaVmR7QF)
+
+- **[2026.08.16] simplywall.st — Tariff Enforcement Could Lift Astec Stock And Other U.S. Manufacturers**
+  English：Stricter trade enforcement and rising tariff evasion are shifting benefits toward U. S. -listed manufacturers like Astec Industries and Park-Ohio Holdings as underpriced imports face pressure. Astec Industries, with a market cap of US$975 million, generates revenue primarily from Infrastructure Solutions at about US$913. 9 million and Materials Solutions at about US$676. 8 million, with U. S. sales reaching about US$1. 25b. Astec sources its steel domestically and tracks tariffs closely while reshoring parts of its supply chain. Park-Ohio Holdings, valued at US$694 million, generates revenue from Supply Technologies at about US$777 million, Engineered Products at about US$487. 5 million, and Assembly Components at about US$390. 2 million, with U. S. sales at roughly US$941 million. Park-Ohio management discussed recovering estimated tariff costs of US$25 million to US$35 million while anticipating higher domestic plant production.
+  中文：总结：随着贸易执法趋严及走私逃税现象增加，美国本土制造商如Astec Industries和Park-Ohio Holdings有望从中受益。 市值9. 75亿美元的Astec主要收入来自基础设施解决方案（约9. 139亿美元）和材料解决方案（约6. 768亿美元），美国本土销售额达12. 5亿美元，该公司已将供应链部分回迁并使用美国本土钢材。 市值6. 94亿美元的Park-Ohio则涵盖供应技术（约7. 77亿美元）、工程产品（约4. 875亿美元）及装配组件（约3. 902亿美元），美国销售额约9. 41亿美元，管理层讨论了回收2500万至3500万美元估计关税成本的可能性。
+  📰 [simplywall.st](https://simplywall.st/stocks/us/capital-goods/nasdaq-aste/astec-industries/news/tariff-enforcement-could-lift-astec-stock-and-other-us-manuf)
+
+- **[2026.08.16] Crypto Briefing — Nvidia leads retail investor demand with $27B in purchases over the past year**
+  English：Individual investors have accumulated $27 billion in net purchases of Nvidia stock over the past year, making it the undisputed leader among the Magnificent 7 mega-cap tech companies, according to Vanda Research data tracked for institutional investors. This figure dwarfs retail inflows into Apple, Microsoft, Amazon, Alphabet, Meta, and Tesla over the same period. Vanda Research has frequently highlighted Nvidia as the retail king, noting multi-hundred-million-dollar single-day net inflows and weights in retail portfolios exceeding 10%. While periodic capital rotations directed temporary flows toward other names like Tesla, Nvidia's cumulative lead over the trailing year demonstrates sustained individual investor conviction rather than a temporary buying frenzy.
+  中文：总结：根据Vanda Research的数据，在过去一年中，散户投资者对英伟达股票的净买入额达到270亿美元，使其成为“七巨头”科技股中最受散户青睐的标的，这一数字远超苹果、微软、亚马逊、谷歌、Meta和特斯拉同期吸引的散户资金。 Vanda Research多次将英伟达称为“散户之王”，指出其录得数亿美元的单日净流入，且在散户投资组合中的权重超过10%。 尽管散户资金曾短暂流向特斯拉等其他股票，但英伟达在过去一年中建立的巨大领先优势体现了散户长期的坚定信心。
+  📰 [Crypto Briefing](https://cryptobriefing.com/nvidia-leads-retail-investor-demand-27b/)
+
+- **[2026.08.16] TradingKey — Micron vs. SK Hynix: As HBM Demand Continues to Surge, Which Memory Stock Deserves More Attention?**
+  English：The AI memory supercycle is driving high demand for High Bandwidth Memory, benefiting SK Hynix and Micron Technology as critical suppliers for AI infrastructure. SK Hynix holds a dominant market share of approximately 58% by revenue in the first quarter of 2026 according to Counterpoint statistics, leveraging its first-mover advantage, mature manufacturing experience, and close partnerships with Nvidia. Micron Technology holds about 21% of the market alongside Samsung and is catching up rapidly through HBM4, enterprise SSDs, and U. S. domestic manufacturing capabilities. SK Hynix began volume shipments of HBM4 in the second quarter of 2026. Both companies trade at low forward P/E ratios, though investors face risks from cyclical price volatility and potential capacity expansion costs.
+  中文：总结：AI内存超级周期推动了高带宽内存（HBM）需求的激增，使SK海力士和美光科技两大市场领导者受益。 根据Counterpoint的数据，2026年第一季度SK海力士占据约58%的HBM市场份额，凭借先发优势和英伟达等合作伙伴关系保持领先，并在2026年第二季度开始量产出货HBM4。 美光科技和三星的市场份额均为21%左右，美光正依托HBM4、企业级SSD及美国本土制造能力快速追赶。 两家公司均面临周期性价格波动和产能扩张成本的考验。
+  📰 [TradingKey](https://www.tradingkey.com/analysis/stocks/us-stocks/262109838-micron-vs-sk-hynix-hbm-demand-soaring-which-memory-stock-worth-watching-tradingkey)
+
+- **[2026.08.16] Moomoo — Broadcom (AVGO) Earnings: What to Expect This Quarter**
+  English：Broadcom is scheduled to report its Q3 FY2026 earnings on September 2, 2026, with consensus estimates projecting EPS of $3. 22 and revenue near $29. 44 billion, driven by robust AI semiconductor demand. In Q2 FY2026, Broadcom reported record results with revenue surging 48% year-over-year to $22. 2B, surpassing the consensus of $22. 08B, and net income nearly doubling due to AI semiconductor solutions, custom accelerators, and networking. Despite strong bullish analyst consensus and a 12-month average price target of $515. 78, Broadcom shares recently slid 5. 94% to close at $392. 99 amid pre-earnings profit taking, high valuations, and customer concentration concerns.
+  中文：总结：博通计划于2026年9月2日发布2026财年第三季度财报，市场一致预期每股收益为$3. 22，营收约为294. 4亿美元。 此前博通公布的2026财年第二季度营收同比大增48%至222亿美元，超出华尔街预期的220. 8亿美元，净利润实现翻倍。 尽管分析师平均目标价为$515. 78且评级强烈看涨，但由于财报前的获利回吐、高估值以及客户集中度担忧，博通股价近期下跌了5. 94%，收于$392. 99。
+  📰 [Moomoo](https://www.moomoo.com/ca/articles/broadcom-stock-earnings)
+
+- **[2026.08.16] marketbeat.com — Technology Stocks To Watch Today - August 15th**
+  English：MarketBeat's stock screener identified Sandisk, Micron Technology, NVIDIA, Advanced Micro Devices, Broadcom, Intel, and Apple as the top seven technology stocks by dollar trading volume over several days. SanDisk offers flash storage solutions including solid state drives and embedded products. Micron Technology designs and manufactures memory and storage products across four segments. NVIDIA provides graphics, compute, networking, GeForce GPUs, and AI software. Advanced Micro Devices operates Data Center, Client, Gaming, and Embedded segments offering x86 microprocessors and GPUs. Broadcom supplies semiconductor devices and infrastructure software. Intel delivers computing products spanning client, data center, AI, and foundry services. Apple designs and markets smartphones, personal computers, tablets, and wearables worldwide.
+  中文：总结：MarketBeat股票筛选工具显示，闪迪、美光科技、英伟达、超威半导体、博通、英特尔和苹果是过去几天内美元交易量最高的七只科技股。 闪迪提供闪存及固态硬盘等存储解决方案；美光科技在全球范围内设计并销售内存与存储产品；英伟达提供图形、计算、网络解决方案及GeForce GPU；超威半导体运营数据中心、客户端、游戏和嵌入式业务部门；博通专注于半导体器件和基础设施软件；英特尔提供CPU、GPU及代工服务；苹果则在全球设计和销售智能手机、个人电脑和平板电脑等设备。
+  📰 [marketbeat.com](https://www.marketbeat.com/instant-alerts/technology-stocks-to-watch-today-august-15th-2026-08-15/)
+
+- **[2026.08.16] marketbeat.com — Renewable Energy Stocks To Follow Today - August 15th**
+  English：MarketBeat's stock screener identified Quanta Services, WEC Energy Group, NOV, Clearway Energy, HA Sustainable Infrastructure Capital, ReNew Energy Global, and AirJoule Technologies as the top seven renewable energy stocks by dollar trading volume over recent days. Quanta Services provides infrastructure solutions for electric and gas utilities and renewable energy. WEC Energy Group provides regulated natural gas, electricity, and renewable energy services in the United States. NOV supplies systems and components for oil, gas, and renewable energy sectors. Clearway Energy operates approximately 6,000 net MW of renewable energy projects and 2,500 net MW of natural gas generation. HA Sustainable Infrastructure Capital invests in energy efficiency and sustainable infrastructure. ReNew Energy Global generates power through wind and solar sources in India. AirJoule Technologies provides atmospheric renewable energy and water harvesting technology.
+  中文：总结：MarketBeat筛选工具显示，Quanta Services、WEC Energy Group、NOV、Clearway Energy、HA Sustainable Infrastructure Capital、ReNew Energy Global和AirJoule Technologies是近期美元交易量最高的七只可再生能源股票。 Quanta Services为电力和燃气公用事业提供基础设施解决方案；WEC Energy Group在美国提供受监管的天然气和电力服务；NOV为油气及可再生能源行业提供设备组件；Clearway Energy运营约6000兆瓦的净可再生能源项目；HA Sustainable Infrastructure Capital投资于能效和可持续基础设施市场；ReNew Energy Global在印度通过风能和太阳能发电；AirJoule Technologies则提供大气可再生能源和水收集技术。
+  📰 [marketbeat.com](https://www.marketbeat.com/instant-alerts/renewable-energy-stocks-to-follow-today-august-15th-2026-08-15/)
+
+- **[2026.08.16] foreignpolicyjournal.com — Super Micro's (NASDAQ: SMCI) Blowout Orders Drive Rally Across AMD (NASDAQ: AMD), Intel (NASDAQ: INTC), And NVIDIA (NASDAQ: NVDA)**
+  English：Super Micro Computer reported a fiscal fourth-quarter earnings report on August 11 with non-GAAP EPS of $1. 70, beating analyst projections of $0. 71 by 139%, while revenue reached $11. 12 billion. Super Micro's order book exceeded $60 billion in new orders during the quarter, a 50% increase from six weeks prior, and non-GAAP gross margin surged to 17. 6%. This drove a chip sector rally on August 12, lifting AMD 1. 8% to $483, Intel 3. 3% to $101, and NVIDIA 3% to $224. NVIDIA's GPU demand is supported by upcoming earnings projections of $91 billion excluding China data-center compute, backed by an $80 billion share buyback and a $500 billion financing arrangement. AMD advanced on contracts for its MI450 accelerators, and Intel benefited from higher host CPU attach volume.
+  中文：总结：超微电脑于8月11日发布第四财季财报，非GAAP每股收益为$1. 70，超出分析师$0. 71预期达139%，营收达111. 2亿美元。 当季新订单超过600亿美元，比六周前增长逾50%，非GAAP毛利率飙升至17. 6%。 该消息引发芯片股在8月12日全面上涨，AMD上涨1. 8%至$483，英特尔上涨3. 3%至$101，英伟达上涨3%至$224。 英伟达受益于强劲的GPU需求及即将公布的预计910亿美元营收（不含中国数据中心计算），并拥有800亿美元股票回购授权和$500 billion融资安排。 AMD因获得MI450加速器合同而上涨，英特尔则因主机CPU搭载量增加而受益。
+  📰 [foreignpolicyjournal.com](https://www.foreignpolicyjournal.com/2026/08/15/super-micros-nasdaq-smci-blowout-orders-drive-rally-across-amd-nasdaq-amd-intel-nasdaq-intc-and-nvidia-nasdaq-nvda/)
+
+## 🇯🇵 日本株式市場 / Japan Market
+
+- **[2026.08.15] news.mynavi.jp — 【日本株人気ランキングTOP30】キオクシア首位、JX金属2位 AI・半導体関連に人気集中**
+  日本語：PayPay証券で2026年7月1日から31日の期間に買付された国内株式の売買代金ランキングでは、キオクシアホールディングスが1位となり、JX金属、日経平均チャレンジコース、フジクラが続いた。 AI、半導体、データセンター関連のほか、金融、重工、ゲーム・キャラクター関連株が上位にランクインした。 キオクシア、JX金属、フジクラ、ソフトバンクグループなどが上位を占め、太陽誘電や東京エレクトロン、村田製作所、アドバンテストなども上位に入り、メモリーや半導体製造装置、電子部品への関心が続いた。 また、フジクラや古河電気工業、住友電気工業などの電線・光ファイバー関連も上位となり、三菱UFJフィナンシャル・グループや重工各社、任天堂なども人気を集めた。 日経平均レバレッジ型・インバース型ETFも上位に入り、短期の値幅を狙う取引が見られた。
+  中文：总结：PayPay证券公布了2026年7月1日至31日期间国内股票的买入交易额排名，铠侠控股位居首位，JX金属、日经平均挑战者コース（日经平均杠杆ETF）和藤仓分列二至四位。 AI、半导体及数据中心相关股票表现强劲，铠侠、JX金属、藤仓和软银集团等均名列前茅，太阳诱电、东京电子、村田制作所及Advantest等也跻身前列，反映出市场对存储芯片、半导体制造设备及电子零部件的持续关注。 同时，藤仓、古河电气工业和住友电气工业等电线光纤股也保持高位，三菱UFJ金融集团、重工企业以及任天堂等同样受到青睐。 日经平均杠杆及反向ETF的入榜表明短期区间交易活跃。
+  📰 [news.mynavi.jp](https://news.mynavi.jp/premium/article/20260815-4787853/)
+
+- **[2026.08.15] Infoseek — 【日本株人気ランキングTOP30】キオクシア首位、JX金属2位 AI・半導体関連に人気集中｜Infoseekニュース**
+  日本語：PayPay証券で2026年7月1日から31日の期間に買付された国内株式の売買代金ランキングでは、キオクシアホールディングスが1位、JX金属が2位、日経平均チャレンジコースが3位、フジクラが4位となった。 AI、半導体、データセンター関連銘柄が上位に並び、太陽誘電、東京エレクトロン、村田製作所、アドバンテスト、イビデン、KOKUSAI ELECTRIC、SUMCO、信越化学工業、ディスコなどがランクインし、メモリーや半導体製造装置、先端材料への幅広い関心がうかがえる。 また、フジクラ、古河電気工業、住友電気工業などの電線・光ファイバー関連や、三菱UFJフィナンシャル・グループ、三菱重工業、川崎重工業、任天堂、オリエンタルランド、サンリオ、イオンなども上位に入った。
+  中文：总结：在PayPay证券2026年7月1日至31日期间买入的国内股票交易额排名中，铠侠控股排名第一，JX金属第二，日经平均挑战者コース第三，藤仓第四。 AI、半导体和数据中心相关股票名列前茅，太阳诱电、东京电子、村田制作所、Advantest、揖斐电、KOKUSAI ELECTRIC、SUMCO、信越化学工业和迪斯科等均告上榜，显示出市场对存储器、半导体制造设备和先进材料的广泛关注。 此外，藤仓、古河电气工业和住友电气工业等电线光纤相关股票，以及三菱UFJ金融集团、三菱重工、川崎重工、任天堂、东方乐园、三丽鸥和永旺等也进入了前列。
+  📰 [Infoseek](https://news.infoseek.co.jp/article/mynavi_3215685/)
+
+- **[2026.08.16] Nikkei 225 — 日经225上涨0.59%**
+  日本語：日经225（Nikkei 225）は15:45 JST時点で68,713.80となり、前日終値比で0.59%上昇しています。
+  中文：总结：截至 15:45 JST，日经225较前收盘上涨0.59%。
+  📰 [Yahoo Finance](https://finance.yahoo.com/quote/%5EN225)
+
+- **[2026.08.16] Tokyo Electron — 东京电子下跌0.57%**
+  日本語：东京电子（Tokyo Electron）は15:30 JST時点で59,130.00となり、前日終値比で0.57%下落しています。
+  中文：总结：截至 15:30 JST，东京电子较前收盘下跌0.57%。
+  📰 [Yahoo Finance](https://finance.yahoo.com/quote/8035.T)
+
+- **[2026.08.16] Advantest — 爱德万测试上涨2.59%**
+  日本語：爱德万测试（Advantest）は15:30 JST時点で36,870.00となり、前日終値比で2.59%上昇しています。
+  中文：总结：截至 15:30 JST，爱德万测试较前收盘上涨2.59%。
+  📰 [Yahoo Finance](https://finance.yahoo.com/quote/6857.T)
+
+- **[2026.08.16] SoftBank Group — 软银集团上涨2.94%**
+  日本語：软银集团（SoftBank Group）は15:30 JST時点で5,739.00となり、前日終値比で2.94%上昇しています。
+  中文：总结：截至 15:30 JST，软银集团较前收盘上涨2.94%。
+  📰 [Yahoo Finance](https://finance.yahoo.com/quote/9984.T)
+
+- **[2026.08.16] Toyota — 丰田汽车上涨1.17%**
+  日本語：丰田汽车（Toyota）は15:30 JST時点で3,020.00となり、前日終値比で1.17%上昇しています。
+  中文：总结：截至 15:30 JST，丰田汽车较前收盘上涨1.17%。
+  📰 [Yahoo Finance](https://finance.yahoo.com/quote/7203.T)
+
+- **[2026.08.16] Sony Group — 索尼集团上涨5.73%**
+  日本語：索尼集团（Sony Group）は15:30 JST時点で3,912.00となり、前日終値比で5.73%上昇しています。
+  中文：总结：截至 15:30 JST，索尼集团较前收盘上涨5.73%。
+  📰 [Yahoo Finance](https://finance.yahoo.com/quote/6758.T)
+
+## 🌍 宏观经济与投资 / Macro & Investment
+
+- **[2026.08.16] CryptoRank — Trump invites crypto and prediction market CEOs to the White House to discuss regulations**
+  English：Donald Trump is scheduled to host cryptocurrency companies and prediction market businesses at the White House on Wednesday for a private discussion regarding regulations, with several major industry names expected in attendance. President Donald Trump is expected to deliver remarks at the gathering, and CFTC Chair Mike Selig is also scheduled to address the attendees.
+  中文：总结：唐纳德·特朗普定于周三在白宫接待加密货币公司和预测市场企业，就监管问题进行闭门讨论，预计多位行业重要人物将出席。 总统唐纳德·特朗普预计将在会上发表讲话，商品期货交易委员会（CFTC）主席迈克·塞利格也计划向与会者发表演讲。
+  📰 [CryptoRank](https://cryptorank.io/news/feed/08ae4-trump-invites-crypto-ceos-to-the-white-house)
+
+- **[2026.08.16] TechStock² — US retail sales surprise intensifies Fed pause barbell position**
+  English：U. S. retail sales dropped by 0. 6% in July, coming in 0. 7 percentage point below the consensus forecast and marking the first drop in nine months. The implied chance of a September Fed rate hike fell to 30. 6% from 50. 0% a month prior. Despite growth worries, investors put a combined $67. 66 billion into global equities ($18. 62 billion), bonds ($18. 01 billion), money-market funds ($28. 41 billion), and gold ($2. 62 billion), marking the twelfth consecutive week of equity inflows. Technology funds saw $1. 7 billion in outflows, while consumer-staples funds attracted $609 million. The dollar index fell to 99. 67, gold advanced, and the 10-year Treasury yield rose. Goldman Sachs lowered its third-quarter growth outlook by 0. 5 percentage point to 2. 2%.
+  中文：总结：美国7月零售额环比下降0. 6%，较市场预期低0. 7个百分点，创下九个月以来的首次下降。 美联储9月加息的可能性从一个月前的50. 0%降至30. 6%。 尽管对经济增长的担忧加剧，但投资者仍向全球股票（186. 2亿美元）、债券（180. 1亿美元）、货币市场基金（284. 1亿美元）和黄金（26. 2亿美元）合计投入了676. 6亿美元，使股票基金连续第十二周获得资金流入。 科技基金遭遇17亿美元资金流出，而必需消费品基金则吸引了6. 09亿美元。 美元指数跌至99. 67，黄金上涨，10年期美债收益率上升。 高盛将第三季度经济增长预期下调0. 5个百分点至2. 2%。
+  📰 [TechStock²](https://ts2.tech/en/u-s-retail-sales-shock-deepens-the-fed-pause-barbell-trade/)
+
+- **[2026.08.15] TechStock² — Yen Holds 0.63-Yen Cushion as BOJ’s September Move Tests Global Carry Trades**
+  English：The yen closed Friday at 159. 37 against the dollar, remaining 0. 63 yen away from the 160 intervention threshold after a weekly decline of around 1%. Markets are pricing in a 76%–80% probability of a Bank of Japan rate hike in September, up from 24% on July 30, while traders assign a 31% probability to a Federal Reserve rate hike next month. The BOJ policy rate is currently 1%, while the US 10-year Treasury closed at 4. 688%, continuing to encourage carry trades. Global stocks eased 0. 07% on Friday and US Treasury yields increased. Mizuho raised its terminal-rate estimate to 1. 75% from 1. 50%, and Bank of America's survey signals a 2% peak.
+  中文：总结：日元周五收于兑美元159. 37，在经历约1%的周跌幅后，距离触发干预的160关口仅差0. 63日元。 市场对日本央行在9月加息的概率预期从7月30日的24%大幅升至76%–80%，而交易员预计美联储下月加息概率为31%。 日本央行政策利率为1%，美国10年期国债收益率收于4. 688%，利差继续激励全球套利交易。 周五全球股市微跌0. 07%，美债收益率上升。 瑞穗将其终端利率预测从1. 50%上调至1. 75%，美银调查则显示利率峰值或达2%。
+  📰 [TechStock²](https://ts2.tech/en/yens-0-63-yen-buffer-makes-the-bojs-september-decision-a-global-carry-trade-test/)
+
+- **[2026.08.15] CryptoRank — Chainlink Bull Market Returns as Analyst Targets $11 for LINK**
+  English：Chainlink (LINK) has exited its bear market according to analyst Michaël van de Poppe, who targets a run toward $11. LINK trades at $9. 35, up 6. 2% for the day and 12. 3% over the past seven days, holding a $6. 97 billion market cap and ranking 17th. Van de Poppe highlights higher highs and higher lows on his Binance chart, with the token trading above a rising trendline connecting spring selloff lows. Overhead resistance bands sit near $10. 87 and $14. 42, with whale transactions hitting a five-month high following a $200 long-term target from Standard Chartered. Meanwhile, Bitcoin trades at $62,968, down 3. 1% over seven days, as BTC remains range-bound with low volatility between supports of $58,115 and $62,275.
+  中文：总结：分析师米歇尔·范德波普表示，Chainlink（LINK）已正式告别熊市，其目标价指向11美元。 LINK目前交易价格为9. 35美元，日涨幅达6. 2%，过去七天上涨12. 3%，市值达69. 7亿美元，排名第17位。 范德波普指出其图表呈现更高的高点和更高的低点，且位于春季抛售低点以来的上升趋势线上方。 上方阻力位在10. 87美元和14. 42. 美元附近，标准渣 chartered 给出200美元长期目标后，巨鲸交易量达到五个月高点。 与此同时，比特币交易价为62968美元，七天内下跌3. 1%，在58115至62275美元的支撑位之间维持低波动盘整。
+  📰 [CryptoRank](https://cryptorank.io/news/feed/3c0d4-chainlink-bull-market-link-price-prediction)
+
+- **[2026.08.15] bloomingbit — US Stocks Fall on Consumer Slowdown Fears; Sandisk Jumps Another 7.39%**
+  English：U. S. stocks closed broadly lower on August 14 amid consumer spending slowdown concerns. The Dow Jones Industrial Average fell 0. 2% to 53,732. 41, the S&P 500 dropped 0. 17% to 7,785. 76, and the Nasdaq Composite lost 0. 28% to 26,729. 16. July retail sales fell 0. 6% from the prior month, marking the largest decline in 14 months and missing forecasts for a 0. 1% increase, while consumer sentiment fell for the first time in three months. Brent crude rose 1. 67% to close at $88. 52 and WTI gained 1. 45% to $82. 40 following a tanker attack in the Strait of Hormuz. The 10-year Treasury yield rose 5 basis points to 4. 69%, and the CME FedWatch showed a 67. 6% probability of the Fed holding rates steady. Broadcom and Intel fell 5. 94% and 1. 97%, while Sandisk surged 7. 39% following a JPMorgan upgrade.
+  中文：总结：由于对消费支出放缓的担忧，美股于8月14日普遍收低。 道琼斯指数下跌0. 2%至53732. 41点，标普500指数下跌0. 17%至7785. 76点，纳斯达克综合指数下跌0. 28%至26729. 16点。 美国7月零售额环比下降0. 6%，创14个月最大降幅且逊于0. 1%的增长预期，消费者信心指数三个月来首次下滑。 受霍尔木兹海峡油轮袭击影响，布伦特原油上涨1. 67%收于$88. 52，WTI原油上涨1. 45%收于$82. 40。 10年期美债收益率上升5个基点至4. 69%，CME美联储观察显示维持利率不变的概率为67. 6%。 博通和英特尔分别下跌5. 94%和1. 97%，闪迪在获摩根大通上调评级后大涨7. 39%。
+  📰 [bloomingbit](https://en.bloomingbit.io/feed/news/118377)
+
+- **[2026.08.15] CryptoRank — Bitcoin Drop Cost Abu Dhabi $118 Million: Will They Sell?**
+  English：Two Abu Dhabi sovereign funds lost $118 million on their BlackRock Bitcoin ETF (IBIT) position last quarter without selling a single share, according to SEC filings. Mubadala Investment Company and the Abu Dhabi Investment Council reported 22. 94 million shares of IBIT on June 30, valued at $764 million compared to $881 million three months earlier. Bitcoin's price climbed from an April opening near $68,079 to $82,139 by May 10, valuing the stake at about $1. 07 billion before June wiped out the gains, ending the month at $58,559. IBIT accounts for 1. 4% of Mubadala's $34. 77 billion US book, while comprising 38% of the Investment Council's $714 million book. While other institutions like Intesa Sanpoalo trimmed holdings, Abu Dhabi's retention signals a long-term investment horizon.
+  中文：总结：美国证交会文件显示，阿布扎比两大主权财富基金在上一季度持有的贝莱德比特币ETF（IBIT）仓位亏损了1. 18亿美元，但未出售一股。 穆巴达拉投资公司和阿布扎比投资委员会在6月30日共持有2294万股IBIT，价值7. 64亿美元，低于三个月前的8. 81亿美元。 比特币价格从4月开盘的68079美元附近攀升至5月10日的82139美元，使该持仓在5月达到约10. 7亿美元的峰值，但6月的回落抹去了涨幅，月末收报58559美元。 IBIT占穆巴达拉347. 7亿美元美国资产组合的1. 4%，却占投资委员会71400万美元资产组合的38%。 尽管其他机构减持，阿布扎比的持仓未变，彰显其长期投资视野。
+  📰 [CryptoRank](https://cryptorank.io/news/feed/9f603-bitcoin-abu-dhabi-etf-holdings-q2)
+
+- **[2026.08.15] CryptoRank — Bitcoin Price USD Could Fall to $57K if $62K Support Breaks Now**
+  English：Bitcoin slipped toward the lower end of its August range on Friday, August 14, trading near $62,831 after reaching an intraday low of $62,648. Trader Ted noted Bitcoin approached a $62,000-$62,500 support zone, warning that failure could expose the $60,000 level and potentially sub-$57,000 levels. Kaz identified $62,800 as an initial order-block area and pointed to unswept equal lows near $62,200. While CryptoQuant data showed historical whale accumulation below $60,000, current exchange flows indicate rising Binance inflows from wallets holding 1,000-10,000 BTC, up 793% against their 90-day baseline. Persistent Coinbase outflows and a negative Coinbase Premium signaled weaker U. S. spot demand alongside large-holder activity.
+  中文：总结：比特币在8月14日周五跌向8月区间下限，盘中触及62648美元低点后交投于62831美元附近。 交易员Ted指出比特币正接近62000至62500美元的支撑区，并警告若跌破该区间可能下探60000美元甚至57000美元以下水平。 Kaz将62800美元视为初始订单块区域，并指出62200美元附近存在未扫的等低点。 CryptoQuant数据显示60000美元下方曾有鲸鱼积累，但当前交易所流量显示，持有1000至10000枚BTC的钱包向币安的流入量较90天基准激增793%，同时Coinbase持续流出及负溢价表明在大户活跃的同时美国现货需求较弱。
+  📰 [CryptoRank](https://cryptorank.io/news/feed/c0a01-bitcoin-price-usd-could-fall-to-57k-if-62k-support-breaks-now)
+
+- **[2026.08.15] bitcoinworld.co.in — USD/JPY Breaches 160: What It Means For Markets And Policy Credibility**
+  English：USD/JPY climbed above 160 for the first time since 1990, trading at 160. 20 as persistent interest rate differentials between the US and Japan drive markets. The 160 mark tests Japanese policymakers' credibility, with market forces overwhelming verbal warnings and previous intervention levels near 145 and 150. A weaker yen raises import costs for energy and food in Japan, complicating consumer sentiment and the BOJ's inflation outlook, while globally pressuring Asian currencies and dollar-denominated debt. While market participants await the Bank of Japan's policy meeting, uncertainties remain regarding unilateral intervention due to high costs and the necessity of U. S. cooperation, with traders watching key levels at 161 and 162.
+  中文：总结：美元兑日元自1990年以来首次突破160关口，最新交投于160. 20，美日持续的巨大利差继续主导市场。 160点不仅是一个心理关口，也是对日本政策制定者信誉的关键测试，市场力量已压倒口头警告及此前在145和150附近的干预效果。 日元走弱推高了日本的能源和食品进口成本，复杂化了消费者情绪及日本央行的通胀前景，同时在全球范围内对外汇和美元债务构成压力。 尽管市场关注日本央行的政策走向，但由于高昂成本和美国合作的需求，单边干预的不确定性依然存在，交易员正密切关注161和162的关键水平。
+  📰 [bitcoinworld.co.in](https://bitcoinworld.co.in/usd-jpy-above-160-credibility-analysis/)
+
+---
+※Stock Market Daily Digest | 2026.08.16
