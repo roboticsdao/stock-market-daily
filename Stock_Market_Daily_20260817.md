@@ -1,0 +1,130 @@
+# 📈 Stock Market Daily | 2026.08.17（月曜日 / Monday）
+
+> ⚠ 本日报优先收录最近24小时的市场新闻、个股异动与当时市场快照；数据仅供参考，不构成投资建议。
+
+---
+
+
+## 🇺🇸 美国股市 / US Market
+
+- **[2026.08.17] 247wallst.com — Wall Street's Biggest Funds Are Dumping Broadcom and Adding Taiwan Semiconductor. Time to Follow the 'Smart Money?'**
+  English：In second-quarter 13F filings as of June 30, major hedge funds including David Tepper's Appaloosa, Dan Loeb's Third Point, and Stanley Druckenmiller's Duquesne rotated out of Broadcom and into Taiwan Semiconductor Manufacturing. Third Point and Duquesne completely exited their Broadcom positions, while Appaloosa added new shares. Broadcom shares recently fell after SemiAnalysis reported Alphabet is shifting more toward rivals AMD and MediaTek for custom chips, though Broadcom recently renewed a 5-year partnership with Google. Broadcom reported Q2 FY2026 revenue of $22. 2 billion with AI semiconductor revenue at $10. 8 billion, and CEO Hock Tan forecast FY2027 AI revenue exceeding $100 billion. Meanwhile, TSMC reported Q2 2026 revenue of $40. 2 billion, raised full-year growth to slightly above 40% in USD terms, and CEO Cici Wei noted strong demand through 2029 to 2030, with 2026 CAPEX raised to $60-64 billion.
+  中文：总结：在截至6月30日的第二季度13F持仓报告中，大型对冲基金（包括David Tepper的Appaloosa、Dan Loeb的Third Point以及Stanley Druckenmiller的Duquesne）减持了博通并增持了台积电。 Third Point和Duquesne完全清仓了博通，而Appaloosa则增持了股份。 此前有研究报告称Alphabet正在将定制芯片转向AMD和MediaTek等竞争对手，导致博通股价下跌，尽管博通近期刚与谷歌续签了5年合作协议。 博通公布2026财年第二季度营收为$22. 2 billion，其中AI半导体营收达$10. 8 billion，CEO Hock Tan预测2027财年AI营收将轻松超过$100 billion。 与此同时，台积电2026年第二季度营收达到$40. 2 billion，将全年增长预期上调至按美元计算略高于40%同比增长，CEO Cici Wei表示直到2029至2030年需求都非常强劲，并将2026年资本支出上调至$60-64 billion。
+  📰 [247wallst.com](https://247wallst.com/investing/2026/08/16/wall-streets-biggest-funds-are-dumping-broadcom-and-adding-taiwan-semiconductor-time-to-follow-the-smart-money/)
+
+- **[2026.08.17] AOL.com — Warren Buffett's Successor, Greg Abel, Pared Down Bank of America, and Piled Into a Virtual Monopoly That's Now Berkshire's 3rd-Largest Holding**
+  English：Following Warren Buffett's retirement as CEO on December 31, Greg Abel assumed responsibility for Berkshire Hathaway's $358 billion investment portfolio. In second-quarter trading, Abel continued an eight-quarter streak of reducing Bank of America shares, selling 30,230,000 shares to bring total position reductions to 53%, or nearly 549. 5 million shares. BofA selling reflects profit-taking and lower interest income caused by Federal Reserve rate cuts. Meanwhile, Abel piled into Alphabet by purchasing 24,541,369 Class A shares and 23,603,218 Class C shares, including a June 1-announced $10 billion private placement. With a combined market value of nearly $36. 6 billion, Alphabet leapfrogged BofA and Coca-Cola to become Berkshire's third-largest holding, driven by Alphabet's internet search dominance and rapidly accelerating sales growth in Google Cloud's generative AI integrations.
+  中文：总结：自沃伦·巴菲特于12月31日卸任首席执行官以来，格雷格·阿贝尔负责管理伯克希尔·哈撒韦的$358 billion投资组合。 在第二季度交易中，阿贝尔延续了连续八个季度减持美国银行股票的趋势，售出30,230,000股，使整体持仓削减幅度达到53%，即近549. 5 million股。 减持美国银行反映了获利了结以及美联储降息导致的净利息收入下降。 与此同时，阿贝尔大量买入Alphabet的24,541,369股A类股和23,603,218股C类股，其中包括6月1日宣布的$10 billion私募配售。 凭借近$36. 6 billion的总市值，Alphabet超越美国银行和可口可乐，成为伯克希尔的第三大持仓，这主要得益于Alphabet在互联网搜索领域的统治地位以及谷歌云生成式AI集成带来的快速销售增长。
+  📰 [AOL.com](https://www.aol.com/articles/warren-buffetts-successor-greg-abel-001700000.html)
+
+- **[2026.08.17] MarketBeat — Top Virtual Reality Stocks To Watch Today - August 16th**
+  English：According to MarketBeat's stock screener tool, Meta Platforms, The Glimpse Group, zSpace, and DIH Holding US are among the top virtual reality stocks to watch based on high dollar trading volume. Meta Platforms engages in worldwide virtual reality headsets, wearables, and communication products through its Family of Apps and Reality Labs segments. The Glimpse Group provides enterprise-focused VR and augmented reality solutions, including QReal, Immersive Health Group, and Foretell Reality. zSpace Technologies offers commercial augmented reality and virtual reality technology primarily for K-12 education and workforce career training. DIH Holding US provides robotics and virtual reality technology in the rehabilitation industry, featuring upper extremity products such as ArmeoPower, ArmeoSpring, and Armeo Senso.
+  中文：总结：MetaPlatforms通过其应用家族和现实实验室部门在全球开发虚拟现实头显、可穿戴设备以及使人们能够连接的产品。 TheGlimpseGroup提供以企业为中心的VR和增强现实软件与解决方案，包括QReal、ImmersiveHealthGroup和ForetellReality。 zSpaceTechnologies主要为K-12教育和职业技术教育提供商业增强现实与虚拟现实技术。 DIHHoldingUS在康复行业提供机器人和虚拟现实技术，其上肢产品组合包括ArmeoPower、ArmeoSpring和ArmeoSenso。
+  📰 [MarketBeat](https://www.marketbeat.com/instant-alerts/top-virtual-reality-stocks-to-watch-today-august-16th-2026-08-16/)
+
+- **[2026.08.17] MarketBeat — Best Telecom Stocks To Consider - August 16th**
+  English：MarketBeat's stock screener tool identified SpaceX, Verizon Communications, AT&T, AST SpaceMobile, T-Mobile US, Lumen Technologies, and Dycom Industries as the top seven telecom stocks to watch based on recent dollar trading volume. These companies represent ownership in the telecommunications sector, which provides wireless communications, internet access, broadband, cable, and network infrastructure. SpaceX focuses on vertically integrated space-based communications systems. Verizon and AT&T provide consumer and business communication and technology services. T-Mobile US offers mobile communication services and devices in the US and territories. Lumen Technologies delivers integrated technology and communications services globally. Dycom Industries provides specialty contracting services to the telecommunications infrastructure and utility industries.
+  中文：总结：这些公司代表了电信行业的股权，该行业提供无线通信、互联网接入、宽带、有线电视及相关网络基础设施。 SpaceX专注于垂直整合的太空通信系统。 Verizon和AT&T为消费者和企业提供通信与技术服务。 T-MobileUS在美国及其领地提供移动通信服务和设备。 LumenTechnologies在全球提供综合技术与通信服务。 DycomIndustries则为电信基础设施和公用事业行业提供专业承包服务。
+  📰 [MarketBeat](https://www.marketbeat.com/instant-alerts/best-telecom-stocks-to-consider-august-16th-2026-08-16/)
+
+- **[2026.08.17] simplywall.st — Hitachi Stock Leads 3 Japanese Nuclear Energy Shares Tied To AI Power Demand**
+  English：Rising bond yields are drawing attention to nuclear energy stocks that support steady power demand tied to AI and electrification. Hitachi is a large-cap industrial group with a market value of roughly ¥25. 9t, generating revenue across Energy (about ¥3. 46t), Connective Industries (about ¥3. 35t), Digital Systems & Services (about ¥3. 01t), Mobility (about ¥1. 38t), and others (about ¥0. 53t). Its nuclear and grid ambitions are supported by its Lumada platform and alliances with Google Cloud, Intel, and Anthropic, though it faces a high P/E and rising project costs. ITOCHU is a global trading and investment group with a market value of roughly ¥14. 4t, with revenue anchored in Food (about ¥5. 1t), Energy & Chemicals (about ¥3. 2t), General Products & Realty (about ¥1. 6t), Machinery (about ¥1. 5t), and ICT & Financial Business (about ¥1. 2t). ITOCHU provides exposure to nuclear fuels, battery materials, and sustainability lines, though it carries high external borrowing.
+  中文：总结：不断上升的债券收益率让市场重新关注能够支持与AI和电气化相关的稳定电力需求的核能股票。 日立是一家大型工业集团，市值约为¥25. 9t，其营收分布在能源业务（约¥3. 46t）、连接产业（约¥3. 35t）、数字系统与服务（约¥3. 01t）、出行系统（约¥3. 35t中的一部分，原文为约¥1. 38t）以及其他业务（约¥0. 53t）。 其核能与电网雄心得到了Lumada数字平台以及与谷歌云、英特尔和Anthropic的联盟支持，但也面临高市盈率和项目成本上升的问题。 伊藤忠商事是一家全球贸易与投资集团，市值约为¥14. 4t，其营收支柱为食品（约¥5. 1t）、能源与化学品（约¥3. 2t）、通用产品与地产（约¥1. 6t）、机械（约¥1. 5t）以及ICT与金融业务（约¥1. 2t）。 伊藤忠为投资者提供了涉足核燃料、电池材料和可持续发展业务的渠道，不过其资产负债表存在较高的外部借款。
+  📰 [simplywall.st](https://simplywall.st/stocks/jp/capital-goods/tse-6501/hitachi-shares/news/hitachi-stock-leads-3-japanese-nuclear-energy-shares-tied-to)
+
+- **[2026.08.16] TechStock² — Nvidia’s $500 Billion Financing Push Turns Chip Demand Into Credit Risk**
+  English：Nvidia is discussing an investment of up to $3 billion in SoftBank Group Corp. 's SB Energy to support an OpenAI data center in Ohio. The talks form part of a broader $500 billion AI-financing push led by a group including Apollo, BlackRock, Blackstone, Brookfield, Goldman Sachs, and KKR to fund AI infrastructure. CEO Jensen Huang stated Nvidia could backstop up to $125 billion, calling the chips valuable assets. Critics question whether weaker customers require financing because their economic models remain unproven, while Wall Street remains strongly positive. Nvidia shares closed Friday at $211. 94, up 2. 56%, remaining 10. 4% below their 52-week high with a 31. 6 trailing earnings multiple.
+  中文：总结：英伟达正就在软银集团旗下的SB Energy投资最多$3 billion进行讨论，以支持在俄亥俄州建立的一个OpenAI数据中心。 该谈判是一项更广泛的$500 billion AI融资计划的一部分，该计划由阿波罗、贝莱德、黑石、布鲁克菲尔德、高盛和KKR等机构组成的财团主导，旨在为AI基础设施提供资金。 首席执行官黄仁勋表示，英伟达可以提供最高$125 billion的担保后盾，并称这些芯片是有价值的创收资产。 批评人士质疑较弱的客户是否因为其经济效益未经验证而需要融资，而华尔街则保持强烈的正面态度。 英伟达股价周五收于$211. 94，上涨2. 56%，较52周高点低10. 4%，其滞后市盈率仍为31. 6。
+  📰 [TechStock²](https://ts2.tech/en/nvidias-500-billion-financing-push-turns-chip-demand-into-credit-risk/)
+
+- **[2026.08.16] simplywall.st — Growth Investors: Industry Analysts Just Upgraded Their AAON, Inc. (NASDAQ:AAON) Revenue Forecasts By 11%**
+  English：Analysts have substantially upgraded their 2026 forecasts for AAON, Inc. , with five analysts now projecting revenues of US$2. 3b, representing a 19% improvement over the last 12 months. Statutory earnings per share are expected to leap 25% to US$2. 42, up from previous estimates of US$2. 1b in revenue and US$2. 29 in EPS. Analysts expect AAON's growth to accelerate significantly, forecasting 41% annualized growth to the end of 2026, which compares favorably to historical annual growth of 22% over the past five years and an industry forecast of 7. 1%. Despite the improved revenue and earnings estimates, the consensus price target was cut 5. 5% to US$143, and analysts noted three potential warning signs regarding earnings quality.
+  中文：总结：分析师大幅上调了AAON公司2026年的业绩预期，目前5位分析师预测今年营收将达到US$2. 3b，较过去12个月显著增长19%。 法定每股收益预计将跃升25%至US$2. 42，高于此前预测的US$2. 1b营收和US$2. 29每股收益。 分析师预计AAON的增长将显著加速，预测截至2026年底的年化增长率为41%，这远高于过去五年22%的历史年增长率以及行业7. 1%的预测增长率。 尽管营收和盈利预估有所改善，但市场一致目标价却下调了5. 5%至US$143，且分析师指出该公司存在三个关于盈利质量的潜在警告信号。
+  📰 [simplywall.st](https://simplywall.st/stocks/us/capital-goods/nasdaq-aaon/aaon/news/growth-investors-industry-analysts-just-upgraded-their-aaon)
+
+- **[2026.08.16] CNBC — Top Wall Street analysts like these 3 dividend stocks for steady income**
+  English：Amid market volatility driven by Middle East geopolitical tensions and AI boom concerns, top Wall Street analysts tracked by TipRanks have highlighted three dividend-paying stocks for steady income. Phillips 66 (PSX) offers a quarterly dividend of $1. 27 per share, yielding 2. 25%, with TD Cowen analyst Jason Gabelman raising his price target to $255 following solid Q2 earnings driven by higher refining margins. Crescent Energy (CRGY) announced a quarterly dividend of $0. 12 per share with an annualized yield of about 4%, and Evercore analyst Stephen Richardson reaffirmed a buy rating and $18 price target after Q2 results beat expectations, boosted by a tripled synergy target of $300 million from the Vital Energy acquisition. Viper Energy (VNOM) declared a 32% hike in its base dividend effective in Q3 2026, offering a 4. 5% annualized yield while removing its quarterly 75% cash return commitment to increase share repurchase and M&A flexibility.
+  中文：总结：在由中东地平线紧张局势和AI热潮担忧引发的市场波动中，TipRanks追踪的华尔街顶级分析师精选了三只派发股息的股票以提供稳定收益。 Phillips 66（PSX）提供每股$1. 27的季度股息，股息率为2. 25%，由于炼油利润率上升带动第二季度业绩稳健，TD Cowen分析师Jason Gabelman将目标价上调至$255。 Crescent Energy（CRGY）宣布每股$0. 12的季度股息，年化股息率约为4%，在第二季度业绩超出预期后，Evercore分析师Stephen Richardson重申对其买入评级和$18的目标价，这得益于收购Vital Energy带来的协同效应目标增至三倍达到$300 million。 Viper Energy（VNOM）宣布自2026年第三季度起将基础股息提高32%，年化收益率为4. 5%，同时取消了每季度返还75%可分配现金的承诺，以增强股票回购和并购的灵活性。
+  📰 [CNBC](https://www.cnbc.com/amp/2026/08/16/top-wall-street-analysts-like-these-dividend-stocks-for-steady-income.html)
+
+## 🇯🇵 日本株式市場 / Japan Market
+
+- **[2026.08.16] 日本経済新聞 — ソフトバンクG傘下SBエナジー、NVIDIAが出資検討 米報道**
+  日本語：SoftBank Group's US-based SB Energy is in ongoing discussions with Nvidia regarding a potential investment of up to 3 billion dollars (approximately 4800 billion yen). Half of the investment would occur when signing the contract for an AI data center project in Ohio, and the remaining half during SB Energy's planned initial public offering. SB Energy handles power generation and data center operations, including a 10-gigawatt AI data center project in Ohio and a 1. 2-gigawatt project in Texas for the Stargate initiative, and previously received $500 million investments from OpenAI and SoftBank in January. SB Energy began preparations to apply for a US IPO in May, aiming to list as early as September and potentially raising $5 billion.
+  中文：总结：软银集团（SBG）旗下的美国SB Energy正就接受来自美国英伟达的最多30亿美元（约4800亿日元）出资一事进行持续协商。 其中一半出资额将在签订俄亥俄州AI数据中心项目合同实施时投入，另一半将在SB Energy推进首次公开募股（IPO）时投入。 SB Energy从事发电和数据中心业务，负责SBG于3月宣布的位于俄亥俄州建设受电容量10吉瓦的AI数据中心项目，以及德克萨斯州1. 2吉瓦的“星门”计划项目，此前该公司于1月获得了来自OpenAI和SBG各5亿美元的出资。 SB Energy于5月开始准备申请美国IPO，目标最早于9月上市，并可能筹集50亿美元资金。
+  📰 [日本経済新聞](https://www.nikkei.com/article/DGXZQOUC160GB0W6A810C2000000/)
+
+- **[2026.08.17] Nikkei 225 — 日经225上涨0.59%**
+  日本語：日经225（Nikkei 225）は15:45 JST時点で68,713.80となり、前日終値比で0.59%上昇しています。
+  中文：总结：截至 15:45 JST，日经225较前收盘上涨0.59%。
+  📰 [Yahoo Finance](https://finance.yahoo.com/quote/%5EN225)
+
+- **[2026.08.17] Tokyo Electron — 东京电子下跌0.57%**
+  日本語：东京电子（Tokyo Electron）は15:30 JST時点で59,130.00となり、前日終値比で0.57%下落しています。
+  中文：总结：截至 15:30 JST，东京电子较前收盘下跌0.57%。
+  📰 [Yahoo Finance](https://finance.yahoo.com/quote/8035.T)
+
+- **[2026.08.17] Advantest — 爱德万测试上涨2.59%**
+  日本語：爱德万测试（Advantest）は15:30 JST時点で36,870.00となり、前日終値比で2.59%上昇しています。
+  中文：总结：截至 15:30 JST，爱德万测试较前收盘上涨2.59%。
+  📰 [Yahoo Finance](https://finance.yahoo.com/quote/6857.T)
+
+- **[2026.08.17] SoftBank Group — 软银集团上涨2.94%**
+  日本語：软银集团（SoftBank Group）は15:30 JST時点で5,739.00となり、前日終値比で2.94%上昇しています。
+  中文：总结：截至 15:30 JST，软银集团较前收盘上涨2.94%。
+  📰 [Yahoo Finance](https://finance.yahoo.com/quote/9984.T)
+
+- **[2026.08.17] Toyota — 丰田汽车上涨1.17%**
+  日本語：丰田汽车（Toyota）は15:30 JST時点で3,020.00となり、前日終値比で1.17%上昇しています。
+  中文：总结：截至 15:30 JST，丰田汽车较前收盘上涨1.17%。
+  📰 [Yahoo Finance](https://finance.yahoo.com/quote/7203.T)
+
+- **[2026.08.17] Sony Group — 索尼集团上涨5.73%**
+  日本語：索尼集团（Sony Group）は15:30 JST時点で3,912.00となり、前日終値比で5.73%上昇しています。
+  中文：总结：截至 15:30 JST，索尼集团较前收盘上涨5.73%。
+  📰 [Yahoo Finance](https://finance.yahoo.com/quote/6758.T)
+
+## 🌍 宏观经济与投资 / Macro & Investment
+
+- **[2026.08.17] Nikkei Asia — 'A new Plaza Accord?' Japan's battle against yen bears enters new phase**
+  English：Japan's currency authority remains defiant despite the yen surrendering about half the gains it picked up against the dollar following a round of interventions that included a joint U. S. -Japan operation to support the currency on July 31, the first such tag-team effort in 28 years.
+  中文：总结：尽管日元在7月31日包括美日联合干预在内的一系列支撑汇率行动后对美元取得的大约一半涨幅已经回吐，但日本货币当局依然表现出强硬姿态；这是28年来首次采取此类联合联手行动。
+  📰 [Nikkei Asia](https://asia.nikkei.com/business/markets/trading-asia/a-new-plaza-accord-japan-s-battle-against-yen-bears-enters-new-phase)
+
+- **[2026.08.17] odaily.news — TRON Industry Weekly Report: Stubborn Inflation and Oil Prices May Continue to Weigh on BTC Rebound**
+  English：Global macroeconomic conditions reflected stagflationary pressures as July U. S. CPI fell to 3. 4% year-over-year while retail sales unexpectedly declined 0. 6% month-over-month. WTI and Brent crude rose about 5. 4% and 5. 9% week-over-week, respectively, due to Middle East tensions, while the 10-year U. S. Treasury yield held near 4. 70%. The crypto market retreated, with BTC falling 2. 9% to around $63,000 and ETH declining 1. 8% to about $1,880, weighed down by weakening ETF demand, stalled regulatory progress including the postponed U. S. CLARITY Act, and the SEC canceling its August 14 public meeting. Meanwhile, Multipli. fi raised $21. 5 million to build rwaUSD for RWA tokenization, and Re Protocol raised $21 million to provide capital to reinsurance companies through tiered surplus notes.
+  中文：总结：全球宏观经济环境反映出滞胀压力，美国7月CPI同比降至3. 4%，而零售销售额环比意外下降0. 6%。 受中东紧张局势推动，WTI和布伦特原油分别环比上涨约5. 4%和5. 9%，美国10年期国债收益率则维持在4. 70%附近的高位。 加密货币市场回落，BTC下跌2. 9%至约$63,000，ETH下跌1. 8%至约$1,880，主要受到ETF需求减弱、监管进程停滞（包括推迟的美国CLARITY法案以及美国证券交易委员会取消8月14日公开会议）的拖累。 与此同时，Multipli. fi筹集了$21. 5 million用于构建rwaUSD以进行真实世界资产（RWA）代币化，Re Protocol筹集了$21 million通过分层盈余票据为再保险公司提供资本。
+  📰 [odaily.news](https://www.odaily.news/en/post/5212517)
+
+- **[2026.08.16] CryptoRank — Bitcoin Price Warning Grows as $64K Reclaim Fails, $61.6K Looms**
+  English：Bitcoin traded near $63,000 on August 16, 2026, after failing to reclaim the $64,000 resistance level, keeping short-term market structure tilted toward sellers. Analysts noted downside liquidity clustering around $61,600 and pointed out that Bitcoin exchange reserves have moved above their 200-day simple moving average, signaling potential selling pressure if whale inflows increase. Macroeconomic events scheduled for the coming week include the Federal Reserve's July meeting minutes on August 19, following a July 29 rate hold at 3. 50% to 3. 75% with three dissents favoring a quarter-point hike, and Japan's July Consumer Price Index release on August 21.
+  中文：总结：2026年8月16日，比特币交易价格徘徊在$63,000附近，此前未能收复$64,000的阻力位，短期市场结构仍倾向于空头。 分析师指出，下行流动性聚集在$61,600附近，并指出比特币交易所储备已超过200日简单移动平均线，如果巨鲸流入量增加，这可能预示着潜在的抛压。 下周计划公布的宏观经济事件包括8月19日美联储公布的7月会议纪要（此前美联储在7月29日将利率维持在3. 50%至3. 75%，有三名官员投票反对并主张加息25个基点），以及日本将于8月21日公布的7月消费者物价指数数据。
+  📰 [CryptoRank](https://cryptorank.io/news/feed/569c3-bitcoin-price-warning-grows-as-64k-reclaim-fails-61-6k-looms)
+
+- **[2026.08.16] Yellow.com — Iran's New Supreme Leader Has IRGC Ties And A $7.8B Crypto War Chest**
+  English：Iran's Assembly of Experts appointed Mojtaba Khamenei, 56, as the country's new supreme leader following the death of Ayatollah Ali Khamenei in U. S. -Israeli airstrikes on February 28. The IRGC pledged full obedience, and markets reacted as Bitcoin briefly fell below $66,000 while oil surged amid expectations of continued conflict. Iran's cryptocurrency ecosystem, valued at $7. 78 billion in 2025, serves as a civilian lifeline and sanctions-evasion tool, with Elliptic recording a 700% spike in outflows from Nobitex after the strikes. Chainalysis reported that IRGC-linked entities accounted for over 50% of value received by Iranian crypto platforms in Q4 2025, and state-sponsored Bitcoin mining contributes 2% to 5% of the global hash rate.
+  中文：总结：在阿亚图拉·阿里·哈梅内伊于2月28日美以空袭中丧生后，伊朗专家会议任命56岁的穆杰塔巴·哈梅内伊为该国新最高领袖。 伊斯兰革命卫队承诺绝对服从，市场对此作出反应，在持续冲突的预期下，比特币短暂跌破$66,000，石油价格飙升。 伊朗的加密货币生态系统在2025年达到$7. 78 billion，既是平民的金融生命线又是国家规避制裁的工具，Elliptic记录显示空袭后Nobitex交易所的资金流出量激增700%。 Chainalysis报告称，在2025年第四季度，与革命卫队有关联的实体占伊朗加密平台接收总价值的50%以上，而国家支持的比特币挖矿占全球算力的2%至5%。
+  📰 [Yellow.com](https://yellow.com/zipcode.html/news/irans-new-supreme-leader-has-irgc-ties-and-a-dollar78b-crypto-war-chest)
+
+- **[2026.08.16] TechStock² — Stock Market Today: Live Updates 16.08.2026**
+  English：President Donald Trump instructed the Pentagon to substantially reduce joint military exercises with South Korea ahead of the August 17-27 Ulchi Freedom Shield drills. Meanwhile, a2 Milk reported a 44% drop in annual attributable net profit to NZ$113. 6 million due to China-label supply chain issues. Reddit is set to join the S&P 500 before Tuesday's open, with JPMorgan estimating required purchases of 16. 7 million shares worth about $2. 97 billion. U. S. stock futures prepared to resume amid Middle East tensions after Trump stated the U. S. would take the Strait of Hormuz if it defeated Iran, with Brent crude at $88. 52 per barrel. ArcelorMittal shares hit 2011 highs amid EU steel import rules, Franklin Templeton highlighted private market opportunities, and Wendy's shares rose following reports of a potential take-private bid.
+  中文：总结：唐纳德·特朗普总统指示五角大楼在8月17日至27日的“乙支自由护盾”联合军演开始前，大幅削减与韩国的联合军事演习。 与此同时，a2奶粉公司由于中国标签供应链问题，全年归属于母公司的净利润大幅下降44%至NZ$113. 6 million。 Reddit准备在周二开盘前加入标普500指数，摩根大通估计指数基金需要购买16. 7 million股，价值约$2. 97 billion。 在特朗普表示如果美国击败伊朗将接管霍尔木兹海峡后，布伦特原油报$88. 52每桶，美国股指期货在新的中东紧张局势中准备恢复交易。 安赛乐米塔尔股价在欧盟钢铁进口规则推动下创下2011年以来新高，富兰克林邓普顿强调了私募市场的投资机会，温迪汉堡的股价则在潜在私有化收购传闻后上涨。
+  📰 [TechStock²](https://ts2.tech/en/stock-market-today-16-08-2026/)
+
+- **[2026.08.16] The Business Times — Traders are spoiling for a fight over the yen**
+  English：Two weeks after a joint U. S. -Japanese currency intervention involving U. S. Treasury Secretary Scott Bessent using euros to buy yen and pull the dollar down from 164 yen to around 156 yen, investors have resumed heavy selling of the yen. Data from the Bank of New York indicates daily net negative bets on the yen, pushing the exchange rate back toward 159 yen per dollar. This weakness is driven partly by the carry trade, where investors borrow low-yielding yen to invest in higher-yielding assets like U. S. bonds and tech stocks. Mizuho Bank's Masayuki Nakajima noted that while the risk of a disorderly unwind appears low due to anticipated Bank of Japan rate hikes, an unwind could negatively impact global assets from U. S. tech equities to emerging markets.
+  中文：总结：在美、日两国进行联合货币干预两周后——当时美国财长斯科特·贝森特动用欧元购买日元，将美元从164日元拉低至156日元左右——投资者已恢复对日元的大举抛售。 纽约梅隆银行的数据表明，投资者每日持续进行大规模的日元净空头押注，将汇率推回至每美元159日元附近。 日元走弱部分是由套息交易驱动的，投资者借入低收益的日元，用于投资美国国债和科技股等高收益资产。 瑞穗银行的中岛昌幸指出，尽管由于日本央行预期的加息，无序解仓的风险似乎较低，但一旦发生解仓，可能会对从美国科技股到新兴市场金融资产的广泛资产造成压力。
+  📰 [The Business Times](https://www.businesstimes.com.sg/opinion-features/traders-are-spoiling-fight-over-yen)
+
+- **[2026.08.16] Exchange Rates Org UK — Japanese Yen Bulls Have An Awkward Problem**
+  English：The USD/JPY exchange rate ended Friday at 159. 32, recovering most of the ground lost following the late-July intervention. Markets are pricing in a three-in-one probability of a Bank of Japan interest rate increase in September, with J. P. Morgan's Japanese economists expecting the policy rate to reach 2. 00% by the end of 2027. Despite expectations for faster BoJ tightening, J. P. Morgan keeps its year-end USD/JPY target unchanged at 164. The bank argues that a move toward a 2% policy rate is already largely priced into Japanese rates markets, and the unusual negative relationship between BoJ hike expectations and the yen is expected to persist, limiting the currency's upside potential from rate hikes alone.
+  中文：总结：美元兑日元汇率周五收于159. 32，收复了7月下旬干预后失去的大部分失地。 市场定价显示日本央行在9月加息的概率约为四分之三，摩根大通的日本经济学家预计政策利率将在2027年底达到2. 00%。 尽管市场对日本央行更快收紧政策有所预期，但摩根大通仍将其年底美元兑日元目标价维持在164不变。 该行认为，迈向2%政策率的预期已在很大程度上被日本利率市场消化，且日本央行加息预期与日元之间的异常负相关关系预计将持续，这限制了仅靠加息带来的日元上行空间。
+  📰 [Exchange Rates Org UK](https://www.exchangerates.org.uk/news/46865/2026-08-16-japanese-yen-bulls-have-an-awkward-problem.html)
+
+- **[2026.08.16] finance.biggo.com — The Paradox of Yen Defense: Borrowing Dollars from the Fed Without Selling US Treasuries**
+  English：As the dollar-yen exchange rate approaches 159 yen, Japan is considering utilizing the Federal Reserve's "FIMA Repo" facility for currency intervention to avoid selling its over $1 trillion in U. S. Treasuries, which could push up U. S. interest rates and strengthen the dollar. In late July, a joint U. S. -Japan intervention deployed $5 billion to $10 billion by the U. S. and over $50 billion by Japan, temporarily dropping the exchange rate from 164 yen before it slid back. The primary driver is the interest rate differential between the U. S. rate of 3. 50-3. 75% and Japan's 1. 0% rate, fueling the carry trade. U. S. Treasury Secretary Scott Bessent has urged the Fed to expand FIMA Repo limits while calling for higher Japanese interest rates, and political pressures in Japan regarding spending and tax cuts have further increased questions about debt sustainability.
+  中文：总结：随着美元兑日元汇率接近159日元，日本正考虑利用美联储的“FIMA回购”机制进行干预，以避免出售其持有的超过$1 trillion美国国债，因为抛售美债可能会推高美国利率并加剧美元走强。 7月下旬，美日联合干预投入了由美国提供的$5 billion至$10 billion以及日本提供的超过$50 billion，使汇率自164日元短暂回落后再度反弹。 日元疲软的根本驱动因素是美国3. 50%至3. 75%的利率与日本1. 0%利率之间的巨大息差，这助长了日元套息交易。 美国财政部长斯科特·贝森特敦促美联储扩大FIMA回购额度，同时呼吁日本提高利率，而日本国内关于财政支出和减税的政治压力则进一步加剧了外界对日本债务可持续性的质疑。
+  📰 [finance.biggo.com](https://finance.biggo.com/news/6306868c-4c0d-4e10-b2a2-1efbe82b6aae)
+
+---
+※Stock Market Daily Digest | 2026.08.17
