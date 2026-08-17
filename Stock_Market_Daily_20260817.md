@@ -7,104 +7,129 @@
 
 ## 🇺🇸 美国股市 / US Market
 
-- **[2026.08.17] S&P 500 — 标普500下跌0.17%**
-  English: S&P 500 stood at 7,785.76 as of 05:39 JST, 0.17% lower than the previous close.
-  中文：总结：截至 05:39 JST，标普500较前收盘下跌0.17%。
-  📰 [Yahoo Finance](https://finance.yahoo.com/quote/%5EGSPC)
+- **[2026.08.17] Business Insider — Situational Awareness bet big on SanDisk and Micron before imploding**
+  English：Leopold Aschenbrenner's hedge fund, Situational Awareness, placed heavy bets on AI stocks before imploding in late July. By the end of June, its portfolio was heavily concentrated in SanDisk and Micron, holding a $5. 7 billion stake and a $5. 6 billion stake respectively, which accounted for 56% of its US stock portfolio valued at over $20 billion. The firm significantly increased its direct holdings in chipmakers, including SanDisk, Micron, and TSMC, while establishing a $1. 2 billion stake in Nebius and sharply cutting its put and call options. However, a July sell-off in AI stocks caused its leveraged portfolio to sink by 67%, triggering margin calls and forcing Aschenbrenner to sell most of his publicly traded stocks to Ken Griffin's hedge fund, Citadel.
+  中文：总结：Leopold Aschenbrenner对冲基金Situational Awareness在7月下旬崩盘前大量押注AI股票。 截至6月底，其投资组合高度集中于SanDisk和Micron，分别持有57亿美元和56亿美元股份，占其价值逾200亿美元美国股票投资组合的56%。 该机构大幅增加了对SanDisk、Micron和TSMC等芯片制造商的直接持股，建立12亿美元的Nebius股份，并大幅削减了看跌与看涨期权。 然而，7月AI股票遭到抛售导致其高杠杆投资组合暴跌67%，引发贷款人的追加保证金通知，迫使Aschenbrenner将其大部分公开交易股票出售给Ken Griffin的对冲基金Citadel。
+  📰 [Business Insider](https://www.businessinsider.com/situational-awareness-leopold-aschenbrenner-bet-big-sandisk-micron-before-blowup-2026-8)
 
-- **[2026.08.17] Nasdaq Composite — 纳斯达克综合指数下跌0.28%**
-  English: Nasdaq Composite stood at 26,729.16 as of 06:15 JST, 0.28% lower than the previous close.
-  中文：总结：截至 06:15 JST，纳斯达克综合指数较前收盘下跌0.28%。
-  📰 [Yahoo Finance](https://finance.yahoo.com/quote/%5EIXIC)
+- **[2026.08.17] 24/7 Wall St. — Broadcom’s Brilliant Strategy Keeps Me Buying, Especially Now**
+  English：Broadcom continues to attract strong investment interest despite recent market slides, closing at $392. 99. The company's dual-engine strategy captures AI capital expenditure by selling custom silicon (ASIC) co-designed with customers alongside dominant high-speed switching silicon like Tomahawk and Jericho. In Q2 FY2026, revenue reached $22. 19 billion, up 47. 9% year-over-year, with AI semiconductor revenue surging 143% to $10. 80 billion. Management guides Q3 total revenue to $29. 4 billion and AI semi revenue to $16 billion, while CEO Hock Tan projects full-year fiscal 2026 AI semi revenue at $56 billion and over $100 billion in 2027. The firm generated $10. 26 billion in free cash flow in Q2, representing 46% of revenue, and maintains robust capital returns through a 15-consecutive-year dividend increase and a $10 billion buyback program. Risks include customer concentration among a few hyperscalers, though a widening roster with commitments from Anthropic, OpenAI, and Meta helps moderate this exposure.
+  中文：总结：尽管近期市场下跌且收盘价为$392. 99，Broadcom仍持续吸引强劲投资兴趣。 该公司通过双引擎策略捕获AI资本支出，销售与客户共同设计的定制硅片（ASIC）以及将芯片连接成工作集群的主导高速交换硅片（Tomahawk和Jericho）。 2026财年第二季度营收达到$22. 19 billion，同比增长47. 9%，其中AI半导体营收飙升143%至$10. 80 billion。 管理层预计第三季度总营收为$29. 4 billion，AI半导体营收为$16 billion，首席执行官Hock Tan预测2026财年全年AI半导体营收将达$56 billion，2027年将超过$100 billion。 该企业第二季度产生$10. 26 billion自由现金流，占营收的46%，并通过连续15年增加股息及$10 billion回购计划维持稳健的资本回报。 风险包括少数超大规模企业带来的客户集中度问题，不过来自Anthropic、OpenAI和Meta的不断扩大的客户名单和承诺有助于缓和这种敞口。
+  📰 [24/7 Wall St.](https://247wallst.com/investing/2026/08/17/broadcoms-brilliant-strategy-keeps-me-buying-especially-now/)
 
-- **[2026.08.17] NVIDIA — 英伟达下跌0.06%**
-  English: NVIDIA stood at 225.16 as of 05:00 JST, 0.06% lower than the previous close.
-  中文：总结：截至 05:00 JST，英伟达较前收盘下跌0.06%。
-  📰 [Yahoo Finance](https://finance.yahoo.com/quote/NVDA)
+- **[2026.08.17] TechStock² — Micron Shares Gain 3.5% as Apple’s Chip Policy Highlights 87% Margin Segment**
+  English：Micron Technology shares rose 3. 5% premarket to trade at $1,005. 65, driven by easing concerns over price pressure after Washington objected to Apple procuring memory chips from China. This policy is significant as Micron's mobile and client division reported an 87% gross margin, matching its main data-center division and accounting for 27. 8% of fiscal third-quarter sales. Commerce Secretary Howard Lutnick stated the administration opposes Apple buying Chinese memory chips, while Apple has considered suppliers like ChangXin Memory Technologies amid AI-driven capacity pressures. Micron's fiscal third-quarter revenue climbed 73. 8% from the previous quarter, with CEO Sanjay Mehrotra highlighting memory's strategic value during the AI era. Analysts remain largely positive, though risks include lack of confirmed orders from Apple, potential Chinese countermeasures, and memory price cyclicality.
+  中文：总结：Micron Technology盘前上涨3. 5%至$1,005. 65，此前华盛顿反对苹果从中国采购内存芯片，此举缓解了市场对价格压力的担忧。 该政策意义重大，因为Micron的移动与客户端部门报告了87%的毛利率，与主要的数据中心部门相当，并占第四财季销售额的27. 8%。 商务部长Howard Lutnick表示该行政当局反对苹果购买中国内存芯片，而苹果在AI驱动的产能压力下面对诸如长鑫存储等供应商进行了评估。 Micron第三财季营收较上一季度增长73. 8%，首席执行官Sanjay Mehrotra强调了AI时代内存的战略价值。 分析师大多持积极态度，不过风险包括尚未从苹果获得确认订单、潜在的中国反制措施以及内存价格的周期性波动。
+  📰 [TechStock²](https://ts2.tech/en/micron-stock-rises-3-5-as-apple-chip-policy-puts-an-87-margin-business-in-focus/)
 
-- **[2026.08.17] Apple — 苹果上涨0.22%**
-  English: Apple stood at 305.93 as of 05:00 JST, 0.22% higher than the previous close.
-  中文：总结：截至 05:00 JST，苹果较前收盘上涨0.22%。
-  📰 [Yahoo Finance](https://finance.yahoo.com/quote/AAPL)
+- **[2026.08.17] 24/7 Wall St. — Wall Street Is Divided on Tesla’s Next Move: Buy, Sell or Hold?**
+  English：Tesla trades at $342. 27 amid a sharp analyst split and a consensus hold rating following a Q2 report that beat revenue expectations but missed badly on earnings. Automotive sales anchored the model at $20. 006 billion out of $28. 236 billion total revenue, while Q2 deliveries hit a record 480,126 vehicles, up 25% year over year. However, operating income fell 56. 88% year over year to $398 million, operating margin compressed to 1. 4%, and free cash flow turned negative at $1. 092 billion as capital expenditures more than doubled. Valuation remains high with a trailing P/E of 311 and forward P/E of 175. The bull case relies on volume, record order backlogs, and software growth including 1. 48 million active FSD subscriptions and unsupervised robotaxi expansion, while bears point to deteriorating profitability and high capital spending.
+  中文：总结：特斯拉交易价格为$342. 27，在第二季度营收超预期但盈利大幅不及预期之后，华尔街分析师意见严重分歧，共识评级为持有。 汽车销售构成了业绩支柱，在$28. 236 billion的总营收中占据$20. 006 billion，第二季度交付量达到创纪录的480,126辆，同比增长25%。 然而，由于资本支出翻倍以上，营业收入同比下降56. 88%至$398 million，营业利润率压缩至1. 4%，自由现金流转为负$1. 092 billion。 估值依然高企，静态市盈率为311，动态市盈率为175。 多头观点依托于销量、创纪录的订单积压以及包括148万活跃FSD订阅和无监督Robotaxi扩张在内的软件增长，而空头则指出盈利能力恶化和高昂的资本支出。
+  📰 [24/7 Wall St.](https://247wallst.com/investing/2026/08/17/wall-street-is-divided-on-teslas-next-move-buy-sell-or-hold/)
 
-- **[2026.08.17] Microsoft — 微软下跌0.30%**
-  English: Microsoft stood at 495.40 as of 05:00 JST, 0.30% lower than the previous close.
-  中文：总结：截至 05:00 JST，微软较前收盘下跌0.30%。
-  📰 [Yahoo Finance](https://finance.yahoo.com/quote/MSFT)
+- **[2026.08.17] TechStock² — Nasdaq Futures Lead S&P in Pre-Market; AI Rally Drives Rebound**
+  English：U. S. equity markets opened the week with Nasdaq futures rising 0. 52%, outpacing the S&P 500 futures rise of 0. 13% by fourfold, while Dow futures slipped 0. 17%. The AI-driven rebound was sparked by private AI firm Anthropic forecasting revenue of about $190 billion to $200 billion in 2028 ahead of an IPO, lifting major tech stocks including Amazon, Alphabet, Micron, Broadcom, and Nvidia. Supporting market sentiment, traders lowered the probability of a Federal Reserve rate hike in September to 31% from nearly 50% a week prior, while gold gained 0. 5% to $4,398. 58 and Brent crude hovered near $89. 42 amid Middle East risks. LSEG IBES data shows 84. 8% of the 453 S&P 500 companies reporting have beaten analyst expectations.
+  中文：总结：美国股市本周开盘时，纳斯达克期货上涨0. 52%，涨幅为标普500期货0. 13%的四倍，而道指期货则下跌0. 17%。 人工智能驱动的反弹由私营AI企业Anthropic在IPO前预测2028年营收约在$190 billion至$200 billion之间所点燃，这推动了亚马逊、Alphabet、Micron、Broadcom和英伟达等主要科技股上涨. 支持市场情绪的是，交易员将美联储9月加息的概率从一周前的近50%下调至31%，同时黄金上涨0. 5%至$4,398. 58，布伦特原油在中东风险背景下徘徊于$89. 42附近。 LSEG IBES数据显示，已发布财报的453家标普500成分公司中，有84. 8%超出了分析师预期。
+  📰 [TechStock²](https://ts2.tech/en/us-pre-market-briefing-nasdaq-futures-outpace-sp-4-to-1-as-ai-trade-re-accelerates/)
 
-- **[2026.08.17] Tesla — 特斯拉上涨0.68%**
-  English: Tesla stood at 342.27 as of 05:00 JST, 0.68% higher than the previous close.
-  中文：总结：截至 05:00 JST，特斯拉较前收盘上涨0.68%。
-  📰 [Yahoo Finance](https://finance.yahoo.com/quote/TSLA)
+- **[2026.08.17] aol.com — Tesla Stock Is Climbing Again and These 6 Catalysts Could Push It Higher**
+  English：Tesla shares closed at $342. 27 on August 14, 2026, rising 4. 2% over the week despite remaining down 23. 9% year to date, driven by six key catalysts and facing profitability headwinds. Key positive drivers include surging China wholesale sales reaching 93,579 vehicles in July, a record 480,126 global deliveries in Q2, the clearing of Sweden's IF Metall union strike, expanding energy storage projects like Project Crystal Sun in Texas, broader robotaxi deployments in cities like Orlando and Tampa, and bullish Wall Street analyst revisions citing Optimus and FSD growth. However, Q2 financial results showed mixed metrics, with adjusted EPS missing consensus at $0. 33, operating margin compressing to 1. 4%, and free cash flow turning negative at negative $1. 09 billion due to a 141. 81% surge in capital spending to $5. 79 billion.
+  中文：总结：特斯拉股价在2026年8月14日收于$342. 27，周涨幅4. 2%，尽管今年以来仍下跌23. 9%，该股受到六大催化剂驱动并面临盈利逆风。 主要的积极驱动因素包括7月份中国批发销量飙升至93,579辆、第二季度全球交付量达到创纪录的480,126辆、瑞典IF Metall工会罢工的解除、在得克萨斯州推进的Project Crystal Sun等扩大能源存储项目、在奥兰多和坦帕等城市扩大Robotaxi部署，以及华尔街分析师因Optimus和FSD增长而上调目标价。 然而，第二季度财务数据显示喜忧参半，调整后每股收益为$0. 33不及共识预期，营业利润率压缩至1. 4%，由于资本支出飙升141. 81%至$5. 79 billion，自由现金流转为负$1. 09 billion。
+  📰 [aol.com](https://www.aol.com/articles/tesla-stock-climbing-again-6-112045000.html)
 
-- **[2026.08.17] Broadcom — 博通下跌5.94%**
-  English: Broadcom stood at 392.99 as of 05:00 JST, 5.94% lower than the previous close.
-  中文：总结：截至 05:00 JST，博通较前收盘下跌5.94%。
-  📰 [Yahoo Finance](https://finance.yahoo.com/quote/AVGO)
+- **[2026.08.17] Invezz — Nasdaq futures rise 170 points: 5 things to know before Wall Street opens**
+  English：US stock futures pointed to a tech-led start on Monday, with Nasdaq 100 futures rising 0. 6% and S&P 500 futures adding 0. 1%, while Dow futures slipped about 0. 1%. Memory stocks experienced a strong premarket rally led by Micron, which climbed about 3. 5% above $1,000 following U. S. Commerce Secretary Howard Lutnick's remarks favoring domestic Apple memory sourcing, alongside SanDisk rising about 5%. The broader macroeconomic backdrop features weaker July US retail sales falling 0. 6%, driving CME FedWatch expectations for a September rate increase down to about 31%. Conversely, Brent crude rose toward $89. 44 a barrel as US-Iran diplomatic efforts stalled and Strait of Hormuz tanker traffic slowed.
+  中文：总结：美国股指期货周一指向科技股领涨的开局，纳斯达克100期货上涨0. 6%，标普500期货上涨0. 1%，道指期货微跌约0. 1%。 在美国商务部长Howard Lutnick发表倾向于苹果采购本土内存芯片的言论后，以Micron（攀升约3. 5%至$1,000以上）和SanDisk（上涨约5%）为首的内存股在盘前迎来了强劲反弹。 更广泛的宏观经济背景是7月份美国零售额下降0. 6%，导致CME美联储观察工具对9月加息的预期降至约31%。 相反，随着美伊外交努力停滞以及霍尔木兹海峡油轮交通放缓，布伦特原油向每桶$89. 44攀升。
+  📰 [Invezz](https://invezz.com/news/2026/08/17/nasdaq-futures-rise-170-points-5-things-to-know-before-wall-street-opens/)
 
-- **[2026.08.17] AMD — 超威半导体上涨6.50%**
-  English: AMD stood at 514.39 as of 05:00 JST, 6.50% higher than the previous close.
-  中文：总结：截至 05:00 JST，超威半导体较前收盘上涨6.50%。
-  📰 [Yahoo Finance](https://finance.yahoo.com/quote/AMD)
+- **[2026.08.17] aol.com — The Best "Magnificent Seven" Stocks to Buy in August**
+  English：The 'Magnificent Seven' stocks dominate global market rankings, but their performance in 2026 has been mixed, with only Amazon and Nvidia outperforming the S&P 500's roughly 13% gain. The author avoids Apple, Meta, and Tesla due to respective concerns over rising memory chip costs, changing AI strategies and weak financial quarters, and struggling EV sales with low profitability. In contrast, Nvidia, Alphabet, Microsoft, and Amazon are identified as top buys because they are generating massive profits from the AI build-out. Nvidia supplies essential GPUs and AI computing equipment, while Alphabet, Microsoft, and Amazon successfully monetize their cloud computing infrastructure by renting out excess computing capacity to clients at a profit, all while maintaining reasonable valuations.
+  中文：总结：“七大科技巨头”主导了全球市场排名，但其在2026年的表现参差不齐，仅亚马逊和英伟达跑赢了标普500指数约13%的涨幅。 作者由于各自对内存芯片成本上升、AI策略多变且财务季度表现不佳、以及电动汽车销售挣扎且盈利能力低下的担忧，选择避开苹果、Meta和特斯拉。 相比之下，英伟达、Alphabet、微软和亚马逊被认定为最佳买入对象，因为它们正从AI建设中获得巨额利润。 英伟达供应必不可少的GPU和AI计算设备，而Alphabet、微软和亚马逊则通过将过剩计算容量出租给客户盈利，成功将其云计算基础设施变现，且均保持着合理的估值。
+  📰 [aol.com](https://www.aol.com/articles/best-magnificent-seven-stocks-buy-075000000.html)
 
 ## 🇯🇵 日本株式市場 / Japan Market
+
+- **[2026.08.17] かぶリッジ — キオクシアの株価は今後どうなる？上昇理由と今後買うべきかを徹底解説**
+  日本語：Kioxia Holdings Corporation, a leading memory manufacturer specializing in NAND flash memory, experienced a massive stock surge driven by soaring demand for generative AI before hitting a peak on June 22, 2026, and subsequently entering a correction phase. The primary catalyst is the explosive growth of generative AI, which has caused data center SSD demand to skyrocket, resulting in 2026 production capacity being completely sold out and fiscal year 2026 SSD storage revenue jumping 37. 5% to 1. 3626 trillion yen. Unlike competitors focusing on HBM, Kioxia's dedication to NAND allows it to directly benefit from rising NAND prices, supported by an official inclusion in the Nikkei 225 index in April 2026 and robust financial results that include record sales and operating income of 870. 3 billion yen for the fiscal year ended March 2026.
+  中文：总结：キオクシアホールディングス是一家专注于NAND闪存的领先存储器制造商，在生成式AI需求飙升的推动下经历了巨大的股价飙升，随后在2026年6月22日达到顶峰并进入调整阶段。 主要催化剂是生成式AI的爆炸性增长，这导致数据中心SSD需求猛增，使得2026年的生产能力完全售罄，2026财年SSD存储营收跃升37. 5%至1. 3626兆日元。 与专注于HBM的竞争对手不同，キオクシア对NAND的专注使其能够直接受益于NAND价格的上涨，并得到了2026年4月正式纳入日经平均指数以及包括截至2026年3月财年创纪录的销售额和870. 3亿日元营业利润在内的强劲财务业绩的支持。
+  📰 [かぶリッジ](https://kabu.bridge-salon.jp/kioxia-stockprice/)
+
+- **[2026.08.17] Infoseek — 日本株市場で「見直し買い」が本格化しそうな銘柄は？NTTの「前月比6.8％高」が示唆するAI相場の新展開｜Infoseekニュース**
+  日本語：Japanese stock markets saw a rotation toward AI-related software and IT solution firms alongside hardware makers, with the Nikkei average climbing to 69,220. 25 on August 17. The market rally was supported by an AI coexistence theme, where hardware makers like SanDisk and Super Micro Computer surged alongside IT companies like Appier Group and legal sales support site Bengo4. com reporting strong earnings. Major domestic infrastructure stocks like NTT and SoftBank also experienced accelerated gains, while cyclical sectors like steel and autos stagnated due to rising oil prices near $90 and anticipation of a Bank of Japan rate hike. Investors remain watchful ahead of the U. S. FOMC minutes and the Jackson Hole symposium, amid concerns over U. S. debt financing and central bank policy paths.
+  中文：总结：日本股市在硬件制造商之外，迎来了向AI相关软件和IT解决方案企业的轮动，日经平均指数在8月17日攀升至69,220. 25点。 市场反弹得到了AI共存主题的支持，其中SanDisk和超微电脑等硬件制造商与报告强劲财报的Appier Group和法律销售支持网站Bengo4. com等IT公司一同飙升。 NTT和软银等国内主要基础设施股票也加速上涨，而钢铁和汽车等周期性行业则由于原油价格接近$90以及对日本银行加息的预期而陷入停滞。 在对美国债务融资和央行政策路径的担忧中，投资者在美联储FOMC会议纪要和杰克逊霍尔研讨会之前保持警惕。
+  📰 [Infoseek](https://news.infoseek.co.jp/article/toushiru_53220/)
+
+- **[2026.08.17] t.co — ASI実現に向けた4領域の取り組みを推進 ― ソフトバンクグループ株式会社 2027年3月期 第1四半期 決算説明会**
+  日本語：SoftBank Group held its Q1 earnings briefing for the fiscal year ending March 31, 2027, reporting that NAV reached a record 72. 3 trillion yen as of June 30, 2026, with an LTV of 13% and liquidity of 2. 3 trillion yen. CFO Yoshimitsu Goto emphasized the firm's ambition to become the leading ASI platform by investing across four key areas: AI models, AI chips, AI infrastructure, and physical AI. In AI models, SBG increased its commitment to OpenAI, planning a total investment of $64. 6 billion for a ~13% stake, alongside OpenAI launching GPT-5. 6. In AI chips, Arm achieved record Q1 revenue of $1. 29 billion with cumulative data center CPU shipments surpassing 1. 5 billion cores. In AI infrastructure, SBG announced a 5GW data center initiative in France and advanced a 10GW project in Ohio. In physical AI, SBG holds stakes in over 30 robotics and automation firms and anticipates completing the acquisition of ABB's robotics business in 2026.
+  中文：总结：软银集团举行了截至2027年3月31日财年第一季度财报说明会，报告截至2026年6月底NAV创下72. 3兆日元的历史新高，LTV为13%，流动资金达2. 3兆日元。 首席财务官后藤芳光强调了公司致力于通过投资四大关键领域（AI模型、AI芯片、AI基础设施和物理AI）成为领先的ASI平台。 在AI模型方面，SBG加大了对OpenAI的投入，计划总投资646亿美元以获得约13%的股份，同时OpenAI发布了GPT-5. 6。 在AI芯片方面，Arm第一季度营收创下12. 9亿美元的纪录，数据中心CPU累计出货量超过15亿颗。 在AI基础设施方面，SBG宣布了在法国建设5GW数据中心的计划，并推进俄亥俄州10GW项目。 在物理AI方面，SBG持有30多家机器人和自动化公司的股份，并预计在2026年完成对ABB机器人业务的收购。
+  📰 [t.co](https://t.co/MvQ980Ut7e)
+
+- **[2026.08.17] 株探 — 寄前【成行注文】買い越しランキング ネクソン、任天堂、ソニーＧ [08:36]**
+  日本語：The pre-market opening net buy order rankings on the Tokyo Stock Exchange for August 17 highlighted strong buying interest across several major stocks. Nexon led the buy-order ranking with a net buying amount of 328,114 ten-thousand yen (8. 82 million shares) and a 23. 1% jump, followed by Nintendo with 67,886 ten-thousand yen and Sony Group with 61,909 ten-thousand yen. Other notable companies on the list included Kioxia Holdings with 50,610 ten-thousand yen, NTT with 33,973 ten-thousand yen, and AEON with 33,909 ten-thousand yen. The list also featured earnings-driven gainers such as Nisseiro and Adeka, reflecting robust investor demand prior to the start of regular trading hours.
+  中文：总结：东京证券交易所8月17日开盘前的净买入订单排名突显了对几只主要股票的强劲买盘兴趣。 Nexon以328,114万日元（882万股）的净买入额和23. 1%的涨幅领跑买单榜，其次是任天堂的67,886万日元和索尼集团的61,909万日元。 榜单上的其他知名公司包括キオクシアホールディングスの50,610万日元、NTT的33,973万日元以及永旺的33,909万日元。 该榜单还包括诸如日精蝋和ADEKA等受财报驱动的上涨股，反映出在正常交易时间开始前强劲的投资者需求。
+  📰 [株探](https://s.kabutan.jp/news/n202608170075/)
+
+- **[2026.08.17] Yahoo!ニュース — 日経平均は5日続伸で「6万9,000円台」へ…買いが集まった〈AI・半導体関連株〉の動向【8月17日の国内株式市場概況】**
+  日本語：The Nikkei average surged 506. 45 points, or 0. 74%, to close at 69,220. 25 on August 17, marking its fifth consecutive day of gains and crossing the 6,9000-yen threshold for the first time since July 6. Buying was driven by growth and AI-related semiconductor stocks following Wall Street cues, though upside was capped by rising domestic long-term interest rates tied to potential Bank of Japan rate hikes and profit-taking against rapid gains. Advantest, Kioxia Holdings, SoftBank Group, Tokyo Electron, and Fujikura contributed the highest positive points to the index. Prime market trading recorded 2. 092 billion shares traded with a total value of 8. 9492 trillion yen, while individual gainers included Proship and FIG.
+  中文：总结：日经平均指数在8月17日上涨506. 45点（或0. 74%），收于69,220. 25点，标志着连续第五天上涨，并自7月6日以来首次跨越69,000日元门槛。 在华尔街线索的带动下，买盘受到成长股和AI相关半导体股票的推动，尽管由于与日本央行潜在加息相关的国内长期利率上升以及对快速上涨的获利回吐，上行空间受限。 Advantest、キオクシアホールディングス、软银集团、东京电子和藤仓对指数贡献了最高正点数。 Prime市场交易量录得20. 92亿股，总交易额为8. 9492兆日元，而个股涨幅领先者包括Proship和FIG。
+  📰 [Yahoo!ニュース](https://news.yahoo.co.jp/articles/d8dd24255e814adb5c6b7a07f698b319fc6c1f53?source=rss)
+
+- **[2026.08.17] ｄメニューニュース — 日経平均寄与度ランキング（大引け）〜日経平均は5日続伸、アドバンテストとキオクシアHDの2銘柄で約409円押し上げ**
+  日本語：The Nikkei average rose for the fifth consecutive trading day on August 17, gaining 506. 45 points to close at 69,220. 25. The market opened higher following the previous week's Wall Street drop driven by weak U. S. retail sales and consumer sentiment data that stirred economic slowdown concerns, but experienced midday volatility before climbing in the afternoon. Demand centered heavily on high-priced semiconductor-related equities, which supported the broader index despite persistent macroeconomic concerns over rising oil prices and interest rates. Prime market trading volume reached 2. 09249 billion shares with a total value of 8. 9492 trillion yen, with Advantest and Kioxia Holdings alone contributing approximately 409 points to the index's advance.
+  中文：总结：日经平均指数在8月17日连续第五个交易日上涨，上涨506. 45点，收于69,220. 25点。 由于美国零售销售和消费者情绪数据疲软引发经济放缓担忧，上周华尔街下跌，市场开盘走高，但在午盘经历波动后于下午攀升。 需求主要集中在高价半导体相关股票上，尽管对油价上涨和利率上升的宏观经济担忧挥之不去，但这支撑了更广泛的指数。 Prime市场交易量达到20. 9249亿股，总交易额为8. 9492兆日元，仅Advantest和キオクシアホールディングス两只股票就为指数的上涨贡献了约409点。
+  📰 [ｄメニューニュース](https://topics.smt.docomo.ne.jp/article/fisco/business/fisco-0009350020260817082)
+
+- **[2026.08.17] ｄメニューニュース — 後場に注目すべき3つのポイント〜半導体関連が下支えも上値重く**
+  日本語：The Nikkei average traded in a narrow range during the morning session on August 17, closing up 7. 64 points at 68,721. 44, supported by semiconductor-related stocks despite negative leads from Wall Street where U. S. retail sales dropped significantly. Market momentum was restrained by lingering economic slowdown concerns and rising domestic long-term interest rates nearing 2. 930%, prompting profit-taking and caution. Major gainers included Advantest, Tokyo Electron, Kioxia Holdings, and SoftBank Group, while Fast Retailing and KDDI weighed on the index. In currency markets, the dollar-yen moved softly between 158. 95 and 159. 36 following soft U. S. economic data that tempered Federal Reserve tightening expectations.
+  中文：总结：日经平均指数在8月17日早盘交易中窄幅震荡，收盘上涨7. 64点至68,721. 44点，尽管受到华尔街美国零售销售大幅下降的负面指引影响，但在半导体相关股票的支撑下走高。 由于挥之不去的经济放缓担忧以及国内长期利率逼近2. 930%的上升，市场动能受到抑制，引发了获利回吐和谨慎情绪。 主要上涨股包括Advantest、东京电子、キオクシアホールディングス和软银集团，而迅销和KDDI则对指数构成拖累。 在货币市场上，由于美国经济数据疲软缓和了美联储紧缩预期，美元兑日元在158. 95至159. 36之间走软。
+  📰 [ｄメニューニュース](https://topics.smt.docomo.ne.jp/amp/article/fisco/business/fisco-0009340020260817015)
 
 - **[2026.08.17] Nikkei 225 — 日经225上涨0.74%**
   日本語：日经225（Nikkei 225）は15:45 JST時点で69,220.25となり、前日終値比で0.74%上昇しています。
   中文：总结：截至 15:45 JST，日经225较前收盘上涨0.74%。
   📰 [Yahoo Finance](https://finance.yahoo.com/quote/%5EN225)
 
-- **[2026.08.17] Tokyo Electron — 东京电子上涨1.62%**
-  日本語：东京电子（Tokyo Electron）は15:30 JST時点で60,090.00となり、前日終値比で1.62%上昇しています。
-  中文：总结：截至 15:30 JST，东京电子较前收盘上涨1.62%。
-  📰 [Yahoo Finance](https://finance.yahoo.com/quote/8035.T)
-
-- **[2026.08.17] Advantest — 爱德万测试上涨2.47%**
-  日本語：爱德万测试（Advantest）は15:30 JST時点で37,780.00となり、前日終値比で2.47%上昇しています。
-  中文：总结：截至 15:30 JST，爱德万测试较前收盘上涨2.47%。
-  📰 [Yahoo Finance](https://finance.yahoo.com/quote/6857.T)
-
-- **[2026.08.17] SoftBank Group — 软银集团上涨2.56%**
-  日本語：软银集团（SoftBank Group）は15:30 JST時点で5,886.00となり、前日終値比で2.56%上昇しています。
-  中文：总结：截至 15:30 JST，软银集团较前收盘上涨2.56%。
-  📰 [Yahoo Finance](https://finance.yahoo.com/quote/9984.T)
-
-- **[2026.08.17] Toyota — 丰田汽车下跌0.23%**
-  日本語：丰田汽车（Toyota）は15:30 JST時点で3,013.00となり、前日終値比で0.23%下落しています。
-  中文：总结：截至 15:30 JST，丰田汽车较前收盘下跌0.23%。
-  📰 [Yahoo Finance](https://finance.yahoo.com/quote/7203.T)
-
-- **[2026.08.17] Sony Group — 索尼集团下跌3.37%**
-  日本語：索尼集团（Sony Group）は15:30 JST時点で3,780.00となり、前日終値比で3.37%下落しています。
-  中文：总结：截至 15:30 JST，索尼集团较前收盘下跌3.37%。
-  📰 [Yahoo Finance](https://finance.yahoo.com/quote/6758.T)
-
 ## 🌍 宏观经济与投资 / Macro & Investment
 
-- **[2026.08.17] USD/JPY — 美元兑日元下跌0.06%**
-  English: USD/JPY stood at 159.22 as of 21:21 JST, 0.06% lower than the previous close.
-  中文：总结：截至 21:21 JST，美元兑日元较前收盘下跌0.06%。
-  📰 [Yahoo Finance](https://finance.yahoo.com/quote/JPY%3DX)
+- **[2026.08.17] TradingKey — 【US Pre-Market】Memory Chip Stocks Rally as SanDisk Surges Over 5%, Micron and Western Digital Gain Over 3%**
+  English：U. S. stock index futures showed mixed pre-market movement on Monday, August 17, with tech stocks leading gains as investors awaited the Fed's July meeting minutes and retail earnings to assess economic paths. Commodities showed strength, supported by economic data and geopolitical risks, while spot gold traded above $4,400. In sector movements, memory chip and AI hardware stocks rallied on tightening supply logic, driven by U. S. Commerce Secretary Howard Lutnick's remarks that the administration discourages Apple from sourcing memory chips from China. Micron rose over 3%, SanDisk surged over 5%, Western Digital gained over 3%, and Seagate advanced over 2%, alongside gains in AI hardware makers like Nvidia and AMD, whereas high-valuation software stocks and retail names faced downward pressure.
+  中文：总结：美国股指期货在8月17日星期一盘前走势不一，由于投资者等待美联储7月会议纪要和零售财报以评估经济路径，科技股领涨。 在经济数据和地缘政治风险的支持下，大宗商品表现出强劲势头，现货黄金交易价格在$4,400以上。 在板块走势方面，受美国商务部长Howard Lutnick表示政府不鼓励苹果从中国采购内存芯片的言论推动，基于收紧的供应逻辑，内存芯片和AI硬件股票全线上涨。 Micron上涨超3%，SanDisk飙升超5%，西部数据上涨超3%，希捷上涨超2%，同时英伟达和AMD等AI硬件制造商也有所上涨，而高估值软件股和零售股则面临下行压力。
+  📰 [TradingKey](https://www.tradingkey.com/analysis/stocks/us-stocks/262112010-us-pre-market-memory-chip-stocks-rose-mu-3-sndk-5-wdc-3-tradingkey)
 
-- **[2026.08.17] US 10Y Yield — 美国10年期国债收益率上涨0.00%**
-  English: US 10Y Yield stood at 4.70 as of 03:59 JST, 0.00% higher than the previous close.
-  中文：总结：截至 03:59 JST，美国10年期国债收益率较前收盘上涨0.00%。
-  📰 [Yahoo Finance](https://finance.yahoo.com/quote/%5ETNX)
+- **[2026.08.17] CryptoRank — Japanese Yen Holds Firm as Bank of Japan Rate Hike Bets Persist, MUFG Says**
+  English：The Japanese Yen is maintaining strength against the US Dollar, supported by market expectations that the Bank of Japan will continue normalizing monetary policy through further interest rate hikes, according to an analysis from MUFG. This anticipated policy tightening narrows the interest rate differential between Japan and the US, contrasting with the US Federal Reserve's potential path toward rate cuts. This divergence is identified as a primary driver of the USD/JPY pair's dynamics, providing resilience for the Yen against the Dollar despite mixed US economic data. The situation highlights the critical influence of central bank communications and policy trajectories on global currency markets.
+  中文：总结：根据三菱UFJ银行的分析，在市场预期日本银行将通过进一步加息继续推进货币政策正常化的支撑下，日元兑美元汇率保持坚挺。 这种预期的政策收紧缩小了日本与美国的利率差异，与美国联邦储备委员会潜在的降息路径形成对比。 这种分歧被认为是驱动美元兑日元汇率走势的主要动力，尽管美国经济数据参差不齐，但它为日元兑美元提供了韧性。 这种情况突显了中央银行沟通和政策轨迹对全球货币市场的关键影响。
+  📰 [CryptoRank](https://cryptorank.io/news/feed/19793-japanese-yen-boj-rate-hike-expectations-mufg)
 
-- **[2026.08.17] Gold Futures — 黄金期货上涨0.28%**
-  English: Gold Futures stood at 4,449.80 as of 21:11 JST, 0.28% higher than the previous close.
-  中文：总结：截至 21:11 JST，黄金期货较前收盘上涨0.28%。
-  📰 [Yahoo Finance](https://finance.yahoo.com/quote/GC%3DF)
+- **[2026.08.17] The Real Economy Blog — Market Minute: Intervention, the yen and U.S. rates**
+  English：Japan's decade-long weak currency problem led to a joint intervention by the Japanese Ministry of Finance and the U. S. Treasury in late July to prevent disorderly yen depreciation, pushing the exchange rate from 163 to 157 per dollar before returning to 159. Currency speculators are expected to test 160 ahead of the Bank of Japan's September 17-18 policy meeting, where an 80% probability of a rate hike is priced in. The U. S. Treasury joined the intervention by selling euros rather than dollars to keep a lid on rising U. S. interest rates while Japan sold a portion of its U. S. Treasury holdings, which dropped from $1. 239 trillion in February to $1. 143 trillion in May. The long-term success of the intervention depends on structural policy changes in Japan, including Bank of Japan rate hikes and expansionary fiscal policies to foster growth.
+  中文：总结：日本长达十年的弱势货币问题在7月下旬引发了日本财务省与美国财政部的联合干预，以防止日元的无序贬值，将汇率从每美元163推高至157，随后回落至159。 预计货币投机者将在日本银行9月17-18日政策会议之前测试160关口，目前市场定价该会议加息概率为80%。 美国财政部通过出售欧元而非美元参与了干预，以控制不断上升的美国利率，同时日本出售了一部分美债持仓，其持仓量从2. 4月的$1. 239 trillion降至5月的$1. 143 trillion。 干预的长期成功取决于日本的结构性政策变化，包括日本银行加息以及促进增长的扩张性财政政策。
+  📰 [The Real Economy Blog](https://realeconomy.rsmus.com/market-minute-intervention-the-yen-and-u-s-rates/)
 
-- **[2026.08.17] WTI Crude Oil — WTI原油下跌0.04%**
-  English: WTI Crude Oil stood at 82.37 as of 21:11 JST, 0.04% lower than the previous close.
-  中文：总结：截至 21:11 JST，WTI原油较前收盘下跌0.04%。
-  📰 [Yahoo Finance](https://finance.yahoo.com/quote/CL%3DF)
+- **[2026.08.17] bloomingbit — Japan 10-Year Yield Hits 2.93%, Highest Since 1996, Deepening BOJ Rate Dilemma**
+  English：Japan's real gross domestic product grew 1. 1% on an annualized basis in the second quarter, expanding for a third consecutive quarter but falling short of market forecasts. Domestic demand turned negative as private consumption fell 0. 02% and capital spending dropped 1. 2%, while external factors provided growth primarily through falling imports following the Strait of Hormuz blockade. Meanwhile, the benchmark 10-year Japanese government bond yield rose to 2. 93%, its highest level since September 1996, driven by persistent inflation, higher yields, and fiscal expansion plans under Prime Minister Sanae Takaichi, including a proposed food consumption tax cut. This rising yield environment deepens the Bank of Japan's dilemma as it weighs an early rate hike to 1. 25% at its September meeting to counter yen weakness against broader domestic economic weakness.
+  中文：总结：日本第二季度实际国内生产总值按年率计算增长1. 1%，连续第三个季度扩张，但未达到市场预测。 由于私人消费下降0. 02%和资本支出下降1. 2%，国内需求转为负值，而外部因素主要通过霍尔木兹海峡封锁后的进口下降提供了增长。 同时，在持续通胀、收益率上升以及首相高市早苗提出的包括提议削减食品消费税在内的财政扩张计划的推动下，基准10年期日本国债收益率升至2. 93%，创下1996年9月以来的最高水平。 这种收益率上升的环境加深了日本银行的困境，因为该行正在权衡在9月会议上将利率提前上调至1. 25%，以应对日元疲软与广泛的国内经济疲软。
+  📰 [bloomingbit](https://en.bloomingbit.io/feed/news/118461)
 
-- **[2026.08.17] Bitcoin — 比特币上涨1.14%**
-  English: Bitcoin stood at 63,544.19 as of 21:21 JST, 1.14% higher than the previous close.
-  中文：总结：截至 21:21 JST，比特币较前收盘上涨1.14%。
-  📰 [Yahoo Finance](https://finance.yahoo.com/quote/BTC-USD)
+- **[2026.08.17] CryptoRank — BASECAT Meme Coin Jumps 2,000%: Here’s What’s Driving the Rally**
+  English：BASECAT, a new meme coin built on the Base network featuring a cartoon cat in a blue construction helmet, surged over 2,000% in 24 hours, extending its gains since launch to over 12,000%. Trading volume reached $24. 67 million following listings on Gate and Coinbase Wallet after launching on Uniswap V4 on August 15. The token carries a market capitalization of $17. 2 million with a thin liquidity of $539,700 and 10,200 holders, with no stated utility or roadmap. Analysts note that high trading volume combined with limited liquidity can amplify price movements, leaving the token vulnerable to sharp reversals if buying momentum fades, reflecting broader volatility patterns seen in attention-driven meme coin rallies.
+  中文：总结：BASECAT是一个建立在Base网络上的新模因币，以戴着蓝色安全帽的卡通猫为特色，在24小时内飙升超过2,000%，将其自推出以来的涨幅扩大至超过12,000%。 该代币于8月15日在Uniswap V4上推出，在上线Gate和Coinbase Wallet后，交易量达到$24. 67 million。 该代币市值为$17. 2 million，流动性较薄为$539,700，拥有10,200名持有者，没有声明的实用性或路线图。 分析师指出，高交易量与有限的流动性相结合会放大价格波动，如果买盘动能消退，该代币很容易受到急剧反转的影响，反映出受注意力驱动的模因币反弹中常见的更广泛波动模式。
+  📰 [CryptoRank](https://cryptorank.io/news/feed/4e41e-basecat-price-rally-base-meme-coin)
+
+- **[2026.08.17] think.ing.com — Rates Spark: Long-end risks, ECB conviction and UK data tests**
+  English：Lower Fed rate hike expectations have calmed the front-end of U. S. dollar rates, with September hike odds dropping to just over 30%, though long-end Treasuries remain vulnerable to higher real yields and fiscal supply pressures. The upcoming release of the July FOMC minutes will offer further insights into committee views, while S&P global PMIs are expected to show marginal softening. In Europe, EUR rates remain tied to U. S. dynamics and energy price trends as gas storage efforts lag and drought conditions threaten supply routes, reinforcing market pricing for a September ECB rate hike. Meanwhile, UK markets continue to price in aggressive policy tightening ahead of upcoming labor and CPI data releases.
+  中文：总结：美联储加息预期降温已使美元短期利率趋于平静，9月加息概率降至刚过30%，尽管长期国债仍易受到实际收益率上升和财政供给压力的影响。 即将发布的7月FOMC会议纪要将为委员会观点提供进一步见解，同时预计标普全球PMI将显示微幅走软。 在欧洲，由于天然气储存工作滞后且干旱威胁供应路线，欧元利率仍与美国动态和能源价格趋势挂钩，这巩固了市场对欧洲央行9月加息的定价。 同时，在即将公布的劳工和CPI数据发布之前，英国市场继续对激进的政策紧缩进行定价。
+  📰 [think.ing.com](https://think.ing.com/articles/rates-spark-xxxxxxxxx/)
+
+- **[2026.08.17] Global Banking & Finance Review — Yen Gains as Fed Rate Hike Bets Drop, Dollar Index Nears Monthly Low**
+  English：The U. S. dollar fell to its lowest level in over two months, driving the euro to a two-month high of around $1. 1614, as traders reduced rate hike bets following softer economic data. The yen strengthened 0. 13% to approximately 159. 15 per dollar despite weaker-than-expected Japanese economic growth, remaining supported by expectations of Bank of Japan policy normalization. Attention is shifting toward the upcoming Jackson Hole symposium for further policy guidance. Meanwhile, China's July industrial output and retail sales growth slowed, and Middle East geopolitical tensions kept Brent crude higher at $89. 07 per barrel.
+  中文：总结：美元跌至两个多月来的最低水平，推动欧元触及约$1. 1614的两个月高点，因为交易员在经济数据走软后减少了加息押注。 尽管日本经济增长逊于预期，但日元兑美元仍上涨0. 13%至约159. 15，在对日本银行政策正常化的预期支撑下保持坚挺。 市场的注意力正转向即将到来的杰克逊霍尔研讨会以获取进一步的政策指导。 同时，中国7月工业产出和零售销售增长放缓，中东地缘政治紧张局势使布伦特原油维持在每桶$89. 07的高位。
+  📰 [Global Banking & Finance Review](https://www.globalbankingandfinance.com/yen-edges-up-traders-push-back-fed-rate-hike-bets/)
+
+- **[2026.08.17] Bitget — Dollar Dips, Gold Gains on Fed-Pause**
+  English：Gold prices rose 0. 7% to $4,379. 95 per ounce, hitting their highest level since June 5, supported by a weakening U. S. dollar index and cooler inflation and employment data that reinforced expectations of a Federal Reserve rate pause. The CME FedWatch Tool indicates a 33% probability of a September rate hike, down from 55% the prior week. Concurrently, geopolitical risks and rising oil prices stemming from shipping risks in the Strait of Hormuz added uncertainty to the inflation outlook. While safe-haven demand supports gold, sustained high oil prices could reignite inflation concerns and prompt central banks to adopt hawkish stances, potentially limiting further upside for precious metals.
+  中文：总结：黄金价格上涨0. 7%至每盎司$4,379. 95，创下6月5日以来的最高水平，受到美元指数走弱以及强化美联储暂停加息预期的温和通胀和就业数据的支撑。 CME美联储观察工具显示9月加息概率为33%，低于前一周的55%。 与此同时，来自霍尔木兹海峡航运风险的地缘政治风险和油价上涨为通胀前景增加了不确定性。 尽管避险需求支撑了黄金，但持续的高油价可能会重新点燃通胀担忧并促使央行采取鹰派立场，从而可能限制贵金属的进一步上行空间。
+  📰 [Bitget](https://www.bitget.com/academy/us-dollar-dips-gold-gains-on-fed-pause)
 
 ---
 ※Stock Market Daily Digest | 2026.08.17
