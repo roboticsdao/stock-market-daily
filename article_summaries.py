@@ -252,3 +252,29 @@ def summary_quality_issues(items):
                 issues.append(f"duplicate summary in {seen[normalized]} and {item.get('headline')}")
             seen[normalized] = item.get("headline")
     return issues
+
+
+def deduplicate_summaries(items):
+    """Drop later items whose generated body repeats an earlier article body."""
+    kept = []
+    removed = []
+    seen = {}
+    for item in items:
+        duplicate_of = None
+        normalized_values = []
+        for field in ("local_summary", "zh_summary"):
+            value = _clean(item.get(field, ""))
+            if not value:
+                continue
+            normalized = re.sub(r"\W+", "", value.lower())
+            if normalized in seen:
+                duplicate_of = seen[normalized]
+                break
+            normalized_values.append(normalized)
+        if duplicate_of:
+            removed.append(f"{item.get('headline', '')} (same as {duplicate_of})")
+            continue
+        kept.append(item)
+        for normalized in normalized_values:
+            seen[normalized] = item.get("headline", "")
+    return kept, removed

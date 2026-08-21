@@ -1,6 +1,7 @@
 import unittest
 
-from article_summaries import FORBIDDEN_ANALYSIS, _preserve_source_units, _sanitize_summary, repair_legacy_unit_corruption, summarize_articles, summary_quality_issues
+from article_summaries import FORBIDDEN_ANALYSIS, _preserve_source_units, _sanitize_summary, deduplicate_summaries, repair_legacy_unit_corruption, summarize_articles, summary_quality_issues
+from news_digest import is_duplicate_story
 
 
 class ArticleSummaryTests(unittest.TestCase):
@@ -59,6 +60,21 @@ class ArticleSummaryTests(unittest.TestCase):
         self.assertIn("占比44%", repaired)
         self.assertIn("On August 10,", repaired)
         self.assertIn("60.993 billion yuan", repaired)
+
+    def test_syndicated_headline_suffix_is_deduplicated(self):
+        first = "午前の日経平均は小幅反落、日米金利上昇や米小売り株安を嫌気 下げ渋りも（ロイター）"
+        second = "午前の日経平均は小幅反落、日米金利上昇や米小売り株安を嫌気 下げ渋りも"
+        self.assertTrue(is_duplicate_story(second, [first]))
+
+    def test_duplicate_summary_drops_later_item_only(self):
+        items = [
+            {"headline": "First", "local_summary": "A specific factual report.", "zh_summary": "一段具体事实。"},
+            {"headline": "Syndicated", "local_summary": "Another local rendering.", "zh_summary": "一段具体事实。"},
+            {"headline": "Different", "local_summary": "A separate event.", "zh_summary": "另一段事实。"},
+        ]
+        kept, removed = deduplicate_summaries(items)
+        self.assertEqual(["First", "Different"], [item["headline"] for item in kept])
+        self.assertEqual(1, len(removed))
 
 
 if __name__ == "__main__":

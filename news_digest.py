@@ -9,7 +9,7 @@ from difflib import SequenceMatcher
 from datetime import datetime, timezone, timedelta
 from pathlib import Path
 
-from article_summaries import enrich_articles, summarize_articles, summary_quality_issues
+from article_summaries import deduplicate_summaries, enrich_articles, summarize_articles, summary_quality_issues
 
 # ╔═══════════════════════════════════════════════════════════╗
 # ║  CONFIG — 日美股市新闻播报                                 ║
@@ -206,6 +206,23 @@ def parse_google_news_title(title):
         return headline.strip(), source.strip()
     return title, "Google News"
 
+def normalized_story_headline(headline):
+    value = strip_html(headline).lower()
+    value = re.sub(r"\s*[（(][^）)]{1,40}[）)]\s*$", "", value)
+    return re.sub(r"\W+", "", value)
+
+def is_duplicate_story(headline, existing_headlines):
+    candidate = normalized_story_headline(headline)
+    if not candidate:
+        return True
+    for existing in existing_headlines:
+        known = normalized_story_headline(existing)
+        if candidate == known:
+            return True
+        if min(len(candidate), len(known)) >= 20 and SequenceMatcher(None, candidate, known).ratio() >= 0.9:
+            return True
+    return False
+
 def fetch_rss_items(sec, limit=8):
     if "日本" in sec["label"] or "Japan" in sec["label"]:
         hl, gl, ceid = "ja", "JP", "JP:ja"
@@ -241,6 +258,8 @@ def fetch_rss_items(sec, limit=8):
                 continue
             key = re.sub(r"\W+", "", headline.lower())[:90]
             if key in seen:
+                continue
+            if is_duplicate_story(headline, [item["headline"] for item in items]):
                 continue
             try:
                 dt = datetime.strptime(published, "%a, %d %b %Y %H:%M:%S %Z").replace(tzinfo=timezone.utc).astimezone(LOCAL_TZ)
@@ -711,7 +730,9 @@ def generate_digest():
             for item in candidates:
                 item["summary_language"] = "Japanese" if "日本" in sec["label"] or "Japan" in sec["label"] else "English"
                 item["section_label"] = sec["label"]
-            items = enrich_articles(candidates)[:CONFIG["items_per_section"]]
+            # Keep two readable alternates so a duplicated syndicated story can be
+            # discarded after summarization without shrinking the section.
+            items = enrich_articles(candidates)[:CONFIG["items_per_section"] + 2]
         except Exception as ex:
             print(f"   {sec['emoji']} article fetch failed: {ex}")
             items = []
@@ -719,6 +740,9 @@ def generate_digest():
 
     flat_items = [item for _, items in grouped_items for item in items]
     summarized = summarize_articles(flat_items, GEMINI_API_KEY, model=CONFIG["model"])
+    summarized, removed = deduplicate_summaries(summarized)
+    if removed:
+        print(f"   Removed {len(removed)} duplicated syndicated summaries: {'; '.join(removed[:3])}")
     issues = summary_quality_issues(summarized)
     if issues:
         raise RuntimeError("; ".join(issues[:5]))
@@ -727,7 +751,7 @@ def generate_digest():
         summarized_by_section.setdefault(item["section_label"], []).append(item)
 
     for sec, _ in grouped_items:
-        items = summarized_by_section.get(sec["label"], [])
+        items = summarized_by_section.get(sec["label"], [])[:CONFIG["items_per_section"]]
         parts.append(f"\n## {sec['emoji']} {sec['label']}\n")
         lines = []
         for item in items:
