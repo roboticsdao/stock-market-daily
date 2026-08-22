@@ -1,0 +1,130 @@
+# 📈 Stock Market Daily | 2026.08.23（日曜日 / Sunday）
+
+> ⚠ 本日报优先收录最近24小时的市场新闻、个股异动与当时市场快照；数据仅供参考，不构成投资建议。
+
+---
+
+
+## 🇺🇸 美国股市 / US Market
+
+- **[2026.08.23] simplywall.st — Halliburton (HAL) Stock Looks Cheap On Earnings While Its 89% Run Raises Questions**
+  English：Halliburton stock has achieved an 89. 1% return over the past 5 years. Valuations indicate the shares are relatively inexpensive, passing 6 out of 6 tests on Simply Wall St's framework. The company trades at a price-to-earnings ratio of about 18. 4x, which sits below the Energy Services industry average of roughly 25. 8x, the peer group average of about 37. 1x, and a Fair Ratio benchmark of around 22. 9x. Bull cases emphasize clean energy investments and integrated project management for resilient revenues, while bear cases point to global decarbonization reducing exploration demand and execution risks in newer projects like nuclear waste drilling.
+  中文：总结：Halliburton股票在过去5年中取得了89. 1%的回报率。 估值检查显示其股价相对便宜，在Simply Wall St的框架中通过了全部6项估值测试。 该公司市盈率约为18. 4x，低于能源服务行业平均水平约25. 8x、同行群体平均约37. 1x以及约22. 9x的合理市盈率基准。 看多观点强调清洁能源投资和综合项目管理可提供有韧性的收入，而看空观点则指出全球去碳化会减少勘探需求，且核废料钻探等新项目存在执行风险。
+  📰 [simplywall.st](https://simplywall.st/stocks/us/energy/nyse-hal/halliburton/news/halliburton-hal-stock-looks-cheap-on-earnings-while-its-89-r)
+
+- **[2026.08.23] Fortune — Nvidia customers notified about AI-related price hikes above 15%**
+  English：Nvidia Corporation has notified major customers that servers containing its artificial intelligence chips will increase in price by more than 15% in many cases, effective for systems shipped early next year. The increases affect systems featuring Vera Rubin and Grace Blackwell chips, driven by soaring memory chip costs from suppliers like Samsung Electronics, SK Hynix, and Micron Technology. Nvidia's gross margin stands at 75%. Contract manufacturers building servers for Microsoft, Google, and Oracle communicated the impending hikes. Memory producers are struggling to keep up with AI infrastructure demand, giving them greater market influence.
+  中文：总结：Nvidia公司已通知主要客户，其人工智能芯片服务器的价格在许多情况下将上涨超过15%，该涨价将于明年初出货的系统上生效。 受影响的系统包括搭载Vera Rubin和Grace Blackwell芯片的产品，涨价原因是三星电子、SK海力士和美光科技等供应商的内存芯片成本飙升。 Nvidia的毛利率为75%。 为微软、谷歌和甲骨文等公司代工服务器的制造商已将即将到来的涨价事宜通知了客户。 内存制造商正艰难应对人工智能基础设施的需求，这赋予了它们更大的市场影响力。
+  📰 [Fortune](https://fortune.com/2026/08/22/nvidia-customers-ai-related-price-hikes-15-percent-vera-rubin-grace-blackwell-chips/)
+
+- **[2026.08.23] AOL.com — Apple vs. Meta Platforms: Which "Magnificent Seven" Giant Has the Stronger Artificial Intelligence (AI) Growth Engine?**
+  English：Apple and Meta Platforms are identified as major laggards in the artificial intelligence arms race due to different factors. Apple has avoided heavy data center investments, sitting on the sidelines while partnering with Alphabet to integrate Gemini into its devices, with success hinging on an upcoming AI subscription model versus heavy cloud infrastructure fees. Meanwhile, Meta has spent hundreds of billions of dollars on AI computing capacity and offers a free-to-use model, with benefits primarily seen in its advertising business. However, Meta's massive costs have not been fully offset because its investments are not yet directly monetizable through subscriptions, leading to a much lower forward P/E multiple compared to Apple.
+  中文：总结：由于不同的原因，苹果和Meta Platforms被视为人工智能军备竞赛中的两个主要落后者。 苹果避免了庞大的数据中心投资，选择作壁上观，并与Alphabet合作将Gemini集成到其设备中，其成败取决于未来的人工智能订阅模式与沉重的云基础设施费用之间的权衡。 与此同时，Meta在人工智能计算能力上花费了数千亿美元并提供免费使用的模型，其收益主要体现在广告业务上。 然而，Meta的巨额成本并未被完全抵消，因为其投资尚未通过订阅实现直接变现，这导致其远期市盈率远低于苹果。
+  📰 [AOL.com](https://www.aol.com/articles/apple-vs-meta-platforms-magnificent-195900000.html)
+
+- **[2026.08.23] TechStock² — Nvidia Earnings Anticipated to Spark $313 Billion Market-Value Shift as Options Bets Rise**
+  English：Nvidia shares fell 4. 6% last week, wiping out roughly $236 billion in market capitalization, while options trading indicates an earnings swing of about 6% or approximately $313 billion in either direction. Wall Street analysts forecast fiscal second-quarter revenue of $92. 16 billion, representing a 1. 3% increase over the company's guidance, with adjusted earnings projected at $2. 09 per share and Data Center revenue expected to reach about $85. 67 billion. The company is scheduled to release its financial results on Wednesday after U. S. trading closes. CEO Jensen Huang previously described AI factory construction as the largest infrastructure expansion in human history.
+  中文：总结：Nvidia股价上周下跌4. 6%，市值蒸发约2360亿美元，而期权交易显示财报公布后的波动幅度约为6%，双向影响约合3130亿美元。 华尔街分析师预测第二财季营收为92. 16亿美元，仅比公司指引高出1. 3%，预计调整后每股收益为2. 09亿美元，数据中心营收预计将达到约85. 67亿美元。 该公司计划于周三美股收盘后发布财务业绩。 首席执行官黄仁勋此前将人工智能工厂的建设描述为人类历史上最大规模的基础设施扩展。
+  📰 [TechStock²](https://ts2.tech/en/nvidia-earnings-preview-options-price-a-313-billion-market-value-swing/)
+
+- **[2026.08.23] Barchart.com — Powerful Growth, Multiple Endorsements Bode Well for Oracle Stock**
+  English：Oracle reported strong fiscal fourth-quarter results ending in May, with revenue jumping 21% year-over-year to $19. 2 billion and adjusted earnings per share soaring 24% to $2. 11. Total cloud revenue climbed 47% to $9. 9 billion, driven largely by the AI boom, while remaining performance obligations surged 363% to $638 billion due to large-scale AI contracts. Despite powerful growth and a low forward price-earnings ratio of 22. 6x, billionaire investor Paul Tudor Jones acquired 1. 3 million shares last quarter. Investment banks Mizuho and Guggenheim maintain positive ratings and price targets, while Zacks highlights that demand for Oracle's offerings is exceeding supply.
+  中文：总结：甲骨文公布了截至5月的第四财季强劲业绩，营收同比跃升21%至19. 2亿美元，调整后每股收益飙升24%至2. 11美元。 在人工智能热潮的推动下，总云收入增长47%至9. 9亿美元，而由于大型人工智能合同，剩余履约义务激增363%至6380亿美元。 尽管增长强劲且22. 6倍的远期市盈率较低，亿万富翁投资者保罗·都铎·琼斯在上一季度还是购买了130万股股票。 投资银行瑞穗和古根海姆维持了积极的评级和目标价，Zacks则强调甲骨文产品的需求正在超过供应。
+  📰 [Barchart.com](https://www.barchart.com/story/news/3987873/powerful-growth-multiple-endorsements-bode-well-for-oracle-stock)
+
+- **[2026.08.23] AOL.ca — Why Kulicke & Soffa Stock Slumped by Nearly 10% Today**
+  English：Kulicke & Soffa Industries saw its stock drop nearly 10% on Tuesday following the announcement of a major leadership change and profit-taking by investors. The company announced that Raj Talluri will take over as CEO and president effective September 1, replacing interim CEO Lester Wong, who will continue his role as CFO. Talluri previously served as CEO of Enovix and held management roles at Micron Technology and Qualcomm. The market reaction reflected concerns over the lengthy succession process in a fast-paced industry and opportunistic profit-taking following a strong third-quarter earnings report.
+  中文：总结：Kulicke & Soffa Industries公司在周二宣布重大领导层变动并遭遇投资者获利回吐后，股价下跌近10%。 该公司宣布Raj Talluri将于9月1日起正式担任首席执行官兼总裁，接替临时首席执行官Lester Wong，后者将继续担任首席财务官职务。 Talluri此前曾担任Enovix的首席执行官，并在美光科技和高通担任过管理职务。 市场反应反映出投资者对快节奏行业中漫长的高管继承流程的担忧，以及在发布强劲的第三季度财报后进行的投机性获利回吐。
+  📰 [AOL.ca](https://www.aol.ca/articles/why-kulicke-soffa-stock-slumped-002116000.html)
+
+- **[2026.08.23] TechStock² — Wall Street Targets Trail Moderna as Cancer-Vaccine Surge Continues**
+  English：Moderna shares surged following positive Phase 3 trial data for intismeran autogene, a personalized mRNA therapy used with Keytruda for melanoma surgery. The trial involved 1,137 patients and met its primary and key secondary goals, showing improved recurrence-free and distant-metastasis-free survival. Moderna closed Friday at $145. 13, gaining 8. 9% with a five-day rally reaching 129. 2% since August 14. Despite the rally, Wall Street's average price target of $78. 78 is 45. 7% lower than Friday's close. Moderna reported $145 million in second-quarter revenue and a net loss of $782 million, with cash and investments dropping to $6. 9 billion as of June 30.
+  中文：总结：在用于黑色素瘤手术的个性化mRNA疗法intismeran autogene的III期试验数据表现积极后，Moderna股价大幅飙升。 该试验纳入了1,137名患者，达到了主要和关键的次要终点，显示无复发生存期和无远处转移生存期有所改善。 Moderna周五收于145. 13美元，上涨8. 9%，自8月14日以来的五天反弹幅度达到129. 2%。 尽管股价大涨，但华尔街78. 78美元的平均目标价仍比周五收盘价低45. 7%。 Moderna公布第二季度营收为1. 45亿美元，净亏损7. 82亿美元，截至6月30日现金和投资降至69亿美元。
+  📰 [TechStock²](https://ts2.tech/en/modernas-cancer-vaccine-rally-leaves-wall-street-targets-far-behind/)
+
+- **[2026.08.23] Yahoo Finance — Alphabet, Meta, and Microsoft Are Hiding $3 Trillion in Debt On the AI Boom’s Hidden Ledger**
+  English：A Wall Street Journal analysis across nine tech companies shows they carry approximately $3 trillion in off-balance-sheet AI obligations, nearly doubling a July estimate of $1. 65 trillion. The total includes roughly $1. 9 trillion in purchase commitments for chips, servers, and hardware, alongside $1. 2 trillion in signed leases that have not yet commenced. Companies involved include Microsoft, Amazon, Alphabet, Meta, Oracle, Nvidia, Broadcom, Advanced Micro Devices, and SpaceX. Alphabet alone disclosed $811 billion in purchase commitments and contractual obligations as of June 30, marking a 152% increase in a single quarter.
+  中文：总结：《华尔街日报》对九家科技公司的分析显示，它们承担了约$3 trillion的资产负债表外人工智能债务，几乎是7月份1. 65万亿美元估计值的两倍。 该总额包括约1. 9万亿美元的芯片、服务器和硬件采购承诺，以及1. 2万亿美元尚未开始执行的已签署租赁合同。 涉及的公司包括微软、亚马逊、Alphabet、Meta、甲骨文、Nvidia、博通、超威半导体和SpaceX. 仅Alphabet一家就披露，截至6月30日，其采购承诺和合同义务达到8110亿美元，在单季度内激增了152%。
+  📰 [Yahoo Finance](https://finance.yahoo.com/markets/stocks/articles/alphabet-meta-microsoft-hiding-3-135343885.html)
+
+## 🇯🇵 日本株式市場 / Japan Market
+
+- **[2026.08.22] TradingKey — なぜ孫正義氏はソフトバンクの米国株ポートフォリオの67%をインテルに投じたのか？INTC株の上値余地分析**
+  日本語：ソフトバンクはインテル株の66. 81%を保有し、評価額は120億ドルを超えて最大の米国株投資先となっている。 ソフトバンクは2025年9月に1株23ドルで約8,696万株を取得した。 インテルは米国内で先端プロセスやファウンドリ能力を持つ数少ない企業であり、孫正義氏はAI基盤インフラとしての戦略的価値に賭けている。 インテルは200億ドルの公募増資を実施して設備投資を拡大しているが、株価は下降トレンド内にあり、95〜97ドルのサポート水準を維持できるかが焦点となっている。
+  中文：总结：软银持有英特尔66. 81%的股份，估值超过120亿美元，是其最大的美股投资标的。 软银于2025年9月以每股23美元的价格收购了约8696万股。 英特尔是美国为数不多拥有先进工艺和代工能力的宏观企业之一，孙正义押注了其作为人工智能基础设施的战略价值。 英特尔通过200亿美元的公募增资来扩大资本支出，但股价仍处于下降趋势中，能否维持95至97美元的支撑位是当前的焦点。
+  📰 [TradingKey](https://www.tradingkey.com/jp/analysis/stocks/us-stocks/262125890-why-masayoshi-son-allocated-67-of-softbank-us-equity-portfolio-intel-intc-tradingkey)
+
+- **[2026.08.23] Nikkei 225 — 日经225下跌0.30%**
+  日本語：日经225（Nikkei 225）は15:45 JST時点で66,016.36となり、前日終値比で0.30%下落しています。
+  中文：总结：截至 15:45 JST，日经225较前收盘下跌0.30%。
+  📰 [Yahoo Finance](https://finance.yahoo.com/quote/%5EN225)
+
+- **[2026.08.23] Tokyo Electron — 东京电子上涨0.50%**
+  日本語：东京电子（Tokyo Electron）は15:30 JST時点で54,290.00となり、前日終値比で0.50%上昇しています。
+  中文：总结：截至 15:30 JST，东京电子较前收盘上涨0.50%。
+  📰 [Yahoo Finance](https://finance.yahoo.com/quote/8035.T)
+
+- **[2026.08.23] Advantest — 爱德万测试上涨1.53%**
+  日本語：爱德万测试（Advantest）は15:30 JST時点で35,900.00となり、前日終値比で1.53%上昇しています。
+  中文：总结：截至 15:30 JST，爱德万测试较前收盘上涨1.53%。
+  📰 [Yahoo Finance](https://finance.yahoo.com/quote/6857.T)
+
+- **[2026.08.23] SoftBank Group — 软银集团下跌2.45%**
+  日本語：软银集团（SoftBank Group）は15:30 JST時点で5,255.00となり、前日終値比で2.45%下落しています。
+  中文：总结：截至 15:30 JST，软银集团较前收盘下跌2.45%。
+  📰 [Yahoo Finance](https://finance.yahoo.com/quote/9984.T)
+
+- **[2026.08.23] Toyota — 丰田汽车上涨2.15%**
+  日本語：丰田汽车（Toyota）は15:30 JST時点で3,132.00となり、前日終値比で2.15%上昇しています。
+  中文：总结：截至 15:30 JST，丰田汽车较前收盘上涨2.15%。
+  📰 [Yahoo Finance](https://finance.yahoo.com/quote/7203.T)
+
+- **[2026.08.23] Sony Group — 索尼集团上涨0.21%**
+  日本語：索尼集团（Sony Group）は15:30 JST時点で3,785.00となり、前日終値比で0.21%上昇しています。
+  中文：总结：截至 15:30 JST，索尼集团较前收盘上涨0.21%。
+  📰 [Yahoo Finance](https://finance.yahoo.com/quote/6758.T)
+
+## 🌍 宏观经济与投资 / Macro & Investment
+
+- **[2026.08.23] CryptoRank — Bitcoin and Ethereum ETFs Add $492 Million as Inflow Streak Reaches Five Days**
+  English：Spot crypto ETFs recorded $492 million in net inflows on August 21, consisting of $307 million for spot Bitcoin ETFs and $185 million for spot Ethereum ETFs, marking five consecutive sessions of positive flows. The sustained multi-day streak across both asset classes indicates renewed institutional crypto adoption through broker-dealers and custodians rather than isolated asset rotation. This consistent institutional demand during a seasonally quiet month could force short-term traders to reassess their downside positioning in the crypto market.
+  中文：总结：现货加密货币ETF在8月21日录得4. 92亿美元的净流入，其中包括现货比特币ETF的3. 07亿美元和现货以太坊ETF的1. 85亿美元，标志着资金连续五个交易日呈正流入。 这两个资产类别持续多日的资金流入表明，机构正通过经纪商和托管机构重新采用加密货币，而不是孤立的资产轮动。 在季节性淡静的月份中，这种持续的机构需求可能会迫使短线交易者重新评估加密市场中的下跌仓位。
+  📰 [CryptoRank](https://cryptorank.io/news/feed/e709c-bitcoin-and-ethereum-etfs-add-492-million-as-inflow-streak-reaches-five-days)
+
+- **[2026.08.23] CryptoRank — Bessent’s Yen Intervention: A Turning Point or Temporary Relief?**
+  English：U. S. Treasury official Scott Bessent reportedly intervened in foreign exchange markets by selling dollars to buy yen after the Japanese currency hit a 34-year low, marking the first U. S. currency action since 2011. The action caused the dollar to drop by more than 2% against the yen and boosted Japanese exporters. However, analysts caution that a single intervention may not reverse fundamental drivers like wide U. S. -Japan interest rate differentials and Japanese trade deficits, raising questions about long-term effectiveness and potential global spillover effects.
+  中文：总结：据报道，在日元触及34年低点后，美国财政部官员斯科特·贝森特通过抛售美元买入日元来干预外汇市场，这是自2011年以来美国首次采取货币行动。 此举导致美元兑日元下跌超过2%，并提振了日本出口商。 然而，分析师警告称，单次干预可能无法扭转美日巨大利差和日本贸易逆差等基本面驱动因素，这引发了对长期有效性以及潜在全球溢出效应的质疑。
+  📰 [CryptoRank](https://cryptorank.io/news/feed/05e34-bessent-yen-intervention-turning-point)
+
+- **[2026.08.23] OneSafe.io — US Treasury Shift Reshapes Crypto Treasury Management**
+  English：The U. S. Treasury announced a shift in its quarterly refunding plans on August 22, 2026, increasing the supply of long-term bonds in the 10- and 30-year sectors, which immediately weakened the US dollar. For crypto finance leaders, this macro development requires an urgent reassessment of fiat-crypto allocations, stablecoin reserves, and FX hedging strategies. A declining dollar erodes the real-world purchasing power of dollar-pegged stablecoins like USDC and USDT, compressing operating margins and impacting quarterly burn rates for global crypto businesses and DAOs.
+  中文：总结：美国财政部于2026年8月22日宣布调整其季度再融资计划，增加10年期和30年期长期国债的供应，这直接导致美元走弱。 对于加密金融领导者而言，这一宏观发展需要紧急重新评估法币与加密货币的配置、稳定币储备以及外汇对冲策略。 美元下跌会侵蚀USDC和USDT等与美元挂钩的稳定币的现实购买力，压缩全球加密企业和DAO的运营利润率并影响季度资金消耗率。
+  📰 [OneSafe.io](https://www.onesafe.io/blog/crypto-treasury-management-bond-macro-impact)
+
+- **[2026.08.22] finance.biggo.com — US 30-Year Yield Hits 5.28%, Dollar at ~100-Day Low as Markets Shrug Off Trump Intervention**
+  English：The U. S. 30-year Treasury yield rose to 5. 28% and the 10-year yield reached 4. 73% on August 21, while the Dollar Index dropped to 98. 80, its lowest level in about 100 days. Markets largely ignored the Treasury's market stabilization efforts, which included expanding the long-dated buyback program from $2 billion to at least $4 billion per operation. Structural inflationary pressures, including a national debt surpassing $40 trillion, rising cumulative interest costs of $1. 17 trillion, surging corporate bond supply from AI investments, and climbing international oil prices, continued to drive long-term yields higher.
+  中文：总结：8月21日，美国30年期国债收益率升至5. 28%，10年期国债收益率达到4. 73%，而美元指数跌至98. 80，创下大约100天来的最低水平。 市场基本上忽略了财政部的市场稳定努力，其中包括将长期国债回购计划从每笔$2 billion扩大到至少$4 billion。 结构性通胀压力（包括超过$40 trillion的国家债务、飙升至1. 17万亿美元的累计利息成本、人工智能投资带来的企业债券供应激增以及不断攀升的国际油价）继续推动长期收益率走高。
+  📰 [finance.biggo.com](https://finance.biggo.com/news/db220ae5-1f40-4b2a-b09a-a02fc4861f16)
+
+- **[2026.08.22] Bitcoin World — US Yields Rise, Dollar Falls: The Divergence Explained**
+  English：U. S. Treasury yields have been rising while the U. S. dollar has fallen, decoupling from their traditional positive correlation. This divergence is driven by growing market expectations that the Federal Reserve may be nearing the end of its rate-hiking cycle, alongside the synchronized recovery and tightening monetary policies of other major economies in Europe and Asia. The weaker dollar benefits multinational corporations with overseas earnings and boosts dollar-priced commodities like oil and gold, while creating a mixed environment for domestic bond and equity investors.
+  中文：总结：美国国债收益率一直在上升，而美元却在下跌，这与它们传统的正相关性脱节。 这种背离是由市场对美联储可能接近加息周期尾声的预期不断增强，以及欧洲和亚洲其他主要经济体同步复苏和收紧货币政策所驱动的。 走弱的美元有利于拥有海外收益的跨国公司，并提振了石油和黄金等以美元计价的大宗商品，同时为国内债券和股票投资者创造了一个复杂多变的环境。
+  📰 [Bitcoin World](https://bitcoinworld.co.in/us-yields-rise-dollar-falls-divergence-explained/)
+
+- **[2026.08.23] CryptoRank — Coinbase Stock Jumps 8% as Crypto Market Roars Back — Is $200 Breakout Next?**
+  English：Coinbase stock jumped 8. 2% to $186. 49 as Bitcoin broke above $77,000 and Ethereum rallied, supported by $827 million in combined U. S. spot Bitcoin and Ether ETF inflows on August 20. Coinbase reported $1. 2 billion in Q2 2026 net revenue, highlighting that 88% of net revenue excluding Bitcoin spot trading is diversified across subscription and services. Technically, COIN must achieve a daily close above $200 to confirm a breakout toward $220 and $235-$240, while immediate support levels sit between $180-$186 and $172-$173.
+  中文：总结：随着比特币突破77,000美元且以太坊大涨，在8月20日美国现货比特币和以太坊ETF共计8. 27亿美元资金流入的支撑下，Coinbase股价飙升8. 2%至186. 49美元。 Coinbase公布2026年第二季度净营收为12亿美元，强调除去比特币现货交易外，88%的净营收已通过订阅和服务实现多元化。 技术面上，COIN必须实现日线收盘价突破200美元，以确认向220美元和235-240美元的突破，而即时支撑位在180-186美元和172-173美元之间。
+  📰 [CryptoRank](https://cryptorank.io/news/feed/57c92-coinbase-stock-jumps-8-as-crypto-market-roars-back-is-200-breakout-next)
+
+- **[2026.08.23] CryptoRank — Bitcoin and Ethereum ETFs Score Biggest Week Since October with $2.3 Billion**
+  English：US-listed Bitcoin and Ethereum spot ETFs drew a combined $2. 6 billion in the week ended August 21, representing their largest weekly intake since October 2025. Bitcoin funds captured $1. 92 billion with five consecutive days of net inflows, including a $606 million single-day haul on August 20, while Ethereum funds added $697. 18 million. Combined fund assets grew by about $23 billion, significantly outpacing new capital creations due to implied gains of 22. 9% for Bitcoin and 29. 2% for Ethereum. Additionally, altcoin ETFs for XRP, Solana, and Chainlink also experienced positive weekly inflows.
+  中文：总结：截至8月21日的一周内，美国上市的比特币和以太坊现货ETF共吸引了26亿美元资金，创下自2025年10月以来最大的周资金流入量。 比特币基金连续五个交易日实现净流入，吸金19. 2亿美元，其中包括8月20日单日6. 06亿美元的流入，而以太坊基金则增加了6. 9718亿美元。 由于比特币22. 9%和以太坊29. 2%的隐含收益，合并后的基金资产增长了约230亿美元，大大超过了新创造的资金。 此外，针对XRP、Solana和Chainlink的山寨币ETF也经历了正向的周资金流入。
+  📰 [CryptoRank](https://cryptorank.io/news/feed/68a53-bitcoin-ethereum-etf-inflows-october-high)
+
+- **[2026.08.23] CryptoRank — Rising Treasury Yields Pressure the Fed: What Yield Control Means for Bitcoin**
+  English：U. S. Treasury yields surged on August 21, with the 10-year yield at 4. 74%, the 2-year at 4. 24%, and the 30-year at 5. 27%, renewing debates over potential Federal Reserve yield-curve control. The Treasury doubled its long-bond buyback program, though officials noted the action is neither quantitative easing nor yield control. Despite higher yields, Bitcoin rose above $78,000 alongside strengthening gold and a weakening dollar, prompting analysts to suggest that lower real yields and stronger dollar liquidity could provide ongoing support for crypto and precious metal prices.
+  中文：总结：美国国债收益率在8月21日飙升，其中10年期收益率为4. 74%，2年期为4. 24%，30年期为5. 27%，这重新引发了关于美联储可能实施收益率曲线控制的辩论。 财政部将其长期国债回购计划规模翻倍，尽管官员指出该行动既不是量化宽松也不是收益率控制。 尽管收益率上升，但随着黄金走强和美元走弱，比特币突破了78,000美元，这促使分析师表示，较低的实际收益率和较强的美元流动性可以为加密货币和贵金属价格提供持续支撑。
+  📰 [CryptoRank](https://cryptorank.io/news/feed/592e6-rising-treasury-yields-pressure-the-fed-what-yield-control-means-for-bitcoin)
+
+---
+※Stock Market Daily Digest | 2026.08.23
