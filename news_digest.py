@@ -9,7 +9,7 @@ from difflib import SequenceMatcher
 from datetime import datetime, timezone, timedelta
 from pathlib import Path
 
-from article_summaries import deduplicate_summaries, enrich_articles, summarize_articles, summary_quality_issues
+from article_summaries import deduplicate_summaries, enrich_articles, remove_repeated_summary_sentences, summarize_articles, summary_quality_issues
 
 # ╔═══════════════════════════════════════════════════════════╗
 # ║  CONFIG — 日美股市新闻播报                                 ║
@@ -743,6 +743,9 @@ def generate_digest():
     summarized, removed = deduplicate_summaries(summarized)
     if removed:
         print(f"   Removed {len(removed)} duplicated syndicated summaries: {'; '.join(removed[:3])}")
+    summarized, sentence_repairs = remove_repeated_summary_sentences(summarized)
+    if sentence_repairs:
+        print(f"   Repaired {len(sentence_repairs)} repeated syndicated sentences: {'; '.join(sentence_repairs[:3])}")
     issues = summary_quality_issues(summarized)
     if issues:
         raise RuntimeError("; ".join(issues[:5]))

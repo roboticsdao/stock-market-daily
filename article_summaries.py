@@ -4,6 +4,7 @@ import subprocess
 import sys
 import time
 from concurrent.futures import ThreadPoolExecutor, as_completed
+from difflib import SequenceMatcher
 
 
 MIN_ARTICLE_CHARS = 240
@@ -267,8 +268,11 @@ def deduplicate_summaries(items):
             if not value:
                 continue
             normalized = re.sub(r"\W+", "", value.lower())
-            if normalized in seen:
-                duplicate_of = seen[normalized]
+            for known, owner in seen.items():
+                if normalized == known or SequenceMatcher(None, normalized, known).ratio() >= 0.88:
+                    duplicate_of = owner
+                    break
+            if duplicate_of:
                 break
             normalized_values.append(normalized)
         if duplicate_of:
@@ -277,4 +281,49 @@ def deduplicate_summaries(items):
         kept.append(item)
         for normalized in normalized_values:
             seen[normalized] = item.get("headline", "")
+    return kept, removed
+
+
+def remove_repeated_summary_sentences(items, min_sentence_chars=45):
+    """Remove syndicated sentences while preserving each article's unique facts."""
+    kept = []
+    removed = []
+    sentence_owner = {}
+    for item in items:
+        current = dict(item)
+        updates = {}
+        item_removed = []
+        too_short = False
+        for field in ("local_summary", "zh_summary"):
+            original = _clean(item.get(field, ""))
+            if not original:
+                continue
+            sentences = re.split(r"(?<=[.!?。！？])\s*", original)
+            unique = []
+            for sentence in sentences:
+                sentence = _clean(sentence)
+                if not sentence:
+                    continue
+                key = sentence.lower()
+                owner = sentence_owner.get(key) if len(key) >= min_sentence_chars else None
+                if owner and owner != item.get("headline"):
+                    item_removed.append(f"{field} sentence also used by {owner}")
+                    continue
+                unique.append(sentence)
+            cleaned = _clean(" ".join(unique))
+            if len(cleaned) < 40:
+                too_short = True
+                break
+            updates[field] = cleaned
+        if too_short:
+            removed.append(f"dropped {item.get('headline', '')} after duplicate-sentence removal")
+            continue
+        current.update(updates)
+        kept.append(current)
+        removed.extend(f"{item.get('headline', '')}: {detail}" for detail in item_removed)
+        for field in ("local_summary", "zh_summary"):
+            for sentence in re.split(r"(?<=[.!?。！？])\s*", _clean(current.get(field, ""))):
+                sentence = _clean(sentence)
+                if len(sentence) >= min_sentence_chars:
+                    sentence_owner.setdefault(sentence.lower(), item.get("headline", ""))
     return kept, removed

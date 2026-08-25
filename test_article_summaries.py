@@ -1,6 +1,6 @@
 import unittest
 
-from article_summaries import FORBIDDEN_ANALYSIS, _preserve_source_units, _sanitize_summary, deduplicate_summaries, repair_legacy_unit_corruption, summarize_articles, summary_quality_issues
+from article_summaries import FORBIDDEN_ANALYSIS, _preserve_source_units, _sanitize_summary, deduplicate_summaries, remove_repeated_summary_sentences, repair_legacy_unit_corruption, summarize_articles, summary_quality_issues
 from news_digest import is_duplicate_story
 
 
@@ -74,6 +74,28 @@ class ArticleSummaryTests(unittest.TestCase):
         ]
         kept, removed = deduplicate_summaries(items)
         self.assertEqual(["First", "Different"], [item["headline"] for item in kept])
+        self.assertEqual(1, len(removed))
+
+    def test_near_duplicate_summary_drops_later_item(self):
+        shared = "World shares declined as persistent bond market pressure pushed sovereign yields higher across major economies."
+        items = [
+            {"headline": "First", "local_summary": shared + " Stocks also weakened."},
+            {"headline": "Reprint", "local_summary": shared + " Equities also weakened."},
+        ]
+        kept, removed = deduplicate_summaries(items)
+        self.assertEqual(["First"], [item["headline"] for item in kept])
+        self.assertEqual(1, len(removed))
+
+    def test_repeated_sentence_is_removed_but_unique_facts_remain(self):
+        repeated = "World shares declined as persistent bond market pressure pushed sovereign yields higher across major economies."
+        items = [
+            {"headline": "Wall Street week", "local_summary": repeated + " Investors awaited earnings and inflation data."},
+            {"headline": "Iran rial", "local_summary": repeated + " Iran's rial also sank against the dollar after renewed regional tension."},
+        ]
+        kept, removed = remove_repeated_summary_sentences(items)
+        self.assertEqual(2, len(kept))
+        self.assertNotIn(repeated, kept[1]["local_summary"])
+        self.assertIn("Iran's rial", kept[1]["local_summary"])
         self.assertEqual(1, len(removed))
 
 
