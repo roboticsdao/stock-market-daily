@@ -7,129 +7,104 @@
 
 ## 🇺🇸 美国股市 / US Market
 
-- **[2026.08.28] StockStory — Impinj and Broadcom Shares Skyrocket, What You Need To Know**
-  English：Nvidia reported strong second-quarter earnings and an upbeat third-quarter revenue forecast, easing fears of an artificial intelligence infrastructure slowdown. This positive catalyst drove semiconductor and hardware stocks higher, with Impinj and Broadcom shares rising 3. 8% and 3. 9% respectively. Jensen Huang confirmed that the AI build-out is operating at full steam. Meanwhile, Broadcom's recent volatility has been influenced by competition concerns, such as Marvell Technology's custom AI chip deal with Google. Broadcom is up 6. 3% year-to-date, trading at $369. 45 per share, which is 23. 3% below its 52-week high of $481. 57 from June 2026, while a 5-year investment would now be worth $7,449.
-  中文：总结：Nvidia公布了强劲的第二季度财报并发布了乐观的第三季度营收预期，缓解了市场对人工智能基础设施支出放缓的担忧。 这一积极催化剂推动了半导体和硬件股上涨，其中Impinj和Broadcom股价分别上涨3. 8%和3. 9%。 Jensen Huang确认AI基础设施建设正在全速推进。 同时近期Broadcom的股价波动受到了竞争担忧的影响，例如Marvell Technology与Google达成的定制AI芯片交易。 Broadcom今年迄今上涨6. 3%，报收于每股$369. 45，较2026年6月创下的$481. 57的52周高点低23. 3%，而5年前价值$1,000的投资现在价值为$7,449。
-  📰 [StockStory](https://stockstory.org/us/stocks/nasdaq/pi/news/why-up-down/impinj-and-broadcom-shares-skyrocket-what-you-need-to-know)
-
-- **[2026.08.28] simplywall.st — Tesla Stock And 2 AI Infrastructure Picks With High Insider Ownership**
-  English：Eurozone private credit growth has reached a multi-year high, signaling strong willingness among households and businesses to borrow and invest, which benefits companies with growth prospects and strong management. This article highlights IREN, Tesla, and Klarna Group from the Fast Growing Stocks With High Insider Ownership screener. IREN operates as a vertically integrated data center operator in Australia and Canada, reporting primary revenue from Australia at about $691. 8 million and Canada at around $65. 2 million, with a market cap of $15. 1 billion, and is expanding into AI cloud services while maintaining Bitcoin mining. Tesla generates revenue primarily from its Automotive segment at about US$90. 8b and Energy Generation and Storage segment at around US$12. 8b, with a market cap of US$1. 38t, driven by expectations in EV deliveries, energy storage, and AI initiatives, though facing tight profit margins and heavy capital spending.
-  中文：总结：欧元区私人信贷增长目前处于多年来的高位，表明家庭和企业仍有强烈的借贷和投资意愿，这有利于那些具备增长前景和优秀管理团队的公司。 本文重点介绍了“高内部人持股的高成长股票”筛选器中的IREN、Tesla和Klarna Group三只股票。 IREN是一家在澳大利亚和加拿大的垂直整合数据中心运营商，其在澳大利亚的营收约为$691. 8 million，加拿大约为$65. 2 million，市值为$15. 1 billion，在维持比特币挖矿的同时正在向AI云服务扩展。 Tesla的营收主要来自汽车业务（约为US$90. 8b）以及能源生成和存储业务（约为US$12. 8b），市值为US$1. 38t，受电动汽车交付、能源存储和AI举措的预期驱动，尽管其面临利润率紧缩和巨额资本支出的压力。
-  📰 [simplywall.st](https://simplywall.st/stocks/us/software/nasdaq-iren/iren/news/tesla-stock-and-2-ai-infrastructure-picks-with-high-insider-1)
-
-- **[2026.08.27] AllianceBernstein — Small-Cap Stocks Step Out of Big Tech’s Shadow**
-  English：Past performance does not guarantee future results, and all returns are stated in US dollars. As of July 31, 2026, data from Bloomberg, FTSE Russell, Nasdaq, S&P, and AllianceBernstein highlights various market metrics and historical analyses. Artificial intelligence build-out sectors encompass technology and communication services, whereas broader US economy sectors include financials, industrials, and consumer cyclicals. The ISM Manufacturing PMI serves as a diffusion index for US manufacturing activity, with readings above 50 indicating expansion and below 50 representing contraction, while forward price-to-earnings ratios utilize forward 24-month earnings estimates.
-  中文：总结：过往业绩并不保证未来结果，所有回报均以美元计算。 截至2026年7月31日，来自Bloomberg、FTSE Russell、Nasdaq、S&P和AllianceBernstein的数据突显了各项市场指标与历史分析。 人工智能建设相关板块涵盖科技和通信服务，而更广泛的美国经济相关板块则包括金融、工业和消费周期股。 ISM制造业PMI作为美国制造业活动的扩散指数，高于50的读数标志着扩张，低于50则代表收缩，而预期市盈率则采用未来24个月的盈利预测。
-  📰 [AllianceBernstein](https://www.alliancebernstein.com/americas/en/institutions/insights/investment-insights/small-cap-stocks-step-out-of-big-techs-shadow.html)
-
-- **[2026.08.27] MarketBeat — Perryman Financial Advisory Inc. AD Boosts Stock Position in Tesla, Inc. $TSLA**
-  English：Perryman Financial Advisory Inc. AD increased its stake in Tesla, Inc. by 109. 6% during the second quarter, owning 3,984 shares valued at $1,676,000. Other institutional investors also adjusted their positions, with institutional investors and hedge funds owning 66. 20% of the stock. Tesla opened at $345. 82 on Thursday, boasting a market cap of $1. 37 trillion, a P/E ratio of 320. 21, and a beta of 1. 83. On July 22nd, Tesla reported $0. 33 EPS for the quarter, missing the consensus estimate of $0. 50, while revenue rose 25. 5% year-over-year to $28. 24 billion. Additionally, CFO Vaibhav Taneja sold 2,606 shares on June 8th for $1,048,133. 20 to cover tax obligations, and corporate insiders own 19. 90% of the company. Key catalysts include Nevada expanding Tesla's permitted robotaxi fleet from 10 to 5,000 vehicles and a teaser for a larger vehicle from Elon Musk.
-  中文：总结：Perryman Financial Advisory Inc. AD在第二季度将其在Tesla, Inc. 的持股比例提高了109. 6%，拥有3,984股价值$1,676,000的股票。 其他机构投资者也调整了持仓，机构投资者和对冲基金共持有该股票的66. 20%。 Tesla周四开盘价为$345. 82，市值达$1. 37 trillion，市盈率为320. 21，贝塔值为1. 83. 7月22日，Tesla公布该季度每股收益为$0. 33，低于$0. 50的市场预期，而季度营收同比增长25. 5%至$28. 24 billion。 此外，CFO Vaibhav Taneja于6月8日以$1,048,133. 20的价格出售了2,606股股票以履行税收预扣义务，公司内部人士持有19. 90%的股份。 主要的利好因素包括内华达州将Tesla获准的拉斯维加斯自动驾驶出租车车队从10辆增加到5,000辆，以及Elon Musk对更大车型的预告。
-  📰 [MarketBeat](https://www.marketbeat.com/instant-alerts/filing-perryman-financial-advisory-inc-ad-boosts-stock-position-in-tesla-inc-tsla-2026-08-27/)
-
-- **[2026.08.27] Stocktwits — Top After-Hours Gainers Today Beyond Micron: QCOM, AMAT, LRCX Surge**
-  English：Micron Technology posted strong third-quarter results, driving gains for chipmakers Qualcomm, Applied Materials, and Lam Research during Wednesday's overnight session. Qualcomm rallied nearly 11% following its investor day where it raised its fiscal 2029 revenue outlook, doubling non-handset revenue to $40 billion, targeting over $15 billion from AI data centers, and announcing a multi-year partnership with Meta to supply data center CPUs beginning in the second half of 2028, alongside a $3. 92 billion acquisition of Modular. Applied Materials and Lam Research rose over 5% each, supported by Micron's upbeat outlook and collaborative memory technology ventures, with Bank of America raising its price targets for both equipment suppliers.
-  中文：总结：Micron Technology公布了强劲的第三季度业绩，在周三的盘后交易中推动芯片制造商Qualcomm、Applied Materials和Lam Research大幅上涨。 Qualcomm在投资者日上调了2029财年营收预期，将非手机营收目标翻倍至$40 billion，将AI数据中心目标定为超过$15 billion，并宣布与Meta建立多年合作伙伴关系，从2028年下半年开始为其AI基础设施供应数据中心CPU，同时以$3. 92 billion收购Modular，股价因此飙升近11%。 在Micron乐观的前景和合作存储技术项目的支撑下，Applied Materials和Lam Research均上涨超过5%，Bank of America上调了两家设备供应商的目标价。
-  📰 [Stocktwits](https://stocktwits.com/news-articles/markets/equity/top-after-hours-gainers-today-beyond-micron-qcom-amat-lrcx-surge/cZ1GRzJR7Q9)
-
-- **[2026.08.27] Stocktwits — Why Did MSTR, PLTR, NFLX Stocks Plummet To 52-Week Lows?**
-  English：Strategy, Palantir Technologies, and Netflix fell to fresh 52-week lows on Wednesday as investors rotated out of high-growth momentum stocks amid profit-taking and a renewed focus on AI chipmakers. Strategy closed down over 9% as Bitcoin dropped below $60,000 to its lowest level since October 2024, prompting analytics firm CryptoQuant to urge the company to suspend further Bitcoin purchases, despite holding 847,363 Bitcoin worth roughly $53 billion and cash reserves of about $1. 4 billion as of June 21. Palantir slipped to $112. 25 amid European regulatory challenges, including France replacing its software and U. K. lawmakers pushing to end its NHS contract. Netflix slid to $71. 62 as competitive concerns mounted over Meta expanding Instagram to Samsung smart TVs, alongside M Science reporting the weakest global net additions quarter since 2022.
-  中文：总结：Strategy、Palantir Technologies和Netflix周三跌至52周新低，因投资者在获利回吐以及重新关注AI芯片制造商的背景下，从高成长动能股票中轮出。 Strategy收盘下跌超过9%，因为比特币跌破$60,000，创下自2024年10月以来的最低水平，促使分析公司CryptoQuant敦促该公司暂停进一步购买比特币，尽管截至6月21日该公司持有847,363枚价值约$53 billion的比特币以及约$1. 4 billion的现金储备。 由于面临欧洲监管挑战（包括法国更换其软件以及英国议员推动终止其NHS合同），Palantir下跌至$112. 25。 由于Meta将Instagram扩展到三星智能电视带来的竞争担忧加剧，加上M Science报告称全球净增用户季度为2022年以来最弱，Netflix下跌至$71. 62。
-  📰 [Stocktwits](https://stocktwits.com/news-articles/markets/equity/why-did-mstr-pltr-nflx-stocks-plummet-to-52-week-lows/cZ1G2Z3R7QO)
-
-- **[2026.08.28] Eurasia Business News — Stock Market Today: Nvidia’s Bullish Forecast Lifts Investors’ Spirits, Dow Gains 0.4%, Oil price at $ 88.9**
-  English：U. S. stocks advanced on Thursday, August 27, supported by Nvidia's stronger-than-expected earnings and upbeat long-term forecast. The Dow Jones Industrial Average gained 0. 4%, the S&P 500 rose 0. 8%, and the Nasdaq Composite jumped 1. 5%. Nvidia reported fiscal second-quarter revenue of $96. 22 billion, up 106% year-over-year, beating the Wall Street consensus of $92. 17 billion, with adjusted earnings per share reaching $2. 22 versus the expected $2. 10. Nvidia expects fiscal third-quarter revenue of approximately $108 billion and CFO Colette Kress projected fiscal 2028 revenue to grow by about 70%, implying roughly $690 billion to $700 billion. Treasury yields ticked higher as the 2-year yield rose to 4. 21% and the 10-year yield reached 4. 66%.
-  中文：总结：在Nvidia超预期的财报和乐观的长期预测支撑下，美国股市于8月27日周四上涨。 Dow Jones Industrial Average上涨0. 4%，S&P 500上涨0. 8%，Nasdaq Composite跃升1. 5%。 Nvidia公布第二财季营收为$96. 22 billion，同比增长106%，超出了华尔街$92. 17 billion的共识预期，调整后每股收益达到$2. 22，预期为$2. 10。 Nvidia预计第三财季营收约为$108 billion，CFO Colette Kress预计2028财年营收将增长约70%，这意味着营收大约在$690 billion至$700 billion之间。 国债收益率小幅走高，2年期收益率升至4. 21%，10年期收益率达到4. 66%。
-  📰 [Eurasia Business News](https://eurasiabusinessnews.com/2026/08/27/stock-market-today-nvidias-bullish-forecast-lifts-investors-spirits-dow-gains-0-4-oil-price-at-88-9/)
-
 - **[2026.08.28] S&P 500 — 标普500上涨0.72%**
   English: S&P 500 stood at 7,730.99 as of 05:58 JST, 0.72% higher than the previous close.
   中文：总结：截至 05:58 JST，标普500较前收盘上涨0.72%。
   📰 [Yahoo Finance](https://finance.yahoo.com/quote/%5EGSPC)
 
+- **[2026.08.28] Nasdaq Composite — 纳斯达克综合指数上涨1.57%**
+  English: Nasdaq Composite stood at 26,541.35 as of 06:15 JST, 1.57% higher than the previous close.
+  中文：总结：截至 06:15 JST，纳斯达克综合指数较前收盘上涨1.57%。
+  📰 [Yahoo Finance](https://finance.yahoo.com/quote/%5EIXIC)
+
+- **[2026.08.28] NVIDIA — 英伟达上涨8.74%**
+  English: NVIDIA stood at 227.98 as of 05:00 JST, 8.74% higher than the previous close.
+  中文：总结：截至 05:00 JST，英伟达较前收盘上涨8.74%。
+  📰 [Yahoo Finance](https://finance.yahoo.com/quote/NVDA)
+
+- **[2026.08.28] Apple — 苹果上涨0.36%**
+  English: Apple stood at 314.58 as of 05:00 JST, 0.36% higher than the previous close.
+  中文：总结：截至 05:00 JST，苹果较前收盘上涨0.36%。
+  📰 [Yahoo Finance](https://finance.yahoo.com/quote/AAPL)
+
+- **[2026.08.28] Microsoft — 微软上涨1.75%**
+  English: Microsoft stood at 505.06 as of 05:00 JST, 1.75% higher than the previous close.
+  中文：总结：截至 05:00 JST，微软较前收盘上涨1.75%。
+  📰 [Yahoo Finance](https://finance.yahoo.com/quote/MSFT)
+
+- **[2026.08.28] Tesla — 特斯拉上涨2.60%**
+  English: Tesla stood at 354.81 as of 05:00 JST, 2.60% higher than the previous close.
+  中文：总结：截至 05:00 JST，特斯拉较前收盘上涨2.60%。
+  📰 [Yahoo Finance](https://finance.yahoo.com/quote/TSLA)
+
+- **[2026.08.28] Broadcom — 博通上涨4.49%**
+  English: Broadcom stood at 371.54 as of 05:00 JST, 4.49% higher than the previous close.
+  中文：总结：截至 05:00 JST，博通较前收盘上涨4.49%。
+  📰 [Yahoo Finance](https://finance.yahoo.com/quote/AVGO)
+
+- **[2026.08.28] AMD — 超威半导体下跌0.89%**
+  English: AMD stood at 476.67 as of 05:00 JST, 0.89% lower than the previous close.
+  中文：总结：截至 05:00 JST，超威半导体较前收盘下跌0.89%。
+  📰 [Yahoo Finance](https://finance.yahoo.com/quote/AMD)
+
 ## 🇯🇵 日本株式市場 / Japan Market
 
-- **[2026.08.28] Yahoo!ファイナンス — 住友電気工業(株)【5802】：株価・株式情報（夜間PTS含む）**
-  日本語：Sumitomo Electric Industries' stock recovered from 2,178. 5 yen to 2,255 yen between August 21 and August 27, following a sharp drop to 2,210 yen on August 19. On August 27, the stock moved above its 25-day moving average to close at 2,255 yen, marking a reversal in price direction within a few trading sessions. The company's most recent earnings were announced on July 31, 2026. Financial analysis indicates an improving performance trend over the past 12 quarters, characterized by enhanced net and operating profit margins compared to the previous year, expanding revenue and EPS, and a capital adequacy ratio well above target to maintain financial stability.
-  中文：总结：住友电气工业的股价在8月21日至8月27日期间从2,178. 5日元回升至2,255日元，此前该股在8月19日曾急跌至2,210日元。 8月27日，该股突破25日均线，收盘报2,255日元，标志着在几个交易日内价格方向发生了逆转。 该公司最近的财报发布于2026年7月31日。 财务分析表明，过去12个季度的业绩呈改善趋势，其特点是净利润率和营业利润率较去年同期有所提高、营收和每股收益双双扩大，且资本充足率远超目标以保持财务稳定。
-  📰 [Yahoo!ファイナンス](https://finance.yahoo.co.jp/quote/5802.T)
-
-- **[2026.08.28] london3.jp — ソフトバンクGが社債１兆円発行って大丈夫！？〜AIインフラ投資競争とグローバル・テック企業の社債大量発行**
-  日本語：SoftBank Group announced a retail bond issuance of up to 1 trillion yen (approximately $63 billion), featuring a 7-year maturity and a preliminary interest rate of 4. 3% to 4. 9% before tax. This follows previous retail bond issuances of 418 billion yen in April 2026 and 260 billion yen in June 2026, bringing total potential 2026 retail bond issuance to 1. 678 trillion yen. The company has also raised funds via international institutional bond markets and bridge loans, totaling $15 billion for OpenAI and Ampere investments, and a $40 billion bridge facility in March 2026 to borrow $20 billion for OpenAI. These funds support AI-related investments, physical AI, robotics, and debt refinancing, though S&P Global Ratings set a negative outlook on SoftBank's BB+ credit rating due to reduced liquidity and financial burdens from OpenAI investments.
-  中文：总结：SoftBank Group宣布计划发行最多1 trillion yen（约合$63 billion）的个人无担保普通社债，期限为7年，预设税前票面利率为4. 3%至4. 9%。 在此之前，该公司于2026年4月发行了418 billion yen、6月发行了260 billion yen的零售债券，使其2026年单年散户债券发行总额达到1. 678 trillion yen。 该公司还通过国际机构债券市场和桥头贷款筹集资金，包括为OpenAI和Ampere投资总计$15 billion的桥头贷款，以及在2026年3月签订$40 billion规模的新的桥头贷款融资协议并于4月借入$20 billion用于OpenAI。 这些资金用于支持AI相关投资、物理AI、机器人技术以及债务再融资，尽管由于OpenAI投资导致流动性下降和财务负担加重，S&P Global Ratings对SoftBank的BB+发行人信用评级设定了“负面”展望。
-  📰 [london3.jp](https://london3.jp/2026/08/ai-shasai/)
-
-- **[2026.08.27] 財経新聞 — 相場展望 ８月２７日号 米国株：トランプ政策の効果で、インフレ圧力が根強く、金利上昇は避けられず 日本株：金利上昇で明暗を分ける相場展開を予想、AI・半導体相場から転換**
-  日本語：US stocks showed mixed movements between August 24 and August 26, 2026, influenced by falling oil prices, US Treasury buyback discussions, and upcoming Nvidia earnings. On August 24, the Dow rose 140 points to 53,417 as 10-year yields fell to 4. 70% and oil prices dropped, while semiconductor stocks declined following reports of Nvidia AI product price increases, and President Trump announced a 50% tariff on Canadian vehicles starting January 2027. On August 25, the Dow gained 160 points to 53,577 as geopolitical tensions eased and WTI crude fell to the $82 range. On August 26, the Dow fell 113 points to 53,463 after July PCE inflation rose 0. 2% month-over-month, exceeding expectations and pushing US long-term yields higher.
-  中文：总结：在油价下跌、美国国债回购讨论以及即将公布的Nvidia财报的影响下，美国股市在2026年8月24日至8月26日期间呈现出混合走势。 8月24日，由于10年期收益率降至4. 70%且油价下跌，Dow上涨140点至53,417，而半导体股票因Nvidia AI产品涨价的报道而下跌，同时Trump总统宣布自2027年1月起对加拿大汽车加征50%的关税。 8月25日，地缘政治紧张局势缓和且WTI原油跌至$82区间，Dow上涨160点至53,577。 8月26日，7月PCE物价指数环比上涨0. 2%，超预期并推高美国长期收益率，导致Dow下跌113点至53,463。
-  📰 [財経新聞](https://www.zaikei.co.jp/amp/article/20260827/867654.html)
-
-- **[2026.08.27] 日本投資機構株式会社 — NVIDIA決算2026年8月｜好決算でも日本の半導体株が全面高にならない理由**
-  日本語：NVIDIA's Q2 earnings for fiscal 2027 surpassed market expectations, reporting $96. 22 billion in revenue—a 106% year-over-year increase—and an adjusted EPS of $2. 22. The data center division drove growth, surging 117% to $89 billion. NVIDIA expects Q3 revenue of approximately $108 billion and projected fiscal 2028 revenue to grow by roughly 70%. Despite the strong results, the Tokyo stock market on August 27 did not experience a broad rally; the Nikkei average fluctuated and closed down 130. 18 yen at 66,131. 98 yen. Individual semiconductor-related stocks showed mixed performance, with Kioxia gaining 5. 0% and Tokyo Electron rising 0. 9%, while Advantest fell 3. 05% and Disco dropped 1. 37%, driven by differing valuations, cost pressures, and the U. S. PCE inflation data impact.
-  中文：总结：NVIDIA2027财年第二季度财报超越市场预期，实现营收$96. 22 billion（同比增长106%），调整后每股收益为$2. 22。 数据中心部门推动了增长，飙升117%至$89 billion。 NVIDIA预计第三季度营收约为$108 billion，并预测2028财年营收将增长约70%。 尽管业绩强劲，8月27日的东京股市并未全面上涨，日经平均指数震荡下行，收盘下跌130. 18日元至66,131. 98日元。 半导体相关个股表现不一，Kioxia上涨5. 0%，Tokyo Electron上涨0. 9%，而Advantest下跌3. 05%，Disco下跌1. 37%，这受到不同估值、成本压力以及美国PCE通胀数据影响的驱动。
-  📰 [日本投資機構株式会社](https://jioinc.jp/investleaders/news_nvidia202608/)
-
-- **[2026.08.27] BigGo ファイナンス — 日経平均は反落、エヌビディア決算好感も買い続かず66,131円**
-  日本語：Japan's Nikkei average fell 130. 18 yen to close at 66,131. 98 yen on August 27, 2026. Initially, the index rose as much as 513 points following Nvidia's better-than-expected second-quarter earnings report, but buying momentum faded by mid-morning. U. S. markets had closed lower previously due to higher-than-expected July PCE price index data raising inflation concerns. In Tokyo, despite early gains in semiconductor stocks like Kioxia and Tokyo Electron, caution ahead of the Jackson Hole symposium and Fed Chair Kevin Warsh's upcoming speech weighed on the market. Prime market trading volume reached 1. 96156 billion shares with a turnover of 7. 87 trillion yen, with decliners slightly outnumbering advancers.
-  中文：总结：2026年8月27日，日本日经平均指数下跌130. 18日元，收于66,131. 98日元。 受Nvidia优于预期的第二季度财报影响，该指数盘初一度大涨多达513点，但买盘动能在上午中段消退。 此前，由于高于预期的7月PCE物价指数数据引发对通胀的担忧，美国市场收盘走低。 在东京，尽管Kioxia和Tokyo Electron等半导体股票早期录得涨幅，但对杰克逊霍尔研讨会以及美联储主席Kevin Warsh即将发表讲话的谨慎情绪令市场承压。 主板市场成交量达到1. 96156 billion股，成交额为7. 87 trillion yen，下跌股票略多于上涨股票。
-  📰 [BigGo ファイナンス](https://finance.biggo.jp/news/9ee2cfc9-af1f-4b84-87a0-29888e9a73ad)
-
-- **[2026.08.27] BigGo ファイナンス — ソフトバンクグループ、人型ロボット開発1Xの過半株式取得を交渉中 評価額約60億ドルで家庭向け市場に照準**
-  日本語：SoftBank Group is reportedly in negotiations to acquire a majority stake in humanoid robot developer 1X Technologies at a valuation of approximately $60 billion (around 9. 6 trillion yen). The deal aims to fund the research, development, and commercialization of 1X's home-oriented service robots, particularly its "Neo" model, which launched pre-orders at $20,000 with deliveries slated for 2026. Previously, OpenAI evaluated a potential acquisition of 1X, and maintains ties through an early-stage investment. SoftBank's renewed robotics push follows CEO Masayoshi Son's focus on "physical AI," including the acquisition of ABB's robotics division for $5. 4 billion and investments in Agile Robots, as the company seeks to build next-generation AI and hardware ecosystems.
-  中文：总结：据报道，SoftBank Group正在谈判以大约$60 billion（约合9. 6 trillion yen）的估值收购人形机器人开发商1X Technologies的多数股权。 这笔交易旨在为1X以家庭为中心的服务机器人（特别是其“Neo”型号，预售价$20,000并计划于2026年交付）的研究、开发和商业化提供资金。 此前，OpenAI曾评估收购1X的可能性，并通过早期投资与其保持联系。 SoftBank对机器人领域的再次发力紧随CEO孙正义对“物理AI”的关注，包括以$5. 4 billion收购ABB的机器人部门以及投资Agile Robots，因该公司正寻求构建下一代AI和硬件生态系统。
-  📰 [BigGo ファイナンス](https://finance.biggo.jp/news/dca97c20-aebb-4890-a2e8-50bde09bac29)
-
-- **[2026.08.28] Nikkei 225 — 日经225下跌0.20%**
-  日本語：日经225（Nikkei 225）は15:45 JST時点で66,131.98となり、前日終値比で0.20%下落しています。
-  中文：总结：截至 15:45 JST，日经225较前收盘下跌0.20%。
+- **[2026.08.28] Nikkei 225 — 日经225上涨0.41%**
+  日本語：日经225（Nikkei 225）は15:30 JST時点で66,405.56となり、前日終値比で0.41%上昇しています。
+  中文：总结：截至 15:30 JST，日经225较前收盘上涨0.41%。
   📰 [Yahoo Finance](https://finance.yahoo.com/quote/%5EN225)
 
-- **[2026.08.28] Tokyo Electron — 东京电子上涨0.90%**
-  日本語：东京电子（Tokyo Electron）は15:30 JST時点で56,000.00となり、前日終値比で0.90%上昇しています。
-  中文：总结：截至 15:30 JST，东京电子较前收盘上涨0.90%。
+- **[2026.08.28] Tokyo Electron — 东京电子上涨0.41%**
+  日本語：东京电子（Tokyo Electron）は15:30 JST時点で56,230.00となり、前日終値比で0.41%上昇しています。
+  中文：总结：截至 15:30 JST，东京电子较前收盘上涨0.41%。
   📰 [Yahoo Finance](https://finance.yahoo.com/quote/8035.T)
+
+- **[2026.08.28] Advantest — 爱德万测试上涨1.91%**
+  日本語：爱德万测试（Advantest）は15:30 JST時点で35,270.00となり、前日終値比で1.91%上昇しています。
+  中文：总结：截至 15:30 JST，爱德万测试较前收盘上涨1.91%。
+  📰 [Yahoo Finance](https://finance.yahoo.com/quote/6857.T)
+
+- **[2026.08.28] SoftBank Group — 软银集团下跌0.75%**
+  日本語：软银集团（SoftBank Group）は15:30 JST時点で5,161.00となり、前日終値比で0.75%下落しています。
+  中文：总结：截至 15:30 JST，软银集团较前收盘下跌0.75%。
+  📰 [Yahoo Finance](https://finance.yahoo.com/quote/9984.T)
+
+- **[2026.08.28] Toyota — 丰田汽车上涨1.27%**
+  日本語：丰田汽车（Toyota）は15:30 JST時点で3,116.00となり、前日終値比で1.27%上昇しています。
+  中文：总结：截至 15:30 JST，丰田汽车较前收盘上涨1.27%。
+  📰 [Yahoo Finance](https://finance.yahoo.com/quote/7203.T)
+
+- **[2026.08.28] Sony Group — 索尼集团上涨1.50%**
+  日本語：索尼集团（Sony Group）は15:30 JST時点で3,928.00となり、前日終値比で1.50%上昇しています。
+  中文：总结：截至 15:30 JST，索尼集团较前收盘上涨1.50%。
+  📰 [Yahoo Finance](https://finance.yahoo.com/quote/6758.T)
 
 ## 🌍 宏观经济与投资 / Macro & Investment
 
-- **[2026.08.28] CryptoRank — Fidelity’s Timmer: Loose Fiscal and Monetary Mix ‘Clearly Bullish’ for Bitcoin**
-  English：Fidelity's global macro director Jurrien Timmer stated on social media that the current combination of loose fiscal and monetary policy is clearly bullish for Bitcoin and gold. This policy mix, highlighted by the U. S. Treasury's recent long-term bond buybacks and increased short-term bill issuance, is weakening the dollar. Timmer warns that rising fiscal dominance could pressure the Federal Reserve into accommodation, potentially causing currency debasement. Both Bitcoin and gold are narrowing the performance gap with other assets and possess ample room to rise further if accommodative policies persist, reinforcing their roles as stores of value and hedges against fiat currency devaluation.
-  中文：总结：Fidelity全球宏观总监Jurrien Timmer在社交媒体上表示，当前宽松的财政与货币政策组合对比特币和黄金明显看涨。 以美国财政部近期回购长期债券和增加短期国债发行量为标志的这种政策组合正在削弱美元。 Timmer警告称，不断上升的财政主导地位可能会迫使美联储采取宽松政策，从而可能导致货币贬值。 比特币和黄金正在缩小与其他资产的性能差距，如果宽松政策持续，它们还有充足的进一步上涨空间，这巩固了它们作为价值储存手段和对冲法币贬值工具的作用。
-  📰 [CryptoRank](https://cryptorank.io/news/feed/e8f9c-fidelity-timmer-loose-policy-bitcoin)
+- **[2026.08.28] USD/JPY — 美元兑日元上涨0.05%**
+  English: USD/JPY stood at 159.44 as of 15:50 JST, 0.05% higher than the previous close.
+  中文：总结：截至 15:50 JST，美元兑日元较前收盘上涨0.05%。
+  📰 [Yahoo Finance](https://finance.yahoo.com/quote/JPY%3DX)
 
-- **[2026.08.28] CryptoRank — Bitcoin Price Stalls Below $80,000 as Accumulation Hits Limbo**
-  English：Bitcoin traded at $78,419, staying below $80,000 as the Delta Thermo Market Multiple (DTMM) reading of 2. 03 placed the market between its 1. 5x accumulation and 2. 5x expansion zones. Nearly $1 billion in realized profits was recorded over seven days, primarily driven by short-term holders realizing profits at $69,371 as BTC neared $80,000. On-chain data from CryptoQuant and CW indicated continued retail selling, while whales quietly increased net buying. Funding rates remained neutral at 0. 0056 and the Coinbase Premium Index was negative, pointing to weak U. S. spot exchange demand and keeping Bitcoin in a holding pattern while broader capital flows remain uncertain.
-  中文：总结：比特币交易价格为$78,419，停滞在$80,000下方，Delta Thermo Market Multiple（DTMM）读数为2. 03，使市场处于1. 5倍累积区和2. 5倍扩张区之间。 七天内记录了近$1 billion的已实现利润，主要受短期持有者在BTC接近$80,000时以$69,371实现利润所驱动。 CryptoQuant和CW的链上数据表明零售投资者持续抛售，而鲸鱼则悄悄增加了净买入。 资金费率保持在0. 0056的中性水平，Coinbase溢价指数为负，表明美国现货交易所需求疲软，在更广泛的资本流动仍不确定的情况下，比特币保持盘整态势。
-  📰 [CryptoRank](https://cryptorank.io/news/feed/cc234-bitcoin-price-stalls-below-80000-as-accumulation-hits-limbo)
+- **[2026.08.28] US 10Y Yield — 美国10年期国债收益率上涨0.17%**
+  English: US 10Y Yield stood at 4.67 as of 03:59 JST, 0.17% higher than the previous close.
+  中文：总结：截至 03:59 JST，美国10年期国债收益率较前收盘上涨0.17%。
+  📰 [Yahoo Finance](https://finance.yahoo.com/quote/%5ETNX)
 
-- **[2026.08.28] VT Markets — US jobless claims fall to 203K, lifting dollar as yields firm and rate-cut bets fade**
-  English：US initial jobless claims fell to 203K for the week ending August 22, beating the 208K estimate and dropping from a revised 207K. Continuing claims declined by 18K to 1. 778M for the week ending August 15. Following the data release, the US Dollar Index traded within the 99. 20–99. 30 range as Treasury yields firmed. Analysts note that a resilient labor market and robust wage growth reduce the likelihood of near-term Federal Reserve rate cuts, prompting expectations of higher-for-longer monetary policy. The strong economic indicators present a dual-edged scenario for equity markets, where low unemployment supports consumer spending, but persistent inflation risks could lead to market volatility.
-  中文：总结：截至8月22日的一周，美国初请失业金人数降至203K，优于208K的预期，并低于修正后的207K。 截至8月15日的一周，续请失业金人数减少18K，降至1. 778M。 数据发布后，随着国债收益率走稳，美元指数在99. 20至99. 30区间内交易。 分析师指出，强劲的劳动力市场和稳健的工资增长降低了美联储近期降息的可能性，促使市场预期货币政策将保持“长期高利率”。 强劲的经济指标对股票市场呈现出双面影响，低失业率支持消费支出，但持续的通货膨胀风险可能导致市场波动。
-  📰 [VT Markets](https://www.vtmarkets.com/en-ca/live-updates/us-jobless-claims-fall-to-203k-lifting-dollar-as-yields-firm-and-rate-cut-bets-fade/)
+- **[2026.08.28] Gold Futures — 黄金期货下跌0.56%**
+  English: Gold Futures stood at 4,637.90 as of 15:40 JST, 0.56% lower than the previous close.
+  中文：总结：截至 15:40 JST，黄金期货较前收盘下跌0.56%。
+  📰 [Yahoo Finance](https://finance.yahoo.com/quote/GC%3DF)
 
-- **[2026.08.28] tmgm.com — Japanese Yen remains fragile ahead of Tokyo CPI, Warsh’s Jackson Hole speech**
-  English：USD/JPY traded in a narrow range below 160, hovering around 159. 30 as markets awaited key economic catalysts, including Tokyo CPI data and Federal Reserve Chair Kevin Warsh's Jackson Hole speech. The Japanese Yen remained weak due to Japan's low interest-rate environment and fiscal outlook, despite hawkish remarks from Bank of Japan Deputy Governor Ryozo Himino emphasizing timely rate hikes. Meanwhile, the US Dollar held onto gains supported by persistent inflation above the Fed's 2% target, with CME FedWatch tools indicating a 62% probability of the Fed keeping rates unchanged at its September meeting.
-  中文：总结：USD/JPY在160下方窄幅区间内交易，徘徊在159. 30附近，市场正等待关键经济催化剂，包括东京CPI数据和美联储主席Kevin Warsh在杰克逊霍尔的讲话。 尽管日本央行副行长冰见野良三发表了强调适时加息的鹰派言论，但由于日本的低利率环境和财政前景，日元依然疲软。 与此同时，受通货膨胀率持续高于美联储2%目标的支撑，美元守住了涨幅，CME FedWatch工具显示美联储在9月会议上维持利率不变的概率为62%。
-  📰 [tmgm.com](https://www.tmgm.com/en/analysis/market-news/article/japanese-yen-remains-fragile-ahead-of-tokyo-cpi-warshs-jackson-hole-speech-202608271509)
+- **[2026.08.28] WTI Crude Oil — WTI原油下跌0.72%**
+  English: WTI Crude Oil stood at 82.93 as of 15:40 JST, 0.72% lower than the previous close.
+  中文：总结：截至 15:40 JST，WTI原油较前收盘下跌0.72%。
+  📰 [Yahoo Finance](https://finance.yahoo.com/quote/CL%3DF)
 
-- **[2026.08.28] American Banker — What markets want from Fed's Warsh — and how he can deliver**
-  English：Federal Reserve Chair Kevin Warsh is scheduled to deliver a keynote speech at the Jackson Hole Economic Symposium, with markets looking for clarity on the central bank's strategy to address inflation and higher long-term Treasury yields. PCE inflation rose 3. 7% over the past year, while 10-year and 30-year Treasury yields stood at 4. 66% and 5. 18% respectively. Economists note that U. S. Treasury Secretary Scott Bessent's recent expansion of bond buybacks to curb rising yields has complicated the Fed's reading of the bond market. Experts suggest Warsh can restore credibility by reaffirming the 2% inflation target, explaining his communication strategy, and clarifying how the Fed will navigate economic conditions without relying heavily on forward guidance.
-  中文：总结：美联储主席Kevin Warsh计划在杰克逊霍尔经济研讨会上发表主旨演讲，市场正寻求有关中央银行应对通胀和较高长期国债收益率策略的清晰信息。 过去一年PCE通胀率上升了3. 7%，而10年期和30年期国债收益率分别为4. 66%和5. 18%。 经济学家指出，美国财政部部长Scott Bessent最近为遏制收益率上升而扩大债券回购的举措，使美联储对债券市场的解读变得复杂。 专家建议，Warsh可以通过重申2%的通胀目标、解释其沟通策略以及阐明美联储如何在不过度依赖前瞻性指导的情况下应对经济状况，来恢复公信力。
-  📰 [American Banker](https://www.americanbanker.com/news/what-markets-want-from-feds-warsh-and-how-he-can-deliver)
-
-- **[2026.08.27] TradingView — Dollar Little Changed as Stocks Rally**
-  English：The US dollar index rose to a one-week high with a 0. 01% gain, supported by a stronger labor market as weekly jobless claims unexpectedly fell by 4,000 to 203,000, and hawkish comments from Kansas City Fed President Jeff Schmid stating that current policy is not restrictive. However, the dollar pared gains as a stock market rally curbed liquidity demand. The Japanese yen hit a one-week low against the dollar due to weak interest rate differentials, with the BOJ rate at 1. 00% compared to the Fed's 3. 50%-3. 75% target range, though it found some support from BOJ Deputy Governor Ryozo Himino's remarks favoring timely rate hikes. Precious metals were mixed, with October COMEX gold down 0. 57% to trade lower while silver rose 0. 16%.
-  中文：总结：美元指数上涨0. 01%至一周高点，受到更强劲的劳动力市场的支撑，周初请失业金人数意外下降4,000人至203,000人，堪萨斯城联储主席杰夫·施密德发表鹰派言论称当前政策不具限制性。 然而，由于股市上涨抑制了对美元的流动性需求，美元涨幅有所收窄。 由于利率差距悬殊（日本央行利率为1. 00%，而美联储目标区间为3. 50%-3. 75%），日元兑美元跌至一周低点，尽管日本央行副行长冰见野良三赞成适时加息的言论提供了一些支撑。 贵金属表现不一，10月COMEX黄金下跌0. 57%走低，而白银上涨0. 16%。
-  📰 [TradingView](https://www.tradingview.com/news/barchart:10b76745f094b:0-dollar-little-changed-as-stocks-rally/)
-
-- **[2026.08.27] bloomingbit — Sticky US Inflation, Rising Treasury Yields Put Focus on Warsh at Jackson Hole**
-  English：Federal Reserve Chair Kevin Warsh's keynote speech at the Jackson Hole Economic Symposium is the primary focus for investors seeking clues about the central bank's policy path ahead of the September FOMC meeting. The symposium's theme is "Financial Innovation: Implications for Payments and Policy. " Markets are watching how Warsh diagnoses inflation—which remains above the 2% target with core PCE at 3. 3%—and his stance on rising long-term interest rates. Analysts note that Treasury Secretary Scott Bessent's efforts to lower long-term yields through bond buybacks have blurred the line between fiscal and monetary policy, raising questions about Fed independence and how the central bank will respond to economic conditions.
-  中文：总结：美联储主席Kevin Warsh在杰克逊霍尔经济研讨会上的主旨演讲是投资者寻求有关9月FOMC会议前夕央行政策路径线索的主要焦点。 研讨会的主题是“金融创新：对支付和政策的影响”。 市场正在关注Warsh如何诊断通胀（核心PCE为3. 3%，仍高于2%的目标）以及他对长期利率上升的立场。 分析师指出，美国财政部部长Scott Bessent通过债券回购降低长期收益率的努力模糊了财政政策和货币政策之间的界限，引发了对美联储独立性以及央行将如何应对经济状况的疑问。
-  📰 [bloomingbit](https://en.bloomingbit.io/feed/news/119226)
-
-- **[2026.08.27] TradingKey — Today’s Market Recap: Nvidia Earnings Beat Expectations, Strong PCE Inflation Weighs on Market Sentiment as Focus Turns to Jackson Hole Meeting**
-  English：U. S. stock indices closed slightly lower on August 26 as July PCE inflation data came in strong at 3. 7% year-over-year, reinforcing high-interest-rate concerns. A rising U. S. dollar and Treasury yields pressured risk assets and precious metals, with spot gold falling 1. 38% to $4,594. 71 and Bitcoin fluctuating near $78,000. Crude oil rebounded, with WTI rising nearly 1% to $81. 90. Meanwhile, Nvidia reported Q2 revenue of $96. 22 billion and adjusted EPS of $2. 22, exceeding expectations on strong AI chip demand, with Q3 revenue projected at approximately $108 billion. Markets are now awaiting Federal Reserve Chair Warsh's Jackson Hole speech for further monetary policy guidance.
-  中文：总结：8月26日，美国三大股指小幅收低，7月PCE通胀数据同比强劲增长3. 7%，加剧了高利率担忧。 美元和美债收益率上升对风险资产和贵金属构成压力，现货黄金下跌1. 38%至$4,594. 71，比特币在$78,000附近波动。 原油价格反弹，WTI原油上涨近1%至$81. 90。 同时，Nvidia公布第二季度营收为$96. 22 billion，调整后每股收益为$2. 22，得益于强劲的AI芯片需求，超出了预期，预计第三季度营收约为$108 billion。 市场目前正等待美联储主席Warsh在杰克逊霍尔的讲话以获取进一步的货币政策指引。
-  📰 [TradingKey](https://www.tradingkey.com/analysis/stocks/us-stocks/262134181-nvda-earnings-exceeds-expectations-strong-pce-inflation-jackson-hole-tradingkey)
+- **[2026.08.28] Bitcoin — 比特币下跌0.33%**
+  English: Bitcoin stood at 79,999.99 as of 15:50 JST, 0.33% lower than the previous close.
+  中文：总结：截至 15:50 JST，比特币较前收盘下跌0.33%。
+  📰 [Yahoo Finance](https://finance.yahoo.com/quote/BTC-USD)
 
 ---
 ※Stock Market Daily Digest | 2026.08.28
