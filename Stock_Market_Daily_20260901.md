@@ -1,0 +1,135 @@
+# 📈 Stock Market Daily | 2026.09.01（火曜日 / Tuesday）
+
+> ⚠ 本日报优先收录最近24小时的市场新闻、个股异动与当时市场快照；数据仅供参考，不构成投资建议。
+
+---
+
+
+## 🇺🇸 美国股市 / US Market
+
+- **[2026.09.01] 24/7 Wall St. — Could Marvell Be the Next $100 Billion AI Stock?**
+  English：Marvell Technology posted Q2 fiscal 2027 revenue of $2. 739 billion, up 36. 55% year over year, with non-GAAP EPS of $0. 94. Data Center revenue reached $2. 1715 billion, surging 46% year over year and making up 79% of total revenue. Shares closed at $216. 62 on August 28, 2026, following a 10. 28% single-day drop due to post-earnings profit-taking. Management raised guidance for fiscal 2027 and 2028, with Q3 revenue guided to $3. 15 billion. The bull case highlights custom silicon growth, accelerated by an expanded Google agreement involving $120 billion in cumulative revenues over six years. Conversely, risks include customer concentration, a $4. 963 billion long-term debt load, a forward P/E near 60, and a Google warrant for up to 7% of shares. 24/7 Wall St. maintains a price target of $312. 55 with a buy rating and 90% confidence.
+  中文：总结：Marvell Technology公布2027财年第二季度营收为$2. 739 billion，同比增长36. 55%，非美国通用会计准则每股收益为$0. 94。 数据中心营收达到$2. 1715 billion，同比增长46%，占总营收的79%。 受财报发布后的获利回吐影响，股价在2026年8月28日单日下跌10. 28%，收于$216. 62。 管理层上调了2027和2028财年的业绩指引，预计第三季度营收将达到$3. 15 billion。 看涨观点聚焦于定制芯片业务的增长，并受益于与谷歌扩大合作协议，该协议涉及六年内总计$120 billion的累积营收。 相比之下，风险包括客户高度集中、高达$4. 963 billion的长期债务负担、近60倍的远期市盈率，以及谷歌持有高达7%股份的认股权证。 24/7 Wall St. 维持该股买入评级，目标价为$312. 55，信心指数为90%。
+  📰 [24/7 Wall St.](https://247wallst.com/investing/2026/08/31/could-marvell-be-the-next-100-billion-ai-stock/)
+
+- **[2026.09.01] 24/7 Wall St. — Wall Street Is Looking Here. I’m Looking Somewhere Else**
+  English：Advanced Micro Devices reported Q2 FY26 revenue of $11. 54 billion, up 50. 11% year over year, with non-GAAP EPS of $1. 66 and Data Center revenue doubling to $6. 72 billion. Management guided Q3 revenue to approximately $13 billion. Lisa Su stated that the data center AI accelerator market is expected to grow over 45% annually to about $1. 4 trillion by 2030. Anthropic committed to up to 2 gigawatts of MI450 deployments, and Meta signed for 6 gigawatts. Jean Hu noted that EPS will be significantly higher than $20. Shares traded at $465. 58, with 24/7 Wall St. issuing a price target of $628. 27 and a buy rating. Downside risks include a 31% drop in gaming revenue, a 186. 52% jump in capital expenditures, a 9. 89% slip in free cash flow, and export controls on MI308.
+  中文：总结：Advanced Micro Devices公布2026财年第二季度营收为$11. 54 billion，同比增长50. 11%，非美国通用会计准则每股收益为$1. 66，数据中心业务营收翻倍至$6. 72 billion。 管理层预计第三季度营收约为$13 billion。 苏姿丰表示，预计到2030年，数据中心AI加速器市场将以超过45%的年复合增长率增长至约$1. 4 trillion。 Anthropic承诺部署高达2吉瓦的MI450，Meta则签约6吉瓦。 Jean Hu指出，每股收益将显著高于$20。 该股股价为$465. 58，24/7 Wall St. 给予其买入评级及$628. 27的目标价。 下行风险包括游戏业务营收下降31%、资本支出激增186. 52%、自由现金流下滑9. 89%，以及针对MI308的出口管制。
+  📰 [24/7 Wall St.](https://247wallst.com/investing/2026/08/31/wall-street-is-looking-here-im-looking-somewhere-else/)
+
+- **[2026.09.01] simplywall.st — Vertex Among 3 Stocks Considered Below Estimated Fair Value**
+  English：Vertex, Inc. has a market cap of $2. 31 billion and derives $787. 44 million primarily from its Software & Programming segment, trading at US$14. 23 against an estimated cash flow value of US$27. 87, representing a 49% discount. ESCO Technologies Inc. , with a $7. 18 billion market cap, operates across Test ($266. 80 million), Aerospace & Defense ($632. 71 million), and Utility Solutions Group ($391. 19 million); it trades at US$276. 96 below its cash flow value of US$321. 4, with Q3 2026 net income rising to US$32. 74 million and full-year sales guidance raised to between $1. 30 billion and $1. 33 billion. Tutor Perini Corporation has a $4. 67 billion market cap with segments in Civil ($3. 26 billion), Building ($2. 09 billion), and Specialty Contractors ($969. 81 million), trading at US$88. 84 against a cash flow estimate of US$148. 66, alongside Q2 2026 net income increasing to US$65. 74 million.
+  中文：总结：Vertex, Inc. 的市值为$2. 31 billion，其软件与编程部门主要贡献了$787. 44 million的营收，目前股价为US$14. 23，低于US$27. 87的预计现金流价值，折价率达49%。 ESCO Technologies Inc. 的市值约为$7. 18 billion，其营收来源于测试部门（$266. 80 million）、航空航天与国防部门（$632. 71 million）以及公用事业解决方案集团（$391. 19 million）；该公司股价为US$276. 96，低于US$321. 4的预计现金流价值，2026财年第三季度净利润增至US$32. 74 million，并将全年销售额指引上调至$1. 30 billion至$1. 33 billion之间。 Tutor Perini Corporation的市值为$4. 67 billion，其营收来自土木工程部门（$3. 26 billion）、建筑部门（$2. 09 billion）及专业承包商部门（$969. 81 million），目前股价为US$88. 84，低于US$148. 66的未来现金流估值，2026财年第二季度净利润由去年的US$19. 97 million大幅增至US$65. 74 million。
+  📰 [simplywall.st](https://simplywall.st/stocks/us/capital-goods/nyse-tpc/tutor-perini/news/vertex-among-3-stocks-considered-below-estimated-fair-value)
+
+- **[2026.09.01] TradingKey — NVDA|NVIDIA Corp|Price:219.820|Chg%:+2.270**
+  English：Qualcomm shares outperformed the technology sector due to diversification enthusiasm, while institutional accumulation increased following recent valuation compression. Annual revenue reached $44. 28B. Marvell's stock fell despite beating Q2 revenue and earnings estimates, with incremental revenue from the Google custom chip partnership delayed until fiscal 2029 and custom silicon carrying lower gross margins. SanDisk and Kioxia committed over $31 billion to Japanese manufacturing expansion, shifting focus toward enterprise AI flash memory solutions, achieving annual revenue of $20. 25 billion and a net profit of $11. 43 billion. Ciena shares dropped from profit-taking and strategic portfolio adjustments. Dell Technologies stock fell due to industry headwinds and potential semiconductor tariffs, despite reaching $113. 54B in annual revenue.
+  中文：总结：由于多元化策略受到热捧，高通股价跑赢科技板块，在估值压缩和超卖技术条件后机构增持增加。 公司年收入达到$44. 28B。 尽管Marvell第二季度营收和盈利均超预期，但股价仍告下跌，其与谷歌定制芯片合作的增量收入延迟至2029财年，且定制硅片业务的毛利率低于传统网络产品。 SanDisk与铠侠向日本制造扩张投入超过$31 billion，将运营重心转向企业级AI闪存解决方案，实现年收入$20. 25 billion及净利润$11. 43 billion。 Ciena股价因获利回吐和战略组合调整而下跌。 Dell Technologies尽管年收入达到$113. 54B，但受行业逆风和潜在半导体关税影响股价下跌。
+  📰 [TradingKey](https://www.tradingkey.com/markets/stocks/nvda)
+
+- **[2026.08.31] MarketBeat — Broadcom’s Earnings Test Comes With a Higher Bar After NVIDIA’s Blowout**
+  English：Broadcom shares trade at $370. 72 with a P/E ratio of 61. 79 and a dividend yield of 0. 70%, ahead of its September 2 earnings report. Q3 2026 sales are estimated at $29. 43 billion, reflecting 84% year-over-year growth, while EPS is estimated at $3. 22, implying 91% growth. Sales for fiscal Q4 are projected just below $35 billion, with an adjusted EBITDA margin guided at 68%. The company previously guided for $16 billion in AI semiconductor sales and over $100 billion in FY2027 AI revenue, a figure it declined to raise last quarter. Bernstein analyst Stacy Rasgon estimates hyperscaler customers will deploy 9 to 10 gigawatts of chips in FY2027, with content per GW at $20 billion, implying potential revenue of $180 billion to $200 billion.
+  中文：总结：Broadcom股价报$370. 72，市盈率为61. 79，股息率为0. 70%，正迎来9月2日的财报发布。 2026年第三季度销售额预计为$29. 43 billion，同比增长略超84%，每股收益预计为$3. 22，同比增长约91%。 第四财季销售额预计略低于$35 billion，调整后EBITDA利润率指引为68%。 该公司此前给出的AI半导体销售额指引为$16 billion，2027财年AI营收指引为超过$100 billion，但在上一季度拒绝上调该数字。 Bernstein分析师Stacy Rasgon估计，超大规模客户将在2027财年部署9至10吉瓦的芯片，每吉瓦的价值量为$20 billion，这意味着潜在营收可达$180 billion至$200 billion。
+  📰 [MarketBeat](https://www.marketbeat.com/articles/broadcoms-earnings-test-comes-with-a-higher-bar-after-nvidias-blowout/)
+
+- **[2026.08.31] Investor's Business Daily — Dow Jones Futures Fall, Oil Prices Jump As U.S., Iran Exchange Attacks**
+  English：Dow Jones futures fell slightly early Monday, alongside S&P 500 futures and Nasdaq futures. Crude oil prices jumped as the United States and Iran exchanged attacks for the first time in weeks. The stock market's major indexes rose modestly last week, despite Friday's losses as Treasury yields jumped on Federal Reserve chief Kevin Warsh's Jackson Hole speech.
+  中文：总结：周一早盘，道琼斯指数期货、标普500指数期货和纳斯达克指数期货均小幅下跌。 随着美国和伊朗数周来首次互袭，原油价格应声跳涨。 尽管周五因美联储主席凯文·沃什在杰克逊霍尔会议上的讲话引发美债收益率飙升导致市场下跌，但上周股市主要指数仍呈温和上涨态势。
+  📰 [Investor's Business Daily](https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-microsoft-titans-mask-market-weakness/)
+
+- **[2026.08.31] The Motley Fool — Are The "Magnificent Seven" Stocks Still Worth Buying?**
+  English：The Roundhill Magnificent Seven ETF is up 5% year to date, lagging the S&P 500 and Nasdaq Composite, largely due to Tesla's stock falling over 20% alongside narrowing profit margins and increasing competition from Waymo. Meta Platforms faced restrictions on teen usage. Alphabet, Amazon, Microsoft, and Nvidia continue to post strong revenue growth rates that outpace the S&P 500 blended average, driven by cloud computing and artificial intelligence. However, net income figures for Alphabet, Amazon, Microsoft, and Nvidia are artificially inflated by investment gains from companies like SpaceX and Anthropic, making operating income a more accurate metric. Consequently, investors seeking generational returns are looking at smaller companies like Silicon Motion Technology and Nebius, which are doubling revenue year over year.
+  中文：总结：Roundhill Magnificent Seven ETF今年迄今上涨5%，落后于标普500指数和纳斯达克综合指数，这主要是由于特斯拉股价下跌超过20%，其利润率收窄且面临来自Waymo的竞争加剧。 Meta Platforms面临青少年使用时间限制。 在云计算和人工智能的推动下，Alphabet、Amazon、Microsoft和Nvidia继续保持强劲的营收增长率，超越标普500指数的平均水平。 然而，Alphabet、Amazon、Microsoft和Nvidia的净利润数据因SpaceX和Anthropic等公司的投资收益而受到人为夸大，使得营业利润成为更准确的指标。 因此，寻求世代回报的投资者正在关注Silicon Motion Technology和Nebius等实现营收同比翻倍的小型公司。
+  📰 [The Motley Fool](https://www.fool.com/investing/2026/08/31/are-the-magnificent-seven-stocks-still-worth-buyin/)
+
+- **[2026.08.31] TradingKey — Qualcomm: When AI Leaves the Data Center, Opportunity Truly Begins**
+  English：Qualcomm is diversifying from a mobile-dependent semiconductor firm into a cross-device AI platform company, scaling its low-power computing capabilities into automotive, PCs, IoT, physical AI, and data center inference. Its business is split into QCT, which designs chips and platforms like Snapdragon, and QTL, its wireless communications patent licensing business. Qualcomm raised its FY2029 non-handset revenue target to $40 billion, including $10 billion for automotive, over $14 billion for IoT, and introduced a target of over $15 billion for data center AI infrastructure revenue.
+  中文：总结：高通正从一家高度依赖移动端的半导体公司转型为跨设备AI平台公司，将其低功耗计算能力扩展至汽车、个人电脑、物联网、实体AI及数据中心推理领域。 其业务分为负责设计骁龙等芯片和平台的QCT，以及无线通信专利授权业务QTL。 高通将2029财年非手机业务营收目标上调至$40 billion，其中包括汽车业务$10 billion、物联网业务超过$14 billion，并首次设定了超过$15 billion的数据中心AI基础设施营收目标。
+  📰 [TradingKey](https://www.tradingkey.com/analysis/stocks/us-stocks/262141384-qualcomm-ai-pc-automotive-data-center-analysis-tradingkey)
+
+## 🇯🇵 日本株式市場 / Japan Market
+
+- **[2026.09.01] Yahoo!ファイナンス — 北浜キャピタルパートナーズ(株)【2134】：株価・株式情報（夜間PTS含む）**
+  日本語：北浜キャピタルパートナーズ(株)は、8月25日と8月27日に出来高が前日比205％増、223％増へ拡大した一方、株価は21円近辺で推移し、8月19日の22円から8月31日には20円へ下落するなど方向感が定まりにくい状況にある。 8月24日にはジェイ・フェニックス・リサーチによるアナリストレポートの公開が伝えられた。 直近の決算発表日は2026年8月14日であり、過去12四半期は業績が悪化傾向にあり、直近では純利益率や営業利益率が大幅なマイナスを記録するなど収益性が厳しく、有利子負債の増加によって財務の安定性も悪化している。
+  中文：总结：北浜资本伙伴株式会社（Kitahama Capital Partners）在8月25日和27日的成交量较前一日分别增长205%和223%，而股价则在21日元附近徘徊，从8月19日的22日元跌至8月31日的20日元，方向感不明朗。 该公司于8月24日披露了由J-Phoenix Research发布的分析师报告。 其最近的财报发布日为2026年8月14日，过去12个季度的业绩呈恶化趋势，近期净利润率和营业利润率大幅为负，盈利能力严峻，且由于有息负债增加，财务稳定性也在恶化。
+  📰 [Yahoo!ファイナンス](https://finance.yahoo.co.jp/quote/2134.T)
+
+- **[2026.08.31] 財経新聞 — 相場展望 ８月３１日号 米国株：米国利上げ観測⇒割高感のあるAI・半導体関連に売りを警戒 日本株：薄商いで、プライム市場規模が縮小し、小さいグロース市場が活発**
+  日本語：米国株式市場では、ジャクソンホール会議でのウォーシュFRB議長の講演を受け、インフレ率が目標の2％に向かわない場合には追加の政策対応を取る可能性が示唆された。 この早期利上げ観測の高まりにより米長期金利が上昇し、相対的に割高感が意識された半導体株などのハイテク株が売られた。 個別では、好決算を発表したセールスフォースやクラウドストライクが買われた一方、半導体関連のマーベル・テクノロジーが大幅安となり、フィラデルフィア半導体株指数も下落した。 中国株式市場では、全人代常務委員会の閉幕や追加の景気刺激策への期待感が相場を下支えしたものの、ハイテク株を中心に様子見ムードが広がった。
+  中文：总结：在美国股票市场，受美联储主席沃什在杰克逊霍尔会议上演讲的影响，外界推测若通胀率未能向2%的目标回落，可能会采取进一步的政策应对措施。 这种对提前加息预期的升温导致美国长期金利上升，相对估值偏高的半导体等科技股遭到抛售。 个股方面，发布良好财报的Salesforce和CrowdStrike受到买盘青睐，而半导体相关的Marvell Technology则大幅下跌，费城半导体指数也随之下滑。 在中国股票市场，全国人大常委会闭幕以及对出台补充景气刺激政策的预期支撑了股市，但以科技股为中心，市场弥漫着观望情绪。
+  📰 [財経新聞](https://www.zaikei.co.jp/amp/article/20260831/868048.html)
+
+- **[2026.08.31] LIMO | くらしとお金の経済メディア — キオクシアホールディングス+4.36％で高値引け、アドバンテスト▲4.48％など「半導体・AI関連株7選」31日の終値・騰落まとめ（8月31日）**
+  日本語：31日の東京株式市場で日経平均株価は反落し、前日比93円63銭安の6万6311円93銭で取引を終えた。 前週末の米国市場でFRBのウォーシュ議長の発言をきっかけに米利上げ観測が広がり、金利に敏感なハイテク株や半導体関連株が大きく下落した流れが東京市場にも波及した。 アドバンテストや村田製作所などが下落した一方、キオクシアホールディングスが+4. 36％、東京エレクトロンやフジクラが上昇した。 朝方には一時下落幅を拡大したものの、後場にかけては一部の値がさ半導体株に買い戻しが入り、下げ幅を縮小して引けた。
+  中文：总结：31日的东京股市中，日经平均股价回落，收盘比前一日下跌93日元63钱，报66311日元93钱。 受前周末美国市场上美联储主席沃什发言引发的加息预期扩散影响，对利率敏感的科技股和半导体相关股票大幅下跌的走势波及到了东京市场。 Advantest和村田制作所等股票下跌，而铠侠控股上涨4. 36%，东京电子和藤仓则有所上涨。 早盘时跌幅一度扩大，但进入午盘后，部分高价半导体股票出现回购，跌幅收窄后收盘。
+  📰 [LIMO | くらしとお金の経済メディア](https://limo.media/articles/-/136529)
+
+- **[2026.08.31] Infoseek — 株価が半年で「166％超」上昇…リクルートHD（6098）に買いが殺到している理由【注目の業種・銘柄一覧】**
+  日本語：先週の米国市場ではエヌビディアが好決算を発表したものの、ジャクソンホール会議でのウォーシュFRB議長による早期利上げを示唆する発言がAI株の反発を抑え、ブロードコムの決算を前に警戒感が漂った。 為替市場では1ドル160円10銭台まで円安が進行し、米国10年国債利回りが4. 7%台に上昇した。 日本市場では、キオクシアホールディングスが過剰投資懸念で急落するなどAI・半導体株が軟調となった一方、セールスフォースやクラウドストライクなどAIを組み入れたソフトウェア株や、リクルートホールディングスをはじめとするウェブ関連株が大幅に上昇した。 また、金利上昇を背景に銀行株などの金融株や外需株が買われた。
+  中文：总结：上周的美国市场中，尽管Nvidia发布了亮眼的财报，但美联储主席沃什在杰克逊霍尔会议上暗示可能提前加息的发言抑制了AI股票的反弹，在Broadcom财报发布前市场弥漫着谨慎情绪。 汇率方面，日元兑美元贬值至160日元10钱附近，美国10年期国债收益率升至4. 7%区间。 日本市场中，铠侠控股因过度投资担忧而急跌，AI及半导体股票表现疲软，而Salesforce和CloudStrike等融入AI的软件股票以及以瑞可利控股（Recruit Holdings）为首的网络相关股票大幅上涨。 此外，在利率上升的背景下，银行等金融股票和外需股票受到买盘追捧。
+  📰 [Infoseek](https://news.infoseek.co.jp/article/toushiru_53353/)
+
+- **[2026.08.31] BigGo ファイナンス — 日経平均が1043円反落、6万5000円割れ後は下げ渋る 米利上げ警戒で半導体に売り**
+  日本語：週明け31日の東京株式市場で日経平均株価は大幅に反落し、前営業日比1043円96銭安の6万5361円60銭で前場を終えた。 前週末のジャクソンホール会議におけるウォーシュFRB議長の講演を受けた米利上げ観測の強まりと長期金利の上昇により、ハイテク株や半導体関連株に売りが広がった。 アドバンテストや東京エレクトロンが日経平均を大きく押し下げ、値下がり銘柄数が過半数を占めた。 心理的な支持線とされる6万5000円を一時割り込んだものの、その後は同水準を意識して下げ渋る展開となった。
+  中文：总结：周一（31日）早盘的东京股市中，日经平均股价大幅回落，较前一交易日下跌1043日元96钱，以65361日元60钱结束上午交易。 受前周末杰克逊霍尔会议上美联储主席沃什演讲所引发的美国加息预期增强及长期利率上升影响，科技股和半导体相关股票遭到广泛抛售。 Advantest和东京电子大幅拉低了日经平均指数，下跌股票数量占半数以上。 盘中曾一度跌破被视为心理支撑线的65000日元，随后在该水准附近受到支撑而跌势有所收敛。
+  📰 [BigGo ファイナンス](https://finance.biggo.jp/news/29c01f7a-90f9-4989-a7d2-2f3b43c0f48f)
+
+- **[2026.09.01] Nikkei 225 — 日经225下跌0.14%**
+  日本語：日经225（Nikkei 225）は15:45 JST時点で66,311.93となり、前日終値比で0.14%下落しています。
+  中文：总结：截至 15:45 JST，日经225较前收盘下跌0.14%。
+  📰 [Yahoo Finance](https://finance.yahoo.com/quote/%5EN225)
+
+- **[2026.09.01] Tokyo Electron — 东京电子上涨0.37%**
+  日本語：东京电子（Tokyo Electron）は15:30 JST時点で56,440.00となり、前日終値比で0.37%上昇しています。
+  中文：总结：截至 15:30 JST，东京电子较前收盘上涨0.37%。
+  📰 [Yahoo Finance](https://finance.yahoo.com/quote/8035.T)
+
+- **[2026.09.01] Advantest — 爱德万测试下跌4.48%**
+  日本語：爱德万测试（Advantest）は15:30 JST時点で33,690.00となり、前日終値比で4.48%下落しています。
+  中文：总结：截至 15:30 JST，爱德万测试较前收盘下跌4.48%。
+  📰 [Yahoo Finance](https://finance.yahoo.com/quote/6857.T)
+
+## 🌍 宏观经济与投资 / Macro & Investment
+
+- **[2026.09.01] CryptoRank — Bitcoin on course for best August since 2017 despite renewed US-Iran hostilities**
+  English：Bitcoin is trading near $78,400, up over 24% in August for its strongest monthly gain since 2017, demonstrating resilience against renewed U. S. -Iran hostilities and a hawkish Federal Reserve. U. S. airstrikes on Iranian targets on Larak Island and Iranian retaliation in Jordan pushed Brent crude above $91 a barrel. Meanwhile, Fed Chair Kevin Warsh's hawkish Jackson Hole address raised the probability of a September rate hike to 60%, sending Treasury yields higher. The crypto rally is primarily driven by derivatives and options demand while spot liquidity remains stagnant, requiring a break above $80,000–$82,000 to confirm a sustainable rally.
+  中文：总结：比特币交易价格接近$78,400，8月份涨幅超过24%，创下自2017年以来最强劲的月度涨幅，展现出对新一轮美伊敌对行动和鹰派美联储的韧性。 美军对拉拉克岛伊朗目标的空袭以及伊朗在约旦的报复行动将布伦特原油推高至每桶$91以上。 与此同时，美联储主席凯文·沃什在杰克逊霍尔会议上的鹰派讲话将9月份加息的概率推高至60%，并推高了美债收益率。 此轮加密货币反弹主要由衍生品和期权需求驱动，而现货流动性依然停滞不前，需要突破$80,000至$82,000区间以确认可持续的反弹。
+  📰 [CryptoRank](https://cryptorank.io/news/feed/92469-bitcoin-on-course-for-best-august-since-2017-despite-renewed-us-iran-hostilities)
+
+- **[2026.09.01] BlackRock — Weekly market commentary**
+  English：BlackRock highlights three lessons from 2026: higher interest rates are here to stay, the AI theme demands greater selectivity, and geopolitical risks remain unresolved. Global equities have returned about 10% more than three-month U. S. Treasury bills, while global government bonds returned about 3% less. Rising yields, sticky inflation, heavy government borrowing, and private investment needs have pushed yields to multi-year highs globally, with U. S. 30-year yields exceeding 5%. Within AI, investors must track scarce bottlenecks like power, chips, and data center infrastructure as hyperscalers increase debt issuance, with U. S. investment-grade bond issuance topping $100 billion. Finally, market resilience amid geopolitical shocks like the Strait of Hormuz disruption does not mean the absence of risks.
+  中文：总结：贝莱德总结了2026年的三个教训：更高的利率将持续存在、AI主题需要更高的选择性、地缘政治风险依然未解。 全球股票回报率比3个月期美国国债高出约10%，而全球政府债券回报率则低约3%。 不断上升的收益率、粘性通胀、沉重的政府借贷以及私人投资需求，将全球收益率推至多年高点，其中美国30年期国债收益率超过5%。 在AI领域，随着超大规模企业增加债务发行（美国投资级债券发行量已突破$100 billion），投资者必须追踪电力、芯片和数据中心基础设施等稀缺瓶颈。 最后，在霍尔木兹海峡中断等地缘政治冲击下市场的韧性并不意味着没有风险。
+  📰 [BlackRock](https://www.blackrock.com/us/individual/insights/blackrock-investment-institute/weekly-commentary)
+
+- **[2026.09.01] finance.biggo.com — Dollar Holds Near Two-Week High as Fed Chair Warsh's Remarks Fuel Rate Hike Bets**
+  English：The dollar traded near a two-week high on August 31, supported by expectations of a September rate hike after Federal Reserve Chair Kevin Warsh stated at Jackson Hole that 'there is still work to be done' on inflation. Short-term markets priced in a 57–63% probability of a rate hike, pushing the two-year Treasury yield to 4. 33%. Geopolitical tensions also boosted the dollar as U. S. forces struck a missile launch facility on Larak Island, prompting Iranian retaliation in Jordan and pushing Brent crude up by 2%. The yen hovered around 160 against the dollar, with remarks from U. S. Treasury Secretary Scott Bessent and attention on Japanese intervention risks. Germany's August CPI rose 2. 9% year-on-year, keeping the euro soft near $1. 16 ahead of the G20 meeting and U. S. employment data.
+  中文：总结：由于美联储主席凯文·沃什在杰克逊霍尔会议上表示通胀方面“还有工作要做”，市场对9月加息的预期增强，美元于8月31日盘整于两周高位附近。 短期市场定价显示9月加息概率为57%至63%，将两年期美债收益率推高至4. 33%。 美军对拉拉克岛导弹发射设施的打击引发了伊朗在约旦的报复，并将布伦特原油推高2%，地缘政治紧张局势同样提振了美元。 日元兑美元汇率在160左右徘徊，美国财政部长斯科特·贝森特的言论以及对日本干预风险的关注成为焦点。 德国8月CPI同比上涨2. 9%，在G20会议和美国就业数据公布前，欧元兑美元疲软交投于$1. 16附近。
+  📰 [finance.biggo.com](https://finance.biggo.com/news/ab884894-42fa-47a4-9151-99b375e4c9fd)
+
+- **[2026.08.31] en.bloomingbit.io — Bessent Says Oil Will Fall After Iran Tensions Ease, Sees Stronger Yen on Japan, BOJ Steps**
+  English：US Treasury Secretary Scott Bessent stated that global oil prices will decline once tensions with Iran ease and create conditions for negotiations. He also expressed expectations that Japan's government and the Bank of Japan will take steps resulting in a stronger yen, while the dollar-yen exchange rate hovered around 160 yen and markets monitored intervention risks. Bessent noted that policymakers do not raise rates in response to supply shocks, described core inflation as very benign, and declined to speculate on the Federal Reserve's next move. Regarding the US bond market, he stated that the Treasury market is performing well and the 30-year yield has moved lower, while adding that the US is not in a trade war with Canada.
+  中文：总结：美国财政部长斯科特·贝森特表示，一旦与伊朗的紧张局势缓和并为谈判创造条件，全球油价将会下降。 他还预计日本政府和日本央行将采取措施促使日元走强，而美元兑日元汇率徘徊在160日元附近，市场正密切监控干预风险。 贝森特指出，决策者不会为了应对供给冲击而加息，将核心通胀形容为非常温和，并拒绝推测美联储下一步的行动。 关于美国债券市场，他表示国债市场表现良好，30年期收益率有所下降，同时补充称美国并未与加拿大进行贸易战。
+  📰 [en.bloomingbit.io](https://en.bloomingbit.io/feed/news/119449)
+
+- **[2026.08.31] investingLive — investingLive European markets wrap: Oil holds higher, regional yields push up**
+  English：European markets experienced a slower session on August 31, 2026, influenced by Fed Chair Warsh's hawkish stance and caution surrounding month-end. Oil prices held higher following weekend U. S. -Iran military strikes, with WTI crude up 3. 7% to $86. 50 and Brent crude crossing $91. German state inflation data for August came in hotter than July, reinforcing ECB expectations. In major currencies, the dollar traded slightly softer with EUR/USD up 0. 1% to 1. 1600, USD/JPY down 0. 2% to 159. 67, and USD/CAD down 0. 1% to 1. 3885. Gold was little changed at $4,457. U. S. 10-year yields remained flat at 4. 724%, whereas European yields rose, with Germany's 10-year yield climbing 2 bps to 3. 31% (its highest since 2011) and France's 10-year yield reaching 4. 15% (its highest since 2008).
+  中文：总结：受美联储主席沃什的鹰派立场及月末谨慎情绪影响，2026年8月31日的欧洲市场交易较为迟缓。 在周末美伊军事打击之后，油价继续走高，WTI原油上涨3. 7%至$86. 50，布伦特原油突破$91。 德国各州8月通胀数据高于7月，巩固了欧洲央行的预期。 主要货币方面，美元走势略微偏软，欧元兑美元上涨0. 1%至1. 1600，美元兑日元下跌0. 2%至159. 67，美元兑加元下跌0. 1%至1. 3885。 黄金基本持平于$4,457。 美国10年期国债收益率持平于4. 724%，而欧洲收益率上升，其中德国10年期国债收益率上升2个基点至3. 31%（创2011年以来最高），法国10年期国债收益率升至4. 15%（创2008年以来最高）。
+  📰 [investingLive](https://investinglive.com/news/investinglive-european-markets-wrap-oil-holds-higher-regional-yields-push-up/)
+
+- **[2026.08.31] Modern Diplomacy — Can US Iran Escalation Push Global Markets Toward Higher Rates?**
+  English：Global financial markets ended August cautiously as U. S. -Iran fighting pushed Brent crude above $90 a barrel, reviving inflation concerns and reinforcing expectations that central banks may keep interest rates higher for longer. Following Fed Chair Kevin Warsh's hawkish speech at Jackson Hole, market expectations for a September U. S. rate increase rose to 57%, pushing short-term Treasury yields higher. Borrowing costs climbed globally, with Japan's two-year yield hitting a 31-year high, Germany's two-year yield reaching its highest since July 2024, and Japan's 10-year yield hitting its highest since 1996. European and Asian equities remained cautious, the yen traded beyond 160 per dollar, and incoming inflation and employment figures are set to further dictate monetary policy paths.
+  中文：总结：随着美伊交战将布伦特原油推高至每桶$90以上，重新引发了通胀担忧，并巩固了中央银行可能更长时间维持高利率的预期，全球金融市场谨慎结束了8月份。 在美联储主席凯文·沃什于杰克逊霍尔发表鹰派讲话后，市场对美国9月加息的预期上升至57%，推高了短期美债收益率。 全球借贷成本攀升，日本两年期国债收益率创31年新高，德国两年期国债收益率达到2024年7月以来最高，日本10年期国债收益率创1996年以来最高。 欧洲和亚洲股市保持谨慎，日元兑美元跌破160，即将公布的通胀和就业数据将进一步决定货币政策路径。
+  📰 [Modern Diplomacy](https://moderndiplomacy.eu/2026/08/31/can-us-iran-escalation-push-global-markets-toward-higher-rates/)
+
+- **[2026.08.31] 36 Kr — US Treasury Bond Storm: 30-year Treasury Yield Surges to 5.34%, Global Assets Usher in the Moment of Revaluation**
+  English：The yield on 30-year U. S. Treasury bonds reached 5. 34% on August 18, its highest level since 2008, before retreating to 5. 18% on August 27, while 10-year yields continued an upward trend in 2026. Similar long-term yield surges occurred globally, including UK gilts nearing 5. 86%, Japanese government bonds breaking 4%, and German 10-year yields rising to 3. 26%. Analysts attribute the rise to renewed oil price and inflation risks, expanding government bond supply, central bank withdrawals, and massive financing by AI tech giants. Additionally, total U. S. federal debt exceeded $40 trillion, and the July fiscal deficit hit $432. 3 billion, prompting the Treasury to raise its liquidity support repurchase operation cap to at least $4 billion starting September 9, 2026.
+  中文：总结：美国30年期国债收益率在8月18日一度升至5. 34%，创下2008年以来的最高水平，随后在8月27日回落至5. 18%，而10年期国债收益率在2026年继续呈上升趋势。 全球范围内也出现了类似的长期收益率飙升，其中英国金边债券接近5. 86%，日本国债突破4%，德国10年期国债收益率升至3. 26%。 分析师将此归因于重燃的油价和通胀风险、不断扩大的政府债券供给、央行退出购债以及AI科技巨头的大规模融资。 此外，美国联邦债务总额突破$40 trillion，7月财政赤字达到$432. 3 billion，促使财政部自2026年9月9日起将流动性支持回购操作的单笔交易规模上限提高至至少$4 billion。
+  📰 [36 Kr](https://eu.36kr.com/en/p/3963127424728449)
+
+- **[2026.08.31] CryptoRank — Bitcoin Holds $78K As Strait Of Hormuz Strike Lifts Oil Above $90**
+  English：Bitcoin held near the $78,000 area as geopolitical tension around the Strait of Hormuz and a CENTCOM statement on an Iranian strike pushed Brent crude above $90. The energy shock created a macro-risk scenario impacting inflation, liquidity, and risk assets. Bitcoin's stability during the event sparked discussion on whether it acts as a risk asset, liquidity play, or geopolitical hedge, though analysts view the reaction as macro-risk context rather than definitive proof of a war hedge. Liquidity conditions and how energy prices filter into inflation expectations and central bank policy paths remain key drivers for traders.
+  中文：总结：由于霍尔木兹海峡附近的地缘政治紧张局势以及中央司令部关于伊朗打击的声明将布伦特原油推高至$90以上，比特币维持在$78,000附近。 这一能源冲击造成了影响通胀、流动性和风险资产的宏观风险情景。 比特币在此期间的稳定性引发了关于其究竟是风险资产、流动性工具还是地缘政治对冲工具的讨论，不过分析师认为这种反应属于宏观风险背景，而非战争对冲的决定性证据。 流动性状况以及能源价格如何渗透到通胀预期和央行政策路径中，依然是交易员关注的核心驱动因素。
+  📰 [CryptoRank](https://cryptorank.io/news/feed/d11c1-bitcoin-holds-78k-strait-hormuz-oil-90)
+
+---
+※Stock Market Daily Digest | 2026.09.01
