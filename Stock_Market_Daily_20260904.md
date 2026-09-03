@@ -1,0 +1,135 @@
+# 📈 Stock Market Daily | 2026.09.04（金曜日 / Friday）
+
+> ⚠ 本日报优先收录最近24小时的市场新闻、个股异动与当时市场快照；数据仅供参考，不构成投资建议。
+
+---
+
+
+## 🇺🇸 美国股市 / US Market
+
+- **[2026.09.04] StockStory — AVGO Q2 Deep Dive: AI Semiconductor Surge Faces Supply Headwinds and Guidance Caution**
+  English：Broadcom reported Q2 CY2026 revenue of $29. 59 billion, up 85. 5% year on year and meeting Wall Street estimates. Adjusted EPS reached $3. 32, beating consensus by 2. 5%, while operating margin rose to 53. 9%. Management attributed the performance to accelerating AI semiconductor demand from hyperscale customers deploying custom accelerators and networking solutions. CEO Hock Tan highlighted a 221% year-on-year surge in Q3 AI semiconductor revenue, driven by shipments to Anthropic, Google, and OpenAI. However, Q3 revenue guidance of $34. 8 billion came in 1. 1% below analysts' expectations. CFO Amie O'Toole noted that XPUs impacting the revenue mix affect margins. Broadcom is expanding manufacturing capacity, including a new facility in Singapore, and launched the XPV financing platform with Apollo and Blackstone to support computing infrastructure.
+  中文：总结：博通公布2026财年第二季度营收为29. 59亿美元，同比增长85. 5%，符合华尔街预期。 调整后每股收益为3. 32美元，超出市场共识预期2. 5%，营业利润率上升至53. 9%。 管理层将强劲业绩归因于部署定制加速器和AI网络解决方案的超大规模客户对AI半导体需求的持续加速。 首席执行官Hock Tan强调，第三季度AI半导体营收同比增长221%，主要由 Anthropic、谷歌和OpenAI等关键客户的高体量出货量驱动。 不过，第三季度34. 8亿美元的营收指引比分析师预期低1. 1%。 首席财务官Amie O'Toole指出，XPU占营收比重增加会影响利润率。 博通正在扩大制造产能，包括在新加坡新建工厂，并与阿波罗和黑石合作推出XPV融资平台以支持计算基础设施建设。
+  📰 [StockStory](https://stockstory.org/us/stocks/nasdaq/avgo/news/earnings-call/avgo-q2-deep-dive-ai-semiconductor-surge-faces-supply-headwinds-and-guidance-caution)
+
+- **[2026.09.04] The Globe and Mail — September Is the Stock Market's Worst Month on Record. Here's the 1 Move History Says AI Investors Should Make.**
+  English：Historical market data shows that September is statistically the S&P 500 and Nasdaq Composite's worst month, averaging a 1% decline since 1928 due to portfolio rebalancing and vacation returns. However, recent performance during the AI boom from 2023 to 2025 has been mixed rather than uniformly negative. In September 2023, major indexes and tech stocks dropped amid macroeconomic pressures. Conversely, Septembers in 2024 and 2025 saw positive returns for the S&P 500, Nasdaq, and major tech firms, with the seasonal weakness failing to materialize. Analysts suggest that investors avoid treating September as an all-or-nothing event or panic-selling portfolios, recommending instead to maintain a cash buffer and use market dips to buy shares in companies with real earnings growth powered by AI, such as Nvidia, Microsoft, Alphabet, and App.
+  中文：总结：历史市场数据显示，9月通常是标普500指数和纳斯达克综合指数表现最差的月份，自1928年以来平均下跌1%，主要由于投资组合再平衡和度假归来。 然而，2023年至2025年人工智能热潮期间的近期表现呈现混合态势，而非整齐划一地下跌。 2023年9月，在宏观经济压力下，主要指数和科技股下跌。 相反，2024年和2025年的9月见证了标普500、纳斯达克以及大型科技公司的正回报，季节性疲软并未出现。 分析师建议投资者不要将9月视作非黑即白的绝对事件或恐慌性抛售整个投资组合，而是建议保持现金缓冲，并利用市场回调逢低买入由人工智能故事驱动、具备真实盈利增长的公司股票，例如英伟达、微软、Alphabet和App。
+  📰 [The Globe and Mail](https://www.theglobeandmail.com/investing/markets/stocks/NVDA/pressreleases/4426865/september-is-the-stock-markets-worst-month-on-record-heres-the-1-move-history-says-ai-investors-should-make/)
+
+- **[2026.09.03] Breaking News, Latest News and Videos — Nvidia to spend $13 billion on Hugging Face, leaving it as an open source platform - ABC News**
+  English：Nvidia is acquiring artificial intelligence software platform Hugging Face for $12. 93 billion. CEO Jensen Huang stated that the platform supports over 18 million developers, researchers, and creators sharing millions of models, datasets, and applications. Nvidia will maintain Hugging Face as an open platform for the entire AI ecosystem, ensuring developers retain the freedom to choose their preferred models, frameworks, clouds, and computing platforms without requiring Nvidia compute. Hugging Face will continue to support open source and open weight models, alongside multi-cloud and multi-accelerator development. The acquisition follows OpenAI's recent disclosure that its AI system had accessed Hugging Face's data processing systems. Nvidia's stock rose slightly before the market open amid ongoing debates over whether soaring AI infrastructure spending will be justified.
+  中文：总结：英伟达将以129. 3 million收购人工智能软件平台Hugging Face。 首席执行官黄仁勋在博客中表示，该平台拥有超过1800万开发人员、研究人员和创作者，共享数百万个模型、数据集和应用程序。 英伟达将把Hugging Face保留为面向整个AI生态系统的开放平台，确保开发者能够自由选择所需的模型、框架、云服务商和计算平台，且无需强制使用英伟达算力。 Hugging Face将继续支持开源和开放权重模型，以及多云和多加速器开发与部署。 此前，OpenAI曾于7月透露其AI系统曾接入Hugging Face的数据处理系统。 在关于巨额AI基础设施支出是否合理的争议声中，英伟达股价在盘前小幅上涨。
+  📰 [Breaking News, Latest News and Videos](https://abcnews.com/Technology/wireStory/nvidia-spend-13-billion-hugging-face-leaving-open-136169595)
+
+- **[2026.09.03] The Motley Fool — Nvidia Beat Earnings Estimates Again (15 Times Straight). History Says the Stock Will Do This Next.**
+  English：Nvidia reported strong Q2 fiscal 2027 financial results ending in July, with revenue up 106% and adjusted earnings up 120% year-on-year, beating Wall Street estimates for the 15th consecutive quarter. Despite these results, historical patterns suggest Nvidia's stock could drop about 7% to $202 by late September following the earnings announcement. Trading at 27 times earnings with expected annual earnings growth of 50%, the stock holds a PEG ratio of 0. 54. Critics express concern over circular financing deals and the depreciation timelines of chips by hyperscalers, while bulls argue that strong consumer and enterprise AI adoption validates the ongoing demand. JPMorgan strategists note that AI consumer and enterprise adoption is expanding rapidly, supported by a median 12-month target price of $318 per share among 69 analysts.
+  中文：总结：英伟达公布了截至7月的2027财年第二季度强劲财务业绩，营收同比增长106%，调整后盈利增长120%，连续第15个季度超出华尔街预期。 尽管业绩优异，但历史规律表明，在发布财报后，英伟达股价在9月下旬前可能会下跌约7%至202美元。 目前该股的市盈率为27倍，预计未来三年年均盈利增长率为50%，PEG比率为0. 54。 批评者对循环融资交易以及超大规模企业对芯片的折旧期限表示担忧，而多头则认为强劲的消费者和企业AI普及验证了持续的需求。 摩根大通的策略师指出，消费者和企业的AI普及正在迅速扩大，69位分析师给出的12个月目标价中位数为每股318美元。
+  📰 [The Motley Fool](https://www.fool.com/investing/2026/09/03/nvidia-beat-estimates-15-times-stock-do-this-next/)
+
+- **[2026.09.04] S&P 500 — 标普500上涨1.01%**
+  English: S&P 500 stood at 7,743.86 as of 02:04 JST, 1.01% higher than the previous close.
+  中文：总结：截至 02:04 JST，标普500较前收盘上涨1.01%。
+  📰 [Yahoo Finance](https://finance.yahoo.com/quote/%5EGSPC)
+
+- **[2026.09.04] Nasdaq Composite — 纳斯达克综合指数上涨1.35%**
+  English: Nasdaq Composite stood at 26,572.53 as of 02:04 JST, 1.35% higher than the previous close.
+  中文：总结：截至 02:04 JST，纳斯达克综合指数较前收盘上涨1.35%。
+  📰 [Yahoo Finance](https://finance.yahoo.com/quote/%5EIXIC)
+
+- **[2026.09.04] NVIDIA — 英伟达上涨1.40%**
+  English: NVIDIA stood at 227.55 as of 02:04 JST, 1.40% higher than the previous close.
+  中文：总结：截至 02:04 JST，英伟达较前收盘上涨1.40%。
+  📰 [Yahoo Finance](https://finance.yahoo.com/quote/NVDA)
+
+- **[2026.09.04] Apple — 苹果上涨1.15%**
+  English: Apple stood at 328.69 as of 02:04 JST, 1.15% higher than the previous close.
+  中文：总结：截至 02:04 JST，苹果较前收盘上涨1.15%。
+  📰 [Yahoo Finance](https://finance.yahoo.com/quote/AAPL)
+
+## 🇯🇵 日本株式市場 / Japan Market
+
+- **[2026.09.03] 財経新聞 — 相場展望 ９月３日号 米国株：FRB議長は、トランプ氏の怒り恐れず利上げできるか？ 日本株：日経平均は「柔らかい地盤の上に建っている」**
+  日本語：米国株式市場では、米軍によるイラン攻撃や中東情勢の緊迫化に伴う原油高と長期金利の上昇を受け、ダウ工業株30種平均が続落した。 WTI原油先物は一時1バレル90ドル台をつけ、インフレ懸念と追加利上げ観測が強まった。 一方、ナスダック総合株価指数はAI新興企業買収観測のあるエヌビディアなどの買い戻しにより一時反発した。 FRBのウォーシュ議長を巡っては、トランプ大統領の利下げ要求とインフレ再燃の板挟みとなる中、独立性を保ちながら利上げを断行できるかが正念場となっている。 また、米国の財政赤字は8月時点で6400兆円を超え、財政支出の拡大が金利の下支え要因となっている。
+  中文：总结：在美国股票市场，受美军袭击伊朗及中东局势紧张所引发的原油价格上涨和长期利率上升影响，道琼斯工业平均指数连续下跌。 WTI原油期货一度触及每桶90美元关口，加剧了通货膨胀担忧和进一步加息预期。 另一方面，纳斯达克综合指数因传出收购AI初创企业消息的英伟达等股票获得回购而一度反弹。 围绕美联储主席沃什，在面临特朗普总统的降息要求与通货膨胀重燃的双重夹击下，其能否在保持独立性的同时果断加息正处于关键考验关头。 此外，截至8月，美国的财政赤字已超过6400兆日元，财政支出的不断扩大成为了支撑利率居高不下的因素之一。
+  📰 [財経新聞](https://www.zaikei.co.jp/article/20260903/868560.html)
+
+- **[2026.09.03] BigGo ファイナンス — 日経平均は小幅続落、64,200円台でもみ合い 商社株に買い**
+  日本語：東京株式市場で日経平均株価は小幅に続落し、終値は前営業日比111円16銭安の6万4214円48銭となった。 前日の米国株高や米長期金利低下を背景に買いが先行したものの、中東情勢の不透明感や国内金利の先高観が重しとなり、6万4400円付近でのもみ合いに終始した。 米バークシャー・ハザウェイのグレッグ・アベルCEOが日本の商社株の長期保有意向を示したことが追い風となり、三菱商事や三井物産などの商社株が堅調に推移した一方、半導体関連やファーストリテイリングなどの主力株の一部が売られた。 東証プライムの売買代金は7兆5770億円で、市場では米金融政策や国内金利の動向、中東情勢の行方が引き続き焦点となっている。
+  中文：总结：东京股市日经平均指数小幅续跌，收盘较前一个交易日下跌111点16钱，报6万4214点48钱。 受前一日美股上涨和美长期利率下降背景影响，买盘一度占据优势，但中东局势的不确定性以及国内利率上升预期对其形成了压制，全天在6万4400日元附近呈盘整走势。 美国伯克希尔·哈撒韦公司CEO格雷格·阿贝尔表示拟长期持有日本商社股票，这为市场提供了一定支撑，三菱商事和三井物产等商社股表现坚挺，而半导体相关股票及迅销等部分主力股票遭到抛售。 东证主板市场成交额为7万5770亿日元，市场焦点依然集中在美联储货币政策、国内利率走势以及中东局势的发展上。
+  📰 [BigGo ファイナンス](https://finance.biggo.jp/news/76c00da7-97b4-401e-9a4b-19f2bb7678e9)
+
+- **[2026.09.03] Yahoo!ファイナンス — 【AI・半導体関連の日本株】42社の「3年後の成長予想」から“大化け期待銘柄”をどう探すか 「メモリ株は市況の持続性の評価がカギ」と戸松信博氏分析(マネーポストWEB)**
+  日本語：AIの普及に伴い爆発的成長が期待される日本のAI・半導体関連42銘柄の3年平均利益成長率ランキングが作成された。 アイフィスジャパンのコンセンサス予想をもとに、主要アナリストによる3期先の当期利益予想と前期実績を比較したもので、キオクシアHDや太陽誘電などが上位にランクインした。 グローバルリンクアドバイザーズの戸松信博氏は、AI投資が2〜3年単位の設備投資サイクルであるため3期先の利益水準を見る有効性を指摘する一方、成長率は起点の低さ（前期の落ち込み）に影響されるため注意が必要だと分析している。 株価の割高・割安感については、期待先行の局面が終わり業績選別の段階に入っており、メモリ関連では市況の持続性が今後の評価を左右すると述べている。
+  中文：总结：随着人工智能的普及，一份针对日本42家预计将实现爆发式增长的AI及半导体相关股票的三年平均利润增长率排行榜日前制作完成。 该榜单基于IFIS Japan的共识预测，对比了主要分析师对未来三个财年的净利润预期与上一财年的实际业绩，铠侠控股和太阳诱电等公司名列前茅。 Global Link Advisors的代表户松信博指出，由于AI投资属于为期两到三年的设备投资周期，因此观察未来三个财年的利润水平十分有效，但他同时分析称，增长率易受起点较低（上期业绩下滑）的影响，需加以注意。 关于股票被高估还是低估，他认为市场已结束“期待先行”的阶段，进入了根据业绩进行甄选的阶段，而对于存储器相关股票而言，市场行情的持续性将左右未来的估值。
+  📰 [Yahoo!ファイナンス](https://finance.yahoo.co.jp/news/detail/be212acaee7fe51fbeef159ed2efcd3e0161ed37)
+
+- **[2026.09.04] Nikkei 225 — 日经225下跌0.17%**
+  日本語：日经225（Nikkei 225）は15:45 JST時点で64,214.48となり、前日終値比で0.17%下落しています。
+  中文：总结：截至 15:45 JST，日经225较前收盘下跌0.17%。
+  📰 [Yahoo Finance](https://finance.yahoo.com/quote/%5EN225)
+
+- **[2026.09.04] Tokyo Electron — 东京电子上涨0.36%**
+  日本語：东京电子（Tokyo Electron）は15:30 JST時点で53,300.00となり、前日終値比で0.36%上昇しています。
+  中文：总结：截至 15:30 JST，东京电子较前收盘上涨0.36%。
+  📰 [Yahoo Finance](https://finance.yahoo.com/quote/8035.T)
+
+- **[2026.09.04] Advantest — 爱德万测试下跌0.80%**
+  日本語：爱德万测试（Advantest）は15:30 JST時点で32,280.00となり、前日終値比で0.80%下落しています。
+  中文：总结：截至 15:30 JST，爱德万测试较前收盘下跌0.80%。
+  📰 [Yahoo Finance](https://finance.yahoo.com/quote/6857.T)
+
+- **[2026.09.04] SoftBank Group — 软银集团上涨1.56%**
+  日本語：软银集团（SoftBank Group）は15:30 JST時点で5,001.00となり、前日終値比で1.56%上昇しています。
+  中文：总结：截至 15:30 JST，软银集团较前收盘上涨1.56%。
+  📰 [Yahoo Finance](https://finance.yahoo.com/quote/9984.T)
+
+- **[2026.09.04] Toyota — 丰田汽车下跌0.51%**
+  日本語：丰田汽车（Toyota）は15:30 JST時点で3,117.00となり、前日終値比で0.51%下落しています。
+  中文：总结：截至 15:30 JST，丰田汽车较前收盘下跌0.51%。
+  📰 [Yahoo Finance](https://finance.yahoo.com/quote/7203.T)
+
+## 🌍 宏观经济与投资 / Macro & Investment
+
+- **[2026.09.04] CryptoRank — Bitcoin Rallies Over $82,000 — And Brings BTC-Related Stocks With It**
+  English：Bitcoin surged to a peak of $81,282, marking a nearly 3% increase over 24 hours and a 23% gain across 30 days, driving $2. 8 billion of inflows into bitcoin ETFs. Major crypto-related stocks and miners also recorded substantial gains, including MicroStrategy up 13%, Coinbase up 11%, HIVE Digital up 13%, and MARA up 10%. The market rally was spurred by the U. S. Treasury Department's plan to more than double government debt repurchases to tame yields, which weakened the dollar and benefited non-yielding assets, alongside renewed political backing from President Donald Trump for the crypto Clarity Act. Despite the recent momentum, bitcoin remains about 40% below its October record high of $126,080.
+  中文：总结：比特币价格一度飙升至81,282美元的高位，在24小时内上涨近3%，30天内涨幅超过23%，并带动28亿美元资金流入比特币交易所交易基金（ETF）。 主要加密货币相关股票和矿企也录得大幅上涨，其中微策略（MicroStrategy）上涨13%，Coinbase上涨11%，HIVE Digital上涨13%，MARA上涨10%。 市场反弹受到美国财政部计划将政府债务回购规模扩大一倍以上以控制收益率的推动（此举削弱了美元并利好无收益资产），同时还得到了美国总统唐纳德·特朗普对加密货币《清晰法案》（Clarity Act）的重新政治支持。 尽管近期势头强劲，但比特币价格仍较10月份126,080美元的纪录高位低约40%。
+  📰 [CryptoRank](https://cryptorank.io/news/feed/944b7-bitcoin-rallies-over-82000-and-stocks-rise)
+
+- **[2026.09.03] Eurasia Business News — Stock Market Today: Treasury Yields Retreat, Dow and Nasdaq Soar, Oil price above $91, Gold at $ 4,465**
+  English：U. S. stocks advanced on Thursday as Treasury yields fell ahead of the nonfarm payrolls report, with the Dow Jones Industrial Average rising 0. 8%, the S&P 500 gaining 0. 6%, and the Nasdaq Composite advancing 0. 9%. The 2-year Treasury yield dropped 5 basis points to 4. 32%, and the benchmark 10-year yield fell 3 basis points to 4. 74%. Federal Reserve Governor Christopher Waller indicated he would favor holding interest rates steady if August inflation data cooperates. Economic data showed initial jobless claims rose by 2,000 to 206,000, while the July trade deficit widened to $88. 6 billion. West Texas Intermediate crude oil extended its rally, gaining 1. 02% to $91. 94 per barrel amid Middle East tensions, while spot gold climbed 1. 78% to approximately $4,465. 60 per ounce.
+  中文：总结：美国股市周四上涨，因非农就业报告发布前美国国债收益率回落，道琼斯工业平均指数上涨0. 8%，标普500指数上涨0. 6%，纳斯达克综合指数上涨0. 9%。 2年期国债收益率下降5个基点至4. 32%，基准10年期国债收益率下降3个基点至4. 74%。 美联储理事克里斯托弗·沃勒表示，如果8月份通胀数据配合，他将倾向于维持利率不变。 经济数据显示，初请失业金人数增加2,000人至206,000人，而7月份贸易逆差扩大至88. 6亿美元。 由于中东紧张局势，西德克萨斯中质原油价格延续涨势，上涨1. 02%至每桶91. 94美元，现货黄金上涨1. 78%至每盎司约4,465. 60美元。
+  📰 [Eurasia Business News](https://eurasiabusinessnews.com/2026/09/03/stock-market-today-treasury-yields-retreat-dow-and-nasdaq-soar-oil-price-above-91-gold-at-4465/)
+
+- **[2026.09.03] theguardian.com — Yen soars as Bank of Japan tipped to raise interest rates**
+  English：The Japanese yen surged by over 2% against the dollar to 155. 57, reaching a one-month high amid speculation that the Bank of Japan is preparing to raise interest rates. The market movement follows remarks by BOJ policymaker Hajime Takata suggesting the central bank needs to act more nimbly, which analysts at Citi described as the strongest messaging yet for an expedited rate hike trajectory. Markets currently price a 77% probability of a rate increase at the upcoming meeting on September 17. Meanwhile, the global bond sell-off eased following statements from Fed Governor Christopher Waller favoring steady interest rates for the September meeting, which contributed to a weaker dollar. UK 10-year gilt yields hovered around 5. 1% after touching multi-year highs earlier in the week.
+  中文：总结：日元兑美元汇率大涨逾2%至155. 57，创下一个月来的最高水平，原因是市场猜测日本央行准备加息。 此前，日本央行政策制定者高田创暗示央行需要更加灵活地行动，花旗银行分析师称这是迄今为止关于加快加息轨迹的最强信号。 目前市场定价显示9月17日即将召开的会议上有77%的概率加息。 与此同时，在美联储理事克里斯托弗·沃勒发表倾向于在9月会议上维持利率不变的言论后，全球债券抛售潮有所缓和，这导致美元走软。 英国10年期国债收益率在触及多年高位后徘徊在5. 1%左右。
+  📰 [theguardian.com](https://www.theguardian.com/business/2026/sep/03/yen-soars-bank-of-japan-tipped-to-raise-interest-rates)
+
+- **[2026.09.03] Yahoo Finance — Yen rallies sharply as markets raise bets on Bank of Japan rate hikes**
+  English：The Japanese yen rose 1. 99% against the U. S. dollar on Thursday to 155. 6, approaching its post-intervention high of 155. 21 from late July, driven by increasing expectations that the Bank of Japan will raise interest rates at its September 17-18 meeting. BOJ daily account data and market reports confirmed there was no official Ministry of Finance intervention or rate check on Wednesday, debunking speculation regarding official currency support. Instead, the currency strength followed hawkish comments from BOJ board member Hajime Takata urging nimble rate hikes to combat inflation. Markets are pricing in a 75% probability of a 25-basis-point rate hike. Concurrently, the U. S. dollar faced continued pressure after Federal Reserve Governor Christopher Waller signaled a potential pause in U. S. rate hikes if cooling inflation is confirmed.
+  中文：总结：周四，日元兑美元汇率上涨1. 99%至155. 6，逼近7月下旬创下的155. 21干预后高点，主要受到日本央行将在9月17日至18日会议上加息的预期不断升温的推动。 日本央行每日账户数据和市场报告证实，周三没有财务省官方干预或汇率询价，打破了关于官方汇率支持的猜测。 相反，日元走强是由于日本央行董事会成员高田创发表了敦促灵活加息以对抗通胀的鹰派言论。 市场目前定价25个基点加息的概率为75%。 与此同时，在美联储理事克里斯托弗·沃勒暗示如果通胀降温得到证实可能会暂停美国加息后，美元面临持续压力。
+  📰 [Yahoo Finance](https://finance.yahoo.com/markets/currencies/articles/yen-spotlight-sudden-jump-010258163.html)
+
+- **[2026.09.03] CNBC — Yen jumps to one-month high as traders weigh chance of further intervention**
+  English：The Japanese yen strengthened past 160 per dollar, reaching a one-month high of 156. 15 as traders weighed the possibility of further intervention against rising Bank of Japan interest rate expectations. Japan's Vice Finance Minister for International Affairs, Atsushi Mimura, stated authorities remain on a state of heightened alert. Between July 30 and August 26, Japan spent a record 15. 4 trillion yen ($98 billion) on currency intervention, alongside coordinated U. S. participation. Analysts noted that Wednesday's currency jump lacked evidence of stealth intervention and was likely a reaction to BOJ Governor Kazuo Ueda and board member Hajime Takata signaling a possible September rate hike. Markets price in strong odds for a rate increase at the September 18 policy meeting.
+  中文：总结：日元兑美元汇率突破160关口，触及156. 15的一个月高点，交易员在权衡进一步干预的可能性与日本央行不断上升的加息预期。 日本财务省国际事务副大臣三村淳表示，当局保持高度警惕。 7月30日至8月26日期间，日本花费了创纪录的15. 4万亿日元（980亿美元）进行干预，并有美国协同参与。 分析师指出，周三的汇率跳升缺乏隐秘干预的证据，可能只是对日本央行行长植田和男和董事会成员高田创发出9月可能加息信号的反应。 市场定价显示9月18日政策会议加息的可能性很大。
+  📰 [CNBC](https://www.cnbc.com/2026/09/03/yen-japan-intervention-boj.html)
+
+- **[2026.09.03] WTVB — Yen jumps, oil pumps**
+  English：The Japanese yen rose by about 1% against the dollar on Wednesday, marking its largest increase since the joint U. S. -Japan intervention a month prior. Analysts attribute the move to strong signals from Japanese policymakers regarding potential interest rate hikes in September, backed by U. S. Treasury Secretary Scott Bessent's endorsement of tighter monetary policy in Tokyo. Meanwhile, U. S. economic data showed subdued hiring, with the JOLTS report indicating a fall in hiring by 278,000 in July and the ADP report showing private payrolls grew by only 38,000 in August. Benchmark crude oil prices climbed over 1% to a six-week high, bringing monthly gains to 25%, which fueled growing concerns about energy prices driving inflation and Treasury yields higher.
+  中文：总结：日元兑美元汇率周四上涨约1%，创下一个月前美日联合干预以来的最大单日涨幅。 分析师将这一走势归因于日本政策制定者对9月份可能加息的强烈暗示，同时美国财政部长斯科特·贝森特也对东京收紧货币政策表示了支持。 与此同时，美国经济数据显示招聘依然低迷，JOLTS报告显示7月份招聘人数减少278,000人，ADP报告显示8月份私营部门就业人数仅增加38,000人。 基准原油价格上涨逾1%至六周高位，月涨幅达到25%，引发了人们对能源价格推高通胀和国债收益率上升的日益担忧。
+  📰 [WTVB](https://wtvbam.com/2026/09/02/yen-jumps-oil-pumps/)
+
+- **[2026.09.03] Fortune — Current price of Bitcoin for Sept. 3, 2026**
+  English：Bitcoin traded at $77,934. 11 at 8 a. m. Eastern Time, up $1,262. 10 from the previous morning and about $33,775 below its level a year prior. As the original decentralized digital cryptocurrency operating on a peer-to-peer network, Bitcoin holds a market capitalization of approximately $1. 33 trillion, significantly outpacing Ethereum's $233 billion. Throughout its history since 2009, Bitcoin has experienced extreme volatility alongside a gain of over 15,000% across the past decade. Its price movements are influenced by investor speculation, corporate adoption by companies like Tesla and Ferrari, overall economic strength, and regulatory developments. Investors can gain exposure by purchasing Bitcoin directly on an exchange, investing in Bitcoin ETFs, buying crypto-related stocks, or opening a Bitcoin IRA.
+  中文：总结：美国东部时间上午8点，比特币交易价格为77,934. 11美元，比前一天早晨上涨1,262. 10美元，较一年前的水平低约33,775美元。 作为运行在点对点网络上的原始去中心化数字加密货币，比特币的市值约为1. 33万亿美元，远超以太坊的2330亿美元。 自2009年诞生以来，比特币经历了极端的波动，但在过去十年中涨幅超过15,000%。 其价格变动受投资者投机、特斯拉和Ferrari等公司的企业采用、整体经济实力以及监管发展的影响。 投资者可以通过在交易所直接购买比特币、投资比特币ETF、购买加密货币相关股票或开设比特币IRA来获取敞口。
+  📰 [Fortune](https://fortune.com/article/price-of-bitcoin-09-03-2026/)
+
+- **[2026.09.04] USD/JPY — 美元兑日元下跌2.05%**
+  English: USD/JPY stood at 155.41 as of 02:04 JST, 2.05% lower than the previous close.
+  中文：总结：截至 02:04 JST，美元兑日元较前收盘下跌2.05%。
+  📰 [Yahoo Finance](https://finance.yahoo.com/quote/JPY%3DX)
+
+---
+※Stock Market Daily Digest | 2026.09.04
