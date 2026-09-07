@@ -1,0 +1,135 @@
+# 📈 Stock Market Daily | 2026.09.08（火曜日 / Tuesday）
+
+> ⚠ 本日报优先收录最近24小时的市场新闻、个股异动与当时市场快照；数据仅供参考，不构成投资建议。
+
+---
+
+
+## 🇺🇸 美国股市 / US Market
+
+- **[2026.09.08] finance.biggo.com — Forget Chasing the Next Hot Stock: Index Funds and a Handful of Picks Are All Most Investors Need**
+  English：Forget Chasing the Next Hot Stock: Index Funds and a Handful of Picks Are All Most Investors Need. The article discusses investment strategies centered around broad index funds like S&P 500 ETFs (VOO, IVV, SPY) and complementary positions. It examines index rebalancing by the London Stock Exchange Group for large-cap stocks like Nvidia. Daniel Foelber, an analyst at The Motley Fool, argues that Nvidia is transitioning into a foundational provider of AI infrastructure, supported by a $500 billion AI capital financing deal and management forecasts on the Aug. 26 second-quarter fiscal 2027 earnings call anticipating 70% revenue growth for fiscal 2028, with the Vera Rubin platform expected to account for 20% of data center revenue in the upcoming third quarter.
+  中文：总结：文章探讨了以标普500 ETF（VOO、IVV、SPY）等广泛指数基金为核心的投资策略，并指出长线持有的重要性。 文章提及伦敦证券交易所集团对大型股指数的调整，以及分析师Daniel Foelber认为英伟达正转型为AI基础设施基础供应商的观点。 报道指出，英伟达近期公布了一项$500 billion的AI资本融资交易，且管理层在8月26日的2027财年第二季度财报电话会议上预测2028财年营收将增长70%，Vera Rubin平台预计在接下来的第三季度贡献20%的数据中心收入。
+  📰 [finance.biggo.com](https://finance.biggo.com/news/7adf7ba6-1f33-4b12-879a-84a2f06265c9)
+
+- **[2026.09.08] 247wallst.com — Everyone Is Watching Nvidia. But This Memory Stock Could Be the Next AI Winner**
+  English：Everyone Is Watching Nvidia. But This Memory Stock Could Be the Next AI Winner. Micron Technology has experienced significant gains, returning 708. 26% over the past year and 235. 19% year-to-date, driven by high-bandwidth memory demand. CEO Sanjay Mehrotra noted on a June earnings call that AI performance depends on memory subsystem capacity. Wall Street consensus shows a one-year price target of $1,513. 41, with fiscal 2027 revenue estimates at $240. 3 billion and EPS consensus at $155. 03. Micron has secured 16 Strategic Customer Agreements with near $100 billion in cumulative minimum revenue and $22 billion in cash deposits and letters of credit, while HBM4 revenue has exceeded $1 billion with supply tight beyond calendar 2027.
+  中文：总结：美光科技在过去一年中回报率达到708. 26%，今年迄今回报率为235. 19%，主要受高带宽内存需求推动。 首席执行官Sanjay Mehrotra在6月的财报电话会议上指出，AI系统性能取决于内存子系统的性能与容量。 华尔街共识的一年期目标价为$1,513. 41，2027财年营收估计为$240. 3 billion，每股收益共识为$155. 03。 美光已签署了16项战略客户协议，累计最低收入接近$100 billion，拥有$22 billion的现金存款和信用证，且HBM4营收已突破$1 billion，供应紧张状况预计将持续到calendar 2027之后。
+  📰 [247wallst.com](https://247wallst.com/investing/2026/09/07/everyone-is-watching-nvidia-but-this-memory-stock-could-be-the-next-ai-winner/?tpid=1654938&tv=link&tc=in_content)
+
+- **[2026.09.07] AOL.com — Tesla Says This Time Is Different. Wall Street Is Split on Whether to Believe It**
+  English：Tesla Says This Time Is Different. Wall Street Is Split on Whether to Believe It. Tesla reported Q2 2026 revenue of $28. 24 billion, up 25. 52% year-over-year, beating estimates by 7. 1%, while operating income dropped 56. 88% to $398 million due to a $25 billion capital expenditure push by Elon Musk, turning free cash flow negative at $1. 09 billion. TSLA shares are down 21. 27% year-to-date. Active FSD subscriptions reached 1. 48 million, up 56% year-over-year, and Robotaxi operates in seven U. S. metros. Wall Street coverage is split with 22 Buys, 19 Holds, and 5 Sells, trading against a mean analyst target of $390. 09.
+  中文：总结：特斯拉公布2026年第二季度营收为$28. 24 billion，同比增长25. 52%，超出预期7. 1%，但由于埃隆·马斯克推行$25 billion的资本支出计划，营业利润暴跌56. 88%至$398 million，自由现金流转为负$1. 09 billion。 特斯拉股价今年迄今下跌21. 27%。 活跃的FSD订阅量达到1. 48 million，同比增长56%，Robotaxi已在七个美国大都市运行。 华尔街评级呈现分歧，共有22个买入、19个持有和5个卖出，平均分析师目标价为$390. 09。
+  📰 [AOL.com](https://www.aol.com/articles/tesla-says-time-different-wall-144326000.html)
+
+- **[2026.09.07] 247wallst.com — AMD Is Behind The AI Chip Shift Nobody Is Talking About**
+  English：AMD Is Behind The AI Chip Shift Nobody Is Talking About. AMD and NVIDIA reported strong AI quarters, with AMD's Q2 FY2026 revenue reaching $11. 54 billion, up 50. 1% year-over-year, and Data Center revenue surging 107% to $6. 72 billion. NVIDIA reported revenue of $96. 22 billion, up 105. 8% year-over-year, with Data Center at $89. 02 billion. NVIDIA sells a closed platform ecosystem, whereas AMD builds an open coalition using Helios rack systems, pairing EPYC Venice, MI450 GPUs, and Pensando networking with ROCm software. Anthropic has committed to up to 2 GW of MI450 Series GPUs, and Microsoft is deploying Helios on Azure.
+  中文：总结：AMD与英伟达公布了强劲的AI季度业绩，其中AMD的2026财年第二季度营收达到$11. 54 billion，同比增长50. 1%，数据中心业务飙升107%至$6. 72 billion。 英伟达营收为$96. 22 billion，同比增长105. 8%，数据中心业务达$89. 02 billion。 英伟达销售封闭的平台生态系统，而AMD则构建开放联盟，推出搭载EPYC Venice、MI450 GPU、Pensando网络及ROCm软件的Helios机架系统。 Anthropic已承诺采用高达2 GW的MI450系列GPU，微软也正在Azure上部署Helios。
+  📰 [247wallst.com](https://247wallst.com/investing/2026/09/07/amd-is-behind-the-ai-chip-shift-nobody-is-talking-about/)
+
+- **[2026.09.07] Investor's Business Daily — Dow Jones Futures Fall With Iran, Apple, Inflation In Focus; Nvidia, Micron, Sandisk Flash Buy Signals**
+  English：Dow Jones Futures Fall With Iran, Apple, Inflation In Focus; Nvidia, Micron, Sandisk Flash Buy Signals. Dow Jones futures and S&P 500 futures declined on Monday afternoon, while Nasdaq futures edged higher as U. S. markets remained closed for Labor Day. U. S. and Iran exchanged military attacks over the weekend. Key events for the upcoming week include an Apple iPhone event and major inflation reports, following a mixed week for the stock market that showed promising action after a difficult start.
+  中文：总结：受美国劳动节假期休市影响，道琼斯期货与标普500期货于周一下午下跌，纳斯达克期货则小幅走高。 美国与伊朗在周末期间发生了军事交火。 接下来的重点事件包括苹果iPhone发布会以及重要的通胀报告，在此之前，股票市场经历了一个起伏不定的星期，但在艰难开局后展现出了有希望的走势。
+  📰 [Investor's Business Daily](https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-nvidia-micron-sandisk-buy-signals-apple-inflation-reports/)
+
+- **[2026.09.07] The Motley Fool — Not a Crash, Not a Correction: What the September Effect Really Means for Artificial Intelligence (AI) Chip Stocks**
+  English：Not a Crash, Not a Correction: What the September Effect Really Means for Artificial Intelligence (AI) Chip Stocks. The article examines the historical impact of the September Effect on major market indexes, noting that September is historically the only month with a negative average return for the S&P 500 since 1928, dropping 1. 1% on average. For AI chip stocks, performance during September has varied, with ETFs like the VanEck Semiconductor ETF (SMH) and iShares Semiconductor ETF (SOXX) dropping about 7% in September 2023, finishing flat in September 2024, and gaining 12% and 11% respectively last year. The analysis indicates that seasonal patterns do not reliably signal an impending crash or correction, as factors like earnings and demand for AI compute can overpower historical trends.
+  中文：总结：文章审视了“九月效应”对主要市场指数的历史影响，指出自1928年以来，九月是标普500指数中唯一平均回报率为负的月份，平均下跌1. 1%。 对于AI芯片股而言，其在九月的表现各有不同，例如VanEck半导体ETF（SMH）和iShares半导体ETF（SOXX）在2023年9月下跌约7%，2024年9月持平，而在去年分别上涨12%和11%。 分析表明，季节性规律并不能可靠地预示即将发生崩盘或回调，因为企业盈利和对AI计算的需求等因素可以压倒历史趋势。
+  📰 [The Motley Fool](https://www.fool.com/investing/2026/09/07/crash-correction-september-effect-ai-stocks/)
+
+- **[2026.09.07] VOI.id — Asian Stock Markets Outpace the US and Europe, AI Drives Technology Rally**
+  English：Asian Stock Markets Outpace the US and Europe, AI Drives Technology Rally. Asian stock markets outperformed the US and Europe in the first eight months of the year, driven by the information technology sector fueled by AI demand. The MSCI Asia Index rose 23. 01%, surpassing the US index's 12. 21% and European index's 8. 87% gains. The Asian IT sector jumped 70. 51% year-to-date, supported by chip demand from China, Japan, and South Korea, and strong Nvidia results. Meanwhile, Brent crude prices exceeded $91 a barrel due to Middle East risks, and three-month copper prices on the London Metal Exchange approached record levels.
+  中文：总结：今年前八个月，亚洲股市表现优于美国和欧洲，主要由人工智能需求驱动的信息技术板块领涨。 MSCI亚洲指数上涨23. 01%，超过美国指数12. 21%和欧洲指数8. 87%的涨幅。 在来自中国、日本和韩国的芯片需求以及英伟达强劲业绩的支撑下，亚洲IT板块今年迄今飙升70. 51%。 与此同时，由于中东风险，布伦特原油价格突破每桶$91，伦敦金属交易所的三个月期铜价格也逼近纪录水平。
+  📰 [VOI.id](https://voi.id/en/economy/593017)
+
+- **[2026.09.07] marketbeat.com — Valtrion Capital Management LLC Invests $896,000 in Tesla, Inc. $TSLA**
+  English：Valtrion Capital Management LLC Invests $896,000 in Tesla, Inc. $TSLA. Valtrion Capital Management LLC acquired a new stake of 2,131 shares in Tesla, Inc. in the second quarter, valued at approximately $896,000. Institutional investors own 66. 20% of Tesla's stock, with major holders including State Street Corp, Geode Capital Management, Norges Bank, Amundi, and Corient Private Wealth. Tesla reported Q2 earnings on July 23rd, posting $0. 33 earnings per share, missing consensus estimates of $0. 50, on revenues of $28. 24 billion, which were up 25. 5% year-over-year. The stock opened at $354. 08 on Monday, with a market capitalization of $1. 40 trillion.
+  中文：总结：Valtrion Capital Management LLC在第二季度购入了2,131股特斯拉公司的股票，价值约$896,000。 机构投资者持有特斯拉66. 20%的股份，主要持有人包括道富银行、吉德资本管理、挪威央行、东方汇理和Corient Private Wealth。 特斯拉于7月23日公布第二季度财报，每股收益为$0. 33，低于$0. 50的共识预期，营收为$28. 24 billion，同比增长25. 5%。 该股票周一开盘价为$354. 08，市值为$1. 40 trillion。
+  📰 [marketbeat.com](https://www.marketbeat.com/instant-alerts/filing-valtrion-capital-management-llc-invests-896000-in-tesla-inc-tsla-2026-09-07/)
+
+## 🇯🇵 日本株式市場 / Japan Market
+
+- **[2026.09.07] Yahoo!ファイナンス — 浜松ホトニクス(株)【6965】：株価・株式情報（夜間PTS含む）**
+  日本語：浜松ホトニクス(株)【6965】：株価・株式情報（夜間PTS含む）の話題。 9月1日から9月4日にかけて弱気継続や中立への引き下げが相次ぎ、目標株価は2,100円や2,300円が示された。 直近5営業日の株価は2,372円から2,359. 5円へ小幅調整し、評価修正が続いている。 期間中の株価は2,348. 5円から2,298. 5円へ下落し、9月2日の出来高は319万株で前日比69％増となった。 直近の決算発表日は2026年8月6日であり、過去12四半期は業績が悪化傾向にある。
+  中文：总结：滨松光子学（6965）股价及股票信息受到关注。 9月1日至9月4日期间，市场频现看跌评级延续或中立评级下调，目标价被设定为2,100日元和2,300日元。 最近5个交易日股价自2,372日元小幅调整至2,359. 5日元，估值修正持续出现。 在此期间，股价从2,348. 5日元跌至2,298. 5日元，9月2日的成交量为319万股，较前一日增长69%。 最近的财报发布日为2026年8月6日，过去12个季度的业绩呈现恶化倾向。
+  📰 [Yahoo!ファイナンス](https://finance.yahoo.co.jp/quote/6965.T)
+
+- **[2026.09.07] ゴールドオンライン — 資金は半導体セクターへ移動…急伸した〈キオクシア〉の買い材料【9月7日の国内株式市場概況】 | ゴールドオンライン**
+  日本語：9月7日の日経平均株価は、前週末の米国半導体株の堅調な流れやアジア市場の堅調な動きを背景に買いが先行し、前日比1,378. 90円高の66,399. 84円で取引を終えた。 寄与度上位はソフトバンクグループ、アドバンテスト、東京エレクトロン、キオクシアホールディングス、イビデンなどとなった。 東証プライム市場の売買代金は8兆0,377. 40億円を記録した。 業種別では海運業や電気機器などが上昇し、水産・農林業や医薬品などが下落した。 個別ではソフトバンクグループやサムコ、キオクシアホールディングスなどが値上がり上位となった。
+  中文：总结：9月7日的日经平均指数在受前周末美国半导体股稳健走势及亚洲市场坚挺表现的带动下买盘先行，最终收报66,399. 84日元，较前一交易日上涨1,378. 90日元。 对指数贡献度靠前的有软银集团、爱德万测试、东京电子、铠侠控股以及揖斐电等。 东证Prime市场的成交额达到8兆0,377. 40亿日元。 按行业来看，海运业和电气设备等上涨，水产农林业和医药品等下跌。 个股方面，软银集团、三星电子（Samco）和铠侠控股等涨幅居前。
+  📰 [ゴールドオンライン](https://gentosha-go.com/articles/-/81563)
+
+- **[2026.09.07] ｄメニューニュース — 日経平均が２営業日連続で上昇、終値１３７８円高の６万６３９９円…プライム銘柄の半数以上は値下がり**
+  日本語：7日の東京株式市場で、日経平均株価の終値は前週末比1378円90銭高の6万399円84銭となり、2営業日連続で上昇した。 前週末の米市場で主要な半導体関連株が上昇したことを受け、AIや半導体関連銘柄に買いが集まった。 ソフトバンクグループ、アドバンテスト、東京エレクトロンの3銘柄で日経平均を計1000円以上押し上げた。 一方、銀行や不動産といった内需関連株を中心に下落も目立ち、東証プライム銘柄の半数以上が値下がりした。 TOPIXは22. 57ポイント高の4125. 80となった。
+  中文：总结：7日的东京股市中，日经平均指数收盘较前周末上涨1,378日元90钱，报66,399日元84钱，连续两个交易日上涨。 受前周末美国市场主要半导体相关股票上涨的影响，资金纷纷涌入AI及半导体相关个股。 软银集团、爱德万测试和东京电子这三只股票将日经平均指数推高了1,000日元以上。 另一方面，以银行和房地产等内需相关股票为中心的下跌也十分明显，东证Prime市场半数以上的股票下跌。 东证指数（TOPIX）上涨22. 57点，报4,125. 80点。
+  📰 [ｄメニューニュース](https://topics.smt.docomo.ne.jp/amp/article/yomiuri/business/20260907-567-GYT1T00219)
+
+- **[2026.09.07] EBC Financial Group — ソフトバンク株価は大幅続伸｜GPT-6 Astra発表でOpenAI関連の評価が上昇**
+  日本語：ソフトバンクグループ(9984)の株価は9月7日、大幅続伸し、前場終値は前日比462円高の6,052円となった。 OpenAIが9月3日に発表した次世代モデル「GPT-6 Astra」の登場により生成AIやAIエージェントの普及期待が高まったほか、傘下のSB Energyが米国IPOを申請したことや、7月1日にOpenAIへの追加投資を完了したことが材料視されている。 累計投資額は646億ドルとなり持分比率が約13%となる見込みである。 短期間での急上昇に伴う過熱感や利益確定売りに対する注意も指摘されている。
+  中文：总结：软银集团（9984）股价于9月7日大幅续涨，早盘收盘较前一日上涨462日元，报6,052日元。 由于OpenAI于9月3日发布了次世代模型“GPT-6 Astra”，市场对生成式AI及AI智能体普及的预期高涨，加之其旗下SB Energy申请在美国上市，以及7月1日完成对OpenAI的追加投资等利好因素受到关注。 其对OpenAI的累计投资额将达64,6亿美元，持股比例预计约为13%。 不过，市场也指出需警惕短期急涨带来的过热感以及获利回吐卖盘的风险。
+  📰 [EBC Financial Group](https://www.ebc.com/jp/forex/311106.html)
+
+- **[2026.09.07] 現代ビジネス — 3か月で20兆円消えたソフトバンクG 孫正義が賭ける「PER200倍の1社」**
+  日本語：ソフトバンクグループ（SBG）は、ビジョン・ファンド2を通じてOpenAIへ2024年9月以降累計346億ドルを投資しており、2026年にはさらに300億ドルを3回に分けて追加投資する契約を結んだ。 追加投資時のOpenAIのプレマネー評価額は7300億ドルである。 AIモデルやデータセンターには巨額の資金が必要であり、GoogleやAnthropicとの競争も続く中、SBGはAIの将来価値に大きく資本を振り向けている実態にある。
+  中文：总结：软银集团（SBG）通过愿景基金2自2024年9月起已向OpenAI累计投资346亿美元，并于2026年签署了分三次追加投资300亿美元的协议。 追加投资时OpenAI的投前估值为7300亿美元。 在AI模型和数据中心需要巨额资金且与谷歌及Anthropic的竞争仍在持续的背景下，SBG的实际情况是将资本大量投向了AI的未来价值。
+  📰 [現代ビジネス](https://gendai.media/articles/-/170820?page=3)
+
+- **[2026.09.07] Infoseek — キオクシアは前週比13.7%高！AI半導体銘柄の「再燃」はあるか？**
+  日本語：9月7日の日経平均は続伸スタートとなり、前場では1,439円高の6,6460円まで上昇した。 先週の米国市場では半導体メモリ銘柄が反発し、サンディスクやマイクロン・テクノロジーが上昇した。 今週は米国で8月PPIやCPIが発表される予定であり、米国の利上げ観測や日銀の動向が注目されている。 また、米国のベッセント財務長官による日本に対するリフレ政策停止の発言や、原油高・円高の進行が景気敏感株の重しとなっている中、オラクルの決算発表も控えている。
+  中文：总结：9月7日日经平均指数延续涨势开盘，早盘曾一度飙升1,439日元，触及66,460日元。 上周美国市场半导体存储芯片股票反弹，闪迪和美光科技均告上涨。 本周美国将公布8月PPI和CPI，美联储的加息预期以及日本央行的动向备受关注。 此外，在美国财政部长贝森特发表要求日本停止再通胀政策的言论、油价上涨和日元升值对周期股形成压力的同时，市场还将迎来甲骨文的财报发布。
+  📰 [Infoseek](https://news.infoseek.co.jp/article/toushiru_53419/)
+
+- **[2026.09.07] EBC Financial Group — 日経平均株価は1300円上昇、なぜ?米半導体株高が日本株を押し上げた背景**
+  日本語：2026年9月7日の東京株式市場で、日経平均株価は1300円超上昇し6万6000円台を回復した。 前週末の米国市場でフィラデルフィア半導体株指数（SOX）が3%超上昇し、エヌビディアやサンディスクなどが買われた流れを受け、東京市場でもアドバンテストや東京エレクトロンなどのAI・半導体関連株に買いが入った。 一方、中東情勢を背景とした原油高や米国の金利上昇への警戒感は残っており、今週予定される米国のインフレ指標や経済指標の結果が注目されている。
+  中文：总结：2026年9月7日的东京股市中，日经平均指数大涨逾1300点，收复66,000点大关。 受前周末美国市场费城半导体指数（SOX）大涨逾3%、英伟达及闪迪等受到追捧的走势影响，东京股市的爱德万测试、东京电子等AI及半导体相关股票也迎来买盘。 另一方面，受中东局势影响的油价高企以及对美国利率上升的警惕情绪依然存在，市场正密切关注本周将公布的美国通胀指标及经济数据结果。
+  📰 [EBC Financial Group](https://www.ebc.com/jp/forex/311085.html)
+
+- **[2026.09.07] BigGo ファイナンス — 日経平均が一時1600円超高、6万6000円台回復 半導体高でAI関連に買い**
+  日本語：7日の東京株式市場で日経平均株価は大幅に続伸し、終値は前週末比1394円53銭高の6万6399円84銭となった。 前週末の米国市場で半導体株が上昇した流れを引き継ぎ、AI関連銘柄を中心に買いが広がり、アドバンテストや東京エレクトロンが4%超上昇したほか、ソフトバンクグループが11. 22%高、キオクシアが9. 31%高となった。 また、日本経済新聞社がKOKUSAI ELECTRICを10月からの定例入替で構成銘柄に採用すると発表したことも材料視され、同社株は7. 64%高となった。 一方、銀行株は軟調に推移した。
+  中文：总结：7日的东京股市中，日经平均指数大幅连续上涨，收盘较前周末上涨1,394日元53钱，报66,399日元84钱。 继承了前周末美国股市半导体股上涨的走势，买盘以AI相关股票为中心扩散，爱德万测试和东京电子均上涨超过4%，软银集团暴涨11. 22%，铠侠上涨9. 31%。 此外，日本经济新闻社宣布将KOKUSAI ELECTRIC纳入10月开始的例行指数调整成分股中，这一利好消息推动其股价上涨7. 64%。 另一方面，银行股表现疲软。
+  📰 [BigGo ファイナンス](https://finance.biggo.jp/news/facd785c-c08b-4cd2-a9f4-61d3bc831f1b)
+
+## 🌍 宏观经济与投资 / Macro & Investment
+
+- **[2026.09.08] Investorideas.com — Hiking, Economy and Stocks**
+  English：Hiking, Economy and Stocks. A stronger-than-expected US jobs report pushed September rate-hike odds to 60%, heavily impacting stocks and crypto while the Russell 2000 remained resilient. The robust jobs figure beat expectations, increasing the likelihood of Federal Reserve interest-rate hikes due to rising energy prices and inflation concerns. Despite the market reaction, tech led Friday's trading session even as yields climbed. The author provides daily trading signals and market analysis across stocks, bonds, gold, silver, miners, oil, copper, and cryptocurrencies.
+  中文：总结：美国强于预期的就业报告将9月份加息概率推高至60%，对股票和加密货币造成沉重打击，而罗素2000指数则表现出韧性。 强劲的就业数据超出预期，鉴于能源价格上涨和通胀担忧，这增加了美联储加息的可能性。 尽管市场有所反应，但在收益率攀升的情况下，科技股依然领跑周五的交易时段。 作者提供涵盖股票、债券、黄金、白银、矿业股、石油、铜和加密货币的每日交易信号和市场分析。
+  📰 [Investorideas.com](https://www.investorideas.com/news/2026/mining/09072-hiking-economy-and-stocks.asp)
+
+- **[2026.09.07] tmgm.com — Japanese Yen hits six-and-a-half-month high on hawkish BoJ bets**
+  English：Japanese Yen hits six-and-a-half-month high on hawkish BoJ bets. The USD/JPY pair dropped to a seven-month low near 154. 42 as the Japanese Yen outperformed major peers, driven by hawkish Bank of Japan expectations, capital repatriation, and the unwinding of carry trades. Markets have fully priced in a 25-basis-point rate hike to 1. 25% at the BoJ's September 17-18 meeting. Meanwhile, Japan spent ¥15. 4 trillion, around $98. 66 billion, supporting the currency between July 30 and August 26. In the US, Nonfarm Payrolls increased by 162K in August, with traders pricing in a 58% chance of a Fed rate increase at the September meeting ahead of upcoming US PPI and CPI data.
+  中文：总结：由于日本央行鹰派预期、资金回流以及套利交易的解除，日元跑赢主要同行，USD/JPY跌至接近154. 42的七个月新低。 市场已完全计入日本央行在9月17日至18日会议上加息25个基点至1. 25%的预期。 同时，日本在7月30日至8月26日期间斥资15. 4万亿日元（约合$98. 66 billion）来支撑日元汇率。 在美国，8月非农就业人数增加162K，交易员预计美联储在9月会议上加息的概率为58%，市场正等待即将公布的美国PPI和CPI数据。
+  📰 [tmgm.com](https://www.tmgm.com/en/analysis/market-news/article/japanese-yen-hits-six-and-a-half-month-high-on-hawkish-boj-bets-202609071337)
+
+- **[2026.09.07] The Japan Times — Yen rises to highest since February, topping intervention rally**
+  English：The yen strengthened to its highest level since February on Monday, surpassing the peak reached after coordinated intervention by Japan and the U. S. The Japanese currency extended gains by up to 1. 4% to reach ¥154. 06 against the dollar during London trading. While there was no clear single driver, traders attributed the move partly to the U. S. holiday amplifying market actions and the psychological impact of breaking the key ¥155 per dollar level. Masahiko Loo, senior fixed income strategist at State Street Investment Management, noted that breaking below 155 is significant because that level previously acted as a floor following past intervention episodes.
+  中文：总结：日元周一走强至2月以来的最高水平，超过了日本和美国联合干预后达到的峰值。 在伦敦交易时段，日元兑美元汇率一度扩大涨幅高达1. 4%，达到¥154. 06。 虽然没有单一明确的驱动因素，但交易员将这一走势部分归因于美国假期的放大效应以及跌破每美元¥155这一关键水平的心理影响。 道富投资管理公司的高级固定收益策略师Masahiko Loo指出，跌破155具有重要意义，因为该水平在过去的干预事件后曾充当过支撑位。
+  📰 [The Japan Times](https://www.japantimes.co.jp/business/2026/09/07/markets/japan-yen-gains-154/)
+
+- **[2026.09.07] Bitget — India Isn’t Japan: Why the Yen Carry Trade Analogy Could Mislead Indian Investors**
+  English：India Isn’t Japan: Why the Yen Carry Trade Analogy Could Mislead Indian Investors. Japan's 10-year government bond yield has crossed 3% for the first time since 1996, while India's economy expanded 7. 8% in April-June. Uday Kotak warned that rising sovereign debt and widening deficits could increase inflation and interest-rate volatility. Unlike Japan, which provides cheap yen funding for global carry trades, India is more vulnerable to foreign capital outflows when global liquidity tightens. In August, foreign investors bought $3. 1 billion of Indian equities, but 2026 withdrawals reached $24. 6 billion. The rupee closed near 94. 49 per dollar on September 7, and Brent crude traded around $96. 6, prompting the RBI to sell at least $8 billion last week to support the currency.
+  中文：总结：日本10年期国债收益率自1996年以来首次突破3%，而印度4月至6月的经济增长率为7. 8%。 Uday Kotak警告称，主权债务上升和赤字扩大可能会加剧通胀和利率波动。 与为全球套利交易提供廉价日元资金的日本不同，印度在全球流动性收紧时更容易受到外资流出的影响。 8月份，外国投资者购买了$3. 1 billion的印度股票，但2026年的撤资额已达到$24. 6 billion。 9月7日，卢比兑美元收于接近94. 49，布伦特原油交易价格约为$96. 6，促使印度央行在上周抛售了至少$8 billion以支撑本币。
+  📰 [Bitget](https://www.bitget.com/amp/news/detail/12560605799209)
+
+- **[2026.09.07] TradingView — Yen intervention meets US inflation data: Five things to know in Bitcoin this week**
+  English：Yen intervention meets US inflation data: Five things to know in Bitcoin this week. Bitcoin closed above $80,000 for the first time since early May as U. S. inflation data approaches. The August Producer Price Index (PPI) and Consumer Price Index (CPI) are scheduled for release on Thursday and Friday, following stronger-than-expected nonfarm payrolls showing 162,000 jobs added in August. CME Group's FedWatch Tool indicates a 58. 4% probability of a 0. 25% Federal Reserve rate hike at the September 16 meeting. Meanwhile, Japan's Ministry of Finance reported a $79. 57 billion decrease in foreign reserves due to recent record currency interventions, with the yen strengthening to 155 against the U. S. dollar.
+  中文：总结：随着美国通胀数据临近，比特币自5月上旬以来首次收于80,000美元上方。 8月份的生产者物价指数（PPI）和消费者物价指数（CPI）分别定于周四和周五发布，此前公布的非农就业数据显示8月份新增162,000个就业岗位，强于预期。 芝商所的FedWatch工具显示，美联储在9月16日会议上加息0. 25%的概率为58. 4%。 同时，日本财务省报告称，由于近期创纪录的汇市干预，其外汇储备减少了$79. 57 billion，日元对美元汇率走强至155。
+  📰 [TradingView](https://www.tradingview.com/news/cointelegraph:a659e85ee094b:0-yen-intervention-meets-us-inflation-data-five-things-to-know-in-bitcoin-this-week/)
+
+- **[2026.09.07] BeInCrypto — A Better Trade Than Bitcoin or Gold in 2026 Is Sitting in Your Kitchen**
+  English：A Better Trade Than Bitcoin or Gold in 2026 Is Sitting in Your Kitchen. Raw sugar futures have gained approximately 20% in 2026, outpacing Bitcoin, gold, and the S&P 500, with a 21. 5% monthly gain last month. The FAO Sugar Price Index averaged 106. 4 points in August, up 11. 9% from July, driven by tighter supply expectations. Adverse weather and El Niño reduced sugarbeet yields in the European Union, while Brazil's Center-South belt produced less and India announced duty-free raw sugar imports. The European Commission projects EU output to fall 19% to 13. 4 million metric tons in 2026/27, and Citi forecasts a world deficit of 1. 3 million tons.
+  中文：总结：原糖期货在2026年上涨了约20%，表现超越了比特币、黄金和标普500指数，上个月的单月涨幅达到21. 5%。 受供应收紧预期推动，粮农组织食糖价格指数8月平均为106. 4点，比7月上涨11. 9%。 恶劣天气和厄尔尼诺现象降低了欧盟的甜菜产量，巴西中南部地带产量减少，印度则宣布了免征原糖进口关税的政策。 欧盟委员会预计2026/27年度欧盟产量将下降19%至13. 4 million metric tons，花旗则预测全球将出现1. 3 million tons的供应短缺。
+  📰 [BeInCrypto](https://beincrypto.com/sugar-price-rally-bitcoin-gold-august/)
+
+- **[2026.09.07] Mitrade — Gold Price Forecast Australia: Gold Tests US$4,400 After Strong US Jobs Data — What’s Next?**
+  English：Gold Price Forecast Australia: Gold Tests US$4,400 After Strong US Jobs Data — What’s Next? . Spot gold traded around US$4,400 per ounce on September 7, 2026, declining from August highs following a stronger-than-expected US August nonfarm payrolls report that showed 1,000 jobs added (reported as 162,000 jobs), which raised the probability of a September Federal Reserve rate hike to approximately 58. 4%. Higher interest rate expectations strengthen the US dollar and Treasury yields, increasing the opportunity cost of holding non-yielding gold. Meanwhile, ongoing US-Iran tensions and Middle East disruptions keep energy prices elevated, creating complex interactions between inflation expectations, real yields, and safe-haven demand.
+  中文：总结：2026年9月7日，现货黄金交易价格在每盎司US$4,400附近，自8月高点回落。 此前美国公布的8月非农就业报告显示新增162,000个就业岗位，强于预期，将美联储9月加息的概率推高至约58. 4%。 更高的利率预期提振了美元和国债收益率，增加了持有无息黄金的机会成本。 与此同时，持续的美伊紧张局势和中东动荡维持了高位能源价格，在通胀预期、实际收益率和避险需求之间制造了复杂的相互作用。
+  📰 [Mitrade](https://www.mitrade.com/au/insights/commodity/gold/gold-price-forecast-tests-4400)
+
+- **[2026.09.07] Stocktwits — Bitcoin Rally Faces $80K Test As Jackson Hole Summit Looms: Analysts Warn Short Squeeze Is Not Enough**
+  English：Bitcoin Rally Faces $80K Test As Jackson Hole Summit Looms: Analysts Warn Short Squeeze Is Not Enough. Bitcoin's rally toward $80,000 has been fueled by new buyers and short squeezes, with analysts viewing the Jackson Hole symposium as a key test for market direction. Kevin Warsh's speech was noted for addressing inflation, long-term interest rates, and the Federal Reserve balance sheet. Utkarsh Ahuja of Moon Pursuit Capital stated that liquidity, bond yields, and regulation heavily influence Bitcoin, noting that momentum can fade once mechanical short squeezes end. Nansen's Nicolai Søndergaard observed that while selling pressure has eased and whale accumulation has resumed, onchain signals remain mixed, requiring steady ETF flows and spot-led volume for a sustained breakout.
+  中文：总结：比特币向$80,000的涨势受到新买家和空头挤压的推动，分析师认为杰克逊霍尔研讨会是检验市场方向的关键测试。 Kevin Warsh的演讲因涉及通胀、长期利率以及美联储资产负债表而受到关注。 Moon Pursuit Capital的Utkarsh Ahuja指出，流动性、债券收益率和监管对比特币有着重大影响，并表示机械式的空头挤压结束后动能可能会消退。 Nansen的Nicolai Søndergaard观察到，尽管抛售压力已有所缓解且巨鲸重新开始积累，但链上信号依然参差不齐，要实现持续突破仍需稳定的ETF资金流入和现货主导的成交量。
+  📰 [Stocktwits](https://stocktwits.com/news-articles/markets/cryptocurrency/bitcoin-80k-breakout-treasury-yields-jackson-hole/cZYkM2mRJo3)
+
+---
+※Stock Market Daily Digest | 2026.09.08
