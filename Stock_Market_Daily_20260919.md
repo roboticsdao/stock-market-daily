@@ -1,0 +1,135 @@
+# 📈 Stock Market Daily | 2026.09.19（土曜日 / Saturday）
+
+> ⚠ 本日报优先收录最近24小时的市场新闻、个股异动与当时市场快照；数据仅供参考，不构成投资建议。
+
+---
+
+
+## 🇺🇸 美国股市 / US Market
+
+- **[2026.09.18] Yahoo Finance — Apple, Nvidia, Microsoft, Alphabet, and Amazon: I Ranked the 5 Largest Companies by Market Cap, and 1 Stands Above the Rest**
+  English：Apple, Nvidia, Microsoft, Alphabet, and Amazon represent the world's largest publicly traded companies by market capitalization, with all five being technology firms whose massive growth has largely accelerated alongside modern artificial intelligence. Five years ago, market caps for Apple and Microsoft were just under $2. 5 trillion, while Alphabet and Amazon were under $2 trillion in September 2021. Nvidia experienced the most dramatic expansion during this period, surging more than tenfold from just over $500 billion due to its processing chips powering the majority of global AI data centers since ChatGPT's public launch in late 2022. Overall, market concentration has reached extreme levels, with these five tech giants collectively accounting for 30% of the combined market capitalization of the S&P 500.
+  中文：总结：苹果、英伟达、微软、谷歌母公司Alphabet和亚马逊是全球市值最大的五家上市公司，这五家科技巨头的巨大增长主要伴随现代人工智能的兴起而加速。 五年前，苹果和微软的市值均略低于$2. 5 trillion，而Alphabet和亚马逊在2021年9月时的市值均低于$2 trillion。 在此期间，英伟达经历了最为惊人的扩张，自2022年后期ChatGPT公开发布以来，由于其处理芯片支撑了全球大部分AI数据中心，其市值从略超$500 billion暴增了十倍以上。 总体而言，市场集中度已达到极高水平，这五大科技巨头合计占到标普500指数总市值的30%。
+  📰 [Yahoo Finance](https://finance.yahoo.com/markets/stocks/articles/apple-nvidia-microsoft-alphabet-amazon-124700240.html)
+
+- **[2026.09.18] The Business Standard — Global AI stocks fall as industry chiefs call for slowing development**
+  English：Global AI-related stocks plunged on 14 September 2026 after industry leaders called for slowing technology development due to safety concerns. Anthropic CEO Dario Amodei warned in an X essay that AI agents could cause hundreds of billions of dollars in damage within six to 12 months, a view echoed by xAI's Elon Musk and OpenAI's Sam Altman, who also stated OpenAI would not proceed with an IPO this year. The selloff hit chipmakers including Nvidia, TSMC, SK Hynix, and Infineon, while Wall Street's Nasdaq 100 slid 1. 7% in early trading and the Philadelphia chip index dropped 6%. Conversely, dissenting voices like Michael Burry dismissed the warnings as hype, and Morgan Stanley's Brian Nowak previously forecast AI spending will surpass $1. 2 trillion by 2027.
+  中文：总结：2026年9月14日，由于行业领袖出于安全担忧呼吁减缓技术发展，全球AI相关股票遭遇暴跌。 Anthropic首席执行官达里奥·阿莫迪在X平台上的一篇长文中警告称，AI智能体可能在6到12个月内造成数千亿美元的损失；xAI的埃隆·马斯克和OpenAI首席执行官萨姆·阿尔特曼对此表示赞同，阿尔特曼还表示OpenAI今年不会推进IPO。 抛售潮打击了包括英伟达、台积电、SK海力士和英飞凌在内的芯片制造商，华尔街纳斯达克100指数早盘下跌1. 7%，费城半导体指数下挫6%。 与此相反，迈克尔·伯瑞等持不同意见者将这些警告斥为炒作，摩根士丹利分析师布莱恩·诺瓦克此前则预测AI支出到2027年将超过$1. 2 trillion。
+  📰 [The Business Standard](https://www.tbsnews.net/world/global-ai-stocks-fall-industry-chiefs-call-slowing-development-1542621)
+
+- **[2026.09.18] The Motley Fool — 2 Game-Changing AI Stocks That Can Plunge 48% and 54%, According to Select Wall Street Analysts**
+  English：Select Wall Street analysts project steep potential declines for two prominent AI-linked stocks over the next year: SpaceX and Palantir Technologies. Phillip Securities analyst Glenn Thum assigned a sell rating and a $75 price target to SpaceX, citing otherworldly spending, steep losses in AI operations, and compute deals with Alphabet and Anthropic that can be terminated after this year with 90 days' notice or expire in late 2029, alongside concerns that staggered insider share unlocks will increase the float through mid-December. Meanwhile, Jefferies analyst Brent Thill maintained a high valuation concern for Palantir, noting that while its Gotham SaaS platform dominates government military operations and drives continuous sales guidance upgrades by CEO Alex Karp, its trailing 12-month price-to-sales ratio of 72 indicates a bubble risk.
+  中文：总结：部分华尔街分析师预测，两只备受瞩目的AI相关股票在未来一年内可能面临大幅下跌：SpaceX和帕兰提尔技术公司。 辉立证券分析师格伦·瑟姆给予SpaceX卖出评级和$75的目标价，理由是其AI业务支出巨大、亏损严重，且与谷歌及Anthropic的算力协议可在今年之后经90天通知终止或于2029年底到期，同时担心错开的内部人士股份解禁将在12月中旬前增加流通股。 与此同时，杰富瑞分析师布伦特·蒂尔对帕兰提尔的高估值表达了担忧，指出尽管其Gotham SaaS平台在政府军事运营中占据主导地位并推动首席执行官亚历克斯·卡普不断上调销售指引，但其72倍的过去十二个月市销率表明存在泡沫风险。
+  📰 [The Motley Fool](https://www.fool.com/investing/2026/09/18/2-game-changing-ai-stocks-can-plunge-48-and-54-according-to-wall-street-analysts/)
+
+- **[2026.09.18] BBN Times — Hong Kong Stock Exchange Today: Hang Seng Leads Asia Lower With Over 1% Decline**
+  English：The Hang Seng Index closed down 320. 49 points, or 1. 27%, at 24,954. 47 on Thursday, 10 September 2026, making Hong Kong the weakest-performing major Asian market amid thinning southbound trading flows. The pullback was exacerbated by surging global oil prices, with Brent crude climbing above $100 a barrel following military strikes between the United States and Iran near the Strait of Hormuz, alongside multi-month highs in US Treasury yields. Hong Kong's heavy weighting in technology, property, and financial sectors heightened its vulnerability to global risk aversion. Regionally, European markets closed lower following a widely expected 25 basis point rate increase by the European Central Bank, while Asian peers and US futures also reflected cautious sentiment.
+  中文：总结：2026年9月10日星期四，香港恒生指数收盘下跌320. 49点，跌幅1. 27%，报24,954. 47点，在南向交易资金流减薄的背景下成为当日表现最弱的亚洲主要市场。 在美伊两国在霍尔木兹海峡附近发生军事打击导致布伦特原油价格突破每桶$100以及美国国债收益率处于数月高位的推动下，全球油价飙升加剧了回调幅度。 香港股市在科技、地产和金融板块的重仓权重加剧了其对全球避险情绪的脆弱性。 区域方面，在欧洲央行实施普遍预期的25个基点加息后，欧洲市场全线收低，而亚洲同类市场及美国股指期货也反映出谨慎情绪。
+  📰 [BBN Times](https://www.bbntimes.com/companies/hong-kong-stock-exchange-today-hang-seng-leads-asia-lower-with-over-1-decline)
+
+- **[2026.09.18] Yellow.com — AI Stocks Roar Back After Fed Hike, Nasdaq Jumps 1.7%**
+  English：Technology and AI-linked stocks rebounded on Thursday, 17 September 2026, pushing the Nasdaq Composite up 1. 69% to 26,418. 30 after the Federal Reserve unanimously raised its benchmark interest rate by 25 basis points, its first increase since July 2023. The S&P 500 rose 1. 14% and the Dow gained 0. 62%, supported by falling crude prices and declining Treasury yields that eased borrowing cost pressures. Nvidia and Amazon each rose over 2%, and the Philadelphia semiconductor index advanced more than 3%. Crypto-linked equities including Circle Internet Group, Coinbase, and Robinhood also rallied following the Securities and Exchange Commission's announcement of a five-year exemption for tokenized stock trading.
+  中文：总结：2026年9月17日星期四，科技股和AI相关股票反弹，推动纳斯达克综合指数上涨1. 69%至26,418. 30点。 此前美联储一致决定将基准利率上调25个基点，为2023年7月以来的首次加息。 标普500指数上涨1. 14%，道琼斯工业平均指数上涨0. 62%，原油价格下跌和国债收益率回落缓解了借贷成本压力，支撑了市场。 英伟达和亚马逊均涨超2%，费城半导体指数涨幅超过3%。 在证券交易委员会宣布对代币化股票交易实施五年豁免后，包括Circle Internet Group、Coinbase和Robinhood在内的加密货币相关股票也随之走高。
+  📰 [Yellow.com](https://yellow.com/news/ai-stocks-fed-hike-nasdaq)
+
+- **[2026.09.18] Yellow.com — Tesla Shares Slide 18% While Musk Promises A Season Of New Machines**
+  English：Tesla shares have declined about 18% in 2026, underperforming the S&P 500's 11% gain, as analysts question whether upcoming product events will meet investor desires. Tesla plans to open its Semi truck factory in Sparks, Nevada, on September 24 and unveil the second-generation Roadster in Waco, Texas, on October 1, following a Cybercab launch earlier this month. Analysts from Goldman Sachs, CFRA, Zacks, and Morningstar emphasize that investors prioritize robotaxi expansion, Optimus humanoid robot progress, and free cash flow over new hardware. Goldman Sachs cut its third-quarter delivery forecast to 435,000 vehicles, below the 456,000 consensus, while Wall Street expects negative free cash flow of $9. 7 billion this year due to heavy AI spending.
+  中文：总结：特斯拉股价在2026年已下跌约18%，表现逊于标普500指数11%的涨幅，分析师质疑即将到来的产品发布活动是否能满足投资者的需求。 继本月早些时候举办Cybercab发布会后，特斯拉计划于9月24日在内华达州斯帕克斯开设Semi卡车工厂，并于10月1日在德克萨斯州韦科揭幕第二代Roadster。 来自高盛、CFRA、Zacks和晨星的分析师强调，投资者更看重机器人出租车业务的扩展、擎天柱人形机器人的进展以及自由现金流，而不是新硬件。 高盛将第三季度交付预期下调至435,000辆，低于456,000辆的市场共识，同时华尔街预计由于在AI项目上大量支出，该公司今年的自由现金流将为负$9. 7 billion。
+  📰 [Yellow.com](https://yellow.com/news/tesla-shares-slide-18-musk-machines)
+
+- **[2026.09.18] Yahoo Finance — The “Magnificent Seven” Stocks Have Seen Valuations Tumble. Stocks to Avoid or Once-in-a-Decade Buying Opportunity?**
+  English：The 'Magnificent Seven' stocks—Apple, Amazon, Alphabet, Meta Platforms, Microsoft, Nvidia, and Tesla—have experienced a tumble in valuations after leading the S&P 500 higher during the artificial intelligence boom. Over the past year, forward price-to-earnings estimates for every member except Apple have fallen by double digits due to investor worries over high valuations, potential bubble formation, and concerns that billions in AI infrastructure spending may outpace near-term revenue opportunities, alongside macroeconomic uncertainty from the conflict in Iran and high US prices. Despite these short-term headwinds, proponents maintain that the long-term AI growth story remains intact as technology adoption is still in its early stages across enterprises and individuals.
+  中文：总结：在人工智能热潮推动标普500指数走高之后，“七大科技巨头”（包括苹果、亚马逊、Alphabet、Meta Platforms、Microsoft、英伟达和特斯拉）的估值出现了下滑。 过去一年中，由于投资者对高估值、潜在泡沫形成的担忧，以及对数十亿美元AI基础设施支出可能超过近期收入机会的顾虑，加上伊朗冲突和美国高物价带来的宏观经济不确定性，除苹果外，其余所有成员的远期市盈率预估均呈双位数下降。 尽管存在这些短期逆风，支持者坚称长期的AI增长故事依然完好，因为企业和个人的技术采用仍处于早期阶段。
+  📰 [Yahoo Finance](https://finance.yahoo.com/markets/stocks/articles/magnificent-seven-stocks-seen-valuations-082301435.html)
+
+- **[2026.09.18] Stocktwits — Tesla Stock Slips Premarket As EV Headwinds Mount — But One Wall Street Firm Sees Over 30% Upside On A ‘Physical AI’ Future**
+  English：Tesla shares fell 0. 3% in premarket trading, extending recent EV sector pressure after dropping 3% to $417. 07 on Thursday to snap a four-day winning streak. Tigress Financial resumed coverage with a 'Buy' rating and a $550 price target, framing Tesla as a physical AI platform driven by Full Self-Driving subscriptions, robotaxis, and Optimus robots. Broader EV headwinds include the Trump administration revoking vehicle greenhouse gas endangerment findings—saving consumers over $2,400 per vehicle in compliance costs while depressing EV stocks alongside rivals Rivian and Lucid—and final U. S. tariffs exceeding 160% on Chinese anode-grade graphite. Additionally, Tesla faced weak January China retail sales of 18,485 vehicles, though Shanghai factory exports surged 71% year-on-year to 50,644 units.
+  中文：总结：特斯拉股价在盘前交易中下跌0. 3%，延续了电动汽车板块近期的压力；该股周四下跌3%至$417. 07，中断了此前四连涨的走势。 老虎金融恢复对该公司的评级，给予“买入”评级和$550的目标价，将特斯拉定位为由完全自动驾驶订阅、机器人出租车和擎天柱机器人驱动的实体AI平台。 更广泛的电动汽车逆风包括：特朗普政府撤销了汽车温室气体危害认定（此举可为消费者节省每辆车超过$2,400的合规成本，但同时压低了特斯拉及竞争对手Rivian和Lucid的股价），以及美国对中国负极级石墨征收超过160%的最终关税。 此外，特斯拉1月份在中国市场的零售销量疲软至18,485辆，不过其上海工厂的出口量同比飙升71%至50,644辆。
+  📰 [Stocktwits](https://stocktwits.com/news-articles/markets/equity/tesla-stock-slips-premarket-ev-headwinds-mount-wall-street-sees-upside-physical-ai-future/cZR5NHfR4sm)
+
+## 🇯🇵 日本株式市場 / Japan Market
+
+- **[2026.09.18] 財経新聞 — 相場展望 ９月１７日号 米国株：➀AI開発減速②FRBの金利引上げ③インフレ高で、受難期に 日本株：➀オープンAI・ショック ②原油高 ③金利高の三重苦が始まる**
+  日本語：米国株式市場でNYダウはAI開発ペースの鈍化懸念、中東情勢緊迫化に伴う原油先物の上昇、およびインフレ高への警戒感から下落基調となり、9月16日にはFRBが2023年7月以来となる0. 25％の利上げを決定したことで急落した。 アンソロピックのCEOがAIモデル開発の減速を訴えオープンAIやイーロン・マスク氏も賛意を示したことでAIインフラ関連銘柄が売られ、SOX指数が大幅安となった。 さらに、サウジアラビアのパイプライン停止やリビアの油田操業停止などによりWTI原油先物が一時1バレル＝106ドル台後半まで高騰したことがインフレ圧力を強め、米長期金利が5. 04％と2007年7月以来の高水準を付けた。 FRBの利上げ決定を受け、トランプ大統領は金利の即時引き下げを要求している。
+  中文：总结：在美国股市中，由于对AI开发步伐放缓的担忧、中东局势紧张导致原油期货上涨以及对高通胀的警惕，道指呈下跌趋势，并随着美联储在9月16日决定实施自2023年7月以来的首次0. 25%加息而急跌。 Anthropic首席执行官呼吁放缓AI模型开发，OpenAI和埃隆·马斯克也表示赞同，这导致AI基础设施相关股票遭到抛售，费城半导体指数大幅下跌。 此外，沙特阿拉伯管道关闭和利比亚油田停产导致WTI原油期货一度飙升至每桶$106以上的高位，加剧了通胀压力，美国长期利率创下自2007年7月以来的最高水平5. 04%。 在美联储决定加息后，特朗普总统要求立即降息。
+  📰 [財経新聞](https://www.zaikei.co.jp/article/20260918/870730.html)
+
+- **[2026.09.18] ダイヤモンド・オンライン — 来週（9/24～9/25）の日経平均株価の予想レンジは6万3000～6万7000円！ シルバーウィーク中の原油相場や長期金利、欧米市場の動向に左右される展開に**
+  日本語：今週の日経平均株価は、FOMCと日銀金融政策決定会合の通過によるアク抜け感から上昇し、週末18日には前週末比1007. 61円高の6万5018. 95円で取引を終えた。 週前半は原油高や米長期金利の上昇に対する警戒感から一時下げる場面もあったが、米FRBが予想通り0. 25％の利上げを決定したことや、日銀が政策金利を1. 25％に引き上げたことで不透明感が後退した。 週末にはエヌビディアなど半導体株が買われた流れを引き継ぎ、アドバンテストやソフトバンクグループなどのAI・半導体関連株が指数を押し上げた。 来週は月曜日から水曜日までシルバーウィークの祝日で3日間休場となり、実質2日間の立ち会いとなるため、休場中の欧米市場の値動きや原油・金利動向に大きく左右される展開が予想される。
+  中文：总结：本周日经平均指数因FOMC和日本央行货币政策会议顺利召开带来的利空出尽感而上涨，18日周末收于65,018. 95日元，较上周末上涨1,007. 61日元。 周初由于对油价上涨和美长期利率上升的警惕一度下跌，但随着美联储一如预期加息0. 25%以及日本央行将政策利率上调至1. 25%，不确定性有所消退。 周末延续了英伟达等半导体股受买盘青睐的走势，爱德万测试和软银集团等AI及半导体相关股票推高了指数。 下周由于银色周黄金周假期，周一至周三休市3天，实际交易仅2天，预计行情将很大程度上受到休市期间欧美市场走势以及原油和利率动向的影响。
+  📰 [ダイヤモンド・オンライン](https://diamond.jp/zai/articles/-/1073224)
+
+- **[2026.09.18] かぶリッジ — 【2026年9月最新】キオクシア（285A）の株価はどこまで上がる？急落・調整の下値目処と買い時を徹底解説**
+  日本語：キオクシアホールディングス（285A）の株価は、2024年の上場以来のAI向け半導体需要の追い風を受けて一時11万円台の上場来高値をつけたものの、足元では6万円台前半まで急落し、激しい調整局面に突入している。 この下落はキオクシア独自の業績悪化によるものではなく、直近の決算ではデータセンター向け高容量SSDの需要が牽引して売上・利益ともに過去最高水準を記録しており、短期間での急騰に対する利益確定売りと半導体セクター全体の地合い悪化による一時的な調整である。 アナリスト評価では、AI需要の中長期的な成長シナリオから大手証券各社は強気の姿勢を維持しており、目標株価コンセンサスは11万円台に集中している。 ただし、NAND専業ならではのシリコンサイクルのボラティリティや競合との激しい価格競争リスクがあり、投資の際は時間分散によるエントリーが推奨される。
+  中文：总结：铠侠控股（285A）的股价在2024年上市后受益于AI半导体需求的东风，曾创下11万日元以上的主板上市以来最高价，但近期急跌至6万日元前半，进入剧烈调整阶段。 此次下跌并非由于铠侠自身的业绩恶化，其最新财报显示在大容量数据中心SSD需求的拉动下，营收和利润均创下历史最高水平，这只是短期暴涨后的获利回吐以及半导体板块整体市场环境恶化所导致的技术性调整。 在分析师评估中，基于AI需求的中长期增长情景，各大券商仍保持看好态度，目标价共识集中在11万日元左右。 不过，由于NAND专属业务的硅周期波动性以及与竞争对手激烈价格竞争的风险，投资时建议采用时间分散策略分批进场。
+  📰 [かぶリッジ](https://kabu.bridge-salon.jp/kioxia-stockprice/)
+
+- **[2026.09.18] Yahoo!ニュース — AIを発明したのは誰？ノーベル物理学賞を受賞した半導体と機械学習の研究を東大院物理学生が解説（東洋経済オンライン）**
+  日本語：2026年6月に日経平均株価が初めて7万円台を突破し、その主役となったキオクシアやアドバンテストなどの半導体関連株やAI関連株を支える半導体について、東大大学院物理学専攻の亀田崚氏が解説している。 半導体とは「電気を通す量を人間の都合で調節できる物質」であり、代表例であるシリコンに微量の元素を混ぜる「ドーピング」によって電気の量を自在にコントロールできるようになる。 電子が余分な「n型」と電子が足りない「p型」を組み合わせることで、電気のオン・オフを切り替えるスイッチの原点であるトランジスタが形成される。 現在ではトランジスタは数ナノメートルのサイズにまで小型化され、最新のスマートフォンには数十億個以上が詰め込まれて現代社会の基盤を支えている。
+  中文：总结：2026年6月日经平均指数首次突破7万日元大关，东京大学研究生院物理学专业的龟田崚对支撑铠侠、爱德万测试等半导体相关股和AI相关股的半导体进行了讲解。 半导体是“能够根据人类意愿调节导电量的物质”，通过在作为典型代表的硅中掺入微量元素的“掺杂”技术，可以自由控制导电量。 将拥有多余电子的“n型”与缺少电子的“p型”组合起来，就形成了作为开关原点的晶体管，能够切换电流的通断。 如今，晶体管已被微型化至几纳米的尺寸，最新的智能手机中塞入了数十亿个以上的晶体管，支撑着现代社会的基石。
+  📰 [Yahoo!ニュース](https://news.yahoo.co.jp/articles/e4c62402ede83daf491414c1c60b4086fbc15a14)
+
+- **[2026.09.19] Nikkei 225 — 日经225上涨1.38%**
+  日本語：日经225（Nikkei 225）は15:45 JST時点で65,018.95となり、前日終値比で1.38%上昇しています。
+  中文：总结：截至 15:45 JST，日经225较前收盘上涨1.38%。
+  📰 [Yahoo Finance](https://finance.yahoo.com/quote/%5EN225)
+
+- **[2026.09.19] Tokyo Electron — 东京电子上涨4.20%**
+  日本語：东京电子（Tokyo Electron）は15:30 JST時点で53,110.00となり、前日終値比で4.20%上昇しています。
+  中文：总结：截至 15:30 JST，东京电子较前收盘上涨4.20%。
+  📰 [Yahoo Finance](https://finance.yahoo.com/quote/8035.T)
+
+- **[2026.09.19] Advantest — 爱德万测试上涨5.99%**
+  日本語：爱德万测试（Advantest）は15:30 JST時点で32,050.00となり、前日終値比で5.99%上昇しています。
+  中文：总结：截至 15:30 JST，爱德万测试较前收盘上涨5.99%。
+  📰 [Yahoo Finance](https://finance.yahoo.com/quote/6857.T)
+
+- **[2026.09.19] SoftBank Group — 软银集团上涨1.09%**
+  日本語：软银集团（SoftBank Group）は15:30 JST時点で6,315.00となり、前日終値比で1.09%上昇しています。
+  中文：总结：截至 15:30 JST，软银集团较前收盘上涨1.09%。
+  📰 [Yahoo Finance](https://finance.yahoo.com/quote/9984.T)
+
+## 🌍 宏观经济与投资 / Macro & Investment
+
+- **[2026.09.18] TradingKey — 【US Pre-Market】US Stock Futures Mixed on Triple Witching; Optical Communication, Storage, and Crypto Stocks Gain as WTI Crude Plunges Over 5%**
+  English：On Friday, 18 September 2026, U. S. stock index futures traded mixed ahead of Triple Witching, with expiring contracts estimated to exceed $2 trillion in notional value. Easing Middle East tensions caused WTI crude futures to drop over 5% to near $95 per barrel and Brent crude to retreat to near $103, while gold rebounded toward $4,400 per ounce and Bitcoin reclaimed $78,000. Tech and chip sectors advanced following Nvidia's optimistic outlook and regulatory progress for tokenized securities. Meanwhile, the Bank of Japan raised its policy rate to 1. 25%, Generac secured a major Amazon data center generator order, and Goldman Sachs projected the S&P 500 to reach 8,700 points over the next year.
+  中文：总结：2026年9月18日星期五，在“三巫日”到期日前夕，美国股指期货交投混合，预计到期合约的名义价值超过$2 trillion。 中东局势的缓和导致WTI原油期货跌幅超过5%，至每桶$95附近，布伦特原油回落至$103附近，同时黄金反弹接近每盎司$4,400，比特币收复$78,000。 在英伟达乐观的前景以及代币化证券监管进展的推动下，科技和芯片板块上涨。 与此同时，日本央行将政策利率上调至1. 25%，Generac获得了一份重大的亚马逊数据中心发电机订单，高盛预计标普500指数将在未来一年内达到8,700点。
+  📰 [TradingKey](https://www.tradingkey.com/analysis/stocks/us-stocks/262175188-us-pre-market-tradingkey)
+
+- **[2026.09.18] Fortune — Current price of Bitcoin for Sept. 18, 2026**
+  English：At 8 a. m. Eastern Time on September 18, 2026, Bitcoin's market price stood at $77,979. 54, up $1,791. 56 from the previous morning and roughly $39,132 lower than one year ago. Bitcoin boasts a market capitalization of approximately $1. 33 trillion, vastly outperforming Ethereum's $233 billion. Operating on a decentralized peer-to-peer network without intermediaries, it functions as both a digital currency and an alternative inflation hedge. Over the past decade, Bitcoin's price has climbed more than 15,000%, though it remains highly volatile. Its price movements are heavily influenced by investor speculation, corporate adoption, broader macroeconomic conditions, and ongoing regulatory developments. Investors can gain exposure by buying Bitcoin directly on exchanges, investing in Bitcoin ETFs, purchasing crypto-related stocks, or opening a Bitcoin IRA.
+  中文：总结：在2026年9月18日美东时间上午8点，比特币的市场价格为$77,979. 54，较前天早晨上涨$1,791. 56，比一年前低约$39,132。 比特币的市值约为$1. 33 trillion，远超以太坊的$233 billion。 作为一个没有中介机构参与的去中心化点对点网络运行，它既是一种数字货币，也是一种抗通胀的替代对冲工具。 在过去的十年中，比特币价格上涨了15,000%以上，尽管它仍然高度波动。 其价格走势受投资者投机、企业采用、宏观经济状况以及不断演变的监管发展的重大影响。 投资者可以通过在交易所直接购买比特币、投资比特币ETF、购买加密相关股票或开设比特币IRA来获得敞口。
+  📰 [Fortune](https://fortune.com/article/price-of-bitcoin-09-18-2026/)
+
+- **[2026.09.18] economictimes.indiatimes.com — Global Market: European shares edge lower as telecom stocks weigh**
+  English：Indian government bonds declined for the fifth consecutive week as a Federal Reserve rate hike and Reserve Bank of India liquidity measures emboldened bond market bears. Global yields reached multi-decade peaks following a 25 basis point rate increase by the Federal Reserve. Simultaneously, the Reserve Bank of India drained significant liquidity from the financial system by selling bonds, which heightens the probability of an RBI rate hike in October.
+  中文：总结：由于美联储加息和印度储备银行的流动性举措助长了债券市场空头的气焰，印度政府债券连续第五周下跌。 在美联储加息25个基点之后，全球收益率达到了数十年来的最高峰。 与此同时，印度储备银行通过出售债券从金融系统中抽走了大量流动性，这增加了印度央行在10月份加息的可能性。
+  📰 [economictimes.indiatimes.com](https://economictimes.indiatimes.com/markets)
+
+- **[2026.09.18] Modern Diplomacy — Global markets feel pressure as central banks turn hawkish on inflation**
+  English：Global stocks and bonds came under pressure on Friday as major central banks signaled a broad shift toward tighter monetary policy amid persistent inflation concerns. The Bank of Japan raised its policy rate to 1. 25%—its highest level in 31 years—though the yen fell sharply against the dollar as the policy gap with the United States widened. This follows the Federal Reserve raising interest rates on Wednesday for the first time in three years, alongside hawkish stances from the Bank of England and European Central Bank. Meanwhile, Brent crude fell to around $101. 92 a barrel following diplomatic efforts regarding Middle East supply routes, though energy risks remain elevated. U. S. Treasury yields also surged, with the 10-year yield briefly surpassing 5% earlier in the week before resting near 4. 93% on Friday.
+  中文：总结：由于主要央行在持续的通货膨胀担忧下暗示将普遍转向更紧缩的货币政策，全球股市和债市于周五承压。 日本央行将其政策利率上调至1. 25%——创下31年来的最高水平——不过由于与美国的政策差距扩大，日元兑美元汇率大幅下跌。 此前，美联储在周三进行了三年来的首次加息，英国央行和欧洲央行也采取了鹰派立场。 与此同时，在有关中东供应路线的外交努力下，布伦特原油跌至每桶约$101. 92，不过能源风险依然居高不下。 美国国债收益率也大幅飙升，10年期收益率在周初短暂突破5%之后，于周五收于4. 93%附近。
+  📰 [Modern Diplomacy](https://moderndiplomacy.eu/2026/09/18/global-markets-feel-pressure-as-central-banks-turn-hawkish-on-inflation/)
+
+- **[2026.09.18] Yahoo Finance Australia — Asian stocks track Wall Street rally as oil prices decline**
+  English：Major European stock markets opened slightly lower on Friday as investors took profits and digested central monetary tightening, with the STOXX 600 falling 0. 2%. In Asia, Japan's Nikkei 225 gained 1. 9% to 65,332. 57 after the Bank of Japan raised its key interest rate from 1. 0% to 1. 25%—a 31-year high—following the Federal Reserve's rate hike. Other Asian indices advanced, including South Korea's Kospi up 2. 3% and Hong Kong's Hang Seng edging up 0. 7%. Wall Street rebounded sharply, with the S&P 500 jumping 1. 1% and the Nasdaq climbing 1. 7%, aided by falling crude oil prices from nearly $110 earlier in the week, stabilizing bond yields, and better-than-expected UK retail sales data.
+  中文：总结：欧洲主要股市周五开盘微幅走低，因投资者在获利回吐的同时消化央行货币紧缩政策，斯托克600指数下跌0. 2%。 在亚洲，继美联储加息之后，日本央行将基准利率从1. 0%上调至1. 25%（创31年新高），推动日本日经225指数上涨1. 9%至65,332. 57点。 其他亚洲指数也有所上升，其中韩国综合股价指数上涨2. 3%，香港恒生指数微升0. 7%。 华尔街强劲反弹，标普500指数跳涨1. 1%，纳斯达克指数攀升1. 7%，这得益于本周早些时候接近每桶$110的原油价格回落、趋于稳定的债券收益率以及好于预期的英国零售数据。
+  📰 [Yahoo Finance Australia](https://au.finance.yahoo.com/news/asian-stocks-track-wall-street-055413262.html)
+
+- **[2026.09.18] fxstreet.com — Forex Today: Japanese Yen falls despite BoJ's rate hike; Fedspeak in focus**
+  English：The US Dollar Index held modest gains around 100. 30 on Friday as traders evaluated the Federal Reserve's quarter-percentage point rate hike to a range of 3. 75% to 4. 00%, its first increase since July 2023, with markets pricing in a 53. 1% chance of another hike in October. Geopolitical tensions persisted as Iran's military claimed control of the Strait of Hormuz after a Togo-flagged tanker was struck. Meanwhile, the Bank of Japan split 7-2 to raise its policy rate by 25 basis points to 1. 25%—its highest level since 1995—warning that underlying inflation could overshoot its 2% target, though the yen fell. Additionally, the ECB and Bank of England maintained hawkish inclinations as European and UK officials navigate ongoing inflationary pressures tied to Middle East conflicts.
+  中文：总结：周五，美元指数维持在100. 30附近的温和涨幅，交易员们正在评估美联储将基准利率上调25个基点至3. 75%至4. 00%区间（这是自2023年7月以来的首次加息），市场定价显示10月份再次加息的可能性为53. 1%。 地缘政治紧张局势持续，一艘悬挂多哥国旗的油轮遭袭后，伊朗军方宣称对霍尔木兹海峡拥有控制权。 与此同时，日本央行以7比2的投票结果将政策利率上调25个基点至1. 25%（创1995年以来最高水平），并警告基础通胀可能超过2%的目标，尽管日元走软。 此外，随着欧洲和英国官员应对与中东冲突相关的持续通胀压力，欧洲央行和英国央行也维持了鹰派倾向。
+  📰 [fxstreet.com](https://www.fxstreet.com/news/forex-today-us-dollar-holds-gains-as-markets-weigh-fed-rate-hike-boj-move-in-focus-202609180549)
+
+- **[2026.09.18] CryptoRank — Gold Struggles as Higher-for-Longer Interest Rate Bets Weigh Heavily on Precious Metal**
+  English：Gold prices are struggling to gain momentum despite a softer US Dollar, as persistent market expectations for higher-for-longer interest rates weigh heavily on the precious metal. Strong US economic data and hawkish Federal Reserve rhetoric, which now signals only two rate cuts in 2025 down from four, have driven rising real yields and increased the opportunity cost of holding non-yielding assets. Market positioning reflects this caution, with speculative long gold futures declining for three consecutive weeks and global gold ETF holdings falling to their lowest level since early 2024, though central bank buying continues to provide a price floor.
+  中文：总结：尽管美元走软，但由于市场对长期维持高利率的持续预期对贵金属构成了沉重压力，黄金价格一直在努力获得上涨动能。 强劲的美国经济数据和美联储偏鹰派的言论（目前暗示2025年仅降息两次，低于此前的四次）推高了实际收益率，并增加了持有无收益资产的机会成本。 市场持仓反映了这种谨慎情绪，投机性黄金期货多头连续三周下降，全球黄金ETF持仓量降至2024年初以来的最低水平，不过央行的持续买盘仍在提供价格支撑。
+  📰 [CryptoRank](https://cryptorank.io/news/feed/9c7c8-gold-struggles-higher-interest-rates)
+
+- **[2026.09.19] USD/JPY — 美元兑日元上涨0.72%**
+  English: USD/JPY stood at 157.07 as of 00:23 JST, 0.72% higher than the previous close.
+  中文：总结：截至 00:23 JST，美元兑日元较前收盘上涨0.72%。
+  📰 [Yahoo Finance](https://finance.yahoo.com/quote/JPY%3DX)
+
+---
+※Stock Market Daily Digest | 2026.09.19
