@@ -617,7 +617,9 @@ def fetch_quote(symbol):
     if price is None or prev in (None, 0):
         return None
     pct = (price - prev) / prev * 100
-    when = datetime.fromtimestamp(ts, timezone.utc).astimezone(LOCAL_TZ).strftime("%H:%M JST") if ts else TIME_STR + " JST"
+    if not ts:
+        return None
+    when = datetime.fromtimestamp(ts, timezone.utc).astimezone(LOCAL_TZ).strftime("%Y.%m.%d %H:%M JST")
     return {"symbol": symbol, "price": price, "prev": prev, "pct": pct, "time": when}
 
 def fmt_price(value):
@@ -670,11 +672,11 @@ def market_snapshot_items(sec):
             continue
         direction = "上涨" if q["pct"] >= 0 else "下跌"
         local_body = quote_body(sec, en_name, zh_name, q["price"], q["pct"], q["time"])
-        local_line = f"  日本語：{local_body}\n" if "日本" in sec["label"] or "Japan" in sec["label"] else f"  English: {local_body}\n"
+        local_line = f"  行情日本語：{local_body}\n" if "日本" in sec["label"] or "Japan" in sec["label"] else f"  Quote: {local_body}\n"
         lines.append(
-            f"- **[{DATE_STR}] {en_name} — {zh_name}{direction}{abs(q['pct']):.2f}%**\n"
+            f"- **[{q['time'].split()[0]}] 行情快照 / Quote · {en_name} — {zh_name}{direction}{abs(q['pct']):.2f}%**\n"
             f"{local_line}"
-            f"  中文：总结：{quote_context(sec, en_name, zh_name, q['pct'], q['time'])}\n"
+            f"  行情中文：{quote_context(sec, en_name, zh_name, q['pct'], q['time'])}\n"
             f"  📰 [Yahoo Finance](https://finance.yahoo.com/quote/{urllib.parse.quote(symbol, safe='')})"
         )
     return lines
@@ -804,6 +806,15 @@ def md_to_html(md):
         for it in its:
             en=jp=zh=src=""
             for ln in it["lines"]:
+                if ln.startswith("Quote:"):
+                    en = ln.split(":", 1)[1].strip()
+                    continue
+                if ln.startswith("行情日本語："):
+                    jp = ln.split("：", 1)[1].strip()
+                    continue
+                if ln.startswith("行情中文："):
+                    zh = ln.split("：", 1)[1].strip()
+                    continue
                 if ln.startswith("📰"): src=f'<div class="item-src">原文链接：{linkify(ln.replace("📰","").strip())}</div>'
                 elif ln.lower().startswith("english:") or ln.lower().startswith("en:"): en=ln.split(":",1)[1].strip()
                 elif ln.startswith("日本語:") or ln.startswith("日本語："): jp=re.split(r'[：:]',ln,maxsplit=1)[-1].strip()
