@@ -8,12 +8,12 @@
 ## 🇺🇸 美国股市 / US Market
 
 - **[2026.09.26] The Motley Fool — Is Meta the Best Magnificent Seven Stock to Buy After Its AI Agent Topped the App Store?**
-  English：Meta Platforms (META -3. 48%), the parent company of Facebook, has lagged broader equities over the past 12 months. One reason for its poor performance is that some investors worry about the company's heavy spending on artificial intelligence (AI). If Meta's investments fail to yield the returns it hopes for, the tech giant's revenue growth could slow while its profits and margins shrink.
+  English：Meta Platforms (META -3. 57%), the parent company of Facebook, has lagged broader equities over the past 12 months. One reason for its poor performance is that some investors worry about the company's heavy spending on artificial intelligence (AI). If Meta's investments fail to yield the returns it hopes for, the tech giant's revenue growth could slow while its profits and margins shrink.
   📰 [The Motley Fool](https://www.fool.com/investing/2026/09/25/is-meta-the-best-magnificent-seven-stock-to-buy-after-its-ai-agent-topped-the-app-store/)
 
-- **[2026.09.26] The Globe and Mail — 3 Stocks to Watch From the Satellite and Communication Industry**
+- **[2026.09.26] theglobeandmail.com — 3 Stocks to Watch From the Satellite and Communication Industry**
   English：3 Stocks to Watch From the Satellite and Communication Industry However, the prospects seem bright in the long term. The industry is undergoing a transformative phase, driven by the convergence of rapid technological progress and higher global connectivity requirements. Increasing interest in space-based infrastructure is another tailwind.
-  📰 [The Globe and Mail](https://www.theglobeandmail.com/investing/markets/stocks/PL/pressreleases/4804758/3-stocks-to-watch-from-the-satellite-and-communication-industry/)
+  📰 [theglobeandmail.com](https://www.theglobeandmail.com/investing/markets/stocks/PL/pressreleases/4804758/3-stocks-to-watch-from-the-satellite-and-communication-industry/)
 
 - **[2026.09.26] 24/7 Wall St. — If You Invest $500 a Month in Nvidia Starting Now, This is What You’d Have in 2030**
   English：If You Invest $500 a Month in Nvidia Starting Now, This is What You’d Have in 2030 Nvidia sits at the heart of a $2 trillion cloud backlog, and a simple monthly contribution strategy could turn that tailwind into a dramatically different number by 2030. The spread between the best and worst case scenarios tells a very… NVIDIA (NASDAQ:NVDA | NVDA Price Prediction) sits at the center of the AI infrastructure buildout, and putting $500 a month into it starting now would ride four more years of that story.
@@ -27,17 +27,17 @@
   English：Although Tesla Inc. (NASDAQ: TSLA) stock has fallen 15. 55% so far in 2026, trading at $368. 74 on September 25, Tom Narayan, a Wall Street analyst at RBC Capital, expects a rally towards its 52-week peak over the next 12 months. Narayan reiterated a ‘Buy’ rating for Tesla stock, according to a note sent to clients on Friday. He also maintained the firm’s 12-month price target for TSLA at $480.
   📰 [Finbold](https://finbold.com/wall-street-analysts-set-tesla-stock-price-target-for-12-months/)
 
-- **[2026.09.26] Stocktwits — TSLA Stock Clocks Worst Day In 11 Months After Q2 Delivery Blows Past Estimates — Investors And Experts Weigh In**
-  English：Shares of Tesla (TSLA) fell a sharp 7. 5% on Thursday despite the EV giant reporting strong second-quarter vehicle delivery numbers that significantly exceeded Wall Street forecasts. The stock clocked its worst day since July 2025. Earlier on Thursday, Tesla said that it delivered 480,126 vehicles in Q2 2026, beating the sell-side consensus of approximately 406,000 by roughly 18%.
-  📰 [Stocktwits](https://stocktwits.com/news-articles/markets/equity/tsla-stock-clocks-worst-day-in-11-months-after-q2-delivery-blows-past-estimates/cZm97iXR7jO)
-
-- **[2026.09.26] The Globe and Mail — Why Meta Platforms Stock Reversed Today**
+- **[2026.09.26] theglobeandmail.com — Why Meta Platforms Stock Reversed Today**
   English：Key Points - AI hyperscalers are spending $800 billion on capital investment this year -- and $1. 1 trillion next year. - They'll need $300 billion a year in revenue to break even. - They'll need $1 trillion a year to earn decent profits. Meta Platforms (NASDAQ: META) stock gained 4. 5% yesterday as several Wall Street analysts expressed optimism that its new "Muse" AI agent could drive revenue growth and strong profits.
-  📰 [The Globe and Mail](https://www.theglobeandmail.com/investing/markets/stocks/NVDA-Q/pressreleases/4802552/why-meta-platforms-stock-reversed-today/)
+  📰 [theglobeandmail.com](https://www.theglobeandmail.com/investing/markets/stocks/NVDA-Q/pressreleases/4802552/why-meta-platforms-stock-reversed-today/)
 
 - **[2026.09.26] The Motley Fool — The "Magnificent Seven" Stocks: Here's the 1 I'm Buying Hand Over Fist Right Now**
-  English：The "Magnificent Seven" stocks consist of Nvidia, Apple, Microsoft (MSFT +3. 59%), Amazon (AMZN +0. 29%), Alphabet (NASDAQ: GOOG) (GOOGL +0. 59%), Meta Platforms, and Tesla. The term was coined in 2023 when the group drove much of the market's growth. Their momentum has slowed a bit this year, but they're still seven of the world's 11 most valuable public companies, with Tesla the smallest at a market cap of $1. 5 trillion (as of Sept.
+  English：The "Magnificent Seven" stocks consist of Nvidia, Apple, Microsoft (MSFT +3. 91%), Amazon (AMZN +0. 21%), Alphabet (NASDAQ: GOOG) (GOOGL +0. 48%), Meta Platforms, and Tesla. The term was coined in 2023 when the group drove much of the market's growth. Their momentum has slowed a bit this year, but they're still seven of the world's 11 most valuable public companies, with Tesla the smallest at a market cap of $1. 5 trillion (as of Sept.
   📰 [The Motley Fool](https://www.fool.com/investing/2026/09/25/the-magnificent-seven-stocks-heres-the-1-im-buying/)
+
+- **[2026.09.25] MarketBeat — NVIDIA’s Next AI Chip Ramp Could Open the Door to Another Major Stock Move**
+  English：NVIDIA Today $224. 94 +0. 37 (+0. 16%) As of 02:17 PM Eastern This is a fair market value price provided by Massive. Learn more. - 52-Week Range - $164. 27▼ $236. 54 - Dividend Yield - 0. 44% - P/E Ratio - 28. 45 - Price Target - $324. 14 forecast to double its chip volume next year strengthens an already bullish growth outlook for the company and its stock.
+  📰 [MarketBeat](https://www.marketbeat.com/articles/nvidias-next-ai-chip-ramp-could-open-the-door-to-another-major-stock-move/)
 
 ## 🇯🇵 日本株式市場 / Japan Market
 
@@ -53,13 +53,13 @@
   日本語：日経平均株価 始値 65639. 62 高値 66410. 27 安値 65639. 62 大引け 66364. 20(前日比 +850. 21 、 +1. 30％ ) 売買高 21億4920万株 (東証プライム概算) 売買代金 7兆8008億円 (東証プライム概算) ----------------------------------------------------------------- ■本日のポイント １．日経平均は850円高と5日続伸、半導体や銀行株が買われる ２．前日の米国市場ではNYダウは下落もナスダック指数は小幅高 ３．3月期決算企業の中間配当の権利取りの動きも相場を押し上げる ４．東エレクやアドテストが高く、三菱ＵＦＪや三井住友ＦＧも上昇 ５．ソフトバンクＧや三菱重、任天堂が安く、清水建やＩＨＩが下落 ■東京市場概況 前日の米国市場では、NYダウは前日比161ドル安と3日続落した。 米長期金利の高止まりを受け、主力株を中心に売りが優勢となった。
   📰 [Yahoo!ファイナンス](https://finance.yahoo.co.jp/news/detail/9488b48c8d30697e2d229d85ac911b4a657521e0)
 
-- **[2026.09.25] finance.biggo.jp — ソフトバンクG、過去最大のハイイールド債で111億ドル調達——OpenAI最終トランシェ資金に充当**
-  日本語：ソフトバンクG、過去最大のハイイールド債で111億ドル調達——OpenAI最終トランシェ資金に充当 ソフトバンクグループは、OpenAIへの投資の最終段階に充当するため、ドル建て・ユーロ建て社債で111億ドル（約1. 8兆円）を調達した。 ハイイールド社債の発行額としては史上最大となる。 この日本のテクノロジー投資会社の株価は、3連休明けの木曜日の東京市場で一時7%上昇したが、終値は0. 6%高にとどまった。 ソフトバンク（OTC:SFTBY）はドル建て・ユーロ建てのシニア債を組み合わせて発行した。 調達資金の大部分は、2月に合意した300億ドル（約4. 8兆円）の追加投資のうち、最終となる100億ドル（約1. 6兆円）のトランシェに充当される。 支払いは10月1日に完了する見通しだ。 同社によると、ドル建て100億ドル分は3本の年限に分割される。 3. 5年物10億ドルが8. 625%、5. 5年物45億ドルが9. 25%、7. 5年物45億ドルが9. 75%。 ユーロ建ては4年物と6年物の5億ユーロ（約900億円）を2本発行し、利率はそれぞれ7. 125%と8%に設定された。
-  📰 [finance.biggo.jp](https://finance.biggo.jp/news/f1f5c88c-1ba3-4cf7-b75b-7b690c40a49e)
+- **[2026.09.25] 日本経済新聞 — 東証大引け 日経平均は5日続伸 AI・半導体関連が押し上げ 中間配当の権利取りも追い風**
+  日本語：25日の東京株式市場で日経平均株価は5日続伸し、終値は前日比850円21銭（1. 30%）高の6万6364円20銭だった。 人工知能（AI）・半導体関連の一角が大幅高となり、日経平均を押し上げた。 日米金利が急騰するなか、利ざや改善が期待される銀行などの金融セクターの上昇も目立ったほか、9月末に向けた中間配当の権利取り狙いの買いが幅広い銘柄に広がった。 日経平均の上げ幅は一時900円に迫った。 日経平均は前日比125円高で始まった後、次第に上げ幅を拡大。 東エレクやアドテスト、イビデンが前場中ごろから騰勢を強め、日経平均を押し上げた。 日米の金利が上昇するなか、利ざや改善が期待される三菱UFJなど銀行株も物色された。 プライム市場では値上がり銘柄数が値下がり銘柄数を上回って推移するなど、3月期決算企業の中間配当の権利付き最終売買日を28日に控え、権利取り狙いの買いも活発だった。
+  📰 [日本経済新聞](https://www.nikkei.com/article/DGXZQOFL254TF0V20C26A9000000/)
 
-- **[2026.09.25] finance.biggo.jp — 日経平均が5日続伸、午前終値804円高の6万6318円 半導体と金融に買い**
+- **[2026.09.25] BigGo ファイナンス — 日経平均が5日続伸、午前終値804円高の6万6318円 半導体と金融に買い**
   日本語：日経平均が5日続伸、午前終値804円高の6万6318円 半導体と金融に買い 25日午前の東京株式市場で日経平均株価は5日続伸となり、前営業日比804円15銭（1. 23%）高の6万6318円14銭で前場を終えた。 上げ幅は一時800円を超え、心理的節目の6万6000円を回復した。 前日の米国市場でハイテク株主体の指数が上昇した流れを受け、東京市場でも人工知能（AI）・半導体関連銘柄を中心に買いが広がった。 東証株価指数（TOPIX）も48. 43ポイント高の4123. 73と反発している。 半導体製造装置大手の東京エレクトロン（8035. T）やアドバンテスト（6857. T）が日経平均への寄与度の高さから相場をけん引した。 長期金利の上昇を背景に、貸出金利の改善を通じた収益拡大期待から銀行や証券など金融銘柄にも買いが入った。 東証33業種では海運、鉱業、保険など16業種が値上がりした一方、その他製品、精密機器、医薬品など17業種が値下がりした。
-  📰 [finance.biggo.jp](https://finance.biggo.jp/news/476edb35-95d1-41c7-9c4b-7f16ee9a4cc4)
+  📰 [BigGo ファイナンス](https://finance.biggo.jp/news/476edb35-95d1-41c7-9c4b-7f16ee9a4cc4)
 
 - **[2026.09.25] ライブドアニュース — 東京株式（前引け）＝前日比８０４円高、半導体関連株などが値を上げる**
   日本語：２５日前引けの日経平均株価は前日比８０４円１５銭高の６万６３１８円１４銭。 前場のプライム市場の売買高概算は８億９９７６万株、売買代金概算は３兆７３９７億円。 値上がり銘柄数は１０６９、値下がり銘柄数は４２５、変わらずは５８銘柄だった。 日経平均株価は上昇。 ２４日の米株式市場は高安まちまちとなり、ＮＹダウは１６１ドル安と下落したが、ナスダック指数は小幅に上昇した。 ただ、東京株式市場では東京エレクトロン<8035. T>やアドバンテスト<6857. T>などＡＩ・半導体関連株などが値を上げ堅調に推移。 三菱ＵＦＪフィナンシャル・グループ<8306. T>など銀行株も値を上げ、日経平均株価の上昇幅は８００円を超えた。 ３月期決算企業の中間配当の権利取りの動きも相場の押し上げ要因に働いている様子だ。 足もとで為替は１ドル＝１５８円４０銭前後で推移している。
@@ -80,17 +80,13 @@
   English：Japan, US Reaffirm Stance on Yen as Finance Chiefs Meet Online Japanese Finance Minister Satsuki Katayama said Friday she held an online meeting with US Treasury Secretary Scott Bessent to discuss the yen's prolonged weakness, with both sides confirming that an undervalued currency remains a concern. The two finance chiefs "reaffirmed that an undervalued yen is a problem," Katayama told reporters after the talks.
   📰 [finance.biggo.com](https://finance.biggo.com/news/d2c19d1d-92e9-41f5-9705-f0bbd7bad185)
 
+- **[2026.09.25] WTVB — Dollar falls as oil eases, yen rallies on Japan remarks**
+  English：By Chuck Mikolajczak NEW YORK, Sept 25 (Reuters) – The dollar fell on Friday as oil prices eased, but was poised for a second straight weekly advance on growing rate hike bets, while the yen rallied after Japan said Tokyo and Washington remain committed to the stance behind July’s joint intervention. The dollar was on track to snap a four-day streak of gains as crude prices fell more than 1%.
+  📰 [WTVB](https://wtvbam.com/2026/09/25/dollar-falls-as-oil-cools-but-set-for-weekly-gain-yen-rallies/)
+
 - **[2026.09.25] finance.biggo.com — Tony Pasquariello: The Bond Market Is Now the Stock Market's Clear and Present Danger**
   English：Tony Pasquariello: The Bond Market Is Now the Stock Market's Clear and Present Danger The math on this stock market rally is getting uncomfortable in a way that has nothing to do with earnings. Tony Pasquariello, global head of hedge fund coverage at Goldman Sachs, points out that the S&P 500 is tracking toward its fourth consecutive year of double-digit returns. That has happened exactly one other time in modern market history — the final stretch of the 1990s.
   📰 [finance.biggo.com](https://finance.biggo.com/news/14afec91046713cc)
-
-- **[2026.09.25] FXStreet — Fed vs BoJ: Both hiked. The market only believes one of them – and the chart shows which**
-  English：The Federal Reserve (Fed) and the Bank of Japan (BoJ) have just done something remarkably similar. Both central banks raised interest rates by 25 basis points (bps) last week, both are confronting inflation risks, and both signal that future decisions will depend on incoming economic data. On paper, the two decisions appear to tell the same story: Monetary policy is becoming tighter on both sides of the Pacific.
-  📰 [FXStreet](https://www.fxstreet.com/analysis/fed-vs-boj-both-hiked-the-market-only-believes-one-of-them-and-the-chart-shows-which-202609251338)
-
-- **[2026.09.25] tmgm.com — TMGM Daily Market Breakfast: 25 September 2026**
-  English：The U. S. dollar strengthened broadly during the reporting window, with the Dollar Index reaching 101. 40, its highest since late July. U. S. 10-year Treasury yields were cited at 5. 14%, the highest level since July 2007. USD/JPY touched 159. 00 on Thursday before easing to around 158. 10 on Friday, EUR/USD traded near 1. 1375 and GBP/USD hovered just above 1. 3200, its lowest in nearly three months.
-  📰 [tmgm.com](https://www.tmgm.com/en/analysis/market-insight/morning-brief-2026-09-24)
 
 - **[2026.09.25] Stocktwits — Gold Price Recovers To $4,450 On Trump’s Iran Attack Pause – But Yellow Metal Is Still Down 15% In A Month After ‘Sell Everything’ Rout**
   English：Gold prices recovered partially on Monday after President Donald Trump announced that attacks on Iran’s energy infrastructure had been postponed for five days. Gold prices hovered around $4,450 per troy ounce on Monday after falling to under $4,100 as the “sell everything” trade gripped markets amid intensifying tensions in the Middle East. Gold futures maturing in June tumbled more than 10% before recovering some of the losses.
@@ -103,6 +99,10 @@
 - **[2026.09.25] FXStreet — Softer US interest rates help the greenback steady**
   English：Oil and US rates are softer today and these developments have helped steady the US dollar after this week’s surge. Even with a firmer tone today, four of the G10 currencies are off more than 1% this week. The yen would have been among them, but comments earlier today from Japan’s Finance Minister Katayama played up the ongoing coordination with the US and has seen the yen rise for the first time in six sessions.
   📰 [FXStreet](https://www.fxstreet.com/analysis/softer-us-interest-rates-help-the-greenback-steady-202609251241)
+
+- **[2026.09.25] Seeking Alpha — Softer US Interest Rates Helps Greenback Steady & US-Japan talk Snaps Yen 5-Day Slide**
+  English：Oil and US rates are softer today and these developments have helped steady the US dollar (DXY) after this week's surge. Even with a firmer tone today, four of the G10 currencies are off more than 1% this Summary - Oil and US rates are softer today and these developments have helped steady the US dollar after this week’s surge. - The market is pricing in a 'normal' Fed tightening cycle, in contrast to the Summary of Economic Projections, where the median dot implied a mini-cycle.
+  📰 [Seeking Alpha](https://seekingalpha.com/article/4949743-softer-us-interest-rates-helps-greenback-steady-talk-of-us-japan-coordination-snaps-yen-5-day-slide)
 
 - **[2026.09.25] investingLive — Massive crypto options expiries settle today: how they can impact the market?**
   English：Massive crypto options expiries settle today: how they can impact the market? Summary - With nearly $18 billion in BTC and ETH options expiring today let's see how large crypto options expiries can temporarily reshape market flows as dealer hedges are unwound or rolled into later contracts. Nearly $18 billion worth of Bitcoin and Ethereum options are expiring today, making this one of the largest quarterly settlements of the year.
