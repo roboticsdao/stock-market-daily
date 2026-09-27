@@ -1,0 +1,135 @@
+# 📈 Stock Market Daily | 2026.09.28（月曜日 / Monday）
+
+> ⚠ 本日报优先收录最近24小时的市场新闻、个股异动与当时市场快照；数据仅供参考，不构成投资建议。
+
+---
+
+
+## 🇺🇸 美国股市 / US Market
+
+- **[2026.09.28] 24/7 Wall St. — Everpure’s $7 Billion Forecast Just Blew Past Wall Street’s Numbers**
+  English：Everpure issued a preliminary fiscal 2028 revenue and operating income guidance of $7 billion to $7. 3 billion, exceeding the Wall Street consensus average of $6. 14 billion and sending its shares surging 11. 13% to close at $121. 85. The company reaffirmed its fiscal 2027 revenue guidance of $5. 03 billion to $5. 07 billion, representing 37% to 38% growth, and operating income of $940 million to $960 million. Growth is primarily driven by hyperscalers, highlighted by a design win and supply agreement with a second top five hyperscaler, alongside a 44% year-over-year increase in remaining performance obligations to $4. 1 billion. However, Q2 product gross margin fell to 66. 2% and free cash flow dropped to negative $237. 6 million due to strategic NAND purchases, while heavy customer concentration and rising component costs present ongoing risks.
+  中文：总结：Everpure公布了2028财年70亿美元至73亿美元的初步营收与营业利润指引，远超华尔街普遍预期，推动其股价上涨11. 13%至121. 85美元收盘。 公司同时重申了2027财年50. 3亿美元至50. $7 billion的营收指引（增长37%至38%），以及9. 4亿美元至9. 6亿美元的营业利润指引。 增长主要由超大规模数据中心客户驱动，其中包括与第二大前五大超大规模客户达成设计赢单与供应协议，且剩余履约义务同比增长44%至41亿美元。 不过，由于战略性NAND采购，第二季度产品毛利率降至66. 2%，自由现金流跌至负237. 6万美元，同时客户高度集中与组件成本上升也构成了持续风险。
+  📰 [24/7 Wall St.](https://247wallst.com/investing/2026/09/27/everpures-7-billion-forecast-just-blew-past-wall-streets-numbers/)
+
+- **[2026.09.28] AOL.com — Intel CEO Lip-Bu Tan Has Incredible News for AMD Stock Investors**
+  English：Intel is currently struggling to meet soaring server CPU demand, meeting only 50% of customer needs according to CEO Lip-Bu Tan, which is expected to drive higher chip prices and benefit competitors like AMD. Driven by agentic AI and inference workloads, the total addressable market for server CPUs is projected by AMD to generate $220 billion in revenue in 2030, with a compound annual growth rate exceeding 50%. Intel is reportedly preparing a 10% price hike in March 2027 after previous price increases this year, while AMD continues to capture market share, growing its server CPU share to 34. 5% in Q2. AMD has also reported significant data center revenue growth and is expanding its manufacturing capacity in Taiwan through TSMC to capitalize on Intel's ongoing supply chain constraints.
+  中文：总结：英特尔目前正艰难应对激增的服务器CPU需求，首席执行官陈立武表示只能满足客户50%的需求，这预计将推高芯片价格并使AMD等竞争对手受益。 在智能体AI和推理工作负载的推动下，AMD预计到2030年服务器CPU的总目标市场营收将达到$220 billion，复合年增长率超过50%。 继今年前几次提价后，英特尔据报正准备在2027年3月实施10%的提价；与此同时，AMD继续夺取市场份额，第二季度其服务器CPU市场份额增至34. 5%。 AMD还报告了显著的数据中心营收增长，并正通过台积电扩大其在台湾的制造产能，以利用英特尔持续的供应链限制。
+  📰 [AOL.com](https://www.aol.com/articles/intel-ceo-lip-bu-tan-152301000.html)
+
+- **[2026.09.27] businesstimes.com.sg — AI whiplash jolts stocks as sentiment lurches from fear to greed**
+  English：The stock market experienced extreme sentiment swings over a two-week period, driven initially by tech executives calling for a slowdown in cutting-edge AI model development, which wiped out over $600 billion in market value on the Nasdaq 100. AI infrastructure stocks tumbled following warnings from Anthropic CEO Dario Amodei, OpenAI chief Sam Altman, and SpaceX CEO Elon Musk regarding existential AI risks. However, fears quickly vanished as enthusiasm over Meta Platforms' Muse personal assistant triggered a broad rebound, sending Meta shares up 11% and adding $3 trillion to the Nasdaq 100 from its September 15 low. Despite the recovery, rising interest rates, data center backlashes, and potential AI disruption across subscription-based companies continue to weigh on investor sentiment and market stability.
+  中文：总结：在两周的时间里，受科技高管呼吁放缓前沿AI模型开发的影响，股市情绪经历了极端波动，导致纳斯达克100指数蒸发了超过6000亿美元的市值。 在Anthropic首席执行官达里奥·阿莫代伊、OpenAI负责人萨姆·奥尔特曼和SpaceX首席执行官埃隆·马斯克对AI存在主义风险发出警告后，AI基础设施股票应声下跌。 然而，随着对Meta Platforms的Muse个人助理的热情引发全面反弹，恐慌情绪迅速消退，推动Meta股价上涨11%，并使纳斯达克100指数自9月15日的低点回升了$3 trillion。 尽管有所复苏，但不断上升的利率、对数据中心的反对情绪以及AI对订阅制公司的潜在颠覆，依然持续对投资者情绪和市场稳定造成压力。
+  📰 [businesstimes.com.sg](https://www.businesstimes.com.sg/companies-markets/ai-whiplash-jolts-stocks-sentiment-lurches-fear-greed)
+
+- **[2026.09.27] The Globe and Mail — Tesla Reports Q3 Deliveries in Early October. Here's the Number That Would Send the Stock Soaring.**
+  English：Tesla is scheduled to release its third-quarter delivery numbers on October 2, with Wall Street analysts holding divergent forecasts ranging from Goldman Sachs' 435,000 to Barclays' 475,000, alongside a general consensus of 454,000. Vehicle inventory levels, measured in days of sales, remain a key metric for investors evaluating capital efficiency and cash flow, following reductions achieved in the second quarter. Based on a consensus Q3 production estimate of 487,000 units and assuming global vehicle inventory remains at 15 days, maintaining production growth while keeping inventory days constant could require approximately 485,833 deliveries. Deliveries exceeding 485,000 could serve as a strong operational result capable of driving Tesla stock higher.
+  中文：总结：特斯拉预计将在10月2日发布第三季度交付数据，华尔街分析师的预测存在分歧，高盛预测为435,000辆，巴克莱预测为475,000辆，市场普遍共识则为454,000辆。 继第二季度取得减仓成效后，以销售天数衡量的汽车库存水平依然是投资者评估资本效率和现金流的关键指标。 基于Q3生产量为487,000辆的市场共识预测，并假设全球汽车库存维持15天，在保持生产增长的同时维持库存天数不变，大约需要485,833辆的交付量。 交付量超过485,000辆将是一个强劲的运营成果，可能推动特斯拉股价走高。
+  📰 [The Globe and Mail](https://www.theglobeandmail.com/investing/markets/stocks/GS/pressreleases/4821998/tesla-reports-q3-deliveries-in-early-october-heres-the-number-that-would-send-the-stock-soaring/)
+
+- **[2026.09.27] AOL.com — Does the S&P 500 Have a "Magnificent Seven" Problem? Here's What Investors Need to Know.**
+  English：The S&P 500 has more than doubled from its September 2022 bear-market low, driven largely by the rapid growth of artificial intelligence and the outsized performance of the Magnificent Seven stocks: Apple, Amazon, Alphabet, Meta Platforms, Microsoft, Nvidia, and Tesla. Because the S&P 500 is market-cap weighted, these seven megacaps have grown to represent 31% of the index's total value while accounting for just under 26% of its expected earnings over the next four quarters. This valuation gap leaves the Magnificent Seven with an average forward price-to-earnings ratio of 23. 0, compared to 17. 3 for the rest of the index. While Goldman Sachs projects massive infrastructure investments exceeding $1 trillion annually through 2028, heavy interdependence and high valuations mean that any shortfall in AI demand could trigger a significant market ripple effect.
+  中文：总结：标普500指数自2022年9月的熊市低点以来已翻了一番多，主要受人工智能的快速增长以及“七巨头”股票（苹果、亚马逊、Alphabet、Meta Platforms、Microsoft、英伟达和特斯拉）超常表现的驱动。 由于标普500指数按市值加权，这七家超大盘公司目前占该指数总价值的31%，而其未来四个季度的预期总收益仅占该指数的不到26%。 “七巨头”较高的估值差距使其平均预期市盈率达到23. 0，而指数中其余股票的平均预期市盈率则为更为温和的17. 3。 尽管高盛预计到2028年，人工智能基础设施的年度投资将持续超过$1 trillion，但高度的相互依存和高昂的估值意味着，任何人工智能需求的不足都可能引发显著的市场连锁反应。
+  📰 [AOL.com](https://www.aol.com/articles/does-p-500-magnificent-seven-130900000.html)
+
+- **[2026.09.27] finance.biggo.com — Conditions for a US Stock Market Crash Are in Place; Experts Warn Global Debt Black Hole and Refinancing Pressure Are the Fuse**
+  English：MarketWatch columnist Satyajit Das warned that global financial market crash conditions are largely in place due to high valuations, high debt, refinancing pressure, and deep financial system interconnectedness. Global debt currently stands at approximately $348 trillion, representing 308% of global output, with government debt ratios expanding significantly since 2000 in countries like Japan, the United States, and the United Kingdom. Meanwhile, private-sector leverage in major tech firms such as Alphabet, Microsoft, Amazon, Meta, and Oracle has driven their combined off-balance-sheet financing to $1. 65 trillion, surpassing their $1. 35 trillion in disclosed on-balance-sheet debt. Additionally, approximately $6. 7 trillion in debt must be refinanced before 2028, creating severe refinancing pressure as borrowing costs remain elevated.
+  中文：总结：MarketWatch专栏作家萨蒂亚吉特·达斯警告称，由于高估值、高债务、再融资压力以及金融系统深度互联，全球金融市场崩溃的条件已基本具备。 目前全球债务约为$348 trillion，占全球产出的308%，自2000年以来，日本、美国和英国等国家的政府债务比例显著扩大。 与此同时，Alphabet、微软、亚马逊、Meta和甲骨文等主要科技公司的私营部门杠杆率已将其合并表外融资推高至1. 65万亿美元，超过了其1. 35万亿美元的已披露表内债务。 此外，约有6. 7万亿美元的债务必须在2028年之前进行再融资，在借贷成本保持高位的情况下带来了严峻的再融资压力。
+  📰 [finance.biggo.com](https://finance.biggo.com/news/f920a29a-da96-4e78-8a72-20e5427ae15f)
+
+- **[2026.09.27] TradingKey — US Stock Market This Week - 2026-09-28**
+  English：U. S. equities finished higher for the week ending September 25, 2026, led by technology and healthcare sectors amid strong artificial intelligence momentum. The S&P 500 rose 1. 21% and the Nasdaq Composite gained 2. 06%, while small-cap equities underperformed as the Russell 2000 fell 0. 8%. Sector performance showed sharp divergence, with technology jumping 3. 1% following Meta's AI unveilings at Meta Connect 2026, while energy fell 3. 07% and utilities declined 3. 04% amid elevated Treasury yields and cooling crude oil prices. The Federal Reserve maintained its tightening bias with interest rates in a target range of 3. 75% to 4. 00%, and the U. S. and China agreed to extend their trade truce by two months through January 10 during the Trump-Xi summit.
+  中文：总结：在强劲的人工智能势头推动下，截至2026年9月25日的一周，美国股市在科技和医疗保健板块的带领下收高。 标普500指数上涨1. 21%，纳斯达克综合指数上涨2. 06%，而小盘股表现逊色，罗素2000指数下跌0. 8%。 板块表现出现明显分化，在Meta Connect 2026上Meta发布其AI产品后，科技股大涨3. 1%，而由于国债收益率高企和原油价格回落，能源股下跌3. 07%，公用事业股下跌3. 04%。 美联储维持其紧缩倾向，联邦基金利率目标区间维持在3. 75%至4. 00%，同时美中两国在特朗普与习近平峰会期间同意将贸易休战期延长两个月至1月10日。
+  📰 [TradingKey](https://www.tradingkey.com/tools/market-update/us-stock-market-this-week-20260928)
+
+- **[2026.09.27] MarketBeat — NVIDIA Corporation $NVDA Shares Newly Acquired by All Stars Investment Ltd**
+  English：All Stars Investment Ltd acquired a new stake of 4,000 shares in NVIDIA valued at approximately $800,000 during the second quarter, making it their seventh biggest holding. Other institutional investors also adjusted their positions, with Bank of America raising its stake by 2. 1% to 191,200,989 shares and Invesco boosting its holdings by 0. 3% to 143,239,504 shares. Nvidia shares opened at $225. 07 with a market capitalization of $5. 42 trillion, a P/E ratio of 28. 45, and a beta of 2. 22. In its latest quarterly earnings report on August 26, Nvidia reported $2. 22 earnings per share and $96. 22 billion in revenue, up 105. 9% year-over-year, and declared a quarterly dividend of $0. 25 per share payable on October 1.
+  中文：总结：All Stars Investment Ltd在第二季度新买入了4,000股英伟达股票，价值约80,0000美元，使其成为该公司的第七大持仓。 其他机构投资者也调整了持仓，美国银行将其持股比例提高了2. 1%，达到191,200,989股；景顺将其持股比例提高了0. 3%，达到143,239,504股。 英伟达股价开盘报225. 07美元，市值为5. 42万亿美元，市盈率为28. 45，贝塔值为2. 22。 在其8月26日发布的最新季度财报中，英伟达报告每股收益为2. 22美元，营收为962. 2亿美元，同比增长105. 9%，并宣布将于10月1日派发每股0. 25美元的季度股息。
+  📰 [MarketBeat](https://www.marketbeat.com/instant-alerts/filing-nvidia-corporation-nvda-shares-newly-acquired-by-all-stars-investment-ltd-2026-09-27/)
+
+## 🇯🇵 日本株式市場 / Japan Market
+
+- **[2026.09.27] Yahoo!ファイナンス — アイ・アー・イー・エン【IREN】：株価・株式情報**
+  日本語：アイ・アー・イー・エン（IREN Ltd）はオーストラリアに拠点を置き、100％再生可能エネルギーで稼働するデータセンターを所有・運営する垂直統合型のAIクラウドプロバイダーである。 AIのトレーニングや推論向けの大規模データセンターおよびGPUクラスターを提供し、北米・欧州・APACの送電網接続済み電力ポートフォリオに支えられている。 施設は高電力密度コンピューティングに最適化されており、HPCおよびAIサービス向けのGPU（NVIDIA H100、H200約1896基）とビットコインマイニング向けのASICを組み合わせる。 カナルフラッツ施設は10エーカーの自由保有地に位置し、BCハイドロの電力網と30MWで直接接続されている。
+  中文：总结：アイ・アー・イー・エン（IREN Ltd）是一家总部位于澳大利亚、拥有并运营100%可再生能源驱动的数据中心的垂直整合型AI云服务商。 该公司为AI训练和推理提供大规模数据中心及GPU集群，其业务依托北美、欧洲和亚太地区的电网连接土地与电力资产组合。 其数据中心针对高功率密度计算应用进行了优化，支持面向HPC与AI服务的GPU（约1896个NVIDIA H100和H200）以及面向比特币挖掘的ASIC的组合。 カナルフラッツ设施坐落于10英亩的永久产权土地上，通过30兆瓦的电力接入直接连通BC Hydro电网。
+  📰 [Yahoo!ファイナンス](https://finance.yahoo.co.jp/quote/IREN)
+
+- **[2026.09.27] Yahoo!ファイナンス — (NEXT FUNDS)金融(除く銀行)上場投信【1632】：株価・株式情報（夜間PTS含む）**
+  日本語：(NEXT FUNDS)金融(除く銀行)上場投信は、日本の金融セクター（銀行を除く）の株式を投資対象とする上場投資信託であり、「TOPIX-17 金融(配当込)」に連動する成果を目指す。 野村が運用を行い、東京証券取引所に上場している。 直近の純資産総額は約162億85百万円であり、信託報酬は0. 352%である。 また、ジャパンネクスト証券が運営する私設取引システム（PTS）のJ-Marketにおいて、毎営業日17時から翌朝6時まで夜間取引が行われている。
+  中文：总结：(NEXT FUNDS)金融(除く銀行)上場投信是一只以日本金融板块（不含银行）股票为投资标的的交易所交易基金，旨在追踪“TOPIX-17 金融(配当込)”的表现。 该基金由野村运营并在东京证券交易所上市。 近期的纯资产总额约为162. 85亿日元，信托回报（信托报酬）为0. 352%。 此外，该基金可通过ジャパンネクスト证券运营的私设交易系统（PTS）J-Market进行每个交易日17点至次日早晨6点的夜间交易。
+  📰 [Yahoo!ファイナンス](https://finance.yahoo.co.jp/quote/1632.T)
+
+- **[2026.09.27] crypto-times.jp — 【今週のマクロ経済】債券売り・半導体逼迫・米中会談の3点を総括**
+  日本語：今週末の金融市場は、米10年債利回りが一時5. 23%近辺と2007年以来の高水準を記録するなど、世界的な債券売りに支配された。 一方、株式市場は日経平均が6万6000円台を回復するなどAI関連の強さに支えられて底堅く推移した。 半導体市場では、NVIDIAの需要加速やHBMの約85%が確保済みであるとの報道に加え、TSMCが2027年1月からウエハー価格を3〜6%引き上げる方針と報じられるなど需給逼迫が鮮明になった。 また、トランプ大統領と習近平国家主席による米中会談では貿易休戦の2カ月延長などで合意したものの、半導体規制では目立った進展は見られなかった。
+  中文：总结：本周末的金融市场被全球性债券抛售所主导，美国10年期国债收益率一度触及5. 23%附近，创下2007年以来的最高水平。 与此同时，在AI相关股票强劲表现的支撑下，股市表现坚挺，日经平均指数一度收复66000日元关口。 半导体市场上，由于NVIDIA需求加速、HBM约85%已被预订以及传出台积电计划从2027年1月起将晶圆价格提高3%至6%等消息，供需紧缺状况十分明显。 此外，在美国总统特朗普与中国国家主席习近平举行的美中会谈中，双方同意将贸易休战期延长两个月等，但在半导体限制方面并未取得显著进展。
+  📰 [crypto-times.jp](https://crypto-times.jp/news-weekly-macro-20260926/)
+
+- **[2026.09.27] マネーポストWEB — 【日本株週間見通し】長期金利上昇でも株式市場は堅調 引き続き長期金利の動向やAI関連銘柄の行方に注意**
+  日本語：日経平均株価は9月11日終値比2352. 86円高の66364. 20円で取引を終了し、その後も続伸基調が続いた。 週前半は米オープンAIの動向やアンソロピックCEOの発言を受けたAI関連の下落や日米長期金利の上昇が警戒されたものの、FOMCでの利上げ決定後のあく抜け感や円安、日銀のハト派的な利上げ決定などを背景に切り返した。 週末には米中首脳会談による過度な懸念の和らぎも相場を支えた。 日米の長期金利は大幅に上昇しており、日本の10年物国債利回りは1996年8月以来の3. 1%超を記録し、米国10年債利回りも2007年6月以来の高水準となっている。
+  中文：总结：日经平均股价以比9月11日收盘价上涨2352. 86日元的66364. 20日元收盘，此后继续保持连涨势头。 尽管周初受美国OpenAI动向及Anthropic首席执行官发言影响，AI相关股票下跌以及美债长期利率上升一度引起警惕，但在FOMC决定加息后的利空出尽感、日元贬值以及日本央行偏鸽派的加息决定等背景下，股市实现反弹。 周末美中首脑会谈缓解了过度担忧，也对行情起到了支撑作用。 日美两国长期利率大幅上升，日本10年期国债收益率创下1996年8月以来的3. 1%以上高位，美国10年期国债收益率也达到了2007年6月以来的最高水平。
+  📰 [マネーポストWEB](https://www.moneypost.jp/1449286)
+
+- **[2026.09.25] 行情快照 / Quote · Nikkei 225 — 日经225上涨1.30%**
+  行情日本語：日经225（Nikkei 225）は2026.09.25 15:45 JST時点で66,364.20となり、前日終値比で1.30%上昇しています。
+  行情中文：截至 2026.09.25 15:45 JST，日经225较前收盘上涨1.30%。
+  📰 [Yahoo Finance](https://finance.yahoo.com/quote/%5EN225)
+
+- **[2026.09.25] 行情快照 / Quote · Tokyo Electron — 东京电子上涨4.82%**
+  行情日本語：东京电子（Tokyo Electron）は2026.09.25 15:30 JST時点で56,520.00となり、前日終値比で4.82%上昇しています。
+  行情中文：截至 2026.09.25 15:30 JST，东京电子较前收盘上涨4.82%。
+  📰 [Yahoo Finance](https://finance.yahoo.com/quote/8035.T)
+
+- **[2026.09.25] 行情快照 / Quote · Advantest — 爱德万测试上涨2.84%**
+  行情日本語：爱德万测试（Advantest）は2026.09.25 15:30 JST時点で34,000.00となり、前日終値比で2.84%上昇しています。
+  行情中文：截至 2026.09.25 15:30 JST，爱德万测试较前收盘上涨2.84%。
+  📰 [Yahoo Finance](https://finance.yahoo.com/quote/6857.T)
+
+- **[2026.09.25] 行情快照 / Quote · SoftBank Group — 软银集团下跌3.18%**
+  行情日本語：软银集团（SoftBank Group）は2026.09.25 15:30 JST時点で6,150.00となり、前日終値比で3.18%下落しています。
+  行情中文：截至 2026.09.25 15:30 JST，软银集团较前收盘下跌3.18%。
+  📰 [Yahoo Finance](https://finance.yahoo.com/quote/9984.T)
+
+## 🌍 宏观经济与投资 / Macro & Investment
+
+- **[2026.09.27] Global Times — Japanese economy shrouded in greater uncertainty as yen predicament deepens**
+  English：The Japanese yen remains under pressure at approximately 158 yen to the dollar despite the Bank of Japan raising its policy interest rate by 0. 25 percentage points to 1. 25 percent on September 18, reflecting a wide interest rate gap with the U. S. Federal Reserve. This persistent currency weakness creates a difficult policy dilemma for Tokyo, as further rate hikes could weigh on household spending, cripple business investment, and increase government debt servicing costs against a backdrop where gross government debt stands at about 230 percent of GDP and fiscal 2027 budget requests reached a record high of 143 trillion yen ($918 billion).
+  中文：总结：尽管日本银行于9月18日将政策利率上调0. 25个百分点至1. 25%，但日元仍承受压力，兑美元汇率在158日元左右徘徊，这反映出其与美国联邦储备委员会之间存在巨大的利率差距。 这种持续的疲软货币给东京带来了艰难的政策困境：在政府总债务约占GDP的230%以及2027财年预算申请达到创纪录的143 trillion（$918 billion）的背景下，进一步加息可能会拖累家庭支出、削弱企业投资，并增加政府债务偿还成本。
+  📰 [Global Times](https://www.globaltimes.cn/page/202609/1371430.shtml)
+
+- **[2026.09.27] stl.news — U.S. Dollar Rebounds as Fed Reshapes Forex Markets**
+  English：The U. S. dollar has rebounded above 100 on the DXY index following volatile trading phases, driven by higher interest rates, rising Treasury yields, persistent inflation, and geopolitical uncertainty. The Dollar Index experienced spring weakness, a powerful rally to an intraday high near 101. 80 on June 24, a summer retreat in July and August, and a renewed September surge. On September 16, the Federal Reserve unanimously raised the federal funds target range by 25 basis points to 3. 75%-4. 00% amid resilient economic activity, robust capital investment, and elevated inflation, with July 2026 PCE inflation reported at 3. 7%, well above the 2% objective.
+  中文：总结：在经历波动交易阶段后，由于利率上升、国债收益率走高、持续通胀以及地缘政治的不确定性，美元指数（DXY）已回升至100上方。 美元指数经历了春季的疲软、6月24日强劲反弹至接近101. 80的盘中高点、7月和8月的夏季回落，以及9月份的再度飙升。 9月16日，在经济活动韧性十足、资本投资强劲以及通货膨胀高企（2026年7月PCE通胀率为3. 7%，远高于2%的目标）的背景下，美联储一致投票将联邦基金目标区间上调25个基点至3. 75%-4. 00%。
+  📰 [stl.news](https://www.stl.news/u-s-dollar-rebounds-as-fed-reshapes-forex-markets/)
+
+- **[2026.09.27] DailyForex — US Dollar Faces a Defining Week as Oil Risk Returns**
+  English：U. S. government bond yields surged last week, with the 10-year Treasury yield briefly hitting 5. 22%, driven by strong business-activity data and persistent fuel-driven inflation concerns. The U. S. Dollar posted its second consecutive weekly gain, while the Euro remained under pressure and the Yen recovered following renewed Japanese intervention warnings. Crude oil prices remained elevated as Brent finished Friday at $104. 32 per barrel and U. S. crude at $92. 41, following President Trump's confirmation that he rejected an Iranian conditional ceasefire proposal and expectations that bombing may resume after the November midterm elections. Key upcoming economic data includes the U. S. Core PCE Price Index, average hourly earnings, final GDP, non-farm employment change, and the RBA cash rate decision.
+  中文：总结：受强劲的商业活动数据和持续的燃料驱动通胀担忧推动，上周美国国债收益率飙升，10年期美债收益率一度触及5. 22%。 美元录得连续第二周上涨，而欧元继续承压，日元在日本发出新的干预警告后有所回升。 由于美国总统特朗普证实他拒绝了伊朗的有条件停火提议，且预计11年中期选举后可能会恢复轰炸，原油价格依然高企，周五布伦特原油收于每桶104. 32美元，美国原油收于92. 41美元。
+  📰 [DailyForex](https://www.dailyforex.com/forex-technical-analysis/2026/09/weekly-pairs-in-focus-28th-september-to-2nd-october-2026/250079)
+
+- **[2026.09.27] CryptoTicker — Crypto Prices Today: Bitcoin Holds $84,000 After Its Best Week Since January**
+  English：Bitcoin traded at $84,601 on Sunday, September 27, up 5. 3% on the week after briefly surpassing $87,000 for the first time since January, supported by spot Bitcoin ETF inflows of roughly $1. 7 billion over two sessions and resumed buying by Strategy. The rally pulled back as the 10-year U. S. Treasury yield crossed 5. 1% following expectations of a second Fed rate hike in October. Meanwhile, top altcoins showed broad weekly gains, led by NEAR Protocol up 56. 36%, Chainlink up 20. 14%, and Cardano up 17. 19%, while privacy coins like Zcash and Monero also posted strong performances. Key upcoming events include Bitget's frozen withdrawal releases starting September 28, the August U. S. core PCE release on September 30, and non-farm payrolls on October 2.
+  中文：总结：截至9月27日周日，比特币交易价格为84,601美元，周涨幅达5. 3%，此前曾短暂突破87,000美元，创下1月以来的首次纪录。 这一涨势受到两个交易日内现货比特币ETF约17亿美元资金流入以及Strategy恢复买入的支持。 由于市场预期美联储将在10月实施第二次加息，10年期美国国债收益率突破5. 1%，导致比特币从高位回落。 与此同时，主流山寨币普遍录得周涨幅，其中NEAR Protocol上涨56. 36%，Chainlink上涨20. 14%，Cardano上涨17. 19%，而Zcash和Monero等隐私币也表现强劲。 接下来的重要事件包括9月28日开始的Bitget冻结提现释放、9月30日发布的8月美国核心PCE数据以及10月2日的非农就业报告。
+  📰 [CryptoTicker](https://cryptoticker.io/en/crypto-prices-today-bitcoin-84000-market-update/)
+
+- **[2026.09.27] Stocktwits — Bitcoin $70K Floor Under Threat – Bitfinex Warns $120 Oil Spike Could Trigger Hawkish Fed Pivot**
+  English：Bitcoin dropped below the $70,000 support level to around $69,300 on Wednesday night after Brent crude oil prices surged toward $100 for a second time this week amid the U. S. -Iran war. Analysts at Bitfinex warned that if oil spikes toward $120 and remains there, it could force the Federal Reserve into a hawkish policy pivot and invalidate the recovery thesis, noting that every sustained $10 increase in Brent crude can raise the U. S. consumer price index by 20 basis points. Despite the price drop, Bitcoin is currently driven primarily by spot demand rather than leveraged speculation, with the Leverage Reset Index at a multi-year low of 0. 32. Meanwhile, crude oil futures rose over 5% in overnight trade despite the International Energy Agency announcing a 400-million-barrel emergency reserve release.
+  中文：总结：周三晚间，在美伊战争背景下，布伦特原油价格本周第二次逼近100美元，导致比特币跌破70,000美元支撑位，降至约69,300美元。 Bitfinex分析师警告称，如果油价飙升至120美元并保持在该水平，可能会迫使美联储转向鹰派政策立场并使复苏论点失效，并指出布伦特原油每持续上涨10美元，就会将美国消费者物价指数（CPI）推高20个基点。 尽管价格下跌，但比特币目前主要由现货需求而非杠杆投机驱动，杠杆重置指数处于多年低点的0. 32。 与此同时，尽管国际能源署宣布释放4亿桶紧急储备，原油期货在隔夜交易中仍上涨了超过5%。
+  📰 [Stocktwits](https://stocktwits.com/news-articles/markets/cryptocurrency/bitcoin-70-k-floor-under-threat-120-oil-spike-could-trigger-hawkish-fed/cZdMvEWRIBz)
+
+- **[2026.09.28] 行情快照 / Quote · USD/JPY — 美元兑日元下跌1.00%**
+  Quote: USD/JPY stood at 157.19 as of 2026.09.28 00:56 JST, 1.00% lower than the previous close.
+  行情中文：截至 2026.09.28 00:56 JST，美元兑日元较前收盘下跌1.00%。
+  📰 [Yahoo Finance](https://finance.yahoo.com/quote/JPY%3DX)
+
+- **[2026.09.26] 行情快照 / Quote · US 10Y Yield — 美国10年期国债收益率上涨0.43%**
+  Quote: US 10Y Yield stood at 5.18 as of 2026.09.26 03:59 JST, 0.43% higher than the previous close.
+  行情中文：截至 2026.09.26 03:59 JST，美国10年期国债收益率较前收盘上涨0.43%。
+  📰 [Yahoo Finance](https://finance.yahoo.com/quote/%5ETNX)
+
+- **[2026.09.26] 行情快照 / Quote · Gold Futures — 黄金期货上涨0.54%**
+  Quote: Gold Futures stood at 4,321.20 as of 2026.09.26 05:59 JST, 0.54% higher than the previous close.
+  行情中文：截至 2026.09.26 05:59 JST，黄金期货较前收盘上涨0.54%。
+  📰 [Yahoo Finance](https://finance.yahoo.com/quote/GC%3DF)
+
+---
+※Stock Market Daily Digest | 2026.09.28
