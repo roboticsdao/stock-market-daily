@@ -7,81 +7,81 @@
 
 ## 🇺🇸 美国股市 / US Market
 
-- **[2026.10.02] Benzinga — AI’s Trillion-Dollar Chip Boom Is Getting Bigger, and NVIDIA Isn’t the Only Winner**
-  English：Semiconductor companies are capturing a growing share of the artificial intelligence investment boom, with several chipmakers crossing the $1 trillion market-capitalization threshold in 2026. Taiwan Semiconductor Manufacturing Co. entered the $2 trillion club in February, while Samsung Electronics and Intel benefited from foundry and packaging demand. Micron Technology and SK Hynix joined the $1 trillion club in May due to surging high-bandwidth memory demand, with Mirae Asset Securities analyst Kim Young-gun expecting memory demand to exceed supply through 2028. Advanced Micro Devices crossed $1 trillion in September, supported by AI infrastructure and agentic workloads, though CNBC's Jim Cramer noted potential pullback risks. Meanwhile, UBP estimates that five hyperscalers will spend about $820 billion on capital expenditures in 2026, potentially climbing to between $1 trillion and $1. 3 trillion in 2027.
-  中文：总结：半导体企业正获得人工智能投资热潮中不断扩大的份额，多家芯片制造商在2026年突破$1 trillion市值门槛。 台积电于2月进入$2 trillion俱乐部，三星电子和英特尔则受益于晶圆代工与封装需求。 美光科技和SK海力士因高带宽内存需求激增于5月加入1万亿美元俱乐部，未来资产证券分析师Kim Young-gun预计内存需求将在2028年之前持续超过供应。 超威半导体在9月份短暂跨越1万亿美元市值，受到人工智能基础设施和智能工作负载的推动，不过CNBC的Jim Cramer指出其存在回调风险。 同时，UBP估计五家超大规模云厂商将在2026年支出约$820 billion的资本开支，并在2027年可能攀升至1万亿美元至1. 3万亿美元之间。
-  📰 [Benzinga](https://www.benzinga.com/markets/tech/26/10/62115509/ais-trillion-dollar-chip-boom-is-getting-bigger-and-nvidia-isnt-the-only-winner)
+- **[2026.10.02] AOL.com — AI Spending Is Entering Its Next Phase. This Stock Could Benefit Most**
+  English：Credo (CRDO) shares fell 17% despite beating fiscal Q1 2027 expectations with $479 million in revenue, up 114. 73%, and a non-GAAP EPS of $1. 20. Management expects fiscal 2027 revenue to grow over 85%, driven by optical products exceeding $600 million. 24/7 Wall St. rates the stock a buy with a price target of $242. 79, citing connectivity demand, though customer concentration remains a notable risk with two customers accounting for 61% of Q1 revenue.
+  中文：总结：Credo (CRDO) 公布 2027 财年第一季度营收达到 4. 79 亿美元，同比增长 114. 73%，Non-GAAP 每股收益为 1. 20 美元，均超预期，但股价仍下跌 17%。 管理层预计 2027 财年营收将增长 85% 以上，其中光学业务营收将超过 600 million 美元。 24/7 Wall St. 将该股票评级为买入，目标价设为 242. 79 美元，主要由于连接需求强劲，不过前两大客户占第一季度营收的 61%，客户集中度构成主要风险。
+  📰 [AOL.com](https://www.aol.com/articles/ai-spending-entering-next-phase-180039000.html)
+
+- **[2026.10.02] benzinga.com — AI’s Trillion-Dollar Chip Boom Is Getting Bigger, and NVIDIA Isn’t the Only Winner**
+  English：Semiconductor companies are capturing a larger share of the artificial intelligence boom driven by hyperscaler spending, tight memory supply, and demand for advanced packaging and custom silicon. In 2026, firms like Samsung Electronics, Taiwan Semiconductor, Micron, SK Hynix, and AMD crossed or approached the $1 trillion and $2 trillion market-capitalization thresholds. UBP estimates that five major hyperscalers will spend about $820 billion on capital expenditures in 2026, with spending expected to reach between $1 trillion and $1. 3 trillion in 2027.
+  中文：总结：受超大规模数据中心支出、紧张的内存供应以及对先进封装和定制芯片的需求推动，半导体公司在人工智能投资热潮中占据了更大的份额。 2026 年，三星电子、台积电、美光、SK 海力士和 AMD 等多家主要芯片制造商的市值跨越或接近 $1 trillion和 $2 trillion关口。 UBP 估计，五家超大规模企业将在 2026 年投入约 8200 亿美元的资本支出，预计 2027 年这一数字将攀升至 1 万亿至 1. 3 万亿美元之间。
+  📰 [benzinga.com](https://www.benzinga.com/markets/tech/26/10/62115509/ais-trillion-dollar-chip-boom-is-getting-bigger-and-nvidia-isnt-the-only-winner)
 
 - **[2026.10.02] 24/7 Wall St. — Micron Stock Slips Despite Record Q4, Analyst Price Hikes. Here's Why MU Stock Is Still a Buy**
-  English：Micron Technology stock fell 1. 72% to $1,046. 79 despite posting record fiscal Q4 results and analyst price target increases. Goldman Sachs raised its target to $1,250, Mizuho to $1,400, and Rosenblatt to $1,900, while Morningstar cut its fair value to $700 from $850. Q4 revenue reached $54. 2 billion, up 31% sequentially and 379% year over year, with a non-GAAP EPS of $33. 42 and an 87% gross margin. Fiscal 2026 revenue rose 256% to $133. 2 billion, and EPS came in at $75. 52. CFO Mark Murphy noted that over 75% of 2027 output is committed, while remaining performance obligations total about $150 billion. Management stated that significant new cleanroom capacity will not arrive until late calendar 2028. Micron plans to return 100% of excess cash to shareholders starting December 9, 2026, and pays a $0. 15 quarterly dividend.
-  中文：总结：尽管美光科技公布了创纪录的第四财季业绩并获得分析师上调目标价，但其股价仍下跌1. 72%至1,046. 79美元。 高盛将目标价从1,100美元上调至1,250美元，瑞穗上调至1,400美元，罗森布拉特上调至1,900美元，晨星则将公允价值从850美元下调至700美元。 第四财季营收达到542亿美元，环比增长31%，同比增长379%，非美国通用会计准则每股收益为33. 42美元，毛利率达87%。 2026财年营收增长256%至1,332亿美元，每股收益为75. 52美元。 首席财务官Mark Murphy指出，2027年超过75%的产地产能已有承诺，剩余履约义务总计约$150 billion。 管理层表示，重大的新洁净室产能要到2028年日历年底才会到位。 美光计划从2026年12月9日起将100%的超额现金返还给股东，并支付0. 15美元的季度股息。
+  English：Micron Technology (MU) shares fell 1. 72% to $1,046. 79 despite reporting record fiscal Q4 results with revenue up 379% year over year to $54. 2 billion and non-GAAP EPS of $33. 42. Analysts raised price targets, with Goldman Sachs moving to $1,250, Mizuho to $1,400, and Rosenblatt to $1,900, while Morningstar cut its fair value to $700. Management noted that memory supply should stay tight through 2028, and over 75% of 2027 output is already committed.
+  中文：总结：美光科技 (MU) 公布第四财季创纪录的业绩，营收同比增长 379% 至 54. 2 billion 美元，Non-GAAP 每股收益为 33. 42 美元，但股价仍下跌 1. 72% 至 1046. 79 美元。 分析师纷纷上调目标价，其中高盛将目标价从 1100 美元上调至 1250 美元，瑞穗上调至 1400 美元，罗斯布拉特上调至 1900 美元，而晨星则将公允价值从 850 美元下调至 700 美元。 管理层表示，内存供应预计将持续紧张至 2028 年，2027 年超过 75% 的产能已被预定。
   📰 [24/7 Wall St.](https://247wallst.com/investing/2026/10/01/micron-stock-slips-despite-record-q4-analyst-price-hikes-heres-why-mu-stock-is-still-a-buy/)
 
 - **[2026.10.02] 24/7 Wall St. — AMD Doesn’t Need to Beat Nvidia to Be a Big AI Winner**
-  English：Advanced Micro Devices became the second AI chip supplier for hyperscalers, with Data Center revenue up 107% last quarter, driving a 284. 28% increase over the past year. Q2 revenue reached $11. 54 billion, beating the $11. 31 billion estimate, and non-GAAP EPS of $1. 66 surpassed the $1. 61 expectation. Gross margin expanded to 56%. Major deals include Anthropic planning to deploy up to 2 GW of MI450 GPUs, alongside 6 GW commitments from OpenAI and Meta. AMD expects server revenue to grow over 80% in the second half and Data Center revenue to more than double in 2027. However, trailing P/E of about 229, a 31% drop in gaming revenue, and a 9. 89% fall in free cash flow present potential risks.
-  中文：总结：超威半导体已成为超大规模云厂商的第二大人工智能芯片供应商，上季度数据中心营收增长107%，推动过去一年股价上涨284. 28%。 第二季度营收达到115. 4亿美元，超出了113. 1亿美元的预期，非美国通用会计准则每股收益为1. 66美元，超过1. 61美元的预期。 毛利率扩大至56%。 主要交易包括Anthropic计划部署多达2吉瓦的MI450图形处理器，以及OpenAI和Meta各自高达6吉瓦的承诺。 超威半导体预计下半年服务器营收将增长80%以上，2027年数据中心营收将增长一倍以上。 然而，约229的动态市盈率、游戏营收下降31%以及自由现金流下降9. 89%构成了潜在风险。
+  English：AMD shares trade near $613. 32, supported by a 107% increase in last quarter's Data Center revenue and strong hyperscaler demand, with Anthropic planning to deploy up to 2 GW of MI450 GPUs, OpenAI committing to 6 GW, and Meta up to 6 GW. 24/7 Wall St. set a price target of $591. 95 with a hold rating. The company reported Q2 revenue of $11. 54 billion, up 50. 1%, and non-GAAP EPS of $1. 66, with server revenue expected to grow over 80% in the second half.
+  中文：总结：AMD 股价交投于 613. 32 美元附近，得益于上季度数据中心营收大增 107% 以及超大规模企业的强劲需求，其中 Anthropic 计划部署最多 2 GW 的 MI450 GPU，OpenAI 承诺 6 GW，Meta 高达 6 GW。 24/7 Wall St. 将其目标价设定为 591. 95 美元并给予持有评级。 该公司第二季度营收为 11. 54 billion 美元，同比增长 50. 1%，Non-GAAP 每股收益为 1. 66 美元，预计下半年服务器营收将增长 80% 以上。
   📰 [24/7 Wall St.](https://247wallst.com/investing/2026/10/01/amd-doesnt-need-to-beat-nvidia-to-be-a-big-ai-winner/)
 
 - **[2026.10.02] Seeking Alpha — Chip, AI stocks pare gains as rising Treasury yields weigh on market (MU:NASDAQ)**
-  English：Chip and AI stocks gave up part of their earlier gains on Thursday as a broader bond selloff pushed U. S. Treasury yields higher, adding pressure to technology shares. The Nasdaq Composite declined 0. 26%.
-  中文：总结：由于更广泛的债券抛售推动美国国债收益率走高，给科技股带来压力，芯片和人工智能股票周四放弃了早些时候的部分涨幅。 纳斯达克综合指数下跌0. 26%。
+  English：Chip and artificial intelligence stocks relinquished earlier gains as a broader bond market selloff pushed U. S. Treasury yields higher, placing additional pressure on technology shares. The Nasdaq Composite declined 0. 26% during the session alongside weakness in the Philadelphia Semiconductor sector.
+  中文：总结：由于更广泛的债券市场遭到抛售并推高美国国债收益率，给科技股带来额外压力，芯片和人工智能股票放弃了早盘的部分涨幅。 纳斯达克综合指数盘中下跌 0. 26%，费城半导体板块也走弱。
   📰 [Seeking Alpha](https://seekingalpha.com/news/4649161-chip-ai-stocks-pare-gains-as-rising-treasury-yields-weigh-on-market)
 
-- **[2026.10.02] ca.finance.yahoo.com — S&P/TSX composite down more than 200 points, U.S. stock markets also lower**
-  English：Canada's main stock index fell more than 200 points in late-morning trading, weighed down by financial and base metal sector losses, while U. S. markets also declined. The S&P/TSX composite index dropped 212. 23 points to 35,023. 64. In New York, the Dow Jones industrial average fell 265. 60 points to 50,640. 45, the S&P 500 lost 15. 36 points to 7,636. 18, and the Nasdaq composite fell 38. 32 points to 26,822. 74. The Canadian dollar traded at 70. 19 cents US compared to 70. 48 cents US on Tuesday. The November crude oil contract rose $2. 14 to $92. 56 per barrel, and the December gold contract dropped $3. 70 to $4,183. 00 an ounce.
-  中文：总结：受金融和基础金属板块跌势拖累，加拿大主要股票指数在上午盘后下跌逾200点，同时美国股市也出现下跌。 标普/多伦多证券交易所综合指数下跌212. 23点，报35,023. 64点。 在纽约，道琼斯工业平均指数下跌265. 60点，报50,640. 45点；标普500指数下跌15. 36点，报7,636. 18点；纳斯达克综合指数下跌38. 32点，报26,822. 74点。 加元兑美元汇率报70. 19美分，周二为70. 48美分。 11月原油合约上涨2. 14美元，报每桶92. 56美元；12月黄金合约下跌3. 70美元，报每盎司4,183. 00美元。
-  📰 [ca.finance.yahoo.com](https://ca.finance.yahoo.com/news/p-tsx-composite-down-more-153125412.html)
-
-- **[2026.10.02] Yahoo Finance UK — Micron Technology, Inc. (MU) stock price, news, quote and history**
-  English：Micron Technology reported trailing twelve months revenue of $90. 27 billion and net income available to common shareholders of $50. 47 billion, with diluted EPS of $74. 34. The company's market capitalization stood at approximately 1. 21 trillion, with total cash of $26. 02 billion and total debt-to-equity of 6. 33%. The profit margin was recorded at 55. 91%, return on assets at 34. 87%, and return on equity at 66. 64%. Levered free cash flow reached $7. 64 billion.
-  中文：总结：美光科技公布的过去十二个月营收为902. 7亿美元，归属于普通股东的净利润为504. 7亿美元，稀释后每股收益为74. 34美元。 该公司市值为1. 21万亿美元左右，总现金为260. 2亿美元，总债务与股东权益比率为6. 33%。 利润率为55. 91%，资产回报率为34. 87%，净资产收益率为66. 64%。 杠杆自由现金流达到76. 4亿美元。
-  📰 [Yahoo Finance UK](https://uk.finance.yahoo.com/quote/MU/)
+- **[2026.10.02] Yahoo! Finance Canada — S&P/TSX composite down more than 200 points, U.S. stock markets also lower**
+  English：Canada's main stock index fell more than 200 points, dropping 212. 23 points to 35,023. 64, dragged down by losses in the financial and base metal sectors. U. S. stock markets also declined, with the Dow Jones industrial average down 265. 60 points at 50,640. 45, the S&P 500 down 15. 36 points at 7,636. 18, and the Nasdaq composite down 38. 32 points at 26,822. 74.
+  中文：总结：受金融和基础金属板块下跌拖累，加拿大主要股指下跌超过 200 点，收盘下跌 212. 23 点至 35023. 64 点。 美国股市也走低，道琼斯工业平均指数下跌 265. 60 点至 50640. 45 点，标普 500 指数下跌 15. 36 点至 7636. 18 点，纳斯达克综合指数下跌 38. 32 点至 26822. 74 点。
+  📰 [Yahoo! Finance Canada](https://ca.finance.yahoo.com/news/p-tsx-composite-down-more-153125412.html)
 
 - **[2026.10.01] Los Angeles Times — Musk’s AI ambitions are changing how investors see Tesla**
-  English：Tesla Inc. shares have fallen 21% in 2026, but sell ratings from Wall Street analysts dropped to a 2026 low of 13. 1% out of 61 recommendations, down from 23. 3% in January. The decline in bearish calls follows Chief Executive Elon Musk's efforts to shift focus from electric vehicles to physical artificial intelligence, robotaxis, and humanoid robots. Max Gokhman of Franklin Templeton noted that analysts are reluctant to bet against Musk after past moonshot successes. Meanwhile, hold-equivalent ratings reached a two-year high, and Wells Fargo suspended coverage of Tesla following analyst Colin Langan's departure. While supporters highlight Musk's long-term vision, critics point to uneven delivery, missed deadlines, and a Cybercab debut that fell short of expectations alongside a federal safety probe.
-  中文：总结：特斯拉公司股价在2026年下跌了21%，但华尔街分析师的卖出评级在61个建议中降至2026年低点13. 1%，低于1月份的23. 3%。 看空呼声的下降伴随着首席执行官埃隆·马斯克努力将重心从电动汽车转向实体人工智能、自动驾驶出租车和人形机器人。 富兰克林邓普顿的Max Gokhman指出，在经历过往的宏大目标实现后，分析师不愿与马斯克对赌。 同时，持有相当评级的比例达到了两年多来的最高点，富国银行在分析师Colin Langan离职后暂停了对特斯拉的覆盖。 尽管支持者强调马斯克的长期愿景，但批评者指出其交付参差不齐、屡次错过最后期限，以及Cybercab首发未达预期并伴随联邦安全调查。
+  English：Tesla Inc. shares have fallen 21% in 2026, yet Wall Street sell ratings have dropped to a low of 13. 1% out of 61 analyst recommendations. The decline in bearish calls follows CEO Elon Musk's efforts to shift Tesla's focus from electric vehicles toward physical artificial intelligence, including self-driving robotaxis and humanoid robots. While analysts recognize significant optionality in autonomy and robotics, they emphasize that this raises execution and revenue demands.
+  中文：总结：特斯拉公司股价在 2026 年下跌了 21%，但在 61 位分析师的评级中，卖出评级比例已降至 13. 1% 的低位。 看空呼声的减少源于首席执行官埃隆·马斯克努力将特斯拉的重心从电动汽车转向实体人工智能，包括自动驾驶出租车和人形机器人。 尽管分析师认可其在自动驾驶和机器人领域具有重大的选择权，但也强调这也提高了执行和营收的要求。
   📰 [Los Angeles Times](https://www.latimes.com/business/story/2026-10-01/musks-ai-ambitions-are-changing-how-investors-see-tesla)
 
-- **[2026.10.01] Benzinga — Why Is Roze AI Stock Surging Thursday?**
-  English：Roze AI Inc. stock surged more than 90% in Thursday premarket trading, trading at $42. 00, following its direct listing on the Nasdaq Capital Market on Tuesday, September 29, under the ticker RZAI. The South Korea-based company develops AI-powered disaster prevention technology, including its Disaster AI Platform and Fire 4Cast system, which calculate fire risk indices from IoT sensors to provide early warnings. The company also manufactures automatic fire detectors and designs firefighting systems, with substantially all revenue generated in South Korea through government and industrial installations.
-  中文：总结：Roze AI公司股票周四盘前交易大涨逾90%，报42. 00美元。 该公司于9月29日星期二通过直接上市方式在纳斯达克资本市场开始交易，股票代码为RZAI。 这家总部位于韩国的公司开发人工智能防灾技术，包括灾难人工智能平台和Fire 4Cast系统，该系统利用物联网传感器的信息计算火灾风险指数以提供早期预警。 该公司还制造自动火灾探测器并设计消防系统，其绝大部分收入通过韩国的政府和工业设施安装产生。
-  📰 [Benzinga](https://www.benzinga.com/trading-ideas/movers/26/10/62102192/why-is-roze-ai-stock-surging-thursday)
+- **[2026.10.01] tradingkey.com — Micron Technology Inc (MU) Stock Analysis & Forecast**
+  English：U. S. stock indexes fell across the board on September 28, with the Nasdaq Composite dropping over 1% and the Philadelphia Semiconductor Index falling more than 3% following reports of an OpenAI model training pause that triggered an AI hardware sell-off. Major chip and memory stocks plummeted, including SK Hynix down 6. 20%, SanDisk down 6. 05%, and Micron Technology down 4. 22%.
+  中文：总结：9 月 28 日美东时间，受 OpenAI 模型训练暂停的报道引发人工智能硬件遭到抛售影响，美国三大股指全线走低，纳斯达克综合指数跌超 1%，费城半导体指数跌幅超过 3%。 主要芯片和内存股大幅下挫，其中 SK 海力士下跌 6. 20%，闪迪下跌 6. 05%，美光科技下滑 4. 22%。
+  📰 [tradingkey.com](https://www.tradingkey.com/markets/stocks/mu/analysis)
 
 ## 🇯🇵 日本株式市場 / Japan Market
 
 - **[2026.10.01] 日本経済新聞 — 日経平均2203円上昇、1カ月半ぶり高値 マイクロン好決算で半導体株高**
-  日本語：1日の東京株式市場で日経平均株価が続伸し、前日比2203円（3. 3%）高い6万8956円で終えた。 米マイクロン・テクノロジーの好決算を手掛かりに、人工知能や半導体関連株が買われた。 レーザーテックが11%、イビデンが9%それぞれ上昇した。
-  中文：总结：1日的东京股市中，日经平均股价继续上涨，收盘比前一天上涨2203日元（3. 3%），报6万8956日元。 受美国美光科技亮眼财报的线索推动，人工智能和半导体相关股票遭到买入。 Lasertec上涨11%，揖斐电上涨9%。
+  日本語：Tokyo stocks advanced on October 1, with the Nikkei Stock Average rising 2,203 yen, or 3. 3%, to close at 68,956 yen, reclaiming the 68,000 level for the first time in a month and a half. The rally was driven by artificial intelligence and semiconductor-related shares following strong earnings reports from U. S. -based Micron Technology. Lasertec gained 11% and Ibiden rose 9%.
+  中文：总结：东京股市在 10 月 1 日继续上涨，日经平均指数上涨 2203 日元（3. 3%），收于 68956 日元，为 1 个半月以来首次收复 68000 点关口。 受美国美光科技的强劲财报带动，人工智能和半导体相关股票遭到抢购。 Lasertec 上涨 11%，揖斐电（Ibiden）上涨 9%。
   📰 [日本経済新聞](https://www.nikkei.com/article/DGXZQOUB015D10R01C26A0000000/)
 
 - **[2026.10.01] ｄメニューニュース — ソフトバンクＧ、４．７兆円追加出資を完了**
-  日本語：ソフトバンクグループは1日、対話型AIを手掛ける米オープンAIへの300億ドル（約4兆7000億円）の追加出資を完了したと発表した。 累計出资額は646億ドル（約10兆円）、持ち分比率は約13%となった。
-  中文：总结：软银集团于1日宣布，已完成对开发对话式人工智能的美国OpenAI公司300亿美元（约合4. 7万亿日元）的追加出资。 累计出资额达到646亿美元（约合10万亿日元），持股比例约为13%。
+  日本語：SoftBank Group announced on October 1 that it has completed an additional $30 billion (approx. 4. 7 trillion yen) investment in OpenAI, the U. S. developer of the conversational AI ChatGPT. This brings SoftBank's cumulative investment to $64. 6 billion (approx. 10 trillion yen), resulting in an ownership stake of approximately 13%.
+  中文：总结：软银集团于 1 月 1 日宣布，已完成对对话式人工智能 ChatGPT 的美国开发商 OpenAI 的 300 billion 美元（约 4. 7 trillion 日元）追加出资。 这使其累计出资额达到 64. 6 billion 美元（约 10 trillion 日元），持股比例约为 13%。
   📰 [ｄメニューニュース](https://topics.smt.docomo.ne.jp/article/jiji/business/jiji-20261001Y801?utm_source=dnews&utm_medium=article&utm_campaign=contentsmatch18)
 
 - **[2026.10.01] Infoseek — 買収額は2,000億円超か…「TOB」思惑で株価17%上昇の〈注目銘柄〉【10月1日の国内株式市場概況】**
-  日本語：10月1日の日経平均株価は前日比2203. 00円高の6万8956. 72円で取引を終えた。 米マイクロン・テクノロジーの好決算や業績見通しが投資家心理を改善させ、アドバンテストや東京エレクトロンなどの半導体関連株が相場を牽引した。 個別銘柄では、東邦ホールディングスからの買収提案の事実を認めたPHCホールディングスが17. 76%高と急騰した一方、2027年3月期の連結業績予想を下方修正したメンバーズが16. 30%安と急落した。
-  中文：总结：10月1日的日经平均股价收盘比前一日上涨2,203. 00日元，报68,956. 72日元。 美国美光科技的优异财报和业绩预期改善了投资者心理，以爱德万测试和东京电子为首的半导体相关股票引领了行情。 在个股方面，承认收到东邦控股收购提议的PHC控股股价暴涨17. 76%，而下调2027年3月期合并业绩预期的Members则暴跌16. 30%。
+  日本語：The Nikkei Stock Average surged 2,203. 00 yen to close at 68,956. 72 on October 1, driven by robust AI and semiconductor stocks following strong earnings from Micron Technology. Advantest and Tokyo Electron heavily contributed to the gains. Among individual stocks, PHC Holdings jumped 17. 76% after confirming it received a non-binding preliminary acquisition proposal from Toho Holdings exceeding 200 billion yen.
+  中文：总结：受美光科技强劲财报提振，日经平均指数于 10 月 1 日暴涨 2203. 00 日元，收于 68956. 72 点，AI 及半导体相关股票走势强劲。 爱德万测试和东京电子对指数贡献巨大。 在个股中，PHC控股股价飙升 17. 76%，此前该公司承认收到东邦控股提出的、价值超过 200 billion 日元的无法律约束力初步收购提议。
   📰 [Infoseek](https://news.infoseek.co.jp/article/goldonline_82177/)
 
 - **[2026.10.01] Infoseek — 相場展望 米国株は軟調・長期金利が上昇、日経平均は独歩高**
-  日本語：米国株式市場でNYダウは米国長期金利の上昇やイラン情勢を巡る先行き不透明感から3営業日連続で下落し、9月30日は前日比443ドル安の5万0906ドルで引けた。 10年債利回りは一時5. 30%と2007年6月以来の高水準を付け、景気敏感株や金融株が売られた。 一方、中国の上海総合指数は9月28日に景気不安や工業企業利益の伸び率縮小から約2カ月ぶりの安値水準に下落したものの、中国人民銀行による資金供給策などが意識された。
-  中文：总结：在美国股市中，由于美国长期利率上升以及对伊朗局势前景的不确定性，道指连续三个交易日下跌，9月30日收盘比前一天下跌443美元，报50,906美元。 10年期国债收益率一度达到5. 30%，创下2007年6月以来的最高水平，景气敏感股和金融股遭到抛售。 另一方面，中国上证综指在9月28日因景气担忧和工业企业利润增速放缓而跌至约两个月来的低位，不过中国人民银行的资金投放政策等受到了关注。
+  日本語：U. S. stocks trended lower amid rising long-term Treasury yields, approaching 5. 30% for 10-year notes, driven by Middle East tensions pushing crude oil futures higher and growing pessimism over the U. S. economy. Meanwhile, the Nikkei average showed independent strength compared to the Dow Jones, and China's Shanghai Composite fell 1. 67% on September 28 due to economic uncertainty.
+  中文：总结：由于中东局势推高原油期货以及对美国经济的悲观情绪加剧，美国长期国债收益率不断攀升（10 年期国债收益率接近 5. 30%），美股整体走软。 与此同时，与道琼斯指数相比，日经平均指数表现出独立走势；由于经济不确定性，中国上证综指在 9 月 28 日下跌了 1. 67%。
   📰 [Infoseek](https://news.infoseek.co.jp/amp/article/zaikei_871973/)
 
 - **[2026.10.01] Moomoo — 【大口買い越しAI関連10銘柄】日経平均、上放れ3.3％高―マイクロン決算通過で買い安心感、金利高でも**
-  日本語：10月1日の東京市場では、米国の利上げ観測後退と米マイクロン・テクノロジーの好決算を受けたAI向けメモリー需要の強さから、日経平均株価が前日比3. 3%高の6万8956. 72円と大幅続伸した。 米10年債利回りが5. 3%を超えるなど金利高が続く中、キオクシアやアドバンテストなどのAI・半導体関連株に大口の買い越しが集中した。 キオクシアは5. 55%高の1万9100円で引け、日経平均は三角持ち合いを上抜けた。
-  中文：总结：10月1日的东京市场上，由于美国加息预期后退以及美国美光科技好财报所体现的强大AI存储需求，日经平均股价大幅续涨，比前一日上涨3. 3%至68,956. 72日元。 在美国10年期国债收益率超过5. 3%等高利率持续的情况下，大笔净买入集中在铠侠、爱德万测试等AI和半导体相关股票上。 铠侠收盘上涨5. 55%至19,100日元，日经平均指数向上突破了三角收敛形态。
+  日本語：Despite rising long-term interest rates, selective buying in AI and semiconductor stocks propelled the Nikkei 225 up 3. 3% to close at 68,956. 72 on October 1. Micron Technology's strong fiscal Q1 revenue guidance of $61. 5 billion at the median bolstered expectations for AI memory demand, lifting stocks like Kioxia, Advantest, and Tokyo Electron in Tokyo trading.
+  中文：总结：尽管长期利率持续上升，但对人工智能和半导体股票的选择性买盘推动日经 225 指数于 10 月 1 日上涨 3. 3%，收于 68956. 72 点。 美光科技公布的 2027 财年第一季度营收预期中位数为 615 billion 美元，提振了市场对人工智能内存需求的预期，带动东京市场的铠侠、爱德万测试和东京电子等股票上涨。
   📰 [Moomoo](https://www.moomoo.com/th/community/feed/top-10-ai-related-stocks-with-large-net-buying-the-117364456357894)
 
 - **[2026.10.01] マネーポストWEB — 【注目トピックス 市況・概況】後場に注目すべき3つのポイント～半導体関連主導で68000円台を回復**
-  日本語：1日の東京市場で日経平均は大幅続伸し、前場の終値は1602. 09円高の6万8355. 81円となった。 前日の米国市場でナスダックが堅調に推移したことや、米マイクロン・テクノロジーの好決算を受けた半導体関連の買いが主導し、6万8000円台を回復した。 アドバンテストや東京エレクトロンなどの値がさ半導体株が指数を大きく押し上げた一方、保険業や銀行業などのバリュー株が売られ、プライム市場全体の6割超が下落した。 ドル・円は米金利高を背景に158円台前半へと強含んだ。
-  中文：总结：1日的东京市场上日经平均指数大幅续涨，早盘收盘上涨1,602. 09日元，报68,355. 81日元。 受前一日美国市场上纳斯达克指数表现坚挺以及美国美光科技好财报提振下的半导体相关买盘主导，收复了68,000日元关口。 爱德万测试和东京电子等高价半导体股大幅推高了指数，而保险业和银行业等价值股遭到抛售，主板市场超过6成股票下跌。 受美债收益率走高背景影响，美元兑日元走强至158日元前半。
+  日本語：The Nikkei average surged 1,602. 09 yen to 68,355. 81 by the end of the morning session on October 1, driven primarily by semiconductor-related stocks. U. S. markets closed mixed as stable core PCE figures eased rate hike concerns, though rising oil prices lifted long-term yields and pressured the Dow Jones. In Tokyo, Advantest and Tokyo Electron led positive contributions.
+  中文：总结：截至 10 月 1 日早盘结束，日经平均指数大涨 1602. 09 点至 68355. 81 点，主要由半导体相关股票主导。 美国股市收盘涨跌互现，核心 PCE 数据稳定缓解了加息担忧，但油价上涨推高了长期收益率并对道琼斯指数造成压力。 在东京市场，爱德万测试和东京电子领涨。
   📰 [マネーポストWEB](https://www.moneypost.jp/1451117)
 
 - **[2026.10.01] ｄメニューニュース — 日経平均は続伸で寄り付く、半導体株が買い優勢 直近高値を上回る**
-  日本語：1日朝方の東京株式市場で日経平均は前営業日比0. 53%高の6万7106円52銭と続伸してスタートした。 米マイクロン・テクノロジーの予想を上回る決算が好感され、半導体関連株が買い優勢となり、直近の戻り高値を上回った。 東京エレクトロンやアドバンテスト、ソフトバンクグループがしっかりだった一方、トヨタ自動車や三菱UFJフィナンシャル・グループなどの銀行株は軟調だった。
-  中文：总结：1日早盘的东京股市中，日经平均指数比前一营业日上涨0. 53%至67,106. 52日元，连续上涨开盘。 受美国美光科技超预期的财报提振，半导体相关股票买盘占优，超越了近期反弹高点。 东京电子、爱德万测试和软银集团表现稳健，而丰田汽车和三菱UFJ金融集团等银行股则走软。
+  日本語：The Tokyo stock market opened higher on October 1, with the Nikkei average rising 0. 53% (352. 80 yen) to 67,106. 52, reclaiming the 67,000 level and surpassing the previous rebound high of 67,034. 74 set on September 28. Stronger-than-expected earnings from U. S. company Micron Technology boosted buying interest in semiconductor-related shares such as Tokyo Electron and Advantest.
+  中文：总结：东京股市 10 月 1 日开盘走高，日经平均指数上涨 0. 53%（352. 80 日元）至 67106. 52 点，收复 67000 点关口，并超过了 9 月 28 日创下的近期反弹高点 67034. 74 点。 美国美光科技超出预期的财报提振了东京电子和爱德万测试等半导体相关股票的买盘兴趣。
   📰 [ｄメニューニュース](https://topics.smt.docomo.ne.jp/article/reuters/business/reuters-20261001027)
 
 - **[2026.10.01] 行情快照 / Quote · Nikkei 225 — 日经225上涨3.30%**
@@ -92,43 +92,43 @@
 ## 🌍 宏观经济与投资 / Macro & Investment
 
 - **[2026.10.02] XTB.com — Daily Summary: Wall Street Recovers as Micron Shines and Oil Prices Rise Again**
-  English：US stock markets recovered most of their early session sell-off, supported by robust earnings from Micron and Accenture, alongside strong AI sector prospects. Micron reported record revenues of $54. 23 billion and an EPS of $33. 42, driven by immense AI infrastructure memory demand, achieving an 87% gross margin. Accenture saw shares rise nearly 20% after reporting annual revenue up 4% to $74. 2 billion and net profit up 8% to $8. 4 billion. Meanwhile, Donald Trump warned that US military action against Iran could resume after congressional elections if negotiations fail, while Washington pressured France and Germany to release strategic diesel reserves. US Treasury yields rose following the September ISM Manufacturing Index of 54. 5, and gold futures tested $4,200.
-  中文：总结：在美光和埃森哲强劲财报以及良好人工智能板块前景的支持下，美国股市收复了早盘的大部分跌幅。 美光公布创纪录的542. 3亿美元营收和33. 42美元的每股收益，这得益于巨大的人工智能基础设施内存需求，毛利率达到87%。 埃森哲在报告年度营收增长4%至742亿美元、净利润增长8%至8. 4亿美元后，股价上涨近20%。 与此同时，唐纳德·特朗普警告称，如果谈判失败，美国对伊朗的军事行动可能会在国会选举后恢复，而华盛顿则施压法国和德国释放战略柴油储备。 随着9月ISM制造业指数录得54. 5，美国国债收益率上升，黄金期货测试4,200美元。
+  English：Wall Street recovered early session losses with the S&P 500 up 0. 24% and Nasdaq 100 up 0. 54%, supported by Micron's record revenues of $54. 23 billion and adjusted EPS of $33. 42, alongside strong results from Accenture. Geopolitical risks persisted as Donald Trump warned of potential military action against Iran after congressional elections, while the U. S. pressured Europe to release strategic diesel reserves.
+  中文：总结：华尔街收复了盘初失地，标普 500 指数上涨 0. 24%，纳斯达克 100 指数上涨 0. 54%，这得益于美光创纪录的 54. 23 billion 美元营收和 33. 42 美元的调整后每股收益，以及埃森哲的强劲业绩。 地缘政治风险持续存在，唐纳德·特朗普警告称，如果未能达成协议，国会选举后可能会恢复对伊朗的军事行动，同时美国施压欧洲释放战略柴油储备。
   📰 [XTB.com](https://www.xtb.com/cy/market-analysis/news-and-research/daily-summary-wall-street-recovers-as-micron-shines-and-oil-prices-rise-again)
 
-- **[2026.10.02] finance.yahoo.com — Dollar hits 17-month high versus euro as bond selloff lifts yields**
-  English：The US dollar rose to a 17-month high against the euro, pushing the European currency below $1. 23 for the first time since May 2025, driven by a global bond sell-off and rising Treasury yields. Benchmark US 10-year Treasury yields reached their highest level since 2002 at 5. 272%, while French and German bond yields surged amid worries over public finances and higher energy-driven inflation. The dollar index rose 0. 57%, marking its sixth straight quarter of gains, supported by market expectations of continued central bank tightening and higher energy prices.
-  中文：总结：受全球债券抛售和美国国债收益率上升的推动，美元兑欧元汇率升至17个月高点，使欧洲货币自2025年5月以来首次跌破1. 123美元。 基准美国10年期国债收益率达到2002年以来的最高水平，报5. 272%，而法国和德国的债券收益率在对公共财政的担忧以及能源驱动的高通胀背景下飙升。 美元指数上涨0. 57%，标志着连续第六个季度上涨，这得到了市场对央行持续紧缩和较高能源价格的预期的支撑。
-  📰 [finance.yahoo.com](https://finance.yahoo.com/markets/currencies/articles/dollar-scales-three-month-peak-051853252.html)
+- **[2026.10.02] Yahoo Finance — Dollar hits 17-month high versus euro as bond selloff lifts yields**
+  English：The U. S. dollar rose to a 17-month high against the euro on October 1, trading below $1. 123, amid a global bond selloff driven by fiscal concerns, rising energy prices, and inflation fears. The benchmark U. S. 10-year Treasury yield dropped 2. 28 basis points to 5. 272% after touching its highest level since 2002 earlier in the session. Global bonds suffered their largest monthly decline in years during September.
+  中文：总结：受财政担忧、能源价格上涨和通胀恐慌引发的全球债券抛售推动，美元兑欧元于 10 月 1 日创下 17 个月新高，欧元兑美元跌至 1. 123 以下。 基准美国 10 年期国债收益率在触及 2002 年以来的最高水平后，下跌 2. 28 个基点至 5. 272%。 全球债券在 9 月份遭遇了多年来最大的月度跌幅。
+  📰 [Yahoo Finance](https://finance.yahoo.com/markets/currencies/articles/dollar-scales-three-month-peak-051853252.html)
 
 - **[2026.10.02] bloomingbit — Global Ultrawealthy Investors Await a Bigger Correction: Park Shin-young’s Pre-Market Brief**
-  English：The 10-year U. S. Treasury yield climbed to its highest level since 2002, reaching 5. 34% intraday, driven by increased Treasury supply, heavy government borrowing, and funding demands for AI infrastructure. Citi Wealth noted that a deeper S&P 500 correction would offer a buying opportunity, while Bank of America warned that a broader market correction could deepen if AI investments fail to generate actual profits. In energy policy, President Donald Trump stated he is still considering a ban on diesel exports to lower domestic prices, though he acknowledged it could inadvertently increase gasoline prices by tightening refinery product yields. Energy Secretary Chris Wright noted that US refiners are operating at record levels.
-  中文：总结：受国债供应增加、政府大量借款以及人工智能基础设施融资需求的推动，美国10年期国债收益率盘中攀升至2002年以来的最高水平，达到5. 34%。 花旗财富指出，标普500指数的更深幅回调将提供买入机会，而美国银行警告称，如果人工智能投资未能转化为实际利润，更广泛的市场回调可能会加深。 在能源政策方面，美国总统唐纳德·特朗普表示仍在考虑禁止柴油出口以降低国内价格，但他承认这可能会因收紧炼油厂产品产量而无意中推高汽油价格。 能源部长克里斯·赖特指出，美国炼油厂正以创纪录的水平运行。
+  English：The 10-year Treasury yield rose to its highest level since 2002, reaching 5. 34% intraday, lifting borrowing costs amid increased Treasury supply and wider term premiums. Citi Wealth indicated that a deeper S&P 500 pullback would present a buying opportunity, while BofA warned that a broader stock correction could deepen if AI investments fail to translate into profits. Meanwhile, U. S. President Donald Trump stated he is still considering a diesel export ban.
+  中文：总结：10 年期美债收益率盘中升至 5. 34%，创 2002 年以来最高水平，在美债供应增加和期限溢价扩大的背景下推高了借贷成本。 花旗财富表示，标普 500 指数更深的回调将提供买入机会，而美国银行则警告称，如果人工智能投资未能转化为利润，更广泛的股市回调可能会加深。 与此同时，美国总统唐纳德·特朗普表示仍在考虑禁止柴油出口。
   📰 [bloomingbit](https://en.bloomingbit.io/feed/news/121417)
 
-- **[2026.10.02] ca.finance.yahoo.com — USD/JPY (JPY=X) Live Rate, Chart & News**
-  English：The USD/JPY exchange rate recorded a previous close of 157. 3260 and an open of 157. 3310, with a day's range between 157. 2150 and 158. 4540. Its 52-week range spans from 146. 6090 to 163. 9790.
-  中文：总结：美元兑日元汇率前一收盘价为157. 3260，开盘价为157. 3310，日内波动区间在157. 2150至158. 4540之间。 其52周波动区间为146. 6090至163. 9790。
-  📰 [ca.finance.yahoo.com](https://ca.finance.yahoo.com/quote/JPY%3DX/)
+- **[2026.10.02] Yahoo! Finance Canada — USD/JPY (JPY=X) Live Rate, Chart & News**
+  English：USD/JPY live rate data shows previous close at 157. 3260, open at 157. 3310, bid at 157. 1850, and ask at 157. 2950, with a day's range of 157. 2150 to 158. 4540 and a 52-week range spanning from 146. 6090 to 163. 9790.
+  中文：总结：美元/日元实时汇率数据显示，前收盘价为 157. 3260，开盘价为 157. 3310，买入价为 157. 1850，卖出价为 157. 2950，日内波动区间为 157. 2150 至 158. 4540，52 周波动区间为 146. 6090 至 163. 9790。
+  📰 [Yahoo! Finance Canada](https://ca.finance.yahoo.com/quote/JPY%3DX/)
 
 - **[2026.10.01] qz.com — Japan PM Sanae Takaichi backs growth policy to support yen**
-  English：Japan's Prime Minister Sanae Takaichi stated that domestic economic policies focused on expanding supply capacity and high-growth industries will restore market confidence in the yen, rather than currency intervention. Takaichi confirmed she raised the yen's undervaluation with U. S. President Donald Trump, following a coordinated U. S. -Japan yen-buying intervention estimated by Bank of Japan data to have cost up to $36. 58 billion. U. S. Treasury Secretary Scott Bessent strongly supported Japan's steps. The joint action, combined with a 25-basis-point BOJ rate hike, propelled the yen to a 3. 3% quarterly advance against the dollar. Japan remains the largest foreign holder of U. S. government debt with over $1. 1 trillion.
-  中文：总结：日本首相高市早苗表示，专注于扩大供应能力和高增长产业的国内经济政策将恢复市场对日元的信心，而非依靠干预汇率。 高市早苗确认，在日美联合进行买入日元干预之后，她已与美国总统唐纳德·特朗普谈及日元被低估的问题，根据日本央行的数据，该干预的总成本可能高达365. 8亿美元。 美国财政部长斯科特·贝森特对日本的举措表示强烈支持。 联合行动加上日本央行25个基点的加息，推动日元兑美元取得了3. 3%的季度涨幅。 日本仍是美国政府债务最大的海外持有者，持有额超过1. 1万亿美元。
+  English：Japanese Prime Minister Sanae Takaichi stated that domestic economic policies focused on expanding supply capacity and competitiveness will restore market confidence in the yen, rather than currency intervention. Takaichi noted she discussed the yen's undervaluation with U. S. President Donald Trump. Previously, the U. S. Treasury and Japan's Ministry of Finance conducted a coordinated yen-buying operation costing up to $36. 58 billion.
+  中文：总结：日本首相高市早苗表示，恢复市场对日元信心的将是侧重于扩大供应能力和竞争力的国内经济政策，而不是干预汇率。 高市早苗指出，她曾与美国总统唐纳德·特朗普讨论过日元被低估的问题。 此前，美国财政部和日本财务省进行了耗资高达 36. 58 billion 美元的联合买入日元干预行动。
   📰 [qz.com](https://qz.com/japan-pm-takaichi-yen-economic-growth-policy-100126)
 
 - **[2026.10.01] CryptoRank — Gold Price Forecast: Morgan Stanley Sees $4,000 Floor After Selloff**
-  English：Morgan Stanley strategist Amy Gower views $4,000 as a price floor for gold and raised its 2026 target to $4,400, citing persistent physical demand, potential lower long-term bond yields, and declining oil-driven inflation. Central banks bought a net 23 metric tons in July, with China adding approximately 20 tons, while Chinese imports exceeded 1,000 tons in the first eight months of 2026. The primary headwind remains the U. S. 10-year Treasury yield, which surged above 5. 3% and competes with non-yielding gold.
-  中文：总结：摩根士丹利策略师Amy Gower将黄金的价格底部视为4,000美元，并将2026年的目标价上调至4,400美元，理由是持续的实物需求、潜在的长期债券收益率下降以及石油驱动的通胀减缓。 中央银行在7月份净买入了23公吨黄金，其中中国增持了约20吨，而中国在2026年前八个月的进口量超过了1,000吨。 主要的逆风仍然是美国10年期国债收益率，该收益率飙升至5. 3%以上，并对无息黄金构成竞争。
+  English：Morgan Stanley strategist Amy Gower stated that gold could find a price floor around $4,000, supported by persistent physical demand, potential lower long-term Treasury yields, and easing oil-driven inflation. Central banks purchased a net 23 metric tons of gold in July, with China adding approximately 20 tons and imports exceeding 1,000 tons in the first eight months of 2026. However, the U. S. 10-year Treasury yield remaining above 5. 3% poses a primary headwind.
+  中文：总结：摩根士丹利策略师艾米·高尔表示，在持续的实物需求、潜在的长期国债收益率下降以及石油驱动的通胀缓解的支持下，黄金价格可能会在 4000 美元附近找到底部。 央行在 7 月份净购入 23 公吨黄金，其中中国增持约 20 吨，2026 年前八个月进口量超过 1000 吨。 然而，美国 10 年期国债收益率保持在 5. 3% 以上仍然是主要的逆风。
   📰 [CryptoRank](https://cryptorank.io/news/feed/91e5c-gold-price-forecast-morgan-stanley-sees-4000-floor-after-selloff)
 
 - **[2026.10.01] Fortune — Current price of gold as of October 1, 2026**
-  English：Gold was priced at $4,177 per ounce at 9:05 a. m. Eastern Time, marking a $36 decrease from the previous day and a $313 increase compared to one year ago. Historical data from 1971 to 2024 shows stocks yielded an average annual return of 10. 7%, while gold averaged 7. 9%. Gold is widely utilized as a low-risk asset and a store of value during economic uncertainty. Investment methods range from physical bullion, coins, and jewelry to futures contracts and exchange-traded funds, with ETFs favored by financial advisors for easier portfolio rebalancing.
-  中文：总结：美国东部时间上午9点05分，黄金价格为每盎司4,177美元，较前一天下跌36美元，比一年前上涨313美元。 1971年至2024年的历史数据显示，股票的平均年回报率为10. 7%，而黄金的平均年回报率为7. 9%。 在经济不确定时期，黄金被广泛用作低风险资产和价值储存手段。 投资方式从实物金条、硬币和珠宝到期货合约和交易所交易基金，其中交易所交易基金因更便于投资组合再平衡而受到财务顾问的青睐。
+  English：Spot gold was priced at $4,177 per ounce as of 9:05 a. m. Eastern Time on October 1, 2026, marking a $36 decrease from the previous day but a $313 increase compared to one year ago. Historical data shows stocks averaged 10. 7% annual returns between 1971 and 2024, compared to 7. 9% for gold. Gold continues to be favored as a low-risk asset and store of value during economic uncertainty.
+  中文：总结：截至 2026 年 10 月 1 日美东时间上午 9:05，现货黄金价格为每盎司 4177 美元，较前一日下跌 36 美元，但比一年前上涨 313 美元。 历史数据显示，1971 年至 2024 年间股票的平均年回报率为 10. 7%，而黄金为 7. 9%。 在经济不确定性时期，黄金继续被视为低风险资产和价值储存手段而受到青睐。
   📰 [Fortune](https://fortune.com/article/current-price-of-gold-as-10-01-2026/)
 
 - **[2026.10.01] 24/7 Wall St. — Bitcoin Outperforms Stocks and Gold in September: What Surpassed Bitcoin?**
-  English：Bitcoin gained about 7% in September 2026, closing the month at $83,995, while the S&P 500 remained flat and gold declined over 6%. Smaller altcoins significantly outperformed Bitcoin, led by NEAR surging 186. 6% and Arbitrum climbing 137. 1%. The early September crypto rally was initially triggered by cooler-than-expected August inflation data that lowered Treasury yields and caused a short squeeze. Subsequently, institutional and corporate buyers provided a stable base, with U. S. spot Bitcoin ETFs attracting around $2. 4 billion over five days and Strategy acquiring 1,665 BTC to hold 847,666 BTC valued at $71. 2 billion. However, futures traders foresee a 64% probability of a Fed rate hike at the October 27-28 meeting.
-  中文：总结：比特币在2026年9月上涨了约7%，月底收于83,995美元，而标普500指数持平，黄金下跌超过6%。 较小的山寨币大幅跑赢比特币，其中NEAR飙升186. 6%，Arbitrum上涨137. 1%。 9月初的加密货币反弹最初是由低于预期的8月份通胀数据触发的，该数据降低了国债收益率并引发了空头回补。 随后，机构和企业买家提供了稳定的基础，美国现货比特币ETF在五天内吸引了约24亿美元，Strategy收购了1,665枚比特币，使其持有的比特币达到847,666枚，价值712亿美元。 然而，期货交易员预计美联储在10月27-28日会议上加息的概率为64%。
+  English：Bitcoin posted a 7% gain in September 2026, ending the month at $83,995, while some smaller altcoins like NEAR and Arbitrum surged by 186. 6% and 137. 1% respectively. The crypto market rally was initially triggered by lower-than-anticipated August inflation, causing short covering and liquidations. Bitcoin's gains were further supported by institutional buying, with U. S. spot ETFs drawing about $2. 4 billion between September 21 and September 25.
+  中文：总结：比特币在 2026 年 9 月实现约 7% 的涨幅，月底收于 839分别飙升 186. 6% 和 137. 1%。 加密市场反弹最初由低于预期的 8 月通货膨胀触发，导致空头回补和清算。 比特币的涨幅得到了机构买盘的进一步支撑，9 月 21 日至 25 日期间，美国现货比特币 ETF 吸引了约 2. 4 billion 美元的资金流入。
   📰 [24/7 Wall St.](https://247wallst.com/investing/cryptocurrency/2026/10/01/bitcoin-outperforms-stocks-and-gold-in-september-what-surpassed-bitcoin/)
 
 ---
