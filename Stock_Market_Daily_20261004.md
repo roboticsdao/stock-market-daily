@@ -101,9 +101,9 @@
   行情中文：截至 2026.10.03 06:00 JST，WTI原油较前收盘下跌1.90%。
   📰 [Yahoo Finance](https://finance.yahoo.com/quote/CL%3DF)
 
-- **[2026.10.04] 行情快照 / Quote · Bitcoin — 比特币上涨0.47%**
-  Quote: Bitcoin stood at 84,901.66 as of 2026.10.04 02:18 JST, 0.47% higher than the previous close.
-  行情中文：截至 2026.10.04 02:18 JST，比特币较前收盘上涨0.47%。
+- **[2026.10.04] 行情快照 / Quote · Bitcoin — 比特币上涨0.50%**
+  Quote: Bitcoin stood at 84,927.33 as of 2026.10.04 02:49 JST, 0.50% higher than the previous close.
+  行情中文：截至 2026.10.04 02:49 JST，比特币较前收盘上涨0.50%。
   📰 [Yahoo Finance](https://finance.yahoo.com/quote/BTC-USD)
 
 ---
