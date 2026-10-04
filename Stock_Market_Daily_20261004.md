@@ -81,9 +81,9 @@
 
 ## 🌍 宏观经济与投资 / Macro & Investment
 
-- **[2026.10.03] 行情快照 / Quote · USD/JPY — 美元兑日元下跌0.14%**
-  Quote: USD/JPY stood at 157.83 as of 2026.10.03 13:21 JST, 0.14% lower than the previous close.
-  行情中文：截至 2026.10.03 13:21 JST，美元兑日元较前收盘下跌0.14%。
+- **[2026.10.04] 行情快照 / Quote · USD/JPY — 美元兑日元下跌0.14%**
+  Quote: USD/JPY stood at 157.83 as of 2026.10.04 06:07 JST, 0.14% lower than the previous close.
+  行情中文：截至 2026.10.04 06:07 JST，美元兑日元较前收盘下跌0.14%。
   📰 [Yahoo Finance](https://finance.yahoo.com/quote/JPY%3DX)
 
 - **[2026.10.03] 行情快照 / Quote · US 10Y Yield — 美国10年期国债收益率上涨0.76%**
@@ -101,9 +101,9 @@
   行情中文：截至 2026.10.03 06:00 JST，WTI原油较前收盘下跌1.90%。
   📰 [Yahoo Finance](https://finance.yahoo.com/quote/CL%3DF)
 
-- **[2026.10.04] 行情快照 / Quote · Bitcoin — 比特币上涨0.50%**
-  Quote: Bitcoin stood at 84,927.33 as of 2026.10.04 02:49 JST, 0.50% higher than the previous close.
-  行情中文：截至 2026.10.04 02:49 JST，比特币较前收盘上涨0.50%。
+- **[2026.10.04] 行情快照 / Quote · Bitcoin — 比特币上涨0.09%**
+  Quote: Bitcoin stood at 84,822.72 as of 2026.10.04 11:26 JST, 0.09% higher than the previous close.
+  行情中文：截至 2026.10.04 11:26 JST，比特币较前收盘上涨0.09%。
   📰 [Yahoo Finance](https://finance.yahoo.com/quote/BTC-USD)
 
 ---
