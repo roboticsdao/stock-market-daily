@@ -18,13 +18,16 @@ concurrency:
 jobs:
   generate:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+    timeout-minutes: 15
     steps:
       - uses: actions/checkout@v5
+        with:
+          ref: main
+          fetch-depth: 0
       - uses: actions/setup-python@v6
         with:
           python-version: '3.13'
-      - run: pip install google-genai googlenewsdecoder==0.1.7 trafilatura==2.2.0
+      - run: python -m pip install -r requirements.txt
       - name: Test
         run: python -m unittest discover -v
       - name: Setup git
@@ -35,9 +38,9 @@ jobs:
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           PUBLISH: 'false'
-        run: python news_digest.py
+        run: python -u news_digest.py
       - name: Push
         run: |
-          git add latest.html *.html *.md history.json || true
+          git add latest.html Stock_Market_Daily_*.html Stock_Market_Daily_*.md history.json
           git diff --cached --quiet || git commit -m "update $(date -u +%Y.%m.%d)"
-          git push
+          bash .github/scripts/push-generated.sh

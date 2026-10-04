@@ -1,0 +1,5 @@
+google-genai==2.28.0
+googlenewsdecoder==0.1.7
+trafilatura==2.2.0
+# googlenewsdecoder 0.1.7 imports the Modest parser removed in selectolax 1.0.
+selectolax==0.4.13

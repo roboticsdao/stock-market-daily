@@ -9,7 +9,7 @@ from difflib import SequenceMatcher
 from datetime import datetime, timezone, timedelta
 from pathlib import Path
 
-from article_summaries import deduplicate_summaries, enrich_articles, remove_repeated_summary_sentences, summarize_articles, summary_quality_issues
+from article_summaries import deduplicate_summaries, enrich_articles, fetch_rss_bytes, remove_repeated_summary_sentences, summarize_articles, summary_quality_issues
 
 # ╔═══════════════════════════════════════════════════════════╗
 # ║  CONFIG — 日美股市新闻播报                                 ║
@@ -177,6 +177,8 @@ def digest_quality_issues(text):
         lang_a = "cjk" if re.search(r"[\u3040-\u30ff\u3400-\u9fff]", summary_a) else "en"
         norm_a = re.sub(r"\s+", "", summary_a).lower()
         for title_b, summary_b in records[i + 1:]:
+            if title_a == title_b:
+                continue
             lang_b = "cjk" if re.search(r"[\u3040-\u30ff\u3400-\u9fff]", summary_b) else "en"
             if lang_a != lang_b:
                 continue
@@ -239,8 +241,7 @@ def fetch_rss_items(sec, limit=8):
         url = "https://news.google.com/rss/search?" + urllib.parse.urlencode(params)
         req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0"})
         try:
-            with urllib.request.urlopen(req, timeout=25) as response:
-                root = ET.fromstring(response.read())
+            root = ET.fromstring(fetch_rss_bytes(req))
         except Exception as ex:
             print(f"   {sec['emoji']} RSS query failed: {query[:70]}... ({ex})")
             continue
@@ -264,8 +265,8 @@ def fetch_rss_items(sec, limit=8):
             try:
                 dt = datetime.strptime(published, "%a, %d %b %Y %H:%M:%S %Z").replace(tzinfo=timezone.utc).astimezone(LOCAL_TZ)
             except Exception:
-                dt = TODAY
-            if dt < NEWS_CUTOFF:
+                continue
+            if dt < NEWS_CUTOFF or dt > TODAY:
                 continue
             seen.add(key)
             items.append({"date": dt.strftime("%Y.%m.%d"), "headline": headline, "source": source, "link": link, "dt": dt})
@@ -491,6 +492,9 @@ def is_relevant_market_item(sec, headline):
         "no-brainer", "better buy", "is a buy now", "i'd buy", "top stocks", "top 5 picks", "dark horse",
         "best drone stocks", "how to invest", "could send", "could also crash", "in july", "mioeqy", "mshale",
         "international stock market performance", "to buy now",
+        "株価・株式情報", "latest stock news and headlines", "share market live",
+        "stocks to watch", "better ai buy", "screaming buy", "too late to buy",
+        "could be worth", "investment split", "building a crypto portfolio",
     ]
     if any(term in lower for term in blocked) or re.search(r"[\u0600-\u06ff\uac00-\ud7af]", headline):
         return False
@@ -768,9 +772,12 @@ def generate_digest():
                 f"{zh_line}"
                 f"  📰 [{item['source']}]({item['link']})"
             )
-        if len(lines) < CONFIG["items_per_section"]:
-            lines.extend(market_snapshot_items(sec)[: CONFIG["items_per_section"] - len(lines)])
-        parts.append("\n\n".join(lines) if lines else f"- **[{DATE_STR}] 暂无更新 — No readable article**\n  中文：近期文章正文无法可靠读取，因此未生成推测性摘要。")
+        if not lines:
+            raise RuntimeError(f"No readable fresh news for {sec['label']}; keeping the previous complete edition")
+        print(f"   {sec['label']}: {len(items)} news articles")
+        # Quotes supplement news. Never count them toward the news requirement.
+        lines.extend(market_snapshot_items(sec)[:2])
+        parts.append("\n\n".join(lines))
     parts.append(f"\n---\n※{CONFIG['title']} Digest | {DATE_STR}")
     return "\n".join(parts)
 

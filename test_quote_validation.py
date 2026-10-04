@@ -5,6 +5,17 @@ import news_digest as news
 
 
 class QuoteValidationTests(unittest.TestCase):
+    def test_same_story_bilingual_summaries_do_not_block_publication(self):
+        body = 'ARM announced a chip design partnership with two manufacturers and published details of its licensing contract.'
+        digest = f'- **[{news.DATE_STR}] ARM partnership**\n  English: {body}\n  中文：总结：{body}'
+        self.assertEqual([], news.digest_quality_issues(digest))
+
+    def test_quotes_cannot_replace_all_news(self):
+        with patch.object(news, 'fetch_rss_items', return_value=[]), patch.object(news, 'enrich_articles', return_value=[]), patch.object(news, 'market_snapshot_items') as quotes:
+            with self.assertRaisesRegex(RuntimeError, 'No readable fresh news'):
+                news.generate_digest()
+        quotes.assert_not_called()
+
     def test_similar_quotes_do_not_block_publication(self):
         def quote(symbol):
             return dict(price=100, pct=-0.58, time='2026.09.18 22:30 JST')
