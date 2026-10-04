@@ -7,6 +7,46 @@
 
 ## 🇺🇸 美国股市 / US Market
 
+- **[2026.10.05] TIKR.com — Tesla Delivered 22,141 More Vehicles Than It Built in Q3. Here’s the Production Number That Decides What Comes Next**
+  English：Tesla delivered 486,532 vehicles in the third quarter of 2026 while building 464,391, marking its second consecutive quarter where deliveries exceeded production. Deliveries beat the analyst consensus of around 462,000, and shares closed up 4.65% at $370.59 on October 2. The 22,141-vehicle gap followed a 28,368-vehicle surplus in the second quarter. Chief Financial Officer Vaibhav Taneja stated on the July 22 earnings call that production growth is limited by the supply chain, including batteries and electronic components, and that operating expenses driven by R&D will continue to grow in 2026 and beyond. Energy storage deployments reached 13.7 GWh, missing the 15.9 GWh consensus. Deliveries fell 2.1% year-over-year from 497,099 vehicles, compared to a prior period boosted by expiring U. S. tax credits.
+  中文：总结：特斯拉在2026年第三季度交付了486,532辆汽车，产量为464,391辆，这是交付量连续第二个季度超过产量。 交付量超出了约462,000辆的分析师共识，股价在10月2日收盘上涨4.65%至$370.59。 22,141辆的差距继第二季度28,368辆的过剩之后出现。 首席财务官Vaibhav Taneja在7月22日的财报电话会议上表示，产能增长受到包括电池和电子元件在内的供应链限制，且主要由研发驱动的运营费用在2026年及以后将继续增长。 储能部署达到13.7 GWh，未达到15.9 GWh的共识。 交付量同比下降2.1%，上一同期曾受美国即将到期的税收抵免推动。
+  📰 [TIKR.com](https://www.tikr.com/blog/tesla-delivered-22141-more-vehicles-than-it-built-in-q3-heres-the-production-number-that-decides-what-comes-next)
+
+- **[2026.10.05] 24/7 Wall St. — Amazon Wants to Move $8 Billion in Nvidia Chips Off Its Books. Is AI's Financing Model Starting to Change?**
+  English：Amazon is in talks to move $8 billion of NVIDIA Grace Blackwell chips into a special purpose vehicle, according to the Financial Times. The vehicle would sell debt to outside investors, buy the chips, and lease them back to Amazon, while Amazon keeps up to 10% of the equity and maintains its credit rating by shifting obligations into lease disclosures. Amazon reported $54.2 billion in second-quarter capital spending, up 68% year-over-year, and Andy Jassy committed to about $200 billion in spending for 2026, with negative free cash flow of -$7.6 billion and long-term debt rising to $119.1 billion. NVIDIA stated that Grace Blackwell delivers token costs 35X higher than Vera Rubin and generates about $25 billion per gigawatt of revenue compared to roughly $40 billion for Vera Rubin. Jassy noted on a July earnings call that servers take slightly under three years to break even and last five to six years.
+  中文：总结：据《金融时报》报道，亚马逊正在洽谈将80亿美元的NVIDIA Grace Blackwell芯片转移到一个特殊目的实体中。 该实体将向外部投资者出售债务、购买芯片并将其回租给亚马逊，同时亚马逊保留高达10%的股权，并通过将债务转入租赁披露来保护其信用评级。 亚马逊第二季度资本支出为542亿美元，同比增长68%，Andy Jassy承诺2026年支出约为$200 billion，自由现金流为负76亿美元，长期债务升至1191亿美元。 NVIDIA表示，Grace Blackwell的Token成本是Vera Rubin的35倍，每吉瓦收入约为$25 billion，而Vera Rubin约为$40 billion。 Jassy在7月的财报电话会议上指出，服务器回收成本不到三年，使用寿命为五到六年。
+  📰 [24/7 Wall St.](https://247wallst.com/investing/2026/10/04/amazon-wants-to-move-8-billion-in-nvidia-chips-off-its-books-is-ais-financing-model-starting-to-change/)
+
+- **[2026.10.04] Simply Wall Street — Marvell Stock And 2 US Industrial Policy Plays Backed By National Security Spending**
+  English：Marvell Technology designs data infrastructure semiconductors, generating about US$9.5b from integrated circuits with US$3.9b in China and US$0.9b in the United States, and holds a market cap of US$238.8b. Management guided optical interconnect at 50%+ YoY growth in FY2027. Tutor Perini builds large civil infrastructure, generating about US$3.3b from Civil projects, US$2.1b from Building work, and US$1.0b from Specialty Contractors with US$5.5b earned in the United States, and a market cap of US$4.6b. Its record backlog exceeds $21 billion, though workforce and technology costs could pressure earnings. Perimeter Solutions supplies wildfire retardants and firefighting foams, generating about US$506 million from Fire Safety and US$251 million from Specialty Products mostly across the United States, with a market cap of US$4.5b.
+  中文：总结：Marvell Technology设计数据基础设施半导体，集成电路收入约为US$9.5b，其中中国市场约为US$3.9b，美国市场约为US$0.9b，市值为US$238.8b。 管理层预计2027财日光纤互连业务同比增长50%以上。 Tutor Perini承建大型民用基础设施，民用项目收入约为US$3.3b，建筑工程约为US$2.1b，专业承包商约为$1.0b，在美国获得约US$5.5b收入，市值为US$4.6b。 其创纪录的未完成订单超过$21 billion，尽管劳动力和技术成本可能对盈利构成压力。 Perimeter Solutions供应野火阻燃剂和消防泡沫，防火安全收入约为US$506 million，专业产品收入约为US$251 million，主要集中在美国，市值为US$4.5b。
+  📰 [Simply Wall Street](https://simplywall.st/stocks/us/semiconductors/nasdaq-mrvl/marvell-technology/news/marvell-stock-and-2-us-industrial-policy-plays-backed-by-nat/amp)
+
+- **[2026.10.04] Yahoo Finance — Gary Black Flags Waymo Is Leaving TSLA Behind On Autonomy Even As Tesla Beats Delivery Estimates In Q3**
+  English：Tesla delivered 486,532 vehicles in the third quarter, beating the analyst consensus of 461,974 and marking its second consecutive major delivery beat. Third-quarter deliveries fell 2% year-over-year when compared against a record Q3 last year near the expiration of the $7,500 EV tax credit, following a Q2 blowout where Tesla delivered roughly 480,000 vehicles against expectations of about 406,000. The Future Fund managing partner Gary Black noted in a post on X that investor focus is shifting to Tesla's ability to scale unsupervised autonomy, where its Full Self-Driving technology is viewed as superior to competitors. However, Black stated that Tesla's scale-up has fallen far short of management's guidance, pointing to previous targets for unsupervised autonomy without safety drivers in eight to 10 metro areas by the end of 2025.
+  中文：总结：特斯拉在第三季度交付了486,532辆汽车，超过了分析师461,974辆的共识，标志着其连续第二次重大交付超预期。 在去年同期7500美元电动汽车税收抵免即将到期创下纪录的背景下，第三季度交付量同比下降2%，此前第二季度特斯拉交付了约480,000辆汽车，而华尔街预期约为406,000辆。 The Future Fund管理合伙人Gary Black在X平台上发文指出，投资者的焦点正转向特斯拉扩展无人监督自动驾驶能力的能力，其全自动驾驶技术被认为优于竞争对手。 然而，Black表示，特斯拉的规模化进程远远落后于管理层的指引，他指出此前曾设定目标，要在2025年底前在8到10个大都市区实现没有安全员的无人监督自动驾驶。
+  📰 [Yahoo Finance](https://finance.yahoo.com/markets/stocks/articles/gary-black-flags-waymo-leaving-105245308.html)
+
+- **[2026.10.04] The Motley Fool — Not Intel. Not Nvidia. The $2.4 Trillion Chipmaker That Wall Street Calls the Ultimate AI "Picks-and-Shovels" Play**
+  English：Taiwan Semiconductor Manufacturing, or TSMC, had revenue of $143 billion during the past 12 months, with revenue rising 34% year-over-year last quarter. The company's high performance compute segment increased 20% quarter-over-quarter and accounts for 66% of overall business. TSMC reported an operating margin of 60% last quarter. The company is the sole manufacturer for Nvidia and produces chips for Apple and hyperscalers, while also manufacturing advanced chips for Intel through outsourcing. TSMC plans to invest $265 billion in U. S. factories to diversify its manufacturing operations outside Taiwan. Its trailing price-to-earnings ratio is 33, and it faces potential risks if AI training and usage investments by companies like OpenAI and Anthropic slow down.
+  中文：总结：台湾积体电路制造公司（简称台积电）过去12个月的营收为1430亿美元，上季度营收同比增长34%。 该公司的高性能计算部门环比增长20%，占整体业务的66%。 台积电报告上季度的营业利润率为60%。 该公司是Nvidia的独家制造商，并为苹果和超大规模数据中心生产芯片，同时也为英特尔代工生产先进芯片。 台积电计划在美国工厂投资2650亿美元，以实现台湾以外制造业务的多样化。 其滚动市盈率为33倍，如果OpenAI和Anthropic等公司对人工智能训练和使用的投资放缓，该公司将面临潜在风险。
+  📰 [The Motley Fool](https://www.fool.com/investing/2026/10/04/not-intel-not-nvidia-the-24-trillion-chipmaker-tha/)
+
+- **[2026.10.04] Simply Wall Street — How Strong Earnings At Dycom Industries (DY) Has Changed Its Investment Story**
+  English：Dycom Industries reported Q2 FY27 earnings of $115.64 million with a 5.76% profit margin, supporting its role in U. S. digital, telecom, and utility infrastructure projects. The business is tied to long-term fiber and broadband buildouts, driven by demand for fiber to the home, data center connectivity, and BEAD-funded broadband work. The company holds a backlog of roughly US$12.2b, including over US$1b of contracted fiber corridors. Analyst consensus points to revenues of US$10.0b and earnings of US$631.4 million by 2029, based on an assumed 13.3% yearly revenue growth rate. Meanwhile, pessimistic views highlight wireless program timing risk, noting a US$150 million shift of wireless revenue into fiscal 2028.
+  中文：总结：Dycom Industries公布2027财年第二季度盈利11564万美元，利润率为5.76%，体现了其在通信和建筑系统部门中美国数字、电信和公用事业基础设施项目的作用。 该业务与长期光纤和宽带建设紧密相连，对到户光纤、数据中心连接和BEAD资助的宽带工作的需求塑造了公司的合同组合和收入能见度。 该公司拥有约122亿美元的积压订单，其中包括超过10亿美元的签约光纤走廊。 分析师一致预期到2029年营收将达到100亿美元，盈利将达到$631.4 million，这是基于假设的13.3%年收入增长率计算得出的。 同时，悲观观点强调了无线项目的时间安排风险，指出有1.5亿美元的无线收入转移到了2028财年。
+  📰 [Simply Wall Street](https://simplywall.st/stocks/us/capital-goods/nyse-dy/dycom-industries/news/how-strong-earnings-at-dycom-industries-dy-has-changed-its-i)
+
+- **[2026.10.04] The Motley Fool — Micron Technology vs. Qualcomm: What Revenue Trends Tell Investors About These Tech Companies**
+  English：Micron Technology manufactures and sells advanced semiconductor memory and storage solutions, having established long-term strategic supply agreements with automotive manufacturers like General Motors and Ford Motor Company while pouring the first concrete for a new domestic fabrication facility in New York. Qualcomm supplies advanced wireless communication technologies and licenses its intellectual property, having renewed a global patent licensing agreement with Apple through the end of the decade and secured a long-term computing supply agreement with BMW Group. Qualcomm experienced a sales decline in 2026, driven by soaring component prices such as computer memory resulting from Micron's surging sales, which compressed margins and reduced consumer demand for smartphone handsets, prompting Qualcomm to shift focus toward the AI data center market and capture Amazon as a customer in September.
+  中文：总结：美光科技制造并销售先进的半导体存储和存储解决方案，已与通用汽车和福特汽车公司等汽车制造商建立了长期的战略供应协议，同时为其在纽约的新国内半导体制造厂浇筑了第一批混凝土。 高通公司供应先进的无线通信技术并授权其知识产权，已与苹果续签了持续到本十年末的全球专利许可协议，并获得了宝马集团的长期计算供应协议。 高通在2026年经历了销售额下降，这主要是由于美光销售激增导致计算机内存等组件价格飙升，从而压缩了利润率并降低了消费者对智能手机的需求，这促使高通将重心转向AI数据中心市场，并在9月份拿下了亚马逊作为客户。
+  📰 [The Motley Fool](https://www.fool.com/coverage/charts/2026/10/04/micron-technology-vs-qualcomm-what-revenue-trends-tell-investors-about-these-tech-companies/)
+
+- **[2026.10.04] Stocktwits — S&P 500, Nasdaq, Dow Futures Edge Higher Ahead Of Fed Rate Decision: INTC, SNAP, SOFI, RUM In Focus**
+  English：U. S. stock futures rose in overnight trading following a mixed Wall Street session as easing oil prices and optimism around a potential Iran peace deal supported sentiment ahead of the Federal Reserve's policy meeting under Chair Kevin Warsh. On Tuesday, the Dow Jones Industrial Average rose 0.64% to a record close, while the S&P 500 fell 0.57% and the Nasdaq dropped 1.15% as investors rotated out of technology shares. Financial companies led gains with the Financial Select Sector SPDR ETF closing up nearly 1.5%. Intel announced the production of its 18A-P chip process at the VLSI Symposium in Hawaii, Snap unveiled its $2,195 Specs augmented reality glasses at the Augmented World Expo 2026, Rumble secured control of about 85.2% of Northern Data's shares, and SoFi CEO Anthony Noto purchased over $250,000 in company shares.
+  中文：总结：在油价下跌以及对潜在伊朗和平协议的乐观情绪支持下，在美联储在主席凯文·沃什领导下的首次政策会议召开之前，美股期货在隔夜交易中上涨。 周二，道琼斯工业平均指数上涨0.64%创下收盘纪录，而标普500指数下跌0.57%，纳斯达克指数下跌1.15%，因投资者从科技股中轮动流出。 金融公司引领涨势，金融选择行业SPDR ETF收盘上涨近1.5%。 英特尔在夏威夷的VLSI研讨会上宣布开始生产18A-P芯片工艺，Snap在2026年增强现实博览会上发布了售价2195美元的Specs增强现实眼镜，Rumble获得了Northern Data约85.2%的股份控制权，SoFi首席执行官安东尼·诺托购买了价值超过25万美元的公司股份。
+  📰 [Stocktwits](https://stocktwits.com/news-articles/markets/equity/sp500-nasdaq-dow-futures-edge-higher-ahead-of-fed-rate-decision/cZK0WgFR74u)
+
 - **[2026.10.03] 行情快照 / Quote · S&P 500 — 标普500上涨0.73%**
   Quote: S&P 500 stood at 7,722.72 as of 2026.10.03 05:59 JST, 0.73% higher than the previous close.
   行情中文：截至 2026.10.03 05:59 JST，标普500较前收盘上涨0.73%。
@@ -17,37 +57,17 @@
   行情中文：截至 2026.10.03 06:15 JST，纳斯达克综合指数较前收盘上涨1.19%。
   📰 [Yahoo Finance](https://finance.yahoo.com/quote/%5EIXIC)
 
-- **[2026.10.03] 行情快照 / Quote · NVIDIA — 英伟达上涨1.34%**
-  Quote: NVIDIA stood at 233.95 as of 2026.10.03 05:00 JST, 1.34% higher than the previous close.
-  行情中文：截至 2026.10.03 05:00 JST，英伟达较前收盘上涨1.34%。
-  📰 [Yahoo Finance](https://finance.yahoo.com/quote/NVDA)
-
-- **[2026.10.03] 行情快照 / Quote · Apple — 苹果上涨1.02%**
-  Quote: Apple stood at 333.69 as of 2026.10.03 05:00 JST, 1.02% higher than the previous close.
-  行情中文：截至 2026.10.03 05:00 JST，苹果较前收盘上涨1.02%。
-  📰 [Yahoo Finance](https://finance.yahoo.com/quote/AAPL)
-
-- **[2026.10.03] 行情快照 / Quote · Microsoft — 微软上涨0.92%**
-  Quote: Microsoft stood at 517.53 as of 2026.10.03 05:00 JST, 0.92% higher than the previous close.
-  行情中文：截至 2026.10.03 05:00 JST，微软较前收盘上涨0.92%。
-  📰 [Yahoo Finance](https://finance.yahoo.com/quote/MSFT)
-
-- **[2026.10.03] 行情快照 / Quote · Tesla — 特斯拉上涨4.65%**
-  Quote: Tesla stood at 370.59 as of 2026.10.03 05:00 JST, 4.65% higher than the previous close.
-  行情中文：截至 2026.10.03 05:00 JST，特斯拉较前收盘上涨4.65%。
-  📰 [Yahoo Finance](https://finance.yahoo.com/quote/TSLA)
-
-- **[2026.10.03] 行情快照 / Quote · Broadcom — 博通上涨3.35%**
-  Quote: Broadcom stood at 355.14 as of 2026.10.03 05:00 JST, 3.35% higher than the previous close.
-  行情中文：截至 2026.10.03 05:00 JST，博通较前收盘上涨3.35%。
-  📰 [Yahoo Finance](https://finance.yahoo.com/quote/AVGO)
-
-- **[2026.10.03] 行情快照 / Quote · AMD — 超威半导体上涨2.95%**
-  Quote: AMD stood at 633.91 as of 2026.10.03 05:00 JST, 2.95% higher than the previous close.
-  行情中文：截至 2026.10.03 05:00 JST，超威半导体较前收盘上涨2.95%。
-  📰 [Yahoo Finance](https://finance.yahoo.com/quote/AMD)
-
 ## 🇯🇵 日本株式市場 / Japan Market
+
+- **[2026.10.04] moneypost.jp — 【日本株週間見通し】国内機関投資家の資金はAI関連株へ向かっているか 長期金利の動向に警戒しつつテーマ物色の流れも**
+  日本語：先週の日経平均株価は前週末比1945.26円高（＋2.9％）の68309.46円で取引を終了した。 週初は売りが優勢だったものの、週後半にかけては米半導体株高や米マイクロン社の好決算、下半期入りに伴う機関投資家のポートフォリオ入れ替えなどを背景に、人工知能（AI）・半導体関連株に買いが集まり大幅上昇となった。 一方、米債券市場では10年物国債利回りが一時5.34％と約24年ぶりの高水準に達し、FRB高官らが追加利上げを急ぐ必要はないとの見解を示したものの、利回り上昇が続く形となった。 また、2日発表の9月の東京都区部消費者物価指数は前年比2.7％上昇となり、インフレ懸念が拭えない中、5日召集の臨時国会や高市首相の所信表明演説を控えて財政拡張への警戒感も意識されている。 国内機関投資家の資金はAI関連株に向かっているとみられ、AI開発の規制強化懸念の後退も買い安心感につながったが、米中間選挙の動向次第では再度規制強化への警戒感が強まる余地も残されている。
+  中文：总结：上周日经平均指数较前周末上涨1945.26点（＋2.9％），以68309.46点收盘。 周初虽以抛售为主，但随着美股半导体走强、美光科技发布超预期财报以及机构投资者在下半年初调整投资组合，人工智能（AI）与半导体相关股票在周中前后受到资金追捧，出现大幅上涨。 另一方面，美国债市中10年期国债收益率一度触及5.34％，创下约24年来的最高水平，尽管美联储官员表态无需急于进一步加息，但收益率仍持续上升。 此外，2日公布的9月东京区部消费者物价指数同比上涨2.7％，在通胀隐忧挥之不去的情况下，随着5日召开临时国会及高市首相发表施政演说，市场对财政扩张的警惕情绪也随之升温。 国内机构投资者的资金流向了AI相关股票，AI开发监管担忧的缓和也带来了买入安心感，但根据美国中期选举的走势，未来仍留有再度引发监管担忧的空间。
+  📰 [moneypost.jp](https://www.moneypost.jp/1451781)
+
+- **[2026.10.04] ダイヤモンド・オンライン — AI投資への“依存度”高める世界経済の脆弱性、マクロ経済予測が問う「AI株価」の妥当性**
+  日本語：世界経済は、トランプ関税やイラン紛争などの相次ぐショックにもかかわらず底堅い成長を続けてきたが、その背景にはAI投資ブームへの大きな依存がある。 今年上半期の世界貿易の前年比伸び率4.5％超の約半分はAI投資ブームが寄与しており、今年のGPD成長率においても0.3％ポイントがAIブームによる消費と投資の押し上げ効果によるものと推計されている。 第2四半期の世界の投資の伸びにおいてもAI関連の寄与度は1％ポイントに及び、米国を中心とした株高による資産効果が個人消費を押し上げている。 しかし、この高い依存度は世界経済の脆弱性をも示しており、米国でもAI関連以外の経済活動に勢いはなく、投資の伸びをAI関連の寄与を除いて計算すると約2％縮小していた計算となる。 G7諸国におけるAI関連投資の伸びはずっと鈍く、米国の個人消費も株高の恩恵を受ける富裕層頼みとなっており、金融市場ではAI投資の持続性に対する懸念が高まっている。
+  中文：总结：尽管面临特朗普关税、伊朗冲突等接连不断的冲击，世界经济仍保持了稳健增长，其背后很大程度上依赖于人工智能（AI）投资热潮。 今年上半年全球贸易同比增长4.5％以上的增幅中，约有一半归功于AI投资热潮的贡献，今年全球GDP增长率中预计也有0.3个百分点来自AI热潮带来的消费和投资提振效应。 在第二季度全球投资增长中，AI相关的贡献度也接近1个百分点，以美国为中心的股市上涨所带来的资产效应推高了个人消费。 然而，这种对AI热潮的高度依赖也暴露了世界经济的潜在脆弱性，即使在美国，AI相关以外的经济活动也缺乏动能，若剔除AI相关贡献，美国投资增长率实际萎缩了约2％。 G7其他国家的AI相关投资增长则持续迟缓，美国的个人消费也依赖于享受股市上涨红利的高收入阶层，金融市场对AI投资的可持续性的担忧正在加剧。
+  📰 [ダイヤモンド・オンライン](https://diamond.jp/articles/-/400381)
 
 - **[2026.10.02] 行情快照 / Quote · Nikkei 225 — 日经225下跌0.94%**
   行情日本語：日经225（Nikkei 225）は2026.10.02 15:45 JST時点で68,309.46となり、前日終値比で0.94%下落しています。
@@ -59,27 +79,47 @@
   行情中文：截至 2026.10.02 15:30 JST，东京电子较前收盘下跌3.82%。
   📰 [Yahoo Finance](https://finance.yahoo.com/quote/8035.T)
 
-- **[2026.10.02] 行情快照 / Quote · Advantest — 爱德万测试上涨2.71%**
-  行情日本語：爱德万测试（Advantest）は2026.10.02 15:30 JST時点で38,630.00となり、前日終値比で2.71%上昇しています。
-  行情中文：截至 2026.10.02 15:30 JST，爱德万测试较前收盘上涨2.71%。
-  📰 [Yahoo Finance](https://finance.yahoo.com/quote/6857.T)
-
-- **[2026.10.02] 行情快照 / Quote · SoftBank Group — 软银集团下跌5.83%**
-  行情日本語：软银集团（SoftBank Group）は2026.10.02 15:30 JST時点で6,310.00となり、前日終値比で5.83%下落しています。
-  行情中文：截至 2026.10.02 15:30 JST，软银集团较前收盘下跌5.83%。
-  📰 [Yahoo Finance](https://finance.yahoo.com/quote/9984.T)
-
-- **[2026.10.02] 行情快照 / Quote · Toyota — 丰田汽车下跌2.34%**
-  行情日本語：丰田汽车（Toyota）は2026.10.02 15:30 JST時点で2,856.50となり、前日終値比で2.34%下落しています。
-  行情中文：截至 2026.10.02 15:30 JST，丰田汽车较前收盘下跌2.34%。
-  📰 [Yahoo Finance](https://finance.yahoo.com/quote/7203.T)
-
-- **[2026.10.02] 行情快照 / Quote · Sony Group — 索尼集团下跌0.90%**
-  行情日本語：索尼集团（Sony Group）は2026.10.02 15:30 JST時点で3,753.00となり、前日終値比で0.90%下落しています。
-  行情中文：截至 2026.10.02 15:30 JST，索尼集团较前收盘下跌0.90%。
-  📰 [Yahoo Finance](https://finance.yahoo.com/quote/6758.T)
-
 ## 🌍 宏观经济与投资 / Macro & Investment
+
+- **[2026.10.05] BeInCrypto — Bitcoin Enters October With 4 Problems That Could Show On Charts**
+  English：Bitcoin entered October facing four main pressures: thin liquidity, weaker ETF demand, the Iran war, and a Mt. Gox deadline. Coinglass data showed that BTC has historically closed higher in 10 of the last 13 Octobers with a median gain of 12.73%, and was up 1.98% so far this month. Analyst Darkfost noted that stablecoin supply has lost $14 billion since May and recovered $4 billion since September to about $270 billion, but the rebound remained too timid. Wallets sending over $1 million in stablecoins to Binance lifted 30-day inflows to $30.5 billion, up over 40% from a month earlier, though still below the October 2025 peak of over $61 billion. Institutional demand for spot Bitcoin ETFs also cooled, with net flows turning negative on September 30 with $148.69 million in net outflows before returning to positive territory with $102.67 million on October 1, bringing total inflows across 4 sessions from September 28 to October 1 to $51.25 million, compared to $2.39 billion the previous week. Daily traded value across 12 funds fell from $4.57 billion on September 21 to $1.97 billion on October 1. Geopolitical conflict also affected prices, as a tanker strike in the Strait of Hormuz on October 2 erased a rally toward $87,000, following six tanker attacks in a week and U. S. deployments of Patriot batteries and warships. Finally, Mt. Gox wallets held 34,387.51 BTC worth $2.88 billion according to Arkham, with a court-approved creditor repayment deadline of October 31, leaving outcomes of either another extension or coin distribution.
+  中文：总结：比特币（BTC）在进入10月时面临四重压力：流动性单薄、ETF需求减弱、伊朗战争以及门头沟（Mt. Gox）赔付截止日期。 Coinglass数据显示，比特币在过去13个10月中有10次实现上涨，中位涨幅为12.73%，本月迄今已上涨1.98%。 分析师Darkfost指出，稳定币市值自5月以来减少了140亿美元，自9月以来回升了40亿美元，总额达到约$270 billion，但反弹依然过于迟缓。 向币安发送超过100万美元稳定币的钱包将其30天流入量提升至305亿美元，较一个多月前增长逾40％，但仍低于2025年10月超过$61 billion的峰值。 现货比特币ETF的机构需求也出现冷却，9月30日净流出$148.69 million，结束了连续9天的净流入，随后在10月1日恢复净流入$102.67 million，9月28日至10月1日4个交易日的总流入量仅为5125万美元，而前一周则吸纳了23.9亿美元。 12只基金的日均交易额从9月21日的45.7亿美元降至10月1日的19.7亿美元。 地缘政治冲突也对价格造成了影响，10月2日霍尔木兹海峡发生油轮袭击事件，抹去了此前冲向87000美元的涨幅，此前该海峡在一周内发生了6起油轮袭击，美国也部署了爱国者导弹连和军舰。 最后，根据Arkham的数据，Mt. Gox标记的钱包持有34387.51枚BTC，价值28.8亿美元，法院批准的债权人偿还截止日期为10月31日，可能面临再次延期或代币分发的两种结果。
+  📰 [BeInCrypto](https://beincrypto.com/bitcoin-price-october-risks-2026/)
+
+- **[2026.10.04] Stocktwits — Trump Defends Data Centers At Ohio Rally Amid Backlash, Warns ‘They’ll Go To China’ If US Pulls Back — 'So Much Money To Be Made'**
+  English：President Donald Trump defended the U. S. data center boom at a campaign rally in Ohio for Senator Jon Husted, warning that pulling back on facilities powering the artificial intelligence industry would risk sending investment and jobs to China. According to The New York Times, Trump emphasized the economic opportunity for states like Ohio, stating that massive amounts of money are to be made and that facilities would go to China if turned off. Trump also praised a bill backed by Husted addressing rising electricity costs linked to large power users, which Senate Democrats blocked in a procedural vote last week, and referenced his previous August Truth Social post stating that communities rejecting data centers risk becoming backwards and poor. The rally followed an event where Trump and AI industry leaders, including Nvidia CEO Jensen Huang, Meta CEO Mark Zuckerberg, Tesla and SpaceX CEO Elon Musk, Anthropic’s Dario Amodei, and OpenAI’s Greg Brockman, signed a pact establishing voluntary AI standards. Trump reiterated that tech companies will make massive contributions to keep local communities happy around data center construction. Meanwhile, market indices showed the SPDR S&P 500 ETF rising 0.03%, the Invesco QQQ Trust ETF flat, and the SPDR Dow Jones Industrial Average ETF Trust rising 0.12% in Friday after-hours trading, with retail sentiment on Stocktwits extremely bullish toward the S&P 500 ETF while the iShares U. S. Technology ETF and Global X Artificial Intelligence & Technology ETF gained 35% and 30% year-to-date respectively.
+  中文：总结：美国总统唐纳德·特朗普在俄亥俄州为参议员乔恩·哈斯特（Jon Husted）举行的竞选集会上为美国的데이터中心（数据中心）热潮进行了辩护，并警告称，若对支持人工智能产业的庞大设施进行退缩，将面临把投资和工作机会拱手让给中国的风险。 据《纽约时报》报道，特朗普强调了数据中心对俄亥俄州等地的经济机遇，称其中蕴含巨大商机，若关闭这些设施，它们将会转移到中国。 特朗普还赞扬了哈斯特支持的一项旨在解决大功率用户电力成本上升问题的法案，该法案上周遭到参议院民主党人在程序性投票中阻挠，并提及他此前在8月于Truth Social上发文称拒绝数据中心的社区有落后贫穷的风险。 此次集会前不久，特朗普与英伟达CEO黄仁勋、Meta CEO马克·扎克伯格、特斯拉及太空探索技术公司CEO埃隆·马斯克、Anthropic的达里奥·阿莫代伊以及OpenAI的格雷格·布罗克曼等AI行业领袖共同签署了一项建立自愿性AI标准的协议。 特朗普重申，科技公司将做出巨大贡献，以确保数据中心建设周边的当地社区感到满意。 与此同时，在周五盘后交易中，标普500ETF上涨0.03%，景顺QQQ信托ETF持平，道琼斯工业平均指数ETF上涨0.12%，Stocktwits上散户对标普500ETF的情绪处于“极度看涨”区间，而iShares美国科技ETF和Global X人工智能与科技ETF今年迄今分别上涨了35%和30%。
+  📰 [Stocktwits](https://stocktwits.com/news-articles/markets/equity/trump-defends-data-centers-ohio-warns-china/cZDFsLkRB1A)
+
+- **[2026.10.04] The Daily Upside — The Bond Market’s Tokyo Story**
+  English：Japanese economic policy is directly impacting the global bond selloff, which in turn leads to higher borrowing costs for American consumers. Japanese Prime Minister Sanae Takaichi is expected to assure legislators in an address to parliament that her government is pursuing a responsible, expansionary fiscal policy to boost economic growth. Takaichi has previously touted a 14 year, 370 trillion yen ($2.3 trillion) private-public investment plan and a cabinet-approved proposal to slash food consumption taxes from 8% to 1% for two years while issuing household payouts equal to the remaining 1%. Oxford Economics analysts estimate at least half of the resulting annual revenue reduction of roughly five trillion yen ($32 billion) will be financed with debt, adding to Japan’s $9 trillion public debt pile. Takaichi also stated in an August Yomiuri interview that the government intends to cap new government bond issuance at 40 trillion yen ($255 billion) next year. This combination of increased spending, revenue cuts, and debt-financing limits has accelerated the global bond selloff, pushing Japanese 10-year bond yields to 3.1% last week, near three-decade highs. Furthermore, the Bank of Japan hiked interest rates to a 31-year high of 1.25% last month to combat inflationary forces caused by the U. S. -Iran war, massive global AI spending, and a weakened yen. These high Japanese yields, alongside European and U. K. yields, are pulling U. S. borrowing costs higher, with the 10-year U. S. Treasury yield rising to 5.34% on Thursday, the highest since 2002, and increasing nearly 90 basis points in the third quarter.
+  中文：总结：日本经济政策正在直接引发全球债券遭到抛售，进而导致美国消费者的借贷成本上升。 日本首相高市早苗预计将在国会演讲中向议员保证，其政府正在奉行“负责任的扩张性财政政策”以促进经济增长。 高市此前曾吹捧一项为期14年、规模达370 trillion（合$$2.3 trillion）的公私合作投资计划，以及内阁批准的一项提案，即在两年内将食品消费税从8%削减至1%，并向家庭发放相当于剩余1%的补贴。 牛津经济研究院分析师估计，由此带来的每年约5万亿日元（合$$32 billion）的收入减少中，至少有一半将通过债务融资，从而进一步推高日本高达$$9 trillion的公共债务堆。 高市还在8月份接受《读卖新闻》采访时表示，政府计划将明年的新发国债规模限制在40 trillion（合$2550亿美元）左右。 增加支出、削减税收和限制债务融资的组合拳加速了全球债券抛售，上周日本10年期国债收益率升至3.1%，接近三十年来的最高水平。 此外，日本央行上个月将利率上调至1.25%这一31年来的最高水平，以应对美伊战争、全球庞大AI支出以及日元疲软所带来的通胀压力。 这些高企的日本收益率与欧洲和英国的收益率一同推高了美国的借贷成本，美国10年期国债收益率在周四升至5.34%，创下2002年以来的最高水平，并在第三季度上涨了近90个基点。
+  📰 [The Daily Upside](https://www.thedailyupside.com/investments/bonds/the-bond-markets-tokyo-story/)
+
+- **[2026.10.04] The Economic Times — 325 million barrels of oil released from strategic reserves: International Energy Agency**
+  English：International Energy Agency Executive Director Fatih Birol stated on Saturday that approximately 325 million barrels of oil have been released from strategic reserves. This amount represents over 80 percent of the 400 million barrels pledged from the collective action announced by the IEA in March. Speaking during a virtual meeting of Group of Seven leaders on Friday, Birol noted that energy market impacts from the Strait of Hormuz crisis remain acute, particularly in diesel markets, and emphasized the IEA's ongoing work to support energy security.
+  中文：总结：国际能源署执行干事法提赫·比罗尔在周六表示，战略储备中已释放约325万桶石油，这占到国际能源署三月份宣布的集体行动中承诺的400万桶的80%以上。 比罗尔在周五举行的七国集团领导人虚拟会议上表示，霍尔木兹海峡危机对能源市场的影响依然严峻，特别是在柴油市场，并强调了国际能源署为支持能源安全而持续开展的工作。
+  📰 [The Economic Times](https://m.economictimes.com/news/international/world-news/325-million-barrels-of-oil-released-from-strategic-reserves-international-energy-agency/videoshow/134670823.cms)
+
+- **[2026.10.04] bloomingbit — Weak Yen Hits Japan’s Dinner Table as Food Self-Sufficiency Falls to Record-Low 37%**
+  English：Japan is experiencing mounting upward pressure on food prices as the yen weakens and its food self-sufficiency rate remains at a record-low 37% for fiscal 2025 on a calorie basis, according to the Ministry of Agriculture, Forestry and Fisheries. The Ministry of Internal Affairs and Communications reported that the Engel coefficient for 2025 rose to 28.6%, the highest since 1981, driven by higher raw material and import costs. To address the issue, the Japanese government plans to reduce the food consumption tax rate from 8% to 1% for two years starting in April 2027.
+  中文：总结：随着日元走弱且日本农林水产省公布的2025财年按热量计算的粮食自给率维持在37%这一历史最低水平，日本正面临不断上升的食品价格上涨压力。 总务省报告称，受原材料和进口成本上涨推动，2025年的恩格尔系数升至28.6%，为1981年以来的最高水平。 为应对这一问题，日本政府计划自2027年4月起将食品消费税率从8%降至1%，为期两年。
+  📰 [bloomingbit](https://en.bloomingbit.io/feed/news/121559)
+
+- **[2026.10.04] bloomingbit — Warsh Stays Silent as Fed Officials’ Caution, Soft Inflation Data Cut Odds of an October Rate Hike**
+  English：Expectations for an October Federal Reserve interest-rate increase declined rapidly following cautious remarks from senior Fed officials and weaker-than-expected inflation data. New York Fed President John Williams stated on Sept. 29 that one more rate increase by the end of the year could be appropriate without rushing. On Oct. 1, Fed Vice Chair Philip Jefferson noted that policymakers need to carefully assess data trends and the outlook. The probability of an October hike dropped significantly after these comments and softer inflation data.
+  中文：总结：在美联储高级官员发出谨慎言论以及通胀数据弱于预期之后，市场对美联储十月份加息的预期迅速下降。 纽约联储主席威廉姆斯在9月29日表示，今年年底前再加息一次可能是合适的，但没有必要匆忙。 美联储副主席杰斐逊在10月1日指出，决策者需要仔细评估数据趋势和前景。 在这些言论和疲软的通胀数据发布后，十月份加息的概率大幅下降。
+  📰 [bloomingbit](https://en.bloomingbit.io/feed/news/121548)
+
+- **[2026.10.04] finance.biggo.com — Howard Marks: The 30-Year Treasury at 5.5% Isn't a Crisis, It's an Invoice**
+  English：U. S. 30-year Treasury yields climbed, reaching 5.64% on September 30, despite Treasury buyback efforts. Howard Marks discussed Stanley Druckenmiller's view that artificial yield suppression is a subsidy to procrastination, noting that yields reflect underlying fundamentals such as heavy AI-related and general capital competition, alongside massive refinancing needs and a thinning foreign buyer base. Japan's holdings dropped to $1.10 trillion in July from a February peak of $1.24 trillion, while mainland China's holdings slid to $618 billion.
+  中文：总结：尽管财政部采取了回购措施，美国30年期国债收益率仍然攀升，并在9月30日达到5.64%。 霍华德·马克思探讨了斯坦利·德鲁肯米勒关于人为压低收益率无异于拖延补贴的观点，并指出收益率反映了底层基本面，例如巨额的人工智能相关及一般资本竞争、庞大的再融资需求以及不断缩减的外国买家基础。 日本的持仓量从2月份$1.24 trillion的峰值降至7月的$1.10 trillion，中国内地的持仓量则下滑至6180亿美元。
+  📰 [finance.biggo.com](https://finance.biggo.com/news/f0cac55a93b06929)
+
+- **[2026.10.04] finance.biggo.com — Dollar-Yen Holds at 157 Despite Weak U.S. Jobs Data as 5%+ Long-Term Yields Anchor the Currency**
+  English：U. S. 10-year Treasury yields remained well above 5% and the dollar-yen pair held at around 157 despite softer-than-expected inflation and employment data. The September employment report showed nonfarm payrolls increased by 29,000, while the unemployment rate rose to 4.2%. The probability of an October Federal Open Market Committee rate hike plunged from roughly 70% to around 20%. Meanwhile, the Mexican peso declined as the Bank of Mexico held its policy rate at 6.50% on September 24 while U. S. and Japanese rates shifted.
+  中文：总结：尽管通胀和就业数据弱于预期，美国10年期国债收益率仍远高于5%，美元兑日元汇率维持在157左右。 9月就业报告显示非农就业人口仅增加29000人，失业率升至4.2%。 美联储公开市场委员会十月份加息的概率从大约70%暴跌至20%左右。 与此同时，随着墨西哥央行在9月24日维持6.50%的政策利率不变，而美国和日本利率发生变化，墨西哥比索出现下跌。
+  📰 [finance.biggo.com](https://finance.biggo.com/news/b84f2548-972a-4a3c-807f-04872c0c0a66)
 
 - **[2026.10.04] 行情快照 / Quote · USD/JPY — 美元兑日元下跌0.14%**
   Quote: USD/JPY stood at 157.83 as of 2026.10.04 13:21 JST, 0.14% lower than the previous close.
@@ -90,21 +130,6 @@
   Quote: US 10Y Yield stood at 5.28 as of 2026.10.03 03:59 JST, 0.76% higher than the previous close.
   行情中文：截至 2026.10.03 03:59 JST，美国10年期国债收益率较前收盘上涨0.76%。
   📰 [Yahoo Finance](https://finance.yahoo.com/quote/%5ETNX)
-
-- **[2026.10.03] 行情快照 / Quote · Gold Futures — 黄金期货下跌0.95%**
-  Quote: Gold Futures stood at 4,162.30 as of 2026.10.03 05:59 JST, 0.95% lower than the previous close.
-  行情中文：截至 2026.10.03 05:59 JST，黄金期货较前收盘下跌0.95%。
-  📰 [Yahoo Finance](https://finance.yahoo.com/quote/GC%3DF)
-
-- **[2026.10.03] 行情快照 / Quote · WTI Crude Oil — WTI原油下跌1.90%**
-  Quote: WTI Crude Oil stood at 91.11 as of 2026.10.03 06:00 JST, 1.90% lower than the previous close.
-  行情中文：截至 2026.10.03 06:00 JST，WTI原油较前收盘下跌1.90%。
-  📰 [Yahoo Finance](https://finance.yahoo.com/quote/CL%3DF)
-
-- **[2026.10.05] 行情快照 / Quote · Bitcoin — 比特币上涨0.52%**
-  Quote: Bitcoin stood at 85,183.25 as of 2026.10.05 01:06 JST, 0.52% higher than the previous close.
-  行情中文：截至 2026.10.05 01:06 JST，比特币较前收盘上涨0.52%。
-  📰 [Yahoo Finance](https://finance.yahoo.com/quote/BTC-USD)
 
 ---
 ※Stock Market Daily Digest | 2026.10.05
