@@ -1,0 +1,155 @@
+# 📈 Stock Market Daily | 2026.10.08（木曜日 / Thursday）
+
+> ⚠ 本日报优先收录最近24小时的市场新闻、个股异动与当时市场快照；数据仅供参考，不构成投资建议。
+
+---
+
+
+## 🇺🇸 美国股市 / US Market
+
+- **[2026.10.08] TradingKey — Comfort Systems USA Inc Stock (FIX) Moved Down by 5.89% on Oct 7: A Full Analysis**
+  English：Comfort Systems USA Inc stock (FIX) dropped by 5.89% on October 7, underperforming the Industrial & Commercial Services sector, which fell 1.28%. The intraday decline was driven by Wall Street rating adjustments, notably Zacks Research downgrading the firm from a strong buy to a hold, alongside profit-taking following recent strength. Fundamental factors included questions about scaling to meet elevated valuations, labor constraints, modular prefabrication capacity limits, and insider stock sales exceeding $170 million over the past twelve months. Technically, the stock showed a MACD value of 31.365, an RSI of 54.222, and a Williams %R of 46.880. The company reported a net profit of $370.38M, ranking 7th in its industry, while analysts maintained an average price target of $2164.14.
+  中文：总结：Comfort Systems USA Inc股票（FIX）在10月7日下跌5.89%，表现逊于下跌1.28%的工业与商业服务板块。 此次盘中下跌主要是由华尔街评级调整引发，其中Zacks Research将这家工业承包商的评级从强力买入下调至持有，同时伴随近期强势上涨后的止盈潮。 基本面因素还包括对高估值下业务扩展速度的质疑、劳动力限制、模块化预制产能瓶颈，以及过去十二个月内超过$170 million的内部股票减持。 技术面上，该股MACD值为31.365，RSI为54.222，Williams %R为46.880。 该公司净利润为$370.38M，在行业中排名第7，分析师给出的平均目标价为$2164.14。
+  📰 [TradingKey](https://www.tradingkey.com/news/market-movers/262204409-market-movers-fix-20261007)
+
+- **[2026.10.08] Yahoo Finance UK — NVIDIA Corporation (NVDA) stock price, news, quote and history**
+  English：NVIDIA Corporation (NVDA) reported key financial and market metrics as of October 7, 2026. The previous close was 239.24, with an open of 237.68 and a day's range of 236.64 to 239.08. The 52-week range stood at 164.27 to 243.37, with a volume of 48,206,320 and an average volume of 122,543,137. The intra-day market capitalization was 5.722T, with a trailing P/E ratio of 29.94 and a diluted EPS (TTM) of 7.91. Upcoming earnings were scheduled for November 17, 2026, alongside a forward dividend of 1.00 yielding 0.42% and an ex-dividend date of September 10, 2026. Financial statements showed trailing twelve-month revenue of 302.97B, net income available to common shareholders of 192.88B, a profit margin of 63.66%, return on assets of 53.57%, return on equity of 117.21%, total cash of 62.47B, total debt-to-equity of 16.97%, and levered free cash flow of 41.81B.
+  中文：总结：NVIDIA Corporation（NVDA）公布了截至2026年10月7日的主要财务与市场指标。 前一日收盘价为239.24，开盘价为237.68，日内交易区间为236.64至239.08。 52周价格区间为164.27至243.37，成交量为48,206,320，平均成交量为122,543,137。 盘中市值为5.722T，滚动市盈率为29.94，稀释每股收益（TTM）为7.91。 定于2026年11月17日发布的财报临近，前瞻股息为1.00，股息率为0.42%，除息日为2026年9月10日。 财务报表显示，滚动十二个月营业收入为302.97B，普通股股东应占净利润为192.88B，利润率为63.66%，资产回报率为53.57%，净资产收益率为117.21%，现金总额为62.47B，债务与股东权益比率为16.97%，杠杆自由现金流为41.81B。
+  📰 [Yahoo Finance UK](https://uk.finance.yahoo.com/quote/NVDA/)
+
+- **[2026.10.08] The Economic Times — Why is the US stock market down today? Dow Jones, Nasdaq and S&P 500 in deep red — rising Treasury yields,**
+  English：At 10:53 a. m. ET, U. S. stock markets declined sharply as Treasury yields reached a 24-year high, with the Dow Jones Industrial Average down 565.20 points (1.10%) at 50,956.08, the S&P 500 down 53.28 points (0.68%) at 7,765.65, and the Nasdaq down 229.73 points (0.83%) at 27,370.15. The 10-year Treasury yield rose above 5.36% before easing to 5.306%, while the 30-year yield reached 5.685%, driven by national debt surpassing $40 trillion and ongoing government borrowing. Oil prices added pressure, with West Texas Intermediate crude at $89.56 a barrel and Brent crude up 0.90% at $101.49 following Houthi attacks on Saudi targets and Strait of Hormuz developments. Energy costs raised inflation concerns, potentially limiting Federal Reserve rate cuts, with CME FedWatch data showing an 83% probability of a December rate increase. Technology, semiconductor, and cryptocurrency assets retreated, including Bitcoin falling 3.07% to $82,962 and Ether dropping 5.14% to $2,561, while the U. S. dollar index rose 0.5% to 102.34, gold fell 1.31% to $4,132.40 an ounce, and silver declined 2.34% to $60.15.
+  中文：总结：美东时间上午10点53分，随着美债收益率创下24年新高，美国股市大幅下跌。 道琼斯工业平均指数下跌565.20点（跌幅1.10%），报50,956.08点；标普500指数下跌53.28点（跌幅0.68%），报7,765.65点；纳斯达克指数下跌229.73点（跌幅0.83%），报27,370.15点。 受美国国债突破$40 trillion及持续政府借贷推动，10年期美债收益率曾升至5.36%以上，随后回落至5.306%，30年期收益率则达到5.685%。 油价带来额外压力，西德克萨斯中质原油报$89.56每桶，由于胡塞武装对沙特目标发动袭击及霍尔木兹海峡局势的发展，布伦特原油上涨0.90%至$101.49。 能源成本推高了通胀担忧，可能限制美联储降息空间，CME FedWatch数据显示市场定价12月加息概率为83%。 科技股、半导体及加密资产普遍回落，其中比特币下跌3.07%至约$82,962，以太坊下跌5.14%至$2,561；同时美元指数上涨0.5%至102.34，黄金下跌1.31%至$4,132.40每盎司，白银下跌2.34%至$60.15。
+  📰 [The Economic Times](https://m.economictimes.com/news/international/us/why-is-the-us-stock-market-down-today-dow-jones-crashes-today-nasdaq-and-sp-500-in-red-as-well-rising-treasury-yields-oil-prices-and-fed-uncertainty-weigh-on-stocks/articleshow/134768961.cms)
+
+- **[2026.10.08] TIKR.com — Nvidia Takes Aim at Intel’s $32 Billion PC Business With Microsoft’s Surface Laptop Ultra**
+  English：Microsoft and Nvidia plan to unveil the Surface Laptop Ultra in San Francisco on Wednesday, October 7, featuring CEO Satya Nadella and Jensen Huang. Powered by Nvidia's RTX Spark chips announced in June, the device runs AI agents locally on the PC rather than in cloud Azure data centers. The partnership targets the Windows PC processor market traditionally dominated by Intel and Advanced Micro Devices. In 2025, Intel's Client Computing Group generated $32.23 billion, while AMD's client business grew to $10.64 billion. For Nvidia, the PC segment represents a smaller share, with its gaming division earning $16.04 billion in fiscal 2026, or 7% of its $215.94 billion total revenue. However, the hardware cost remains a challenge due to surging memory prices, with Nvidia recently raising its DGX Spark AI desktop price by about 75% to $6,950 due to 128 gigabytes of memory, impacting memory suppliers such as Micron.
+  中文：总结：微软与英伟达计划于10月7日星期三在旧金山联合发布Surface Laptop Ultra，首席执行官萨蒂亚·纳德拉和黄仁勋将同台亮相。 该设备搭载英伟达6月公布的RTX Spark芯片，旨在直接在个人电脑本地运行AI代理，而非依托云端Azure数据中心。 此次合作将切入长期由英特尔和超威半导体主导的Windows PC处理器市场。 2025年，英特尔的客户端计算集团创造了$32.23 billion的收入，而AMD的客户端业务则增长至$10.64 billion。 对英伟达而言，PC业务占比相对较小，其财年2026年的游戏部门收入为$16.04 billion，占其$215.94 billion总收入的7%。 然而，由于内存价格飙升，硬件成本构成了挑战，英伟达近期由于配置128GB内存，将其DGX Spark AI桌面的价格上调了约75%至$6,950，这对手续费和内存供应商美光等公司产生了影响。
+  📰 [TIKR.com](https://www.tikr.com/blog/nvidia-takes-aim-at-intels-32-billion-pc-business-with-microsofts-surface-laptop-ultra)
+
+- **[2026.10.08] 24/7 Wall St. — What Will $5,000 Invested in Micron Stock Be Worth in 5 Years?**
+  English：Micron Technology experienced a 481.18% stock gain over the past year driven by artificial intelligence memory demand, prompting investor debate over whether current pricing reflects a cyclical peak or a multiyear supercycle. Under a base case model projecting a share price of $1,217.05 by October 4, 2031, a $5,000 investment could grow to $5,661.50, representing a 13.23% total return. Wall Street analysts maintain a consensus target of $1,520.02, with 92% covering analysts issuing bullish ratings. Driving factors include 26 strategic customer agreements representing over 35% of projected revenue through 2030, customer financial commitments totaling $32 billion, and remaining performance obligations around $150 billion. Management reported that more than 75% of calendar 2027 output is already committed, while fiscal fourth-quarter revenue reached $54.229B with an 87.0% non-GAAP gross margin. Risks include potential memory price cyclicality, rising capital expenditures that hit $30.712B in fiscal 2026, and a high beta of 2.22.
+  中文：总结：在人工智能内存需求推动下，美光科技股价在过去一年中上涨了481.18%，引发了投资者关于当前价格反映的是周期性顶峰还是多年超级周期的争论。 根据预测到2031年10月4日股价将达到$1,217.05的基础案例模型，一笔$5,000的投资可能增长至$5,661.50，总回报率为13.23%。 华尔街分析师给出的平均目标价为$1,520.02，其中92%的覆盖分析师给予看涨评级。 支撑因素包括26项战略客户协议（预计占2030年前收入的35%以上）、总计$32 billion的客户财务承诺以及约$150 billion的剩余履约义务。 管理层报告称，日历年2027年超过75%的产出已被预订，第四财季营收达到$54.229B，非GAAP毛利率为87.0%。 相关风险包括内存价格的周期性波动、财年2026年资本支出飙升至$30.712B以及高达2.22的贝塔系数。
+  📰 [24/7 Wall St.](https://247wallst.com/investing/2026/10/07/what-will-5000-invested-in-micron-stock-be-worth-in-5-years/)
+
+- **[2026.10.07] Investor's Business Daily — Stock Market Today: Stock Market News And Analysis**
+  English：Stock market updates and premarket prices, including index futures for the Dow, S&P, and Nasdaq, are monitored outside of normal market hours. In recent trading, the Dow cut sharp losses as some tech stocks rallied.
+  中文：总结：股票市场更新和盘前价格（包括道琼斯指数、标普指数和纳斯达克指数期货）在正常交易时间之外受到关注。 在最近的交易中，随着部分科技股反弹，道琼斯指数大幅缩减了跌幅。
+  📰 [Investor's Business Daily](https://www.investors.com/news/stock-market-today-stock-market-news/)
+
+- **[2026.10.07] The Motley Fool — 3 Tech Stocks to Buy in October, Starting With Microsoft**
+  English：Microsoft, Broadcom, and Micron Technology are highlighted as key technology stocks benefiting from artificial intelligence trends. Microsoft is integrating AI across its software ecosystem and cloud infrastructure, aiming to double capacity within two years. Broadcom experiences high demand for custom AI accelerators and networking, alongside a partnership with OpenAI to develop the Jalapeño inference chip. Micron is seeing strong memory demand driven by AI, supported by agreements such as its partnership with Anthropic.
+  中文：总结：微软、博通和美光科技被视为受益于人工智能趋势的核心科技股。 微软正在将其软件生态系统和云基础设施全面整合人工智能，并计划在两年内将容量大约翻倍。 博通的定制AI加速器和网络需求强劲，并与OpenAI合作开发用于推理的Jalapeño芯片。 美光则在人工智能带动的强劲内存需求中受益，并拥有与Anthropic等公司的合作支持。
+  📰 [The Motley Fool](https://www.fool.com/investing/2026/10/07/3-tech-stocks-to-buy-starting-with-microsoft/)
+
+- **[2026.10.07] Pluang — UBS raises Tesla price target to $391, citing f...**
+  English：Intel CEO Lip-Bu Tan confirmed Intel's continued involvement in Elon Musk's Terafab semiconductor project despite initial talks between Musk and TSMC. Musk clarified that Tesla and SpaceX will build and operate the Texas facility.
+  中文：总结：尽管埃隆·马斯克与台积电进行了初步会谈，英特尔首席执行官陈立武仍确认英特尔将继续参与马斯克的Terafab半导体项目。 马斯克澄清称，特斯拉和SpaceX将建设并运营该得克萨斯州工厂。
+  📰 [Pluang](https://pluang.com/en/news-feed/ubs-naikkan-target-harga-tesla-saham-dengan-sentimen-positif)
+
+- **[2026.10.08] 行情快照 / Quote · S&P 500 — 标普500下跌0.21%**
+  Quote: S&P 500 stood at 7,802.67 as of 2026.10.08 03:10 JST, 0.21% lower than the previous close.
+  行情中文：截至 2026.10.08 03:10 JST，标普500较前收盘下跌0.21%。
+  📰 [Yahoo Finance](https://finance.yahoo.com/quote/%5EGSPC)
+
+- **[2026.10.08] 行情快照 / Quote · Nasdaq Composite — 纳斯达克综合指数下跌0.32%**
+  Quote: Nasdaq Composite stood at 27,512.64 as of 2026.10.08 03:10 JST, 0.32% lower than the previous close.
+  行情中文：截至 2026.10.08 03:10 JST，纳斯达克综合指数较前收盘下跌0.32%。
+  📰 [Yahoo Finance](https://finance.yahoo.com/quote/%5EIXIC)
+
+## 🇯🇵 日本株式市場 / Japan Market
+
+- **[2026.10.07] ブルーモ証券 — 【実践解説】日米金融イベント通過後の相場観と「日経3」：資産5億円投資家が選んだ半導体と注目グロース株**
+  日本語：金融商品取引法に基づく表示事項として、ブルーモ証券株式会社が提供する本資料は投資判断の参考となる情報の提供を目的とし、投資勧誘を目的としたものではないと記載されている。 証券取引には価格変動や信用、為替などのリスクが存在し元本損失が生じる可能性があり、記載内容の正確性や完全性は保証されず、予告なく変更される場合があると示されている。
+  中文：总结：作为根据金融商品取引法作出的登载事项，布鲁莫证券股份有限公司提供的本资料旨在提供投资决策参考信息，并非旨在进行投资劝诱。 证券交易存在价格波动、信用、汇率等风险，可能会产生本金损失，所记载内容的准确性与完整性不予保证，且可能会无预告地进行更改。
+  📰 [ブルーモ証券](https://bloomo.co.jp/learn/library/article/youtube_20261005/)
+
+- **[2026.10.07] 日本経済新聞 — ソフトバンク系に不正アクセス 茨城県庁など495社・自治体に影響**
+  日本語：ソフトバンク子会社のIDCフロンティアは7日、一部システムがランサムウエアによるサイバー攻撃を受けたと発表した。 法人向けクラウドサービスで障害が発生し、茨城県庁など495の企業や自治体でホームページ閲覧などに影響が出ている。 福島県白河市のデータセンターが影響を受け、ネットワーク遮断やシステム停止作業を行い、情報漏洩の確認や復旧作業を進めている。
+  中文：总结：软银子公司IDC弗ロンティア于7日宣布，其部分系统遭到勒索软件网络攻击。 面向法人的云服务发生故障，导致利用该服务的茨城县政府等495家企业和自治体出现主页无法浏览等影响。 位于福岛县白河市的数据中心受到影响，该公司已实施网络切断与系统停止作业，目前正推进信息泄露确认与恢复工作。
+  📰 [日本経済新聞](https://www.nikkei.com/article/DGXZQOUC076WG0X01C26A0000000/)
+
+- **[2026.10.07] Infoseek — 日経平均は3日ぶり反落、高値警戒感 ＡＩ・半導体株に利益確定売り**
+  日本語：7日の東京株式市場で日経平均は3日ぶりに反落し、前営業日比0.92%安の7万0035円71銭で取引を終えた。 前日までの急ピッチな上昇や節目となる7万円回復で高値警戒感が台頭し、AI・半導体関連株を中心に利益確定売りに押された。 TOPIXは0.7%安の4154.11ポイントとなり、プライム市場の売買代金は7兆6713億4100万円を記録した。
+  中文：总结：7日的东京股票市场上，日经平均指数时隔3个交易日再次下跌，较前一营业日下跌0.92%（648点27钱），收于7万0035点71钱。 受前一日为止急剧上涨及收复7万点这一整数关口的影响，高位警惕情绪抬头，以人工智能和半导体相关股票为主遭到获利回吐卖盘打压。 东证股价指数下跌0.7%至4154点11，プライム市场成交额达7兆6713亿4100万日元。
+  📰 [Infoseek](https://news.infoseek.co.jp/article/07reutersJAPAN_KBN3VN0KM/)
+
+- **[2026.10.07] BigGo ファイナンス — 日経平均555円安、韓国株軟調が重荷 半導体関連に売り**
+  日本語：7日午後の東京株式市場で日経平均株価は下げ幅を拡大し、13時50分時点で前日比555円安の7万125円前後で推移した。 朝方に底堅かった韓国KOSPIが軟調に転じたことが投資家心理を冷やし、半導体関連株に売りが広がった。 アドバンテストや東京エレクトロンなどが大きく売られる一方、ソフトバンクグループなどが買い支えた。
+  中文：总结：7日午后的东京股票市场上，日经平均股价扩大跌幅，截至13时50分在较前一日下跌555元、即7万0125元前后徘徊。 早盘走势坚挺的韩国KOSPI指数随后转软，冷却了投资者心理，导致半导体相关股票出现抛售。 爱德万测试与东京电子等股票遭到大幅抛售，另一方面软银集团等股票则起到了支撑作用。
+  📰 [BigGo ファイナンス](https://finance.biggo.jp/news/e3281ead-4db2-4ead-85e3-81e564d2bed7)
+
+- **[2026.10.07] BigGo ファイナンス — 日経平均が609円反落、7万0074円 AI・半導体に利益確定売り**
+  日本語：7日の東京株式市場で日経平均株価は反落し、午前の終値は前日比609円85銭安の7万0074円13銭となった。 前日までの急ピッチな上昇による過熱感への警戒から、AI・半導体関連銘柄を中心に利益確定売りが優勢となった。 アジア市場での半導体株安も重荷となったが、7万円に近づく場面では押し目買いも見られた。
+  中文：总结：7日的东京股票市场上日经平均股价回调，早盘收盘价较前一日下跌609元85钱，报7万0074元13钱。 由于对前一日为止急剧上涨带来的过热感产生警惕，以人工智能和半导体相关个股为主的获利回吐卖盘占据优势。 亚洲市场的半导体股下跌也构成了沉重负担，但在接近7万点的局面下也出现了逢低买入。
+  📰 [BigGo ファイナンス](https://finance.biggo.jp/news/cb60c2e9-987f-4a23-94b9-538e36dfcfe1)
+
+- **[2026.10.07] Howl.link — 半導体に利益確定、日経平均は648円安 7万円は維持も日経VIは32.73へ**
+  日本語：東京市場は米国の最高値更新よりも過熱感の調整が優先され、日経平均株価は70,035.71円（−648.27円、−0.92%）と3日ぶりに反落した。 東京エレクトロンやアドバンテストなど指数寄与度の高い半導体製造装置株に利益確定売りが集中したほか、東証プライムの33業種中25業種が下げ、値上がり銘柄割合は35.1%にとどまった。 日経VIは32.73へ急上昇し、空売り比率も40.6%に高まるなど警戒感が強まった。 キオクシアは売買代金首位となる中で4.46%安と3日続落した。 東証プライムの売買代金は7兆6,713億円を記録し、市場は翌日に控えたサムスン電子の暫定業績発表や米国FOMC議事要旨、SQ算出を意識した展開となった。
+  中文：总结：东京股市优先进行过热调整而非追随美国创纪录高位，日经平均指数下跌648.27点（或0.92%）至70,035.71日元，为三个交易日来首次回落。 东京电子和爱德万测试等对指数影响较大的半导体制造设备股遭遇集中获利回吐，东证Prime市场的33个行业中有25个行业下跌，上涨股票比例仅为35.1%。 日经VI飙升至32.73，卖空比例升至40.6%，市场警戒情绪加剧。 铠侠在成交额居首的情况下下跌4.46%，连续三个交易日下跌。 东证Prime市场成交额达到7,671.30亿日元，市场走势受到次日三星电子暂定业绩发布、美国FOMC会议纪要及SQ结算的密切影响。
+  📰 [Howl.link](https://t.co/rOrgcz2tkC)
+
+- **[2026.10.07] 行情快照 / Quote · Nikkei 225 — 日经225下跌0.92%**
+  行情日本語：日经225（Nikkei 225）は2026.10.07 15:45 JST時点で70,035.71となり、前日終値比で0.92%下落しています。
+  行情中文：截至 2026.10.07 15:45 JST，日经225较前收盘下跌0.92%。
+  📰 [Yahoo Finance](https://finance.yahoo.com/quote/%5EN225)
+
+- **[2026.10.07] 行情快照 / Quote · Tokyo Electron — 东京电子下跌2.38%**
+  行情日本語：东京电子（Tokyo Electron）は2026.10.07 15:30 JST時点で12,500.00となり、前日終値比で2.38%下落しています。
+  行情中文：截至 2026.10.07 15:30 JST，东京电子较前收盘下跌2.38%。
+  📰 [Yahoo Finance](https://finance.yahoo.com/quote/8035.T)
+
+## 🌍 宏观经济与投资 / Macro & Investment
+
+- **[2026.10.08] www.tmgm.com — US Treasury yields hit 24-year highs as 10-year tests 5.35%**
+  English：US Treasury yields soared on Wednesday, with 10-year and 30-year yields reaching 24-year highs at 5.35% and 5.724% respectively, driven by inflation and fiscal policy concerns. The 10-year yield rose over 3 basis points to 5.31%, helping the US Dollar Index (DXY) gain over 0.47% to 102.32. Among major currencies, the dollar strengthened the most, followed by the yen and Swiss franc, while the euro plunged due to fiscal concerns in France. Markets awaited the release of Federal Reserve September meeting minutes and monitored a $39 billion 10-year Treasury bond auction. The 10-year yield has climbed over 60 basis points since late July when Middle East hostilities resumed and pushed WTI up around 20%. Money markets priced in the Federal Reserve keeping rates on hold in October, with slim 18% odds of a rate hike, while December rate hike odds remained at 85% according to Prime Terminal.
+  中文：总结：美国国债收益率周三飙升，受通胀和财政政策担忧驱动，10年期和30年期国债收益率分别触及5.35%和5.724%的24年高点。 10年期国债收益率上涨超过3个基点至5.31%，推高美元指数（DXY）上涨逾0.47%至102.32。 在主要货币中，美元表现最强，其次是日元和瑞郎，而欧元因法国的财政担忧而暴跌。 市场正等待美联储9月会议纪要的发布，并密切关注规模达390亿美元的10年期美债拍卖。 自7月下旬中东冲突重燃并推动WTI油价上涨约20%以来，10年期美债收益率已累计攀升逾60个基点。 根据Prime Terminal的数据，货币市场已消化美联储在10月维持利率不变的预期，加息概率仅为18%，而12月加息概率保持在85%。
+  📰 [www.tmgm.com](https://www.tmgm.com/en/analysis/market-news/article/us-treasury-yields-hit-24-year-highs-as-10-year-tests-535-202610071450)
+
+- **[2026.10.08] Decrypt News — Bitcoin Dips Below $83K as Oil Shock Rattles Markets: What Happens Next?**
+  English：Bitcoin fell as low as $82,776.30 and settled at $83,178.54, down 2.76% on the day, as oil climbed above $101 per barrel and bond yields spiked. Wall Street retreated from record highs with the S&P 500 down 0.59% to 7,772.60 and the Nasdaq down 0.71%. Brent crude rose above $101 amid ongoing ship attacks in and around the Strait of Hormuz, with the UK Maritime Trade Operations agency logging at least one attack daily since October 2, and Iran's Revolutionary Guard ordering a tanker to turn around on Monday. The spike in oil fueled inflation fears, pushing the 10-year Treasury yield near 5.34% and the 30-year yield to 5.70%, its highest since 2002, while gold dropped 1.53% to $4,123.10. The sell-off triggered roughly $969 million in crypto liquidations over 24 hours, of which $644.47 million were long positions, per CoinGlass. Traders on Myriad priced in further movement, with 67% odds of Bitcoin touching $80,000 and 55% odds of reaching $87,500 in October.
+  中文：总结：随着油价攀升至每桶101美元上方以及债券收益率飙升，比特币当日下跌2.76%，一度跌至82,776.30美元低点，报83,178.54美元。 华尔街股市从纪录高位回落，标普500指数下跌0.59%至7,772.60点，纳斯达克指数下跌0.71%。 在霍尔姆兹海峡及周边持续发生船只袭击事件的背景下，布伦特原油回升至101美元上方；英国海上贸易行动局记录显示自10月2日起海峡内每天至少发生一次袭击，伊朗伊斯兰革命卫队于周一命令一艘进入海峡油轮掉头。 油价上涨加剧了通货膨胀担忧，将10年期美债收益率推高至接近5.34%，30年期收益率则触及2002年以来的最高点5.70%，同时黄金下跌1.53%至4,123.10美元。 CoinGlass数据显示，抛售潮在24小时内引发了约9.69亿美元的加密货币头寸清算，其中多头头寸达644.47万美元。 Myriad预测市场的交易员对未来走势进行了定价，其中比特币在10月触及80,000美元的概率为67%，触及87,500美元的概率为55%。
+  📰 [Decrypt News](https://decrypt.co/380290/bitcoin-dips-oil-shock-rattles-markets-what-happens-next)
+
+- **[2026.10.08] The Economic Times — Why is the US stock market down today? Dow Jones, Nasdaq and S&P 500 in deep red — rising Treasury yields,**
+  English：U. S. stocks fell sharply as the 10-year Treasury yield climbed above 5.36% before easing to about 5.32%, reaching its highest level since April 2002. At 10:53 a. m. ET, the Dow Jones Industrial Average dropped 565.20 points or 1.10% to 50,956.08, the S&P 500 fell 53.28 points or 0.68% to 7,765.65, and the Nasdaq dropped 229.73 points or 0.83% to 27,370.15, following record closes on Tuesday. Brent crude stood at $101.49, up 0.90%, driven by Houthi rebel attacks on Saudi targets and Strait of Hormuz tanker traffic issues, while WTI crude was around $89.56 a barrel. The Federal Reserve released September meeting minutes, with CME FedWatch data showing a 19% probability of a rate increase in late October and an 83% probability for December. Bitcoin fell 3.07% to about $82,962, and Ether dropped 5.14% to $2,561. The U. S. dollar index rose 0.5% to 102.34, gold fell 1.31% to $4,132.40 an ounce, and silver dropped 2.34% to $60.15, amid national debt surpassing $40 trillion and an upcoming $39 billion 10-year note Treasury auction.
+  中文：总结：美国股市大幅下跌，10年期国债收益率盘初攀升至5.36%以上，随后回落至5.32%左右，创下2002年4月以来的最高水平。 美东时间上午10点53分，道琼斯工业平均指数下跌565.20点或1.10%至50,956.08点，标普500指数下跌53.28点或0.68%至7,765.65点，纳斯达克指数下跌229.73点或0.83%至27,370.15点，此前该两大指数于周二刚刚收于纪录高位。 受胡塞武装对沙特目标发动袭击以及霍尔姆兹海峡油轮交通问题影响，布伦特原油报每桶101.49美元，上涨0.90%，WTI原油报每桶约89.56美元。 美联储公布了9月会议纪要，CME FedWatch数据显示，市场计价显示10月下旬加息概率为19%，12月加息概率为83%。 比特币下跌3.07%至约82,962美元，以太坊下跌5.14%至2,561美元。 在美国国债总额突破$40 trillion以及即将进行390亿美元10年期国债拍卖的背景下，美元指数上涨0.5%至102.34，黄金下跌1.31%至每盎司4,132.40美元，白银下跌2.34%至60.15美元。
+  📰 [The Economic Times](https://m.economictimes.com/news/international/us/why-is-the-us-stock-market-down-today-dow-jones-crashes-today-nasdaq-and-sp-500-in-red-as-well-rising-treasury-yields-oil-prices-and-fed-uncertainty-weigh-on-stocks/articleshow/134768961.cms)
+
+- **[2026.10.07] XTB.com — 📉 Gold loses 1.7%**
+  English：Gold fell nearly 2% to below $4,100 per ounce, and silver sold off by almost 3% to slip below $60 per ounce, driven by rising global oil prices and a surge in U. S. Treasury yields. The 10-year U. S. Treasury yield rose by nearly 8 basis points on Wednesday to approximately 5.35%, marking its highest level since April 2002 and increasing financing costs while pressuring non-yielding assets like gold and Bitcoin. Despite recent increases in gold-backed ETF inflows and ongoing central bank purchases, prices dropped and erased almost the entire rally seen since August. Total gold holdings in ETFs exceeded 101 million ounces, reaching chart highs despite prices falling from $5,200–5,400 to roughly $4,157 per ounce, suggesting some investors increased exposure during the correction. Concurrently, market expectations for the Fed funds rate in June 2027 rose to around 4.6%, maintaining pressure on gold alongside broader Wall Street losses where the Nasdaq fell 1% from record highs.
+  中文：总结：受全球油价上涨和美国国债收益率激增推动，黄金价格下跌近2%，跌破每盎司4,100美元，白银遭抛售近3%，跌至每盎司60美元下方。 周三，美国10年期国债收益率上涨近8个基点至约5.35%，创下2002年4月以来的最高水平，这推高了融资成本并对黄金和比特币等无收益资产造成压力。 尽管近期黄金ETF资金流入增加且央行持续买入，但价格仍告下跌，几乎抹去了8月以来的全部涨幅。 尽管金价从每盎司5,200至5,400美元跌至约4,157美元，但ETF中的黄金总持仓量仍超过1.01亿盎司，达到图表高点，这表明部分投资者在价格回调期间增加了持仓敞口。 与此同时，市场对2027年6月联邦基金利率的预期升至约4.6%，继续对金价构成压力，华尔街股市也普遍走低，其中纳斯达克指数从纪录高位下跌1%。
+  📰 [XTB.com](https://www.xtb.com/cy/market-analysis/news-and-research/gold-loses-1-7)
+
+- **[2026.10.07] Bitcoin Foundation — Why Did Crypto Just Drop? $12.5M Bitcoin Shorts, Iran Tensions and $500M in Liquidations Explain the Crash**
+  English：The cryptocurrency market experienced a sharp sell-off, with Bitcoin falling below $84,000 to reach $83,800 and down 2.09% over 24 hours. Ethereum, XRP, and Dogecoin also declined significantly, with Dogecoin dropping over 4%. According to CoinGlass data cited by The Block, total crypto liquidations reached $555.6 million over 24 hours, including $487.2 million in long positions. BeInCrypto reported that $403.58 million in leveraged long positions was liquidated within one hour. Analysts attributed the downturn to profit-taking, high open interest, funding rates, rising oil prices, elevated U. S. Treasury yields, a stronger dollar, and geopolitical uncertainty. Brent crude oil rose 0.8% to $101.39 per barrel on October 7 due to Middle East conflicts and supply risks.
+  中文：总结：加密货币市场遭遇大幅抛售，比特币跌破84,000美元，一度跌至83,800美元，24小时跌幅达2.09%。 以太坊、瑞普币和狗狗币均出现明显下跌，其中狗狗币24小时跌幅超过4%。 根据The Block引用的CoinGlass数据，过去24小时内加密货币清算总额达到$555.6 million，其中多头仓位清算额为$487.2 million。 BeInCrypto报道称，价值4.0358亿美元的杠杆多头仓位在一小时内被清算。 分析师将市场下跌归因于获利回吐、高未平仓合约、资金费率、油价上涨、美国国债收益率走高、美元走强以及地缘政治不确定性。 由于中东冲突和供应风险，10月7日布伦特原油价格上涨约0.8%，达到每桶101.39美元。
+  📰 [Bitcoin Foundation](https://bitcoinfoundation.org/news/analysis/why-did-crypto-just-drop-12-5m-bitcoin-shorts-iran-tensions-and-500m-in-liquidations-explain-the-crash/)
+
+- **[2026.10.07] BigGo Finance — Global Asset Review During China's National Day Holiday: Japan Leads, US Stocks Hit Records, Hong Kong Falls Over 2%**
+  English：Major global equity markets largely advanced during China's National Day holiday, led by Japan, the United States, and Taiwan, while Hong Kong declined. According to Eastmoney, Japan's Nikkei 225 gained 4.92%, boosted by a weak yen and semiconductor demand, with the 10-year Japanese government bond yield reaching 3.122%. In the US, the Nasdaq Composite rose 2.75%, the S&P 500 gained 2.19% (closing above 7,800 for the first time), and the Dow Jones Industrial Average advanced 1.21%. Taiwan's TAIEX rose 3.89%, driven by TSMC. South Korea's KOSPI fell 0.50%, despite September semiconductor exports surging 262.8% year-on-year to reach $60.3 billion. Hong Kong's Hang Seng Index fell 1.96% due to a double liquidity squeeze. Brent crude oil rose 3.27% cumulatively, holding near $100 per barrel, while NYMEX crude fell 0.34%.
+  中文：总结：在中国国庆假期期间，全球主要股票市场大多走强，日本、美国和中国台湾领涨，而香港则出现下跌。 根据东方财富的数据，受日元走弱和半导体需求提振，日本日经225指数累计上涨4.92%，日本10年期国债收益率触及3.122%。 在美国，纳斯达克综合指数上涨2.75%，标普500指数上涨2.19%（历史上首次收于7,800点上方），道琼斯工业平均指数上涨1.21%。 在台积电带动下，台湾加权指数累计上涨3.89%。 韩国综合股价指数下跌0.50%，尽管其9月半导体出口同比飙升262.8%，首次突破600亿美元大关达到603亿美元。 由于双重流动性紧缩，香港恒生指数累计下跌1.96%。 布伦特原油累计上涨3.27%，维持在每桶100美元附近，而纽约商品交易所原油下跌0.34%。
+  📰 [BigGo Finance](https://finance.biggo.com/news/4b205918-4974-4558-9f7e-07a3bc2ee1ab)
+
+- **[2026.10.07] Investment Week — Market Movers blog: S&P 500 and Nasdaq hit record highs as AI stocks ignore debt fears**
+  English：Investment Week published a Market Movers blog on October 7, 2026, collating breaking market news, analysis, and opinion on equities, bonds, currencies, regulation, economics, and key figures. The blog noted that US 30-year Treasury yields reached their highest level since 2002 while major indices retreated from record highs. Throughout the year, markets absorbed geopolitical conflicts, volatile energy prices, fiscal concerns, changing central bank expectations, and persistent questions regarding whether AI is driving a productivity revolution or forming a new bubble.
+  中文：总结：《投资周刊》于2026年10月7日发布了市场动态博客，汇总了关于股票、债券、货币、监管、经济及关键市场人物的突发市场新闻、分析和观点。 博客指出，美国30年期国债收益率创下自2002年以来的最高水平，同时主要股指从纪录高位回落。 今年以来，市场消化了地缘政治冲突、动荡的能源价格、财政担忧、央行预期变化，以及关于人工智能究竟是在推动生产力革命还是形成下一个泡沫的持续性质疑。
+  📰 [Investment Week](https://www.investmentweek.co.uk/blog/4080428/market-movers-blog)
+
+- **[2026.10.07] The Straits Times — Asia shares weaker, oil up as investors weigh Saudi-Houthi escalation**
+  English：Asian markets were slightly weaker on October 7 as investor confidence flagged and oil prices rose due to storm threats in the Gulf of Mexico and escalating Saudi-Houthi tensions. MSCI’s broadest index of Asia-Pacific shares excluding Japan fell 0.5%, following US stocks hitting records where the S&P 500 rose 0.6% and the Nasdaq gained 0.4%. US crude rose 0.9% to US$90.2 a barrel, and Brent crude rose 1% to US$101.58 per barrel. Vitol CEO Russell Hardy stated on October 6 that around 12 million barrels per day of crude oil and 2 million bpd of refined products left the Middle East on tankers in the last seven to 10 days. In India, the Reserve Bank of India hiked its benchmark interest rate by 25bps to 5.5% to combat inflation. Spot gold fell 0.6% to US$4,137.29 per ounce.
+  中文：总结：10月7日，由于投资者信心减弱以及墨西哥湾风暴威胁和沙特与胡塞武装紧张局势升级导致油价上涨，亚洲市场表现略微走软。 除日本以外的摩根士丹利资本国际亚太地区股票指数下跌0.5%，此前美国股市创下纪录，其中标普500指数上涨0.6%，纳斯达克指数上涨0.4%。 美国原油价格上涨0.9%至每桶90.2美元，布伦特原油价格上涨1%至每桶101.58美元。 大宗商品贸易巨头维多集团首席执行官拉塞尔·哈迪于10月6日表示，过去七到十天内，每天约有1200万桶原油和200万桶成品油通过油轮离开中东。 在印度，印度储备银行为了遏制通胀，将基准利率上调25个基点至5.5%。 现货黄金下跌0.6%至每小时4,137.29美元（原文如此为每盎司4,137.29美元）。
+  📰 [The Straits Times](https://www.straitstimes.com/business/asia-shares-weaker-oil-up-as-investors-weigh-saudi-houthi-escalation)
+
+- **[2026.10.08] 行情快照 / Quote · USD/JPY — 美元兑日元下跌0.08%**
+  Quote: USD/JPY stood at 157.96 as of 2026.10.08 03:10 JST, 0.08% lower than the previous close.
+  行情中文：截至 2026.10.08 03:10 JST，美元兑日元较前收盘下跌0.08%。
+  📰 [Yahoo Finance](https://finance.yahoo.com/quote/JPY%3DX)
+
+- **[2026.10.08] 行情快照 / Quote · US 10Y Yield — 美国10年期国债收益率上涨0.40%**
+  Quote: US 10Y Yield stood at 5.29 as of 2026.10.08 02:55 JST, 0.40% higher than the previous close.
+  行情中文：截至 2026.10.08 02:55 JST，美国10年期国债收益率较前收盘上涨0.40%。
+  📰 [Yahoo Finance](https://finance.yahoo.com/quote/%5ETNX)
+
+---
+※Stock Market Daily Digest | 2026.10.08
