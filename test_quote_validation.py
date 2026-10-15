@@ -11,10 +11,24 @@ class QuoteValidationTests(unittest.TestCase):
         self.assertEqual([], news.digest_quality_issues(digest))
 
     def test_quotes_cannot_replace_all_news(self):
-        with patch.object(news, 'fetch_rss_items', return_value=[]), patch.object(news, 'enrich_articles', return_value=[]), patch.object(news, 'market_snapshot_items') as quotes:
+        with patch.object(news, 'fetch_rss_items', return_value=[]), patch.object(news, 'publisher_candidates', return_value=[]), patch.object(news, 'enrich_articles', return_value=[]), patch.object(news, 'market_snapshot_items') as quotes:
             with self.assertRaisesRegex(RuntimeError, 'No readable fresh news'):
                 news.generate_digest()
         quotes.assert_not_called()
+
+    def test_empty_japan_section_does_not_discard_fresh_us_news(self):
+        items = [dict(date=news.DATE_STR, dt=news.TODAY, headline=title, source='Test', link=f'https://example.com/{index}', local_summary='A source-specific factual summary.', zh_summary='根据该篇原文提炼的事实内容，保留公司、事件、时间和关键数字。') for index,title in enumerate(['Factory output increased after new production line opened', 'Cloud business revenue changed after a contract was signed', 'Chip producer released a new processor design'])]
+        with patch.object(news,'fetch_rss_items',side_effect=[items,[],[]]), patch.object(news,'publisher_candidates',return_value=[]), patch.object(news,'enrich_articles',side_effect=lambda x:x), patch.object(news,'summarize_articles',side_effect=lambda x,*args,**kwargs:x), patch.object(news,'deduplicate_summaries',side_effect=lambda x:(x,[])), patch.object(news,'remove_repeated_summary_sentences',side_effect=lambda x:(x,[])), patch.object(news,'summary_quality_issues',return_value=[]), patch.object(news,'validate_digest_quality',return_value=True), patch.object(news,'write_feed') as write, patch.object(news,'market_snapshot_items',return_value=[]):
+            digest=news.generate_digest()
+        self.assertEqual(3,digest.count('- **'))
+        self.assertIn('暂无可核实',digest)
+        self.assertEqual(3,len(write.call_args.args[1]))
+
+    def test_empty_section_notice_is_visible_without_replacing_disclaimer(self):
+        page=news.md_to_html('> Original disclaimer\n## 🇯🇵 Japan Market\n> No verified new source during this session.\n## 🇺🇸 US Market\n- **['+news.DATE_STR+'] Example**\n  English: Specific article facts.')
+        self.assertIn('Original disclaimer',page)
+        self.assertIn('Japan Market',page)
+        self.assertIn('No verified new source',page)
 
     def test_similar_quotes_do_not_block_publication(self):
         def quote(symbol):

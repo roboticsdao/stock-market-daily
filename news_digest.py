@@ -8,6 +8,7 @@ import html, os, subprocess, re, sys, time, json, urllib.parse, urllib.request, 
 from difflib import SequenceMatcher
 from datetime import datetime, timezone, timedelta
 from pathlib import Path
+from edition_health import publisher_candidates, write_feed
 
 from article_summaries import deduplicate_summaries, enrich_articles, fetch_rss_bytes, remove_repeated_summary_sentences, summarize_articles, summary_quality_issues
 
@@ -42,11 +43,10 @@ CONFIG = {
             "label": "日本株式市場 / Japan Market",
             "keywords": "Japan stock market Nikkei 225 TOPIX 日経平均 東証 日本株 日銀 金利 円安 半導体 トヨタ ソニー 決算",
             "rss_queries": [
-                "日経平均 日本株 個別銘柄 半導体 AI ソフトバンク 東京エレクトロン アドバンテスト",
-                "日本株 値上がり 値下がり 銘柄 決算 レーティング",
-                "東京エレクトロン アドバンテスト 半導体株 日経平均",
-                "ソフトバンクグループ 株価 AI データセンター",
-                "トヨタ ソニー 任天堂 日本株 今日",
+                "(日経平均 OR TOPIX OR 日本株) 株式",
+                "(決算 OR 業績 OR レーティング) 日本株",
+                "(東京エレクトロン OR アドバンテスト OR ソフトバンク) 株",
+                "(トヨタ OR ソニー OR 任天堂) (決算 OR 株価 OR 業績)",
             ],
             "exclude_terms": ["ETF", "投資信託"],
         },
@@ -739,6 +739,19 @@ def generate_digest():
             # Keep two readable alternates so a duplicated syndicated story can be
             # discarded after summarization without shrinking the section.
             items = enrich_articles(candidates)[:CONFIG["items_per_section"] + 2]
+            if len(items) < 3:
+                feeds = ["https://www.cnbc.com/id/100003114/device/rss/rss.html"]
+                if "Japan" in sec["label"]:
+                    feeds = ["https://rss.itmedia.co.jp/rss/2.0/monoist.xml"]
+                extras = publisher_candidates(
+                    feeds, NEWS_CUTOFF, TODAY,
+                    lambda title: is_relevant_market_item(sec, title), fetch_rss_bytes,
+                )
+                extras = [i for i in extras if not is_duplicate_story(i["headline"], [j["headline"] for j in items])]
+                for item in extras:
+                    item["summary_language"] = "Japanese" if "Japan" in sec["label"] else "English"
+                    item["section_label"] = sec["label"]
+                items.extend(enrich_articles(extras[:12]))
         except Exception as ex:
             print(f"   {sec['emoji']} article fetch failed: {ex}")
             items = []
@@ -759,6 +772,7 @@ def generate_digest():
     for item in summarized:
         summarized_by_section.setdefault(item["section_label"], []).append(item)
 
+    published_items = []
     for sec, _ in grouped_items:
         items = summarized_by_section.get(sec["label"], [])[:CONFIG["items_per_section"]]
         parts.append(f"\n## {sec['emoji']} {sec['label']}\n")
@@ -773,11 +787,19 @@ def generate_digest():
                 f"  📰 [{item['source']}]({item['link']})"
             )
         if not lines:
-            raise RuntimeError(f"No readable fresh news for {sec['label']}; keeping the previous complete edition")
+            parts.append("> 当前时段暂无可核实的 24 小时内新稿（休市、假期或来源暂不可读）。其他板块已更新，未以行情或旧稿代替新闻。")
+            continue
+        published_items.extend(items)
         print(f"   {sec['label']}: {len(items)} news articles")
         # Quotes supplement news. Never count them toward the news requirement.
         lines.extend(market_snapshot_items(sec)[:2])
         parts.append("\n\n".join(lines))
+    if len(published_items) < 3:
+        raise RuntimeError("No readable fresh news across markets; keeping the previous complete edition")
+    digest = "\n".join(parts)
+    if not validate_digest_quality(digest):
+        raise RuntimeError("Summary quality check failed; preserving previous edition")
+    write_feed(OUTPUT_DIR, published_items, "market", TODAY, {s["label"]: 3 for s in CONFIG["sections"]})
     parts.append(f"\n---\n※{CONFIG['title']} Digest | {DATE_STR}")
     return "\n".join(parts)
 
@@ -791,11 +813,14 @@ DATE_RE = re.compile(r'-\s*\*\*\[(\d{4}[\.\-/]\d{2}[\.\-/]\d{2})\]\s*(.+?)\*\*')
 
 def md_to_html(md):
     regions,cur,items,discl = [],None,[],""
+    notices = {}
     for line in md.split("\n"):
         s = line.strip()
-        if s.startswith("> "): discl = s[2:].strip()
+        if s.startswith("> "):
+            if cur: notices[cur[1]] = s[2:].strip()
+            else: discl = s[2:].strip()
         elif s.startswith("## "):
-            if cur and items: regions.append((cur,items))
+            if cur: regions.append((cur,items))
             h = s[3:].strip(); f=""
             for sec in CONFIG["sections"]:
                 if sec["emoji"] in h: f=sec["emoji"]; break
@@ -806,10 +831,12 @@ def md_to_html(md):
             else: items.append({"date":"","title":re.sub(r'^\-\s*\*\*(.+?)\*\*.*',r'\1',s),"lines":[]})
         elif items and not s.startswith("## ") and not s.startswith("# ") and not s.startswith("---") and s:
             items[-1]["lines"].append(s)
-    if cur and items: regions.append((cur,items))
+    if cur: regions.append((cur,items))
     parts = []
     for (f,l),its in regions:
         parts.append(f'<div class="region"><div class="region-head">{f} {l}</div>')
+        if l in notices:
+            parts.append(f'<p class="item-en">{html.escape(notices[l])}</p>')
         for it in its:
             en=jp=zh=src=""
             for ln in it["lines"]:
@@ -823,7 +850,7 @@ def md_to_html(md):
                     zh = ln.split("：", 1)[1].strip()
                     continue
                 if ln.startswith("📰"): src=f'<div class="item-src">原文链接：{linkify(ln.replace("📰","").strip())}</div>'
-                elif ln.lower().startswith("english:") or ln.lower().startswith("en:"): en=ln.split(":",1)[1].strip()
+                elif re.match(r"^(English|En)\s*[：:]", ln, re.I): en=re.split(r"[：:]",ln,maxsplit=1)[1].strip()
                 elif ln.startswith("日本語:") or ln.startswith("日本語："): jp=re.split(r'[：:]',ln,maxsplit=1)[-1].strip()
                 elif "中文" in ln[:4]: zh=re.split(r'[：:]',ln,maxsplit=1)[-1].strip()
                 elif not en and not any('\u4e00'<=c<='\u9fff' for c in ln[:10]): en=ln

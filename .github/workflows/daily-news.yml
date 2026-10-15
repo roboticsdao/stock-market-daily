@@ -41,6 +41,6 @@ jobs:
         run: python -u news_digest.py
       - name: Push
         run: |
-          git add latest.html Stock_Market_Daily_*.html Stock_Market_Daily_*.md history.json
+          git add latest.html Stock_Market_Daily_*.html Stock_Market_Daily_*.md history.json feed.json status.json
           git diff --cached --quiet || git commit -m "update $(date -u +%Y.%m.%d)"
           bash .github/scripts/push-generated.sh

@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+_site/
+node_modules/
+.playwright-cli/
+.DS_Store
