@@ -12,6 +12,7 @@ on:
   workflow_dispatch:  # 手动触发
 permissions:
   contents: write
+  actions: write
 concurrency:
   group: stock-market-daily-publish
   cancel-in-progress: false
@@ -44,3 +45,7 @@ jobs:
           git add latest.html Stock_Market_Daily_*.html Stock_Market_Daily_*.md history.json feed.json status.json
           git diff --cached --quiet || git commit -m "update $(date -u +%Y.%m.%d)"
           bash .github/scripts/push-generated.sh
+      - name: Deploy committed edition
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh workflow run pages.yml --repo "${{ github.repository }}" --ref main
