@@ -50,9 +50,11 @@ def write_feed(directory, items, kind, now, goals):
         raise RuntimeError("No verified source articles; previous edition must be retained")
     missing = {label: {"target": goal, "actual": counts.get(label, 0)}
                for label, goal in goals.items() if counts.get(label, 0) < goal}
-    status = {"state": "partial" if missing else "ok", "checked_at": now.isoformat(),
+    translations_missing = sum(not a["summary_zh"] for a in articles)
+    status = {"state": "partial" if missing or translations_missing else "ok", "checked_at": now.isoformat(),
               "latest_article_at": max(a["published_at"] for a in articles),
-              "articles": len(articles), "sections": counts, "shortfalls": missing}
+              "articles": len(articles), "sections": counts, "shortfalls": missing,
+              "translations_missing": translations_missing}
     output = Path(directory)
     (output / "feed.json").write_text(json.dumps({
         "kind": kind, "updated_at": now.isoformat(), "status": status, "articles": articles

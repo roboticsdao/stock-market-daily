@@ -272,6 +272,9 @@ def _summarize_batch(items, api_key, model="gemini-3.5-flash-lite"):
                 return completed
             except Exception as exc:
                 print(f"   Body-summary attempt {attempt + 1}/2 failed: {exc}")
+                if attempt == 1 and isinstance(exc, ValueError) and len(items) > 1:
+                    print("   Retrying malformed/refused batch as individual source articles")
+                    return [row for item in items for row in _summarize_batch([item], api_key, model)]
                 time.sleep(3)
 
     print("   Gemini summary unavailable; publishing factual source-language extracts without invented Chinese text")

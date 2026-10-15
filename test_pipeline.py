@@ -38,6 +38,23 @@ class PipelineTests(unittest.TestCase):
             self.assertFalse(summaries._decode_google_news("https://news.google.com/rss/articles/test")["status"])
             self.assertEqual(35, run.call_args.kwargs["timeout"])
 
+    def test_one_refused_article_cannot_discard_other_translations(self):
+        def response(**kwargs):
+            payload = json.loads(kwargs["contents"].split("ARTICLES:\n")[1])
+            if len(payload) > 1 or payload[0]["headline"] == "Refused":
+                return SimpleNamespace(text="")
+            return SimpleNamespace(text=json.dumps([{
+                "id": "0", "local_summary": "This source describes a new tactile sensor with twelve force channels, tested on ten different objects.",
+                "zh_summary": "该公司发布新触觉传感器，拥有十二个力通道，并在十种不同物体上进行了测试。原文还介绍了硬件的测试方法、具体参数与实验过程。"
+            }]))
+        from google import genai
+        with patch.object(genai, "Client") as client, patch.object(summaries.time, "sleep"):
+            client.return_value.models.generate_content.side_effect = response
+            items = [{"headline": title, "article_text": "A factual source body about sensors and robotics." * 10} for title in ("Valid", "Refused")]
+            result = summaries.summarize_articles(items, "test-key")
+        self.assertTrue(result[0]["zh_summary"])
+        self.assertFalse(result[1]["zh_summary"])
+
     def test_timed_out_source_does_not_discard_other_articles(self):
         good = {"headline": "Good source", "article_text": "Verified facts"}
         with patch.object(summaries, "_download_article", side_effect=[TimeoutError("source stalled"), good]):

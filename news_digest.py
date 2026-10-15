@@ -132,12 +132,6 @@ HISTORY_JS = '<script>\n(function(){\nvar B=window.location.href.replace(/\\/[^/
 
 THEME_JS = '''<script>(function(){var root=document.documentElement,key="news-theme",media=window.matchMedia("(prefers-color-scheme: dark)");try{var saved=localStorage.getItem(key);if(saved==="light"||saved==="dark")root.dataset.theme=saved}catch(e){}function current(){return root.dataset.theme||(media.matches?"dark":"light")}function setup(){var button=document.getElementById("themeBtn"),icon=document.getElementById("themeIcon");if(!button||!icon)return;function render(){var dark=current()==="dark";icon.textContent=dark?"☀":"◐";button.title=dark?"切换到白色背景":"切换到黑色背景";button.setAttribute("aria-label",button.title);button.setAttribute("aria-pressed",dark?"true":"false")}button.onclick=function(){var next=current()==="dark"?"light":"dark";root.dataset.theme=next;try{localStorage.setItem(key,next)}catch(e){}render()};if(media.addEventListener)media.addEventListener("change",render);render()}if(document.readyState==="loading")document.addEventListener("DOMContentLoaded",setup);else setup()})();</script>'''
 
-def call_gemini(prompt, use_search=True):
-    from google import genai; from google.genai import types
-    client = genai.Client(api_key=GEMINI_API_KEY)
-    cfg = {"temperature": CONFIG["temperature"]}
-    if use_search: cfg["tools"] = [types.Tool(google_search=types.GoogleSearch())]
-    return (client.models.generate_content(model=CONFIG["model"],contents=prompt,config=types.GenerateContentConfig(**cfg)).text or "")
 
 def has_real_content(t):
     if t.count("- **[") < 4 or "很抱歉" in t or "无法获取" in t or "sorry" in t.lower():
@@ -301,14 +295,7 @@ def mentioned_entities(headline):
     found = [name for name in names if name.lower() in headline.lower()]
     return "、".join(found[:5]) if found else "相关公司和板块"
 
-def short_event(headline, limit=95):
-    clean = re.sub(r"\s+", " ", headline).strip()
-    return clean if len(clean) <= limit else clean[:limit].rstrip() + "..."
 
-def sentence_event(headline, limit=70):
-    clean = re.sub(r"[.!?。！？\"“”]+", " ", headline)
-    clean = re.sub(r"\s+", " ", clean).strip()
-    return clean if len(clean) <= limit else clean[:limit].rstrip() + "…"
 
 def market_topic(sec, headline):
     lower = headline.lower()
@@ -347,143 +334,6 @@ def market_topic(sec, headline):
         return "market_breadth"
     return "general"
 
-MARKET_PROFILES = {
-    "earnings": {
-        "label_en": "earnings and guidance", "label_zh": "财报与业绩指引", "label_jp": "決算・業績見通し",
-        "en": "Reported revenue, margins, guidance, and management commentary can reset expectations for both the company and suppliers exposed to the same demand cycle",
-        "zh": "收入、利润率、业绩指引和管理层表态会重新校准公司及同一需求周期内供应商的盈利预期",
-        "jp": "売上高、利益率、会社計画、経営陣の説明は、当該企業だけでなく同じ需要循環に属する供給企業の期待も修正します",
-        "watch_en": "the gap versus consensus, after-hours volume, estimate revisions, and peer guidance",
-        "watch_zh": "实际结果与市场预期的差距、盘后成交量、盈利预测调整和同业指引",
-        "watch_jp": "市場予想との差、時間外の出来高、業績予想の修正、同業他社の見通し",
-    },
-    "financing": {
-        "label_en": "capital financing", "label_zh": "融资与资本开支", "label_jp": "資金調達・設備投資",
-        "en": "The financing structure determines who carries construction, utilization, credit, and dilution risk, so the headline amount is less informative than the terms and committed customers",
-        "zh": "融资结构决定建设、利用率、信用和股权稀释风险由谁承担，因此标题金额不如资金条款、担保安排和已承诺客户重要",
-        "jp": "資金調達の構造は建設、稼働率、信用、希薄化のリスク分担を決めるため、金額より条件と確定顧客が重要です",
-        "watch_en": "funding terms, balance-sheet exposure, build schedule, contracted demand, and return on invested capital",
-        "watch_zh": "融资条款、表内风险、建设进度、已签约需求和投入资本回报率",
-        "watch_jp": "調達条件、貸借対照表への影響、建設日程、契約済み需要、投下資本利益率",
-    },
-    "pricing": {
-        "label_en": "product pricing", "label_zh": "产品定价", "label_jp": "製品価格",
-        "en": "A price increase can protect gross margin but may weaken unit demand, accelerate replacement-cycle delays, or create room for competitors at lower price points",
-        "zh": "提价可以保护毛利率，但也可能压低销量、延长换机周期，并给价格更低的竞争者留下空间",
-        "jp": "値上げは粗利益率を守る一方、販売台数の減少、買い替え周期の長期化、低価格競合への流出を招く可能性があります",
-        "watch_en": "regional price lists, unit demand, carrier or channel incentives, mix shift, and gross-margin guidance",
-        "watch_zh": "各地区价目表、销量变化、渠道补贴、产品组合迁移和毛利率指引",
-        "watch_jp": "地域別価格、販売台数、販売奨励金、製品構成、粗利益率見通し",
-    },
-    "analyst": {
-        "label_en": "analyst repricing", "label_zh": "分析师评级调整", "label_jp": "アナリスト評価",
-        "en": "An analyst call changes positioning most when it contains a new earnings estimate, valuation framework, or channel datapoint rather than a price-target change alone",
-        "zh": "评级变化只有在伴随新的盈利预测、估值方法或渠道数据时才更可能改变资金仓位，单独调整目标价的信息量较低",
-        "jp": "評価変更は、新しい利益予想、評価手法、販売チャネル情報を伴う場合に影響が大きく、目標株価だけの変更は情報量が限られます",
-        "watch_en": "estimate revisions, target assumptions, other firms' follow-through, short interest, and options activity",
-        "watch_zh": "盈利预测修订、目标价假设、其他机构是否跟进、空头仓位和期权活动",
-        "watch_jp": "利益予想の修正、目標株価の前提、他社の追随、空売り残高、オプション取引",
-    },
-    "semiconductor": {
-        "label_en": "semiconductor demand", "label_zh": "半导体需求链", "label_jp": "半導体需要",
-        "en": "The read-through depends on which layer is moving: accelerators, memory, networking, foundry capacity, or equipment have different revenue timing and margin sensitivity",
-        "zh": "影响要按加速器、存储、网络、晶圆代工或设备等环节拆分，因为各环节收入确认时间、库存周期和利润率敏感度不同",
-        "jp": "アクセラレーター、メモリー、ネットワーク、受託製造、製造装置では売上計上の時期と利益率感応度が異なるため、どの層の材料かを分けて見る必要があります",
-        "watch_en": "order visibility, memory or capacity pricing, customer concentration, capex plans, and SOX peer breadth",
-        "watch_zh": "订单可见度、存储或产能价格、客户集中度、资本开支计划和芯片同业涨跌宽度",
-        "watch_jp": "受注の可視性、メモリー・生産能力の価格、顧客集中、設備投資計画、関連銘柄の広がり",
-    },
-    "company": {
-        "label_en": "company-specific technology", "label_zh": "大型科技公司个股事件", "label_jp": "大型テクノロジー企業の個別材料",
-        "en": "The company-level catalyst can affect index direction because of market-cap weight, but the fundamental channel differs across cloud, devices, advertising, vehicles, and AI investment",
-        "zh": "大型公司的市值权重会放大个股消息对指数的影响，但云服务、终端、广告、汽车和 AI 投资的盈利传导路径并不相同",
-        "jp": "時価総額の大きさから指数への影響は強いものの、クラウド、端末、広告、自動車、AI投資では利益への伝わり方が異なります",
-        "watch_en": "the named business metric, management guidance, supplier reaction, index contribution, and whether peers share the move",
-        "watch_zh": "标题对应的业务指标、管理层指引、供应商反应、指数贡献度和同业是否同步",
-        "watch_jp": "該当事業の指標、経営陣の見通し、供給企業の反応、指数寄与度、同業の連動",
-    },
-    "price_move": {
-        "label_en": "stock-price movement", "label_zh": "个股价格异动", "label_jp": "株価変動",
-        "en": "The move is informative only when price direction is supported by volume, a clearly identified catalyst, and participation from economically related peers",
-        "zh": "价格异动只有在成交量、明确催化和相关同业共同确认时才更有信息价值，否则可能只是期权、空头回补或短线仓位造成",
-        "jp": "株価変動は、出来高、明確な材料、関連企業の同方向の動きがそろって初めて情報価値が高まり、単独の値動きは短期需給の可能性があります",
-        "watch_en": "opening and closing volume, options flow, news timing, peer moves, and whether gains hold after the first hour",
-        "watch_zh": "开收盘成交量、期权资金流、消息发布时间、同业表现和首小时后涨幅是否保留",
-        "watch_jp": "寄り付き・引けの出来高、オプション、材料時刻、同業の値動き、初動後の持続性",
-    },
-    "market_breadth": {
-        "label_en": "index and market breadth", "label_zh": "指数与市场宽度", "label_jp": "指数・市場の広がり",
-        "en": "An index move can be driven by a few heavyweights, so advance-decline breadth and sector participation are needed to distinguish broad risk appetite from concentration",
-        "zh": "指数可能被少数权重股推动，因此必须结合涨跌家数和行业参与度，区分广泛风险偏好与集中交易",
-        "jp": "指数は少数の値がさ株で動くため、騰落銘柄数と業種別参加を確認し、市場全体の買いと集中物色を分ける必要があります",
-        "watch_en": "advance-decline data, equal-weight indexes, futures, sector leadership, foreign flows, and closing breadth",
-        "watch_zh": "涨跌家数、等权指数、期货、领涨行业、外资流向和收盘市场宽度",
-        "watch_jp": "騰落銘柄数、等ウェイト指数、先物、主導業種、海外投資家動向、引け時の広がり",
-    },
-    "rates": {
-        "label_en": "interest rates and bond yields", "label_zh": "利率与债券收益率", "label_jp": "金利・債券利回り",
-        "en": "A yield change alters equity discount rates, bank margins, financing costs, and the relative appeal of long-duration growth stocks",
-        "zh": "收益率变化会同时影响股票折现率、银行息差、企业融资成本以及长期成长股相对债券的吸引力",
-        "jp": "利回りの変化は株式の割引率、銀行利ざや、企業の資金調達費用、長期成長株の相対魅力を動かします",
-        "watch_en": "the real-yield move, curve shape, Fed pricing, dollar response, and rate-sensitive equity sectors",
-        "watch_zh": "实际收益率、曲线形态、Fed 定价、美元反应和利率敏感行业",
-        "watch_jp": "実質金利、イールドカーブ、Fed織り込み、ドル反応、金利敏感業種",
-    },
-    "currency": {
-        "label_en": "foreign exchange", "label_zh": "汇率", "label_jp": "為替",
-        "en": "A yen or dollar move changes exporter earnings translation, import costs, intervention risk, and cross-border allocation into US and Japanese equities",
-        "zh": "美元或日元变化会影响出口企业利润换算、进口成本、干预风险以及美日股票之间的跨境资金配置",
-        "jp": "円・ドルの変動は輸出企業の換算利益、輸入コスト、介入リスク、日米株への国際資金配分を変えます",
-        "watch_en": "spot and options levels, rate differentials, official comments, exporter shares, and foreign equity flows",
-        "watch_zh": "现货与期权价位、利差、官方表态、出口股表现和外资流向",
-        "watch_jp": "現物・オプション水準、金利差、当局発言、輸出株、海外投資家フロー",
-    },
-    "oil": {
-        "label_en": "oil and inflation", "label_zh": "原油与通胀", "label_jp": "原油・インフレ",
-        "en": "Oil affects energy earnings and inflation expectations while raising input and transport costs for airlines, chemicals, manufacturers, and consumers",
-        "zh": "原油既影响能源公司盈利和通胀预期，也会抬升航空、化工、制造和消费部门的投入与运输成本",
-        "jp": "原油はエネルギー企業の利益とインフレ期待を押し上げる一方、航空、化学、製造、消費の投入・輸送費を増やします",
-        "watch_en": "the futures curve, inventory data, geopolitical supply risk, energy-sector breadth, and inflation breakevens",
-        "watch_zh": "期货曲线、库存数据、地缘供应风险、能源板块宽度和通胀盈亏平衡率",
-        "watch_jp": "先物曲線、在庫統計、地政学的供給リスク、エネルギー株の広がり、期待インフレ率",
-    },
-    "gold": {
-        "label_en": "precious metals", "label_zh": "黄金与贵金属", "label_jp": "金・貴金属",
-        "en": "Gold responds to real yields, the dollar, central-bank demand, and hedging flows, so a rally can reflect falling funding costs or rising risk aversion",
-        "zh": "黄金受实际利率、美元、央行需求和避险资金共同影响，因此上涨既可能来自资金成本下降，也可能来自风险厌恶升温",
-        "jp": "金は実質金利、ドル、中央銀行需要、ヘッジ資金に反応するため、上昇は資金コスト低下とリスク回避のどちらでも起こり得ます",
-        "watch_en": "real yields, dollar direction, ETF flows, central-bank purchases, miner shares, and silver confirmation",
-        "watch_zh": "实际利率、美元方向、黄金 ETF 流量、央行购金、矿业股和白银是否确认",
-        "watch_jp": "実質金利、ドル方向、ETF資金、中央銀行購入、金鉱株、銀の追随",
-    },
-    "crypto": {
-        "label_en": "crypto risk appetite", "label_zh": "加密资产风险偏好", "label_jp": "暗号資産のリスク選好",
-        "en": "Crypto prices combine liquidity, leverage, regulatory, and technology-specific flows, making them a useful but imperfect indicator for speculative equity appetite",
-        "zh": "加密资产同时受流动性、杠杆、监管和技术自身资金影响，可辅助观察投机风险偏好，但不能直接替代股票市场信号",
-        "jp": "暗号資産は流動性、レバレッジ、規制、固有の技術資金に左右され、投機的な株式需要の参考にはなりますが完全な代替指標ではありません",
-        "watch_en": "spot ETF flows, funding rates, leverage liquidations, regulatory news, and correlation with growth equities",
-        "watch_zh": "现货 ETF 流量、资金费率、杠杆清算、监管消息和成长股相关性",
-        "watch_jp": "現物ETF資金、資金調達率、強制清算、規制ニュース、成長株との相関",
-    },
-    "inflation": {
-        "label_en": "inflation data", "label_zh": "通胀数据", "label_jp": "インフレ指標",
-        "en": "Inflation surprises change the expected policy path and therefore the discount rate applied to equities, with growth stocks usually more sensitive than defensives",
-        "zh": "通胀数据偏离预期会改变政策路径和股票折现率，估值较高的成长股通常比防御板块更敏感",
-        "jp": "インフレ指標の予想差は政策金利の経路と株式の割引率を変え、一般に高評価の成長株ほど影響を受けます",
-        "watch_en": "core versus headline components, services inflation, wage data, yield reaction, and Fed-funds repricing",
-        "watch_zh": "核心与总体分项、服务通胀、工资数据、收益率反应和联邦基金利率重定价",
-        "watch_jp": "総合・コア内訳、サービス価格、賃金、利回り反応、政策金利織り込み",
-    },
-    "general": {
-        "label_en": "market-specific information", "label_zh": "市场特定事件", "label_jp": "個別の市場材料",
-        "en": "The headline identifies a potential catalyst, but its trading value depends on a measurable link to earnings, valuation, positioning, or capital flows",
-        "zh": "标题给出了潜在催化，但交易价值取决于它能否通过盈利、估值、仓位或资金流形成可测量影响",
-        "jp": "見出しは材料候補を示しますが、利益、評価、ポジション、資金フローへの測定可能な影響がなければ取引価値は限定的です",
-        "watch_en": "the underlying data, timing, affected securities, volume response, and confirmation from related markets",
-        "watch_zh": "底层数据、发生时间、受影响证券、成交量反应和相关市场确认",
-        "watch_jp": "基礎データ、発生時刻、影響銘柄、出来高反応、関連市場の確認",
-    },
-}
 
 def is_relevant_market_item(sec, headline):
     lower = headline.lower()
@@ -511,95 +361,10 @@ def market_story_bucket(sec, headline):
         return entities.split("、", 1)[0].lower()
     return topic
 
-def us_event_points(headline):
-    lower = headline.lower()
-    en, zh = [], []
-    if "pre-market" in lower or "premarket" in lower:
-        en.append("it is a pre-market setup, so futures, opening breadth, and early volume are the first checks")
-        zh.append("标题指向美股盘前交易，重点应放在期货、开盘后的市场宽度和早盘成交量是否确认")
-    if "nasdaq futures" in lower or "nasdaq" in lower:
-        en.append("Nasdaq futures make the story relevant for growth-tech risk appetite")
-        zh.append("Nasdaq 是主要传导对象，因此这不只是单一公司消息，也会影响成长科技股风险偏好")
-    if "micron" in lower and any(k in lower for k in ["earnings", "forecast", "quarter", "sales", "bullish"]):
-        en.append("Micron earnings or guidance point to stronger AI-server memory demand")
-        zh.append("Micron 的财报或指引是核心催化，市场正在重新评估 AI 服务器和数据中心对存储芯片的需求")
-    elif "micron" in lower:
-        en.append("Micron is the stock-specific signal, so memory pricing matters more than a generic chip move")
-        zh.append("Micron 是主要个股信号，重点应看存储价格和 AI 服务器需求，而不只是泛泛看芯片股上涨")
-    if "boom-bust" in lower or "cycle" in lower:
-        en.append("the article questions whether AI demand is changing the old memory boom-bust cycle")
-        zh.append("标题在讨论传统存储行业的景气循环是否被 AI 需求改写，这会影响 Micron 的估值逻辑")
-    if "soar" in lower or "surge" in lower or "rally" in lower or "gaining" in lower or "rebound" in lower:
-        en.append("the price reaction is part of the news, so peer follow-through matters")
-        zh.append("这类消息包含明确的股价反应，后续要看同业是否继续跟涨，而不是只看标题中的单日涨幅")
-    if "qualcomm" in lower and "ai" in lower:
-        en.append("Qualcomm adds an AI-device chip angle separate from data-center memory")
-        zh.append("Qualcomm 带来的是 AI 终端或设备芯片角度，和 Micron 的数据中心存储逻辑并不完全相同")
-    if "ibm" in lower and ("sub-1nm" in lower or "chip" in lower):
-        en.append("IBM adds a longer-term chip R&D angle, not an immediate earnings catalyst")
-        zh.append("IBM 的芯片进展更偏长期半导体研发线索，不等同于当日财报驱动")
-    if any(k in lower for k in ["amd", "intel", "qualcomm", "broadcom", "nvidia"]):
-        en.append("peer moves show whether the trade is spreading through the AI-chip chain")
-        zh.append("AMD、Intel、Qualcomm、Broadcom 或 Nvidia 等同业表现，可以判断资金是否在扩散到更完整的 AI 芯片链")
-    if "watch" in lower or "industry news" in lower:
-        en.append("this is more of an industry watchlist item, so it should be treated as context rather than one decisive catalyst")
-        zh.append("这更像行业观察清单，适合作为背景信息，而不是单一明确催化")
-    if not en:
-        en.append("the headline points to a change in company-level expectations, sector rotation, or market sentiment")
-        zh.append("标题反映的是个股预期、行业轮动或市场情绪的变化")
-    return en[:5], zh[:5]
 
-def infer_market_summary(sec, item):
-    headline = item["headline"]
-    source = item.get("source", "新闻来源")
-    entities = mentioned_entities(headline)
-    if entities == "相关公司和板块":
-        entities = source
-    event = short_event(headline)
-    reference = sentence_event(headline, 55)
-    profile = MARKET_PROFILES[market_topic(sec, headline)]
-    return (
-        f"{source}报道的具体事件是「{event}」，主题属于{profile['label_zh']}。"
-        f"对{entities}以及「{reference}」所涉及的资产而言，{profile['zh']}。"
-        f"后续应围绕「{reference}」核实{profile['watch_zh']}；这些项目比套用统一的指数、成交量或同业模板更能验证该新闻本身是否正在改变市场定价。"
-    )
 
-def ensure_summary_depth(summary, sec, item=None):
-    if len(summary) >= 180:
-        return summary
-    headline = item["headline"] if item else sec["label"]
-    reference = sentence_event(headline, 55)
-    profile = MARKET_PROFILES[market_topic(sec, headline)]
-    return summary + f" 对「{reference}」的补充验证应继续使用{profile['watch_zh']}，而不是加入与该事件无关的通用观察清单。"
 
-def english_market_body(sec, item, summary):
-    headline = item["headline"]
-    source = item.get("source", "the source")
-    entities = mentioned_entities(headline).replace("、", ", ")
-    if entities == "相关公司和板块":
-        entities = source
-    profile = MARKET_PROFILES[market_topic(sec, headline)]
-    reference = sentence_event(headline, 40)
-    short_reference = sentence_event(headline, 20)
-    return (
-        f'Summary: {source} reports "{reference}," a {profile["label_en"]} item affecting {entities}. '
-        f'In {source}\'s "{short_reference}" case, {profile["en"][0].lower() + profile["en"][1:]}. '
-        f'For "{short_reference}," watch {profile["watch_en"]}.'
-    )
 
-def japanese_market_body(sec, item, summary):
-    headline = item["headline"]
-    source = item.get("source", "ニュースソース")
-    entities = mentioned_entities(headline)
-    if entities == "相关公司和板块":
-        entities = source
-    profile = MARKET_PROFILES[market_topic(sec, headline)]
-    reference = sentence_event(headline, 45)
-    return (
-        f"要約：{source}が報じた具体的な出来事は「{reference}」です。これは{profile['label_jp']}の材料で、{entities}が直接の確認対象です。"
-        f"「{reference}」を読む際、{profile['jp']}。"
-        f"{source}の「{reference}」について次に確認する項目は、{profile['watch_jp']}です。該当指標が動くまでは、この個別材料を日本株全体の方向へ広げて解釈しません。"
-    )
 
 def quote_body(sec, en_name, zh_name, price, pct, when):
     direction_en = "higher" if pct >= 0 else "lower"
@@ -685,45 +450,7 @@ def market_snapshot_items(sec):
         )
     return lines
 
-def fetch_section_rss(sec):
-    try:
-        items = fetch_rss_items(sec)
-    except Exception as ex:
-        print(f"   {sec['emoji']} RSS fallback error: {ex}")
-        return ""
-    lines = []
-    for item in items:
-        summary = ensure_summary_depth(infer_market_summary(sec, item), sec, item)
-        is_japan = "日本" in sec["label"] or "Japan" in sec["label"]
-        local_body = japanese_market_body(sec, item, summary) if is_japan else english_market_body(sec, item, summary)
-        local_line = f"  日本語：{local_body}\n" if is_japan else f"  English: {local_body}\n"
-        lines.append(
-            f"- **[{item['date']}] {item['source']} — {item['headline']}**\n"
-            f"{local_line}"
-            f"  中文：总结：{summary}\n"
-            f"  📰 [{item['source']}]({item['link']})"
-        )
-    if len(lines) < 8:
-        snapshot = market_snapshot_items(sec)
-        lines.extend(snapshot[: max(0, 8 - len(lines))])
-    print(f"   {sec['emoji']} RSS/current fallback got {len(lines)} items")
-    return "\n\n".join(lines)
 
-def fetch_section(sec):
-    e,l,kw = sec["emoji"],sec["label"],sec["keywords"]
-    if not GEMINI_API_KEY:
-        print(f"   {e} GEMINI_API_KEY missing; using RSS fallback")
-        return fetch_section_rss(sec)
-    p = CONFIG["section_prompt"].format(label=l,keywords=kw,date_str=DATE_STR,items_per_section=CONFIG["items_per_section"],time_window=CONFIG["time_window"])
-    for a in range(CONFIG["max_retries"]):
-        try:
-            t = call_gemini(p,True)
-            t = re.sub(r'https://vertexaisearch\.cloud\.google\.com/[^\s\)]+','https://www.google.com/search?q='+kw.split()[0],t)
-            if has_real_content(t) and validate_digest_quality(t): print(f"   {e} Got {t.count('- **')} items (attempt {a+1})"); return t
-        except Exception as ex: print(f"   {e} Attempt {a+1} error: {ex}")
-        time.sleep(CONFIG["retry_delay"])
-    print(f"   {e} Fallback...")
-    return fetch_section_rss(sec)
 
 def generate_digest():
     h = f"# {CONFIG['emoji']} {CONFIG['title']} | {DATE_STR}（{WEEKDAY_JP}曜日 / {WEEKDAY_EN}）\n\n> {CONFIG['disclaimer']}\n\n---\n"
