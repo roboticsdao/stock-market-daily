@@ -20,9 +20,9 @@ class PipelineTests(unittest.TestCase):
         body = ("Atlas Robotics released a tactile sensor for warehouse robot hands. "
                 "The sensor measures contact forces and was tested on twelve objects. ") * 5
         page = "<html><body><article><h1>Sensor release</h1><p>" + body + "</p></article></body></html>"
-        with patch("googlenewsdecoder.gnewsdecoder", return_value={
+        with patch.object(summaries, "_decode_google_news", return_value={
             "status": True, "decoded_url": "https://example.com/story"
-        }), patch("trafilatura.fetch_url", return_value=page):
+        }), patch.object(summaries.urllib.request, "urlopen", return_value=io.BytesIO(page.encode())) as fetch:
             item = summaries._download_article({
                 "headline": "Robot sensor release",
                 "link": "https://news.google.com/rss/articles/test",
@@ -30,6 +30,18 @@ class PipelineTests(unittest.TestCase):
         self.assertIsNotNone(item)
         self.assertEqual("https://example.com/story", item["link"])
         self.assertIn("twelve objects", item["article_text"])
+        self.assertEqual(15, fetch.call_args.kwargs["timeout"])
+
+    def test_decoder_has_a_hard_process_deadline(self):
+        with patch.object(summaries.subprocess, "run") as run:
+            run.return_value.stdout = '{"status":false}'
+            self.assertFalse(summaries._decode_google_news("https://news.google.com/rss/articles/test")["status"])
+            self.assertEqual(35, run.call_args.kwargs["timeout"])
+
+    def test_timed_out_source_does_not_discard_other_articles(self):
+        good = {"headline": "Good source", "article_text": "Verified facts"}
+        with patch.object(summaries, "_download_article", side_effect=[TimeoutError("source stalled"), good]):
+            self.assertEqual([good], summaries.enrich_articles([{"headline": "Stalled"}, good], workers=1))
 
     def test_rss_503_is_retried(self):
         error = urllib.error.HTTPError("https://example.com/rss", 503, "Unavailable", None, None)

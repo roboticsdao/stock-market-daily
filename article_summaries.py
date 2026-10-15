@@ -1,6 +1,8 @@
 import json
 import re
 import time
+import subprocess
+import sys
 import urllib.error
 import urllib.request
 from concurrent.futures import ThreadPoolExecutor, as_completed
@@ -67,20 +69,35 @@ def _extractive_summary(text, limit=520):
     return _clean(" ".join(selected)) or text[:limit].rstrip()
 
 
+def _decode_google_news(url):
+    # The third-party decoder has no request timeout. Isolate it so a stalled
+    # publisher cannot keep the executor (and the entire daily job) alive.
+    result = subprocess.run(
+        [sys.executable, "-c",
+         "import json,sys; from googlenewsdecoder import gnewsdecoder; "
+         "print(json.dumps(gnewsdecoder(sys.argv[1])))", url],
+        capture_output=True, text=True, timeout=35, check=True,
+    )
+    return json.loads(result.stdout.strip().splitlines()[-1])
+
+
 def _download_article(item):
-    from googlenewsdecoder import gnewsdecoder
-    from trafilatura import extract, fetch_url
+    from trafilatura import extract
 
     source_url = item.get("link", "")
     direct_url = source_url
     if "news.google.com" in source_url:
-        decoded = gnewsdecoder(source_url, interval=1)
+        decoded = _decode_google_news(source_url)
         if not decoded.get("status"):
             return None
         direct_url = decoded.get("decoded_url", "")
     if not direct_url:
         return None
-    downloaded = fetch_url(direct_url)
+    request = urllib.request.Request(direct_url, headers={"User-Agent": "Mozilla/5.0 RoboticsDAO-News/1.0"})
+    with urllib.request.urlopen(request, timeout=15) as response:
+        downloaded = response.read(2_000_001)
+    if len(downloaded) > 2_000_000:
+        return None
     body = extract(
         downloaded,
         url=direct_url,
