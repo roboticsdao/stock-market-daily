@@ -1,10 +1,10 @@
 {
   "kind": "market",
-  "updated_at": "2026-10-17T00:43:02.058137+09:00",
+  "updated_at": "2026-10-17T02:25:53.645210+09:00",
   "status": {
-    "state": "partial",
-    "checked_at": "2026-10-17T00:43:02.058137+09:00",
-    "latest_article_at": "2026-10-17T00:15:25+09:00",
+    "state": "ok",
+    "checked_at": "2026-10-17T02:25:53.645210+09:00",
+    "latest_article_at": "2026-10-17T02:15:30+09:00",
     "articles": 22,
     "sections": {
       "美国股市 / US Market": 8,
@@ -12,30 +12,52 @@
       "宏观经济与投资 / Macro & Investment": 8
     },
     "shortfalls": {},
-    "translations_missing": 8
+    "translations_missing": 0
   },
   "articles": [
     {
       "date": "2026.10.17",
-      "published_at": "2026-10-17T00:15:25+09:00",
-      "headline": "Palantir Technologies Inc Stock (PLTR) Moved Down by 5.74% on Oct 16: What Investors Need To Know",
+      "published_at": "2026-10-17T02:15:30+09:00",
+      "headline": "Dell Technologies Inc Stock (DELL) Moved Down by 3.64% on Oct 16: Facts Behind the Movement",
       "source": "TradingKey",
-      "url": "https://www.tradingkey.com/news/market-movers/262221317-market-movers-pltr-20261016",
+      "url": "https://www.tradingkey.com/news/market-movers/262221497-market-movers-dell-20261016",
       "language": "English",
       "section": "美国股市 / US Market",
-      "summary": "Palantir Technologies Inc stock dropped 5.74% on October 16 amid a broader Software & IT Services sector decline of 1.58%. The pullback was driven by institutional profit-taking, valuation recalibration following a multi-month rally, and caution ahead of the third-quarter earnings report. High forward valuations, analyst downgrades, anticipated top-line growth deceleration, and insider share sales further weighed on the stock. Technically, the MACD stood at -1.283, RSI at 48.756, and Williams %R at 85.603. Palantir's latest annual revenue was reported at $4.48B with a net profit of $1.63B. Analysts recently maintained an average price target of $207.13, with a high of $265.00 and a low of $80.00.",
-      "summary_zh": "Palantir Technologies Inc股价在10月16日下跌5.74%，软件与IT服务板块同期下跌1.58%。 此次回调主要受机构获利回吐、长达数月上涨后的估值重新校准以及三季度财报发布前的审慎情绪驱动。 极高的前瞻估值、分析师下调评级、预期的营收增速放缓以及内部人士股份抛售进一步施压该股。 技术面上，MACD指标为-1.283，RSI为48.756，威廉指标Williams %R为85.603。 Palantir最新年度营收为$4.48B，净利润为$1.63B。 分析师近期的平均目标价为$207.13，最高$265.00，最低$80.00。"
+      "summary": "Dell Technologies Inc (DELL) stock dropped by 3.64% on Oct 16 amid a broader 1.54% decline in the Technology Equipment sector. The downward momentum was driven by market sentiment adjustments following a Barclays downgrade from Overweight to Equal Weight and a reduced price target to $574, which raised concerns that rapid AI server demand expansion might decelerate. Analysts noted that recent revenue gains largely stemmed from higher memory component costs passed to customers rather than organic adoption growth, threatening margin compression as prices normalize. Additional pressure came from macroeconomic inflation readings raising borrowing costs, insider share sales near multi-month highs, and technical indicators showing a MACD value of -28.550, RSI at 33.936, and Williams %R at 96.035. Despite these headwinds, management maintains an optimistic outlook based on strong Infrastructure Solutions Group backlogs.",
+      "summary_zh": "戴尔科技公司（DELL）股价在10月16日下跌3.64%，同期科技设备板块下跌1.54%。 巴克莱银行将该股评级从增持下调至平仓，并将目标价下调至574美元，引发市场对人工智能服务器需求可能放缓的担忧，导致股价承压。 分析师指出，近期营收增长主要源于将更高的内存组件成本转嫁给客户，而非广泛的企业级人工智能采用，随着内存价格正常化，利润率可能受到压缩。 此外，宏观通货膨胀带来的借贷成本上升、接近几个月高点的内部人士减持，以及MACD指标为-28.550、RSI为33.936、Williams %R为96.035的技术面状况，也加剧了下跌压力。 尽管面临短期逆风，管理层凭借基础设施解决方案集团的大量订单积压，仍保持长期乐观态度。"
     },
     {
-      "date": "2026.10.16",
-      "published_at": "2026-10-16T23:54:00+09:00",
-      "headline": "Intel and AMD Drop 3% as Rotation Out of AI Chip Stocks Continues; NVIDIA Holds Steady",
-      "source": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/2026/10/16/intel-and-amd-drop-3-as-rotation-out-of-ai-chip-stocks-continues-nvidia-holds-steady/",
+      "date": "2026.10.17",
+      "published_at": "2026-10-17T02:15:28+09:00",
+      "headline": "Shopify Inc Stock (SHOP) Moved Down by 3.83% on Oct 16: What Signal Does It Send?",
+      "source": "TradingKey",
+      "url": "https://www.tradingkey.com/news/market-movers/262221495-market-movers-shop-20261016",
       "language": "English",
       "section": "美国股市 / US Market",
-      "summary": "Intel and AMD shares both dropped 3% in morning trading, with Intel falling to $92.60 and AMD to $544.74, amid a continuing rotation out of AI chip stocks. The iShares Semiconductor ETF declined 2%, while NVIDIA bucked the trend, rising 0.4% to $218.10. The selloff was fueled by doubts regarding how AI infrastructure spending is financed. Intel reported strong revenue growth led by its CEO Lip-Bu Tan, though its foundry business posted a large operating operating loss. Intel relies on an in-house manufacturing model backed by U. S. CHIPS Act funding and processes like Intel 3 and Intel 18A. Conversely, AMD utilizes an outsourced production model, generating the majority of its revenue from its Data Center division featuring EPYC processors and Instinct accelerators.",
-      "summary_zh": "在资金持续撤出人工智能芯片股的背景下，Intel和AMD股价在早盘交易中均下跌3%，其中Intel跌至$92.60，AMD跌至$544.74。 iShares半导体ETF下跌2%，而NVIDIA逆势上涨0.4%至$218.10。 抛售潮主要源于市场对人工智能基础设施开支融资方式的质疑。 在CEO Lip-Bu Tan的带领下，Intel曾报告强劲的营收增长，但其代工业务仍出现巨额营业亏损。 Intel依赖内部制造模式，并获得美国芯片法案资金支持以及Intel 3和Intel 18A等制程工艺。 相比之下，AMD采用外包生产模式，其营收主要来自搭载EPYC处理器和Instinct加速器的数据中心业务部。"
+      "summary": "Shopify Inc (SHOP) stock declined by 3.83% on Oct 16, underperforming the Software & IT Services sector which fell by 2.55%. The intraday pressure resulted from investor profit-taking after a multi-week rally pushed the stock near its 52-week highs and a forward P/E ratio exceeding 85x. The pullback highlights tension between robust top-line momentum with revenue growth above 30% and rich valuation multiples, as well as gross margin scrutiny driven by a revenue mix shift toward lower-margin merchant payments. Technical indicators showed a MACD value of 3.602 indicating a buy signal, an RSI of 64.224 suggesting neutral conditions, and a Williams %R at 21.456 indicating a buy condition. Analysts reported an average price target of $175.28, with a high of $220.00 and a low of $120.00, while the company maintains a latest annual revenue of $11.56B and a net profit of $1.23B.",
+      "summary_zh": "Shopify公司（SHOP）股价在10月16日下跌3.83%，表现逊于下跌2.55%的软件与IT服务板块。 盘中压力源于投资者在经历多周上涨使股价接近52周高点且预期市盈率超过85倍后的获利回吐。 此次回调突显了超过30%的强劲营收增长与高昂估值倍数之间的紧张关系，同时由于收入结构向利润率较低的商家支付业务倾斜，毛利率也受到密切审视。 技术指标显示MACD值为3.602发出买入信号，RSI为64.224处于中性状态，Williams %R为21.456表明处于买入条件。 分析师给出的平均目标价为175.28美元，最高220.00美元，最低120.00美元，公司最新年度营收为11.56B美元，净利润为1.23B美元。"
+    },
+    {
+      "date": "2026.10.17",
+      "published_at": "2026-10-17T00:24:04+09:00",
+      "headline": "NVIDIA Corporation (NVDA) stock price, news, quote and history",
+      "source": "Yahoo Finance Singapore",
+      "url": "https://sg.finance.yahoo.com/quote/NVDA/",
+      "language": "English",
+      "section": "美国股市 / US Market",
+      "summary": "NVIDIA Corporation (NVDA) reported a previous close of 217.23, an open of 216.56, a day's range between 215.05 and 218.68, and a 52-week range from 164.27 to 243.37. The company's intra-day market capitalization reached 5.193T with a volume of 61,157,760 and an average volume of 118,867,254. Financial metrics include a trailing PE ratio of 27.19, diluted EPS of 7.91, profit margin of 63.66%, return on assets at 53.57%, and return on equity at 117.21%. Total trailing revenue stood at 302.97B, net income available to common stock was 192.88B, total cash was 62.47B, total debt-to-equity was 16.97%, and levered free cash flow was 41.81B. The upcoming earnings date is scheduled for 17 Nov 2026, with a forward dividend and yield of 1.00 (0.46%) and a 1-year target estimate of 328.72.",
+      "summary_zh": "英伟达公司（NVDA）前收盘价为217.23，开盘价为216.56，日内交易区间为215.05至218.68，52周区间为164.27至243.37。 该公司盘中市值达到5.193T，成交量为61,157,760，平均成交量为118,867,254。 财务指标包括滚动市盈率27.19，稀释每股收益7.91，利润率为63.66%，资产回报率为53.57%，净资产收益率为117.21%。 总滚动营收为302.97B，归属于普通股股东的净利润为192.88B，总现金为62.47B，总债务与股权比率为16.97%，杠杆自由现金流为41.81B。 下次财报发布日期定于2026年11月17日，预期股息及收益率为1.00（0.46%），1年目标价估计为328.72。"
+    },
+    {
+      "date": "2026.10.17",
+      "published_at": "2026-10-17T00:07:26+09:00",
+      "headline": "Nvidia, Micron and Broadcom Already Trade Like Cisco Post Dot-Com Burst: Bank of America",
+      "source": "TradingView",
+      "url": "https://www.tradingview.com/news/benzinga:3a4d4e148094b:0-nvidia-micron-and-broadcom-already-trade-like-cisco-post-dot-com-burst-bank-of-america/",
+      "language": "English",
+      "section": "美国股市 / US Market",
+      "summary": "Bank of America analyst Vivek Arya noted that major chip stocks including Nvidia Corp, Broadcom Inc, and Micron Technology Inc are trading at about 13 times forward earnings on average, matching post-dot-com crash valuation levels seen in Cisco Systems Inc. The Philadelphia Semiconductor Index fell about 9% for the week, sitting roughly 22% below its June 22 record close and entering a bear market. Micron shares dropped 13.1% to around $894 following news about Chinese memory maker CXMT and hotter-than-expected inflation readings that revived interest rate hike concerns. Despite a combined loss of over $1 trillion in market value across 20 AI and semiconductor stocks through Thursday, Bank of America highlighted strong AI hardware utilization, rising older equipment rental prices, and expanding cloud capital spending projected to reach $1.01 trillion in 2026 and $1.39 trillion in 2027.",
+      "summary_zh": "美国银行分析师维韦克·阿亚（Vivek Arya）指出，包括英伟达、博通和美光科技在内的主要芯片股平均远期市盈率约为13倍，与思科系统公司在互联网泡沫破裂后的估值水平相当。 费城半导体指数本周下跌约9%，较6月22日的历史收盘高点下跌约22%，进入熊市。 受中国内存制造商长辛存储消息以及高于预期的通胀数据复苏加息担忧的影响，美光股价下跌13.1%至约894美元。 尽管截至周四有20只人工智能和半导体股票市值蒸发超过$1 trillion，但美国银行强调人工智能硬件利用率强劲、老旧设备租赁价格上涨，且预计云资本支出在2026年将达到约$1.01 trillion，2027年达到$1.39 trillion。"
     },
     {
       "date": "2026.10.16",
@@ -45,8 +67,8 @@
       "url": "https://www.investors.com/news/technology/apple-stock-top-defensive-play-amid-ai-sell-off/",
       "language": "English",
       "section": "美国股市 / US Market",
-      "summary": "A Wall Street analyst named Apple stock a top defensive name amidst the ongoing sell-off in artificial intelligence-themed equities. Evercore ISI analyst Amit Daryanani stated in a client note late Thursday that the stock market is currently experiencing a bull versus bear debate regarding AI stocks, with the future remaining uncertain.",
-      "summary_zh": "华尔街一位分析师在人工智能主题股票遭遇抛售之际，将Apple股票评为顶级的防御性标的。 Evercore ISI分析师Amit Daryanani在周四晚间的一份客户报告中指出，股票市场目前正围绕人工智能股票展开多空辩论，且未来走向依然充满不确定性。"
+      "summary": "Evercore ISI analyst Amit Daryanani stated in a client note that Apple (AAPL) stock is considered a top defensive name amidst a market sell-off and ongoing bull versus bear debate regarding artificial intelligence stocks. The note highlights that the future of the AI megatrend remains uncertain as broader equity pressures impact the sector.",
+      "summary_zh": "Evercore ISI分析师阿米特·达里亚纳尼（Amit Daryanani）在给客户的报告中指出，在市场抛售以及围绕人工智能股票的多空争论持续之际，苹果（AAPL）股票被视为首选防御性标的。 该报告强调，随着更广泛的股市压力影响该行业，人工智能这一大趋势的未来仍存在不确定性。"
     },
     {
       "date": "2026.10.16",
@@ -56,8 +78,8 @@
       "url": "https://lancasteronline.com/business/stock_market/us-stock-indexes-off-to-mixed-start-as-tech-sector-weighs-on-market/article_090b4a5b-1eb8-59a0-9794-126a725ed465.html",
       "language": "English",
       "section": "美国股市 / US Market",
-      "summary": "Wall Street stock indexes started Friday with mixed results as technology companies weighed on the market. The S&P 500 fell 0.1%, the Dow Jones Industrial Average rose 226 points or 0.4% by 11 a. m. Eastern time, and the Nasdaq composite dropped 0.7%. Major chipmakers including Micron Technology, Advanced Micro Devices, Broadcom, and Intel declined due to worries over debt-financed AI spending amid climbing bond yields. Netflix fell 1.9% following news of workforce reductions and executive changes. Conversely, gains in big banks like JPMorgan, Citigroup, and Wells Fargo limited market losses. Federal Reserve Chairman Kevin Warsh made no fresh interest rate policy remarks in Bangkok, while the 10-year Treasury yield held at 5.10%. Brent crude rose 0.1% to $105.85 per barrel, and the national average for gasoline reached $4.33 a gallon.",
-      "summary_zh": "受科技公司拖累，华尔街股市周五开盘表现不一。 标普500指数下跌0.1%，道琼斯工业平均指数在美东时间上午11点前上涨226点或0.4%，纳斯达克综合指数下跌0.7%。 由于债券收益率攀升引发对债务资助人工智能开支的担忧，美光科技、Advanced Micro Devices、博通和Intel等主要芯片制造商均告下跌。 在宣布裁员和高管变动消息后，Netflix下跌1.9%。 相反，摩根大通、花旗集团和富国银行等大型银行的上涨限制了市场跌幅。 美联储主席Kevin Warsh在曼谷未就利率政策发表新表态，10年期国债收益率稳定在5.10%。 布伦特原油上涨0.1%至每桶$105.85，全国平均汽油价格达到每加仑$4.33。"
+      "summary": "U. S. stocks traded mixed on Friday as a pullback in big technology and AI-related companies weighed heavily on the Nasdaq and S&P 500, while major banks like JPMorgan, Citigroup, and Wells Fargo posted gains that limited overall market losses. Semiconductor stocks such as Micron Technology, Advanced Micro Devices, Broadcom, and Intel declined amid investor concerns that rising bond yields and climbing debt costs could constrain future tech spending. Netflix shares fell 2.4% following news that Chief Content Officer Bela Bajaria will be replaced by Peter Rice, coming days after announcing plans to lay off about 6% of its workforce, or nearly 1,000 positions. In the energy sector, Brent crude rose 1.4% to $107.35 per barrel amid continued supply pressures without an end to the U. S. -Iran war, and the national average for gasoline stood at $4.33 a gallon.",
+      "summary_zh": "美国股市周五表现参差，大型科技公司与人工智能相关股票的回调对标普500指数和纳斯达克综合指数造成拖累，而摩根大通、花旗集团和富国银行等大型银行则录得涨幅，限制了市场的整体跌幅。 由于投资者担心债券收益率上升和债务成本增加可能会限制未来的科技支出，美光科技、超微半导体、博通和英特尔等半导体股票均告下跌。 奈飞股价下跌2.4%，此前该公司宣布首席内容官贝拉·巴贾里亚将被彼得·赖斯取代，而几天前该公司刚宣布计划裁员约6%，即近1000个岗位。 在能源领域，由于美伊战争未止导致供应持续承压，布伦特原油上涨1.4%至每桶$107.35美元，全美汽油平均价格为每加仑$4.33美元。"
     },
     {
       "date": "2026.10.16",
@@ -67,8 +89,8 @@
       "url": "https://qz.com/dow-nasdaq-chip-stocks-weekly-loss-warsh-101626",
       "language": "English",
       "section": "美国股市 / US Market",
-      "summary": "Declines in chip and artificial intelligence-related stocks pushed the S&P 500 down 0.9% and the Nasdaq down 2.4% for the week. The VanEck Semiconductor ETF fell over 1% on Friday, with Micron Technology, Advanced Micro Devices, and Sandisk leading the slide amid concerns over Chinese competition and rising financing costs. CoreWeave stock dropped 5.7% to $65.72. Federal Reserve Chairman Kevin Warsh addressed an IMF event in Bangkok without signaling borrowing cost adjustments, which traders interpreted as an indication of an unchanged policy at the October 27-28 meeting, a view supported by the CME Group's FedWatch tool showing an 85% chance of no change. Wholesale inflation climbed to its highest level since 2022, consumer inflation remained above the 2% target, and Brent crude traded near $106 a barrel.",
-      "summary_zh": "芯片及人工智能相关股票的下跌导致标普500指数本周下跌0.9%，纳斯达克指数下跌2.4%。 VanEck半导体ETF周五下跌超过1%，受中国竞争担忧及融资成本上升影响，美光科技、Advanced Micro Devices和SanDisk领跌。 CoreWeave股价下跌5.7%至$65.72。 美联储主席Kevin Warsh在曼谷的国际货币基金组织活动上发表讲话，但未暗示借贷成本调整，交易员据此认为10月27日至28日的会议将维持政策不变，CME集团的FedWatch工具显示维持不变的概率为85%。 批发通胀率攀升至2022年以来的最高水平，消费通胀仍高于2%的目标，布伦特原油在每桶$106附近交易。"
+      "summary": "Declines in chip and artificial intelligence-related stocks dragged the S&P 500 down 0.9% and the Nasdaq down 2.4% for the week. The VanEck Semiconductor ETF dropped over 1% on Friday, with Micron Technology, Advanced Micro Devices, and Sandisk leading the losses, pressured by growing concern over competition from China. CoreWeave stock fell 5.7% to $65.72 as investors grew uneasy that rising financing costs would squeeze heavily indebted data center firms. Federal Reserve Chairman Kevin Warsh addressed an IMF event in Bangkok but gave no rate signal, which traders interpreted as a sign that the Fed will leave policy unchanged at its October 27-28 meeting, with the CME Group's FedWatch tool showing an 85% chance of no change. Wholesale inflation climbed by the most since 2022, consumer inflation remained above the Fed's 2% target, and Brent crude traded near $106 a barrel following the U. S. -Iran war.",
+      "summary_zh": "芯片及人工智能相关股票的下跌导致标普500指数本周下跌0.9%，纳斯达克指数下跌2.4%。 受对中国竞争的担忧加剧影响，VanEck半导体ETF周五下跌超过1%，美光科技、超微半导体和闪迪领跌。 由于投资者担心不断上升的融资成本将挤压负债累累的数据中心企业，CoreWeave股价下跌5.7%至$65.72美元。 美联储主席凯文·沃什在曼谷举行的国际货币基金组织活动上发表讲话，但未就利率发出信号，交易员将其解读为美联储将在10月27至28日会议上维持政策不变的信号，CME集团的FedWatch工具显示利率不变的概率为85%。 批发通胀创下2022年以来的最大涨幅，消费者通胀仍高于美联储2%的目标，且在美伊战争之后，布伦特原油交易价格接近每桶$106美元。"
     },
     {
       "date": "2026.10.16",
@@ -78,30 +100,8 @@
       "url": "https://finance.yahoo.com/markets/stocks/articles/wall-st-futures-mixed-tech-110701262.html",
       "language": "English",
       "section": "美国股市 / US Market",
-      "summary": "On October 16, the S&P 500 was muted as semiconductor and AI infrastructure stocks fell amid worries over debt loads and Chinese competition. The S&P 500 information technology sector dropped 0.9%, with CoreWeave down 7.6%, Micron Technology down 3.9%, and Advanced Micro Devices off 3.3%. The broader chips index lost 1.8%. Megacaps like Alphabet and Meta fell 1% each. Conversely, the Dow rose 221.78 points, or 0.43%, to 52,401.89, lifted by gains in Goldman Sachs, JPMorgan Chase, and financials, while materials rose 1.6%. Tesla gained marginally after unveiling a redesigned Roadster developed with SpaceX. Anthropic investors weighed a lower IPO valuation.",
-      "summary_zh": "10月16日，由于对债务负担和中国竞争的担忧压低了半导体股，标准普尔500指数表现平淡。 标普500信息技术板块下跌0.9%，其中CoreWeave下跌7.6%，美光科技下跌3.9%，超微半导体下跌3.3%，更广泛的芯片指数下跌1.8%。 Alphabet和Meta等多数超大盘股下跌1%。 相比之下，在高盛、摩根大通及金融股上涨的推动下，道琼斯工业平均指数上涨221.78点，涨幅0.43%，收于52,401.89点，材料板块则上涨1.6%。 特斯拉在推出与SpaceX合作开发的重新设计版Roadster后小幅上涨。 Anthropic的投资者正在权衡更低的首次公开募股估值。"
-    },
-    {
-      "date": "2026.10.16",
-      "published_at": "2026-10-16T21:45:00+09:00",
-      "headline": "Wall Street Agrees on Amazon and Can’t Agree on Tesla. The Targets Show Why",
-      "source": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/2026/10/16/wall-street-agrees-on-amazon-and-cant-agree-on-tesla-the-targets-show-why/",
-      "language": "English",
-      "section": "美国股市 / US Market",
-      "summary": "Wall Street analysts are united on Amazon but split on Tesla. Amazon carries 16 Strong Buy, 43 Buy, and 2 Hold ratings, with 24/7 Wall St. 's price target at $332.67. Tesla holds 4 Strong Buy, 15 Buy, 21 Hold, 2 Sell, and 2 Strong Sell ratings, with a target of $405.69. Amazon reported second-quarter revenue rose 19.6% to $200.61 billion, with AWS growing 37% and a $53.4 billion gain on its Anthropic stake, though trailing free cash flow fell to -$7.6 billion after $54.2 billion in capex. Tesla reported revenue of $28.24 billion and EPS of $0.33 missing consensus, with operating margin falling to 1.4%, free cash flow at -$1.09 billion, and a trailing P/E of 391x, while active FSD subscriptions rose 56% to 1.48 million.",
-      "summary_zh": "华尔街分析师对亚马逊意见一致，但对特斯拉存在分歧。 亚马逊拥有16个强烈买入、43个买入和2个持有评级，24/7 Wall St. 的目标价为332.67美元。 特斯拉拥有4个强烈买入、15个买入、21个持有、2个卖出和2个强烈卖出评级，目标价为405.69美元。 亚马逊公布第二季度营收增长19.6%至$200.61 billion，其中AWS增长37%，对Anthropic持股收益为$53.4 billion，但在$54.2 billion资本支出后，trailing自由现金流降至-$7.6 billion。 特斯拉公布营收为$28.24 billion，每股收益0.33美元低于共识预期，营业利润率跌至1.4%，自由现金流为-10.9亿美元，trailing市盈率为391倍，而活跃的FSD订阅量增长56%达到148万。"
-    },
-    {
-      "date": "2026.10.16",
-      "published_at": "2026-10-16T20:12:32+09:00",
-      "headline": "Latest News In AI Chips - Innovative AI Tech Transforms Edge Devices with Sequora Processor",
-      "source": "Simply Wall Street",
-      "url": "https://simplywall.st/stocks/us/semiconductors/nasdaq-nvda/nvidia/news/latest-news-in-ai-chips-innovative-ai-tech-transforms-edge-d",
-      "language": "English",
-      "section": "美国股市 / US Market",
-      "summary": "BrainChip Holdings Ltd. introduced its Sequora processor IP core for generative AI on battery-powered edge devices, extending its Akida platform to handle conventional and generative AI on a single device. IonQ traded up 9.3% to $34.35 after partnering with the University of Cambridge to establish a Quantum Innovation Centre. Technoprobe fell 10.3% to €27.96. Micron Technology settled at $931.24 up 1.9%, with a $0.15 cash dividend ex-dividend date on October 30, 2026. Broadcom closed down 0.6% at $344.33 after launching VMware HyperArmor. NVIDIA finished down 1.8% at $217.23 while expanding collaborations with Adobe and Danaher.",
-      "summary_zh": "BrainChip Holdings Ltd. 推出了旨在用于电池供电边缘设备生成式AI的Sequora处理器IP核心，扩展了其Akida平台在单一设备上处理常规和生成式AI的能力。 在与剑桥大学合作建立量子创新中心后，IonQ股价上涨9.3%至34.35美元。 Technoprobe下跌10.3%至27.96欧元。 美光科技收于931.24美元，上涨1.9%，其0.15美元现金股息的除息日为2026年10月30日。 博通在推出VMware HyperArmor后收盘下跌0.6%至344.33美元。 英伟达收盘下跌1.8%至217.23美元，同时扩大了与Adobe和Danaher的合作。"
+      "summary": "The benchmark S&P 500 was muted on Friday as worries about cracks in the AI trade pressured semiconductor stocks, while gains in banks limited overall declines. The S&P 500 information technology sector dropped 0.9%, with Nvidia-backed CoreWeave slipping 7.6% over debt-load concerns that pushed its bond yields above 15%. Other neocloud firms Nebius Group and Iren dipped over 5.5% each, while Micron Technology and Advanced Micro Devices fell 3.9% and 3.3% respectively. Alphabet and Meta each lost 1%. Conversely, Goldman Sachs and JPMorgan Chase lifted the Dow Jones Industrial Average up 221.78 points, or 0.43%, to 52,401.89, and the materials sector gained 1.6%. Tesla rose marginally after unveiling a redesigned Roadster developed with SpaceX. Anthropic investors are weighing a lower valuation for the company in its upcoming IPO.",
+      "summary_zh": "由于对人工智能交易出现裂痕的担忧给半导体股票带来压力，同时银行股的上涨限制了整体跌幅，基准标普500指数周五表现平稳。 标普500信息技术板块下跌0.9%，英伟达支持的CoreWeave因债务负担担忧下跌7.6%，其债券收益率被推高至15%以上。 其他新云公司Nebius Group和Iren分别下跌超过5.5%，美光科技和超微半导体分别下跌3.9%和3.3%。 Alphabet和Meta均下跌1%。 相反，高盛和摩根大通推动道琼斯工业平均指数上涨221.78点或0.43%，至52,401.89点，材料板块上涨1.6%。 特斯拉在推出与SpaceX合作开发的重新设计的Roadster后小幅上涨。 Anthropic的投资者正在权衡该公司在即将到来的首次公开募股中采用更低的估值。"
     },
     {
       "date": "2026.10.16",
@@ -111,30 +111,30 @@
       "url": "https://finance.yahoo.co.jp/news/detail/d2b6b8e882798023980637ab4a623fea014b025e",
       "language": "Japanese",
       "section": "日本株式市場 / Japan Market",
-      "summary": "Semtech, a supplier of analog-mixed-signal semiconductors and IoT systems, rose in after-hours trading following strong earnings and an upgraded financial outlook from a financial institution. However, it later turned to selling due to the heavy selling pressure across the semiconductor sector as a whole, continuing its downward trend from the 196.99 price reached on the 8th. Semtech stood at 139.89, down 4.32 or 3.00%.",
-      "summary_zh": "高性能模拟混合信号半导体和物联网系统供应商森特克（Semtech）在公布强劲财报以及金融机构上调业绩预期后，盘后交易曾一度上涨，但随后转为下跌。 由于半导体整体板块的抛售压力沉重，该股延续了自8日触及196.99以来的下行趋势。 森特克报139.89，下跌4.32或3.00%。"
+      "summary": "Semtech, a major supplier of high-performance analog and mixed-signal semiconductors and IoT systems, initially rose in after-hours trading following strong financial results and a guidance upgrade by a financial institution, but subsequently turned downward. The stock faced downward pressure due to broader selling in the semiconductor sector, continuing a downward trend that began from a level of 196.99 reached on the 8th. Semtech traded at 139.89, down 4.32 or 3.00%.",
+      "summary_zh": "高性能模拟和混合信号半导体及物联网系统的大型供应商Semtech，在强劲的财报结果和金融机构上调指引后，盘后交易初期一度上涨，随后转为下跌。 该股受半导体板块整体抛售潮的拖累，延续了自8日触及196.99以来的下行趋势。 Semtech报139.89，下跌4.32或3.00%。"
     },
     {
       "date": "2026.10.16",
-      "published_at": "2026-10-16T16:10:03+09:00",
-      "headline": "日産株価が4日ぶりに反発…テクニカルは割安、値ごろ感からの買いが入る",
-      "source": "レスポンス（Response.jp）",
-      "url": "https://response.jp/article/2026/10/16/417889.html",
+      "published_at": "2026-10-16T20:10:27+09:00",
+      "headline": "決算でベイカレントとSHIFTがストップ高！ GOは堅調決算も大幅安/日経平均反発【今日の注目株＆日本株市場見通し】「デイリーZAi」10月16日号（ダイヤモンド・ザイ）",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/articles/c447dc55d1880f41e71fac40fcbc4d924c0fe81f?source=rss",
       "language": "Japanese",
       "section": "日本株式市場 / Japan Market",
-      "summary": "16日の日経平均株価は前日比898円34銭高の6万5324円29銭と7日ぶりに反発した。 前日の急落を受けた反動から、寄付きから買いが先行し、AIや半導体関連株を中心に幅広い銘柄が買われた。 15日のニューヨークダウは556ドル高の5万2177ドルと3日ぶりに反発し、ハイテク株主体の米ナスダック市場も4日ぶりに小反発した。 外国為替市場では円相場が1ドル＝157円台後半で推移し、自動車株は全面高となった。",
-      "summary_zh": "16日的日经平均指数比前一天上涨898日元34钱，收于6万5324日元29钱，时隔7天反弹。 受前一天急剧下跌的反弹影响，开盘后买盘领先，以人工智能和半导体相关股票为中心，广泛的股票被买入。 15日的纽约道琼斯指数上涨556美元，收于5万2177美元，时隔3天反弹；以高科技股为主的美国纳斯达克市场也时隔4天小幅反弹。 在外汇市场上，日元汇率在1美元兑157日元区间后半段波动，汽车股全面上涨。"
+      "summary": "The Nikkei average rebounded for the first time in seven days, rising 898.34 points to 65,324.29 yen, supported by gains in non-semiconductor sectors such as defense, insurance, banks, construction, real estate, IT consulting, and entertainment, even though the recovery in AI-related stocks remained sluggish following overnight concerns in U. S. markets. Key earnings and corporate actions drove notable movements, including consulting firm BayCurrent surging by its daily limit after reporting a 28.5% year-on-year increase in operating profit to 29.9 billion yen for the first half ending February 2027 and announcing a new mid-term management plan targeting 500 billion yen in net sales by February 2031. SHIFT surged following strong earnings and an agreement with Tokyo Gas to establish a joint investment fund. Additionally, activist investor Oasis Management disclosed a 5.09% stake in Takara Holdings, intending to propose business partial transfer matters within 12 months, following prior large holdings by ValueAct Capital. Meanwhile, mobility business GO reported an operating profit of 3 billion yen for the first quarter ending May 2027, though its shares fell significantly due to a lack of market surprises.",
+      "summary_zh": "日经平均指数时隔7天反弹，上涨898.34点至65,324.29日元。 尽管在美股市场隔夜忧虑影响下，人工智能相关股票的复苏依然迟缓，但防卫、保险、银行、建设、房地产、IT咨询和娱乐等非半导体板块的上涨提供了支撑。 关键财报和公司行动推动了显著的市场变动，其中咨询巨头BayCurrent公布截至2027年2月止的上半年营业利润同比增长28.5%至299亿元，并发布了到2031年2月实现500亿元销售额的新中期经营计划后涨停。 SHIFT因业绩向好及与东京瓦斯达成设立联合投资基金的基本协议而急剧飙升。 此外，激进投资者奥asis管理公司披露持有宝控股5.09%的股份，计划在未来12个月内就业务部分转让事项提出建议，此前ValueAct Capital也曾大量持股。 同时，出行业务公司GO公布截至2027年5月止的第一季度营业利润为30亿元，但由于缺乏市场惊喜，其股价大幅下跌。"
     },
     {
       "date": "2026.10.16",
       "published_at": "2026-10-16T12:55:00+09:00",
-      "headline": "日経平均が7日ぶり急反発、前引け1124円高 半導体に買い戻し",
+      "headline": "日経平均が7日ぶり急反発、終値898円高で6万5000円台回復 半導体に買い戻し",
       "source": "BigGo ファイナンス",
       "url": "https://finance.biggo.jp/news/bcf2156a-a1f4-434a-bff3-ede3814f9ec8",
       "language": "Japanese",
       "section": "日本株式市場 / Japan Market",
-      "summary": "16日の東京株式市場で日経平均株価は7営業日ぶりに大幅反発し、終値は前日比898円34銭高の6万5324円29銭となった。 前日の大幅下落の反動や米国株高、米長期金利の低下を受け、半導体関連を中心に買い戻しが先行した。 東証株価指数も66.66ポイント高の4066.00ポイントと急反発した。 前日はAIデータセンター運営のコアウィーブの社債利回り急上昇や株価急落を背景に市場が大きく下落していたが、16日は自律反発狙いの買いが優勢となった。 値上がり寄与度トップは東京エレクトロンで日経平均を約111円押し上げ、ソフトバンクグループやアドバンテストも堅調に推移した。 野村證券の澤田麻希ストラテジストは、これまでの下げを踏まえれば自律反発の域は出ないと指摘している。",
-      "summary_zh": "16日的东京股市中，日经平均指数时隔7个交易日大幅反弹，收盘价较前一天上涨898日元34钱，报6万5324日元29钱。 受前一天大幅下跌的反弹、美国股市上涨以及美国长期利率下降的影响，以半导体相关股票为主的买盘领先。 东证股价指数也上涨66.66点，报4066.00点，急剧反弹。 前一天，受运营AI数据中心的CoreWeave公司社债收益率急剧上升及股价急剧下跌的背景影响，市场大幅下跌，而16日以谋求自主反弹的买盘为主。 涨幅贡献度最高的是东京电子，将日经平均指数推高了约111日元，软银集团和爱德万测试也走势坚挺。 野村证券的策略师泽田麻希指出，鉴于先前的下跌，这仅属于自主反弹的范畴。"
+      "summary": "16日の東京株式市場で日経平均株価は7営業日ぶりに大幅反発し、終値は前日比898円34銭高の6万5324円29銭となった。 前日の米国株高や米長期金利の低下に加え、前日の大幅下落に対する自律反発狙いの買いが半導体関連銘柄を中心に広がった。 TOPIXも急反発し4000ポイント台を回復した。 東証プライム市場では値上がりが全体の8割超を占め、売買代金は7兆6686億円、出来高は23億7905万株を記録した。 東京エレクトロンなどが上昇を主導した一方、野村證券の澤田麻希ストラテジストは自律反発の域を出ずインフレ警戒も残ると指摘した。",
+      "summary_zh": "16日的东京股市中，日经平均指数迎来7个交易日以来的首次大幅反弹，收盘较前一日上涨898日元34钱，报65324日元29钱。 受前一日美股上涨、美债长期利率下降以及前一日大幅下跌后的自主反弹买盘带动，以半导体相关股票为中心的广泛个股出现回购。 东证股价指数（TOPIX）也强势反弹并收复4000点大关。 东证Prime市场的上涨股票占总数的八成以上，成交额达到7兆6686亿日元，成交量达23亿7905万股。 东京电子等股票主导了涨势，不过野村证券策略师泽田麻希指出反弹仍属于自主反弹范畴，通胀警惕感依然存在。"
     },
     {
       "date": "2026.10.16",
@@ -144,8 +144,8 @@
       "url": "https://finance.yahoo.co.jp/news/detail/fba8ea29cffd4713fa1cda3c51296adfc97c52e3",
       "language": "Japanese",
       "section": "日本株式市場 / Japan Market",
-      "summary": "10月16日に調査機関が投資判断を最上位で継続し、目標株価を引き上げた銘柄がまとまった。 モノタロウは日興が強気で目標株価を2600円から2900円へ引き上げた。 武田はマッコリが強気で6700円から7400円へ、ＯＳＧは東海東京が強気で4460円から5230円へ引き上げた。 ベイカレントはマッコリが強気で9200円から1万0800円へ、サンリオはみずほが買いで1450円から1500円へそれぞれ目標株価を引き上げた。",
-      "summary_zh": "10月16日，汇总了调查机构维持最高投资评级并上调目标股价的股票。 MonotaRO被日兴证券给予“强于大盘”评级，目标股价从2600日元上调至2900日元。 武田被麦格理证券给予“强于大盘”评级，从6700日元上调至7400日元；OSG被东海东京证券给予“强于大盘”评级，从4460日元上调至5230日元。 BayCurrent被麦格理证券给予“强于大盘”评级，从9200日元上调至1万0800日元；三丽鸥被瑞穗证券给予“买入”评级，目标股价从1450日元上调至1500日元。"
+      "summary": "10月16日に調査機関が投資判断を最上位で継続し、目標株価を引き上げた5銘柄が発表された。 対象となった銘柄と証券会社、目標株価の変更は、モノタロウが日興証券で2600円から2900円、武田薬品工業がマッコリー証券で6700円から7400円、ＯＳＧが東海東京証券で4460円から5230円、ベイカレントがマッコリー証券で9200円から1万0800円、サンリオがみずほ証券で1450円から1500円となっている。",
+      "summary_zh": "10月16日，多家调查机构公布了维持最高投资评级并上调目标价的5只股票。 具体对象、券商及目标价调整为：MonotaRO经日兴证券从2600日元上调至2900日元，武田经麦格理证券从6700日元上调至7400日元，OSG经东海东京证券从4460日元上调至5230日元，BayCurrent经麦格理证券从9200日元上调至10800日元，三丽鸥经瑞穗证券从1450日元上调至1500日元。"
     },
     {
       "date": "2026.10.16",
@@ -155,8 +155,8 @@
       "url": "https://finance.yahoo.co.jp/quote/6758.O/ai-topics",
       "language": "Japanese",
       "section": "日本株式市場 / Japan Market",
-      "summary": "ソニーグループの株価は10月8日終値の3706円から10月16日終値の3959円へ6.8％上昇した。 10月9日以降に25日線上抜けやゴールデンクロスが続き、10月15日から16日にかけては雲上抜けや3役好転が観測されるなど、直近5営業日は持ち直しの流れが続いている。 アナリスト評価では、米系大手証券が10月6日に目標株価を4800円へ、日系大手証券が10月8日に4700円へそれぞれ引き下げつつも強気判断を継続している。 また、10月5日に自己株式の取得状況が開示されるなど、業績改善と並行して株主還元策が継続されている。",
-      "summary_zh": "索尼集团的股价从10月8日的收盘价3706日元上涨至10月16日的收盘价3959日元，涨幅达6.8%。 自10月9日以后，持续出现突破25日均线和黄金交叉，10月15日至16日期间观测到了突破云层和三役好转等现象，最近5个交易日持续呈现回升势头。 在分析师评估方面，美国某大型证券公司于10月6日将目标股价下调至4800日元，日本某大型证券公司于10月8日将目标股价下调至4700日元，但两家机构均维持了强势评级。 此外，10月5日披露了自己股份的取得情况等，在业绩改善的同时持续进行股东回报政策。"
+      "summary": "ソニーグループの株価は10月8日終値の3706円から10月16日終値の3959円へ6.8％上昇した。 10月9日以降に25日線を上抜け、ゴールデンクロス、雲上抜け、3役好転が続き、直近5営業日は持ち直しの流れが連続している。 アナリスト評価では米系大手証券が10月6日に目標株価を4800円へ、日系大手証券が10月8日に4700円へ引き下げつつも強気判断を継続した。 また、10月5日には自己株式の取得状況が自己株式取得1275億円の支出とともに開示され、株主還元策が継続している。",
+      "summary_zh": "索尼集团的股价从10月8日收盘价3706日元上涨至10月16日收盘价3959日元，涨幅为6.8%。 自10月9日以来，该股相继突破25日均线、出现黄金交叉、突破云层以及三役好转，最近5个交易日连续呈现回升态势。 在分析师评级方面，某美资大券商于10月6日将目标价下调至4800日元，某日资大券商于10月8日将目标价下调至4700日元，但两家机构均维持强硬看好评级。 此外，公司于10月5日披露了股票回购情况及1275亿日元的股份回购支出，股东回报政策仍在持续。"
     },
     {
       "date": "2026.10.16",
@@ -166,41 +166,30 @@
       "url": "https://www.nomura.co.jp/wealthstyle/article/0909/",
       "language": "Japanese",
       "section": "日本株式市場 / Japan Market",
-      "summary": "2026年10月13日公表の10月QUICK株式月次調査によると、2026年末の日経平均株価予想の平均値は7万0742円となり、9月時点の6万7322円から大幅に上方修正された。 しかし、10月6日をピークとする軽い調整局面に入っており、足元ではAI半導体株の上昇が一服している。 野村證券のストラテジストは、10月末の日米ハイテク企業の決算上振れ、日米金融政策決定会合での金融緩和姿勢、米中間選挙後もマクロ政策やAI開発に大きな影響が出ないことなどが揃えば、株価上昇が再開するシナリオもあると指摘している。 また、銀行株や不動産株の出遅れが解消しないままだと目先の日経平均などの脆弱さにつながる可能性があるとしている。",
-      "summary_zh": "根据2026年10月13日公布的10月QUICK股票月度调查，2026年底日经平均股价预测的平均值为7万0742日元，较9月时的6万7322日元大幅向上修正。 然而，市场已进入以10月6日为峰值的小幅调整期，当前人工智能半导体股票的上涨势头暂时告一段落。 野村证券的策略师指出，如果10月底美日高科技企业财报业绩超预期、美日金融政策决定会议上展现出宽松货币政策姿态、且美国中期选举后宏观政策及人工智能开发未受重大影响等条件具备，则存在股价重新恢复上涨的设想。 此外，他还表示，如果银行股和房地产股落后于大盘的局面未能消除，可能会导致近期股价指数等出现脆弱性。"
+      "summary": "2026年10月13日公表のQUICK株式月次調査によると、2026年末の日経平均株価予想の平均値は70,742円と9月時点から上方修正された。 しかし、その後はAI半導体株の上昇一服に伴いTOPIXが弱含み、足元は10月6日をピークとする軽い調整局面にある。 野村證券のストラテジストは、10月末の日米ハイテク企業の決算上振れ、日米金融政策決定会合での金融緩和姿勢の強まり、米中間選挙後のマクロ政策やAI開発への影響回避が揃えば、10月末から11月上旬にかけて株価上昇が再開するシナリオを描いている。",
+      "summary_zh": "根据2026年10月13日公布的QUICK股票月度调查，2026年底日经平均股价预测平均值为70742日元，较9月时的预测大幅上调。 然而随后随着AI半导体股票涨势暂停，TOPIX出现走弱倾向，目前处于以10月6日为顶峰的轻度调整阶段。 野村证券策略师认为，如果出现10月底日美高科技企业财报业绩超预期、日美金融政策决定会议上加强货币宽松姿态、以及美国中期选举后宏观政策与AI开发未受重大影响这几种情况，股价有望在10月底至11月上旬重新恢复上涨。"
     },
     {
-      "date": "2026.10.16",
-      "published_at": "2026-10-16T22:47:32+09:00",
-      "headline": "Diesel Prices Exceed $200 as Global Fuel Exports Drop 700,000 Barrels Daily, IEA Reports",
+      "date": "2026.10.17",
+      "published_at": "2026-10-17T00:44:11+09:00",
+      "headline": "Oil Price Today: WTI Gains 6.5% as US Crude Inventories Drop 8.6 Million Barrels, Brent Tops $105",
       "source": "CryptoRank",
-      "url": "https://cryptorank.io/news/feed/e37ce-diesel-prices-exceed-200-as-global-fuel-exports-drop-700000-barrels-daily-iea-reports",
+      "url": "https://cryptorank.io/news/feed/90826-oil-price-today-wti-gains-65-as-us-crude-inventories-drop-86-million-barrels-brent-tops-105",
       "language": "English",
       "section": "宏观经济与投资 / Macro & Investment",
-      "summary": "Diesel Prices Exceed $200 as Global Fuel Exports Drop 700,000 Barrels Daily, IEA Reports Share news: Diesel prices topped $200 per barrel in September as refinery disruptions and lower exports cut global diesel and gasoil shipments by about 700,000 barrels per day year over year. The IEA is accelerating emergency releases, including more than 20 million barrels of diesel, but depleted inventories and ongoing supply risks could keep fuel prices elevated into 2027 and add to inflation pressures.",
-      "summary_zh": ""
+      "summary": "US crude inventories fell 8.6 million barrels due to disruptions from Hurricane Isaias, helping WTI crude rise about 6.5% for the week to $97.75 per barrel. Meanwhile, Brent gained 1.2% to $105.92, supported by Middle East supply risks and the Strait of Hormuz. US officials are reportedly considering easing restrictions on certain sanctioned oil tankers, which could affect international pricing. The International Energy Agency expects global oil demand to decline by approximately 2.6 million barrels per day in 2026, while diesel shortages may persist into 2027.",
+      "summary_zh": "由于艾赛亚斯飓风造成的影响，美国原油库存减少了860万桶，推动WTI原油周涨幅达到约6.5%，报每桶97.75美元。 与此同时，受中东供应风险及霍尔木兹海峡局势支撑，布伦特原油上涨1.2%，报105.92美元。 据报道，美国官员正在考虑放松对部分受制裁油轮的限制，此举可能会影响国际定价。 国际能源署预计，2026年全球石油需求将每日减少约260万桶，而柴油短缺问题可能会持续到2027年。"
     },
     {
       "date": "2026.10.16",
-      "published_at": "2026-10-16T22:09:00+09:00",
-      "headline": "Current price of gold as of October 16, 2026",
-      "source": "Fortune",
-      "url": "https://fortune.com/article/current-price-of-gold-10-16-2026/",
-      "language": "English",
-      "section": "宏观经济与投资 / Macro & Investment",
-      "summary": "The price of gold stood at $4,168 per ounce as of 9:05 a. m. Eastern Time today. This marks a $21 increase compared to the same time yesterday and an $86 fall from a year prior. For those seeking an investment that isn’t directly linked to inflation fluctuations, gold could be a suitable option. Historically, gold tends to appreciate over time. A gold IRA is one of the most popular ways to buy and hold gold, providing portfolio stability during turbulent markets.",
-      "summary_zh": ""
-    },
-    {
-      "date": "2026.10.16",
-      "published_at": "2026-10-16T22:06:58+09:00",
-      "headline": "Current price of Bitcoin for Oct. 16, 2026",
+      "published_at": "2026-10-16T22:36:58+09:00",
+      "headline": "Current price of Bitcoin for October 16, 2026",
       "source": "Fortune",
       "url": "https://fortune.com/article/price-of-bitcoin-10-16-2026/",
       "language": "English",
       "section": "宏观经济与投资 / Macro & Investment",
-      "summary": "At 7:45 a. m. Eastern Time today, the market price for a single Bitcoin (BTC) is $82,644.65. That’s a $1,729.48 jump from where it was trading yesterday morning and about $25,613 lower than it was one year ago. What is Bitcoin? Bitcoin is widely recognized as the pioneering cryptocurrency and continues to hold the top spot in terms of name recognition and market size. Its market capitalization is roughly $1.33 trillion, putting it far ahead of second-place Ethereum with about $233 billion in market cap.",
-      "summary_zh": ""
+      "summary": "On October 16, 2026, at 7:45 a. m. Eastern Time, Bitcoin trades at $82,644.65, representing a $1,729.48 increase from the previous morning and sitting roughly $25,613 lower than one year ago. Bitcoin has a market capitalization of approximately $1.33 trillion, far outpacing second-place Ethereum at about $233 billion. Operating as a decentralized digital currency on a peer-to-peer computer network without a central authority, Bitcoin is used by investors as an inflation hedge and diversification asset. Historical milestones include Laszlo Hanyecz spending 10,000 Bitcoins on pizza, worth over 668 million dollars today, and the price climbing more than 15,000% over the past decade while enduring severe pullbacks. Price movements are driven by investor speculation, major company adoption by firms like Tesla and Ferrari, economic strength, and regulatory developments. Investors can buy Bitcoin through cryptocurrency exchanges, Bitcoin ETFs, crypto stocks, or open a Bitcoin IRA.",
+      "summary_zh": "在2026年10月16日美国东部时间上午7点45分，单个比特币的市场价格为$82,644.65，较前天早晨上涨了$1,729.48，比一年前大约低$25,613。 比特币的总市值约为$1.33 trillion，远远领先于市值约$233 billion的排名第二的以太坊。 作为一种去中心化的数字货币，比特币运行在点对点计算机网络上，无需中央机构。 投资者将其用作对冲美元通胀或进行多元化投资的工具。 自2009年推出以来，比特币经历了巨大波动，早期开发者Laszlo Hanyecz曾用10,000个比特币购买披萨，这笔币按现价计算超过668 million dollars，过去十年间价格涨幅超过15,000%。 影响比特币价格的因素包括投资者投机、大公司采用（如特斯拉和Ferrari）、整体经济状况以及监管动态。 投资者可以通过加密货币交易所、比特币ETF、加密股票或开设比特币IRA来投资比特币。"
     },
     {
       "date": "2026.10.16",
@@ -210,8 +199,30 @@
       "url": "https://www.rttnews.com/amp/3699731/bitcoin-rebounds-as-markets-reduce-fed-hike-expectations.aspx",
       "language": "English",
       "section": "宏观经济与投资 / Macro & Investment",
-      "summary": "A sharp downward repricing in rate hike expectations from the Federal Reserve abetted a rebound in crypto markets, lifting Bitcoin to a 24-hour high of $82,539. The dollar's retreat as well as a decline in crude oil prices supported crypto market sentiment, lifting overall crypto market capitalization more than 1.5 percent in the past 24 hours.",
-      "summary_zh": ""
+      "summary": "A sharp downward revision in Federal Reserve rate hike expectations supported a cryptocurrency market rebound, pushing Bitcoin to a 24-hour high of $82,539. A retreating dollar and lower crude oil prices lifted total crypto market capitalization by over 1.5%. The CME FedWatch tool indicates a 14.9% probability of a quarter-percent rate hike in October, down from 27.7% a day earlier, while December expectations for a half percentage rate increase fell to 13.3% from 23.6%. These shifts followed comments from Fed Chair Kevin Warsh at the IMF-World Bank Annual Meetings in Bangkok, where he noted that the global economy moved in line with Fed expectations. The six-currency Dollar Index fell to 101.62. Overall cryptocurrency market capitalization rose 1.53% to $2.76 trillion alongside a 20% drop in trading volumes. Bitcoin traded 0.92% higher overnight at $81,961.77, though year-to-date losses stand at 7.6%. U. S. Bitcoin Spot ETFs recorded $5 million in net inflows on Thursday, led by iShares Bitcoin Trust ETF at $17 million in inflows and Grayscale Bitcoin Trust ETF at $8 million in outflows. Other cryptocurrencies also saw overnight gains, including Ethereum up 3.2% to $2,448.34, BNB up 1.1% to $729.95, XRP up 1.5% to $1.33, Solana up 3.2% to $106.31, TRON up 1.3% to $0.3356, Zcash up 11.5% to $1,227.24, and Hyperliquid up 1.9% to $81.50, alongside varying spot ETF net flows.",
+      "summary_zh": "美联储加息预期的大幅下调支撑了加密货币市场的反弹，将比特币推高至$82,539的24小时高点。 美元的回落以及原油价格的下跌使整体加密货币市值在过去24小时内增长了超过1.5%。 CME FedWatch工具显示，10月份再次加息四分之一个百分点的可能性为14.9%，低于一天前的27.7%和一周前的17.7%；而对于12月联邦公开市场委员会会议，加息半个百分点的预期从一天前的23.6%降至13.3%。 这些变化源于美联储主席Kevin Warsh在曼谷IMF-世界银行年会上的评论，他指出全球经济走势大体符合美联储预期。 六国美元指数进一步跌至101.62。 整体加密货币市值跃升1.53%至$2.76 trillion，交易量则下降了20%。 比特币盘中上涨0.92%至$81,961.77，今年迄今仍有7.6%的跌幅。 美国比特币现货ETF周四录得$5 million的净流入，其中iShares Bitcoin Trust ETF以$17 million的流入量居首，Grayscale Bitcoin Trust ETF以$8 million的流出量居首。 其他加密货币也出现夜盘上涨，以太坊上涨3.2%至$2,448.34，BNB上涨1.1%至$729.95，XRP上涨1.5%至$1.33，Solana上涨3.2%至$106.31，TRON上涨1.3%至$0.3356，Zcash上涨11.5%至$1,227.24，Hyperliquid上涨1.9%至$81.50，同时各自的现货ETF也录得不同的净流量。"
+    },
+    {
+      "date": "2026.10.16",
+      "published_at": "2026-10-16T18:54:46+09:00",
+      "headline": "Hot US inflation singes Asia as higher-for-longer Fed rates loom",
+      "source": "Asia Times",
+      "url": "https://asiatimes.com/2026/10/hot-us-inflation-singes-asia-as-higher-for-longer-fed-rates-loom/",
+      "language": "English",
+      "section": "宏观经济与投资 / Macro & Investment",
+      "summary": "An unexpected rise in US inflation data to 3.7% year-on-year for September has heightened concerns that the Federal Reserve will maintain high interest rates for longer, placing upward pressure on currencies, capital flows, and economic growth across Asia. The inflation figures complicate the political and economic landscape for US President Donald Trump and Fed Chairman Kevin Warsh ahead of November 3 mid-term elections, as Warsh faces policy resistance from board members including Jerome Powell and Lisa Cook. This environment impacts Asia, which is historically vulnerable to Fed tightening cycles such as the 1997-1998 Asian financial crisis and the 2013 taper tantrum, while a surge in US Treasury yields and a strong dollar create regional anxiety. HSBC chief Asia economist Fred Neumann noted that bond markets will demand a premium for longer-term borrowing until monetary tightening is delivered. At meetings in Bangkok, IMF Managing Director Kristalina Georgieva warned of vulnerabilities from fast-growing debt and heavy reliance on AI-driven stock rallies, noting that a sharp drop in AI investment could reduce global GDP growth by 1.1% by 2028 and US output by 1.8%. IMF global markets analyst Jason Wu highlighted risks regarding the monetization of AI investments and debt servicing. Additionally, IIF economist Emre Tiftik reported that global debt grew by over $10 trillion in the first half of 2026 to exceed $365 trillion, driven by entrenched high fiscal deficits across economic cycles.",
+      "summary_zh": "美国9月份同比3.7%的意外通胀数据加剧了市场对美联储将维持高利率更长时间的担忧，对亚洲的货币、资本流动和经济增长构成了新的压力。 这一通胀数据使美国总统唐纳德·特朗普和美联储主席Kevin Warsh在11月3日中期选举前的政治和经济形势变得复杂，同时Warsh在决策层面临来自Jerome Powell和Lisa Cook等委员的政策阻力。 亚洲历来对美联储的紧缩周期高度敏感，曾经历1997-1998年亚洲金融危机和2013年的缩减恐慌，而美国国债收益率的飙升和美元的强势再次引发了该地区的焦虑。 汇丰银行首席亚洲经济学家Fred Neumann指出，在实施货币紧缩之前，债券市场将要求更长期借款的溢价。 在曼谷的会议上，IMF总裁Kristalina Georgieva警告称，快速增长的债务以及对人工智能驱动的股市上涨的高度依赖构成了重大脆弱性，她指出人工智能投资的大幅下滑可能会使2028年全球平均GDP增长率降低1.1%，美国产出减少1.8%。 IMF全球市场分析师Jason Wu强调了人工智能投资货币化和债务偿还的风险。 此外，IIF经济学家Emre Tiftik报告称，在2026年上半年，全球债务增长超过了$10 trillion，超过了$365 trillion，这是由于跨经济周期的庞大财政赤字已经根深蒂固。"
+    },
+    {
+      "date": "2026.10.16",
+      "published_at": "2026-10-16T18:31:24+09:00",
+      "headline": "Gold Price Analysis Today | Forex Gold Analysis | XAU/USD Analysis - October 15, 2026",
+      "source": "Mitrade",
+      "url": "https://www.mitrade.com/insights/commodity-analysis/gold/gold-falls-hot-cpi-fed-hike-brent",
+      "language": "English",
+      "section": "宏观经济与投资 / Macro & Investment",
+      "summary": "Gold traded around $4,122 on the morning of October 15, 2026, after dropping below $4,100 to test support between $4,064 and $4,074. U. S. September CPI accelerated to 3.7% year-on-year, driven by a 9.1% surge in gasoline prices, which pushed the market-implied probability of an October Fed rate increase to 47% and raised the 10-year Treasury yield to 5.30%. The U. S. Labor Department reported a 0.6% month-on-month CPI rise with a core CPI of 2.6%, and the Beige Book highlighted energy costs across four economic districts, prompting investors to sell gold to mitigate high-interest-rate risk. The 10-year Treasury yield reached 5.30% and a stronger dollar pushed spot gold down to a low of $4,064, while silver fell 6.16% to $55.41. Institutional buying absorbed selling pressure at the $4,064–$4,074 support zone, allowing gold to rebound to $4,122. Concurrently, Middle East tensions escalated following a Houthi attack on a Saudi Aramco building in Dhahran and ongoing attacks on commercial vessels near the Strait of Hormuz, driving Brent crude above $106 to $106.06. Higher oil prices provide a double-edged effect by boosting safe-haven demand while fueling inflation and keeping interest rates elevated. Technical analysis on the 1-hour chart shows the RSI recovering from oversold territory below 25 toward 45–50, with initial resistance at $4,138–$4,149. Trading strategies suggest watching key support and resistance levels for pullback buying or breakout opportunities while monitoring stop-losses.",
+      "summary_zh": "在2026年10月15日早晨，黄金（XAU/USD）交易价格约为$4,122，此前曾跌破$4,100并测试$4,064至$4,074之间的支撑位。 受汽油价格飙升9.1%的推动，美国9月份CPI同比加速上涨至3.7%，这使得市场隐含的10月份美联储加息概率上升至47%，并将10年期国债收益率推高至5.30%。 美国劳工部报告称，9月份CPI环比上涨0.6%，核心CPI为2.6%，《褐皮书》也强调了四个经济区的能源成本，促使投资者抛售黄金以降低高利率风险。 10年期国债收益率达到5.30%，加上美元走强，使现货黄金承受抛售压力，一度跌至$4,064的低点，白银则下跌6.16%至$55.41。 机构买盘在$4,064-$4,074支撑区吸收了抛售压力，帮助黄金反弹至$4,122。 与此同时，由于胡塞武装袭击了宰赫兰的一处沙特阿美建筑，且霍尔木兹海峡附近的商船持续遭到袭击，中东紧张局势升级，布伦特原油价格突破$106，达到$106.06。 更高的油价产生了双重影响，既支持了避险需求，又助长了通货膨胀，迫使美联储维持高利率。 1小时图的技术分析显示，RSI从低于25的超卖区回升至45-50附近，初始阻力位在$4,138-$4,149。 交易策略建议关注关键支撑与阻力位，谨慎进行回调买入或突破交易，同时严格设置止损。"
     },
     {
       "date": "2026.10.16",
@@ -221,41 +232,30 @@
       "url": "https://www.investing.com/analysis/us-dollar-inflation-paradox-ai-credit-risks-energy-costs-repricing-global-growth-200689697",
       "language": "English",
       "section": "宏观经济与投资 / Macro & Investment",
-      "summary": "Goldman flags 2 memory stocks to buy amid deeper sector pullback Global Market Backdrop Friday’s markets are revealing an unusual shift in investor priorities. Inflation is accelerating, yet government bonds are recovering, the dollar is retreating, and equity investors are becoming increasingly selective about where they deploy capital. The Dollar Index has slipped below 102, retreating from Wednesday’s 18-month high near 103.",
-      "summary_zh": ""
+      "summary": "Global markets exhibited unusual dynamics as inflation accelerated while government bonds recovered, the dollar retreated, and equities saw selective deployment. The Dollar Index slipped below 102 from an 18-month high near 103, and the US ten-year Treasury yield declined toward 5.09% despite consecutive upside inflation surprises. Asian markets showed mixed results, with Japan's Nikkei gaining about 1.9%, South Korea's KOSPI rebounding 3.3%, and Indonesia's Jakarta Composite plunging around 11% following MSCI's proposed removal of the country's emerging-market classification. US economic data revealed annual consumer inflation accelerating to 3.7%, core prices rising 0.3% monthly, and headline PPI increasing 1.3% monthly and 6.3% annually for its largest monthly rise since March 2022. US retail sales grew 0.8%, though sales excluding automobiles and gasoline rose only 0.2%, pointing to fuel spending contributions. Markets priced in around a 29% probability for an October Fed rate increase, while Fed Chair Kevin Warsh avoided signaling a predetermined outcome. In the equity sector, the selloff highlighted a widening gap between AI technology suppliers and AI infrastructure builders. CoreWeave experienced debt yield spikes toward 15–16% due to substantial capital expenditure and debt obligations. Conversely, TSMC reported third-quarter revenue growth of 50.9% in local currency and net income growth of 68.7%, reflecting ongoing demand for advanced semiconductor manufacturing.",
+      "summary_zh": "全球市场呈现出不寻常的动态：通胀加速上升，而政府债券回落，美元走软，股市投资变得更加挑剔。 美元指数从接近103的18个月高点回落至102以下，尽管连续出现通胀上行意外，美国十年期国债收益率仍跌向5.09%。 亚洲股市表现不一，日本日经指数上涨约1.9%，韩国综合股价指数反弹3.3%，而印尼雅加达综合指数在MSCI提议取消该国新兴市场分类后暴跌约11%。 美国经济数据显示，年度消费者通胀加速至3.7%，核心价格环比上涨0.3%，头条PPI环比上涨1.3%，同比上涨6.3%，创下自2022年3月以来的最大月度涨幅。 美国零售额增长0.8%，但扣除汽车和汽油后的销售额仅增长0.2%，表明燃料支出贡献了大部分名义增长。 市场对10月份美联储加息的概率定价约为29%，美联储主席Kevin Warsh则避免对会议结果发出预先确定的信号。 在股票板块，抛售潮凸显了人工智能技术供应商与人工智能基础设施建设者之间日益扩大的差距。 由于庞大的资本支出和债务承诺，CoreWeave的债务收益率飙升至15%-16%的困境水平。 与此相反，台积电（TSMC）报告第三季度按当地货币计算的营收增长50.9%，净利润增长68.7%，展现了对先进半导体制造的持续需求。"
     },
     {
       "date": "2026.10.16",
-      "published_at": "2026-10-16T10:05:00+09:00",
-      "headline": "Dollar-Yen: 200-Day Moving Average Battle in Focus as Market Attention Turns to Fed Chair Warsh's Remarks",
+      "published_at": "2026-10-16T14:05:00+09:00",
+      "headline": "Dollar-Yen Softens to 157.80 Range as Fed Chair Remarks Dampen Rate Hike Expectations",
       "source": "BigGo Finance",
-      "url": "https://finance.biggo.com/news/c7ee6531-722a-498f-a5a1-fbcc16a459e5",
+      "url": "https://finance.biggo.com/news/70a8d9e4-430f-4165-afaf-539447361447",
       "language": "English",
       "section": "宏观经济与投资 / Macro & Investment",
-      "summary": "Dollar-Yen: 200-Day Moving Average Battle in Focus as Market Attention Turns to Fed Chair Warsh's Remarks The dollar-yen pair is searching for direction in foreign exchange markets, trading around the 158 level. The key focus is whether the pair can break above its 200-day moving average, along with remarks from Federal Reserve Chair Kevin Warsh.",
-      "summary_zh": ""
+      "summary": "The dollar-yen pair softened to the 157.80 yen range in afternoon trading on the Tokyo foreign exchange market on the 16th. Federal Reserve Chair Kevin Warsh avoided commenting on future monetary policy path during a discussion with IMF Managing Director Kristalina Georgieva, dampening rate hike expectations for the October FOMC meeting and driving down U. S. long-term yields. Japanese Finance Minister Satsuki Katayama stated her intention to collaborate with the U. S. Treasury to maintain orderly currency markets, though market reaction remained limited. Meanwhile, European currencies fluctuated slightly, WTI crude traded in the low-$97-per-barrel range, and market attention turned to an upcoming Bank of Japan event where remarks from Governor Kazuo Ueda could impact future yen volatility.",
+      "summary_zh": "16日下午，东京外汇市场上的美元兑日元汇率软化至157.80日元区间。 美联储主席凯文·沃什在与国际货币基金组织总裁克里斯塔利娜·格奥尔基耶娃的对话中未对货币政策路径给出明确方向，这削弱了市场对10月联邦公开市场委员会会议加息的预期，并导致美国长期收益率下降。 日本财务大臣片山皋月表示将与美国财政部合作维持有序的外汇市场，但市场反应有限。 与此同时，欧元兑美元和欧元兑日元小幅波动，美国WTI原油期货交投于每桶97美元低位区间，市场目光转向日本银行行长植田和男的即将到来的讲话，该讲话可能会对日元未来的波动产生影响。"
     },
     {
       "date": "2026.10.16",
-      "published_at": "2026-10-16T17:50:03+09:00",
-      "headline": "Bitcoin steadies at $82,000: The five forces crushing the Uptober rally",
-      "source": "www.tmgm.com",
-      "url": "https://www.tmgm.com/en/analysis/market-news/article/bitcoin-steadies-at-82-000-the-five-forces-crushing-the-uptober-rally-202610160807",
+      "published_at": "2026-10-16T13:15:40+09:00",
+      "headline": "Most Asian stocks rise as calm returns after CoreWeave shock; Indonesia faces market downgrade",
+      "source": "Y100 WNCY",
+      "url": "https://wncy.com/2026/10/15/most-asian-stocks-rise-as-calm-returns-after-coreweave-shock-indonesia-faces-market-downgrade/",
       "language": "English",
       "section": "宏观经济与投资 / Macro & Investment",
-      "summary": "Crypto markets have remained under pressure so far in October, with Bitcoin (BTC) sliding below $80,000 earlier this week before recovering to around $82,000 on Friday, as macroeconomic headwinds and cooling demand weigh on the market.",
-      "summary_zh": ""
-    },
-    {
-      "date": "2026.10.16",
-      "published_at": "2026-10-16T16:38:49+09:00",
-      "headline": "Dollar Heads for Weekly Fall as AI Selloff Impacts Forex Markets",
-      "source": "Global Banking & Finance Review",
-      "url": "https://www.globalbankingandfinance.com/euro-gets-much-needed-reprieve-ai-wobbles-rock-dollar/",
-      "language": "English",
-      "section": "宏观经济与投资 / Macro & Investment",
-      "summary": "Dollar Faces Weekly Decline as Fed Hike Expectations Ease and AI Worries Mount Market Movements and Key Drivers By Laura Matthews and Stefano Rebaudo Oct 16 (Reuters) - The dollar weakened on Friday, heading for its first weekly fall in more than a month against the euro and the yen, amid fading expectations for a Federal Reserve rate hike and lingering concerns from an AI-driven equity selloff.",
-      "summary_zh": ""
+      "summary": "Asian stocks rebounded on Friday following heavy selling driven by concerns over cloud company CoreWeave's debt pile and AI financing. Indonesia's equity benchmark slumped 11%—its largest drop since 1998—after MSCI announced plans to strip the market of its emerging market status. Bond markets stabilized following U. S. Treasury purchases, while the dollar headed toward its first weekly loss in five weeks as lower U. S. yields reduced its appeal. Gold extended its previous gains, and Brent crude edged down toward $105 per barrel. Major regional indices rose, including Japan's Nikkei up 1.9% and South Korea's KOSPI climbing 3.3%. Meanwhile, analysts noted ongoing pressure on memory makers following progress on next-generation DRAM architecture by China's ChangXin Memory Technologies, alongside broader market uncertainty regarding interest rates and upcoming tech earnings.",
+      "summary_zh": "亚洲股市周五反弹，此前一日因市场对云服务公司CoreWeave债务堆积及人工智能融资的担忧引发抛售，导致股市大跌。 由于明晟公司宣布计划取消印尼市场的“新兴市场”地位，印尼股市基准指数暴跌11%，创下1998年以来的最大跌幅。 随着投资者买入美国国债，债券市场趋于稳定；由于美国收益率下降降低了美元吸引力，美元正走向五周以来的首次周线跌幅。 黄金延续了此前的涨幅，布伦特原油微跌至接近每桶105美元。 地区主要股指普遍上涨，其中日本日经指数上涨1.9%，韩国综合股价指数上涨3.3%。 与此同时，分析师指出，在中国长辛内存技术公司在下一代DRAM架构取得进展后，存储芯片制造商持续面临压力，加之市场对利率走势以及即将到来的科技公司财报存在广泛的不确定性。"
     }
   ]
 }
