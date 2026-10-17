@@ -1,0 +1,165 @@
+# 📈 Stock Market Daily | 2026.10.18（日曜日 / Sunday）
+
+> ⚠ 本日报优先收录最近24小时的市场新闻、个股异动与当时市场快照；数据仅供参考，不构成投资建议。
+
+---
+
+
+## 🇺🇸 美国股市 / US Market
+
+- **[2026.10.18] 24/7 Wall St. — Chip Stocks Just Fell 8 Days in a Row, Their Longest Losing Streak Since 2008**
+  English：Semiconductor stocks experienced an eight-day losing streak ending October 16, 2026, with the Philadelphia semiconductor index falling 3.8% and the Nasdaq 100 dropping 2.5%, as tech stocks lost over $1 trillion in value. Unlike the 2008 credit crisis, this selloff was driven by oil prices reaching $101.91 a barrel on October 14, a 5.10% 10-year Treasury yield on October 15, and concerns over AI spending sustainability. Bank of America analyst Sebastian Raedler noted that hyperscaler capital spending forecasts tripled from $330 billion in early 2025 to $1 trillion, heightening risks for equipment makers like KLA, Lam Research, and Applied Materials. Nvidia CEO Jensen Huang stated that the downturn would pass. Meanwhile, AMD fell 5.95% amid high valuations and expectations surrounding its MI450-series GPUs and Helios server racks, while the iShares Semiconductor ETF provided diversified exposure with a 0.33% expense ratio.
+  中文：总结：在2026年10月16日结束的交易日中，半导体股票遭遇了连续八天下跌，费城半导体指数下跌3.8%，纳斯达克100指数下跌2.5%，科技股市值蒸发超过一万亿美元。 与2008年信贷危机不同，此次抛售由10月14日达到每桶$101.91美元的原油价格、10月15日5.10%的10年期国债收益率以及对人工智能支出可持续性的担忧所驱动。 美国银行分析师塞巴斯蒂安·雷德勒指出，超大规模数据中心运营商的资本支出预测已从2025年初的$330 billion增至$1 trillion，这加大了KLA、泛林集团和应用材料等设备制造商的风险。 英伟达首席执行官黄仁勋表示这一切都会过去。 与此同时，AMD股价下跌5.95%，其高估值伴随着MI450系列GPU和Helios服务器机架的相关预期，而iShares半导体ETF则以0.33%的费用率提供了多元化风险敞口。
+  📰 [24/7 Wall St.](https://247wallst.com/investing/2026/10/17/chip-stocks-just-fell-8-days-in-a-row-their-longest-losing-streak-since-2008/)
+
+- **[2026.10.18] 24/7 Wall St. — Tesla Just Won in Court: Self-Driving Buyers Can’t Sue as a Class**
+  English：On October 16, 2026, the US Court of Appeals for the Ninth Circuit reversed class certification orders in LoSavio v. Tesla, removing class-action status for a lawsuit claiming Tesla falsely advertised full self-driving hardware since October 2016. Circuit Judges Ronald Gould, Jay Bybee, and Daniel Bress remanded the case to US District Judge Rita Lin, finding individual buyer variations made class treatment inappropriate. Tesla shares fell 2.13% to close at $354.72 amid a broader tech selloff. Tesla reported 1.48 million active FSD subscriptions in the second quarter of 2026 with $28.24 billion in revenue, but a non-GAAP EPS of $0.33 missed the $0.5367 estimate and free cash flow was -$1.092 billion. The company maintains a valuation of $1.40 trillion as investors await third-quarter results scheduled for October 21.
+  中文：总结：2026年10月16日，美国第九巡回上诉法院撤销了LoSavio诉特斯拉案中的集体诉讼认证令，取消了一起指控特斯拉自2016年10月起虚假宣传完全自动驾驶硬件的诉讼的集体诉讼地位。 巡回法官罗纳德·古尔德、杰伊·拜比和丹尼尔·布雷斯将案件发回美国地区法官丽塔·林审理，认为买家之间的个体差异使得集体审理不合适。 在更广泛的科技股抛售中，特斯拉股价下跌2.13%收于$354.72美元。 特斯拉报告称，2026年第二季度拥有148万活跃FSD订阅用户，营收为$28.24 billion，但非美国通用会计准则下每股收益$0.33美元低于$0.5367美元的预期，自由现金流为-$1.092 billion美元。 随着投资者等待定于10月21日发布的第三季度业绩，该公司的估值维持在$1.40 trillion美元。
+  📰 [24/7 Wall St.](https://247wallst.com/investing/2026/10/17/tesla-just-won-in-court-self-driving-buyers-cant-sue-as-a-class/)
+
+- **[2026.10.17] The Motley Fool — The Nasdaq-100's 6 Best Stocks This Year, and Whether They Can Keep Going**
+  English：Moderna, Sandisk, and Micron Technology are among the top-performing stocks of the Nasdaq-100 index through October 14, 2026. Moderna shares rose 667% since the end of 2025, driven largely by mid-August phase 3 clinical trial results for its intismeran autogene melanoma treatment, alongside an FDA flu vaccine approval and Nasdaq-100 inclusion. Sandisk shares gained over 490% year-to-date due to high AI-driven computer memory demand, pushing DRAM prices up about 50% according to PC Part Picker and roughly 400% since early 2024 according to JPMorgan. JPMorgan and Micron CEO Sanjay Mehrotra expect the memory shortage to persist through 2029 and 2028 respectively, with Mehrotra noting 75% of Micron's output through the end of next year is already spoken for. Micron shares also increased 220% since the end of 2025 following a 250% gain the previous year.
+  中文：总结：截至2026年10月14日，Moderna、闪迪和美光科技成为纳斯达克100指数中表现最好的股票之一。 自2025年底以来，Moderna股价上涨了667%，主要受8月中旬其用于治疗特定黑色素瘤的intismeran autogene三期临床试验结果的鼓舞，同时还获得了FDA流感疫苗批准并被纳斯达克100指数纳入门槛。 由于人工智能驱动的计算机内存需求无法满足，闪迪股价年内涨幅超过490%，根据PC Part Picker的数据，DRAM价格上涨了约50%，摩根大通则显示自2024年初以来上涨了约400%。 摩根大通和美光首席执行官桑杰·梅赫罗特拉分别预计内存短缺将持续到2029年和2028年，梅赫罗特拉指出美光直到明年年底75%的产量已被预订。 继去年上涨超过250%之后，美光科技股价自2025年底以来也上涨了220%。
+  📰 [The Motley Fool](https://www.fool.com/investing/2026/10/17/nasdaq-100-best-stocks-2026-keep-going/)
+
+- **[2026.10.17] Investor's Business Daily — These 7 Stocks Are Analyst Favorites For Magnificent Earnings Growth; Eli Lilly Leads Industry**
+  English：Amazon. com, Alphabet, and Eli Lilly are identified as three of the seven stock market favorites offering strong profit growth prospects for investors as the stock market seeks stability.
+  中文：总结：随着股市努力寻找立足点，亚马逊、Alphabet和礼来被确定为七只备受投资者青睐、展现出强劲利润增长前景的股票中的三只。
+  📰 [Investor's Business Daily](https://www.investors.com/research/best-stocks-seven-magnificent-stocks-earnings-growth/)
+
+- **[2026.10.17] AOL.com — Nvidia’s CEO Says “All of This Is Going to Pass” After Tech Lost $1 Trillion in a Day**
+  English：On Friday, October 16, 2026, Nvidia CEO Jensen Huang stated during an event in Berlin that industry pressures would pass, while the broader tech sector lost over $1 trillion. The Nasdaq 100 fell 2.5% to 29,187.55, the S&P 500 dropped 1.1%, and the Philadelphia semiconductor index dropped 3.8% for its eighth straight losing day. Nvidia shares slid 1.43% to $214.13 with a $5.17 trillion market value, while AMD fell 5.95%, Intel lost 5.79%, Micron Technology dropped 5.63%, and Broadcom gave up 4.52%. The selloff coincided with West Texas Intermediate crude reaching $101.91 a barrel on October 14, 2026, and the 10-year Treasury yield standing at 5.10% on October 15. Nvidia reported fiscal second-quarter revenue of $96.22 billion with a net margin of 55.6% and trades at 43 times trailing earnings.
+  中文：总结：2026年10月16日星期五，英伟达首席执行官黄仁勋在柏林的一次活动中表示行业压力将会过去，而此时更广泛的科技板块市值蒸发超过一万亿美元。 纳斯达克100指数下跌2.5%至29,187.55点，标普500指数下跌1.1%，费城半导体指数下跌3.8%，创下连续第八个交易日下跌。 英伟达股价下跌1.43%至$214.13美元，市值达$5.17 trillion美元，而AMD下跌5.95%，英特尔下跌5.79%，美光科技下跌5.63%，博通下跌4.52%。 此次抛售伴随着2026年10月14日西德克萨斯中质原油达到每桶$101.91美元以及10月15日10年期国债收益率达到5.10%。 英伟达报告财年第二季度营收为$96.22 billion美元，净利润率为55.6%，市盈率为43倍。
+  📰 [AOL.com](https://www.aol.com/articles/nvidia-ceo-says-going-pass-111515000.html)
+
+- **[2026.10.17] Stocktwits — The Oracle Paradox: Record AI Demand, Mounting Debt, And A Stock Wall Street Still Loves**
+  English：Oracle stock has dropped significantly from its 2026 highs, down 50% from June 1 and 62% from last September, trading at more attractive valuations while retail interest on Stocktwits surges. However, the company's aggressive debt accumulation to fund AI capacity, particularly linked to OpenAI, has increased its risk profile and prompted S&P Global Ratings to downgrade Oracle from BBB to BBB-. Oracle reported a backlog surge of 363% to $638 billion in the fourth quarter, but forecasts up to $95 billion in fiscal 2027 capital expenditure following $55.7 billion last fiscal, planning to raise $40 billion in debt and equity. Analysts maintain mostly constructive ratings with an average price target of $251.85, even as investors worry about leverage, capex, and restructuring that reduced Oracle's workforce by 21,000 to 141,000 employees as of May 31, 2026.
+  中文：总结：甲骨文股价自2026年6月1日的高点下跌50%，较去年9月份的峰值下跌62%，在散户社区中引发买入呼吁。 由于债务负担加重以及对OpenAI业务的依赖，标普全球评级将该软件和AI云计算巨头的信用评级从BBB下调至BBB-。 甲骨文第四季度积压订单激增363%至创纪录的6380亿美元，并在上个财年支出$55.7 billion后，预测2027财年资本支出高达950亿美元，计划本财年通过债务和股权筹集400亿美元。 尽管面临杠杆和资本开支担忧，分析师平均目标价为251.85美元，多数维持买入或更高评级。 截至2026年5月31日，公司员工总数为141,000人，较去年同期的162,000人减少了21,000人。
+  📰 [Stocktwits](https://stocktwits.com/news-articles/markets/equity/the-oracle-paradox-record-ai-demand-mounting-debt-and-a-stock-wall-street-still-loves/cZZ7BvsR7ti)
+
+- **[2026.10.17] The Motley Fool — Once-in-a-Decade Buying Opportunity: This AI Stock That’s Soared 900% Over 5 Years Is the Cheapest of the “Magnificent Seven.”**
+  English：The 'Magnificent Seven' tech stocks have driven S&P 500 gains through technology and artificial intelligence leadership, with Nvidia standing out as the cheapest valuation in the group and a once-in-a-decade buying opportunity after soaring over 900% in five years. Nvidia trades at 23x forward earnings estimates, cheaper than Meta, driven by massive graphics processing unit demand that yielded latest period revenue and profit of $96 billion and $59 billion, respectively. To capture upcoming agentic AI growth, Nvidia has entered the stand-alone central processing unit market, a sector it estimates is worth $200 billion, and expects $20 billion in revenue from CPUs this year alone.
+  中文：总结：“科技七巨头”凭借在科技和人工智能领域的领导地位推动了标普500指数的上涨，其中英伟达在五年内飙升超过900%后，成为该群体中估值最低且被视为十年一遇的买入机会。 由于图形处理单元带来巨大的收益增长，英伟达的最新营收和利润分别达到960亿美元和590亿美元，其远期市盈率为23倍，估值比Meta更便宜。 为了捕捉代理式人工智能的未来增长，英伟达进军独立中央处理器市场，该市场规模估计为2000亿美元，公司预计仅今年就能从CPU获得$20 billion的收入。
+  📰 [The Motley Fool](https://www.fool.com/investing/2026/10/17/once-in-a-decade-buying-opportunity-this-ai-stock-that-s-soared-900-over-5-years-is-the-cheapest-of-the-magnificent-seven/)
+
+- **[2026.10.17] Stocktwits — INTC, AMD, NVDA, MU: Chip Stocks Open Mixed Premarket After Worst Week In A Month**
+  English：U. S. semiconductor stocks opened mixed on Monday following their worst weekly performance in a month, with the iShares Semiconductor ETF falling 1.5% and dropping about 5% over the past week due to concerns over OpenAI's revenue outlook and memory-chip market competition. Nvidia shares rose 0.1%, while Intel and AMD fell 1% and 0.6%, respectively. Micron faced downward pressure after Chinese chipmaker ChangXin Memory Technologies announced progress in advanced DRAM technology, contributing to a 7.4% weekly decline in DRAM. Semiconductor stocks were previously hit after reports stated OpenAI's annualized revenue reached around $50 billion at the end of September, falling short of the previously circulated $68 billion to $70 billion figures and raising doubts about AI infrastructure investments.
+  中文：总结：美国半导体股票周一盘前开盘涨跌互现，此前经历了一个月来表现最糟糕的一周，由于对OpenAI营收前景和内存芯片市场竞争的担忧，iShares半导体ETF下跌1.5%，过去一周下跌约5%。 英伟达股价上涨0.1%，英特尔和AMD分别下跌1%和0.6%。 在长鑫存储宣布在先进DRAM技术取得进展后，美光面临下行压力，DRAM本周下跌7.4%。 此前有报道称OpenAI在9月底的年化营收约为500亿元（注：原文$50 billion笔误或原文如此，按原文50 billion维持），低于此前在市场流传的680亿至700亿美元，引发了对AI基础设施投资可持续性的疑虑。
+  📰 [Stocktwits](https://stocktwits.com/news-articles/markets/equity/intc-amd-nvda-mu-chip-stocks-open-mixed-premarket-after-worst-week-in-a-month/cZxIPDQRBFq)
+
+- **[2026.10.17] 行情快照 / Quote · S&P 500 — 标普500下跌1.09%**
+  Quote: S&P 500 stood at 7,659.44 as of 2026.10.17 05:42 JST, 1.09% lower than the previous close.
+  行情中文：截至 2026.10.17 05:42 JST，标普500较前收盘下跌1.09%。
+  📰 [Yahoo Finance](https://finance.yahoo.com/quote/%5EGSPC)
+
+- **[2026.10.17] 行情快照 / Quote · Nasdaq Composite — 纳斯达克综合指数下跌2.14%**
+  Quote: Nasdaq Composite stood at 26,140.03 as of 2026.10.17 06:15 JST, 2.14% lower than the previous close.
+  行情中文：截至 2026.10.17 06:15 JST，纳斯达克综合指数较前收盘下跌2.14%。
+  📰 [Yahoo Finance](https://finance.yahoo.com/quote/%5EIXIC)
+
+## 🇯🇵 日本株式市場 / Japan Market
+
+- **[2026.10.18] ダイヤモンド・オンライン — ホンダ元副社長が“電撃復帰” トヨタ・ホンダ・日産を斬る！【モビリティショー2026】**
+  日本語：日本最大の自動車展示会「ジャパンモビリティショー」が10月13日に開幕した。 今回のイベントではトヨタ自動車の佐藤恒治社長が日本自動車工業会の会長に就いたこともありトヨタ色がにじんでいる。 ダイヤモンド編集部は、失脚後初のメディア出演となるホンダの青山真二元副社長をゲストに迎え、日産自動車トップとの対談や、ホンダの内情、トヨタ主導のモビリティショーの足並みの乱れなどについて聞いた内容を報じている。
+  中文：总结：日本最大的汽车展会“日本移动出行展”于10月13日开幕。 由于丰田汽车的佐藤恒治社长出任了主办方日本汽车工业会会长，本次活动带有浓厚的丰田色彩。 钻石编辑部邀请了本田前副总裁青山真二作为嘉宾出镜，这是其失脚后首次在媒体亮相。 青山与日产汽车高层直接对话，并直言不讳地谈及了本田内部情况以及丰田主导的移动出行展步调不一致等问题。
+  📰 [ダイヤモンド・オンライン](https://diamond.jp/list/feature/p-japanmobilityshow2026)
+
+- **[2026.10.17] note — 「好決算なのに、なぜ下がる？」から始める日本株。動画・講座・本・SNS、6つの入口｜日本個別株デューデリジェンスセンター**
+  日本語：日本株の決算で「増益」と出ていても株価が下がる現象や、利益の増減と現金の動きの関係について発信しているコンテンツの紹介。 YouTube、Udemy、Kindle、Instagram、Threads、Xの6つの入口を通じて、決算の読み方、財務三表、企業分析、需給分析などを学ぶための資料や講座を提供している。 掲載内容は企業分析を学ぶためのもので、特定の銘柄の売買推奨ではない。
+  中文：总结：介绍了针对日本股票财报中出现“增益”但股价下跌的现象以及利润增减与现金变动关系的分享内容。 通过YouTube、Udemy、Kindle、Instagram、Threads和X这6个入口，提供学习财报解读、财务三表、企业分析、供需分析等内容的资料与课程。 发布内容仅用于学习企业分析，并非对特定股票的买卖推荐。
+  📰 [note](https://note.com/tatsuya_sabato/n/n922155480795)
+
+- **[2026.10.17] CRYPTO TIMES — 日経平均7日ぶり反発、6000円超の急落から底打ちか？**
+  日本語：10月16日の東京株式市場で、日経平均株価は前日比898円34銭高の6万5324円29銭で取引を終え、7営業日ぶりに反発した。 前日の大幅下落を受けた買い戻しが広がり、東京エレクトロンなどのAI・半導体関連株が上昇した。 前日15日の日経平均は3318円34銭安と6日続落し、9月の米消費者物価指数が市場予想を上回ったことが背景とされていた。 16日は米ダウ平均の上昇も買いを後押ししたが、AI投資への懸念から上げ幅を縮めた。
+  中文：总结：10月16日的东京股市中，日经平均指数收盘较前一日上涨898日元34钱，报6万5324日元29钱，时隔7个交易日反弹。 受前一日大幅下跌后的买盘回补推动，东京电子等AI及半导体相关股票上涨。 前一日15日，日经平均指数大跌3318日元34钱并遭遇6连跌，背景被认为是9月美国消费者物价指数超出市场预期。 16日美国道指的上涨也支撑了买盘，但由于对AI投资的担忧，指数涨幅有所收窄。
+  📰 [CRYPTO TIMES](https://crypto-times.jp/news-nikkei-market-update-20261016/)
+
+- **[2026.10.17] SmartNews — 《資産2.7億円・おけいどん氏が注目》半導体・AIの“メガ潮流”に乗る「まだまだ成長期待」のお宝株3選 世界トップシェアの製造装置メーカー、材料メーカー、国策銘柄が揃い踏み**
+  日本語：2018年以降に台湾のTSMCに投資するなどして資産を築いた投資家のおけいどん氏によれば、半導体株やAI株は一過性のブームではなく産業革命が牽引する持続的なメガ潮流であるという。 新川裕也氏との共著である新書『3倍・5倍・10倍の神株が続出！ 半導体株＆AI株 投資大全』の出版に関連し、複数工程で世界トップシェアを誇る製造装置メーカーや材料メーカー、国策銘柄を含む日本の成長期待株3銘柄に注目している。
+  中文：总结：根据自2018年起投资台湾台积电等企业并积累了资产的投资者“桶井道”的观点，半导体股和AI股并非暂时的热潮，而是由产业革命驱动的持续性宏大潮流。 结合其与新川裕也合著的新书《不断涌现3倍、5倍、10倍的神股！ 半导体股与AI股投资大全》，其正关注在多个工序中拥有全球最高市场份额的制造设备制造商、材料制造商以及国策股等3只日本有望增长的股票。
+  📰 [SmartNews](https://www.smartnews.com/news/article/5002159544931976954-%E3%80%8A%E8%B3%87%E7%94%A32.7%E5%84%84%E5%86%86%E3%83%BB%E3%81%8A%E3%81%91%E3%81%84%E3%81%A9%E3%82%93%E6%B0%8F%E3%81%8C%E6%B3%A8%E7%9B%AE%E3%80%8B%E5%8D%8A%E5%B0%8E%E4%BD%93%E3%83%BBAI%E3%81%AE%E2%80%9C%E3%83%A1%E3%82%AC%E6%BD%AE%E6%B5%81%E2%80%9D%E3%81%AB%E4%B9%97%E3%82%8B%E3%80%8C%E3%81%BE%E3%81%A0%E3%81%BE%E3%81%A0%E6%88%90%E9%95%B7%E6%9C%9F%E5%BE%85%E3%80%8D%E3%81%AE%E3%81%8A%E5%AE%9D%E6%A0%AA3%E9%81%B8%E3%80%80%E4%B8%96%E7%95%8C%E3%83%88%E3%83%83%E3%83%97%E3%82%B7%E3%82%A7%E3%82%A2%E3%81%AE%E8%A3%BD%E9%80%A0%E8%A3%85%E7%BD%AE%E3%83%A1%E3%83%BC%E3%82%AB%E3%83%BC%E3%80%81%E6%9D%90%E6%96%99%E3%83%A1%E3%83%BC%E3%82%AB%E3%83%BC%E3%80%81%E5%9B%BD%E7%AD%96%E9%8A%98%E6%9F%84%E3%81%8C%E6%8F%83%E3%81%84%E8%B8%8F%E3%81%BF)
+
+- **[2026.10.17] 自動運転ラボ — 日産 自動運転の「頭脳」はソフトバンク出資のWayveと仏「売上3.7兆円企業」が握っていた**
+  日本語：日産自動車の次世代運転支援技術プロパイロットの統合役にフランスの自動車部品大手ヴァレオが指名され、運転の判断を担う頭脳にはソフトバンクが出資する英AI開発企業Wayveの「Wayve AI Driver」が組み込まれることになった。 日産とWayveは2025年12月10日に協業契約を結んでおり、日産はWayveのAIを搭載した最初のモデルを2027年度に国内で発売する予定である。 さらに、日産、Wayve、Uberは東京でのロボタクシーに関する基本合意書も結んでいる。
+  中文：总结：日产汽车的下一代驾驶辅助技术ProPILOT的系统整合工作已指定由法国汽车零部件巨头法雷奥负责，而负责驾驶判断的“大脑”则将嵌入软银投资的英国AI开发企业Wayve的“Wayve AI Driver”。 日产与Wayve于2025年12月10日签署了合作协议，日产计划于2027年度在日本国内推出首款搭载Wayve AI的车型。 此外，日产、Wayve与Uber还就东京的自动驾驶出租车项目签署了基本意向书。
+  📰 [自動運転ラボ](https://jidounten-lab.com/u_68989)
+
+- **[2026.10.17] 自動運転ラボ — ティアフォー「もう株価2倍」！自動運転ブームで高騰**
+  日本語：上場から約3カ月を迎えたティアフォーの株価は、初日比2倍を超える水準で推移し、市場に受け入れられている。 2026年9月期第3四半期決算では、売上高が前年同期比30.0％増の51億7,800万円、売上総利益が同31.6％の20億300万円となった一方、経常利益は同14.4％減の－40億8,700万円で赤字が続いた。 研究開発費は同1.8％減の59億8,900万円。 2030年9月期までに車両運用台数が累計1,800台に達する見通しを示し、約800台が経常利益黒字化の目安となる。 KDDIやヤマハ発動機、コマツなどとの協業を進め、バスやシャトル、特殊用途車両を先行逃げ切り型に、タクシーやトラック、乗用車を後方追い上げ型に据えて事業を展開している。
+  中文：总结：上市即将满三个月的Tier IV公司股价较首日实现翻倍增长。 该公司发布的2026年9月期第三季度财报显示，销售额为51亿7800万日元，同比增长30.0%；毛利润为20亿300万日元，同比增长31.6%；经常利润为-40亿8700万日元，同比减少14.4%，仍处于亏损状态。 研究开发费用为59亿8900万日元，同比减少1.8%。 该公司预计到2030年9月期车辆累计运营台数将达到1,800台，并指出约800台是实现经常利润扭亏为盈的基准。 Tier IV通过与KDDI、雅马哈发动机及小松等企业合作，将公交车、穿梭巴士及特种用途车辆定位为先发制人型，将出租车、卡车及乘用车定位为后方追赶型来推进各项业务。
+  📰 [自動運転ラボ](https://jidounten-lab.com/u_68950)
+
+- **[2026.10.17] テレビ東京 — 視る日経！ニュースNEXT▼画面の向こうは別人!?AI面接の闇…狙われる企業の機密情報**
+  日本語：テレビ東京の番組「視る日経！ ニュースNEXT」では、オンライン面接にAIのディープフェイク技術を用いて顔や声を作り変えた別人が現れる問題を取り上げる。 社内への侵入や情報窃取を狙う巧妙化するAIの脅威に加え、闇サイトで面接突破用の偽造ソフトが売買されている実態について、専門家を交えて解説する。
+  中文：总结：东京电视台节目“视看日经！ 新闻NEXT”探讨了在线面试中出现利用AI深度伪造技术篡改面容与声音的“冒名顶替者”这一问题。 节目将邀请专家共同解析企图侵入企业内部并窃取机密信息的日益巧妙的AI威胁，以及暗网中买卖用于通过面试的伪造软件的现状。
+  📰 [テレビ東京](https://www.tv-tokyo.co.jp/broad_bstvtokyo/program/detail/202610/22663_202610162154.html)
+
+- **[2026.10.17] 株探 — レーティング週報【最上位を継続＋目標株価を増額】 (10月13日－16日)**
+  日本語：10月13日から16日の期間において、調査機関が投資判断を最上位に継続し、かつ目標株価を引き上げた銘柄が発表された。 対象となった銘柄には、アサヒ、ＪＴ、モノタロウ、イビデン、Ｓａｎｓａｎ、武田、アステラス、小野薬、テルモ、ＯＳＧ、ローツェ、キューデン、富士電機、ベイカレント、良品計画、サイゼリヤ、伊藤忠、サンリオ、四国電、コナミＧが含まれている。
+  中文：总结：统计了在10月13日至16日期间，研究机构维持最高投资评级并上调目标股价的股票。 对象股票包括朝日集团、JT、MonotaRO、揖斐电、Sansan、武田药品、安斯泰来、小野药品工业、泰尔茂、OSG、罗采、九电、富士电机、BayCurrent、良品计划、萨莉亚、伊藤忠商事、三丽鸥、四国电力以及科乐美集团等。
+  📰 [株探](https://s.kabutan.jp/news/n202610170122/)
+
+- **[2026.10.16] 行情快照 / Quote · Nikkei 225 — 日经225上涨1.39%**
+  行情日本語：日经225（Nikkei 225）は2026.10.16 15:45 JST時点で65,324.29となり、前日終値比で1.39%上昇しています。
+  行情中文：截至 2026.10.16 15:45 JST，日经225较前收盘上涨1.39%。
+  📰 [Yahoo Finance](https://finance.yahoo.com/quote/%5EN225)
+
+- **[2026.10.16] 行情快照 / Quote · Tokyo Electron — 东京电子上涨2.56%**
+  行情日本語：东京电子（Tokyo Electron）は2026.10.16 15:30 JST時点で10,630.00となり、前日終値比で2.56%上昇しています。
+  行情中文：截至 2026.10.16 15:30 JST，东京电子较前收盘上涨2.56%。
+  📰 [Yahoo Finance](https://finance.yahoo.com/quote/8035.T)
+
+## 🌍 宏观经济与投资 / Macro & Investment
+
+- **[2026.10.18] TechBullion — How Interest Rate Expectations Move the US Dollar**
+  English：The US dollar can move based on expectations of future Federal Reserve policy rates, driven by inflation reports, jobs data, and Treasury yields before any official announcement occurs. High interest rate expectations relative to other countries can increase demand for the dollar by making Treasury bonds attractive, while shifts in the expected rate path can alter currency values even when rates remain unchanged. Inflation reports influence Fed rate cut expectations, and core inflation provides a clearer view of underlying price pressures than headline numbers. Labor market data affects the Fed's room to move, where strong hiring and low unemployment reduce the need for rapid cuts, while weak data or recession fears can either weaken the currency or increase safe-haven demand. Treasury yields, especially the two-year yield, reflect shifting short-term rate expectations and are closely watched by forex traders alongside the eurozone rate outlook for EUR/USD.
+  中文：总结：美元会根据对美联储未来政策利率的预期而波动，在官方宣布之前，通胀报告、就业数据和国债收益率即可驱动行情。 与其他国家相比的高利率预期会通过提高国债吸引力来增加对美元的需求，而预期利率路径的变化即使在利率保持不变时也能改变货币价值。 通胀报告会影响美联储降息预期，核心inflation比整体数字能更清晰地反映潜在价格压力。 劳动力市场数据影响美联储的决策空间，强劲的招聘和低失业率降低了迅速降息的必要性，而疲软的数据或经济衰退担忧可能会削弱汇率或增加避险需求。 国债收益率尤其是两年期收益率反映了短期利率预期的变化，外汇交易员在关注EUR/USD时会与欧元区的利率前景一同密切监测这些变动。
+  📰 [TechBullion](https://techbullion.com/how-interest-rate-expectations-move-the-us-dollar/)
+
+- **[2026.10.17] Pluang — Bitcoin near $81,500 as oil hits monthly highs amid US-Iran tensions and market declines**
+  English：TSMC states that global demand for artificial intelligence chips significantly exceeds its current production capacity, highlighting strong growth potential in the AI semiconductor market. This ongoing supply-demand gap has boosted the stock appeal of Nvidia, a leading AI chipmaker, among investors.
+  中文：总结：台积电表示，人工智能芯片的需求远超其生产能力，凸显出AI半导体市场的强劲增长潜力。 这一供需缺口提升了领先AI芯片制造商英伟达对投资者的股票吸引力。
+  📰 [Pluang](https://pluang.com/en/news-feed/bitcoin-tekanan-minyak-naik-puncak-bulan-peringatan-serangan-iran)
+
+- **[2026.10.17] Yahoo Finance — Oil Just Hit $100 a Barrel. What Happened to Bitcoin the Last Time Oil Prices Hit Three Digits?**
+  English：West Texas Intermediate crude reached $102 a barrel on October 14, 2026, while Brent crude climbed above $106 amid escalating Middle East tensions involving Iranian attacks near the Strait of Hormuz and Ukrainian strikes on Russian refineries. Bitcoin traded at $81,497, down 1.5% over the week but up 6.8% over the month, following previous volatility where a September oil spike preceded a 7% Bitcoin drop before a 16% rebound.
+  中文：总结：2026年10月14日，在霍尔木兹海峡附近的伊朗袭击以及乌克兰对俄罗斯炼油厂打击等中东局势升级的背景下，西德克萨斯中质原油达到每桶102美元，布伦特原油则攀升至106美元以上。 比特币交易价格为81,497美元，周跌幅为1.5%，但月涨幅为6.8%；此前在9月份曾出现原油飙升伴随比特币下跌7%随后反弹16%的走势。
+  📰 [Yahoo Finance](https://finance.yahoo.com/markets/crypto/articles/oil-just-hit-100-barrel-113030528.html)
+
+- **[2026.10.17] Vietnam.vn — USD exchange rate today, October 17th: Free market rate surges, should you buy USD now?**
+  English：On October 17, 2026, the USD Index fell 0.28% to 101.78 points, heading for its first weekly decline in over a month against major currencies as expectations for a Fed rate hike weakened and AI stock sell-off concerns grew. The State Bank of Vietnam set the central exchange rate at 25,637 VND/USD, with buying and selling rates at the exchange desk at 24,406 VND and 26,868 VND, while commercial banks and black market rates also saw fluctuations.
+  中文：总结：2026年10月17日，随着美联储加息预期减弱以及对人工智能相关股票抛售的担忧加剧，美元指数下跌0.28%至101.78点，兑主要货币录得一个多月以来的首次周跌幅。 越南国家银行公布的越盾兑美元中心汇率为25,637 VND/USD，兑换台买入价为24,406 VND、卖出价为26,868 VND，同时商业银行及黑市汇率也出现了波动。
+  📰 [Vietnam.vn](https://www.vietnam.vn/en/ty-gia-usd-hom-nay-17-10-thi-truong-tu-do-bat-tang-co-nen-mua-usd-luc-nay)
+
+- **[2026.10.17] Mitrade — Gold Price Analysis Today | Forex Gold Analysis | XAU/USD Analysis - October 16, 2026**
+  English：Gold traded around $4,153 on the morning of October 16, 2026, after rebounding more than $64 from its base, supported by the 10-year Treasury yield falling to 5.09% and a weaker dollar driven by investor shifts from tech stocks to safe-haven Treasuries amid AI debt fears. Meanwhile, September PPI inflation surged 6.3% year-on-year and retail sales rose 0.8% month-on-month, while Middle East tensions kept Brent crude close to $105.92 and WTI at $96.50.
+  中文：总结：2026年10月16日上午，黄金交易价格在4,153美元左右，从底部反弹超过64美元。 这一走势受到10年期国债收益率跌至5.09%以及因AI债务担忧引发投资者从科技股转向避险国债导致的美元走弱的支撑。 与此同时，9月PPI通胀同比飙升6.3%，零售额环比增长0.8%，中东紧张局势则维持布伦特原油接近每桶105.92美元、WTI原油在96.50美元。
+  📰 [Mitrade](https://www.mitrade.com/en/articulo/commodity-analysis/gold/gold-rebounds-bond-debt-ppi)
+
+- **[2026.10.17] The Economic Times — Dollar heads for weekly loss as Fed hike bets fade, AI jitters linger**
+  English：The dollar index fell 0.17% to 101.87 on track for a 0.35% weekly drop as Fed officials signaled no urgency to tighten policy further following hotter-than-expected inflation data. Concurrently, AI stocks fell sharply amid investor concerns over data centre profitability and debt repayment capabilities, spilling over into the credit market and driving safe-haven flows into bonds while weighing on the greenback.
+  中文：总结：美元指数下跌0.17%至101.87，有望录得0.35%的周跌幅，此前公布的高于预期的通胀数据后，美联储官员发出不急于进一步收紧政策的信号。 与此同时，由于投资者对数据中心盈利能力和债务偿还能力的担忧，人工智能股票大幅下跌并波及信贷市场，推动资金流向债券避险，从而对美元构成拖累。
+  📰 [The Economic Times](https://m.economictimes.com/markets/forex/forex-news/dollar-heads-for-weekly-loss-as-fed-hike-bets-fade-ai-jitters-linger/articleshow/135007121.cms)
+
+- **[2026.10.17] www.sc.com — Daily Navigator-2/5/2025 – Market Outlook**
+  English：On May 2, 2025, the USD rose following reports that the Trump administration sought tariff talks with China, while US initial jobless claims for the week ended April 26 surged to 241,000 and the April ISM manufacturing PMI fell to a five-month low of 48.7. The DXY rose 0.8%, the S&P 500 gained 0.6%, and the US 10-year Treasury yield climbed 5.6bps. Meanwhile, the EUR declined 0.3% against the USD as money markets priced in 67 basis points of further ECB rate cuts. The Bank of Japan kept rates steady at 0.5% but downgraded its fiscal year 2026 growth forecast to 0.5% from 1.1% and the following year's projection to 0.7% from 1.0%, causing the JPY to weaken as the USD/JPY rose 1.6% and Japan's March jobless rate edged up to 2.5%.
+  中文：总结：在2025年5月2日，由于有报道称特朗普政府寻求与中国进行关税谈判，美元有所上涨，同时截至4月26日当周美国初请失业金人数飙升至241,000人，4月ISM制造业PMI降至48.7的五个月新低。 美元指数上涨0.8%，标普500指数上涨0.6%，美国10年期国债收益率攀升5.6个基点。 同时，由于货币市场定价欧洲央行今年将进一步降息67个基点，欧元兑美元下跌0.3%。 日本央行维持0.5%的利率不变，但将截至2026年3财年的经济增长预测从1.1%下调至0.5%，并将次年增长预测从1.0%下调至0.7%，受此鸽派基调影响，日元走弱，美元兑日元上涨1.6%，日本3月失业率微升至2.5%。
+  📰 [www.sc.com](https://www.sc.com/my/market-outlook/daily-navigator-2-5-2025/)
+
+- **[2026.10.17] Investing News Network — Today's Crypto News: Bitcoin, Ether and Altcoin Insights**
+  English：On October 16, 2026, Bitcoin traded at US$81,541.46, down 1.6 percent over 24 hours, amid an ongoing slide following US inflation reports. Ether traded at US$2,411.96 down 1.7 percent, XRP at US$1.30 down 3.5 percent, and Solana at US$103.59 down 2.7 percent. In regulatory developments, MSCI approved new eligibility rules on October 15 to exclude non-operating businesses from its Global Investable Market Indexes after November 30, 2026, placing Bitcoin treasury firms like Strategy and Metaplanet at risk of removal, a move Strategy disputed. Additionally, the Bank of Russia confirmed a hard deadline of July 1, 2027, to outlaw direct peer-to-peer cryptocurrency trading between individuals, and Circle Internet Group expanded into 40 new emerging markets.
+  中文：总结：2026年10月16日，在跟随美国通胀报告持续下滑的背景下，比特币价格为US$81,541.46，24小时内下跌1.6%。 以太坊报US$2,411.96，下跌1.7%；XRP报US$1.30，下跌3.5%；Solana报US$103.59，下跌2.7%。 在监管动态方面，MSCI于10月15日批准了新的资格规则，将在2026年11月30日收盘后把非运营业务排除在全球可投资市场指数之外，这使Strategy和Metaplanet等比特币国库公司面临被剔除的风险，对此Strategy提出了异议。 此外，俄罗斯央行确认了2027年7月1日的最后期限，以彻底取缔个人之间的直接点对点加密货币交易，同时Circle Internet Group正扩展至40个新的新兴市场。
+  📰 [Investing News Network](https://investingnews.com/cryptocurrency-market-recap/)
+
+- **[2026.10.17] 行情快照 / Quote · USD/JPY — 美元兑日元上涨0.01%**
+  Quote: USD/JPY stood at 157.99 as of 2026.10.17 05:59 JST, 0.01% higher than the previous close.
+  行情中文：截至 2026.10.17 05:59 JST，美元兑日元较前收盘上涨0.01%。
+  📰 [Yahoo Finance](https://finance.yahoo.com/quote/JPY%3DX)
+
+- **[2026.10.17] 行情快照 / Quote · US 10Y Yield — 美国10年期国债收益率上涨0.18%**
+  Quote: US 10Y Yield stood at 5.10 as of 2026.10.17 03:59 JST, 0.18% higher than the previous close.
+  行情中文：截至 2026.10.17 03:59 JST，美国10年期国债收益率较前收盘上涨0.18%。
+  📰 [Yahoo Finance](https://finance.yahoo.com/quote/%5ETNX)
+
+---
+※Stock Market Daily Digest | 2026.10.18
