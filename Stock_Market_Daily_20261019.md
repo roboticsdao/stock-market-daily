@@ -1,0 +1,125 @@
+# 📈 Stock Market Daily | 2026.10.19（月曜日 / Monday）
+
+> ⚠ 本日报优先收录最近24小时的市场新闻、个股异动与当时市场快照；数据仅供参考，不构成投资建议。
+
+---
+
+
+## 🇺🇸 美国股市 / US Market
+
+- **[2026.10.18] Yahoo Finance — Why Did NVIDIA (NVDA) Rise Only 19% While Its Suppliers Did Far Better?**
+  English：NVIDIA Corporation closed at $217.23 on October 15, having returned 9.52% over the last six months and 16.48% over the past year. Despite designing key AI processors and being the world's largest company by market value, its stock performance lagged behind its suppliers, such as Taiwan Semiconductor which rose 43.10% and Micron which rose 360.14%. NVIDIA's revenue in its most recent quarter grew 105.9% year-over-year, with operating margins at 66.24%. Analysts note that suppliers started from lower bases and had earnings priced as temporary, leaving more room to re-rate when AI spending arrived, whereas NVIDIA had already been repriced earlier. NVIDIA trades at 24.88 times analysts' expectations for next year's earnings.
+  中文：总结：NVIDIA Corporation在10月15日收盘于$217.23，过去六个月回报率为9.52%，过去一年回报率为16.48%。 尽管该公司设计了核心人工智能处理器且是全球市值最大的公司，但其股价表现落后于其供应商，例如台湾积体电路制造股份有限公司同期上涨43.10%，美光科技上涨360.14%。 NVIDIA最近一个季度的营收比去年同期增长105.9%，营业利润率为66.24%。 分析师指出，供应商起点较低且市场曾将其盈利视为暂时的，这在人工智能支出到来时留出了更大的重估空间，而NVIDIA此前已被重新定价。 该股票目前的交易价格为分析师对明年预期收益的24.88倍。
+  📰 [Yahoo Finance](https://finance.yahoo.com/markets/stocks/articles/why-did-nvidia-nvda-rise-143400902.html)
+
+- **[2026.10.18] The Business Times — As AI rally wobbles, stock market’s spotlight turns to earnings**
+  English：Stumbles in artificial intelligence-linked stocks are testing investor confidence ahead of a busy week of quarterly reports from key players like Meta Platforms, Lam Research, Texas Instruments, SpaceX, and Tesla. AI-linked stocks and hardware companies like Dell Technologies suffered sharp declines recently, while cloud company CoreWeave saw shares tumble amid debt concerns of about US$50 billion. Deutsche Bank and RBC Capital Markets pulled back on tech sector recommendations, and the S&P 500 posted its biggest weekly drop since June. Meanwhile, Goldman Sachs noted that five AI hyperscalers are expected to increase capital spending to about US$1.2 trillion in 2027. The Philadelphia SE Semiconductor index slumped about 12 per cent in October.
+  中文：总结：在Meta Platforms、Lam Research、德州仪器、SpaceX和特斯拉等关键企业即将在未来一周发布季度财报之际，人工智能相关股票的波折正考验着投资者的信心。 人工智能相关股票以及戴尔科技等科技硬件公司近期遭遇急剧下跌，同时由于约500亿美元的债务担忧，云服务公司CoreWeave的股价也出现下跌。 德意志银行和RBC资本市场下调了对科技板块的建议，标普500指数创下自6月以来最大单周跌幅。 与此同时，高盛指出，预计五家人工智能超大规模企业将在2027年把资本支出增加到约$1.2 trillion。 费城半导体指数在10月份下挫了约12%。
+  📰 [The Business Times](https://www.businesstimes.com.sg/international/ai-rally-wobbles-stock-markets-spotlight-turns-earnings)
+
+- **[2026.10.18] The Motley Fool — Own VGT? Here's How Much of It Is Really Nvidia, Apple, Microsoft, and Broadcom.**
+  English：The Vanguard Information Technology ETF holds 318 stocks across electronics, computer, semiconductor, software, and hardware industries while tracking a passive index. As of September 30, four major tech stocks—Nvidia, Apple, Microsoft, and Broadcom—represented about 49% of the fund's assets. VGT has delivered an average annual return of 15.03% since its inception in January 2004, with higher annualized returns over shorter recent periods, outperforming the Nasdaq-100 over the past 10 years. VGT does not hold certain prominent tech names like Alphabet, Amazon, Meta Platforms, and Tesla because they do not belong to the information technology sector under its benchmark index, the MSCI US IMI Information Technology 25/50 Index.
+  中文：总结：先锋信息技术ETF持有涵盖电子、计算机、半导体、软件和硬件行业的318只股票，并跟踪被动指数。 截至9月30日，四只主要的科技股——Nvidia、Apple、Microsoft和Broadcom约占该基金资产的49%。 自2004年1月成立以来，VGT的平均年回报率为15.03%，在近期较短周期内年化回报率更高，且在过去10年中表现优于纳斯达克100指数。 VGT未持有Alphabet、Amazon、Meta Platforms和Tesla等部分知名科技股，因为根据其基准指数MSCI美国IMI信息技术25/50指数，这些公司不属于信息技术行业。
+  📰 [The Motley Fool](https://www.fool.com/investing/2026/10/18/own-vgt-heres-how-much-of-it-is-really-nvidia-appl/)
+
+- **[2026.10.18] Opening Bell Daily — Magnificent 7 stocks: Apple leads Tesla by 47 points**
+  English：Apple stock rose 26.3% through Friday, October 16, while Tesla fell 21.1%, creating a 47.5 percentage point gap between the best and worst performing Magnificent 7 stocks. Other year-to-date returns among the group include Nvidia up 14.8%, Microsoft up 9.4%, Alphabet up 8.8%, Amazon up 8.3%, and Meta up 7.5%. The S&P 500 gained 11.9% over the same period. Only Apple and Nvidia are outperforming the S&P 500 this year, and Tesla is the sole member of the group trading in the negative. An equal split across all seven stocks at the start of the year would show an increase of about 7.7%, trailing the S&P 500.
+  中文：总结：截至10月16日周五，Apple股价今年上涨了26.3%，而Tesla下跌了21.1%，这使得“七巨头”中表现最好和最差的股票之间存在47.5个百分点的差距。 该群体中其他年初至今的回报率包括：Nvidia上涨14.8%，Microsoft上涨9.4%，Alphabet上涨8.8%，Amazon上涨8.3%，Meta上涨7.5%。 标普500指数同期上涨了11.9%。 今年只有Apple和Nvidia的表现超过了标普500指数，Tesla是该群体中唯一出现负增长的成员。 如果在年初对所有七只股票进行等比例配置，收益率约为7.7%，落后于标普500指数。
+  📰 [Opening Bell Daily](https://www.openingbelldailynews.com/p/magnificent-7-stocks-returns-oct-18-2026)
+
+- **[2026.10.18] Simply Wall Street — Learn Why The Bull Case For Huntington Ingalls Industries Stock Could Change Following AUKUS Navy Contract**
+  English：Huntington Ingalls Industries' Newport News Shipbuilding division secured a US$56 million U. S. Navy contract with an option up to US$91 million to provide engineering and design support for the AUKUS submarine program, encompassing SSN-AUKUS work and broader initiatives across the U. S. , U. K. , and Australia. Concurrently, HII has invested in hiring events across Newport News, Charleston, and Ingalls Shipbuilding to support long-duration nuclear submarines and carrier responsibilities. Analysts project the company to reach revenue of US$15.3b and earnings of US$965.0m by 2029, based on assumed yearly top-line growth of 5.2% and profit margins increasing from 5.0% to 6.3%.
+  中文：总结：亨廷顿·英格尔斯工业公司的纽波特纽斯造船部获得了一份价值5600万美元的美国海军合同，并附带高达9100万美元的选择权，以为AUKUS潜艇项目提供工程和设计支持，其中包括SSN-AUKUS工作以及美国、英国和澳大利亚之间的更广泛倡议。 与此同时，HII投资于纽波特纽斯、查尔斯顿和英格尔斯造船厂的招聘活动，以支持长周期的核潜艇和航母职责。 根据假设的每年5.2%的营收增长以及利润率从5.0%提升至6.3%，分析师预计该公司到2029年营收将达到153亿美元，盈利将达到9.65亿美元。
+  📰 [Simply Wall Street](https://simplywall.st/stocks/us/capital-goods/nyse-hii/huntington-ingalls-industries/news/learn-why-the-bull-case-for-huntington-ingalls-industries-st)
+
+- **[2026.10.18] Stocktwits — TSLA, PCG, GOOGL, RUN, CARR Stocks In Focus: A New Virtual Power Plant To Connect 21,000 Home Energy Devices**
+  English：Pacific Gas & Electric unveiled the SHARE program in California, partnering with Alphabet's Google, Tesla, Sunrun, and Carrier Global to connect nearly 21,000 home energy devices into a virtual power plant. The initiative aims to tackle rising electricity demand from data centers and electric vehicles by shifting power supply from connected batteries and smart appliances to reduce grid strain. Google is expected to fully fund the program, while Tesla, Sunrun, and Renew Home assist with device connections, and Carrier provides battery-enabled heat pumps. Sunrun CEO Mary Powell noted that home energy devices hold untapped capacity to improve grid reliability and affordability while sharing economic benefits with customers. The announcement coincided with Tesla's Cybercab launch event and followed a decline in PCG shares after the introduction of Senate Bill 492 regarding utility wildfire liabilities.
+  中文：总结：太平洋天然气与电力公司在加利福尼亚州推出了SHARE项目，联合了Alphabet旗下的谷歌、特斯拉、Sunrun和开利全球等公司，将近21000个家庭能源设备连接为一个虚拟电厂。 该计划旨在通过转移来自已连接电池和智能设备的电力供应，减轻电网压力，以应对数据中心和电动汽车不断上升的电力需求。 谷歌预计将全额资助该项目，特斯拉、Sunrun和Renew Home协助连接设备，开利则提供具备电池储能功能的热泵。 Sunrun首席执行官玛丽·鲍威尔指出，家庭能源设备拥有未被开发的容量，可在改善电网可靠性和经济性的同时，让客户分享经济效益。 这一宣布正值特斯拉举办Cybercab发布会之际，在此之前，随着涉及公用事业野火责任的492号参议院法案的出台，PCG的股价出现下跌。
+  📰 [Stocktwits](https://stocktwits.com/news-articles/markets/equity/tsla-pcg-googl-run-carr-stocks-in-focus-a-new-virtual-power-plant-to-connect-21-000-home-energy-devices/cZsMUcmRJv7)
+
+- **[2026.10.18] Stocktwits — NVDA, MRVL, SNDK, SKHY, And Other Chip Stocks Slide: Analyst Says Investors Are Rotating To Safety Amid Iran War Tensions**
+  English：Semiconductor stocks, including Nvidia, Marvell Technology, SanDisk, and SK Hynix, experienced a continued rout with declines between 2% and 8% during morning trade on Thursday. Melius Head of Technology Research Ben Reitzes stated in a CNBC interview that the decline partly stems from investors rotating to safety amid war tensions involving Iran, which could potentially spike input costs if supply disruptions in the Strait of Hormuz push up crude oil prices and lead central banks to raise interest rates. Reitzes downplayed concerns over AI and chip stock valuations, noting that the AI trade remains on track and he anticipates that upcoming quarterly results from hyperscalers like Alphabet, Intel, Microsoft, Meta, Apple, and Amazon will show capital expenditure increases rather than decreases.
+  中文：总结：包括英伟达、美满电子、闪迪和SK海力士在内的半导体股票在周四早盘交易中继续下跌，跌幅在2%到8%之间。 Melius技术研究主管本·赖特斯在接受CNBC采访时表示，部分跌幅归因于在涉及伊朗的战争紧张局势下，投资者为了安全而进行资金轮动；如果霍尔木兹海峡的供应中断推高原油价格并导致央行加息，可能会使输入成本激增。 赖特斯淡化了对人工智能和芯片股票估值的担忧，指出人工智能交易依然在稳步推进，并预计Alphabet、英特尔、微软、Meta、苹果和亚马逊等超大规模数据中心企业的即将公布的季度财报将显示资本支出增加而非减少。
+  📰 [Stocktwits](https://stocktwits.com/news-articles/markets/equity/nvda-mrvl-sndk-skhy-chip-stocks-fall-investors-flocking-safety-iran-war/cZZEhSrR7sm)
+
+- **[2026.10.18] Seeking Alpha — Wall Street Week Ahead**
+  English：Wall Street faces a heavy earnings week, with Meta Platforms and Tesla set to report earnings on Wednesday, putting both AI spending and the broader semiconductor complex in focus. Other key reporting companies include SpaceX, Netflix, GE Aerospace, RTX, General Motors, and United Airlines on Tuesday, alongside Spotify, Procter & Gamble, Lockheed Martin, Honeywell, American Airlines, and Comcast on Thursday. Additionally, Nvidia will hold its GTC Berlin AI conference featuring CEO Jensen Huang, while the Federal Reserve enters its blackout period ahead of the October 27-28 policy meeting. In banking, Bank of America shares have come under pressure after management tempered expectations for the third quarter due to a less favorable global markets environment, though its Series L preferred shares offer an approximate 6.06% dividend yield and potential conversion opportunities.
+  中文：总结：华尔街迎来了密集的财报周，Meta平台公司和特斯拉计划于周三发布财报，这将使人工智能支出和更广泛的半导体行业成为焦点。 其他将于周二发布财报的主要公司包括SpaceX、奈飞、通用电气航空航天、雷神技术、通用汽车和联合航空，周四发布财报的公司则包括声破天、宝洁、洛克希德·马丁、霍尼韦尔、美国航空和康卡斯特。 此外，英伟达将举行由首席执行官黄仁勋发言的GTC柏林人工智能会议，美联储则在10月27日至28日政策会议之前进入静默期。 在银行板块方面，由于管理层因全球市场环境不太有利而调低了对第三季度的预期，美国银行股价面临压力，不过其L系列优先股提供了约6.06%的股息收益率以及潜在的转股机会。
+  📰 [Seeking Alpha](https://seekingalpha.com/article/4955048-wall-street-week-ahead)
+
+- **[2026.10.17] 行情快照 / Quote · S&P 500 — 标普500下跌1.09%**
+  Quote: S&P 500 stood at 7,659.44 as of 2026.10.17 05:42 JST, 1.09% lower than the previous close.
+  行情中文：截至 2026.10.17 05:42 JST，标普500较前收盘下跌1.09%。
+  📰 [Yahoo Finance](https://finance.yahoo.com/quote/%5EGSPC)
+
+- **[2026.10.17] 行情快照 / Quote · Nasdaq Composite — 纳斯达克综合指数下跌2.14%**
+  Quote: Nasdaq Composite stood at 26,140.03 as of 2026.10.17 06:15 JST, 2.14% lower than the previous close.
+  行情中文：截至 2026.10.17 06:15 JST，纳斯达克综合指数较前收盘下跌2.14%。
+  📰 [Yahoo Finance](https://finance.yahoo.com/quote/%5EIXIC)
+
+## 🇯🇵 日本株式市場 / Japan Market
+
+- **[2026.10.18] 月刊FACTA — 世界シェア100％「レザーテック」／「株価100倍」達成の極意**
+  日本語：世界的なAIブームに伴い日本の半導体関連株が躍進する中、東京エレクトロンやアドバンテストと並び「半導体急成長株の御三家」と呼ばれるレーザーテックが取り上げられている。 同社は過去10年間に株価が100倍となる「ハンドレッド・バガー」を達成した。 創業者である内山康の「世の中にないものをつくる」という理念を貫き、歴代トップは製造設備を最小限に抑えて開発に特化するファブライト経営を踏襲している。 従業員の約7割をエンジニアが占め、半導体検査装置という分野で独創的な製品を次々に生み出している。
+  中文：总结：在世界人工智能热潮推动日本半导体企业跃进的背景下，レーザーテック与东京电子、爱德万测试并称为半导体高成长股御三家。 在过去的十年中，该公司的股价达成了百倍增长。 公司继承了创始人内山康“创造世上所没有之物”的理念，历代最高管理层沿用了将制造设备降至最低、专注于研发的轻晶圆厂经营模式。 员工中约有70%为工程师，在半导体检查装置这一领域持续不断地推出充满独创性的产品。
+  📰 [月刊FACTA](https://facta.co.jp/article/202611024.html)
+
+- **[2026.10.18] 月刊FACTA — 連載･経済断影／優勝劣敗の「TOPIX改革」、MBOに拍車**
+  日本語：日本の代表的な株価指数である東証株価指数（TOPIX）を巡る改革が開始された。 2028年7月に最終的に1000社を下回る銘柄数にまで削減される見通しである。 TOPIXには投資信託や年金基金などの多額の投資資金が連動しており、運用残高は160兆円規模にのぼると見られている。 構成銘柄から除外された場合、資金が流入しなくなり株価の下落は避けられない。 除外の基準となるのは、実際に売買できる浮動株の時価総額と売買代金回転率で示す流動性であり、プライム、スタンダード、グロースの3市場全体の上位97％以内に入らなければ除外の対象となる。
+  中文：总结：日本代表性股价指数之一的东证股价指数（TOPIX）相关改革已经启动。 预计该指数的成分股将在2028年7月最终削减至1000家以下。 TOPIX关联着投资信托和养老基金等大量投资资金，其运营规模据信达到160万亿日元级别。 如果被排除在成分资金之外，资金将不再流入，股价下跌在所难免。 除名标准是由实际可自由买卖的流通股票市值以及通过买卖代金换手率显示的流动性。 若未能进入プライム、スタンダード和グロース三个市场整体的前97%以内，则将成为被剔除的对象。
+  📰 [月刊FACTA](https://facta.co.jp/article/202611013.html)
+
+- **[2026.10.18] www.tv-tokyo.co.jp — 視る日経！ニュースNEXT▼１日の経済・投資・マーケット情報を深掘り、明日に生かす！**
+  日本語：日本経済新聞、日経BP、英フィナンシャル・タイムズなどのNIKKEIグループの総力を活かした経済報道番組として、ビジネスパーソンや投資家に必要な確かな情報を1時間に凝縮して分析している。 メインキャスターを八木ひとみ、コメンテーターを日本経済新聞編集委員の大塚節雄、キャスターをトラウデン直美とテレビ東京アナウンサーの島田弘久が務める。 特集コーナーでの注目トピックの深掘り解説に加え、日経電子版の朝昼晩の重要ニュースを振り返る「注目記事PickUp」やアクセスランキングも届けている。
+  中文：总结：作为一档充分利用日本经济新闻、日经BP、英国《金融时报》等NIKKEI集团综合实力的经济报道节目，该节目将商务人士和投资者所需的确实信息浓缩于一小时内进行分析。 主要主持人为八木ひとみ，评论员为日本经济新闻编辑委员大塚節雄，主持人则由トラウデン直美及东京电视台主播岛田弘久担任。 除了在专题环节深入剖析受关注的话题外，还播送回顾日经电子版早中晚重要新闻的“关注文章PickUp”以及访问量排行榜。
+  📰 [www.tv-tokyo.co.jp](https://www.tv-tokyo.co.jp/broad_bstvtokyo/program/detail/202610/22663_202610232154.html)
+
+- **[2026.10.16] 行情快照 / Quote · Nikkei 225 — 日经225上涨1.39%**
+  行情日本語：日经225（Nikkei 225）は2026.10.16 15:45 JST時点で65,324.29となり、前日終値比で1.39%上昇しています。
+  行情中文：截至 2026.10.16 15:45 JST，日经225较前收盘上涨1.39%。
+  📰 [Yahoo Finance](https://finance.yahoo.com/quote/%5EN225)
+
+- **[2026.10.16] 行情快照 / Quote · Tokyo Electron — 东京电子上涨2.56%**
+  行情日本語：东京电子（Tokyo Electron）は2026.10.16 15:30 JST時点で10,630.00となり、前日終値比で2.56%上昇しています。
+  行情中文：截至 2026.10.16 15:30 JST，东京电子较前收盘上涨2.56%。
+  📰 [Yahoo Finance](https://finance.yahoo.com/quote/8035.T)
+
+## 🌍 宏观经济与投资 / Macro & Investment
+
+- **[2026.10.18] TradingView — Gold and silver head for volatile week amid crude oil spike, West Asia worries**
+  English：West Asia tensions, crude oil prices near $110 per barrel, and rupee movements are shaping a volatile week for gold and silver, according to analysts. Lemonn's Gaurav Garg noted that Brent crude surging towards $110 per barrel and Strait of Hormuz tensions could cap bullion's upside. Domestic MCX gold futures declined 2.4 per cent over the past week to close at ₹1.47 lakh per 10 grams, while silver tumbled 6.4 per cent to ₹2.11 lakh per kilogram, heavily impacted by the rupee gaining to the 94.8 level. Globally, Comex gold dipped nearly 1 per cent to $4,181.1 per ounce, and silver fell 6.13 per cent to $57.30 an ounce. JM Financial Services' Pranav Mer stated that bullion found support from a weaker US dollar as traders pared Fed rate hike bets ahead of mid-term elections on November 3.
+  中文：总结：分析师表示，西亚紧张局势、接近每桶110美元的原油价格以及卢比走势，正使黄金和白银迎来波动的一周。 Lemonn研究主管Gaurav Garg指出，布伦特原油向每桶110美元飙升以及霍尔木兹海峡的紧张局势可能会限制贵金属的上涨空间。 国内MCX黄金期货在过去一周下跌了2.4%，收盘报每10克1.47万卢比，白银则大跌6.4%，结算价为每公斤2.11万卢比，主要受到卢比升值至94.8水平的重创。 在全球市场，Comex黄金期货下跌近1%，报收于每盎司4,181.1美元，白银下跌6.13%至每盎司57.30美元。 JM Financial Services高级副总裁Pranav Mer表示，由于交易员在11月3日中期选举前削减了美联储加息押注，走弱的美元为贵金属提供了一些支撑。
+  📰 [TradingView](https://www.tradingview.com/news/moodys:42ed073a71b7b:0-gold-and-silver-head-for-volatile-week-amid-crude-oil-spike-west-asia-worries/)
+
+- **[2026.10.18] Pluang — Bitcoin's 2026 outlook varies as inflation and Fed rate hikes influence price targets around $85K-$100K.**
+  English：American Airlines CEO Robert Isom has sold 335,000 shares of the company, generating $4.3 million from the transaction. This transaction could be a personal financial decision or a strategic move by the CEO, which investors might watch closely for any developments.
+  中文：总结：美国航空公司首席执行官Robert Isom售出了公司335,000股股票，从该交易中获得了430万美元。 此次出售可能是该首席执行官的个人财务决定或战略举措，投资者可能会密切关注其中的任何动向。
+  📰 [Pluang](https://pluang.com/en/news-feed/inflasi-mengaburkan-proyeksi-bitcoin-100000-di-tahun-2026)
+
+- **[2026.10.18] CoinGape — Top 3 Crypto Events that Could Impact the Market in October 2026**
+  English：As October 2026 ends, the crypto market trades near $2.74 trillion, with Bitcoin at $82,000, Ethereum at nearly $2,421, and XRP at roughly $1.30. Three major events shape the outlook: the Federal Reserve's interest rate decision on October 28, following a federal funds target range of 3.75%–4.00%; Ethereum's Glamsterdam upgrade on Hoodi on October 26, which increases Hoodi's gas limit to 200 million without immediately cutting mainnet fees or capacity; and Deribit's monthly Bitcoin and Ethereum options expiry on October 30. Additional economic data, including ADP employment releases, oil inventories, a $13 billion 20-year Treasury auction, and manufacturing and services PMIs, contribute to broader financial market volatility.
+  中文：总结：截至2026年10月尾，加密货币市场总市值接近$2.74 trillion，其中比特币交易价格为$82,000，以太坊接近$2,421，瑞波币约为$1.30。 三大事件备受关注：美联储于10月28日召开利率决议，此前联邦基金目标区间为3.75%–4.00%；以太坊计划于10月26日在Hoodi上进行Glamsterdam升级，将Hoodi的gas上限提升至200 million，但不会立即降低主网费用或提升容量；Deribit的比特币和以太坊月度期权将于10月30日到期。 此外，ADP就业数据、原油库存、$13 billion的20年期美债拍卖以及采购经理人指数等经济数据也加剧了市场波动。
+  📰 [CoinGape](https://coingape.com/markets/top-3-crypto-events-that-could-impact-the-market-in-october-2026/)
+
+- **[2026.10.18] Pluang — BOJ faces pressure to hike rates amid rising in...**
+  English：President Trump has sold his shares in Micron Technology and used the proceeds to invest in another large-cap company focused on artificial intelligence. This transaction demonstrates a shift in his investment strategy toward the expanding artificial intelligence sector.
+  中文：总结：美国总统特朗普已售出其持有的Micron Technology股票，并将所得资金用于投资另一家专注于人工智能的大盘公司。 这一举措突显了他的投资策略正向不断增长的人工智能板块转变。
+  📰 [Pluang](https://pluang.com/en/news-feed/perkiraan-suku-bunga-boj-fokus-kenaikan-desember-menjelang-cpi-jepang)
+
+- **[2026.10.18] TechBullion — How Interest Rate Expectations Move the US Dollar**
+  English：Foreign exchange markets continuously price future interest rate expectations, meaning currency movements often occur before official central bank announcements. The US dollar responds to shifts in economic indicators such as inflation reports, employment data, and Treasury yields, particularly the two-year yield. Factors such as core inflation, labor market strength, and relative rate outlooks against other central banks like the eurozone dictate investor positioning and currency valuations.
+  中文：总结：外汇市场持续对未来的利率预期进行定价，这意味着汇率波动往往发生在官方央行宣布决定之前。 美元对通胀报告、就业数据和美国国债收益率（尤其是两年期收益率）等经济指标的变化作出反应。 核心inflation、劳动力市场强度以及相对于欧洲央行等其他央行的相对利率前景，共同决定了投资者的持仓和货币估值。
+  📰 [TechBullion](https://techbullion.com/how-interest-rate-expectations-move-the-us-dollar/)
+
+- **[2026.10.17] 行情快照 / Quote · USD/JPY — 美元兑日元上涨0.01%**
+  Quote: USD/JPY stood at 157.99 as of 2026.10.17 05:59 JST, 0.01% higher than the previous close.
+  行情中文：截至 2026.10.17 05:59 JST，美元兑日元较前收盘上涨0.01%。
+  📰 [Yahoo Finance](https://finance.yahoo.com/quote/JPY%3DX)
+
+- **[2026.10.17] 行情快照 / Quote · US 10Y Yield — 美国10年期国债收益率上涨0.18%**
+  Quote: US 10Y Yield stood at 5.10 as of 2026.10.17 03:59 JST, 0.18% higher than the previous close.
+  行情中文：截至 2026.10.17 03:59 JST，美国10年期国债收益率较前收盘上涨0.18%。
+  📰 [Yahoo Finance](https://finance.yahoo.com/quote/%5ETNX)
+
+---
+※Stock Market Daily Digest | 2026.10.19
