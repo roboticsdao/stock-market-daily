@@ -1,0 +1,160 @@
+# 📈 Stock Market Daily | 2026.10.22（木曜日 / Thursday）
+
+> ⚠ 本日报优先收录最近24小时的市场新闻、个股异动与当时市场快照；数据仅供参考，不构成投资建议。
+
+---
+
+
+## 🇺🇸 美国股市 / US Market
+
+- **[2026.10.22] 24/7 Wall St. — Alphabet Has Lost About $860 Billion Since Its Peak, Nearly a Whole Walmart. Apple Has Avoided the AI Race and Is Near All-Time Highs.**
+  English：Alphabet has lost about $860 billion in market value since its peak, leaving it at $4.21 trillion, while Apple sits near all-time highs at $4.95 trillion. From November 30, 2022 to the present, Apple gained 133.5%, whereas Alphabet rose 232.5%, though Apple leads the Magnificent Seven year-to-date at 25.26% compared to Alphabet's 6.47%. Capital spending explains the divergence: in the June 2026 quarter, Apple spent $2.455 billion on data centers, chips and equipment, while Alphabet spent $44.92 billion, with full-year capex guided as high as $185 billion after raising about $70 billion in equity and debt last quarter. On valuation, Alphabet trades at 15 times trailing earnings and 23 times forward earnings, compared to Apple at 44 and 35. However, Apple offers stronger income stability, returning $33 billion to shareholders last quarter, raising its dividend to $0.27, and authorizing a $100B buyback, contrasted with Alphabet suspending buybacks, posting -$5.86 billion in free cash flow, and raising long-term debt to $98.2 billion. Alphabet's second-quarter revenue grew 24.2% to $119.80 billion with Google Cloud surging 82%, while Apple's revenue rose 16.4% and guided September-quarter growth to 9%-11%.
+  中文：总结：Alphabet市值自顶峰以来已蒸发约860 billion美元，现估值为4.21 trillion美元，而Apple则接近历史高点，估值为4.95 trillion美元。 自2022年11月30日至今日，Apple上涨了133.5%，Alphabet上涨了232.5%，其中Apple今年迄今领涨七大科技股，涨幅达25.26%，而Alphabet仅上涨6.47%。 资本支出的差异造成了这一差距：在2026年6月季度，Apple在数据中心、芯片和设备上花费了2.455 billion美元，而Alphabet则花费了44.92 billion美元，其全年资本支出指引高达185 billion美元，且上季度筹集了约70 billion美元的股权和债务。 在估值方面，Alphabet的静态市盈率为15倍，动态市盈率为23倍，而Apple则分别为44倍和35倍。 然而，Apple具备更强的收益稳定性，上季度向股东返还了33 billion美元，将季度股息提高至0.27美元，并获批了100 billion美元的新股票回购授权，相比之下Alphabet暂停了股票回购，自由现金流为负5.86 billion美元，长期债务从46.5 billion美元增至98.2 billion美元。 Alphabet第二季度营收增长24.2%至119.80 billion美元，其中Google Cloud增长82%，而Apple营收增长16.4%，并预计9月季度营收增长9%至11%。
+  📰 [24/7 Wall St.](https://247wallst.com/investing/2026/10/21/alphabet-has-lost-about-860-billion-since-its-peak-nearly-a-whole-walmart-apple-has-avoided-the-ai-race-and-is-near-all-time-highs/)
+
+- **[2026.10.22] Toronto Star — Tech and financial stocks help boost S&P/TSX composite, U.S. stock markets also up**
+  English：Canada's main stock index rose more than 250 points, supported by strength in the financial and technology sectors. U. S. stock markets also climbed higher in late-morning trading. Specifically, the S&P/TSX composite index increased by 251.96 points to reach 36,359.92.
+  中文：总结：受金融和科技板块走强的推动，加拿大主要股票指数上涨超过250点，同时美国股市在早盘尾盘也走高。 具体而言，标普/多伦多证券交易所综合指数（S&P/TSX composite index）上涨了251.96点，报36,359.92点。
+  📰 [Toronto Star](https://www.thestar.com/business/tech-and-financial-stocks-help-boost-s-p-tsx-composite-u-s-stock-markets-also-up/article_595d3ba4-bf40-5eda-b92d-bd56cd8b5c5a.html)
+
+- **[2026.10.22] 24/7 Wall St. — If This Magnificent Seven Stock Doubles, Here’s What $10,000 Could Become**
+  English：Tesla shares closed at $354.72 in the most recent session, down 21.12% year to date and well below the 52-week high of $498.83. A five-year model forecasts a base case value of $14,296 by 2031 from a $10,000 investment, representing a 42.96% total return and an annualized return of 7.41% with a five-year share price target of $507.11, while the bull case reaches $18,761 or an 87.61% overall return at a share price of $665.49. The model has a high confidence score of 0.9, uses forward EPS of 2.0029 and a forward P/E of 177, while Wall Street's consensus target is $397.83 with analysts split across 4 strong buy, 15 buy, 21 hold, 2 sell and 2 strong sell ratings. Growth drivers include active FSD subscriptions reaching 1.48 million up 56% year-over-year, Robotaxi expanding to seven U. S. metros with over 380,000 miles driven across six cities in two states with zero notable incidents, second-quarter deliveries hitting a record 480,126 vehicles up 25% year-over-year, revenue growing 25.5% year-over-year to $28.24 billion, and energy storage deployments reaching 13.5 GWh up 41% year-over-year. Risks include second-quarter non-GAAP EPS of $0.33 missing the $0.5367 estimate, operating margin falling to 1.4%, free cash flow at -$1.09 billion, anticipated capital spending of more than $25 billion this year, a trailing P/E of about 369, and a beta of 1.916 with a 17.27% decline over the past year.
+  中文：总结：Tesla股票在最近一个交易日收于354.72美元，今年迄今下跌21.12%，远低于498.83美元的52周高点。 一项五年期模型预测，到2031年，10,000美元的投资在基本情境下价值约为14,296美元，总回报率为42.96%，年化回报率为7.41%，五年期股价目标为507.11美元；而看涨情境下价值可达18,761美元或总回报率为87.61%，股价为665.49美元。 该模型的置信度评分为0.9（属于高水平），采用2.0029的远期每股收益和177的远期市盈率，华尔街的共识目标价为397.83美元，分析师评级包括4个强烈买入、15个买入、21个持有、2个卖出和2个强烈卖出。 增长驱动因素包括：活跃的FSD订阅量达到1.48 million，同比增长56%；Robotaxi已扩展到美国七个大都市区，在两个州的六个城市行驶了超过380,000英里且无重大事故；第二季度交付量创下480,126辆的纪录，同比增长25%；营收增长25.5%至28.24 billion美元；能源存储部署量达到13.5 GWh，同比增长41%。 风险包括：第二季度非美国通用会计准则每股收益为0.33美元，未达到0.5367美元的预期；营业利润率降至1.4%；自由现金流为负1.09 billion美元；预计今年资本支出将超过25 billion美元；静态市盈率约为369倍；贝塔系数为1.916，过去一年股价下跌了17.27%。
+  📰 [24/7 Wall St.](https://247wallst.com/investing/2026/10/21/if-this-magnificent-seven-stock-doubles-heres-what-10000-could-become/)
+
+- **[2026.10.22] The Motley Fool — New FT Poll Shows: The Future of AI Could Be Good News for International Stocks**
+  English：A Financial Times survey of economists published on October 17 indicates that 54% of economists believe artificial intelligence will deliver significant gains in economic growth and productivity over the next 10 years, benefiting many or nearly all G20 nations rather than just the U. S. and China. The survey suggests AI will not cause large-scale job losses, as labor-saving productivity gains can help global economies cope with aging populations and shrinking workforces. Echoing this sentiment, Vanguard research projects that the biggest productivity and profit gains from AI will go to companies using the technology rather than those building it, leading to a forecast that international stocks, or global ex-U. S. equities unhedged, will outperform U. S. stocks over the next 30 years. To capture this international growth, the Vanguard Total International Stock ETF holds 8,901 stocks across 43 countries, having delivered annualized returns of about 9.2% over the past 10 years and about 9.4% over the past five years, compared to the S&P 500 index long-term average of 9.98%.
+  中文：总结：《金融时报》于10月17日发布的一项经济学家调查显示，54%的经济学家认为人工智能将在未来10年为经济增长和生产力带来显著提升，且这些收益将惠及G20的许多或几乎所有国家，而不仅限于美国和中国。 调查表明，AI不会造成大规模失业，因为节省劳动力带来的生产力提升可以帮助全球经济应对人口老龄化和劳动力萎缩的问题。 先锋集团（Vanguard）的研究呼应了这一观点，预测AI带来的最大生产力和利润增长将流向使用该技术的公司，而不是构建该技术的公司，从而预测国际股票（即未对冲的全球除美股票）在未来30年内将跑赢美股。 为了捕捉这种国际增长，先锋富时全球股票ETF（Vanguard Total International Stock ETF）持有了来自43个国家的8,901只股票，其过去10年的年化回报率约为9.2%，过去五年的年化回报率约为9.4%，相比之下标普500指数的长期平均回报率为9.98%。
+  📰 [The Motley Fool](https://www.fool.com/investing/2026/10/21/new-ft-poll-shows-the-future-of-ai-could-be-good/)
+
+- **[2026.10.21] Yahoo Finance — Tesla Q3 preview: Delivery outlook, cash flow, and a dash of merger speculation on tap**
+  English：Tesla reported third-quarter deliveries of 486,532 vehicles, down 2% year-over-year but beating the Bloomberg consensus of 463,000, while energy storage deployments reached 13.7 GWh compared to 12.5 GWh a year ago and 13.5 GWh in the second quarter. Regional sales varied, with U. S. sales affected by the expiration of the $7,500 federal EV tax credit leading to an estimated 144,100 EVs sold down nearly 20% year-over-year, while Shanghai wholesale volume reached a 2026 high of 95,366 vehicles in September with exports up 58% and domestic sales falling 9%, and European registrations across the EU, UK, and EFTA rose 43.3% from January through August. Wall Street consensus expects third-quarter revenue of $28.13 billion, flat year-over-year, with adjusted EPS at $0.44, adjusted EBITDA at $3.66 billion, and EBIT of $760 million at a 2.7% margin. Free cash flow is expected to be deeply negative at -$4.51 billion alongside capital expenditures climbing to $7.77 billion for the quarter. Additionally, CEO Elon Musk stated during a SpaceX earnings call that SpaceX and Tesla have formed special committees of independent directors to discuss a potential merger, though Musk noted it should not be assumed as a certainty while acknowledging he views it as a good idea, and Barclays analyst Dan Levy pointed to Tesla's annual meeting expected by December 6 as a possible venue for a shareholder vote on an all-stock deal.
+  中文：总结：Tesla公布第三季度交付量为486,532辆，同比下降2%，但远高于彭博社共识预期的463,000辆；能源存储部署量达到13.7 GWh，高于去年同期的12.5 GWh和第二季度的13.5 GWh。 各地区销量表现不一，由于7,500美元联邦电动汽车税收抵免政策到期，美国销量受到冲击，Cox Automotive估计其第三季度在美国售出约144,100辆电动汽车，同比下降近20%；而Tesla上海工厂9月份批发量达到95,366辆，创下2026年单月最高纪录，出口量增长58%，国内销量下降9%；在欧洲，欧盟、英国和EFTA的注册量从1月到8月增长了43.3%。 华尔街共识预计第三季度营收为28.13 billion美元，同比持平，调整后每股收益为0.44美元，调整后EBITDA为3.66 billion美元，EBIT为760 million美元，利润率为2.7%。 自由现金流预计将大幅为负，达负4.51 billion美元，当季资本支出攀升至7.77 billion美元。 此外，首席执行官Elon Musk在SpaceX的财报电话会议上表示，SpaceX和Tesla已成立由独立董事组成的特别委员会来讨论合并设想，尽管Musk指出不应将其视为确定事项，但他也承认自己认为这是一个好主意，巴克莱银行分析师Dan Levy则指出预计于12月6日召开的Tesla年度股东大会可能是对全股票交易进行股东投票的可能场所。
+  📰 [Yahoo Finance](https://finance.yahoo.com/markets/stocks/article/tesla-q3-preview-delivery-outlook-cash-flow-and-a-dash-of-merger-speculation-on-tap-160637755.html)
+
+- **[2026.10.21] Simply Wall Street — This Week In AI Chips - Advancing AI Network Management Through Enhanced GigaSMART Technology**
+  English：Gigamon announced enhancements to its Deep Observability Pipeline, featuring distributed GigaSMART processing capabilities and the new GigaVUE-GSA110 network appliance to support AI-enabled network and security operations in hybrid cloud environments. Meanwhile, King Yuan Electronics shares rose 7.1% to NT$278.00, while Tower Semiconductor shares dropped 8.2% to $183.78 as the company shifts toward silicon photonics and SiGe platforms. Broadcom closed flat at $334.37 after securing long-term agreements with FedEx and NTT DOCOMO for its VMware Cloud Foundation, Nvidia fell 0.3% to $216.47, and Micron Technology dropped 1% to $896.07 ahead of special technology calls.
+  中文：总结：Gigamon宣布为其深度可观测性管道推出增强功能，新增分布式GigaSMART处理能力以及GigaVUE-GSA110网络设备，以支持混合云环境中的AI赋能网络和安全运营。 同时，京元电子股价上涨7.1%收于NT$278.00，Tower Semiconductor股价下跌8.2%收于$183.78，该公司正战略性转向硅光子和SiGe平台。 Broadcom收盘持平于$334.37，此前与Fedex和NTT DOCOMO达成长期协议以推广其VMware Cloud Foundation；Nvidia下跌0.3%收于$216.47；Micron Technology下跌1%收于$896.07，并将举办探讨DRAM、HBM和NAND技术创新的特别会议。
+  📰 [Simply Wall Street](https://simplywall.st/stocks/us/semiconductors/nasdaq-nvda/nvidia/news/this-week-in-ai-chips-advancing-ai-network-management-throug/amp)
+
+- **[2026.10.21] The Motley Fool — Advanced Micro Devices (AMD) Stock Plummeted 13% Last Week. Should You Buy the Dip Before Nov. 3?**
+  English：Advanced Micro Devices (AMD) stock plunged 13% last week amid broader financing hurdles for artificial intelligence companies, including Firmus cancelling its IPO, soaring financing costs for CoreWeave, and a potential $500 billion valuation reduction for Anthropic. Ahead of its third-quarter earnings report on November 3, AMD faces high expectations following strong prior results, including $21.8 billion in revenue for the first six months of 2026, where the data center business grew 81% to $12.5 billion. CEO Lisa Su anticipates data center sales will more than double in 2027 and plans to increase GPU supply, though analysts note the stock trades at a high P/E ratio of 91.8 based on adjusted earnings per share of $5.76.
+  中文：总结：由于人工智能公司面临更广泛的融资难题，包括Firmus取消IPO、CoreWeave融资成本飙升以及Anthropic估值可能缩水$500 billion，Advanced Micro Devices (AMD)股价上周暴跌了13%。 在11月3日发布第三季度财报之前，AMD面临着高市场预期，其2026年前六个月营收达到$21.8 billion，同比增长44%，其中数据中心业务增长81%至$12.5 billion。 首席执行官Lisa Su预计2027年数据中心销售额将翻倍以上并计划增加GPU供应，尽管分析师指出该股票基于$5.76的调整后每股收益其P/E市盈率高达91.8。
+  📰 [The Motley Fool](https://www.fool.com/investing/2026/10/21/advanced-micro-devices-stock-plummeted-13-buy-dip/)
+
+- **[2026.10.21] AOL.com — Micron and Nvidia Are the 2 Biggest Drivers of S&P 500 Earnings Growth. Are Their Stocks Buys?**
+  English：FactSet reports that Micron Technology and Nvidia are the top two contributors to S&P 500 year-over-year earnings growth for the third quarter of 2026, accounting for about 9 percentage points of the index's 29% blended growth rate. Micron reported fiscal fourth-quarter adjusted earnings per share of $33.42, up from $3.03 a year earlier, with revenue surging 379% to $54.2 billion and GAAP operating margins reaching 80.7%. Nvidia forecast fiscal third-quarter revenue of around $108 billion, nearly double the year-ago figure, building on second-quarter non-GAAP net income of $54.0 billion and revenue growth of 106%. Despite their strong financial results, Nvidia shares have declined 9% from their October 6 record close to around $217, and Micron shares sit near $905, down 25% from their June 25 peak.
+  中文：总结：FactSet报告显示，Micron Technology和Nvidia是2026年第三季度标普500指数同比盈利增长的最大两家贡献公司，占该指数29%的混合增长率中的大约9个百分点。 Micron公布第四财季调整后每股收益为$33.42，高于上年同期的$3.03，营收飙升379%至$54.2 billion，GAAP营业利润率达到80.7%。 Nvidia预测第三财季营收约为$108 billion，几乎是去年同期的两倍，此前其第二季度Non-GAAP净利润达到$54.0 billion且营收增长106%。 尽管财务业绩强劲，Nvidia股价已从10月6日的创纪录高点下跌9%至约$217，而Micron股价则在$905附近，较6月25日的峰值下跌了25%。
+  📰 [AOL.com](https://www.aol.com/articles/micron-nvidia-2-biggest-drivers-080401000.html)
+
+- **[2026.10.22] 行情快照 / Quote · S&P 500 — 标普500上涨0.51%**
+  Quote: S&P 500 stood at 7,751.81 as of 2026.10.22 01:16 JST, 0.51% higher than the previous close.
+  行情中文：截至 2026.10.22 01:16 JST，标普500较前收盘上涨0.51%。
+  📰 [Yahoo Finance](https://finance.yahoo.com/quote/%5EGSPC)
+
+- **[2026.10.22] 行情快照 / Quote · Nasdaq Composite — 纳斯达克综合指数上涨1.05%**
+  Quote: Nasdaq Composite stood at 26,701.06 as of 2026.10.22 01:16 JST, 1.05% higher than the previous close.
+  行情中文：截至 2026.10.22 01:16 JST，纳斯达克综合指数较前收盘上涨1.05%。
+  📰 [Yahoo Finance](https://finance.yahoo.com/quote/%5EIXIC)
+
+## 🇯🇵 日本株式市場 / Japan Market
+
+- **[2026.10.22] 外為どっとコム — 【テクニカル】日経平均株価テクニカル分析－上ヒゲ陰線で伸び悩む**
+  日本語：The Nikkei Stock Average rebounded with a buying-lead opening but faced resistance near the declining 5-day moving average at 64672 yen as of October 21, eventually forming a shooting star candlestick pattern with an upper shadow. The 9-day RSI rose from 10.6% to 17.3%, while the broader downward trend originating from the October 6 peak of 70798 yen remains intact. Potential short-term resistance is expected near the 10-day moving average of 66699 yen and the conversion line of 66862 yen, while support levels include the 64000 yen and 63000 yen psychological marks, the September 14 low of 62726 yen, and the 200-day moving average at 61341 yen.
+  中文：总结：日系平均股价开盘呈现买盘领先并有所反弹，但在截至10月21日处于下跌基调的5日移动平均线（64672日元）附近遭遇阻力，最终收出带上影线的阴线。 9日RSI从10.6%上升至17.3%，而自10月6日高点（70798日元）开始的下跌行情仍在继续。 短期上档阻力预计在10日移动平均线（66699日元）和转换线（66862日元）附近，而下档支撑位则包括64000日元和63000日元的心理关口、9月14日低点（62726日元）以及200日移动平均线（61341日元）。
+  📰 [外為どっとコム](https://www.gaitame.com/media/entry/2026/10/22/004312)
+
+- **[2026.10.21] Yahoo!ニュース — スペースX決算でハイテク株に買い、ソニーFG・チェンジHD下落/日経平均反発【今日の注目株＆日本株市場見通し】「デイリーZAi」10月21日号（ダイヤモンド・ザイ）**
+  日本語：The Nikkei Stock Average rebounded by 545.82 yen to close at 64621.24 yen, driven by tech-buying following SpaceX's earnings report showing AI business revenue multiplying over nine times year-over-year. Kioxia Holdings and Advantest saw early gains, while Sony Financial Group shares fell 1.9 yen to 143.2 yen amid reports of a Financial Services Agency inspection following employee money-skimming incidents and suspended sales activities for around 50 Sony Life employees. Additionally, Change Holdings dropped 61 yen to 924 yen after its subsidiary Trustbank experienced unauthorized access on the Furusato Choice platform, compromising personal data for approximately 4.45 million registered donors and prompting an indefinite service suspension.
+  中文：总结：受SpaceX财报显示AI业务营收同比激增9倍以上从而带动科技股买盘的影响，日经平均株価反弹545.82日元，收于64621.24日元。 キオクシアホールディングス和アドバンテスト等股票早盘上涨，而索尼金融集团股价下跌1.9日元至143.2日元，此前有报道称金融厅正考虑对其进行现场检查，因涉及员工金钱诈取事件且索尼生命保险已暂停约50名员工的营业活动。 此外，Change Holdings股价下跌61日元至924日元，此前其子公司Trustbank运营的“Furusato Choice”平台遭到第三方非法访问，约445万名注册捐赠者的个人信息外泄，相关服务已无限期暂停。
+  📰 [Yahoo!ニュース](https://news.yahoo.co.jp/articles/9d576b4cbeb9916968b7710bc9cbc275d6614843)
+
+- **[2026.10.21] Yahoo!ファイナンス — レーティング日報【最上位を継続＋目標株価を増額】 (10月21日)(株探ニュース)**
+  日本語：10月21日に調査機関が投資判断を最上位で継続し、目標株価を引き上げた銘柄がまとめられた。 高松グループは4300円から5800円へ、大成建設は13000円から16400円へ、鹿島は5400円から6900円へ、熊谷組は1650円から1700円へ引き上げられた。 また、ホンダは2000円から2150円へ、ホテルリートは97700円から10.66万円へ、商船三井は7900円から8400円へ、川崎汽船は3400円から3700円へそれぞれ目標株価が引き上げられている。
+  中文：总结：10月21日，调查机构维持了部分股票的最高投资评级并上调了目标股价。 高松集团的目标价从4300日元上调至5800日元，大成建设从13000日元上调至16400日元，鹿岛从5400日元上调至6900日元，熊谷组从1650日元上调至1700日元。 此外，本田从2000日元上调至2150日元，酒店 REIT 从97700日元上调至10.66万日元，商船三井从7900日元上调至8400日元，川崎汽船从3400日元上调至3700日元。
+  📰 [Yahoo!ファイナンス](https://finance.yahoo.co.jp/news/detail/8db2e0ec00efbd38d147f559952083ebbcdec3cc)
+
+- **[2026.10.21] 株探 — 日経平均は3日ぶり反発、アドバンテストやソフトバンクGが2銘柄で約178円分押し上げ**
+  日本語：21日の日経平均株価は3日ぶりに反発し、前日比545.82円高の64621.24円で取引を終えた。 前日の米国株式市場でのダウ平均の反発や中東情勢の緊張緩和期待、企業の好決算などを背景に、AI・半導体関連など主力株に買い戻しが広がった。 東証プライム市場の売買高は21億7903万株、売買代金は6兆9265億円を記録した。 値上がり寄与度トップはアドバンテストで日経平均を約122円押し上げ、ソフトバンクグループなどがそれに続いた。 一方、値下がり寄与度トップはKDDIとなった。
+  中文：总结：21日日经平均指数时隔3天反弹收高，较前一日上涨545.82日元，报64621.24日元收盘。 受前一日美国股市道指反弹、中东局势紧张缓解预期以及企业良好财报等因素支撑，人工智能及半导体等主力股票出现回购潮。 东证普莱姆市场的成交量为21亿7903万股，成交额达6兆9265亿日元。 对指数上涨贡献最大的是爱德万测试，将日经平均指数推高了约122日元，软银集团等紧随其后。 另一方面，对指数下跌贡献最大的是KDDI。
+  📰 [株探](https://s.kabutan.jp/news/n202610211052/)
+
+- **[2026.10.21] 野村證券 — 日本株にまつわる11月の注目イベント TOPIX新指数移行や米国中間選挙 野村證券ストラテジストが解説**
+  日本語：野村證券ストラテジストが11月の日本株にまつわる注目イベントを解説した。 米国では11月3日の米中間選挙やFOMC、米企業の決算発表、さらに半導体市場予測やアンソロピックのIPOなどが予定されている。 国内では消費税減税法案の国会審議や2027年度税制改正に向けた議論、日銀の金融政策決定会合や日本企業の中間決算発表が控えている。 また、10月末からのTOPIX新指数移行に伴う浮動株調整が買いと売りの総額で10兆円前後の影響が見込まれるほか、各種飲食品の値上げやソニーグループの新型ウォークマン発売なども予定されている。
+  中文：总结：野村证券策略师对11月日本股市相关的受关注事件进行了梳理。 美国方面，预计将迎来11月3日的美国中期选举、联邦公开市场委员会会议、美国企业财报发布、半导体市场预测以及Anthropic的首次公开募股等。 日本国内则面临消费税减税法案的国会审议、2027年度税制改革相关讨论、日本央行金融政策决定会议以及日本企业的中期财报发布。 此外，伴随10月底开始的TOPIX新指数过渡，流通股调整预计将产生约10万亿日元的买卖总额影响，同时还将有多项食品价格上调及索尼集团新款随身听的发售。
+  📰 [野村證券](https://www.nomura.co.jp/wealthstyle/article/0914/)
+
+- **[2026.10.21] Yahoo!ファイナンス — トヨタ自動車(株)【7203】：今の株価の理由は？値動きの背景をAIが解説**
+  日本語：トヨタ自動車を巡り、直近で次世代車戦略やアジアでの電動化の動きに関する報道が相次いでいる。 10月16日には30年までに全車種をSDV化し独自ソフト基盤を搭載すると報じられ、10月13日の自動運転・AI強化報道に続く形となった。 また事業戦略では、10月20日にタイで27年末から燃料電池車を生産し70億円を投資すると報じられたほか、10月9日の中国国有大手との戦略提携に続くアジアでの電動化の布石となった。
+  中文：总结：围绕丰田汽车，近期有关其下一代汽车战略及在亚洲推进电动化布局的报道接连不断。 10月16日有报道称，该公司计划在2030年前将所有车型转化为软件定义汽车并搭载自主软件平台，这延续了10月13日关于强化自动驾驶与人工智能的报道。 在业务战略方面，10月20日有报道称其将在泰国投资70亿日元，自2027年底开始生产燃料电池车，这是继10月9日与中国国有巨头达成战略合作之后，在亚洲铺设电动化道路的又一举措。
+  📰 [Yahoo!ファイナンス](https://finance.yahoo.co.jp/quote/7203.F/ai-topics)
+
+- **[2026.10.21] かぶリッジ — ソフトバンク株主優待のPayPayはいつもらえる？衝撃の利回りも解説**
+  日本語：ソフトバンク株式会社の新設優待であるPayPayポイントの初回贈呈が2026年5月から始まり、100株以上の保有で年間1,000円分のポイントが提供されている。 優待を受け取るには専用サイトでの株主番号の登録や連携手続きが必要となり、1度登録を行えば毎年自動で付与される仕組みとなっている。 2026年3月期の情報を基にしたシミュレーションでは、現在の配当水準が続いた場合に100株を10年間保有すると、配当とPayPayを合わせた総額で投資元本の約8割が戻ってくる計算になる。 ネット証券ではSBI証券やマネックス証券などが推奨されている。
+  中文：总结：软银公司新增的股东优待项目——PayPay积分于2026年5月开始首次发放，持有100股及以上可获得每年1000日元的积分。 接收优待需要在专用网站上进行股东编号注册与绑定手续，一旦完成注册，每年将自动发放。 根据2026年3财年的信息进行的模拟计算显示，如果在当前股息水平下连续10年持有100股，通过股息和 PayPay 获得的收益总额将返还约8成的投资本金。 在网络证券方面，推荐使用SBI证券或Monex证券等。
+  📰 [かぶリッジ](https://kabu.bridge-salon.jp/softbank-shareholder-benefit/)
+
+- **[2026.10.21] 日本経済新聞 — ソニーFG株価が3日続落 「金融庁が立ち入り検査検討」報道**
+  日本語：ソニーFGの株価が3日続落し、一時前日比3円70銭（2.54%）安の141円40銭と7月1日以来約3カ月半ぶりの安値を付けた。 日本経済新聞電子版が20日に、金融庁が傘下のソニー生命保険の元営業社員らによる金銭不祥事をめぐり、親会社のソニーFGへの立ち入り検査を検討していると報じたことが背景にある。
+  中文：总结：索尼金融集团股价连续三个交易日下跌，盘中一度较前一日下跌3日元70钱（2.54%），至141日元40钱，创下7月1日以来约三年半（原文约三个半月）来的最低水平。 日本经济新闻电子版20日报道称，金融厅正考虑就旗下索尼人寿保险前营业人员等涉及的金钱违规问题，对母公司索尼金融集团进行实地检查。
+  📰 [日本経済新聞](https://www.nikkei.com/article/DGXZQOFL210NZ0R21C26A0000000/)
+
+- **[2026.10.21] 行情快照 / Quote · Nikkei 225 — 日经225上涨0.85%**
+  行情日本語：日经225（Nikkei 225）は2026.10.21 15:45 JST時点で64,621.24となり、前日終値比で0.85%上昇しています。
+  行情中文：截至 2026.10.21 15:45 JST，日经225较前收盘上涨0.85%。
+  📰 [Yahoo Finance](https://finance.yahoo.com/quote/%5EN225)
+
+- **[2026.10.21] 行情快照 / Quote · Tokyo Electron — 东京电子上涨0.74%**
+  行情日本語：东京电子（Tokyo Electron）は2026.10.21 15:30 JST時点で10,160.00となり、前日終値比で0.74%上昇しています。
+  行情中文：截至 2026.10.21 15:30 JST，东京电子较前收盘上涨0.74%。
+  📰 [Yahoo Finance](https://finance.yahoo.com/quote/8035.T)
+
+## 🌍 宏观经济与投资 / Macro & Investment
+
+- **[2026.10.21] CMC Markets — USD/JPY consolidation may be nearing its end**
+  English：USD/JPY has been trading below ¥159, but upcoming events such as Japan's CPI report on 23 October and the Bank of Japan's interest-rate decision on 30 October could end the consolidation phase. Headline and core CPI are both expected to rise to 2.1% year on year. While a rate hike is not priced in, a hotter report could prompt a hawkish message supporting a December hike. Technically, the pair is forming a cup-and-handle pattern that could target ¥164, though a drop below the ¥157.75 trendline support might shift focus toward ¥155.25.
+  中文：总结：美元兑日元一直交投于159日元下方，但10月23日日本消费者物价指数报告以及10月30日日本央行利率决议等即将到来的事件，可能会结束其盘整阶段。 总括与核心CPI均预计同比上升2.1%。 尽管市场未计入加息预期，但若数据更高可能会促使央行释放鹰派信息并支持12月加息。 技术面上，该货币对正在形成杯柄形态，目标或指向164日元附近，不过若跌破157.75日元的趋势线支撑，则可能将焦点转向155.25日元。
+  📰 [CMC Markets](https://www.cmcmarkets.com/en-ie/news-and-analysis/usdjpy-consolidation-may-be-nearing-its-end)
+
+- **[2026.10.21] TradingKey — 【US Pre-Market】SpaceX Gains Over 8%, SMCI Surges 13%, Netflix Slumps Post-Earnings as Market Focuses on Tesla and Meta Earnings**
+  English：On Wednesday, October 21, U. S. stock index futures traded mixed as tech earnings boosted sentiment while WTI crude neared $100 and overseas inflation capped gains. Super Micro Computer surged about 13% after raising its fiscal 2027 Q1 revenue guidance to $18.5 billion to $19.5 billion. SpaceX rose over 8% following Q3 revenue of $14.6 billion and net profit of $4.4 billion, with Musk confirming independent special committees are evaluating a potential merger with Tesla. Netflix fell over 6% after lowering its 2026 advertising revenue forecast to about $2.7 billion. Intuitive Surgical dropped nearly 8% after taking a $450 million antitrust settlement charge. Meanwhile, UK September CPI rose to 3.5%, and Japan recorded a September trade deficit of 536.6 billion yen.
+  中文：总结：10月21日周三，美国股指期货涨跌互现，科技股财报提振了市场情绪，但WTI原油接近100美元以及海外通胀限制了整体涨幅。 超微电脑因将2027财年第一季度营收指引上调至185亿美元至195亿美元而暴涨约13%。 SpaceX在公布第三季度营收$14.6 billion、净利润44亿美元后上涨逾8%，马斯克确认双方已成立独立特别委员会评估与特斯拉潜在合并的可能。 奈飞因将2026年广告营收预测下调至约27亿美元而下跌逾6%。 直觉外科因承担4.5亿美元的反垄断集体诉讼和解费用而下跌近8%。 同时，英国9月CPI升至3.5%，日本9月录得5,366亿日元的贸易逆差。
+  📰 [TradingKey](https://www.tradingkey.com/analysis/stocks/us-stocks/262228945-us-premarket-spcx-surges-smci-soars-nflx-plunges-tesla-meta-earnings-tradingkey)
+
+- **[2026.10.21] FXEmpire — Bitcoin Price Forecast: Break Above $87,200 Could Target $100,000**
+  English：Bitcoin prices gained 1.34% on Tuesday, supported by a rebounding US stock market, improving risk appetite, a weak US dollar, and US spot Bitcoin ETFs attracting about $23.2 million in net inflows. BlackRock’s IBIT led with $29.9 million while Bitwise withdrawals partly offset the buying. A break above $87,200 could target $100,000, while staying above the $80,000 to $82,000 support zone maintains a strong outlook. Meanwhile, Brent crude rallied above $110 amid Middle East supply threats, which could keep inflation elevated and interest rates high. Precious metals ratios show Bitcoin outperforming gold and silver in 2026.
+  中文：总结：周二比特币价格上涨1.34%，受到美国股市反弹、风险偏好改善、美元走软以及美国现货比特币ETF吸引约$23.2 million净流入的支持。 贝莱德的IBIT以$29.9 million领跑，而Bitwise的资金流出部分抵消了买盘。 突破$87,200可能会将目标指向$100,000区域，而维持在$80,000至$82,000支撑区域上方则保持了强劲的前景。 同时，由于中东供应威胁，布伦特原油反弹重回$110上方，这可能会使通胀保持高位并使利率维持在高水平。 贵金属比率表明比特币在2026年表现强于黄金和白银。
+  📰 [FXEmpire](https://www.fxempire.com/forecasts/article/bitcoin-price-forecast-break-above-87200-could-target-100000-1639430)
+
+- **[2026.10.21] investingLive — Why Treasury yields move together but become more volatile further out the curve**
+  English：Treasury yields across the curve are primarily driven by expectations for the future path of Federal Reserve monetary policy. The front end is directly tied to near-term rate expectations, where the 2-year yield reacts to anticipated rate adjustments. Long-term yields, such as the 10-year and 30-year maturities, are also influenced by monetary policy but are more sensitive to growth, inflation expectations, and a term premium that compensates investors for bearing duration risk. Stronger economic growth or persistent inflation can push long-term yields up by more than short-term yields, leading to a bear steepening of the curve.
+  中文：总结：收益率曲线上的美国国债收益率主要由对美联储货币政策未来路径的预期驱动。 前端与近期利率预期直接相关，其中2年期收益率对预期的利率调整做出反应。 长期收益率（如10年期和30年期）同样受货币政策影响，但对经济增长、通胀预期以及补偿投资者承担久期风险的期限溢价更为敏感。 更强劲的经济增长或持续的通胀可能会推高长期收益率，其涨幅超过短期收益率，从而导致收益率曲线出现熊市陡峭化。
+  📰 [investingLive](https://investinglive.com/education/why-treasury-yields-move-together-but-become-more-volatile-further-out-the-curve/)
+
+- **[2026.10.21] Global Banking & Finance Review — Dollar Holds Steady as Middle East Tensions Simmer and Oil Rises**
+  English：The US dollar was mixed on Wednesday as traders weighed oil-driven inflation risks and awaited the Federal Reserve meeting, while the Australian dollar gained on hawkish central bank comments. US war with Iran increased fears that oil-driven inflation could affect Fed policy, with Brent crude near five-month highs. The dollar index fell 0.03% to 101.76, and the euro declined 0.11% to $1.1224 amid widespread anti-government protests in France and French 10-year borrowing costs reaching 24-year highs. The Australian dollar rose after RBA Deputy Governor Andrew Hauser stated the inflation outlook looked materially worse, while sterling was flat and the yen firmed to 158.04 per dollar.
+  中文：总结：周三美元走势不一，交易员在权衡石油驱动的通胀风险并等待美联储会议，同时澳元因央行鹰派言论而上涨。 美国与伊朗的战争加剧了人们对石油驱动的通胀可能影响美联储政策的担忧，布伦特原油接近五个月高位。 美元指数下跌0.03%至101.76，由于法国爆发广泛的反政府抗议活动且法国10年期借贷成本创下24年新高，欧元下跌0.11%至$1.1224。 在澳洲联储副行长安德鲁·豪瑟表示通胀前景明显恶化后澳元上涨，英镑持平，日元兑美元走强至158.04。
+  📰 [Global Banking & Finance Review](https://www.globalbankingandfinance.com/dollar-back-foot-us-yields-crude-prices-dip-aussie-buoyed/)
+
+- **[2026.10.21] bloomingbit — Gold Extends Decline Near $4,115 an Ounce on Uncertainty Over US-Iran Peace Talks, Fed Outlook**
+  English：International gold prices extended their decline near $4,115 an ounce amid uncertainty over US-Iran peace talks and caution over the Federal Reserve’s interest-rate outlook. Spot gold traded around $4,115 an ounce, down 0.2% from the previous session, bringing weekly losses to over 1%. Gold has fallen about 20% since the armed conflict between the US and Iran began in late February, as surging energy prices stoked inflation concerns and raised expectations for higher rates for longer. Markets are pricing in an estimated 85% probability of another rate hike this year, while other precious metals including silver, platinum, and palladium also declined.
+  中文：总结：在美伊和平谈判的不确定性以及对美联储利率前景的谨慎情绪下，国际金价在每盎司$4,115附近扩大跌幅。 现货黄金交易价格在每盎司$4,115左右，较上一交易日下跌0.2%，周跌幅超过1%。 自2月下旬美伊爆发武装冲突以来，黄金已下跌约20%，因为飙升的能源价格加剧了通胀担忧，并提高了对更长时间维持高利率的预期。 市场定价显示今年再次加息的概率约为85%，同时包括白银、铂金和钯金在内的其他贵金属也出现下跌。
+  📰 [bloomingbit](https://en.bloomingbit.io/feed/news/122633)
+
+- **[2026.10.21] inkl — Bessent sees no spillover from France bond market’s turmoil**
+  English：US Treasury Secretary Scott Bessent stated on 2Way on Tuesday that he does not anticipate a spillover from the French bond market, which has experienced surging yields and sparked broader discussions regarding the nation's finances. Bessent acknowledged that France has a tough hand but expressed strong confidence in President Emmanuel Macron's economic team, describing them as first-rate.
+  中文：总结：美国财政部长斯科特·贝森特周二在2Way节目上表示，他预计法国债券市场不会产生溢出效应。 法国债券市场此前经历了收益率飙升，并引发了关于该国财政状况的广泛讨论。 贝森特承认法国面临艰难局势，但对法国总统埃马纽埃尔·马克龙的经济团队表示了强烈的信心，称他们是一流的。
+  📰 [inkl](https://www.inkl.com/news/bessent-sees-no-spillover-from-france-bond-markets-turmoil)
+
+- **[2026.10.22] 行情快照 / Quote · USD/JPY — 美元兑日元上涨0.01%**
+  Quote: USD/JPY stood at 158.15 as of 2026.10.22 01:16 JST, 0.01% higher than the previous close.
+  行情中文：截至 2026.10.22 01:16 JST，美元兑日元较前收盘上涨0.01%。
+  📰 [Yahoo Finance](https://finance.yahoo.com/quote/JPY%3DX)
+
+- **[2026.10.22] 行情快照 / Quote · US 10Y Yield — 美国10年期国债收益率下跌0.16%**
+  Quote: US 10Y Yield stood at 5.11 as of 2026.10.22 01:01 JST, 0.16% lower than the previous close.
+  行情中文：截至 2026.10.22 01:01 JST，美国10年期国债收益率较前收盘下跌0.16%。
+  📰 [Yahoo Finance](https://finance.yahoo.com/quote/%5ETNX)
+
+---
+※Stock Market Daily Digest | 2026.10.22
