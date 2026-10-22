@@ -1,0 +1,145 @@
+# 📈 Stock Market Daily | 2026.10.23（金曜日 / Friday）
+
+> ⚠ 本日报优先收录最近24小时的市场新闻、个股异动与当时市场快照；数据仅供参考，不构成投资建议。
+
+---
+
+
+## 🇺🇸 美国股市 / US Market
+
+- **[2026.10.23] KSL News — Nasdaq leads Wall Street lower on AI spending jitters; oil prices rebound**
+  English：On Thursday, October 22, the Nasdaq fell more than 1% as growth stocks weakened after Tesla and Meta reported earnings that failed to ease AI-related concerns. SpaceX dropped 3.9% and Super Micro fell 3.4% as investors worried about high AI investment costs and uncertain return timelines. Tesla dropped 1.9% after cutting its annual capital expenditure forecast, and Reuters reported that Tesla insiders are concerned Elon Musk's public comments on a potential SpaceX merger could invite scrutiny. Meta fell 6.7% after introducing new non-voting shares to fund AI expansion. Other Magnificent 7 stocks, including Amazon and Nvidia, fell about 2%, while chip stocks like Intel, AMD, Qualcomm, and Micron also declined. The CBOE Volatility Index rose 17.86 points, and technology led S&P 500 sector losses with a 1.6% drop. Meanwhile, the Dow fell 138.80 points to 52,716.35, the S&P 500 lost 63.14 points to 7,694.03, and the Nasdaq slipped 393.22 points to 26,312.94. Weekly jobless claims fell unexpectedly, supporting expectations that the Federal Reserve will keep rates unchanged. Brent crude hovered near a five-month high following Houthi attacks in Saudi Arabia, and the 10-year Treasury yield fell to 5.0378%. IBM rose despite a drop in quarterly earnings for Blackstone, while Lockheed Martin climbed 9.4% and Spotify rose 8.7% after positive forecasts. S&P 500 third-quarter earnings growth is forecast at 32.3%.
+  中文：总结：10月22日周四，由于特斯拉和Meta的财报未能消除市场对人工智能相关投资成本及回报周期的担忧，科技股为主的纳斯达克指数下跌超过1%。 由于投资者权衡高昂的AI投资成本和不明确的回报时间表，SpaceX股价下跌3.9%，超微电脑下跌3.4%。 特斯拉因削减年度资本支出预测下跌1.9%，有内部人士向路透社透露，马斯克关于潜在合并SpaceX的公开言论可能引来股东审查。 Meta因推出无表决权股票以资助AI扩张而下跌6.7%。 亚马逊和英伟达等其他七大科技巨头股价均下跌约2%，英特尔、AMD、高通和美光等芯片股也出现下滑。 芝加哥期权交易所波动率指数上涨17.86点，标普500指数中科技板块领跌1.6%。 同时，道琼斯工业平均指数下跌138.80点至52716.35点，标普500指数下跌63.14点至7694.03点，纳斯达克综合指数下跌393.22点至26312.94点。 美国每周初请失业金人数意外下降，支撑了美联储维持利率不变的预期。 受沙特胡塞武装袭击引发供应担忧影响，布伦特原油价格徘徊在五个月高点附近，10年期美债收益率降至5.0378%。 IBM、洛克希德·马丁和声田等公司因财报或业绩预测向好而上涨，标普500指数第三季度盈利增长预期上调至32.3%。
+  📰 [KSL News](https://www.ksl.com/article/51639550/nasdaq-futures-drop-over-1-as-ai-worries-resurface-oil-climbs)
+
+- **[2026.10.23] BNN Bloomberg — AI stocks undercut markets worldwide as oil climbs to its highest price since May**
+  English：Artificial intelligence industry stocks dragged down global markets on Thursday, while oil prices hit their highest level since May amid concerns over the war with Iran. The S&P 500 fell 1.4 per cent, the Nasdaq composite dropped 2.2 per cent by 10:45 a. m. Eastern time, and the Dow Jones Industrial Average fell 0.6 per cent or 295 points. AI-related stocks faced pressure due to expensive borrowing costs for data centres and AI chips, alongside high valuations. Lam Research reported summer profit and revenue above expectations, but its stock tumbled 9.7 per cent after giving a fourth-quarter profit forecast midpoint slightly below expectations. Meta Platforms lost 6.4 per cent after reporting higher revenue but weaker-than-expected profit, and announced a new stock class for AI funding. Tesla rose 0.1 per cent after reporting higher summer profit despite weaker revenue. Nvidia fell 3.8 per cent, and CoreWeave dropped 7.1 per cent over debt concerns. Asian markets also fell, with South Korea's Kospi down 3.5 per cent, Hong Kong's Hang Seng down 3 per cent, and Japan's Nikkei 225 down 2.7 per cent. Brent crude oil rose 2.6 per cent to US$111.60 per barrel. In Europe, France's CAC 40 fell 1 per cent amid rising government bond yields driven by debt and budget concerns. In the U. S. , the 10-year Treasury yield fell to 5.01 per cent from 5.13 per cent as investors sought safer assets.
+  中文：总结：周四，人工智能产业股票拖累全球市场走势，同时由于对与伊朗战争的担忧，油价触及5月以来的最高水平。 美东时间上午10点45分，标普500指数下跌1.4%，纳斯达克综合指数下跌2.2%，道琼斯工业平均指数下跌0.6%或295点。 由于建设数据中心和购买AI芯片的借贷成本高昂以及估值过高，AI相关股票面临压力。 泛林集团公布的夏季利润和营收略超分析师预期，但由于其第四季度利润预测中值略低于预期，股价暴跌9.7%。 Meta Platforms公布的营收高于预期但利润逊于预期，并宣布设立新类别股票以为AI投资筹资，股价下跌6.4%。 特斯拉公布的夏季利润高于预期而营收弱于预期，股价上涨0.1%。 英伟达下跌3.8%，CoreWeave因债务担忧下跌7.1%。 亚洲市场同样下跌，韩国综合股价指数下跌3.5%，香港恒生指数下跌3%，日本日经225指数下跌2.7%。 布伦特原油价格上涨2.6%至每桶111.60美元。 在欧洲，法国CAC 40指数因债务和预算担忧导致政府债券收益率上升而下跌1%。 。 在美国，由于投资者寻找更安全的资产，10年期国债收益率从5.13%跌至5.01%。
+  📰 [BNN Bloomberg](https://www.bnnbloomberg.ca/markets/2026/10/22/ai-stocks-drag-markets-down-worldwide-as-oil-prices-climb-to-their-highest-since-may/)
+
+- **[2026.10.22] Electric Vehicles — Tesla Stock Recovers Post-Earnings Losses as Seven Firms Lift Targets**
+  English：Tesla shares recovered almost all of an after-hours slide on Thursday, trading at $387.67 in morning trading in New York, up 0.31% from Wednesday's close of $386.47, after Wall Street analysts raised price targets following third-quarter results. The stock had dropped 3.3% to $373.65 in after-hours trading on Wednesday. Five of seven firms tracked by Price Target raised their price targets, while two kept them unchanged; JPMorgan and Morgan Stanley also raised their targets, bringing total increases to seven among nine firms with no cuts, and CLSA upgraded the stock to Hold from Underperform. UBS raised its target to $425 from $391, Piper Sandler to $475 from $450, Canaccord Genuity to $442 from $410, Mizuho to $460 from $450, and CLSA to $400 from $310. Goldman Sachs kept its $360 target and Neutral rating, while TD Cowen reiterated its Buy rating and $460 target. JPMorgan analyst Rajat Gupta raised his target to $430 from $415, citing a better-than-expected automotive gross margin and growing autonomous driving momentum, while noting rising operating costs. Analysts attributed the positive target revisions partly to a potential merger with SpaceX after CEO Elon Musk said special committees were formed to study a combination. Analysts also noted strong Full Self-Driving adoption, with 75% of North American deliveries taking FSD, up 20 percentage points from the second quarter, and strong energy demand from data centers.
+  中文：总结：周四，特斯拉股价收复了盘后交易中的大部分跌幅，纽约早盘交易价为387.67美元，较周三收盘价386.47美元上涨0.31%。 此前该公司发布第三季度财报后，华尔街分析师纷纷上调目标价。 周三盘后交易中，该股曾下跌3.3%至373.65美元。 Price Target追踪的七家机构中有五家上调了目标价，两家维持不变；摩根大通和摩根士丹利也上调了目标价，在九家机构中共有七家上调且无一机构下调，CLSA将该股票评级从“减持”上调至“持有”。 UBS将目标价从391美元上调至425美元，Piper Sandler从450美元上调至475美元，Canaccord Genuity从410美元上调至442美元，瑞穗从450美元上调至460美元，CLSA从310美元上调至400美元。 高盛维持360美元目标价和中性评级，TD Cowen重申买入评级和460美元目标价。 摩根大通分析师Rajat Gupta将目标价从415美元上调至430美元，理由是汽车毛利率好于预期且自动驾驶势头增强，同时指出运营成本上升。 分析师将目标价的上调部分归因于潜在的SpaceX合并可能性，此前首席执行官埃隆·马斯克表示已成立特别委员会研究合并事宜。 分析师还指出全自动驾驶软件采用率强劲，北美交付量中有75%选配了FSD，较第二季度上升20个百分点，且来自数据中心的能源需求强劲。
+  📰 [Electric Vehicles](https://eletric-vehicles.com/tesla/tesla-stock-recovers-post-earnings-losses-as-seven-firms-lift-targets/)
+
+- **[2026.10.22] Yahoo Finance — Chip stocks fall as equipment maker Lam Research cites 'supply chain constraints'**
+  English：Semiconductor stocks fell in premarket trading on Thursday after a major equipment supplier cited supply chain constraints during its earnings call. The PHLX Semiconductor Index fell 4% amid concerns that these limitations could impact chip sales. Nvidia and Qualcomm dropped over 2%, Marvell and Intel fell 4% and 5% respectively, and Broadcom fell over 3%, leaving its stock flat year to date. Micron Technology and Sandisk also declined. Wafer equipment maker Lam Research fell as much as 10% after CFO Doug Bettinger stated that quarterly revenue guidance of $8.6 billion would have been higher without near-term supply chain constraints, which the company is actively managing. Other equipment makers Applied Materials and ASML fell 6% and 3% respectively. Semiconductor stocks have experienced recent volatility due to AI funding concerns. On Thursday, the overall stock market was poised to open lower as surging oil prices raised expectations that the Federal Reserve may continue tightening monetary policy this year.
+  中文：总结：周四盘前交易中，半导体股票下跌，此前一家主要设备供应商在财报电话会议上提及供应链限制。 费城半导体指数下跌4%，投资者担心这些限制可能会损害芯片销售。 英伟达和高通跌幅超过2%，迈威尔科技和英特尔分别下跌4%和5%，博通下跌超过3%，其今年迄今的股价涨幅归零。 美光科技和闪迪也出现下跌。 晶圆设备制造商泛林集团股价一度下跌高达10%，此前首席财务官道格·贝廷格表示，如果没有公司正在积极应对的近期供应链限制，86亿美元的季度营收指引本会更高。 其他设备制造商应用材料和阿斯麦分别下跌6%和3%。 由于对人工智能资金的担忧，半导体股票近期出现波动。 周四，由于油价飙升引发美联储今年可能继续收紧货币政策的预期，整体股市开盘走低。
+  📰 [Yahoo Finance](https://finance.yahoo.com/markets/article/chip-stocks-fall-as-equipment-maker-lam-research-cites-supply-chain-constraints-130648719.html)
+
+- **[2026.10.22] Yahoo Finance — Wall Street Didn’t Expect This AI Stock to Become This Important**
+  English：Nvidia earns a buy rating with a 24/7 Wall St. price target of $258.42 over the next 12 months, sitting 20.68% above the current share price, supported by six straight earnings beats and fiscal Q3 guidance of $108 billion. Nvidia sells the complete AI factory, including chips, networking, CPUs, software, and financing, with management stating the business can supply roughly 70% of demand. Shares fell 6.61% over the past week amid a global tech selloff driven by AI funding worries, though CEO Jensen Huang stated that CoreWeave is improving and requires no support. Fundamentals remained strong as fiscal Q2 2027 revenue reached $96.22 billion, beating the $92.07 billion consensus and rising 105.85% year over year. Earnings per share of $2.22 surpassed the $2.0887 estimate, marking the sixth consecutive quarter of beats on both lines. The stock trades about 12% below its 52-week high of $243.37 and 30.6% above its low of $163.90. For future growth, management estimates that Nvidia makes about $40 billion per gigawatt from Vera Rubin compared with $18 billion for Hopper, and expects fiscal 2028 revenue to grow about 70%, constrained only by supply.
+  中文：总结：英伟达获得买入评级，24/7 Wall St. 给出的未来12个月目标价为258.42美元，较当前股价高出约20.68%，该评级受到连续六次财报超预期以及第三季度1080亿美元业绩指引的支持。 英伟达销售整套人工智能工厂，包括芯片、网络、CPU、软件甚至融资服务，管理层表示目前业务只能满足大约70%的需求。 在由AI资金担忧引发的全球科技股抛售潮中，英伟达股价过去一周下跌了6.61%，不过CEO黄仁勋表示CoreWeave情况正在改善且无需支持。 基本面依然强劲，2027财年第二季度营收达到962.2亿美元，高于920.7亿美元的市场共识预期，较去年同期增长105.85%。 每股收益为2.22美元，超过2.0887美元的预估，实现了营收和利润连续六个季度超出预期。 该股目前的交易价格比其52周高点243.37美元低约12%，比低点163.90美元高出约30.6%。 对于未来增长，管理层估计英伟达从Vera Rubin每吉瓦获得的收入约为400亿美元，而Hopper为180亿美元，并预计2028财年营收将增长约70%，唯一的限制因素是供应能力。
+  📰 [Yahoo Finance](https://finance.yahoo.com/markets/stocks/articles/wall-street-didn-t-expect-133041507.html)
+
+- **[2026.10.22] 24/7 Wall St. — It's Been All Downhill Since Cerebras Systems May IPO: 180% Gains Await According to This Wall Street Analyst**
+  English：Cerebras Systems shares have dropped over 60% since their May IPO, currently trading at $117.98 against a Wall Street average analyst price target of $282.55. The recent selloff deepened following a SemiAnalysis report suggesting OpenAI may use NVIDIA GPUs instead of Cerebras hardware for GPT-6.1 Sol Ultrafast mode, alongside 19.4 million shares becoming eligible for trading after lock-ups expired. Financially, second-quarter GAAP revenue reached $180.11 million with a GAAP EPS of -$2.98 due to $377.0 million in stock-based compensation, while core gross margin is guided to 38% to 40% for the third quarter. Despite these pressures, the company retains a $25.4 billion backlog, and management projects tripling core revenues by 2027. UBS maintains a Street-high price target of $330.00, citing speed advantages of wafer-scale engines, contract visibility, and hyperscalers diversifying away from GPU bottlenecks. Overall analyst sentiment includes three Strong Buys, seven Buys, one Hold, and no Sells.
+  中文：总结：Cerebras Systems自5月份首次公开募股以来股价已跌去超过60%，目前交易价格为117.98美元，而华尔街分析师平均目标价为282.55美元。 由于SemiAnalysis发布报告称OpenAI可能在GPT-6.1 Sol的“Ultrafast”模式中使用NVIDIA GPU而非Cerebras硬件，加之19.4 million股股票在锁定期结束后符合交易条件，近期抛售进一步加剧。 财务方面，第二季度GAAP收入达到$180.11 million，由于$377.0 million的股票补偿导致GAAP每股收益为-$2.98，管理层预计第三季度核心毛利率为38%至40%。 尽管面临压力，该公司仍拥有$25.4 billion的未完成订单，管理层计划在2027年使核心收入增加两倍以上。 瑞银将街市最高目标价定为$330.00，理由是晶圆级引擎的速度优势、合同订单可见性以及超大规模企业为摆脱GPU瓶颈而进行的多元化发展。 整体分析师评级包括3个强烈买入、7个买入、1个持有和0个卖出。
+  📰 [24/7 Wall St.](https://247wallst.com/investing/2026/10/22/its-been-all-downhill-since-cerebras-systems-may-ipo-180-gains-await-according-to-this-wall-street-analyst/)
+
+- **[2026.10.22] 24/7 Wall St. — Micron Posted a $54.23 Billion Quarter and Guided to $61.5 Billion for Next Quarter**
+  English：Micron Technology reported fiscal fourth-quarter revenue of $54.23 billion, exceeding Wall Street estimates by over 5%, with non-GAAP EPS of $33.42 and a non-GAAP gross margin of 87.0%. Sales grew 379% compared to $11.32 billion in the same quarter a year prior, while sequential revenue increased by $12.77 billion from the previous quarter's $41.46 billion. The growth was primarily driven by higher prices, with DRAM prices rising in the high teens percentage range and NAND prices climbing approximately 30%, while bit shipments saw smaller gains. For fiscal 2026, total revenue reached $133.19 billion compared to $37.38 billion in fiscal 2025, supported by net capital spending of $27.37 billion. For the fiscal first quarter of 2027, Micron guided revenue to $61.5 billion, plus or minus $1.5 billion, with non-GAAP EPS expected at $38.15, plus or minus $1, and first-half capital expenditures estimated around $25 billion. The company has signed 26 Strategic Customer Agreements covering over 35% of revenue through 2030, with more than 75% of 2027 output already committed. Shares traded around $915.10 at the open on Wednesday, Oct. 21, sitting approximately 21% below its record close of $1,213.56 set on June 25.
+  中文：总结：Micron Technology公布第四财季营收为$54.23 billion，超出华尔街预期逾5%，非GAAP每股收益为$33.42，非GAAP毛利率达到87.0%。 与去年同期的$11.32 billion相比，销售额增长了379%，环比上一季度的$41.46 billion增加了$12.77 billion。 增长主要由价格上涨驱动，其中DRAM价格上涨了百分之十几的高段，NAND价格上涨了约30%，而出货量增幅较小。 2026财年全年营收达到$133.19 billion，而2025财年为$37.38 billion，净资本支出为$27.37 billion。 对于2027财年第一季度，Micron预计营收为$61.5 billion（加减$1.5 billion），非GAAP每股收益预计为$38.15（加减$1），上半年资本支出预计约为$25 billion。 该公司已签署26项战略客户协议，涵盖到2030年超过35%的收入，且2027年超过75%的产量已被预定。 10月21日周三开盘时，该股交易价格约为$915.10，较6月25日创下的$1,213.56的历史收盘高点低约21%。
+  📰 [24/7 Wall St.](https://247wallst.com/investing/2026/10/22/micron-posted-a-54-23-billion-quarter-and-guided-to-61-5-billion-for-next-quarter/)
+
+- **[2026.10.22] Longbridge — Micron CTO Downplays New Memory Chip Design as ‘Complex and Costly’ While Chinese Rival CXMT Advances DRAM Technology**
+  English：Micron CTO Scott DeBoer dismissed Chinese rival ChangXin Memory Technologies (CXMT) and its progress on 4F-squared DRAM technology as complex, costly, and 'smoke and mirrors,' stating it is not currently on Micron's roadmap. DeBoer argued during a webinar and an interview with Nikkei Asia that capacitor pitch determines DRAM scaling rather than cell structure alone, and that 4F-squared offers no advantages over 6F-squared while requiring EUV usage in the same manner. This response follows CXMT reporting progress on 4F-squared technology at a Shanghai conference and indicating potential server-memory product introduction by the end of 2026 using a fifth-generation DRAM platform. According to TrendForce data from October 12, CXMT ranked fourth in global DRAM revenue, raising its market share to 9.5% in the second quarter compared to 7.6% in the first, while Samsung led with 39.4%, SK hynix held 24.9%, and Micron held 23.3%. The developments and competitive pressures contributed to a decline in shares for Micron and SK hynix, with Micron's stock trading down 3.59% at $880.85 during Thursday's pre-market session.
+  中文：总结：Micron首席技术官Scott DeBoer驳斥了中国竞争对手长辛内存技术（CXMT）在4F平方DRAM技术上的进展，称其复杂、昂贵且是“烟雾弹”，并表示该技术目前未被纳入Micron的技术路线图。 DeBoer在网络研讨会和《日经亚洲》的采访中表示，决定DRAM微缩的是电容间距而非单纯的单元结构，4F平方相比6F平方没有优势，且都需要使用EUV。 此前，CXMT在上海的一次行业会议上报告了4F平方技术的进展，并表示可能在2026年底前使用第五代DRAM平台推出服务器内存产品。 根据TrendForce 10月12日的数据，CXMT在全球DRAM营收中排名第四，第二季度市场份额从第一季度的7.6%升至9.5%，而三星以39.4%居首，SK hynix占24.9%，Micron占23.3%。 这些进展和竞争压力导致Micron和SK hynix的股价承压，Micron股价在周四盘前交易中下跌3.59%，至$880.85。
+  📰 [Longbridge](https://longbridge.com/news/302698323)
+
+- **[2026.10.23] 行情快照 / Quote · S&P 500 — 标普500下跌1.02%**
+  Quote: S&P 500 stood at 7,678.42 as of 2026.10.23 01:18 JST, 1.02% lower than the previous close.
+  行情中文：截至 2026.10.23 01:18 JST，标普500较前收盘下跌1.02%。
+  📰 [Yahoo Finance](https://finance.yahoo.com/quote/%5EGSPC)
+
+- **[2026.10.23] 行情快照 / Quote · Nasdaq Composite — 纳斯达克综合指数下跌1.99%**
+  Quote: Nasdaq Composite stood at 26,171.05 as of 2026.10.23 01:18 JST, 1.99% lower than the previous close.
+  行情中文：截至 2026.10.23 01:18 JST，纳斯达克综合指数较前收盘下跌1.99%。
+  📰 [Yahoo Finance](https://finance.yahoo.com/quote/%5EIXIC)
+
+## 🇯🇵 日本株式市場 / Japan Market
+
+- **[2026.10.23] 外為どっとコム — 【テクニカル】日経平均株価テクニカル分析－9月安値を下回る**
+  日本語：日経平均株価は大幅反落となり、5日移動平均線（64369円、10月22日時点）やボリンジャーバンドの－1σ（64685円）付近が上値抵抗となって失速した。 直近の安値を更新する陰線を形成し、9月15日の終値ベースの安値（63484円）を下回って取引を終えた。 9日RSIは17.3％から16.0％（10月22日）へ低下し、10月6日高値（70798円）を起点とする下落相場が継続している。 7月29日安値（60448円）と9月14日安値（62726円）を結んだ支持線を下回り、9月15日の安値も明確に下回ったことから、200日移動平均線（61403円）に向けた一段安の展開が想定されている。 RSIの水準からは自律反発の可能性もあるが、下向きの5日移動平均線、10日移動平均線（65986円）、25日移動平均線（66313円）などが短期的な上値抵抗になりやすい状況にある。
+  中文：总结：日经平均股价大幅回落，受5日移动平均线（64369日元，10月22日）及布林带-1σ（64685日元）附近的上档阻力影响而失速。 日线形成刷新近期低点的阴线，收盘跌破9月15日收盘价基础上的低点（63484日元）。 9日RSI从17.3%降至16.0%（10月22日），自10月6日高点（70798日元）以来的下跌行情仍在持续。 由于跌破了连接7月29日低点（60448日元）与9月14日低点（62726日元）的延长支撑线，且明确跌破9月15日的低点，预计将向200日移动平均线（61403日元）方向进一步下跌。 从RSI的水平来看，随时可能出现自主反弹，但持续下行的5日移动平均线、10日移动平均线（65986日元）以及25日移动平均线（66313日元）容易成为短期的上档阻力。
+  📰 [外為どっとコム](https://www.gaitame.com/media/entry/2026/10/23/003509)
+
+- **[2026.10.23] 週刊エコノミスト Online — Market Insights：《日本株》足元は好調だが米景気の減速で業績下振れ 芳賀沼千里**
+  日本語：日米株式市場では企業業績の拡大を根拠に強気の見方が多く、主要企業は2026年度に売上高や税引前利益の大幅な伸びが見込まれ、足元の業績は好調である。 しかし、原材料費や人件費などのコストも増加しており、増収ペースが鈍化すれば利益の伸びが大きく鈍化する可能性がある。 株式投資の最大のリスクは米国景気の減速かもしれないとされ、米国では25年の関税引き上げにもかかわらずAI関連投資の急増が景気拡大を支えてきた。 大手ハイパースケーラーの設備投資は26年に前年比80％増となった後、27年も20％増となり、総額が1兆ドルを超えると予想されている。
+  中文：总结：美日股市因企业业绩扩张而普遍存在乐观情绪，预计主要企业在2026年度的营收和税前利润将大幅增长，当前业绩表现强劲。 然而，由于原材料费和人工费等成本也在增加，若营收增速放缓，利润增长可能大幅放缓。 股市投资的风险之一可能是美国经济放缓，尽管美国在25年加征关税，但由人工智能相关投资激增支撑了经济持续扩张。 大型超大规模数据中心运营商的设备投资在26年比上年增长80%后，预计27年还将增长20%，总额将超过1万亿美元。
+  📰 [週刊エコノミスト Online](https://weekly-economist.mainichi.jp/articles/20261110/se1/00m/020/033000c)
+
+- **[2026.10.22] Yahoo!ファイナンス — 【アナリスト評価】日本光電工業、レーティング弱気に引下げ、目標株価1,500円に引下げ（米系大手証券）(アイフィス株予報)**
+  日本語：米系大手証券が10月22日に日本光電工業のレーティングを中立から弱気に引き下げ、目標株価も1,900円から1,500円に引き下げた。 前日10月21日時点のレーティングコンセンサスはアナリスト数5人で3.4の中立の水準であり、目標株価コンセンサスはアナリスト数5人で1,732円であった。
+  中文：总结：某大型美资券商于10月22日将日本光电工业的评级从中立下调至弱势，并将目标股价从1,900日元下调至1,500日元。 在上一交易日即10月21日，该股的评级共识为3.4分（中立水平，分析师5人），目标股价共识为1,732日元（分析师5人）。
+  📰 [Yahoo!ファイナンス](https://finance.yahoo.co.jp/news/detail/eb01d163c3f073008fcc174dd9fea5b5119b6b1a)
+
+- **[2026.10.22] アラブニュース — 日本の日経平均株価、AI関連投資の慎重さで半導体株が下落**
+  日本語：木曜日の日本の日経平均株価は、投資家が来年のAI関連支出の見通しに慎重になり、半導体株が前日の利益を吐き出して下落した。 米国の半導体製造装置メーカーLamリサーチの株価が時間外取引で下落したほか、中国からの需要に対する懸念も指摘された。 日経平均は前日比0.8%下落して64,128.54となり、東京エレクトロンは4.1%下落、SCREENホールディングスは6%下落、レーザーテックは2.7%下落した。 一方、トレンドマイクロは欧州の政府がシステム保護のためにウェブサイトをオフラインにしたことを受けて6.6%上昇し、SHIFTは9%上昇、BayCurrentは5.9%上昇、ソニーは2.6%上昇した。
+  中文：总结：周四日本日经平均指数下跌，半导体股吐出前一日涨幅，因投资者对明年的AI相关支出前景持谨慎态度。 美国半导体制造设备商Lam Research盘后股价下跌，市场也指出了对来自中国需求的担忧。 日经平均指数较前一日下跌0.8%至64,128.54点，其中东京电子下跌4.1%，SCREEN控股下跌6%，Lasertec下跌2.7%。 另一方面，趋势科技因欧洲多国政府为保护系统而将网站下线的事态而上涨6.6%，SHIFT上涨9%，BayCurrent上涨5.9%，索尼上涨2.6%。
+  📰 [アラブニュース](https://www.arabnews.jp/business/%E6%97%A5%E6%9C%AC%E3%81%AE%E6%97%A5%E7%B5%8C%E5%B9%B3%E5%9D%87%E6%A0%AA%E4%BE%A1ai%E9%96%A2%E9%80%A3%E6%8A%95%E8%B3%87%E3%81%AE%E6%85%8E%E9%87%8D%E3%81%95%E3%81%A7%E5%8D%8A%E5%B0%8E%E4%BD%93%E6%A0%AA%E3%81%8C%E4%B8%8B%E8%90%BD-3000978)
+
+- **[2026.10.22] Yahoo!ファイナンス — 日経平均寄与度ランキング（大引け）～日経平均は大幅反落、アドバンテストや東エレクが2銘柄で約805円分押し下げ(フィスコ)**
+  日本語：22日の日経平均株価は大幅反落し、前日比1713.40円安の62907.84円で取引を終了した。 前日の米国株式市場はスペースXの好決算などにより上昇したが、中東情勢の緊迫化を警戒する動きもあり、22日の日経平均は81.88円安の64539.36円で寄り付いた後、半導体製造装置やAI関連の値がさ株を中心に売りが広がって下げ幅を拡大した。 東証プライム市場の売買高は21億9167万株、売買代金は7兆569億円だった。 値下がり寄与度トップはアドバンテストで約446円押し下げ、東エレクやソフトバンクGなどが続いた。 一方、値上がり寄与度トップはリクルートHDで約33円押し上げ、トレンドやベイカレントなどが続いた。
+  中文：总结：22日日经平均股价大幅回落，收盘较前一日下跌1,713.40日元至62,907.84日元。 前一日美国股市因SpaceX财报表现良好等因素上涨，但由于警惕中东局势紧张，22日日经平均指数以下跌81.88日元的64,539.36日元开盘后，以半导体制造设备和AI相关的高价股为中心遭到抛售，跌幅进一步扩大。 东证Prime市场的成交量为21亿9,167万股，成交额为7万569亿日元。 对指数下跌贡献最大的是爱德万测试，拉低日经平均约446日元，东京电子和软银集团等紧随其后。 另一方面，对指数上涨贡献最大的是瑞可利控股，推高约33日元，趋势科技和贝恩咨询等紧随其后。
+  📰 [Yahoo!ファイナンス](https://finance.yahoo.co.jp/news/detail/b25e6dcf4cb6389c7370104efd188a9164a83bd3)
+
+- **[2026.10.22] 日本経済新聞 — ソニーG株価が年初来高値 AI脅威論から見直し買い**
+  日本語：ソニーグループの株価が続伸し、午前に前日比126円高の4138円まで買われ、1月6日以来およそ9カ月ぶりに年初来高値を更新した。 午後も高い水準を維持し、人工知能ブームに伴うメモリー価格の高騰などが背景にある。
+  中文：总结：索尼集团股价持续上涨，早盘一度较前一日上涨126日元至4,138日元，创下自1月6日以来约9个月以来的年初至今新高。 午盘后维持高位，背景包括人工智能热潮带来的内存价格暴涨等。
+  📰 [日本経済新聞](https://www.nikkei.com/article/DGXZQOFL222NN0S6A021C2000000/)
+
+- **[2026.10.22] Yahoo!ファイナンス — ソニー(株)【6758】：今の株価の理由は？値動きの背景をAIが解説**
+  日本語：ソニー株は10月15日終値の3,884円から10月22日終値の4,081円へ5.1％上昇した。 10月13日に5日線と25日線のミニゴールデンクロス形成が報じられ、10月15日には一目均衡表の雲上抜け、10月16日には3役好転やボリンジャーバンドの±3σ上抜けが重なるなど、直近5営業日は上向き基調が続きテクニカル指標のシグナルが積み上がった。
+  中文：总结：索尼股票从10月15日收盘价3,884日元上涨至10月22日收盘价4,081日元，涨幅为5.1％。 10月13日曾报道形成5日均线与25日均线的迷你黄金交叉，随后10月15日突破一目均衡表的云层，10月16日出现三役好转以及突破布林带±3σ等技术信号叠加，最近5个交易日持续呈上行基调并累积了多项技术指标信号。
+  📰 [Yahoo!ファイナンス](https://finance.yahoo.co.jp/quote/6758.O/ai-topics)
+
+- **[2026.10.22] 行情快照 / Quote · Nikkei 225 — 日经225下跌2.65%**
+  行情日本語：日经225（Nikkei 225）は2026.10.22 15:45 JST時点で62,907.84となり、前日終値比で2.65%下落しています。
+  行情中文：截至 2026.10.22 15:45 JST，日经225较前收盘下跌2.65%。
+  📰 [Yahoo Finance](https://finance.yahoo.com/quote/%5EN225)
+
+- **[2026.10.22] 行情快照 / Quote · Tokyo Electron — 东京电子下跌6.99%**
+  行情日本語：东京电子（Tokyo Electron）は2026.10.22 15:30 JST時点で9,450.00となり、前日終値比で6.99%下落しています。
+  行情中文：截至 2026.10.22 15:30 JST，东京电子较前收盘下跌6.99%。
+  📰 [Yahoo Finance](https://finance.yahoo.com/quote/8035.T)
+
+## 🌍 宏观经济与投资 / Macro & Investment
+
+- **[2026.10.22] investingLive — investingLive European session wrap: Dollar, yen and bonds kick it old school**
+  English：European markets experienced a classic risk-off move on 22 October 2026 amid lingering geopolitical tensions and fiscal worries. Brent crude rose 2.8% to $111.88, while gold dropped 2.0% to $4,060 and Bitcoin fell 3.4% to $81,738. European equities tumbled, with the DAX falling 0.8% and CAC 40 down 1.2%, as the France-Germany 10-year yield spread widened to 170 bps. The US dollar, yen, and franc gained as 10-year Treasury yields fell 9 bps to 5.05%, and USD/JPY declined 0.7% to 157.05.
+  中文：总结：在挥之不去的的地缘政治紧张局势与财政担忧下，欧洲市场在2026年10月22日经历了典型的避险模式。 布伦特原油上涨2.8%至$111.88，黄金下跌2.0%至$4,060，比特币下跌3.4%至$81,738。 欧洲股市下挫，DAX指数下跌0.8%，CAC 40指数下跌1.2%，法德10年期国债收益率利差扩大至170个基点。 美元、日元和瑞郎获得买盘支撑，10年期美国国债收益率下降9个基点至5.05%，美元兑日元下跌0.7%至157.05。
+  📰 [investingLive](https://investinglive.com/news/investinglive-european-session-wrap-dollar-yen-and-bonds-kick-it-old-school/)
+
+- **[2026.10.22] Pluang — Asian stocks fall sharply as China's CSI 300 hi...**
+  English：On October 22, Paimon Polymarket SPV Token (PPOLY) was the most viewed token globally, priced at $15.56 with a 1.08% drop over 24 hours. NeoSoul (DNA) and Bitcoin (BTC) followed in global interest, while in Korea, Blast (BLAST) led with strong gains.
+  中文：总结：在10月22日，Paimon Polymarket SPV Token (PPOLY)是全球浏览量最高的代币，价格为$15.56，24小时内小幅下跌1.08%。 NeoSoul (DNA)和比特币 (BTC)紧随其后受到全球关注，而在韩国市场，Blast (BLAST)则凭借强劲涨幅居于领先地位。
+  📰 [Pluang](https://pluang.com/en/news-feed/pasar-asia-tertekan-harga-minyak-naik-bitcoin-turun)
+
+- **[2026.10.22] Profit by Pakistan Today — Asian stocks hit three-month low amid AI, Gulf tensions**
+  English：Asian stock markets fell sharply on Thursday, with the MSCI Asia-Pacific index dropping 1.8% to a nearly three-month low. Japan's Nikkei fell 2%, South Korea's benchmark dropped over 4%, China's CSI300 fell 2%, and Hong Kong's Hang Seng lost over 3%, driven by concerns over artificial intelligence investment costs and Middle East tensions. Brent crude rose over 2% to $111.03 per barrel. US 10-year Treasury yields fell nearly six basis points to 5.0857%, the Japanese yen strengthened to 157.55 per dollar, and Bitcoin fell 2.2% to $82,771.05.
+  中文：总结：亚洲股市周四大幅下跌，MSCI亚太指数下跌1.8%至近三个月来的最低水平。 受人工智能投资成本担忧以及中东紧张局势影响，日本日经指数下跌2%，韩国基准指数下跌超过4%，中国沪深300指数下跌2%，香港恒生指数跌幅超过3%。 布伦特原油上涨超过2%至每桶$111.03。 美国10年期国债收益率下跌近6个基点至5.0857%，日元走强至每美元兑157.55日元，比特币下跌2.2%至$82,771.05。
+  📰 [Profit by Pakistan Today](https://profit.pakistantoday.com.pk/2026/10/22/asian-stocks-fall-to-three-month-low-as-ai-spending-concerns-middle-east-tensions-weigh-on-markets)
+
+- **[2026.10.22] CoinDesk — Asian market selloff deepens as oil rises. Bitcoin (BTC) price slips to $82,000**
+  English：Asian stocks tumbled on Thursday as China's CSI 300 index slid 2% to enter bear market territory, down 20% from its June peak. Japan's Nikkei 225 fell about 3%, South Korea's Kospi dropped 3.5%, and Hong Kong's Hang Seng declined 3%, pressured by technology shares and rising oil prices. WTI crude topped $100 a barrel and Brent climbed above $112. The Cboe Volatility Index jumped 10% to around 18. Meanwhile, the U. S. 10-year yield stood near 5.077%, and Bitcoin retreated toward $82,000.
+  中文：总结：受科技股下挫和油价上涨拖累，亚洲股市周四重挫，其中中国沪深300指数下跌2%，自6月高点回落20%并进入熊市区间。 日本日经225指数下跌约3%，韩国综合股价指数下跌3.5%，香港恒生指数下跌3%。 WTI原油突破每桶$100，布伦特原油攀升至$112以上。 芝加哥期权交易所波动率指数(VIX)跃升10%至18左右。 同时，美国10年期国债收益率维持在5.077%附近，比特币则回落至$82,000附近。
+  📰 [CoinDesk](https://www.coindesk.com/markets/2026/10/22/asian-stocks-tumble-bitcoin-retreats-as-china-enters-bear-market)
+
+- **[2026.10.22] Coinpedia — Global Markets Crash Today as Gold, Silver, Nikkei and KOSPI Fall**
+  English：Global markets experienced a sharp sell-off as rising oil prices fueled fears of higher inflation and prolonged U. S. interest rates. Brent and WTI crude surged above $111 a barrel following drone and missile strikes by Yemen’s Houthi group on Saudi oil fields, alongside escalating tensions between the U. S. and Iran, where President Donald Trump stated the U. S. was not negotiating. Consequently, spot gold fell over 1% to around $4,087 per ounce and silver dropped more than 2.4% to $56.20. Markets priced in a potential 25-basis-point rate hike in December. Asian stock markets slid, with Japan’s Nikkei 225 falling 2.3% to around 62942 with one-day market losses reaching ¥17.8 trillion, South Korea’s KOSPI dropping 2.7% to 5,735, and China’s CSI 300 falling 1.6% to 3,654. Cryptocurrencies also declined, with Bitcoin falling below $83,000 and Ethereum dropping under $2,445, while the global crypto market cap slipped to $2.87 trillion.
+  中文：总结：由于油价上涨加剧了对通货膨胀加剧和美国长期维持高利率的担忧，全球多资产市场遭遇抛售。 也门胡塞武装对沙特油田发动的无人机和导弹袭击推动布伦特原油和WTI原油价格突破每桶$111，加上美国与伊朗之间的紧张局势，美国总统唐纳德·特朗普称美国“未在谈判”，导致现货黄金下跌超过1%至每盎司约$4,087，白银下跌超过2.4%至$56.20。 市场定价预期12月可能加息25个基点。 亚洲股市全面下滑，其中日本日经225指数下跌2.3%至约62942点，单日市场损失达到¥1.78万亿日元（原文为¥17.8 trillion），韩国综合股价指数（KOSPI）下跌2.7%至5,735点，中国沪深300指数下跌1.6%至3,654点。 加密货币市场同样走低，比特币跌破$83,000，以太坊跌至$2,445以下，全球加密货币总市值下滑至$$2.87 trillion。
+  📰 [Coinpedia](https://coinpedia.org/news/why-gold-silver-and-asian-stocks-are-crashing-today-as-oil-tops-111/)
+
+- **[2026.10.23] 行情快照 / Quote · USD/JPY — 美元兑日元下跌0.65%**
+  Quote: USD/JPY stood at 157.04 as of 2026.10.23 01:18 JST, 0.65% lower than the previous close.
+  行情中文：截至 2026.10.23 01:18 JST，美元兑日元较前收盘下跌0.65%。
+  📰 [Yahoo Finance](https://finance.yahoo.com/quote/JPY%3DX)
+
+- **[2026.10.23] 行情快照 / Quote · US 10Y Yield — 美国10年期国债收益率下跌2.78%**
+  Quote: US 10Y Yield stood at 5.00 as of 2026.10.23 01:03 JST, 2.78% lower than the previous close.
+  行情中文：截至 2026.10.23 01:03 JST，美国10年期国债收益率较前收盘下跌2.78%。
+  📰 [Yahoo Finance](https://finance.yahoo.com/quote/%5ETNX)
+
+---
+※Stock Market Daily Digest | 2026.10.23
