@@ -1,20 +1,31 @@
 {
   "kind": "market",
-  "updated_at": "2026-10-27T04:20:44.407174+09:00",
+  "updated_at": "2026-10-27T04:46:10.700148+09:00",
   "status": {
     "state": "ok",
-    "checked_at": "2026-10-27T04:20:44.407174+09:00",
-    "latest_article_at": "2026-10-27T03:50:40+09:00",
-    "articles": 18,
+    "checked_at": "2026-10-27T04:46:10.700148+09:00",
+    "latest_article_at": "2026-10-27T04:17:35+09:00",
+    "articles": 20,
     "sections": {
       "美国股市 / US Market": 8,
-      "日本株式市場 / Japan Market": 5,
-      "宏观经济与投资 / Macro & Investment": 5
+      "日本株式市場 / Japan Market": 6,
+      "宏观经济与投资 / Macro & Investment": 6
     },
     "shortfalls": {},
     "translations_missing": 0
   },
   "articles": [
+    {
+      "date": "2026.10.27",
+      "published_at": "2026-10-27T04:17:35+09:00",
+      "headline": "Corning Inc Stock (GLW) Moved Up by 3.45% on Oct 26: What Signal Does It Send?",
+      "source": "TradingKey",
+      "url": "https://www.tradingkey.com/news/market-movers/262240077-market-movers-glw-20261026",
+      "language": "English",
+      "section": "美国股市 / US Market",
+      "summary": "Corning Inc (GLW) shares rose by 3.45% on Oct 26, outperforming the Technology Equipment sector which gained 1.88%. The price movement was driven by positive momentum as investors positioned themselves ahead of third-quarter financial results, supported by institutional interest and expectations of year-over-year expansion in core sales and adjusted earnings per share. Investor sentiment is largely tied to the optical communications division, benefiting from robust structural demand for high-density fiber, cable, and optical connectivity hardware for AI data centers and hyperscaler infrastructure. However, risks include heavy reliance on technology hyperscalers, potential share dilution from a $2.0 billion ATM equity distribution agreement, and pre-earnings caution such as JPMorgan cutting its price target to $165. Analysts maintain an average price target of $187.61.",
+      "summary_zh": "Corning Inc (GLW) 股票在10月26日上涨了3.45%，表现优于上涨1.88%的技术设备板块。 此次股价上涨是因为市场参与者在该公司发布第三季度财务业绩前积极进行仓位布局，在机构兴趣回升以及核心销售和调整后每股收益预计实现同比加速增长的推动下，股价出现了积极的价格动能。 投资者情绪主要与光通信部门挂钩，该部门受益于支持人工智能数据中心部署和超大规模基础设施项目所需的高密度光纤、光缆及光连接硬件的强劲结构性需求。 不过，相关风险包括高度依赖科技超大规模企业、20.0亿美元ATM股权分配协议带来的潜在股份稀释风险，以及摩根大通将目标价下调至165美元等财报发布前的谨慎情绪。 分析师给出的平均目标价为187.61美元。"
+    },
     {
       "date": "2026.10.27",
       "published_at": "2026-10-27T03:50:40+09:00",
@@ -23,8 +34,8 @@
       "url": "https://www.fool.com/investing/2026/10/26/why-investing-in-s-and-p-500-index-funds-is-a-whole-lot-riskier-these-days/",
       "language": "English",
       "section": "美国股市 / US Market",
-      "summary": "The S&P 500 index has historically averaged an annual return of around 10% over the long run, making popular exchange-traded funds like the Vanguard S&P 500 ETF, which features a low expense ratio of 0.03%, attractive for long-term investors. However, investing in S&P 500 index funds has become riskier due to high exposure to the tech sector. All top 10 holdings in the Vanguard S&P 500 ETF have exposure to artificial intelligence, with Nvidia, Apple, and Microsoft accounting for around 22% of the portfolio, and the largest 10 holdings making up nearly 40%. This heavy concentration creates vulnerability to near-term corrections amid growing concerns that an artificial intelligence bubble may have formed. A prolonged market downturn could require several years for recovery, prompting some investors to consider alternative exchange-traded funds that track dividend stocks or defensive sectors to reduce potential declines.",
-      "summary_zh": "标普500指数在长期内平均年回报率约为10%，使得先锋标普500 ETF等费用率仅为0.03%的流行交易所交易基金成为长期投资者的理想选择。 然而，由于对科技板块的高度敞口，如今投资标普500指数基金变得更加具有风险。 先锋标普500 ETF的前10大持仓全部涉足人工智能，其中英伟达、苹果和微软约占投资组合的22%，而前10大持仓的占比则接近40%。 这种高度集中的科技敞口使得该基金在人们日益担忧人工智能泡沫已经形成的情况下，容易受到短期回调的影响。 如果市场出现长期低迷，可能需要数年时间才能恢复，这促使一些投资者考虑转向追踪股息股或防御性板块的交易所交易基金，以减少潜在的下跌风险。"
+      "summary": "Investing in S&P 500 index funds has become riskier due to heavy exposure to the technology sector, particularly artificial intelligence. While the index has historically averaged an annual return of around 10% and popular ETFs like the Vanguard S&P 500 ETF (VOO) offer low expense ratios of 0.03%, tech stocks now dominate its holdings. Nvidia, Apple, and Microsoft account for about 22% of the VOO portfolio, and the top 10 holdings make up nearly 40%. This concentration creates vulnerabilities if an AI bubble bursts or a prolonged market downturn occurs, prompting some investors to consider dividend stocks or defensive sector ETFs to reduce risk.",
+      "summary_zh": "由于对科技板块（尤其是人工智能）的高度敞口，投资标普500指数基金变得更加具有风险。 尽管该指数的历史年化回报率约为10%，且像Vanguard S&P 500 ETF (VOO)这样受欢迎的ETF具有0.03%的低费用率，但科技股目前在其持仓中占主导地位。 英伟达、苹果和微软约占VOO投资组合的22%，前十大持仓则接近40%。 这种集中度在人工智能泡沫破裂或市场长期低迷时会带来脆弱性，促使一些投资者考虑通过股息股或防御性板块ETF来降低风险。"
     },
     {
       "date": "2026.10.27",
@@ -34,8 +45,8 @@
       "url": "https://www.investors.com/news/stock-market-today-stock-market-news/",
       "language": "English",
       "section": "美国股市 / US Market",
-      "summary": "On Monday afternoon, the Nasdaq led the market while the Dow Jones Industrial Average retreated from its earlier highs. The technology sector received a lift from Anthropic's initial-public-offering filing, and healthcare stocks experienced a pop. Concurrently, Devon Energy tested an entry point, and Dow Jones futures rose as Brazil was mentioned in related coverage by Investor's Business Daily, LLC.",
-      "summary_zh": "周一下午，纳斯达克指数领涨市场，道琼斯工业平均指数则从盘中高点回落。 受Anthropic首次公开募股（IPO）申报文件的推动，科技股获得提振，医疗保健股也出现上涨。 与此同时，戴文能源（Devon Energy）正在测试买入点，随着巴西相关报道的出现，道琼斯期货也随之走高。"
+      "summary": "The Nasdaq reached top positions while the Dow Jones Industrial Average retreated from its highs as trading headed toward the close on Monday. Technology stocks received a lift following an initial public offering filing by Anthropic.",
+      "summary_zh": "周一接近收盘时，纳斯达克指数居于高位，而道琼斯工业平均指数则从高点回落。 在Anthropic提交首次公开募股申请后，科技股获得了一定涨幅。"
     },
     {
       "date": "2026.10.27",
@@ -45,8 +56,8 @@
       "url": "https://finance.yahoo.com/markets/stocks/articles/tesla-stock-soars-wave-analyst-182854007.html",
       "language": "English",
       "section": "美国股市 / US Market",
-      "summary": "Tesla shares climbed 6% to approximately $394.5 in afternoon trading Monday after Barclays upgraded the electric vehicle maker and raised its price target from $370 to $450, shifting its rating to Overweight from Equal Weight. Barclays analyst Dan Levy cited improving business trends, progress in Robotaxi services, and the possibility of a merger with SpaceX offering a premium to shareholders. Mizuho also increased its price target to $460 while maintaining an Outperform rating. The stock rally follows Tesla's recent quarterly results beating analyst estimates for revenue and earnings per share. While a potential merger remains uncertain and requires shareholder approval, the latest analyst optimism reflects Tesla's business outlook and the possibility of a deal, making the stock sensitive to changes in these factors.",
-      "summary_zh": "周一午盘交易中，特斯拉（NASDAQ:TSLA）股价上涨6%，至约$394.5，此前巴克莱银行上调了这家电动汽车制造商的评级并提高目标价，同时关于潜在SpaceX合并案的猜测也增加了投资者兴趣。 巴克莱分析师Dan Levy将评级从Equal Weight上调至Overweight，并将目标价从$370上调至$450。 他列举了不断改善的业务趋势、Robotaxi服务的进展，以及与SpaceX合并可能为特斯拉股东提供溢价的可能性。 瑞穗也将特斯拉目标价上调至$460，并维持Outperform评级。 此前，特斯拉公布的季度财报营收和每股收益均超出了分析师预期。 潜在合并仍具不确定性并需要股东批准，最新的分析师乐观情绪反映了特斯拉的业务前景及达成交易的可能性，使该股票对这两个因素的变化保持敏感。"
+      "summary": "Tesla (NASDAQ:TSLA) shares climbed 6% to about $394.5 in afternoon trading on Monday following an upgrade and a price target increase from Barclays. Analyst Dan Levy raised his rating to Overweight from Equal Weight and increased his target from $370 to $450, citing improving business trends, progress in Robotaxi services, and the possibility of a premium-offering merger with SpaceX. Mizuho also raised its price target to $460 while maintaining an Outperform rating. The rally follows strong quarterly results that beat analyst estimates for revenue and earnings per share, alongside ongoing attention to autonomous-driving initiatives.",
+      "summary_zh": "周一午盘交易中，特斯拉 (NASDAQ:TSLA) 股价上涨6%至约394.5美元，此前巴克莱银行对其进行了评级上调并提高了目标价。 巴克莱分析师Dan Levy将评级从“持股观望”上调至“增持”，并将目标价从370美元上调至450美元，理由是业务趋势正在改善、Robotaxi服务取得进展，且与SpaceX合并的可能性可能为特斯拉股东带来溢价。 瑞穗也将特斯拉目标价上调至460美元，同时维持跑赢大盘评级。 此次股价上涨发生在特斯拉公布营收和每股收益均超分析师预期的强劲季度业绩之后，同时市场也持续关注其自动驾驶相关举措。"
     },
     {
       "date": "2026.10.27",
@@ -56,8 +67,19 @@
       "url": "https://www.tradingkey.com/news/market-movers/262240019-market-movers-amd-20261026",
       "language": "English",
       "section": "美国股市 / US Market",
-      "summary": "Advanced Micro Devices Inc (AMD) stock rose by 3.03% on Oct 26, outperforming the Technology Equipment sector which gained 1.93%. The upward movement reflects a rebound across semiconductor and AI infrastructure equities, supported by institutional dip-buying and price target increases from Wall Street firms ahead of the quarterly earnings release. Sentiment was also boosted by a joint industry initiative with Intel to unify x86 CPU optimizations for PyTorch using oneDNN, alongside shipments of Helios rack-scale AI architectures and EPYC server processors. Technically, AMD shows a MACD value of -23.823, an RSI of 43.255, and a Williams %R of 79.339. The company's annual revenue stands at $34.64B with a net profit of $4.33B. Analysts have given the company an average price target of $625.57, with a high of $1250.00 and a low of $320.00. Risks noted include elevated valuation multiples, supply chain bottlenecks and High-Bandwidth Memory costs, intensified competitive threats from NVIDIA, and corporate insider share sales exceeding $114 million over recent months with zero insider buys.",
-      "summary_zh": "Advanced Micro Devices Inc (AMD) 股票在10月26日上涨了3.03%，表现优于上涨1.93%的技术设备板块。 此次股价上涨反映了半导体和人工智能基础设施股票的整体反弹，在季度财报发布前得到了机构投资者买盘和华尔街研究机构目标价上调的支持。 市场情绪还受到AMD与Intel联合开展的一项行业倡议的推动，该倡议利用开源的oneDNN库统一了PyTorch的x86 CPU优化，同时Helios机架式人工智能架构的持续出货和EPYC服务器处理器的加速采用也提供了助力。 技术面上，AMD的MACD值为-23.823，RSI为43.255，Williams %R为79.339。 该公司最新年营收为 $34.64B，净利润为 $4.33B。 分析师给出的平均目标价为 $625.57，最高 $1250.00，最低 $320.00。 公司面临的具体风险包括高估值、供应链瓶颈与高带宽内存成本、来自NVIDIA的激烈竞争威胁，以及近几个月内超过 $114 million 的内部人士股票抛售且过去一年无内部人士买入记录。"
+      "summary": "Advanced Micro Devices Inc (AMD) stock rose 3.03% on Oct 26, outperforming the Technology Equipment sector which gained 1.93%. The upward movement reflects a rebound in semiconductor and AI equities, supported by institutional buying after recent pullbacks and a wave of Wall Street price target increases highlighting demand for enterprise AI offerings. Market sentiment also benefited from a joint initiative with Intel to unify x86 CPU optimizations for PyTorch using the open-source oneDNN library, alongside ongoing shipments of Helios rack-scale AI architectures and EPYC server processors. However, risks include an elevated valuation with a trailing P/E over 130x, supply chain bottlenecks for High-Bandwidth Memory, intensified competition from NVIDIA, and over $114 million in corporate insider share sales over recent months.",
+      "summary_zh": "Advanced Micro Devices Inc (AMD) 股票在10月26日上涨了3.03%，表现优于上涨1.93%的技术设备板块。 此次上涨反映了半导体和人工智能股票的反弹，这得到了近期回调后机构买盘的支持，以及华尔街一波强调企业人工智能产品需求的目标价上调的推动。 市场情绪还受益于与英特尔开展的联合计划——使用开源oneDNN库统一PyTorch的x86 CPU优化，以及Helios机架级人工智能架构和EPYC服务器处理器的持续出货。 不过，相关风险包括超过130倍的静态市盈率带来的高估值、高带宽内存的供应链瓶颈、来自英伟达的加剧竞争，以及最近几个月超过1.14亿美元的公司内部人士股票抛售。"
+    },
+    {
+      "date": "2026.10.27",
+      "published_at": "2026-10-27T03:00:49+09:00",
+      "headline": "S&P 500 vs Nasdaq 100: Which global index fund is right for Indian investors seeking international market exposure?",
+      "source": "Livemint",
+      "url": "https://www.livemint.com/money/personal-finance/sp-500-vs-nasdaq-100-which-global-index-fund-is-right-for-indian-investors-seeking-international-market-exposure-11793033100177.html",
+      "language": "English",
+      "section": "美国股市 / US Market",
+      "summary": "Indian investors seeking international exposure can consider the S&P 500 and Nasdaq 100 indices to diversify beyond domestic mutual funds. According to Akshay Falgunia, Fund Manager at PPFAS GIFT, the US accounts for over 60% of global stock market value, with the S&P 500 representing more than 40%. The S&P 500 covers about 500 leading US companies across sectors, offering broad international diversification. The Nasdaq 100 includes 100 of the largest non-financial Nasdaq-listed companies with a heavy focus on technology and biotechnology. Falgunia suggests the S&P 500 as a starting point for broad exposure, while the Nasdaq 100 suits those seeking innovation exposure and accepting higher volatility. The report warns against concentrating an entire overseas portfolio in artificial intelligence or a few technology stocks. International investments can help lower geographical concentration, access businesses with limited representation in India, and fund future foreign-currency expenses. Beginners can consider allocating around 10% of their equity portfolio overseas, which can later increase to 25% to 33% for those comfortable with international markets. Falgunia recommends starting with broad-based passive funds and ETFs before moving to individual stocks or concentrated themes, while noting that global indices like the MSCI All Country World Index offer even wider geographical diversification.",
+      "summary_zh": "寻求国际市场敞口的印度投资者可以考虑标普500指数和纳斯达克100指数，以实现超越国内共同基金的多元化配置。 根据PPFAS GIFT基金经理Akshay Falgunia的说法，美国占全球股市价值的60%以上，仅标普500指数代表的公司就占全球股市价值的40%以上。 标普500指数包含约500家跨多个行业的美国领先企业，提供广泛的国际多元化选择。 纳斯达克100指数则包含纳斯达克交易所上市的100家最大非金融公司，在科技和生物技术领域集中度更高。 Falgunia将标普500指数视为寻求广泛国际敞口投资者的起点，而对于寻求更多创新敞口且能承受更高波动的投资者，他则推荐纳斯达克100指数。 该报告警告称，不应将全部海外投资组合集中在人工智能或其他热门投资主题上。 国际投资有助于降低地理集中度，并为未来海外教育或旅游等外汇支出做准备。 初次进行国际投资的投资者可以考虑将其股票投资总额的约10%配置到海外投资中，随着对国际市场的熟悉，可逐步增加至25%到33%。 Falgunia建议从广泛的被动型基金和ETF开始，再逐步转向个股或集中的投资主题。"
     },
     {
       "date": "2026.10.27",
@@ -67,30 +89,8 @@
       "url": "https://finance.yahoo.com/markets/stocks/articles/sector-tech-stocks-gain-monday-175241264.html",
       "language": "English",
       "section": "美国股市 / US Market",
-      "summary": "Tech stocks traded higher on Monday afternoon, according to a report mentioning the State Street Technology Select Sector SPDR ETF. Further details of the market movement require a Silver or Gold subscription plan to access the full MT Newswires article.",
-      "summary_zh": "周一下午科技股走高，相关报道提到了StateStreetTechnologySelectSectorSPDRETF。 获取该MTNewswires文章的更多详细信息需要白银或黄金订阅计划。"
-    },
-    {
-      "date": "2026.10.27",
-      "published_at": "2026-10-27T01:16:05+09:00",
-      "headline": "Stock Market Midday, Oct. 26: Tech Sector Rallies on Anthropic IPO Filing and Cooling Oil Prices",
-      "source": "The Motley Fool",
-      "url": "https://www.fool.com/coverage/stock-market-today/2026/10/26/stock-market-midday-oct-26-tech-sector-rallies-on-anthropic-ipo-filing-and-cooling-oil-prices/",
-      "language": "English",
-      "section": "美国股市 / US Market",
-      "summary": "As of 11:31 a. m. ET on Oct. 26, the Nasdaq Composite rose 1.22% to 26,271, the S&P 500 climbed 0.91% to 7,693, and the Dow Jones Industrial Average traded 0.31% higher at 52,379. Gold increased 0.73% to $4,037.10, and the 10-Year Treasury yield rose to 5.00%. Real estate led sectors while healthcare declined. Surgery Partners soared 46% after confirming a $5.7 billion acquisition, Tesla surged following a Barclays upgrade by Dan Levy to buy with a $450 target, and MercadoLibre dropped nearly 10% on Brazil election results. Anthropic filed a historic IPO amid reported over 1,300% year-over-year Q2 revenue growth. Meta Platforms announced a $95.0 billion fundraising effort for AI infrastructure. Investors are monitoring the Federal Reserve decision and Amazon's results.",
-      "summary_zh": "截至美东时间10月26日上午11点31分，纳斯达克综合指数上涨1.22%至26,271点，标普500指数攀升0.91%至7,693点，道琼斯工业平均指数上涨0.31%至52,379点。 黄金上涨0.73%至$4,037.10，10年期美国国债收益率升至5.00%。 房地产板块领涨，医疗健康板块领跌。 Surgery Partners在确认将以约$5.7 billion被收购后飙升46%，特斯拉在巴克莱分析师丹·利维将目标价从$370上调至$450并评级调至买入后大涨，而美客多因巴西总统大选结果下跌近10%。 人工智能开发商Anthropic提交了历史性的IPO申请，其第二季度营收同比据报道增长超过1,300%。 Meta Platforms宣布了一项$95.0 billion的人工智能基础设施筹资计划。 投资者正在密切关注美联储即将做出的决定以及亚马逊本周晚些时候的业绩。"
-    },
-    {
-      "date": "2026.10.27",
-      "published_at": "2026-10-27T00:15:29+09:00",
-      "headline": "Arm Holdings PLC Stock (ARM) Moved Up by 5.69% on Oct 26: What Investors Need To Know",
-      "source": "TradingKey",
-      "url": "https://www.tradingkey.com/news/market-movers/262239732-market-movers-arm-20261026",
-      "language": "English",
-      "section": "美国股市 / US Market",
-      "summary": "Arm Holdings PLC stock (ARM) increased by 5.69% during a session characterized by intraday volatility and a technical rebound from a prior pullback across technology and semiconductor sectors. Favorable Wall Street research and bullish target prices supported sentiment, highlighting the company's CPU intellectual property position and growth in data centers, automotive computing, and custom silicon architectures. Artificial intelligence compute demand drove institutional interest, alongside royalty revenue expansion and licensing opportunities. Technical indicators showed a MACD of -11.315 indicating a sell signal, an RSI of 37.748 suggesting a neutral condition, and a Williams %R of 84.821 suggesting an oversold condition. Arm's latest annual revenue is $4.92B with a net profit of $904.00M. Analysts maintain an average price target of $286.95, with a high of $480.00 and a low of $125.00. Key risks include federal court litigation with Qualcomm over licensing, channel conflict from expanding into in-house AGI and server CPUs, valuation multiples, and foundry bottlenecks.",
-      "summary_zh": "Arm Holdings PLC股票（ARM）在经历盘中波动及科技与半导体板块前期回调后的技术性反弹中上涨了5.69%。 华尔街利好的研究报告和雄心勃勃的目标价提振了市场情绪，强调了该公司在中央处理器知识产权方面的统治地位及其在数据中心、汽车计算和定制硅架构领域不断扩大的足迹。 人工智能计算需求继续成为机构兴趣的核心驱动力，同时伴随着云数据中心和高性能计算平台中版税收入流的扩展以及长期的许可机会。 技术指标显示MACD（12,26,9）值为-11.315，发出卖出信号；RSI为37.748，暗示中性状况；威廉指标（Williams %R）为84.821，暗示超卖状况。 Arm最新的年收入为$4.92B，净利润为$904.00M。 在过去一个月里，多位分析师给予买入评级，平均目标价为$286.95，最高为$480.00，最低为$125.00。 公司特定风险包括与高通的许可诉讼及版税收入脆弱性、渠道冲突与被许可方反弹、极端的估值倍数及延迟的人工智能提升，以及代工厂瓶颈与利润率压缩。"
+      "summary": "Tech stocks were higher on Monday afternoon, with the State Street Technology Select Sector SPDR ETF among the movers. The report notes further details require a subscription to access premium news articles.",
+      "summary_zh": "周一下午科技股走高，道富科技精选行业SPDR ETF等股票上涨。 报道指出，阅读更多详细内容需要订阅高级新闻文章。"
     },
     {
       "date": "2026.10.27",
@@ -100,8 +100,8 @@
       "url": "https://247wallst.com/investing/2026/10/26/98-of-nvidia-analysts-have-buy-rating/",
       "language": "English",
       "section": "美国股市 / US Market",
-      "summary": "MarketBeat data shows 54 of 55 analysts covering Nvidia have a bullish call, while Stock Analysis reports 59 of 62, representing a range of 95% to 98% buy ratings. The average price target across analysts is $325, while the stock trades at $211. Nvidia's revenue in its most recently reported quarter increased 106% to $96 billion. Skeptics, including Apollo economist Torsten Slok, argue that artificial intelligence investments have delivered zero financial payoff outside of tech and that data center growth is unsustainable. Additional concerns include communities delaying 200 data centers this year and criticisms that Nvidia funds demand by investing in its own chip customers.",
-      "summary_zh": "MarketBeat数据显示，覆盖英伟达的55位分析师中有54位给出看涨评级，而Stock Analysis的数据显示62位中有59位，买入评级比例在95%至98%之间。 分析师的平均目标价为$325，该股目前的交易价格为$211。 英伟达最近一季度的营收增长106%至$96 billion。 包括阿波罗经济学家托尔斯滕·斯洛克在内的怀疑论者认为，人工智能投资在科技行业之外没有带来任何财务回报，且数据中心的发展不可持续。 其他担忧包括今年各地社区已推迟了200个数据中心的建设，以及批评称英伟达通过投资自身的芯片客户来为对其产品的需求提供资金。"
+      "summary": "Nearly all Wall Street analysts covering Nvidia maintain a bullish rating, ranging from 95% to 98% according to MarketBeat and Stock Analysis. Nvidia's average price target among analysts is $325, while the stock trades at $211, with the company having risen 725% over the past five years. Nvidia's stock price relies on 100% year-over-year quarterly revenue growth, which reached $96 billion up 106% in the most recently reported quarter, alongside continuous data center growth and megatech companies having negative cash flow. However, skeptics and economists like Apollo's Torsten Slok argue that AI spending has yielded zero financial payoff to corporate America outside of tech, making forecasts deeply flawed. Critics also point out that Nvidia funds demand by investing in its own chip customers and that communities have delayed 200 data centers this year over local opposition, which could slow future AI growth.",
+      "summary_zh": "根据MarketBeat和Stock Analysis的数据，覆盖英伟达的华尔街分析师中几乎全部给出看涨评级，比例在95%至98%之间。 英伟达所有分析师的平均目标价为325美元，目前股价为211美元，过去五年累计上涨了725%。 英伟达的股价建立在每季度100%的同比增长率这一支柱上，在最近报告的季度中，其营收增长106%达到$96 billion，同时依赖数据中心的持续增长以及大型科技公司持续的负现金流。 然而，怀疑论者和阿波罗全球管理公司经济学家Torsten Slok等专家认为，人工智能支出除了科技行业本身之外，尚未给美国企业带来任何财务回报，这导致基于客户需求的预测存在严重缺陷。 批评人士还指出，英伟达通过投资自身的芯片客户来为需求提供资金，且今年各社区由于反对已推迟了200个数据中心的建设，这可能会减缓人工智能的增长。"
     },
     {
       "date": "2026.10.27",
@@ -111,8 +111,19 @@
       "url": "https://www.gaitame.com/media/entry/2026/10/27/003714",
       "language": "Japanese",
       "section": "日本株式市場 / Japan Market",
-      "summary": "Nikkei 225 fell for a third consecutive session, opening lower, recovering slightly, and facing selling pressure in the afternoon. The 9-day RSI rose from 15.6% to 17.0% on October 26, following a rebound from the 200-day moving average of 61,524 yen, drawing attention to the psychological 62,000 yen level. A technical rebound is anticipated due to RSI levels, while declining moving averages, including the 5-day at 63,297 yen, 10-day at 64,667 yen, and 25-day at 66,230 yen, act as overhead resistance. Resistance levels include the 5-day moving average, 64,000 yen, 10-day moving average, 65,000 yen, 25-day moving average, and the October 14 low of 67,533 yen. Support levels include 62,000 yen, the 200-day moving average, 61,000 yen, the July 29 low of 60,448 yen, 60,000 yen, and the May 20 low of 59,292 yen.",
-      "summary_zh": "日经平均指数连续第三天下跌。 早盘虽有从先前的抛售中回稳的动作，但午盘后再度遭遇抛售压力。 9日RSI在10月26日从15.6%上升至17.0%。 由于前一日盘中从200日移动平均线（61524日元，10月26日）的反弹幅度较大，今日出现相应的回调下跌，62000日元的心理关口受到关注。 从RSI的水准来看，随时可能出现自律性反弹，预计近期将展开自律反弹走势。 另一方面，持续下行的5日移动平均线（63297日元，同日）、10日移动平均线（64667日元，同日）、25日移动平均线（66230日元，同日）等容易成为上方阻力。 上方目标位包括5日移动平均线、心理关口64000日元、10日移动平均线、心理关口65000日元、25日移动平均线、10月14日低点（67533日元）等。 下方目标位包括心理关口62000日元、200日移动平均线、心理关口61000日元、7月29日低点（60448日元）、心理关口60000日元、5月20日低点（59292日元）等。"
+      "summary": "日経平均株価は3日続落となり、売り先行から持ち直す動きを見せたものの、後場は売りに押される展開となった。 9日RSIは前日の15.6％から17.0％（10/26）へ上昇した。 前日の取引時間中の200日移動平均線（61524円 10/26）からの戻りが大きかったことの反動で下落したが、62000円の心理的節目が意識された。 RSIの水準から自律反発がいつ生じても不思議ではない状況にある一方、下落基調にある5日移動平均線（63297円 同）、10日移動平均線（64667円 同）、25日移動平均線（66230円 同）などが上値抵抗になりやすいと予想されている。 上値メドには5日移動平均線や64000円などの心理的節目が挙げられ、下値メドには62000円や200日移動平均線などが意識されている。",
+      "summary_zh": "日经平均股价连续第三天下跌，盘初虽有从先行抛售中回稳的迹象，但午后遭到抛盘打压。 9日RSI从前一天的15.6%上升至17.0%（10月26日）。 由于前一个交易日盘中自200日移动平均线（61524日元，10月26日）的反弹幅度较大，今日出现了相应的回落行情，市场意识到了62000日元的心理关口。 从RSI的水准来看，随时可能出现技术性反弹，但短期内持续下行的5日移动平均线（63297日元）、10日移动平均线（64667日元）以及25日移动平均线（66230日元）等均容易构成上方阻力。 上方目标价位包括5日移动平均线及64000日元等心理关口，下方目标价位则包括62000日元、200日移动平均线及61000日元等心理关口。"
+    },
+    {
+      "date": "2026.10.26",
+      "published_at": "2026-10-26T16:00:03+09:00",
+      "headline": "いすゞ株価が続伸…準大手証券が業績不安後退の可能性に注目、投資判断「買い」を継続",
+      "source": "レスポンス（Response.jp）",
+      "url": "https://response.jp/article/2026/10/26/418221.html",
+      "language": "Japanese",
+      "section": "日本株式市場 / Japan Market",
+      "summary": "26日の日経平均株価は3日続落し、前週末比503円51銭安の6万2189円65銭で取引を終えた。 米国株安を嫌気し、人工知能や半導体関連株を中心に売りが先行し、下げ幅は500円を超えた。 先週末のニューヨークダウは原油価格の上昇を背景に652ドル安の5万2215ドルと4日ぶりに反落し、ハイテク株主体の米ナスダック市場も続落した。 外国為替市場では円相場が1ドル＝156円台後半で推移し、自動車株は総じて堅調な動きとなった。",
+      "summary_zh": "26日日经平均股价连续3日下跌，较上周末下跌503.51日元，收于62189.65日元。 受美股下跌影响，以人工智能和半导体相关股票为主的抛盘先行，跌幅超过500日元。 上周末纽约道琼斯指数在原油价格上涨背景下下跌652美元，收于52215美元，4年来首次回落，以科技股为主的纳斯达克市场也连续下跌。 在外汇市场上，日元对美元汇率在156日元后半段徘徊，汽车股整体表现坚挺。"
     },
     {
       "date": "2026.10.26",
@@ -122,8 +133,8 @@
       "url": "https://finance.yahoo.co.jp/news/detail/eea577a58305e4e109fd1f39c97ff3ea9071ecdc",
       "language": "Japanese",
       "section": "日本株式市場 / Japan Market",
-      "summary": "10月26日に調査機関が投資判断を最上位に継続し、目標株価を引き上げた銘柄がまとめられた。 対象となったのは、霞ヶ関キャピタル、レゾナック、Sansan、ロート製薬、サイゼリヤ、セブン銀行、東宝の各社であり、それぞれ大和証券、東海東京証券、モルガン・スタンレー、JPモルガン証券、みずほ証券、岡三証券がレーティングの引き上げや強気の判断を行った。",
-      "summary_zh": "10月26日，多家调查机构对多只股票维持最高投资评级并上调了目标价。 涉及的公司包括霞关资本、力拓、Sansan、乐敦制药、萨莉亚、七银行和东宝，相关评级与目标价调整分别由大和、东海东京、摩根士丹利、摩根大通、瑞穗及冈三等券商做出。"
+      "summary": "10月26日に調査機関が投資判断を最上位で継続し、目標株価を引き上げた銘柄が発表された。 対象となった銘柄と機関、格付、目標株価の変更は、霞ヶ関Ｃが大和で1万3400円から1万4600円、レゾナックが東海東京で2万4580円から2万5100円、Ｓａｎｓａｎが東海東京で2800円から3000円、ロートがモルガンで3150円から3400円、サイゼリヤがＪＰモルガンで8700円から9100円、セブン銀がみずほで350円から400円、東宝が岡三で1800円から2100円となっている。",
+      "summary_zh": "10月26日公布了调查机构维持最高投资评级并上调目标股价的股票名单。 涉及的股票、机构、评级及目标股价变动分别为：霞关资本经大和证券从13400日元上调至14600日元，昭和电工材料经东海东京证券从24580日元上调至25100日元，Sansan经东海东京证券从2800日元上调至3000日元，乐敦经摩根士丹利从3150日元上调至3400日元，萨莉亚经摩根大通从8700日元上调至9100日元，Seven银行经瑞穗证券从350日元上调至400日元，东宝经冈三证券从1800日元上调至2100日元。"
     },
     {
       "date": "2026.10.26",
@@ -133,19 +144,8 @@
       "url": "https://finance.yahoo.co.jp/news/detail/8a9223b743bbf4b43299b3cc48fa0e8fa9908d22",
       "language": "Japanese",
       "section": "日本株式市場 / Japan Market",
-      "summary": "GMOグローバルサインHDは、電子認証・印鑑事業やクラウドインフラ事業を展開し、AI時代の信頼と安全を支えるセキュリティ・インフラ企業として知られる。 2026年12月期は売上高22,286百万円、営業利益1,622百万円を見込み、過去最高益を予想している。 中期経営計画では2035年12月期に売上高1,000億円、営業利益率20%の達成を掲げ、AI領域への経営資源の集中と認証技術の融合による成長を目指している。",
-      "summary_zh": "GMO GlobalSign HD开展电子认证与印章业务及云基础设施业务，是一家支撑数字社会及AI时代“信任与安全”的安全基础设施企业。 该公司预计2026年12月财年销售额为22,286百万日元，营业利润为1,622百万日元，预计将创下历史最高利润。 在中期经营计划中，公司提出到2035年12月财年实现销售额1,000亿日元、营业利润率20%的目标，旨在将经营资源集中于AI领域，并通过认证技术的融合来实现增长。"
-    },
-    {
-      "date": "2026.10.26",
-      "published_at": "2026-10-26T16:56:00+09:00",
-      "headline": "【日本株】日経平均との連動性が低く、増収増益が期待される国内株",
-      "source": "マネクリ",
-      "url": "https://media.monex.co.jp/articles/amp/30384",
-      "language": "Japanese",
-      "section": "日本株式市場 / Japan Market",
-      "summary": "株式市場で日経平均株価との連動性が低く、増収増益が期待される銘柄として、アイカ工業とセンコーグループホールディングスが取り上げられた。 アイカ工業は2027年3月期第1四半期の売上高が前年同期比19.4%増の713億円、営業利益が同44.9%増の91億円となった。 センコーグループホールディングスは同期間の営業収益が同14.4%増の2487億円、営業利益が同22.9%増の106億円を記録した。",
-      "summary_zh": "作为与日经平均指数联动性较低且预期实现增收增益的股票，爱嘉工业和センコー集团控股受到了关注。 爱嘉工业2027年3月期第一季度销售额同比增加19.4%至713亿日元，营业利润同比增加44.9%至91亿日元。 センコー集团控股同期的营业收入同比增加14.4%至2487亿日元，营业利润同比增加22.9%至106亿日元。"
+      "summary": "GMOグローバルサインHDは、電子認証・印鑑事業やクラウドインフラ事業を展開し、デジタル社会やAI時代のセキュリティインフラを支えている。 2026年12月期は売上高22286百万円、営業利益1622百万円と増収・過去最高益を見込む。 今後はAI領域へ経営資源を集中し、2035年12月期に売上高1000億円、営業利益率20%を目指す。 配当方針として連結配当性向65%またはDOE4%のいずれか高い方を配当下限とする。",
+      "summary_zh": "GMO GlobalSign HD开展电子认证与印章业务以及云基础设施业务，支撑着数字社会及AI时代的安全基础设施。 预计2026年12月期销售额为22286百万日元，营业利润为1622百万日元，实现增收及历史最高利润。 未来将把经营资源集中于AI领域，力争在2035年12月期实现销售额1000亿日元、营业利润率20%。 作为分红政策，该公司将合并分红倾向65%或DOE4%中的较高者设定为分红下限。"
     },
     {
       "date": "2026.10.26",
@@ -155,8 +155,30 @@
       "url": "https://www.nikkei.com/article/DGXZQOFL264LV0W6A021C2000000/",
       "language": "Japanese",
       "section": "日本株式市場 / Japan Market",
-      "summary": "26日の東京株式市場で日経平均株価は3日続落し、前週末比503円51銭安の6万2189円65銭で取引を終えた。 米株式相場の下落や原油高を背景に、AI・半導体関連を中心に売りが先行し、一時下げ幅は600円近くに達した。 その後は自律反発狙いの買いや先物買いが入り、上げに転じる場面も見られた。",
-      "summary_zh": "26日的东京股市中，日经平均股价连续三天收跌，较上周末下跌503日元51钱，收于62,189日元65钱。 受美股下跌及原油价格高企影响，以AI及半导体相关股票为主的抛售占据主导，日经平均指数跌幅一度逼近600日元。 随后由于出现旨在自主反弹的逢低买盘以及期货买盘，盘中曾一度转为上涨。"
+      "summary": "26日の東京株式市場で日経平均株価は3日続落し、前週末比503円51銭安の6万2189円65銭で取引を終えた。 原油高を背景とした前週末の米国株安の流れを受け、値がさ株を中心に売りが先行し、下げ幅は一時600円近くに達した。 しかし、朝安後は自律反発狙いの押し目買いが下支えし、海外勢とみられる断続的な先物買いによって日経平均が上げに転じる場面もあった。",
+      "summary_zh": "26日东京股市中，日经平均股价连续3日下跌，较上周末下跌503.51日元（0.80%），以62189.65日元收盘。 受原油价格上涨背景下的上周末美股下跌行情影响，以高价股为中心的抛盘先行，日经平均指数跌幅一度接近600日元。 不过，早盘下跌后，旨在自主反弹的逢低买入起到了支撑作用，盘中也曾因被视为海外势力的间歇性期货买入而出现日经平均指数转为上涨的局面。"
+    },
+    {
+      "date": "2026.10.26",
+      "published_at": "2026-10-26T15:00:00+09:00",
+      "headline": "【ソフトバンク】秋広優人を自由契約 有望株放出で獲得も…「育成力」証明できず忸怩たる思い",
+      "source": "東スポWEB",
+      "url": "https://www.tokyo-sports.co.jp/articles/-/407810",
+      "language": "Japanese",
+      "section": "日本株式市場 / Japan Market",
+      "summary": "ソフトバンクの秋広優人内野手が26日、球団から自由契約とする通知を受けた。 昨季途中に巨人から加入し、今季は一軍出場がなかったものの、二軍では97試合に出場して打率2割5厘、10本塁打、50打点をマークした。 巨人在籍時の高卒3年目に121試合に出場した実績を持つ。 球団は野球協約の手続きに則った上で、育成契約を打診するとみられている。",
+      "summary_zh": "软银队的秋広优人内野手于26日接到球团将其自由契约化的通知。 他在上季中途从巨人队加入，本季无一军出场记录，但在二军出场97场，取得了打击率2成05、10支本垒打、50打点的成绩。 他在效力巨人队的高中毕业第3年曾有过出场121场的战绩。 预计球团将在遵循棒球协议程序的基础上，向其征询育成合同的意向。"
+    },
+    {
+      "date": "2026.10.27",
+      "published_at": "2026-10-27T02:37:38+09:00",
+      "headline": "Yen Carry Trade Unwind: Japan Inflation and US Stocks",
+      "source": "Equiti Global",
+      "url": "https://www.equiti.com/sc-en/news/market-insights/yen-carry-trade-unwind-japan-inflation-us-stocks/",
+      "language": "English",
+      "section": "宏观经济与投资 / Macro & Investment",
+      "summary": "Yen carry trade positions faced pressure as technology shares sold off and the yen strengthened to around 156.96 per dollar, while the US 10-year yield fell 19.3 basis points to 4.953%. September inflation in Japan accelerated to 2.1% from 1.7%, and a measure excluding fresh food and energy rose to 2.4% from 1.9%, exceeding the Bank of Japan's 2% target for the first time in nine months. The data followed a warning from Governor Ueda that underlying inflation could not be allowed to accelerate further, raising policy tightening expectations. A stronger yen increases the dollar cost of repaying original borrowings, compounding equity losses for leveraged investors.",
+      "summary_zh": "由于科技股遭到抛售，且日元兑美元汇率走强至约156.96，日元套息交易头寸面临压力，同时美国10年期国债收益率下跌19.3个基点至4.953%。 日本9月通胀率从1.7%加速至2.1%，剔除鲜食和能源的核心指标从1.9%升至2.4%，九个月来首次超过日本央行2%的目标。 该数据发布前不久，行长植田和男曾发出警告称不能允许基础通货膨胀进一步加速，这加大了政策收紧的预期。 日元走强增加了偿还原借款所需的美元成本，加剧了杠杆投资者的股票亏损。"
     },
     {
       "date": "2026.10.27",
@@ -166,8 +188,8 @@
       "url": "https://www.blackrock.com/us/individual/insights/blackrock-investment-institute/weekly-commentary",
       "language": "English",
       "section": "宏观经济与投资 / Macro & Investment",
-      "summary": "The global economy has proved resilient to the Middle East energy shock, but initial buffers such as strategic reserves and rerouted shipments are weakening as supply constraints move downstream. Brent crude oil jumped to a five-month high, while refining and shipping bottlenecks pushed delivered fuel costs from the Middle East to Asia to more than twice prewar levels. Europe is more vulnerable due to low gas reserves, whereas the U. S. benefits as a net energy exporter. BlackRock emphasizes selectivity across regions and sectors, favoring refining and energy infrastructure where bottlenecks could persist.",
-      "summary_zh": "全球经济对中东能源冲击表现出韧性，但随着供应瓶颈向下游转移，战略储备和改道运输等最初的缓冲措施正在减弱。 布伦特原油价格跃升至五个月来的最高点，炼油和航运瓶颈导致从中东到亚洲的燃油运抵成本达到战前水平的两倍以上。 欧洲由于天然气储备较低而更加脆弱，而美国作为净能源出口国则从中受益。 贝莱德强调跨地区和行业的精选投资，青睐瓶颈可能持续存在的炼油和能源基础设施领域。"
+      "summary": "Brent crude oil surged to around $117 a barrel, reaching a six-month high last week, as supply constraints shifted downstream to refining and shipping bottlenecks, pushing delivered fuel costs from the Middle East to Asia to more than twice prewar levels. The global economy and markets have absorbed the energy shock due to strong AI investment and fiscal spending, but effects remain uneven, with Europe more vulnerable due to historically low gas reserves and the US cushioned as a net energy exporter. Amid these conditions, the Nasdaq fell nearly 1% last week while US Treasuries rallied, and BlackRock's Ehsan Khoman noted expectations for another Federal Reserve hike by year-end.",
+      "summary_zh": "上周布伦特原油价格飙升至每桶117美元左右，创下六个月新高，因为供应瓶颈已向下游的炼油和航运环节转移，导致从中东到亚洲的燃油交付成本超过战前水平的两倍。 由于强劲的人工智能投资和财政支出，全球经济和市场吸收了能源冲击，但影响并不均衡，欧洲因天然气储备处于历史低位而更加脆弱，而美国作为净能源出口国则获得了缓冲。 在此背景下，纳斯达克指数上周下跌近1%，美国国债上涨，贝莱德的埃赫桑·霍曼指出市场预计美联储将在年底前再加息一次。"
     },
     {
       "date": "2026.10.27",
@@ -177,19 +199,30 @@
       "url": "https://cryptoticker.io/en/fear-and-greed-index-explained/",
       "language": "English",
       "section": "宏观经济与投资 / Macro & Investment",
-      "summary": "The Fear and Greed Index serves as a sentiment gauge for the cryptocurrency market, condensing multiple metrics into a value between 0 and 100 to describe investor behavior rather than asset valuation or price targets. On October 25, 2026, the index stood at 54 points in neutral territory, shifting from 68 in greed territory on October 22 while coin prices moved far less. Providers like alternative. me and CoinMarketCap calculate the index using inputs such as price volatility, market momentum, trading volume, social network activity, surveys, Bitcoin dominance, and search queries, meaning the index heavily reflects Bitcoin and partly trails price movements. Because different providers utilize distinct methodologies and weightings, readings vary and source attribution is necessary.",
-      "summary_zh": "恐慌与贪婪指数是加密货币市场的投资者情绪衡量工具，通过将多项市场数据整合为0到100之间的数值来反映当前投资者行为，而不代表资产估值或价格目标。 2026年10月25日，该指数处于54点的中性水平，而在10月22日曾达到68点的贪婪区间，同期币价波动幅度相对较小。 alternative. me和CoinMarketCap等提供商利用价格波动性、市场动能、交易量、社交网络活动、调查、比特币主导地位以及搜索查询等指标来计算该指数，这导致该指数高度受比特币影响且在一定程度上滞后于价格变动。 由于不同提供商采用各自的方法和权重，同一天的读数可能会有所不同，因此引用时必须指明来源。"
+      "summary": "The Fear and Greed Index acts as a sentiment indicator for the crypto market, aggregating various data into a score from 0 to 100 to reflect current investor behavior without measuring asset valuation. On October 25, 2026, the index stood at 54 points in neutral territory, shifting from 68 in greed territory on October 22 down to 50 within a day, despite the largest coins seeing price losses of up to four percent during that week. Calculated using ingredients like volatility, market momentum, social network activity, surveys, Bitcoin dominance, and search queries, the index is heavily influenced by Bitcoin. Different providers, such as alternative. me and CoinMarketCap, utilize distinct methods and weightings, yielding varying scores.",
+      "summary_zh": "恐慌与贪婪指数作为加密货币市场的情绪指标，将多项数据汇总为0到100之间的分数，以反映当前投资者的行为，而不衡量资产估值。 在2026年10月25日，该指数处于54点的中性区域，而在10月22日曾达到68点的贪婪区域并在一天内跌至50点，尽管同周内最大币种的价格跌幅高达百分之四。 该指数通过波动性、市场动能、社交网络活动、调查、比特币主导地位和搜索查询等成分计算得出，受比特币影响巨大。 不同的提供商（如alternative. me和CoinMarketCap）采用各自不同的方法和权重，会产生不同的评分。"
     },
     {
       "date": "2026.10.26",
-      "published_at": "2026-10-26T19:14:28+09:00",
-      "headline": "World shares mostly advance after a decline on Wall Street, and oil prices fall more than 1%",
-      "source": "BNN Bloomberg",
-      "url": "https://www.bnnbloomberg.ca/business/economics/2026/10/26/world-shares-mostly-advance-after-a-decline-on-wall-street-and-oil-prices-fall-more-than-1/",
+      "published_at": "2026-10-26T21:28:48+09:00",
+      "headline": "Bitcoin falls below $80,000 as Fed meeting, AI spending fears and oil prices weigh on crypto markets | Hindustan Times",
+      "source": "Hindustan Times",
+      "url": "https://www.hindustantimes.com/world-news/us-news/bitcoin-falls-below-80-000-as-fed-meeting-ai-spending-fears-and-oil-prices-weigh-on-crypto-markets-101793016530415.html",
       "language": "English",
       "section": "宏观经济与投资 / Macro & Investment",
-      "summary": "U. S. stocks climbed on Monday, with the S&P 500 rising 0.8 per cent, the Dow Jones Industrial Average gaining 154 points or 0.3 per cent, and the Nasdaq composite up 1.1 per cent, driven by a 2.5 per cent increase in Nvidia. Artificial intelligence stocks experienced volatility amid concerns over high borrowing costs for data centers and AI chips. Meta Platforms outlined plans to raise US$35 billion through stock sales and potentially another US$60 billion via a new class of shares, with Nvidia, Advanced Micro Devices, and Broadcom indicating they may buy US$5 billion of the offering. SpaceX agreed to a roughly US$40 billion deal with an entity managed by Apollo Global Management to lease AI computing power, while CoreWeave shares fluctuated. Meanwhile, Brazilian stocks dropped 14.6 per cent following President Luiz Inácio Lula da Silva's reelection victory, raising concerns over government spending and debt.",
-      "summary_zh": "美国股市周一上涨，标普500指数上涨0.8%，道琼斯工业平均指数上涨154点或0.3%，纳斯达克综合指数上涨1.1%，其中英伟达上涨2.5%提供了最大动力。 由于对建设数据中心和购买AI芯片的高昂借贷成本产生担忧，人工智能相关股票走势剧烈波动。 Meta Platforms计划通过出售股票筹集US$350亿资金，并在新级别股票开始交易后可能再筹集US$600亿，同时Meta表示英伟达、超威半导体和博通已表明可能购买此次发行中总计US$50亿的股票。 SpaceX同意与阿波罗全球管理公司管理的一个实体达成价值约US$400亿美元的协议以租赁AI计算能力，CoreWeave股价也出现大幅震荡。 此外，在路易斯·伊纳西奥·卢拉·达席尔瓦赢得总统竞选后，巴西股市因投资者担忧政府支出的增加而大幅下跌14.6%。"
+      "summary": "Bitcoin fell below $80,000 on Monday, dropping as much as 1.4% to below $79,300 before trading around $80,000 during Asian afternoon hours, as caution ahead of a key Federal Reserve meeting, AI spending concerns, and rising oil prices weighed on crypto markets. US-listed spot Bitcoin exchange-traded funds recorded $772.4 million in withdrawals on Thursday and Friday, reversing earlier weekly inflows of over $1 billion. Major altcoins including Ether, XRP, and Solana also declined. Caroline Mauron of Orbit Markets noted that Bitcoin had remained relatively strong against AI debt concerns affecting other assets, while Pratik Kala of Apollo Crypto stated Bitcoin remains part of the risk-off category for systematic funds.",
+      "summary_zh": "比特币周一跌破80,000美元，盘中一度下跌多达1.4%至79,300美元以下，随后在亚洲下午交易时段交投于80,000美元附近，原因是关键美联储会议前的谨慎情绪、对人工智能支出的担忧以及不断上涨的油价对加密货币市场造成了压力。 美国上市的现货比特币交易所交易基金在周四和周五记录了7.724亿美元的资金流出，逆转了此前一周超过10亿美元的净流入。 以太坊、XRP和索拉纳等主要山寨币也出现下跌。 Orbit Markets的卡罗琳·莫龙指出，比特币面对影响其他资产的人工智能债务担忧表现得相对坚挺，而Apollo Crypto的普拉蒂克·卡拉表示，比特币仍然属于系统性基金的避险类别。"
+    },
+    {
+      "date": "2026.10.26",
+      "published_at": "2026-10-26T16:30:06+09:00",
+      "headline": "Euro firms against yen, flat vs dollar ahead of central bank meetings",
+      "source": "Global Banking & Finance Review",
+      "url": "https://www.globalbankingandfinance.com/currency-markets-subdued-ahead-pivotal-central-bank-week/",
+      "language": "English",
+      "section": "宏观经济与投资 / Macro & Investment",
+      "summary": "Global Banking & Finance Review provides news and analysis concerning global banking, finance, insurance, investment, and related industries while stating that its content is commercial in nature and published solely for general informational and educational purposes. The platform notes that its published material does not constitute financial, investment, trading, legal, tax, or accounting advice, nor does it serve as a recommendation or trading signal for any financial product, security, cryptocurrency, or commodity. The website discusses financial markets, trends, prices, forecasts, and third-party views, but emphasizes that readers are solely responsible for conducting independent research and due diligence before making investment decisions, as financial products involve significant risk and past performance does not guarantee future results.",
+      "summary_zh": "环球银行与金融评论提供关于全球银行、金融、保险、投资及相关行业的资讯和分析，同时声明其内容具有商业性质，发布目的仅用于一般信息和教育。 该平台指出，其发布的内容不构成金融、投资、交易、法律、税务或会计建议，也不作为任何金融产品、证券、加密货币或商品的推荐或交易信号。 该网站讨论金融市场、趋势、价格、预测和第三方观点，但强调读者在做出投资决策前应独立进行研究和尽职调查，因为金融产品涉及重大风险且过往业绩不能保证未来结果。"
     },
     {
       "date": "2026.10.26",
@@ -199,19 +232,8 @@
       "url": "https://finance.biggo.com/news/66969769-61e7-4743-bd57-33b5b24a2d72",
       "language": "English",
       "section": "宏观经济与投资 / Macro & Investment",
-      "summary": "International precious metals extended declines on October 26, 2026, as London Gold fell below $4,025.33/oz and dropped 4.1% the previous week, breaking beneath the $4,000/oz threshold. London Silver touched $53.59/oz, hitting its lowest level since late November. Analysts attribute the correction to rising Federal Reserve tightening expectations driven by higher oil prices and inflation risks, with CME FedWatch data showing a 68.9% probability of a rate hike to 4.00%–4.25% in December. The 10-year Treasury yield declined over 35 basis points as safe-haven capital flowed from correcting tech stocks into Treasuries, prompting leveraged investors to sell highly liquid gold to meet margin calls.",
-      "summary_zh": "国际贵金属市场在2026年10月26日延续跌势，伦敦金现货价格跌破$4,025.33/oz并在上周下跌4.1%，首次跌破$4,000/oz的心理关口；伦敦银触及$53.59/oz，创下自去年11月下旬以来的最低水平。 分析师将此次回调归因于油价上涨和通货膨胀风险推高了美联储紧缩预期，芝商所美联储观察数据显示，12月份加息至4.00%至4.25%的概率为68.9%。 由于科技股调整引发避险需求，10年期美国国债收益率累计下跌超过35个基点，这促使杠杆投资者抛售流动性极高的黄金以筹集资金来满足追加保证金的要求。"
-    },
-    {
-      "date": "2026.10.26",
-      "published_at": "2026-10-26T11:34:00+09:00",
-      "headline": "Yen becoming more favorable hedge against AI market shock, says Goldman Sachs",
-      "source": "The Japan Times",
-      "url": "https://www.japantimes.co.jp/business/2026/10/26/markets/yen-hedge-against-ai-market-shock/",
-      "language": "English",
-      "section": "宏观经济与投资 / Macro & Investment",
-      "summary": "According to Goldman Sachs, the yen is becoming a more effective hedge against artificial intelligence-driven market shocks due to policy changes in Japan that reduce the risk of sharp currency depreciation when global yields rise. The yen surged 0.9% against the dollar on Thursday and reached a one-month high on Friday during a global technology stock sell-off and U. S. Treasury rally. Goldman notes that the AI boom exposes U. S. equities and the dollar to growth outlook deterioration, while the yen's vulnerability to rising global yields has lessened compared to the past six to seven years due to a more constructive domestic policy backdrop. Consequently, strategists view short USD/JPY positions as effective protection against growth wobbles and broader AI market shocks.",
-      "summary_zh": "高盛表示，由于日本政策背景的变化降低了全球收益率上升时日元大幅贬值的风险，日元正成为对抗人工智能驱动的市场冲击的更有效对冲工具。 在上周全球科技股遭到抛售和美债价格上涨期间，日元兑美元周四飙升0.9%，并在周五触及一个多月来的最高水平。 高盛指出，人工智能的热潮使美国股市和美元容易受到增长前景恶化的影响，而由于国内政策背景更加具有建设性，日元对全球收益率上升的脆弱性已比过去六到七年有所减弱。 因此，策略师认为做空美元兑日元是防范经济增长动荡及更广泛AI市场冲击的有效对冲手段。"
+      "summary": "International precious metals markets extended their weakness, with London Gold falling below $4,025.33/oz on October 26 and breaking below the $4,000/oz threshold for the first time since mid-July. London Silver touched $53.59/oz intraday, its lowest since late November last year. The selloff dragged down China's A-share precious metals sector on the morning of October 26, affecting companies such as Chifeng Gold, Zijin Mining, Zhaojin Gold, and Shanjin International. Analysts attribute the correction to renewed Federal Reserve tightening expectations driven by rising oil prices from U. S. -Iran tensions and upside inflation risks. CME FedWatch data show a 90% probability that the Fed will keep rates unchanged at its October 28 meeting, but a 68.9% probability of a hike to 4.00%–4.25% at the December meeting. Li Ye from Shenwan Futures Research Institute stated that recent weakness stems from Fed tightening expectations and higher oil prices. Yu Jie, a macro researcher at Everbright Futures Research Institute, noted that strong U. S. inflation, a resilient job market, and a manufacturing PMI in expansion territory continue to raise December hike expectations, while high nominal rates and a strong dollar increase the opportunity cost of holding gold. Zhan Dapeng added that the 10-year Treasury yield fell more than 35 basis points from a peak above 5.35% due to safe-haven demand from a tech-stock correction, but sticky inflation and rate-hike risk limit yield declines. Instead of rebounding with falling yields, gold accelerated its decline as leveraged investors sold highly liquid gold to meet equity margin calls. Xia Yingying from Nanhua Futures indicated that both metals posted large bearish candles with rising short positions, showing greater downside risk for silver.",
+      "summary_zh": "国际贵金属市场延续弱势，10月26日伦敦金现货价格跌破每盎司4,025.33美元，并自7月中旬以来首次跌破每盎司4,000美元的心理关口；伦敦银盘中触及每盎司53.59.38美元，创下去年11月下旬以来最低。 受此跌势拖累，10月26日上午中国A股贵金属板块走低，赤峰黄金触及涨停，紫金矿市、招金黄金和山金国际均下跌。 市场普遍将此次回调归因于美联储紧缩预期的重新升温。 申万期货研究所分析师李野表示，近期贵金属走弱源于美联储紧缩预期的核心约束，美伊局势反复推高油价，进一步抬升通胀上行风险并强化了加息押盘。 CME美联储观察数据显示，市场预计10月28日政策会议维持利率不变的概率为90%，加息25个基点的概率为10%，但对12月会议加息至4.00%至4.25%的概率为68.9%。 光大期货宏观研究员于洁指出，在通胀屡超预期、就业市场韧性及制造业PMI仍处于扩张区间的背景下，市场持续提高对美联储12月加息的预期，高名义利率和强美元推高了持有黄金的机会成本。 该机构贵金属研究员詹大朋补充称，科技股回调带动避险需求，使10年期美债收益率从5.35%上方回落超过35个基点，但油价上涨与黏性通胀限制了收益率跌幅。 由于此次美债收益率下跌源于股市抛售引发的避险交易，部分杠杆投资者选择抛售高流动性的黄金以筹集资金应对股票账户追加保证金，导致黄金在收益率下跌时加速下跌。 南华期货贵金属分析师夏莹莹表示，伦敦金和伦敦银上周均出现大阴线且空头持仓上升，显示白银下行风险相对更大。"
     }
   ]
 }
