@@ -1,20 +1,75 @@
 {
   "kind": "market",
-  "updated_at": "2026-10-28T04:15:37.282168+09:00",
+  "updated_at": "2026-10-28T11:03:07.277881+09:00",
   "status": {
     "state": "ok",
-    "checked_at": "2026-10-28T04:15:37.282168+09:00",
-    "latest_article_at": "2026-10-28T03:22:30+09:00",
-    "articles": 23,
+    "checked_at": "2026-10-28T11:03:07.277881+09:00",
+    "latest_article_at": "2026-10-28T10:07:54+09:00",
+    "articles": 19,
     "sections": {
       "美国股市 / US Market": 7,
-      "日本株式市場 / Japan Market": 8,
-      "宏观经济与投资 / Macro & Investment": 8
+      "日本株式市場 / Japan Market": 7,
+      "宏观经济与投资 / Macro & Investment": 5
     },
     "shortfalls": {},
     "translations_missing": 0
   },
   "articles": [
+    {
+      "date": "2026.10.28",
+      "published_at": "2026-10-28T07:41:30+09:00",
+      "headline": "Nasdaq rises 1.14% as chip stocks rally ahead of Fed decision",
+      "source": "Invezz",
+      "url": "https://invezz.com/en-ae/news/2026/10/27/nasdaq-rises-114percent-as-chip-stocks-rally-ahead-of-fed-decision/",
+      "language": "English",
+      "section": "美国股市 / US Market",
+      "summary": "US stocks closed higher on Tuesday, led by gains in technology and semiconductor shares as investors assessed corporate earnings, falling oil prices, and the Federal Reserve's policy meeting. The Nasdaq Composite gained 1.14% to 26,467.06, the S&P 500 rose 0.57% to 7,720.63, and the Dow Jones Industrial Average edged up 2.44 points to 52,364.02. Broadcom climbed 4% following a $63 billion financing announcement involving banks like Bank of America, Citi, and Morgan Stanley alongside Blackstone for Anthropic's technology purchase. Micron Technology rose over 3% and Advanced Micro Devices gained 5%. West Texas Intermediate crude settled 1.70% lower at $100.03 a barrel, while Brent crude fell 1.53% to $113.99.",
+      "summary_zh": "周二美国股市收高，在投资者评估企业财报、下跌的油价以及美联储政策会议之际，科技股和半导体股领涨。 纳斯达克综合指数上涨1.14%至26,467.06点，标普500指数上涨0.57%至7,720.63点，道琼斯工业平均指数微升2.44点至52,364.02点。 博通公司上涨4%，此前包括美国银行、花旗和摩根士丹利在内的多家银行与黑石集团宣布提供$63 billion的融资，用于Anthropic购买博通的技术。 美光科技上涨超过3%，超威半导体上涨5%。 西德克萨斯中质原油结算价下跌1.70%至每桶$100.03，布伦特原油下跌1.53%至$113.99。"
+    },
+    {
+      "date": "2026.10.28",
+      "published_at": "2026-10-28T06:43:36+09:00",
+      "headline": "AI stocks lift Wall Street closer to record",
+      "source": "CommBank",
+      "url": "https://www.commbank.com.au/articles/newsroom/2026/10/ai-stocks-lift-wall-street-closer-to-record-high.html",
+      "language": "English",
+      "section": "美国股市 / US Market",
+      "summary": "Influential AI stocks lifted Wall Street higher, offsetting declines across the majority of S&P 500 stocks. Broadcom climbed 4% after announcing a $US63 billion financing deal where Wall Street firms assist Anthropic in accessing Broadcom's XPU AI accelerators and networking solutions. Nvidia added 0.9%, and CoreWeave jumped 7.9%. General Motors climbed 5.5% after announcing it is moving its stock listing from the New York Stock Exchange to the Nasdaq. Treasury yields held relatively steady ahead of the Federal Reserve's interest rate decision, with the 10-year Treasury yield edging down to 4.99% from 5.00%, while Brent crude fell 1.2% to $US109.41 per barrel.",
+      "summary_zh": "具影响力的AI股票推动华尔街走高，抵消了标普500指数中多数股票的跌幅。 博通公司上涨4%，此前该公司宣布了一项$US63 billion的融资交易，多家华尔街公司将协助Anthropic获得博通的XPU AI加速器和网络解决方案。 英伟达上涨0.9%，CoreWeave跃升7.9%。 通用汽车上涨5.5%，该公司宣布将其股票上市地从纽约证券交易所转移至纳斯达克。 在美联储做出利率决定前，美国国债收益率保持相对稳定，10年期国债收益率从5.00%小幅降至4.99%，同时布伦特原油价格下跌1.2%至每桶$US109.41。"
+    },
+    {
+      "date": "2026.10.28",
+      "published_at": "2026-10-28T06:09:12+09:00",
+      "headline": "AI Wave Drives Global Stock Market Rally Amid Policy Uncertainty",
+      "source": "Global Banking & Finance Review",
+      "url": "https://www.globalbankingandfinance.com/trading-day-ai-wave-lifts-boats/",
+      "language": "English",
+      "section": "美国股市 / US Market",
+      "summary": "US stocks rallied on Tuesday, driven by AI optimism, lower oil prices, and a steady bond market as attention turned to the Federal Reserve's policy decision on Wednesday. Tech shares rose 1.5% while energy fell 2%, and the SOX chip index increased 3.6%. Three US hyperscalers are reporting third-quarter earnings this week with combined backlogs of nearly $1.7 trillion and planned spending of up to $600 billion this year. Fed interest rate futures traders placed a 90% probability on the Fed leaving rates on hold. Brazilian financial markets remained under pressure following a major stock market crash and currency drop, with the Bovespa stock index closing in the red and the real rebounding only 1%.",
+      "summary_zh": "受人工智能乐观情绪、油价下跌以及债券市场稳定的推动，美国股市于周二反弹，市场焦点转向美联储周三的政策决议。 科技股上涨1.5%，能源股下跌2%，SOX芯片指数上涨3.6%。 三家美国超大规模云服务商本周将公布第三季度财报，其合并订单积压近$1.7 trillion，今年计划支出高达$600 billion。 美联储利率期货交易员预计美联储在会议结束时维持利率不变的概率为90%。 在经历重大股市崩盘和货币下跌后，巴西金融市场继续承压，伯韦斯帕指数收盘下跌，雷亚尔仅反弹1%。"
+    },
+    {
+      "date": "2026.10.28",
+      "published_at": "2026-10-28T05:21:19+09:00",
+      "headline": "Nasdaq rallies as AI and chip stocks outperform",
+      "source": "investingLive",
+      "url": "https://investinglive.com/stocks/nasdaq-rallies-as-ai-and-chip-stocks-outperform/",
+      "language": "English",
+      "section": "美国股市 / US Market",
+      "summary": "Major US stock indices closed higher, led by outperforming AI and semiconductor shares that helped the Nasdaq Composite and Nasdaq 100 rise more than 1%. Within the Magnificent 7, Tesla led with a 4.04% advance to $407.46, followed by Amazon, which gained 1.61% to $253.10 ahead of its earnings release. Meta moved lower by 1.64% to $620.19, breaking below its 100-day and 200-day moving averages to finish near the session low. Other notable gainers included Nebius up 11.22% to $170.47, Credo Technology up 10.77% to $167.43, and Astera Labs up 10.47% to $286.69.",
+      "summary_zh": "美国主要股票指数收高，在表现出色的AI和半导体股票带领下，纳斯达克综合指数和纳斯达克100指数涨幅超过1%。 在“七大科技巨头”中，特斯拉领涨4.04%至$407.46，亚马逊紧随其后，在财报发布前上涨1.61%至$253.10。 Meta下跌1.64%至$620.19，跌破100日和200日移动平均线并在接近盘中低点收盘。 其他涨幅明显的公司包括Nebius上涨11.22%至$170.47，Credo Technology上涨10.77%至$167.43，Astera Labs上涨10.47%至$286.69。"
+    },
+    {
+      "date": "2026.10.28",
+      "published_at": "2026-10-28T03:41:48+09:00",
+      "headline": "Broadcom and other AI stocks lift Wall Street closer to its record",
+      "source": "WWAYTV3",
+      "url": "https://www.wwaytv3.com/broadcom-and-other-ai-stocks-lift-wall-street-closer-to-its-record/",
+      "language": "English",
+      "section": "美国股市 / US Market",
+      "summary": "Artificial-intelligence industry stocks led Wall Street higher on Tuesday, with the S&P 500 rising 0.7% and the Nasdaq composite gaining 1.3%. Broadcom climbed 4.1% after announcing a $63 billion financing deal involving Wall Street firms to give Anthropic access to Broadcom's XPU AI accelerators and networking solutions. General Motors rose 6.3% after announcing it is moving its stock listing from the New York Stock Exchange to the Nasdaq. JetBlue Airways gained 19.6% despite reporting a larger summer loss than analysts expected, while Royal Caribbean Group rose 8.1% after beating profit expectations and raising its full-year forecast. Boeing fell 9.2% following a larger-than-expected quarterly loss.",
+      "summary_zh": "周二人工智能产业股票引领华尔街走高，标普500指数上涨0.7%，纳斯达克综合指数上涨1.3%。 博通公司上涨4.1%，此前该公司宣布了一项$63 billion的融资交易，由多家华尔街公司参与，旨在让Anthropic获得博通的XPU AI加速器和网络解决方案。 通用汽车上涨6.3%，宣布将其股票上市地从纽约证券交易所转移至纳斯达克。 捷蓝航空尽管公布的夏季亏损大于分析师预期，但仍上涨19.6%；皇家加勒比集团在利润超出预期并上调全年预测后上涨8.1%。 波音在公布大于预期的季度亏损后下跌9.2%。"
+    },
     {
       "date": "2026.10.28",
       "published_at": "2026-10-28T02:47:00+09:00",
@@ -23,8 +78,8 @@
       "url": "https://247wallst.com/investing/2026/10/27/microns-long-term-returns-crushed-the-sp-500-does-the-recent-drop-matter/",
       "language": "English",
       "section": "美国股市 / US Market",
-      "summary": "Micron Technology experienced a 15.44% drop over a month, falling from $1,082.10 on September 25 to $915.07, but its long-term returns still exceed the S&P 500. Driven by high-bandwidth memory demand for Nvidia accelerators, fiscal 2026 revenue reached $133.19 billion, up 256.3%, with fiscal Q4 non-GAAP gross margin at 87.0%. A $1,000 investment a decade ago grew to $54,576.30. Management expects memory supply to remain tight through 2028, and fiscal Q1 2027 guidance projects $61.5 billion in revenue, plus or minus $1.5 billion, and non-GAAP EPS of $38.15, while fiscal 2026 capex reached $30.7 billion.",
-      "summary_zh": "美光科技经历了一个月的15.44%下跌，从9月25日的$1,082.10跌至本早晨的$915.07，但其长期回报率仍然大幅领先标普500指数。 在英伟达加速器的高带宽内存需求推动下，2026财年营收达到$133.19 billion，增长256.3%，第四财季非美国通用会计准则毛利率达到87.0%。 十年前投资$1,000增长至$54,576.30。 管理层预计内存供应紧张将持续到2028年，2027财年第一季度指引营收为$61.5 billion（正负$1.5 billion），非美国通用会计准则每股收益为$38.15，而2026财年资本支出达到$30.7 billion。"
+      "summary": "Micron Technology experienced a recent month-long selloff, with its stock falling 15.44% from $1,082.10 on September 25 to $915.07. Despite this drop, the company's long-term returns have significantly outperformed the S&P 500, growing a $1,000 investment to $54,576.30 over a decade. The business model transformed due to high-bandwidth memory for Nvidia's AI accelerators, driving fiscal 2026 revenue up 256.3% to $133.19 billion and fiscal Q4 non-GAAP gross margin to 87.0%. Micron holds 26 strategic customer agreements running through 2030, and management reports no visibility into when supply and demand will balance. Bullish projections cite fiscal Q1 2027 revenue guidance of $61.5 billion and high shipment commitments, while bearish risks include competition for HBM4 share from Samsung and SK Hynix, capital expenditures reaching $30.7 billion in fiscal 2026, and potential Chinese memory threats.",
+      "summary_zh": "美光科技经历了一个月的抛售期，股价从9月25日的$1,082.10下跌15.44%至$915.07。 尽管有所回落，其长期回报率仍远超标普500指数，在十年间将$1,000的投资增长至$54,576.30。 由于面向英伟达AI加速器的高带宽内存，公司的业务模式发生了转变，推动2026财年营收增长256.3%至$133.19 billion，第四财季非美国通用会计准则毛利率达到87.0%。 美光拥有26项持续到2030年的战略客户协议，管理层称目前尚无供需平衡的能见度。 看多预测引用了2027财年第一季度$61.5 billion的营收指引及高出货量承诺，而看空风险则包括三星和SK海力士对HBM4份额的竞争、2026财年资本支出达到$30.7 billion，以及来自中国存储芯片的潜在威胁。"
     },
     {
       "date": "2026.10.28",
@@ -34,228 +89,118 @@
       "url": "https://247wallst.com/investing/2026/10/27/teslas-profit-fell-43-and-the-stock-held-up-heres-why/",
       "language": "English",
       "section": "美国股市 / US Market",
-      "summary": "Tesla reported a third-quarter net income drop of 42.68% to $787 million, while revenue was essentially flat year over year at $28.046 billion and deliveries reached 486,532. Shares fell only 0.91% on earnings day as gross profit rose 8.71% and adjusted EPS of $0.48 beat the $0.4511 consensus. R&D climbed to $2.76 billion to fund autonomy, Optimus, and AI computing power. Paid FSD subscriptions reached 1.74 million, full-year capex guidance was cut to about $20 billion, operating cash flow held at $6.263 billion, and cash grew to $45.447 billion.",
-      "summary_zh": "特斯拉公布第三季度净利润下降42.68%至$787 million，而营收同比基本持平在$28.046 billion，交付量达到486,532辆。 由于毛利率上升8.71%且调整后每股收益$0.48超过$0.4511的市场共识，财报发布当日股价仅下跌0.91%。 研发支出攀升至$2.76 billion以资助自动驾驶、Optimus和人工智能计算能力。 付费FSD订阅量达到1.74 million，全年资本支出指引被下调至约$20 billion，经营现金流维持在$6.263 billion，现金增至$45.447 billion。"
+      "summary": "Tesla reported a 42.68% drop in third-quarter net income to $787 million, while total revenue of $28.046 billion remained flat year over year and shares held up with a 0.91% decline on earnings day. The resilience stemmed from rising gross profit and a higher R&D expenditure of $2.76 billion directed toward autonomy, Optimus, and AI computing power, alongside an adjusted EPS of $0.48 that beat the $0.4511 consensus. Management cut full-year capex guidance to about $20 billion, and Elon Musk suggested a potential tie-up with SpaceX. Paid FSD subscriptions increased to 1.74 million, Austin's Cybercab fleet expanded tenfold, and energy gross margins rose to 33.1%. However, operating income dropped 55.79% and capex rose 110.5%, reducing free cash flow to $1.531 billion. Analysts maintain diverse perspectives, with a 24/7 Wall St. price target of $404.84 reflecting a hold rating.",
+      "summary_zh": "特斯拉公布第三季度净利润下降42.68%至$787 million，总营收为$28.046 billion，同比持平，财报发布当日股价仅下跌0.91%。 股价坚挺源于毛利上升以及用于自动驾驶、Optimus和AI计算能力的研发支出增至$2.76 billion，同时调整后每股收益为$0.48，超出$0.4511的共识预期。 管理层将全年资本支出指引下调至约$20 billion，且埃隆·马斯克暗示可能与SpaceX进行合并。 付费FSD订阅量增至1.74 million，奥斯汀的Cybercab车队规模扩大了十倍，能源毛利率上升至33.1%。 然而，营业利润下降55.79%，资本支出增加110.5%，导致自由现金流降至$1.531 billion。 分析师持有不同观点，24/7 Wall St. 给出的目标价为$404.84，评级为持有。"
     },
     {
       "date": "2026.10.28",
-      "published_at": "2026-10-28T00:05:00+09:00",
-      "headline": "GE vs. RTX: Which Stock Offers the More Compelling Investment Case?",
-      "source": "TradingView",
-      "url": "https://www.tradingview.com/news/zacks:d36f44c67094b:0-ge-vs-rtx-which-stock-offers-the-more-compelling-investment-case/",
-      "language": "English",
-      "section": "美国股市 / US Market",
-      "summary": "GE Aerospace and RTX Corporation operate in the aerospace and defense industry, benefiting from improving air traffic trends and an expansionary U. S. defense budget. GE is growing due to demand for LEAP, GEnx, and GE9X engines, securing major orders from United Airlines, Delta Air Lines, American Airlines, Copa Airlines, and Ryanair, alongside defense contracts including a support agreement for F414 engines worth up to $2.9 billion and a $1.4 billion deal for T408 engines. GE plans to invest over $1 billion in MRO facilities over five years and repurchased $6.51 billion in shares while paying $1.36 billion in dividends in the first nine months of 2026. RTX saw third-quarter organic sales rise 12% year over year, with Collins Aerospace, Pratt & Whitney, and Raytheon reporting gains, and announced a $100 million investment to expand its Rzeszów facility in Poland.",
-      "summary_zh": "GE航空航天和RTX公司均运营于航空航天与国防工业，受益于改善的航空交通趋势和扩张性的美国国防预算。 GE因对LEAP、GEnx和GE9X发动机的需求而实现增长，获得了来自联合航空、达美航空、美国航空、巴拿马航空和瑞安航空的重大订单，以及包括价值高达$2.9 billion的F414发动机支持协议和价值$1.4 billion的T408发动机交易在内的国防合同。 GE计划在五年内向MRO设施投资超过$1 billion，并在2026年前九个月回购了$6.51 billion的股票并支付了$1.36 billion的股息。 RTX第三季度有机销售额同比增长12%，柯林斯航空航天、普惠和雷神公司均报告了增长，并宣布投资$100 million扩大其位于波兰热舒夫的设施。"
-    },
-    {
-      "date": "2026.10.27",
-      "published_at": "2026-10-27T23:43:33+09:00",
-      "headline": "5 Best International Stocks to Buy in 2026",
-      "source": "The Motley Fool",
-      "url": "https://www.fool.com/investing/stock-market/types-of-stocks/international-stocks/",
-      "language": "English",
-      "section": "美国股市 / US Market",
-      "summary": "Investing in international stocks involves risks such as economic vulnerability, political instability, currency fluctuations, geopolitical tensions affecting institutional support, and varying financial visibility compared to U. S. equities. International stocks may also trigger dual-tax obligations for U. S. investors, though foreign tax credits or deductions help prevent double taxation, and foreign dividend withholdings are typically handled automatically. Furthermore, international companies trading on foreign exchanges have different auditing and SEC reporting standards, and may be accessed via ADRs or over-the-counter markets. Recently, international stocks have outperformed U. S. stocks due to geographic diversification momentum and a weakening U. S. dollar, alongside efforts by regions to build economic and supply chain resilience.",
-      "summary_zh": "投资国际股票面临经济脆弱性、政治不稳定、汇率波动、影响机构支持的地缘政治紧张局势，以及与美国股票相比不同的财务透明度等风险。 国际股票还可能对美国投资者产生双重纳税义务，尽管外国税收抵免或扣除有助于防止双重征税，且外国股息预扣通常自动处理。 此外，在外国交易所交易的国际公司拥有不同的审计和美国证券交易委员会报告标准，并且可以通过美国存托凭证或场外交易市场进行访问。 近期，由于地域分散动力、美元走弱以及各地区建立经济和供应链韧性的努力，国际股票的表现优于美国股票。"
-    },
-    {
-      "date": "2026.10.27",
-      "published_at": "2026-10-27T23:16:35+09:00",
-      "headline": "Dell Technologies Inc Stock (DELL) Moved Up by 4.03% on Oct 27: Drivers Behind the Movement",
-      "source": "TradingKey",
-      "url": "https://www.tradingkey.com/news/market-movers/262242529-market-movers-dell-20261027",
-      "language": "English",
-      "section": "美国股市 / US Market",
-      "summary": "Dell Technologies Inc stock rose 4.03% on October 27, outperforming the technology equipment sector, supported by accelerating enterprise adoption of AI infrastructure solutions, expansion of the Dell AI Factory program with Nvidia, and real-world implementations like Honeywell integrating its AI platform on Dell infrastructure. Dell reported annual revenue of $113.54 billion and net profit of $5.94 billion, backed by an AI server backlog and multi-quarter order flow. However, analysts noted intraday volatility, a 47% decline in free cash flow, margin pressures from component input costs, supply chain bottlenecks, and insider selling activity disclosed via SEC Form 4 filings.",
-      "summary_zh": "戴尔科技公司股价在10月27日上涨4.03%，跑赢科技设备板块，这受到企业加速采用人工智能基础设施解决方案、与英伟达合作的戴尔AI工厂计划的扩展以及霍尼韦尔在其戴尔基础设施上集成其AI平台等现实实现的支撑。 戴尔报告年度营收为$113.54 billion，净利润为$5.94 billion，并有AI服务器订单积压和多季度订单流的支持。 然而，分析师指出了盘中波动、自由现金流下降47%、来自组件投入成本的利润率压力、供应链瓶颈以及通过美国证券交易委员会Form 4文件披露的内部人士抛售活动。"
-    },
-    {
-      "date": "2026.10.27",
-      "published_at": "2026-10-27T23:14:59+09:00",
-      "headline": "US EQUITY OPEN: Indices in the green as Tech sector outperforms as earnings continue",
-      "source": "Newsquawk",
-      "url": "https://www.newsquawk.com/headlines/us-equity-open-indices-in-the-green-as-tech-outperforms-as-earnings-continue",
-      "language": "English",
-      "section": "美国股市 / US Market",
-      "summary": "US indices opened higher, led by Technology and Consumer Discretionary sectors, while Energy and Consumer Staples lagged. Iran's Supreme Leader called for proposals to end the war, causing a knee-jerk downside in benchmarks after earlier energy gains driven by reports of an explosion at the Saudi Ras Tanura refinery. The Dollar Index is firmer, and Treasuries are lower ahead of a 5yr note auction and buyback. US Durable Goods were mixed. Nvidia plans to invest $3bln in Meta Platforms' equity offering, and AMD will invest $1bln while collaborating across CPUs, GPUs, networking, systems, and software. Numerous companies reported earnings highlights, including beats from Cadence Design Systems, Corning, SoFi Technologies, S&P Global, Royal Caribbean, UPS, and Johnson Controls, alongside misses or dismal reports from PayPal, Whirlpool, and Sherwin-Williams.",
-      "summary_zh": "美国三大股指开盘走高，科技股与可选消费品板块领涨，而能源与日常消费品板块落后。 在伊朗最高领袖呼吁提出结束战争的条件后，基准指数出现应激性下跌，此前沙特拉斯塔努拉炼油厂发生爆炸的报道曾推动能源价格上涨。 美元指数走强，在5年期美债拍卖及回购前夕，美债收益率全线走低。 美国耐用品订单数据表现不一。 英伟达计划向Meta Platforms的股权发行投资$3bln，AMD则将投资$1bln，双方将在CPU、GPU、网络、系统及软件领域展开合作以支持Meta服务和AI基础设施。 多家公司公布了财报亮点，其中Cadence Design Systems、康宁、SoFi Technologies、标普全球、皇家加勒比、联合包裹和江森自控的业绩超出预期，而PayPal、惠而浦和宣伟则表现不佳或出现营收逊色。"
-    },
-    {
-      "date": "2026.10.27",
-      "published_at": "2026-10-27T22:45:58+09:00",
-      "headline": "Nasdaq opens higher as chip stocks rally, oil prices fall ahead of Fed decision",
-      "source": "Invezz",
-      "url": "https://invezz.com/news/2026/10/27/nasdaq-opens-higher-as-chip-stocks-rally-oil-prices-fall-ahead-of-fed-decision/",
-      "language": "English",
-      "section": "美国股市 / US Market",
-      "summary": "US stocks opened higher on Tuesday, supported by a rally in chipmakers and easing oil prices ahead of a Federal Reserve interest-rate decision and corporate earnings. The S&P 500 gained 0.28%, the Dow Jones Industrial Average rose 3 points, and the Nasdaq Composite advanced 0.54%. Broadcom climbed over 3% following a bank-backed $63 billion financing coalition for its technology purchase by Anthropic. Other semiconductor stocks also advanced, with Micron Technology up over 1%, AMD rising 3%, and Nvidia adding around 1%. Oil prices declined, with WTI crude falling 0.58% to around $101 a barrel and Brent crude declining about 0.75% to $114.94 a barrel. The Federal Reserve began its two-day policy meeting, with markets widely expecting interest rates to remain unchanged.",
-      "summary_zh": "周二美国股市开盘走高，在美联储即将做出利率决议及企业财报发布前，芯片股的上涨和油价的回落为市场情绪提供了支持。 标普500指数上涨0.28%，道琼斯工业平均指数上涨3点，纳斯达克综合指数上涨0.54%。 在银行支持的$63 billion融资财团支持Anthropic购买Broadcom技术的推动下，Broadcom股价上涨超过3%。 其他半导体股票也随之上涨，美光科技上涨超过1%，AMD上涨3%，英伟达上涨约1%。 油价下跌，WTI原油期货下跌0.58%至每桶约$101，布伦特原油期货下跌约0.75%至每桶$114.94。 美联储开始了为期两天的政策会议，市场普遍预计利率将保持不变。"
+      "published_at": "2026-10-28T10:07:54+09:00",
+      "headline": "アドバンテストの株価が続伸 米半導体指数3.6%高",
+      "source": "日本経済新聞",
+      "url": "https://www.nikkei.com/article/DGXZQOFL280VK0Y6A021C2000000/",
+      "language": "Japanese",
+      "section": "日本株式市場 / Japan Market",
+      "summary": "Advantest Corporation extended its gains in the Prime market, rising 1,550 yen or 4.57% to 35,410 yen compared to the previous day. The increase followed a 3.60% rise in the Philadelphia Semiconductor Sector Index in the United States on the 27th, which comprises major semiconductor-related stocks.",
+      "summary_zh": "株式会社爱德万测试在主板市场延续涨势，较前一日上涨1550日元（4.57%），报35410日元。 此前在27日，美国股市由主要半导体相关股票构成的费城半导体指数上涨了3.60%。"
     },
     {
       "date": "2026.10.28",
-      "published_at": "2026-10-28T03:22:30+09:00",
+      "published_at": "2026-10-28T09:56:46+09:00",
+      "headline": "アドバンテスト、SOX3.6%高 27日は日経を600円押し上げ、きょう決算発表",
+      "source": "日経CNBC online",
+      "url": "https://online.nikkei-cnbc.co.jp/vod/68720",
+      "language": "Japanese",
+      "section": "日本株式市場 / Japan Market",
+      "summary": "Advantest saw continued buying following a 3.60% increase in the Philadelphia Semiconductor Sector Index, which had pushed the Nikkei up by 600 yen the previous day, ahead of its earnings announcement. Other notable morning market movements included Chugai Pharmaceutical reporting a 23% increase in net income for the January-to-September period driven by robust sales of the lymphoma treatment Lunsumio, GMO Internet Group facing ongoing cyberattacks including the public exposure of customer personal information, and Shin-Etsu Chemical recording an 11% increase in net income for the April-to-September period supported by solid demand for semiconductor materials driven by AI.",
+      "summary_zh": "在费城半导体指数上涨3.60%（该指数前一日曾推动日经指数上涨600日元）之后，爱德万测试在财报发布前继续上涨。 其他早盘市场焦点包括：中外制药1至9月期纯利润增长23%，主要受淋巴瘤治疗药物“Lunsumio”销售稳健的推动；GMO互联网集团持续遭遇网络攻击，包括客户个人信息被公开；信越化学工业4至9月期纯利润增长11%，得益于AI需求带动的半导体材料表现坚挺。"
+    },
+    {
+      "date": "2026.10.28",
+      "published_at": "2026-10-28T09:21:30+09:00",
+      "headline": "日経平均株価、470円61銭高で始まる - 寄り付き解説 きょうのトピック",
+      "source": "日経CNBC online",
+      "url": "https://online.nikkei-cnbc.co.jp/vod/68718",
+      "language": "Japanese",
+      "section": "日本株式市場 / Japan Market",
+      "summary": "The Nikkei Stock Average opened 470 yen and 61 sen higher. Market coverage highlighted Advantest following a 3.60% rise in the Philadelphia Semiconductor Sector Index and a previous session where it pushed the Nikkei up by 600 yen ahead of its earnings release. Additionally, Canon downwardly revised its net income forecast for the fiscal year ending December 2026 to a slight increase, citing production delays in medical equipment caused by component shortages.",
+      "summary_zh": "日经平均指数开盘上涨470日元61仙。 市场报道重点关注了爱德万测试，该股在发布财报前因费城半导体指数上涨3.60%且前一交易日曾推高日经指数600日元而备受瞩目。 此外，佳能将截至2026年12月期的纯利润预期向下修正为微增，原因是零部件短缺导致医疗设备生产出现延迟。"
+    },
+    {
+      "date": "2026.10.28",
+      "published_at": "2026-10-28T07:30:00+09:00",
+      "headline": "日経平均、日米主要企業の決算見極め（先読み株式相場）",
+      "source": "日本経済新聞",
+      "url": "https://www.nikkei.com/article/DGXZQOFL27CLF0X21C26A0000000/",
+      "language": "Japanese",
+      "section": "日本株式市場 / Japan Market",
+      "summary": "28日の東京株式市場で日経平均株価は、前日の米市場におけるAI関連銘柄の上昇を受けて買われ、6万4300円程度まで水準を切り上げると予想される。 しかし、同日に予定される米連邦公開市場委員会（FOMC）の結果公表や、日米主要企業の決算発表を見極めたいとして、上値の重い展開が見込まれている。",
+      "summary_zh": "28日东京股市日经平均指数预计将因前一日美国市场人工智能相关股票的上涨而受到买盘支撑，上升至64300日元左右。 不过，由于投资者希望观望同日预定公布的美国联邦公开市场委员会（FOMC）结果以及日美主要企业的财报发布，预计该指数上方压力较大，走势沉重。"
+    },
+    {
+      "date": "2026.10.28",
+      "published_at": "2026-10-28T06:01:18+09:00",
+      "headline": "【株価は最高値から10％以上も下落中で気になる「AI株」は砂上の楼閣なのか】",
+      "source": "新潮QUE",
+      "url": "https://que.dailyshincho.jp/node/21852/",
+      "language": "Japanese",
+      "section": "日本株式市場 / Japan Market",
+      "summary": "日経平均株価は6月22日の7万2831円をピークに下降し、10月27日現在の終値で6万3268円と最高値から約13％下落している。 元日本証券新聞社社長の天野秀夫氏によると、構成銘柄の約4割を占めるAI・半導体関連株が日経平均を支えてきたが、ソフトバンクグループやキオクシアホールディングスなどの主要銘柄が直近で株価を5割以上落としていることが下振れの要因となっている。",
+      "summary_zh": "日经平均指数自6月22日的72831日元高点回落，10月27日收盘价为63268日元，较最高点下跌约13%。 前日本证券新闻社社长天野秀夫表示，占成分股约四成的人工智能与半导体相关股票曾支撑日经平均指数，但软银集团和铠侠控股等主要股票近期的股价跌幅超过五成，成为导致指数下行的原因。"
+    },
+    {
+      "date": "2026.10.28",
+      "published_at": "2026-10-28T03:27:38+09:00",
       "headline": "視る日経！ニュースNEXT【ニデック永守氏ら提訴！運命の期限！上場廃止回避なるか？】",
       "source": "テレビ東京",
       "url": "https://www.tv-tokyo.co.jp/broad_bstvtokyo/program/detail/202610/22663_202610282100.html",
       "language": "Japanese",
       "section": "日本株式市場 / Japan Market",
-      "summary": "Nidec, which has been designated as a 'Securities Under Supervision' by the Tokyo Stock Exchange due to accounting irregularities, announced it will file a lawsuit seeking a total of 27.6 billion yen in damages against nine former executives, including founder Shigenobu Nagamori, as it approaches the submission deadline for the internal management system confirmation letter. Amid ongoing uncertainties regarding improvements, such as the auditor's remaining 'Disclaimer of Opinion', concerns persist that failure to submit or insufficient improvements could lead to the worst-case scenario of delisting.",
-      "summary_zh": "因不正当会计问题而被东京证券交易所以“特别注意铭柄”进行指定的日本电产，在迎来内部管理体制确认书提交期限之际，宣布将对创始人永守重信等9名旧管理层提起诉讼，索赔总计27.6亿元规模的损害赔偿。 在审计法人保留“意见不表明”等改善前景依然充满不透明感的情况下，各方担忧若未能提交或改善不充分，可能会引发“退市”的最坏情景。"
+      "summary": "不正会計問題を巡り東京証券取引所から「特別注意銘柄」に指定されているニデックは、内部管理体制確認書の提出期限を迎える中、会社側が創業者である永守重信氏ら旧役員9名に対し計276億円規模の損害賠償を求めて提訴すると発表した。 監査法人の意見不表明が残るなど改善への不透明感が漂う中、未提出や改善不十分による上場廃止が懸念されている。",
+      "summary_zh": "因涉嫌财务违规被东京证券交易所指定为“特别注意铭柄”的尼得科在迎来内部管理体制确认书提交期限之际，宣布将向创始人永守重信等9名原高管提起诉讼，要求赔偿总计276亿日元的损失。 在审计机构仍存在意见不发表等改善不确定因素的情况下，外界担忧若未能提交或改善不充分，该企业将面临退市风险。"
     },
     {
       "date": "2026.10.28",
-      "published_at": "2026-10-28T00:43:32+09:00",
-      "headline": "【テクニカル】日経平均株価テクニカル分析－5日線を上回る大幅反発",
-      "source": "外為どっとコム",
-      "url": "https://www.gaitame.com/media/entry/2026/10/28/004239",
+      "published_at": "2026-10-28T06:14:10+09:00",
+      "headline": "日本株ADR27日、高安まちまち みずほFG上昇、ソニーGは下落",
+      "source": "日本経済新聞",
+      "url": "https://www.nikkei.com/article/DGXZQOFL2802B0Y6A021C2000000/",
       "language": "Japanese",
       "section": "日本株式市場 / Japan Market",
-      "summary": "The Nikkei Stock Average rebounded significantly, opening with buying pressure and extending gains to form a bullish candle above the 5-day moving average at 63136 yen on October 27. The 9-day RSI rose from 17.0% to 26.5% on October 27, suggesting that a continuation of the autonomous rebound is likely in the near term. However, the downward-trending 10-day moving average at 64216 yen, the conversion line at 64195 yen, and the 25-day moving average at 66203 yen are expected to act as short-term overhead resistance levels. Upside resistance targets include the 10-day moving average, the psychological milestone of 65000 yen, the 25-day moving average, and the October 14 low of 67533 yen. Downside support targets include the psychological milestone of 62000 yen, the 200-day moving average at 61586 yen, the psychological milestone of 61000 yen, the July 29 low of 60448 yen, and the psychological milestone of 60000 yen.",
-      "summary_zh": "日经平均股价大幅反弹，在买盘先行带动下扩大涨幅，最终收出实体阳线，并高于10月27日位于63136円的5日移动平均线。 9日RSI从10月27日的17.0%上升至26.5%，预示次日可能延续升势。 从RSI水平来看预计将持续自主反弹，但持续下行趋势的10日移动平均线（同日64216円）、转换线（同日64195円）以及25日移动平均线（同日66203円）容易构成短期上档阻力。 上方目标包括10日移动平均线、心理关口65000円、25日移动平均线及10月14日低点（67533円）等。 下方支撑目标包括心理关口62000円、200日移动平均线（同日61586円）、心理关口61000円、7月29日低点（60448円）及心理关口60000円等。"
-    },
-    {
-      "date": "2026.10.27",
-      "published_at": "2026-10-27T23:42:42+09:00",
-      "headline": "コカ・コーラが決算 海外好調も北米不調 ゼロシュガー飲料が成長けん引 株価は軟調＝米国株個別(株探ニュース)",
-      "source": "Yahoo!ファイナンス",
-      "url": "https://finance.yahoo.co.jp/news/detail/be661c3ecb7418e461385ecfbb12eece0f2d6965",
-      "language": "Japanese",
-      "section": "日本株式市場 / Japan Market",
-      "summary": "Coca-Cola reported its third-quarter financial results before the market open, with earnings per share and organic revenue both topping expectations. While international markets performed strongly, North America lagged with flat sales volumes. The company raised its full-year profit and organic revenue growth forecasts, driven by strong international demand for carbonated drinks and particularly strong growth in zero-sugar beverages, with Coca-Cola Zero Sugar sales volume increasing by 16%. In North America, growth in carbonated soft drinks was offset by declines in water, sports drinks, coffee, and tea. CEO James Quincey noted that pricing in North America aligned with inflation and that the July 4th holiday calendar timing negatively impacted volume. CFO John Murphy stated expectations for no major changes in consumer behavior through 2027.",
-      "summary_zh": "可口可乐在交易开始前公布了第三季度财报，每股收益和既存业务营业收入均超出预期。 尽管海外市场表现强劲，但北美市场表现低迷，销售量持平。 在海外碳酸饮料强劲需求的背景下，该公司上调了全年利润和既存业务营业收入增长预期，零糖饮料成为增长主力，“可口可乐零糖”的销售量增长了16%。 在北美，可口可乐碳酸饮料销售的增加被水、运动饮料、咖啡和茶饮的减少所抵消。 首席执行官布朗在财报说明会上表示，北美地区的定价符合通货膨胀，且7月4日独立日的日期安排对销售数量产生了负面影响。 首席财务官墨菲表示，预计到2027年消费者行为不会发生重大变化。"
-    },
-    {
-      "date": "2026.10.27",
-      "published_at": "2026-10-27T23:26:00+09:00",
-      "headline": "米AI大手･アンソロピックのIPOが日経平均株価の調整一巡のきっかけに!? AI･半導体株の見直し買いに期待し、弱気を封印して逆張りで買い向かうのがおすすめ",
-      "source": "ダイヤモンド・オンライン",
-      "url": "https://diamond.jp/zai/articles/-/1074618",
-      "language": "Japanese",
-      "section": "日本株式市場 / Japan Market",
-      "summary": "米アンソロピックがSECにS-1登録届出書を提出し、11月16日の週にナスダック上場見通しとなる中、AI・半導体関連株に買いが入り日米株価を押し上げた。 アンソロピックの今年1〜6月期売上高は前年同期比14倍の162億8600万ドル、純損失は807億ドルで、上場により1000億ドル以上を調達し企業価値は1兆5000億〜2兆ドル規模になる見通し。 一方、GMOインターネットのクラウドサービスへのサイバー攻撃など不正アクセスが相次ぎ、政府は26日に閣僚会議を開催。 高市首相は緊急対策パッケージの取りまとめなどを指示した。 経済産業相の赤沢亮正はホワイトハッカー専門部隊の立ち上げを表明している。 市場ではFOMCや日銀会合を控えつつも、アンソロピックのIPOを契機としたAI・半導体株の見直し買いに期待がかかっている。",
-      "summary_zh": "美国Anthropic向美国证交会提交S-1注册登记声明，计划最早于11月16日当周在纳斯达克上市，带动AI与半导体板块买盘并推高日美股市。 Anthropic今年1至6月营收同比增至162.86亿美元，纯亏损达807亿美元，此次上市预计筹集超过1000亿美元，企业价值达1.5万亿至2万亿美元。 另一方面，针对GMO互联网等企业的网络攻击和不正当访问频发，日本政府于26日召开内阁会议，首相高市早苗指示尽快敲定紧急对策一揽子方案，经济产业大臣赤泽亮正也表明将组建白帽黑客专业部队。 在市场等待FOMC及日本央行会议之际，各方正期待以Anthropic的IPO为契机重新买入AI及半导体相关股票。"
-    },
-    {
-      "date": "2026.10.27",
-      "published_at": "2026-10-27T23:14:11+09:00",
-      "headline": "ペイパルが決算 株価は下げに転じる 欧州関税による下押し圧力が続くと警告＝米国株個別(株探ニュース)",
-      "source": "Yahoo!ファイナンス",
-      "url": "https://finance.yahoo.co.jp/news/detail/7b49f3d37bf7cbd04af9a42df948a1cb7a36df53",
-      "language": "Japanese",
-      "section": "日本株式市場 / Japan Market",
-      "summary": "ペイパルが発表した第3四半期決算は、経常収益が予想を下回った一方、調整後1株利益や営業利益などは予想を上回った。 第4四半期および通期の見通しでは調整後1株利益の予想を引き上げたものの、欧州の関税による業績への下押し圧力が続くと警告し、取引開始後に株価は下げに転じた。 ミラーCFOは欧州の関税が第4四半期の業績に重しになると説明している。 ロレスCEOの下で同社は主力のオンライン決済依存から脱却し事業多角化を進めている。 第3四半期の経常収益は85.8億ドル、総決済取扱高は4871.4億ドル、調整後1株利益は1.45ドルとなった。 第4四半期の調整後1株利益は約1.43ドル、通期の調整後1株利益は約5.60ドルと予想されている。",
-      "summary_zh": "贝宝发布的第三季度财报显示，经常收益低于预期，但调整后每股收益和营业利润等超出预期。 在第四季度及全年展望中，该公司上调了调整后每股收益的预期，但警告称欧洲关税将继续对业绩形成下行压力，导致股价在交易开始后转跌。 财务负责人米勒解释称欧洲关税将成为第四季度业绩的负担。 在首席执行官罗勒斯的领导下，该公司正摆脱对主营在线支付的依赖并推进业务多元化。 第三季度经常收益为85.8亿美元，总支付额为4871.4亿美元，调整后每股收益为1.45美元。 第四季度调整后每股收益预计约为1.43美元，全年调整后每股收益预计约为5.60美元。"
-    },
-    {
-      "date": "2026.10.27",
-      "published_at": "2026-10-27T16:20:00+09:00",
-      "headline": "日経平均株価の64,000円超の水準は重い",
-      "source": "マネクリ",
-      "url": "https://media.monex.co.jp/articles/-/30388",
-      "language": "Japanese",
-      "section": "日本株式市場 / Japan Market",
-      "summary": "10月26日の日経平均は3日続落となり、23日の大幅安からの自律反発の反動安となった。 27日以降は米FOMCやECB定例理事会、日銀金融政策決定会合といった中銀イベントを控え手控え感が強まりやすい状況にある。 2026年の価格帯別売買代金データによると、64,000円超の水準からは累積額が大きく、戻り売り圧力が強い価格帯であることが想定される。 この水準を上方に突破するためには強力なポジティブ材料が必要であり、目先は中銀イベントに頼るしかないとみられている。 また、米国の主力ハイテク企業の決算も控えており、米中間選挙を控える中で材料出尽くしと受け止められれば相場をかく乱する要因になる可能性がある。",
-      "summary_zh": "10月26日的日经平均指数连续三个交易日下跌，属于对23日大幅下跌后自主反弹的回落调整。 自27日起，由于面临美联储FOMC、欧洲央行例会以及日本央行金融政策决策会议等央行活动，市场观望情绪容易加重。 根据2026年不同价格区间的成交额数据，64000日元以上的水平累计金额巨大，预计存在较强的获利回吐及套牢盘卖压。 若要向上突破该水平需要强大的利好材料，目前来看短期内只能依靠央行相关事件。 此外，美国主要高科技企业的财报也即将来袭，在临近美国中期选举的背景下，若被市场视为利好出尽，则可能成为扰乱行情的因素。"
-    },
-    {
-      "date": "2026.10.27",
-      "published_at": "2026-10-27T13:00:00+09:00",
-      "headline": "後場の日経平均は1065円高でスタート、アドバンテストやレゾナックなどが上昇",
-      "source": "ｄメニューニュース",
-      "url": "https://topics.smt.docomo.ne.jp/amp/article/fisco/business/fisco-0005400020261027001",
-      "language": "Japanese",
-      "section": "日本株式市場 / Japan Market",
-      "summary": "後場の日経平均株価は前日比1065.26円高の63254.91円でスタートし、前引けからやや上げ幅を縮小した。 ランチタイム中の日経225先物は強含みで推移し、ドル・円は1ドル＝157.60-70円で円安・ドル高水準となっている。 アジア市況では上海総合指数や香港ハンセン指数が下落するなど方向感が定まらない中、東京市場では米FOMCやECB政策金利発表、日銀金融政策決定会合の結果発表を控え上値追いには慎重な姿勢が見られる。 一方で、ダウ平均先物の底堅い推移や韓国KOSPIの大幅高が東京市場を支援している。 セクター別では非鉄金属や電気機器などが上昇し、東証プライムではイビデンやアドバンテスト、ソフトバンクグループなどが高い。",
-      "summary_zh": "午盘日经平均指数开盘较前一交易日上涨1065.26日元，报63254.91日元，较早盘收盘略有收窄涨幅。 午休期间日经225期货走势偏强，美元兑日元处于157.60至157.70的日元贬值美元升值水平。 在亚洲市场方面，上证综指和香港恒生指数等方向不明朗并有所下跌，东京市场则因等待美联储FOMC、欧洲央行政策利率以及日本央行金融政策决策会议结果，对追高表现谨慎。 另一方面，道指期货的坚挺走势以及韩国KOSPI的大幅上涨对东京市场起到了支撑作用。 从板块来看，有色金属、电气设备等涨幅居前，东证Prime市场的揖斐电、爱德万测试、软银集团等个股表现走高。"
-    },
-    {
-      "date": "2026.10.27",
-      "published_at": "2026-10-27T07:33:16+09:00",
-      "headline": "トヨタ自動車 | 7203.T 株価動向とリアルタイム相場",
-      "source": "BigGo ファイナンス",
-      "url": "https://finance.biggo.jp/quote/7203.T",
-      "language": "Japanese",
-      "section": "日本株式市場 / Japan Market",
-      "summary": "トヨタ自動車（7203. T）の株価は3,102 JPYで取引を終了し、前日比15 JPY安、0.48%の下落となった。 当日の株価範囲は3,102 - 3,102 JPY、始値は3,102 JPY、前日終値は3,117 JPYであった。 時価総額は36.7兆円、次回の決算発表日は2026年11月5日に予定されている。 52週株価範囲は2,686 - 4,000 JPY、ベータ値は0.337、予想配当・利回りは50および1.61%となっている。 直近12ヶ月のPERは8.83、EPSは351.382で、配当落ち日は2027年3月30日、平均取引量は27,353,602株である。",
-      "summary_zh": "丰田汽车（7203. T）股价收于3102日元，较前一交易日下跌15日元，跌幅为0.48%。 当日股价区间为3102至3102日元，开盘价为3102日元，前一日收盘价为3117日元。 总市值为36.7万亿日元，下一次财报发布日预定为2026年11月5日。 52周股价区间为2686至4000日元，贝塔值为0.337，预期股息及收益率为50与1.61%。 最近12个月的市盈率为8.83，每股收益为351.382，除息日为2027年3月30日，平均交易量为27353602股。"
+      "summary": "27日の米株式市場における日本株の米預託証券（ADR）は高安まちまちとなった。 同日は人工知能（AI）・半導体銘柄が買われて日米の株式相場が上昇したものの、日本株ADRには売り買いが交錯した。 個別ではみずほFG、三井住友FG、三菱UFJが上昇した一方、ソニーGやホンダは下落した。",
+      "summary_zh": "27日美国股市的日本股票美国存托凭证（ADR）涨跌互现。 当天人工智能与半导体股票受到追捧，带动日美股市上涨，但日本股票ADR则多空交织。 具体个股中，瑞穗金融集团、三井住友金融集团和三菱日联上涨，而索尼集团和本田则下跌。"
     },
     {
       "date": "2026.10.28",
-      "published_at": "2026-10-28T00:15:16+09:00",
-      "headline": "Markets.com",
-      "source": "Markets.com",
-      "url": "https://www.markets.com/ae/quote/wn30_f",
+      "published_at": "2026-10-28T07:46:14+09:00",
+      "headline": "GLOBAL MARKETS-Stocks Rise Ahead of Tech Earnings, Fed Decision",
+      "source": "KONTAN",
+      "url": "https://english.kontan.co.id/news/global-markets-stocks-rise-ahead-of-tech-earnings-fed-decision",
       "language": "English",
       "section": "宏观经济与投资 / Macro & Investment",
-      "summary": "Markets. com provides various currency, crypto, and commodity forecasts including AED to INR, GBP to AED for 2026-2030, USD to AED for 2026, 2027 and 2030, BTC to AED for 2026-2030 with AED 300,000, and gold and crude oil price forecasts. UAE residents face travel, shipping, and energy cost uncertainty amid regional diplomacy and Gulf security risks. Gold rate in UAE rises to AED 485.25 for 24K and AED 449.25 for 22K as bullion reclaims $4,000 before the Fed decision. Bitcoin price in UAE holds near AED 292,500 with AED 300,000 as key resistance. The article also covers Anthropic IPO details for UAE investors and how Crypto Payroll operates in the UAE.",
-      "summary_zh": "Markets. com提供了多项货币、加密货币及大宗商品预测，包括阿联酋迪拉姆兑印度卢比、2026至2030年英镑兑迪拉姆、2026、2027及2030年美元兑迪拉姆、2026至2030年比特币兑迪拉姆（涉及300,000迪拉姆）以及黄金和原油价格预测。 由于地区外交和海湾安全风险，阿联酋居民面临旅行、航运和能源成本的不确定性。 在美联储做出决定之前，金价重回$4,000，阿联酋金价上涨至24K金每克485.25迪拉姆、22K金每克449.25迪拉姆。 比特币在阿联酋维持在近292,500迪拉姆，300,000迪拉姆成为关键阻力位。 文章还涵盖了面向阿联酋投资者的Anthropic首次公开募股详情以及阿联酋加密货币薪资的运作方式。"
+      "summary": "MSCI's global equities gauge rose 6.58 points, or 0.59%, to 1,129.74 on Tuesday as investors awaited tech earnings and the Federal Reserve's policy decision. Oil futures settled down nearly $2 amid prospects of Middle East peace talks, though prices remained near multimonth highs. Meta, SpaceX, Broadcom, and Anthropic's IPO filing encouraged investors with AI news. Wedbush Securities managing director Sahak Manuelian noted the AI news helped the bond market and small caps. Dow Jones rose 15.99 points to 52,377.57, S&P 500 gained 45.83 points to 7,722.60, Nasdaq rose 308.43 points to 26,477.81, and Russell 2000 rose 1.2%. Central banks including the Fed, ECB, and Bank of Japan are expected to keep interest rates on hold.",
+      "summary_zh": "由于投资者等待科技企业财报以及美联储的政策决定，MSCI全球股票指标在周二上涨了6.58点，或0.59%，报1,129.74点。 受中东和平谈判前景影响，原油期货结算价下跌近$2，但价格仍接近数月高点。 Meta、SpaceX、Broadcom的人工智能相关融资消息以及Anthropic的首次公开募股申请提振了投资者信心。 Wedbush Securities全球股票销售与交易董事总经理萨哈克·马努埃利安表示，人工智能相关消息帮助债券市场企稳并推动小型股表现更好。 道琼斯工业平均指数上涨15.99点，报52,377.57点；标普500指数上涨45.83点，报7,722.60点；纳斯达克综合指数上涨308.43点，报26,477.81点；罗素2000小型股指数上涨1.2%。 包括美联储、欧洲央行和日本央行在内的各大央行预计将维持利率不变。"
     },
     {
-      "date": "2026.10.27",
-      "published_at": "2026-10-27T21:06:32+09:00",
-      "headline": "【US Pre-Market】US Stock Futures Rise Across the Board, Celestica Surges Over 15%, Gold Fluctuates Around $4,000, Bitcoin Drops Below $80,000 Level",
-      "source": "TradingKey",
-      "url": "https://www.tradingkey.com/analysis/stocks/us-stocks/262242150-us-ko-meta-spacex-nvda-intc-tradingkey",
-      "language": "English",
-      "section": "宏观经济与投资 / Macro & Investment",
-      "summary": "On October 27, Eastern Time, US stock index futures rose premarket alongside modest rebounds in oil, while gold and Bitcoin dipped. Celestica surged over 15.8% pre-market on third-quarter revenue of $5.83 billion, up 83% year-over-year, and non-GAAP adjusted EPS of $3.30, while raising its full-year 2026 revenue guidance to $21 billion and setting a 2027 revenue target of $40 billion. HSBC fell over 6.75% pre-market after reporting third-quarter revenue of $18.62 billion and EPS of $0.42, missing expectations despite pre-tax profit rising 32% year-over-year to $9.6 billion. The Federal Reserve holds its monetary policy meeting from October 27 to 28, with markets widely expecting rates to remain unchanged.",
-      "summary_zh": "美东时间10月27日，美国股指期货盘前普遍上涨，原油小幅反弹，黄金和比特币下跌。 Celestica盘前飙升超过15.8%，其第三季度营收为$5.83 billion，同比增长83%，非GAAP调整后每股收益为$3.30，并将其2026全年营收指引上调至$21 billion，首次给出2027年$40 billion的营收目标。 汇丰控股盘前下跌超过6.75%，其公布的第三季度营收为$18.62 billion，每股收益为$0.42，均不及预期，尽管税前利润同比增长32%至$9.6 billion。 美联储于10月27日至28日召开货币政策会议，市场普遍预计利率将保持不变。"
-    },
-    {
-      "date": "2026.10.27",
-      "published_at": "2026-10-27T20:05:00+09:00",
-      "headline": "Yen Central Rate at 157.65 per Dollar, Weaker Versus Previous Day",
+      "date": "2026.10.28",
+      "published_at": "2026-10-28T07:05:00+09:00",
+      "headline": "Dollar Index Climbs Back to 102 Ahead of Fed, BoJ and ECB Decision Week as Markets Position Early",
       "source": "BigGo Finance",
-      "url": "https://finance.biggo.com/news/8301a747-840b-4200-ae84-0679e33e7c61",
+      "url": "https://finance.biggo.com/news/a6c180d8-5f88-43d9-859f-6e4137d41493",
       "language": "English",
       "section": "宏观经济与投资 / Macro & Investment",
-      "summary": "According to the Bank of Japan's foreign exchange market data for Oct. 27, the dollar-yen central rate stood at 157.65 yen per dollar, shifting toward a weaker yen and stronger dollar from 157.20 yen the previous business day. Trading volume for the prior business day was $3.419 billion for dollar-yen and $399 million for EUR/USD. The yen index came in at 73.90, down from 74.11 the previous day, following the effective exchange rate calculation methodology compiled by the Bank for International Settlements.",
-      "summary_zh": "根据日本银行10月27国外汇市场数据，美元兑日元中心汇率报157.65日元兑1美元，较前一个营业日的157.20日元有所走软。 前一营业日的交易量方面，美元兑日元为$3.419 billion，欧元兑美元为$399 million。 日元指数为73.90，低于前一天的74.11，该指数遵循国际清算委员会编制的有效汇率计算方法。"
+      "summary": "The US Dollar Index climbed about 0.3% to reclaims the 102 level, trading near 102.29 ahead of a series of central bank decisions by the Federal Reserve, European Central Bank, and Bank of Japan, which are widely expected to keep rates unchanged. Kevin Ford, FX and macro strategist at Convera, noted that the dollar rebounded and market sentiment on AI steadied after recent stock market turbulence. Meanwhile, Bank of America analysts led by Mark Cabana warned that a dovish hold by the Fed could expose the dollar to a larger decline. The euro fell about 0.3% to around $1.1136, pressured by high energy costs, French fiscal concerns, and a widening debt risk premium, while the dollar rose about 0.24% against the yen to approximately ¥157.9 amid signals of potential foreign exchange intervention by Japanese Finance Minister Satsuki Katayama.",
+      "summary_zh": "随着美联储、欧洲央行和日本央行即将公布利率决议且市场普遍预计按兵不动，美国美元指数在周二纽约尾盘上涨约0.3%并重回102关口，交投于102.29附近。 Convera外汇与宏观策略师Kevin Ford表示，在经历股市动荡后，美元已反弹且人工智能市场情绪有所趋稳。 同时美国银行以Mark Cabana为首的分析师团队指出，若美联储维持利率不变并释放鸽派基调，美元可能面临较大跌幅。 受高昂能源成本、法国财政担忧以及债务风险溢价扩大的影响，欧元兑美元下跌约0.3%至1.1136附近；而在日本财务大臣片山皋月重申准备采取果断干预措施后，美元兑日元上涨约0.24%至157.9左右。"
     },
     {
       "date": "2026.10.27",
-      "published_at": "2026-10-27T18:51:14+09:00",
-      "headline": "Dollar Forecast to Weaken in 2027 as AI Slowdown Invites Fed to Cut",
-      "source": "Pound Sterling Live",
-      "url": "https://www.poundsterlinglive.com/usd/23800-dollar-weaken-2027-ai-bust-fed-cuts-credit-agricole",
+      "published_at": "2026-10-27T21:23:11+09:00",
+      "headline": "Gold Below $4,000, Bitcoin Below $80,000: Why Safe Havens Failed in the AI-Stock Selloff",
+      "source": "Admirals",
+      "url": "https://admiralmarkets.com/analytics/traders-blog/gold-and-bitcoin-selloff-safe-havens-fail",
       "language": "English",
       "section": "宏观经济与投资 / Macro & Investment",
-      "summary": "Crédit Agricole warns that an AI boom-bust cycle is the biggest downside risk for the dollar in 2027, as it could lower Federal Reserve rate expectations. The dollar gained in 2026 from unhedged foreign inflows into AI-linked US stocks and credit, while tracking the two-year Treasury yield higher. A potential Democrat victory on November 3 could bring slower data centre expansion and tighter technology regulation, adding to growth and inflation headwinds and allowing the Fed to cut rates in the second half of 2027. Crédit Agricole's US economist expects growth to cool and inflation to slow in 2027, with the Fed cutting twice before year-end. Meanwhile, the Fed is expected to hold at 4.00%, and SEB puts December hike probability over 75%.",
-      "summary_zh": "法国农业信贷银行警告称，人工智能行业的繁荣与萧条周期是2027年美元面临的最大下行风险，因为这可能降低美联储的降息预期。 美元在2026年因未对冲的外资流入人工智能相关美股和信贷而上涨，并跟随两年期美债收益率走高。 11月3日民主党若获胜可能会放慢数据中心扩张步伐并收紧技术监管，加剧增长和通胀阻力，并允许美联储在2027年下半年降息。 该行美国经济学家预计2027年美国经济增长将冷却、通胀明显放缓，美联储将在年底前降息两次。 同时，预计美联储将在周三维持4.00%的利率不变，SEB估计12月加息概率超过75%。"
-    },
-    {
-      "date": "2026.10.27",
-      "published_at": "2026-10-27T17:34:38+09:00",
-      "headline": "Gold Price Today | XAUUSD Price Chart",
-      "source": "Mitrade",
-      "url": "https://www.mitrade.com/insights/markets/commodities/XAUUSD",
-      "language": "English",
-      "section": "宏观经济与投资 / Macro & Investment",
-      "summary": "Gold is a scarce, durable precious metal valued for thousands of years in jewelry, art, coinage, and industrial, medical, and religious applications. Formed in supernova explosions and Earth's formation, total historical mined gold is about 200,000 metric tons according to the World Gold Council. Traded globally 24/7 across hubs like London, New York, and Shanghai, gold is a popular financial asset with high liquidity used to hedge against inflation, currency fluctuations, and market risks due to its safe-haven status, low correlation with other asset classes, and accessibility via bullion, coins, ETFs, CFDs, futures, and options.",
-      "summary_zh": "黄金是一种稀有且耐久的贵金属，数千年来一直被用于珠宝、艺术品、铸币以及工业、医疗和宗教用途。 根据世界黄金协会的数据，人类历史上开采的黄金总量约为200,000公吨。 黄金在全球全天候交易，主要交易中心包括伦敦、纽约和上海，其具有高流动性，是投资者用来对冲通货膨胀、货币波动和市场风险的热门金融资产，具备避险属性，且与股票和债券等其他资产类别的相关性较低或呈负相关，可通过金条、硬币、ETF、CFD、期货和期权等多种渠道进行买卖。"
-    },
-    {
-      "date": "2026.10.27",
-      "published_at": "2026-10-27T16:31:35+09:00",
-      "headline": "Stocks Rise as Oil Falls Ahead of Tech Earnings, Fed Decision",
-      "source": "Global Banking & Finance Review",
-      "url": "https://www.globalbankingandfinance.com/asian-stocks-surge-anthropic-ipo-lifts-sentiment-ahead/",
-      "language": "English",
-      "section": "宏观经济与投资 / Macro & Investment",
-      "summary": "World stocks rose and oil prices slipped on Tuesday as investors awaited central bank meetings and US technology earnings, while oil trading experienced volatility amid Middle East tensions involving the Houthi-Saudi Arabia conflict, US-Israeli attack potentials, and discussions by Iran's leadership. Interactive Brokers chief strategist Steve Sosnick noted market anticipation for Federal Reserve and other central bank decisions, where the Fed, European Central Bank, and Bank of Japan are expected to keep interest rates steady. Wall Street indexes rose following Anthropic's IPO filing and upcoming megacap tech earnings from Microsoft, Amazon, and Alphabet, which could impact Meta Platforms' $95 billion equity fundraising and the Anthropic IPO. At 11:35 a. m. ET, the Dow Jones Industrial Average rose 57.72 points or 0.11% to 52,419.30, the S&P 500 rose 42.09 points or 0.55% to 7,718.86, the Nasdaq Composite rose 257.46 points or 0.98% to 26,425.66, MSCI's global index rose 0.55% to 1,129.34, and the STOXX 600 rose 0.49%. The dollar index rose 0.21% to 102.23, the euro fell 0.26% to $1.1143, and the dollar strengthened against the yen to 157.8. US 10-year Treasury yields rose 0.45 basis points to 4.991%, and 30-year bond yields rose 0.72 basis points to 5.3082%. US crude fell 1.6% to $100.14 a barrel, Brent dropped 1.68% to $113.86 a barrel, spot gold rose 1.01% to $4,056.82 an ounce, and spot silver rose 0.85% to $54.39 an ounce.",
-      "summary_zh": "由于投资者等待央行会议和美国科技股财报，全球股市周二上涨，油价下跌，同时中东紧张局势引发了石油交易的波动。 Interactive Brokers首席策略师史蒂夫·索斯尼克指出市场正等待美联储和其他央行的政策决定，市场预计美联储、欧洲央行和日本央行将维持利率不变。 在Anthropic提交IPO申请以及微软、亚马逊和Alphabet等大型科技公司即将公布财报的推动下，华尔街指数上涨，这些财报可能会影响Meta Platforms的$95 billion股权融资和Anthropic的IPO。 东部时间上午11:35，道琼斯工业平均指数上涨57.72点或0.11%，报52,419.30点；标普500指数上涨42.09点或0.55%，报7,718.86点；纳斯达克综合指数上涨257.46点或0.98%，报26,425.66点；明晟全球股票指数上涨0.55%，报1,129.34点；泛欧斯托克600指数上涨0.49%。 美元指数上涨0.21%，报102.23；欧元下跌0.26%，报$1.1143；美元对日元走强至157.8。 美国10年期国债收益率上升0.45个基点，报4.991%；30年期国债收益率上升0.72个基点，报5.3082%。 美国原油期货下跌1.6%，报$100.14每桶；布伦特原油下跌1.68%，报$113.86每桶；现货黄金上涨1.01%，报$4,056.82每盎司；现货白银上涨0.85%，报$54.39每盎司。"
-    },
-    {
-      "date": "2026.10.27",
-      "published_at": "2026-10-27T16:29:16+09:00",
-      "headline": "Dow Futures Eye 52,500 Breakout but High Oil, Inflation Risk Squeeze Corporate Margins",
-      "source": "FXLeaders",
-      "url": "https://www.fxleaders.com/news/2026/10/27/dow-futures-eye-52500-breakout-but-high-oil-inflation-risk-squeeze-corporate-margins/",
-      "language": "English",
-      "section": "宏观经济与投资 / Macro & Investment",
-      "summary": "The Dow Jones Industrial Average is trading between 52,300 and 52,900, influenced by softening economic data, including September payrolls printing below expectations at 29,000, which has prompted expectations of Federal Reserve rate cuts and reduced expectations for further rate hikes. A decisive breakout past 52,500 targets 55,000 and 57,000–59,000, while failure to hold 52,500 risks a pullback to 51,000–51,800. Sustained high oil prices with WTI crude near $101/bbl and Brent around $115/bbl due to Middle East supply concerns, combined with sticky inflation and 10-year Treasury yields hovering near 4.95%–4.98%, squeeze corporate margins across manufacturing, industrial, and consumer blue chips. The price-weighted Dow has shown resilience compared to high-valuation tech stocks through strength in defensive staples, payment networks, and select industrial constituents like Procter & Gamble raising revenue guidance.",
-      "summary_zh": "受经济数据疲软（如9月非农就业人数大幅低于预期仅为29,000人）的影响，道琼斯工业平均指数在52,300至52,900区间内交易，这促使市场产生了美联储将降息的预期，并降低了对进一步加息的预期。 突破52,500点可能将目标指向55,000点以及57,000至59,000点，而未能守住52,500点则面临回落至51,000至51,800区间的风险。 由于中东供应担忧导致WTI原油接近$101/bbl、布伦特原油在$115/bbl左右，加上持续的通胀以及10年期国债收益率在4.95%至4.98%附近徘徊，高油价和通胀风险挤压了制造业、工业和消费蓝筹股的企业利润率。 与高估值的科技股相比，价格加权的道指通过防御性必需消费品、支付网络以及宝洁等上调营收指引的特定工业成分股的强劲表现，展现出了相对的韧性。"
+      "summary": "Spot gold traded at $3,995.84, down 0.52%, and bitcoin closed at $79,722 following a sharp AI-stock selloff on 22 October 2026 that triggered margin calls and forced liquidations. Justin Lin of Global X described it as a liquidity-driven selloff as investors raised cash. Additional pressure came from Brent crude settling at $116.72 after Houthi attacks on Saudi energy sites, US September CPI rising 3.7% year-on-year, and a hawkish Federal Reserve that raised its target range to 3.75% to 4.00% on 16 September. US 10-year real yields stood at 2.66% on 26 October, increasing the opportunity cost of holding non-yielding gold.",
+      "summary_zh": "现货黄金交投于3995.84美元，跌幅0.52%，比特币收盘报79722美元。 此前在2026年10月22日发生的人工智能股票遭抛售引发了追加保证金通知和被迫平仓。 Global X的林Justin将其称为由流动性驱动的抛售，投资者借此筹集现金。 其他压力还包括：在胡塞武装袭击沙特能源设施后布伦特原油结算价达到116.72美元；美国9月CPI同比上涨3.7%；美联储于9月16日将目标区间上调至3.75%至4.00%。 10月26日美国10年期实际收益率为2.66%，这增加了持有无息黄金的机会成本。"
     },
     {
       "date": "2026.10.27",
@@ -265,8 +210,19 @@
       "url": "https://wkzo.com/2026/10/26/yen-slips-ahead-of-central-bank-bonanza-dollar-firms-on-tech-rebound/",
       "language": "English",
       "section": "宏观经济与投资 / Macro & Investment",
-      "summary": "The Japanese yen eased 0.1% to 157.66 per dollar on Tuesday, moving away from a one-month high, pressured by a risk-on mood and a weaker euro ahead of key central bank meetings. The Bank of Japan is expected to keep interest rates steady at 1.25% in its two-day meeting ending Friday, though increasing price pressures, such as a 3.7% rise in September service-sector inflation, may signal future rate hikes, as noted by OCBC currency strategist Moh Siong Sim and Ebury analysts. Meanwhile, the dollar index held near a two-week high at 102.11 due to a tech-led Wall Street rebound following Anthropic's IPO filing and Meta's $95 billion equity plan. The euro fell to a near two-week low of $1.1171, down about 1.4% for the month, pressured by French fiscal health and bond selloffs. The Brazilian real stabilized after President Luiz Inacio Lula da Silva won a fourth term against Senator Flavio Bolsonaro, and the New Zealand dollar rose 0.4% to 0.5702 ahead of an expected quarter-point rate hike by New Zealand's central bank to 3.0%.",
-      "summary_zh": "周二，日元兑美元汇率下跌0.1%至157.66，远离一个月高点，在关键央行会议召开前受风险偏好情绪和欧元走软的压制。 市场预计日本央行将在周五结束的两天会议上维持1.25%的利率不变，但9月服务业通胀同比上升3.7%等不断加剧的价格压力可能暗示未来会继续加息，正如华侨银行外汇策略师莫锡松（Moh Siong Sim）和Ebury分析师所指出。 与此同时，受Anthropic提交IPO计划和Meta的$95 billion股权计划引发的华尔街科技股反弹推动，美元指数维持在102.11的两周高位附近。 由于法国财政状况引发担忧并导致债券遭到抛售，欧元跌至近两周低点$1.1171，本月累计跌幅约1.4%。 在路易斯·伊纳西奥·卢拉·达席尔瓦击败参议员弗拉维奥·博尔索纳罗赢得第四个总统任期后，巴西雷亚尔趋于稳定；在新西兰央行预计将官方现金利率上调0.25个百分点至3.0%之前，新西兰元兑美元上涨0.4%至0.5702。"
+      "summary": "The Japanese yen eased 0.1% against the US dollar to 157.66 on Tuesday, moving away from a one-month high amid a risk-on mood supported by a tech-led Wall Street rebound following Anthropic's IPO filing and Meta's $95 billion equity plan. The Bank of Japan is widely expected to keep interest rates steady at 1.25% in its upcoming meeting, though a key gauge of service-sector inflation rose 3.7% in September. OCBC currency strategist Moh Siong Sim noted the yen's potential as a safe-haven hedge could rise next year. Meanwhile, the dollar index held near 102.11, the euro fell to a near two-week low of $1.1171 due to French fiscal worries, and the New Zealand dollar rose 0.4% to 0.5702 ahead of an expected quarter-point rate hike.",
+      "summary_zh": "受Anthropic提交IPO申请以及Meta推出950亿美元股权计划带动的华尔街科技股反弹所引发的风险偏好情绪影响，周二日元兑美元汇率下跌0.1%至157.66，进一步远离上周创下的一个月高点。 市场普遍预计日本央行将在即将召开的会议上维持1.25%的利率不变，尽管9月服务业通胀关键指标同比上升了3.7%。 华侨银行外汇策略师沈茂雄指出，日元作为避险对冲工具的价值明年可能会上升。 与此同时，美元指数维持在102.11附近，受法国财政担忧影响欧元跌至近两周新低的1.1171美元，而纽元则在预期加息25个基点的背景下上涨0.4%至0.5702。"
+    },
+    {
+      "date": "2026.10.27",
+      "published_at": "2026-10-27T21:06:32+09:00",
+      "headline": "【US Pre-Market】US Stock Futures Rise Across the Board, Celestica Surges Over 15%, Gold Fluctuates Around $4,000, Bitcoin Drops Below $80,000 Level",
+      "source": "TradingKey",
+      "url": "https://www.tradingkey.com/analysis/stocks/us-stocks/262242150-us-ko-meta-spacex-nvda-intc-tradingkey",
+      "language": "English",
+      "section": "宏观经济与投资 / Macro & Investment",
+      "summary": "US stock index futures rose premarket on October 27, with Dow futures up 0.21%, S&P 500 futures gaining 0.23%, and Nasdaq 100 futures rising 0.34%. Celestica surged over 15% after reporting third-quarter revenue of $5.83 billion, up 83% year-over-year, and non-GAAP adjusted EPS of $3.30, while raising its full-year 2026 revenue guidance to $21 billion and issuing a 2027 revenue target of $40 billion. HSBC fell over 6% after reporting third-quarter revenue of $18.62 billion and EPS of $0.42, both missing market expectations despite a 32% rise in pre-tax profit to $9.6 billion. In commodities, Brent crude stood at $109.96 and WTI crude at $100.71, while gold traded at $4,009 and Bitcoin dropped below $80,000 to $79,854.7 ahead of the Federal Reserve's rate decision.",
+      "summary_zh": "10月27日盘前，美股三大股指期货全线上涨，道指期货涨0.21%，标普500期货涨0.23%，纳斯达克100期货涨约0.34%。 天弘科技股价飙升超过15%，该公司公布第三季度营收达$5.83 billion，同比增长83%，非美国通用会计准则调整后每股收益为3.30美元，同时将2026全年营收指引上调至210亿美元并首次给出400亿美元的2027年营收目标。 汇丰控股股价下跌超过6%，其第三季度营收为186.2亿美元，每股收益为0.42美元，尽管税前利润同比增长32%至96亿美元，但两项指标均逊于市场预期。 在大宗商品方面，布伦特原油报109.96美元，WTI原油报100.71美元，黄金交投于4009美元，在美联储公布利率决议前比特币跌破80000美元至79854.7美元。"
     }
   ]
 }
