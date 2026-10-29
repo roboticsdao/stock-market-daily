@@ -1,30 +1,52 @@
 {
   "kind": "market",
-  "updated_at": "2026-10-30T02:44:12.123112+09:00",
+  "updated_at": "2026-10-30T03:58:05.560319+09:00",
   "status": {
-    "state": "partial",
-    "checked_at": "2026-10-30T02:44:12.123112+09:00",
-    "latest_article_at": "2026-10-30T02:22:13+09:00",
-    "articles": 18,
+    "state": "ok",
+    "checked_at": "2026-10-30T03:58:05.560319+09:00",
+    "latest_article_at": "2026-10-30T03:22:37+09:00",
+    "articles": 19,
     "sections": {
-      "美国股市 / US Market": 6,
+      "美国股市 / US Market": 7,
       "日本株式市場 / Japan Market": 6,
       "宏观经济与投资 / Macro & Investment": 6
     },
     "shortfalls": {},
-    "translations_missing": 5
+    "translations_missing": 0
   },
   "articles": [
     {
       "date": "2026.10.30",
-      "published_at": "2026-10-30T02:22:13+09:00",
-      "headline": "Intel Drops 4% Ahead of Earnings as Foundry Hopes Fade; Alphabet Tumbles 12%, Microsoft Edges Lower",
-      "source": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/2026/10/29/intel-drops-4-ahead-of-earnings-as-foundry-hopes-fade-alphabet-tumbles-12-microsoft-edges-lower/",
+      "published_at": "2026-10-30T03:22:37+09:00",
+      "headline": "Nasdaq: Why Companies Are Choosing Us",
+      "source": "finchannel",
+      "url": "https://finchannel.com/nasdaq-why-companies-are-choosing-us/139960/opinion/2026/10/",
       "language": "English",
       "section": "美国股市 / US Market",
-      "summary": "Intel shares dropped 4% to $92.04 ahead of its Q3 2026 earnings report, compounding a 20% monthly decline. The pressure followed Elon Musk's Terafab initiative confirming active discussions with Taiwan Semiconductor Manufacturing for a dedicated fabrication plant, undermining Intel's foundry positioning. In Q2 2026, Intel Foundry grew revenue 31% to $5.76 billion but posted a $2.1 billion operating loss. Analysts cited weak PC shipments and Taiwan Semiconductor advanced packaging price increases. Alphabet reported Q3 2026 revenue of $127.58 billion, up 24.6% year over year, missing expectations and sending its stock down 12% to $284.82 after an $8.7 billion equity loss and $51.36 billion in capital expenditures, despite Google Cloud revenue surging 103% to $30.71 billion. Microsoft reported Q1 FY2027 revenue rose 18.8% to $92.28 billion with adjusted earnings of $4.89 per share, though it guided Windows OEM and devices revenue to fall in the mid-30s percentage range in Q2 FY2027, contributing to broader tech sector declines.",
-      "summary_zh": "在发布2026年第三季度财报前，英特尔股价下跌4%至$92.04，月跌幅扩大至20%。 埃隆·马斯克的Terafab项目确认正与台积电洽谈建设专用晶圆厂，对英特尔的代工定位造成冲击。 2026年第二季度，英特尔代工业务营收增长31%至$5.76 billion，但运营亏损达$2.1 billion。 分析师提到了个人电脑出货量疲软及台积电先进封装涨价的因素。 Alphabet公布2026年第三季度营收为$127.58 billion，同比增长24.6%，略低于预期，因$8.7 billion的股权证券损失及$51.36 billion的资本支出，股价下跌12%至$284.82，尽管谷歌云营收飙升103%至$30.71 billion。 微软公布2027财年第一季度营收增长18.8%至$92.28 billion，调整后每股收益为$4.72超预期，但其预计2027财年第二季度Windows原始设备制造商及设备营收将下降30%至40%之间的中段，拖累科技板块走低。"
+      "summary": "As U. S. market structure evolved to allow trading across multiple venues, Nasdaq has emerged as a leading listing partner by focusing on market quality, liquidity, investor intelligence, technology, index innovation, and visibility. Since 2005, over 540 companies representing approximately $4 trillion in market value have switched their listings to Nasdaq, spanning industries such as energy, healthcare, financials, and materials. Recently, General Motors and Hilton announced plans to transfer their stock listings from the New York Stock Exchange to Nasdaq. Jeff Thomas, Nasdaq Executive Vice President, Chief Revenue Officer and Global Head of Listings, noted that companies want a listing venue that acts as an active technology partner and market operator supporting modern market infrastructure.",
+      "summary_zh": "随着美国市场结构的演变，企业的股票可以在全天通过多个交易场所进行交易，纳斯达克凭借其在市场质量、流动性、投资者情报、技术、指数创新和知名度方面的优势，成为了领先的上市合作伙伴。 自2005年前后以来，已有540多家总市值约达$4 trillion的公司将其上市转至纳斯达克，涵盖能源、医疗保健、金融和材料等多个行业。 最近，通用汽车和希尔顿均宣布计划将其股票上市从纽约证券交易所转移至纳斯达克。 纳斯达克执行副总裁、首席营收官兼全球上市主管杰夫·托马斯表示，公司希望上市地点不仅仅是一个代码归属地，更应该是一个投资现代市场基础设施的技术合作伙伴与市场运营者。"
+    },
+    {
+      "date": "2026.10.30",
+      "published_at": "2026-10-30T02:45:52+09:00",
+      "headline": "Tesla Just Gained 13% in a Month: Take Profits, or Buy More?",
+      "source": "TIKR.com",
+      "url": "https://www.tikr.com/blog/tesla-just-gained-13-in-a-month-take-profits-or-buy-more",
+      "language": "English",
+      "section": "美国股市 / US Market",
+      "summary": "Tesla stock climbed 13% over the past month, driven by a delivery beat, talks of a potential SpaceX merger, a Barclays upgrade, and robotaxi developments. In the third quarter, Tesla delivered 486,532 vehicles, down 2% year over year but above analysts' expectations. Meanwhile, SpaceX reported a third-quarter revenue increase of 161% to $14.6 billion. During an October 20 call, Elon Musk confirmed that both companies formed special committees of independent directors to evaluate a merger. Barclays analyst Dan Levy upgraded Tesla to Overweight with a $450 price target, though no transaction terms have been finalized. Tesla's third-quarter GAAP net income fell to $787 million from $1.37 billion, and free cash flow dropped to $1.53 billion from $3.99 billion, while revenue remained flat at $28.05 billion.",
+      "summary_zh": "受交付量超预期、关于SpaceX可能进行合并的讨论、巴克莱银行上调评级以及自动驾驶出租车相关消息的推动，特斯拉股价在过去一个月内上涨了13%。 第三季度，特斯拉交付了486,532辆汽车，较去年同期下降2%，但高于分析师的预期。 与此同时，SpaceX第三季度营收增长161%至$14.6 billion。 在10月20日的电话会议上，埃隆·马斯克证实两家公司已成立由独立董事组成的特别委员会来评估合并事宜。 巴克莱分析师丹·列维将特斯拉评级上调至增持，并将目标价从$370上调至$450，尽管目前尚未敲定任何交易条款。 特斯拉第三季度GAAP净利润从去年同期的$1.37 billion下降至$787 million，自由现金流从$3.99 billion降至$1.53 billion，而营收则持平于$28.05 billion。"
+    },
+    {
+      "date": "2026.10.30",
+      "published_at": "2026-10-30T02:03:00+09:00",
+      "headline": "Wall Street’s Broadcom Target Sits Above Its 52-Week High. Is the Street Right?",
+      "source": "24/7 Wall St.",
+      "url": "https://247wallst.com/investing/2026/10/29/wall-streets-broadcom-target-sits-above-its-52-week-high-is-the-street-right/",
+      "language": "English",
+      "section": "美国股市 / US Market",
+      "summary": "Wall Street analysts hold a consensus price target for Broadcom of $529.10, implying a 55.5% upside above its recent price and surpassing its 52-week high of $493.28, with coverage leaning heavily bullish. Meanwhile, 24/7 Wall St. set a price target of $408.73 with a buy rating, pointing to strong AI revenue growth. In fiscal Q3 results reported on September 2, Broadcom's non-GAAP EPS reached $3.32, beating estimates, and revenue rose 85.5% year over year to $29.59 billion, driven by AI semiconductor revenue of $16.70 billion. Management expects AI revenue of about $115 billion in fiscal 2027 and $230 billion in fiscal 2028, while forecasting fiscal 2028 earnings per share to exceed $30. Risks noted include gross margin compression to 75% in Q3 and customer concentration across six XPU customers.",
+      "summary_zh": "华尔街分析师对博通给出的平均目标价为$529.10，较近期价格暗示55.5%的上涨空间，并超过了$493.28的52周高点，分析师评级高度偏向看涨。 同时，24/7 Wall St. 设定的目标价为$408.73并给予买入评级，指出其人工智能营收增长强劲。 在9月2日公布的第三财季财报中，博通非GAAP每股收益达到$3.32，超出预期，营收同比增长85.5%至$29.59 billion，其中人工智能半导体营收达到$16.70 billion。 管理层预计2027财年的人工智能营收约为$115 billion，2028财年约为$230 billion，并预测2028财年每股收益将超过$30。 需注意的风险包括第三季度毛利率降至75%以及客户集中在六个XPU客户身上。"
     },
     {
       "date": "2026.10.30",
@@ -34,19 +56,8 @@
       "url": "https://247wallst.com/investing/2026/10/29/micron-is-up-225-this-year-and-still-trades-at-5-times-earnings-is-it-too-late/",
       "language": "English",
       "section": "美国股市 / US Market",
-      "summary": "Micron Technology stock is up 221.96% year to date and trades at about 5x forward earnings, sitting 26.8% below its 52-week high of $1,254.61. For fiscal Q4, Micron reported revenue of $54.23 billion, up 379.27% year over year, beating the $50.97 billion estimate, alongside non-GAAP EPS of $33.42 and a gross margin of 87%. For fiscal Q1 2027, management guided to revenue of $61.5 billion plus or minus $1.5 billion and EPS of $38.15 plus or minus $1.00. Management stated its technology is at least two nodes ahead of Chinese competition. Micron has committed over 75% of fiscal 2027 shipments and signed 26 Strategic Customer Agreements through 2030, including a co-designed HBM4E product with NVIDIA. Capital expenditures reached $30.71 billion in fiscal 2026, while the company generated $62.31 billion in free cash flow.",
-      "summary_zh": "美光科技今年迄今已上涨221.96%，目前市盈率约为未来盈利的5倍，股价较$1,254.61的52周高点下跌26.8%。 在第四财季中，美光营收达到$54.23 billion，同比增长379.27%，超过$50.97 billion的预期，非美国通用会计准则每股收益为$33.42，毛利率扩大至87%。 对于2027财年第一季度，管理层预计营收为$61.5 billion正负$1.5 billion，每股收益为$38.15正负$1.00。 管理层表示其技术领先中国竞争对手至少两个节点。 美光已锁定2027财年逾75%的出货量，并签署了26份延续至2030年的战略客户协议，其中包括与英伟达合作设计的高带宽内存HBM4E产品。 其2026财年资本支出达到$30.71 billion，自由现金流为$62.31 billion。"
-    },
-    {
-      "date": "2026.10.30",
-      "published_at": "2026-10-30T01:37:10+09:00",
-      "headline": "Tesla Stock Quotes, Company News And Chart Analysis",
-      "source": "Investor's Business Daily",
-      "url": "https://www.investors.com/news/technology/tesla-motors-stock-quotes-company-news-and-chart-analysis/",
-      "language": "English",
-      "section": "美国股市 / US Market",
-      "summary": "Tesla broke out into a buy range on Tuesday after clearing a long-term trendline following aggressive moves, with Musk touting a Cybercab fleet expansion.",
-      "summary_zh": "特斯拉在经历激进走势并突破长期趋势线后，于周二进入买入区间，马斯克吹捧了Cybercab车队的扩张。"
+      "summary": "Micron Technology's stock is up 221.96% year to date, trading at approximately five times forward earnings while sitting 26.8% below its 52-week high of $1,254.61. For fiscal Q4, Micron reported revenue of $54.23 billion, up 379.27% year over year, and non-GAAP EPS of $33.42, with gross margin expanding to 87%. For fiscal Q1 2027, management projected revenue of $61.5 billion and EPS of $38.15. The company has committed more than 75% of fiscal 2027 shipments and signed 26 Strategic Customer Agreements running through 2030, alongside a co-designed HBM4E product with NVIDIA. The 24/7 Wall St. price target for Micron is set at $987.56 with a buy rating, balanced against capital expenditures of $30.71 billion in FY26 and cyclical memory market risks.",
+      "summary_zh": "美光科技股价今年迄今已上涨221.96%，目前的市盈率约为未来预期收益的5倍，比$1,254.61的52周高点低26.8%。 美光第四财季营收为$54.23B，同比增长379.27%，非GAAP每股收益为$33.42，毛利率扩大至87%。 对于2027财年第一财季，管理层预计营收为$61.5B，每股收益为$38.15。 该公司已承诺了2027财年75%以上的出货量，并签署了持续到2030年的26项战略客户协议，同时与英伟达合作开发了HBM4E产品。 24/7 Wall St. 对美光的目标价定为$987.56并给予买入评级，同时权衡了2026财年$30.71B的资本支出以及周期性存储器市场的风险。"
     },
     {
       "date": "2026.10.30",
@@ -56,30 +67,30 @@
       "url": "https://www.investors.com/news/stock-market-today-stock-market-news/",
       "language": "English",
       "section": "美国股市 / US Market",
-      "summary": "The Nasdaq posted losses around midday Thursday as investors reacted to an Alphabet earnings report showing lower ad revenue for its search business and investment losses.",
-      "summary_zh": "周四盘中，纳斯达克指数持续下跌，投资者对Alphabet发布的财报作出反应，该财报显示其搜索业务广告收入下降并出现投资亏损。"
+      "summary": "Investor gloom deepened during Thursday afternoon trade after a surprising report from Alphabet caused shares of the search giant to head toward their largest single-day drop on record, weighing heavily on technology stocks.",
+      "summary_zh": "周四下午交易时段，由于Alphabet发布了一份令人意外的报告，导致这家搜索巨头的股价遭遇有记录以来最大单日跌幅，并对科技股造成沉重打击，投资者的悲观情绪进一步加深。"
     },
     {
       "date": "2026.10.29",
-      "published_at": "2026-10-29T21:39:43+09:00",
-      "headline": "US Stock Market Today: S&P 500 Futures Dip As Key PCE And GDP Loom",
+      "published_at": "2026-10-29T21:45:51+09:00",
+      "headline": "Nvidia (NVDA) Faces DOJ Antitrust Probe Over $12.9 Billion AI Deal",
       "source": "Simply Wall St",
-      "url": "https://simplywall.st/stocks/us/software/nasdaq-ffiv/f5/news/us-stock-market-today-sp-500-futures-dip-as-key-pce-and-gdp",
+      "url": "https://simplywall.st/stocks/us/semiconductors/nasdaq-nvda/nvidia/news/nvidia-nvda-faces-doj-antitrust-probe-over-129-billion-ai-de",
       "language": "English",
       "section": "美国股市 / US Market",
-      "summary": "U. S. stocks prepared for a cautious open on Thursday, October 29, 2026, as inflation and key economic data took center stage. Economists expect the September PCE price index to rise 0.5% month on month and core PCE 0.3%, with annual headline PCE projected at 3.6% and core at 3.1%. The advance Q3 GDP report is projected at 3.2% annualized. In corporate developments, a hacker group claimed to leak records on over 40,000 U. S. Department of Homeland Security employees via an Okta single sign-on system. Visa expanded an agreement with Tencent after receiving People’s Bank of China approval for a domestic bank card clearing business. A Bitcoin whale transferred 438.37 BTC, valued at about US$35 million, to Coinbase Prime at a reported US$15 million paper loss, while Ripple’s RLUSD stablecoin launched across Coinbase venues under a new national trust bank charter. Market movers included Vertiv Holdings jumping 16.48% on strong Q3 results and raised guidance, Flex surging 11.61% on strong Q2 results and Axiom spin-off progress, Oracle rallying 10.73% following Investor Day targets, F5 falling 20.43% on weaker fiscal 2027 guidance, LPL Financial declining 15.23%, and Baker Hughes dropping 7.36%.",
-      "summary_zh": "随着通胀和关键经济数据成为焦点，2026年10月29日周四美国股市开盘前情绪谨慎。 经济学家预计9月PCE价格指数环比上涨0.5%，核心PCE上涨0.3%，年度整体PCE预计为3.6%，核心PCE为3.1%。 第三季度预估GDP年化增长率预计为3.2%。 在企业动态方面，一个黑客组织声称通过Okta单点登录系统泄露了逾40,000名美国国土安全部员工的记录。 Visa在获得中国人民银行批准筹备境内银行卡清算业务后，扩大了与腾讯的协议。 一个比特币巨鲸向Coinbase Prime转入了438.37枚BTC，价值约US$35 million，账面亏损约为US$15 million，同时瑞波的RLUSD稳定币在新的国家信托银行特许下上线Coinbase各大平台。 市场主要波动个股中，Vertiv Holdings因第三季度业绩超预期并上调全年指引而大涨16.48%，Flex因第二季度业绩强劲及Axiom分拆进展飙升11.61%，甲骨文在投资者日公布目标后大涨10.73%，F5因2027财年指引疲软下跌20.43%，LPL Financial下跌15.23%，贝克休斯下跌7.36%。"
+      "summary": "NVIDIA operates as a data center scale AI infrastructure company across the United States, Taiwan, China, Hong Kong, Europe, and internationally. The company features exceptional growth potential and a flawless balance sheet while handling data center scale artificial intelligence infrastructure workloads.",
+      "summary_zh": "NVIDIA在美国、台湾、中国、香港、欧洲及国际市场运营数据中心规模的人工智能基础设施业务。 该公司展现出卓越的增长潜力和完美的资产负债表，同时处理数据中心规模的人工智能基础设施工作负载。"
     },
     {
       "date": "2026.10.29",
-      "published_at": "2026-10-29T16:35:00+09:00",
-      "headline": "Chip Stocks Slide as Samsung Profit Misses and Big Tech Trims AI Spending Plans",
-      "source": "BigGo Finance",
-      "url": "https://finance.biggo.com/news/22102caf-8dc7-4ff7-bf1b-c8eccab17461",
+      "published_at": "2026-10-29T19:20:00+09:00",
+      "headline": "The stock market is flashing a bubble warning seen prior to dot-com crash, Bank of America warns",
+      "source": "Business Insider",
+      "url": "https://www.businessinsider.com/stock-market-bubble-warning-dot-com-defenisve-stocks-2026-10",
       "language": "English",
       "section": "美国股市 / US Market",
-      "summary": "Semiconductor shares fell in overnight trading following weaker-than-expected quarterly profit from Samsung Electronics and reduced capital expenditure forecasts from major AI hardware buyers. Micron Technology dropped 3.4%, Intel lost 3.3%, and Broadcom and Advanced Micro Devices each slipped about 2.8%, while the iShares Semiconductor ETF declined 2.5%. Samsung reported September-quarter net profit of 75.136 trillion won (approximately $56.3 billion) against expectations of 86.13 trillion won (approximately $64.5 billion), with revenue reaching a record 195.253 trillion won (approximately $146.2 billion). Meanwhile, Microsoft reported $45.2 billion in capital expenditures, below estimates of $50.7 billion, and Alphabet posted $51.36 billion in spending against a $55.09 billion forecast. Alphabet also missed revenue expectations with $127.58 billion and recorded negative $9.07 billion in free cash flow, causing its shares to fall nearly 10% in after-hours trading. Market attention turns to upcoming earnings reports from Intel and Amazon.",
-      "summary_zh": "受三星电子季度利润逊于预期以及主要人工智能硬件买家削减资本支出计划影响，半导体股票在盘后交易中下跌。 美光科技下跌3.4%，英特尔下跌3.3%，博通和超微半导体均下滑约2.8%，iShares半导体ETF下跌2.5%。 三星公布9月季度净利润为75.136 trillion won（约合$56.3 billion），低于FactSet追踪分析师预期的86.13 trillion won（约合$64.5 billion），营收则达到创纪录的195.253 trillion won（约合$146.2 billion）。 同时，微软上季度资本支出为$45.2 billion，低于StreetAccount估计的$50.7 billion；Alphabet支出为$51.36 billion，预期为$55.09 billion。 Alphabet营收为$127.58 billion且自由现金流为负$9.07 billion，导致其股价在盘后交易中下跌近10%。 市场焦点转向英特尔和亚马逊即将发布的财报。"
+      "summary": "Bank of America analysts stated that the stock market is showing a bubble-like pattern similar to the period leading up to the dot-com crash, marked by an explosive rally in defensive sectors. Healthcare, materials, and consumer staples are up 15%, 14%, and 12% respectively this year, while energy surged 52% due to the Iran war and high oil prices. BofA analysts noted that similar dynamics appeared before historic market peaks and pushed their Bubble Risk Indicator towards risky levels. Treasury yields have fallen amid an AI trade sell-off, reflecting expectations of lower interest rates or a growth shock.",
+      "summary_zh": "美国银行分析师表示，股市正呈现出类似于互联网泡沫破裂前的泡沫化走势，其特点是防御性板块出现爆发式反弹。 今年迄今，医疗保健、材料和必需消费品板块分别上涨15%、14%和12%，而能源板块则因伊朗战争和石油价格的历史性飙升而大涨52%。 美银分析师指出，类似的动态曾出现在历史市场高点之前，并将该行的泡沫风险指标推向了危险水平。 在人工智能交易遭到抛售之际，美国国债收益率有所下降，反映出市场对利率走低或增长冲击的预期。"
     },
     {
       "date": "2026.10.30",
@@ -89,8 +100,8 @@
       "url": "https://www.gaitame.com/media/entry/2026/10/30/005014",
       "language": "Japanese",
       "section": "日本株式市場 / Japan Market",
-      "summary": "日経平均株価は大幅続伸となり、3日連続の陽線を形成して10日移動平均線の63861円や一目均衡表の転換線の63433円を明確に上回った。 RSI（9日）は46.5％から45.0％へ上昇し、7月29日安値の60448円を始点に9月14日安値の62726円を通る右上がりの抵抗線まで上昇した。 上値メドには心理的節目の65000円、25日移動平均線の66182円、10月14日安値の67533円、心理的節目の68000円などが挙げられ、下値メドには10日移動平均線、5日移動平均線の63352円、心理的節目の62000円、200日移動平均線の61725円、心理的節目の61000円などが意識されている。",
-      "summary_zh": "日经平均股价大幅连续上涨，形成连续3天的阳线，明确突破了10日移动平均线63861日元及一目均衡表的转换线63433日元。 9日RSI从46.5%上升至45.0%，并触及以7月29日低点60448日元为起点、经9月14日低点62726日元的向上倾斜抵抗线。 上方目标位包括心理关口65000日元、25日移动平均线66182日元、10月14日低点67533日元以及心理关口68000日元等，下方目标位则有10日移动平均线、5日移动平均线63352日元、心理关口62000日元、200日移动平均线61725日元及心理关口61000日元等。"
+      "summary": "日経平均株価は大幅続伸し、3日連続の陽線を形成して10日移動平均線の63861円や一目均衡表の転換線の63433円を明確に上回った。 RSIは45.0%に上昇し、7月29日安値の60448円を始点に9月14日安値の62726円を通る右上がりの抵抗線まで上昇した。 上値メドとしては心理的節目の65000円や25日移動平均線、10月14日安値の67533円などが挙げられ、下値メドには10日移動平均線や5日移動平均線の63352円、200日移動平均線の61725円などが想定されている。",
+      "summary_zh": "日经平均股价大幅连续上涨，形成连续三个交易日的阳线，明确超过了10日移动平均线的63861日元以及一目均衡表转换线的63433日元。 RSI升至45.0%，并触及由7月29日低点60448日元起步、经9月14日低点62726日元的右上方抵抗线。 上方目标位包括心理关口65000日元、25日移动平均线及10月14日低点67533日元等，下方目标位则预计有10日移动平均线、5日移动平均线的63352日元以及200日移动平均线的61725日元等。"
     },
     {
       "date": "2026.10.29",
@@ -100,8 +111,8 @@
       "url": "https://www.nikkei.com/article/DGXZQOFL28BAZ0Y6A021C2000000/",
       "language": "Japanese",
       "section": "日本株式市場 / Japan Market",
-      "summary": "29日の東京株式市場で日経平均株価は3日続伸し、前日比705円28銭（1.10%）高の6万4659円47銭で取引を終えた。 指数寄与度の大きいアドバンテストが前日に発表した業績予想の上方修正などを好感され、同社株だけで日経平均を約450円押し上げた。 韓国総合株価指数が午後に下げ幅を縮小する中、短期筋による日経平均先物への買いも入り、上げ幅は一時900円に迫った。 サムスン電子が午前に発表した26年7〜9月期決算の確報値を受けて一時は下げる場面もあったが、短期筋の先物買いや個人投資家の押し目買いで後場に持ち直した。 東証プライムの売買代金は概算で13兆8657億円と約4カ月ぶりの高水準となり、東証株価指数は小幅に反発して4003.28で終えた。",
-      "summary_zh": "29日的东京股市中，日经平均股价连续第三天上涨，比前一交易日上涨705日元28钱（1.10%），收于6万4659日元47钱。 指数权重较大的爱德万测试前一日公布的上调业绩预期等利好受到市场欢迎，仅该公司一只股票就将日经平均指数推高了约450日元。 在韩国综合股价指数于午后缩小跌幅的背景下，短线资金对日经平均股指期货的买盘也十分显眼，日经平均指数涨幅曾一度逼近900日元。 三星电子于上午公布2026年7至9月期财报确报值后，指数虽一度下跌，但随后因短线资金的期货买盘及个人投资者的低吸买盘在午盘后回升。 东证普兰市场的成交额估算为13兆8657亿日元，创下约4个月以来的最高水平，东证股价指数小幅反弹并以4003.28收盘。"
+      "summary": "29日の東京株式市場で日経平均株価は3日続伸し、前日比705円28銭高の6万4659円47銭で終えた。 指数寄与度の大きいアドテストが前日に発表した業績予想の上方修正などで好感され、同社だけで日経平均を450円ほど押し上げた。 サムスン電子が29日午前に発表した2026年7〜9月期決算の確報値を受けてKOSPIが下落して一時日経平均も下げる場面があったが、短期筋による先物買いや押し目買いが入り後場に持ち直した。 東証プライムの売買代金は概算で13兆8657億円と約4カ月ぶりの高水準となった。",
+      "summary_zh": "29日的东京股市中，日经平均股价连续第三个交易日上涨，收盘比前一日上涨705日元28钱，报6万4659日元47钱。 指数权重较大的爱德测试因前一日公布的业绩预期上调等利好受到欢迎，仅该公司就将日经平均推高了约450日元。 三星电子于29日上午公布2026年7至9月财年决算确报值后，韩国综合股价指数下跌，导致日经平均一度下跌，但在短线资金的期货买盘和逢低买入支撑下，午后得以回升。 东证主板市场的成交额估算为13万8657亿日元，创下约四个月来的最高水平。"
     },
     {
       "date": "2026.10.29",
@@ -111,19 +122,8 @@
       "url": "https://www.nikkei.com/article/DGXZQOFL295DN0Z21C26A0000000/",
       "language": "Japanese",
       "section": "日本株式市場 / Japan Market",
-      "summary": "コマツは後場に急落し、前日比525円（7.70%）安の6290円まで下落して7月21日以来約3カ月ぶりの安値を付けた。 29日午後2時30分に、2027年3月期（今期）の連結純利益（米国会計基準）が前期比1%増の3820億円になりそうだと発表した。",
-      "summary_zh": "小松在午盘后急剧下跌，比前一日下跌525日元（7.70%），跌至6290日元，创下自7月21日以来约3个月的新低。 公司在29日下午2点30分宣布，预计2027年3月期（本财年）的合并净利润（美国会计准则）将比上一财年增长1%至3820亿日元。"
-    },
-    {
-      "date": "2026.10.29",
-      "published_at": "2026-10-29T20:56:00+09:00",
-      "headline": "ソフトバンクグループ(株)【9984】：掲示板",
-      "source": "Yahoo!ファイナンス",
-      "url": "https://finance.yahoo.co.jp/quote/9984.T/forum",
-      "language": "Japanese",
-      "section": "日本株式市場 / Japan Market",
-      "summary": "Yahoo! ファイナンスの掲示板ではソフトバンクグループの株価動向や決算、地政学リスクを巡り、ユーザー間で強気と弱気が激しく対立する意見が投稿されている。 Armの時間外での値動きやナスダック先物の下落、米国のインテルやアマゾンの決算発表を前にした警戒感が示される一方、ウクライナやイランを巡る情勢、信用買い残の積み上がりに対する懸念も語られている。 Googleの決算におけるフリーキャッシュフローの赤字やAI投資を巡る議論も言及され、翌日の相場展開を見極めようとする投稿が相次いでいる。",
-      "summary_zh": "在雅虎财经的公告栏上，围绕软银集团的股价走势、财报以及地缘政治风险，用户们发表了多空意见激烈对立的言论。 一方面表现出对Arm盘后走势、纳斯达克期货下跌以及美国英特尔和亚马逊财报发布前的警惕感，另一方面也提及了对乌克兰和伊朗局势以及信用买入余额不断累积的担忧。 同时，公告栏中还谈到了谷歌财报中的自由现金流赤字及人工智能投资的相关讨论，有关评估次日市场走势的帖子接连不断。"
+      "summary": "コマツが後場に急落し、前日比525円安の6290円まで下落して7月21日以来約3カ月ぶりの安値を付けた。 コマツは29日午後2時30分に、2027年3月期の連結純利益が前期比1%増の3820億円になりそうだと発表した。",
+      "summary_zh": "小松制作所股价在午后急剧下跌，较前一日下跌525日元至6290日元，创下7月21日以来约三个月的新低。 小松于29日下午2点30分宣布，预计2027年3月期的合并净利润将比上一财年增长1%至3820亿日元。"
     },
     {
       "date": "2026.10.29",
@@ -133,8 +133,8 @@
       "url": "https://www.nikkei.com/article/DGXZQOFL28BBY0Y6A021C2000000/",
       "language": "Japanese",
       "section": "日本株式市場 / Japan Market",
-      "summary": "29日の東京株式市場で日経平均株価は3日続伸し、前日比705円28銭（1.10%）高の6万4659円47銭で終えた。 指数寄与度の大きいアドテストが前日に発表した業績予想の上方修正などが好感された。 半導体比率が高い韓国総合株価指数（KOSPI）が午後に下げ幅を縮小する場面では、短期筋による日経平均先物への買いも目立ち、日経平均の上げ幅は一時900円近くに迫った。 〔日経QUICKニュース（NQN）〕 権限不足のため、フォローできません 入力いただいたメールアドレスにメールを送付しました。 メールのリンクをクリックすると記事全文をお読みいただけます。 エラーが発生し、登録できませんでした。 ニュースレターの登録に失敗しました。 ご覧頂いている記事は、対象外になっています。 入力いただきましたメールアドレスは既に登録済みとなっております。 ニュースレターの配信をお待ち下さい。 _",
-      "summary_zh": ""
+      "summary": "29日の東京株式市場で日経平均株価は3日続伸し、前日比705円28銭（1.10%）高の6万4659円47銭で取引を終えた。 指数寄与度の大きいアドテストの前日発表の業績予想上方修正が好感されたほか、午後に韓国総合株価指数（KOSPI）が下げ幅を縮小した場面では、短期筋による日経平均先物への買いも目立ち、上げ幅は一時900円近くに迫った。",
+      "summary_zh": "在29日的东京股票市场上，日经平均股价连续3个交易日上涨，收盘比前一日上涨705円28钱（1.10%），报6万4659円47钱。 指数权重较大的爱德万测试于前一日公布的上调业绩预期受到市场好评。 此外，在下午韩国综合股价指数（KOSPI）缩窄跌幅的阶段，短期资金对日经平均期货的买入也较为明显，日经平均股价涨幅曾一度逼近900円。"
     },
     {
       "date": "2026.10.29",
@@ -144,8 +144,30 @@
       "url": "https://media.monex.co.jp/articles/amp/30405",
       "language": "Japanese",
       "section": "日本株式市場 / Japan Market",
-      "summary": "好決算でも株価下落？ 「決算好感度指数」で探る投資家の本音 3月期決算企業の第2四半期決算発表が本格化しています。 企業が今期の通期業績計画を上方修正すると、好材料として株価が上昇することがあります。 一方で、上方修正がすでに株価に織り込まれていたり、事前の期待に届かなかったりすると、決算発表後に株価が下落するケースも見られます。 このように、決算発表後の株価の動きには、業績の良し悪しだけでなく、投資家がその業績をどのように評価しているかが表れます。 では、足元の株式市場では、企業の決算発表を好意的に受け止める投資家が多いのでしょうか。 それとも、業績に対する期待が高く、好決算でも株価が上がりにくい状況なのでしょうか。 そこで今回は、決算発表前後の株価反応を集計し、企業業績に対する投資家の評価を数値化する独自の指標「決算好感度指数」を使い、足元の株式市場の状況を探ってみたいと思います。",
-      "summary_zh": ""
+      "summary": "3月期決算企業の第2四半期決算発表が本格化する中、市場全体の投資家心理を捉える独自の「決算好感度指数」が足元で42.5％となっていることが分かった。 同指数はTOPIX500構成銘柄を対象に、決算発表前後の株価の超過リターン（EAR）がプラスとなった銘柄の割合を算出したもので、50％を下回る水準は企業業績に対する投資家の評価がやや慎重な状態にあることを示している。",
+      "summary_zh": "在3月结算企业第二季度财报发布全面展开的背景下，用于捕捉市场整体投资者心理的独家“财报好感度指数”目前为42.5%。 该指数以TOPIX500成分股为对象，计算了财报发布前后股价超额收益（EAR）为正的股票比例。 低于50%的水平表明投资者对企业业绩的评价处于略显谨慎的状态。"
+    },
+    {
+      "date": "2026.10.29",
+      "published_at": "2026-10-29T14:11:21+09:00",
+      "headline": "東京エレクトロンデバイス株価急反落 7〜9月純利益が前四半期比減少",
+      "source": "日本経済新聞",
+      "url": "https://www.nikkei.com/article/DGXZQOFL293NL0Z21C26A0000000/",
+      "language": "Japanese",
+      "section": "日本株式市場 / Japan Market",
+      "summary": "プライム市場に上場する半導体商社の東エレデバは急反落し、前日比440円（9.36%）安の4260円を付けた。 28日に発表した2026年4〜9月期の連結決算で、純利益は前年同期比94%増の49億円となったが、7〜9月期単体の純利益が前四半期比で減少したことが嫌気された。",
+      "summary_zh": "在主板市场上市的半导体商社东京电子设备公司股价急剧回落，较前一日下跌440円（9.36%），报4260円。 该公司在28日公布的2026年4至9月期合并财报中，纯利润较去年同期增长94%至49亿日元，但由于7至9月期单季的纯利润较上一季度有所下降，引发了市场抛售。"
+    },
+    {
+      "date": "2026.10.30",
+      "published_at": "2026-10-30T02:55:00+09:00",
+      "headline": "Dollar-Yen Consolidates in Upper 157 Range in New York FX; Euro Rebounds From Year-to-Date Low After ECB Holds Rates",
+      "source": "BigGo Finance",
+      "url": "https://finance.biggo.com/news/59ffcfb8-f631-4fc1-86f1-9609a9653b39",
+      "language": "English",
+      "section": "宏观经济与投资 / Macro & Investment",
+      "summary": "On the 29th in the New York foreign exchange market, the dollar-yen pair lacked clear direction and consolidated in the upper 157 range, standing at 157.88 yen at 2 a. m. Japan time on the 30th. Declining U. S. long-term interest rates weighed on the pair, while traders limited aggressive positions ahead of the Bank of Japan's policy meeting outcome. Meanwhile, the euro briefly hit a fresh year-to-date low of 1.1105 dollars following European long-term yields and the European Central Bank's decision to hold its policy rate at 2.65%, before rebounding to 1.1163 dollars.",
+      "summary_zh": "在29日的纽约外汇市场上，美元兑日元汇率缺乏明确方向，在157日元高位区间盘整，东京时间30日凌晨2点时报157.88日元。 美国长期利率下降对该汇率形成压制，同时由于日本央行政策会议结果即将公布，交易员限制了激进持仓。 另一方面，受德国长期利率下降以及欧洲央行决定将政策利率维持在2.65%的影响，欧元兑美元曾一度跌至1.1105美元的新年内低点，随后反弹至1.1163美元。"
     },
     {
       "date": "2026.10.30",
@@ -155,8 +177,8 @@
       "url": "https://admiralmarkets.com/analytics/traders-blog/jgb-yields-record-japan-bond-market",
       "language": "English",
       "section": "宏观经济与投资 / Macro & Investment",
-      "summary": "Japan's Bond Market Breaks Records: Why JGB Yields Matter Globally Japanese government bonds have had their most dramatic year in three decades. The 10-year JGB yield rose above 3% on 1 September 2026 for the first time since 1996, according to Jiji Press via Adnkronos. It then peaked near 3.12% intraday on 1 and 6 October. The 30-year yield set an all-time record of 4.235% on 5 October, as The Standard reported, citing Reuters.",
-      "summary_zh": ""
+      "summary": "Japanese government bonds experienced dramatic movements in 2026, with the 10-year JGB yield rising above 3% on 1 September 2026 for the first time since 1996 and peaking near 3.12% intraday on 1 and 6 October. The 30-year yield set an all-time record of 4.235% on 5 October. Yields later eased, with the 10-year trading near 2.84% in the Tokyo session on 29 October, which remains about 78 basis points above the 2025 year-end level.",
+      "summary_zh": "日本国债在2026年经历了巨大的波动，其中10年期日本国债收益率在2026年9月1日自1996年以来首次升破3%，并在10月1日和6日的盘中触及近3.12%的峰值。 30年期国债收益率则在10月5日创下4.235%的历史纪录。 此后收益率有所回落，10月29日东京交易时段10年期国债收益率在2.84%附近交易，这仍比2025年底的水平高出约78个基点。"
     },
     {
       "date": "2026.10.29",
@@ -166,8 +188,8 @@
       "url": "https://fortune.com/article/current-price-of-gold-10-29-2026/",
       "language": "English",
       "section": "宏观经济与投资 / Macro & Investment",
-      "summary": "As of 9:10 a. m. Eastern Time today, gold was priced at $4,025 per ounce. This represents a $30 fall from yesterday at the same hour and an increase of $7 compared to one year ago. If you’re searching for an investment that doesn’t move in lockstep with inflation, gold could be a smart pick. Over time, gold has generally shown an upward trend in value. Many investors use a gold IRA to buy and hold gold, which can help stabilize a portfolio during market swings.",
-      "summary_zh": ""
+      "summary": "As of 9:10 a. m. Eastern Time on October 29, 2026, gold was priced at $4,025 per ounce, marking a $30 drop from the previous day and a $7 increase from one year prior. Gold prices have surged over 25% since early 2025 due to inflation and economic uncertainty. Between 1971 and 2024, stocks averaged an annual return of 10.7%, while gold averaged 7.9%. Financial advisor James Taska noted that exchange-traded funds make it easier to rebalance gold allocations compared to physical holdings, and noted that buying and selling spreads can vary widely. Other precious metals also traded, with silver, platinum, and palladium seeing market movements.",
+      "summary_zh": "截至2026年10月29日上午9:10美东时间，黄金价格为每盎司$4,025，较前一日同一时间下跌$30，较一年前上涨$7。 受通胀和不确定性推动，自2025年初以来金价已飙升超过25%。 1971年至2024年间，股票的平均年回报率为10.7%，而黄金为7.9%。 财务顾问詹姆斯·塔斯卡指出，与实物黄金相比，通过交易所交易基金重新平衡客户的黄金配置要容易得多，且买卖价差可能非常可变且宽泛。 此外，白银、铂金和钯金等其他贵金属也进行了交易。"
     },
     {
       "date": "2026.10.29",
@@ -177,8 +199,8 @@
       "url": "https://fortune.com/article/price-of-bitcoin-10-29-2026/",
       "language": "English",
       "section": "宏观经济与投资 / Macro & Investment",
-      "summary": "At 8:45 a. m. Eastern Time today, the going rate for one Bitcoin (BTC) is $80,036.60. That’s $1,323.02 lower than yesterday morning’s level and about $30,008 below where it stood a year ago. What is Bitcoin? Bitcoin holds the distinction of being the original cryptocurrency and remains the most widely followed digital coin today. Its market capitalization is around $1.33 trillion, putting it well ahead of Ethereum—the second-largest cryptocurrency—which has about $233 billion in market value.",
-      "summary_zh": ""
+      "summary": "At 8:45 a. m. Eastern Time on October 29, 2026, Bitcoin traded at $80,036.60, down $1,323.02 from the previous morning and about $30,008 lower than a year ago. Bitcoin holds a market capitalization of approximately $1.33 trillion, surpassing Ethereum's roughly $233 billion. Created in 2009, Bitcoin has gained over 15,000% across the past decade, though it ended 2025 about 30% below its October 2025 record high. Price drivers include speculative investor sentiment, corporate adoption by companies like Tesla and Ferrari, economic conditions, and evolving regulations. Investors can access Bitcoin via direct exchange purchases, exchange-traded funds, crypto stocks, or Bitcoin IRAs.",
+      "summary_zh": "在2026年10月29日上午8:45美东时间，比特币的交易价格为$80,036.60，比前一天早晨下跌$1,323.02，比一年前低约$30,008。 比特币的市值约为$1.33 trillion，远超市值约$233 billion的以太坊。 比特币自2009年创立以来，在过去十年里涨幅超过15,000%，不过在2025年底时的交易价格仍较同年10月的历史高点低约30%。 影响比特币价格的因素包括投机情绪、特斯拉和Ferrari等大公司的采用、经济状况以及监管动态。 投资者可以通过加密货币交易所、交易所交易基金、加密股票或比特币IRA进行投资。"
     },
     {
       "date": "2026.10.29",
@@ -188,30 +210,19 @@
       "url": "https://m.economictimes.com/news/international/us/gold-price-silver-rate-today-why-are-gold-rate-silver-price-down-on-thursday-what-to-expect-in-november/articleshow/135314480.cms",
       "language": "English",
       "section": "宏观经济与投资 / Macro & Investment",
-      "summary": "Gold prices slid on Thursday as sticky inflation fueled bets of a potential interest rate hike by the US Federal Reserve later this year, while investors awaited a US inflation report. Platinum dropped 2.9 per cent to $1,493.71 and palladium slid 1 per cent to $1,000.91, with all metals headed for a second straight monthly decline. Han Tan, chief market analyst at Bybit, stated that gold may be dragged back into sub-$4,000 levels if PCE figures exceed market expectations and pave the way for a December rate hike. Traders priced in about a 90 per cent chance of a December rate hike via CME's FedWatch Tool. Meanwhile, the European Central Bank is expected to hold rates, though overshadowed by turmoil in France's bond market. International oil prices fell after US Vice President JD Vance wrote to Iranian Security Council chief Mohsen Rezaei, rekindling hopes for peace talks.",
-      "summary_zh": "由于通货膨胀居高不下加剧了市场对美国联邦储备委员会今年晚些时候可能加息的押注，投资者等待美国通货膨胀报告以获取政策动向，黄金价格于周四下跌。 铂金下跌2.9 per cent至$1,493.71，钯金下跌1 per cent至$1,000.91，所有金属均势迎连续第二个月下跌。 Bybit首席市场分析师Han Tan表示，如果个人消费支出数据超出市场预期并为12月加息铺平道路，黄金可能会被拖回$4,000以下的水平。 根据CME的FedWatch工具，交易员仍定价12月加息约90 per cent的可能性。 与此同时，欧洲央行预计将维持利率不变，但该决定可能被法国债券市场的动荡所掩盖。 在美国副总统JD Vance致信伊朗最高国家安全委员会秘书Mohsen Rezaei后，和平谈话的希望重燃，国际油价于周四下跌。"
+      "summary": "Gold and other precious metals declined on Thursday, with platinum dropping 2.9% to $1,493.71 and palladium sliding 1% to $1,000.91, heading toward a second consecutive monthly decline. Gold prices fell as persistent inflation fueled expectations of an interest rate hike by the US Federal Reserve, while investors awaited a US inflation report. Han Tan, chief market analyst at Bybit, stated that gold could drop below $4,000 if PCE figures exceed expectations and pave the way for a December rate hike. Traders priced in a roughly 90% chance of a December rate hike via the CME FedWatch Tool. Meanwhile, international oil prices fell following peace talk hopes sparked by a letter from US Vice President JD Vance to Iranian Security Council chief Mohsen Rezaei.",
+      "summary_zh": "周四黄金及其他贵金属价格下跌，其中铂金下跌2.9%至$1,493.71，钯金下跌1%至$1,000.91，所有金属均走向连续第二个月下跌。 由于持续的通胀推高了美国联邦储备局可能加息的预期，且投资者正等待美国通货膨胀报告，金价随之下跌。 Bybit首席市场分析师韩坦表示，如果PCE数据超出市场预期并为12月份加息铺平道路，黄金可能会被拉回$4,000以下的水平。 交易员通过CME的FedWatch工具定价显示，12月份加息的概率约为90%。 同时，在美国副总统JD·万斯致信伊朗最高国家安全委员会秘书莫森·雷扎伊重燃和平谈话希望后，国际油价于周四下跌。"
     },
     {
       "date": "2026.10.29",
-      "published_at": "2026-10-29T18:35:00+09:00",
-      "headline": "Global Market: Japanese investors extend foreign bond selling streak to six weeks",
-      "source": "inkl",
-      "url": "https://www.inkl.com/news/global-market-japanese-investors-extend-foreign-bond-selling-streak-to-six-weeks",
+      "published_at": "2026-10-29T17:21:39+09:00",
+      "headline": "Developments in the international financial and monetary markets on the morning of October 29th.",
+      "source": "Vietnam.vn",
+      "url": "https://www.vietnam.vn/en/dien-bien-thi-truong-tai-chinh-tien-te-quoc-te-sang-29-10",
       "language": "English",
       "section": "宏观经济与投资 / Macro & Investment",
-      "summary": "Japanese investors continued to reduce their holdings of foreign long-term bonds for a sixth consecutive week through October 24, according to Ministry of Finance data. A recent decline in US Treasury yields slowed the pace of selling. Investors sold a net 92.6 billion yen ($586.56 million) of foreign long-term bonds during the week, marking their smallest weekly net sales in six weeks. In contrast, they purchased a net 235.3 billion yen of short-term bills, reversing the net sales of 136.9 billion yen recorded in the previous week.",
-      "summary_zh": "根据日本财务省的数据，截至10月24日的一周内，日本投资者连续第六周减持海外长期债券，不过美国国债收益率近期的小幅下降放缓了抛售步伐。 投资者在该周净卖出92.6 billion yen（$586.56 million）的海外长期债券，创下六周以来最小的周净卖出额。 与此同时，他们净买入了235.3 billion yen的短期国库券，扭转了上一周净卖出136.9 billion yen的局面。"
-    },
-    {
-      "date": "2026.10.29",
-      "published_at": "2026-10-29T12:43:22+09:00",
-      "headline": "Euro steady before ECB decision, dollar holds ground as Fed stands pat",
-      "source": "KELO-AM",
-      "url": "https://kelo.com/2026/10/28/dollar-steady-after-fed-hold-leaves-rate-path-murky/",
-      "language": "English",
-      "section": "宏观经济与投资 / Macro & Investment",
-      "summary": "The euro held steady on Thursday ahead of an European Central Bank policy decision focusing on French bond-market turmoil, while the dollar wobbled after the Federal Reserve tempered rate hike bets for next year. The ECB is expected to keep interest rates on hold, with the euro easing to $1.1145 after a 0.3% rise following the Fed's decision to stand pat. Worries over France's debt burden have weighed on the euro, which is down 5.1% against the dollar this year, while speculators built a record $18.89 billion short euro position. Allspring Global Investments portfolio manager Rushabh Amin noted that stagflation risks are colliding with fiscal tensions. The Fed left rates unchanged in a 10-2 decision, with Fed Chair Kevin Warsh expressing confidence in hitting the 2% inflation target without raising unemployment. The dollar index sat at 102.18, and two-year yields fell to 4.6705%. The Bank of Japan is expected to keep rates steady, while the Reserve Bank of New Zealand held rates at 2.75%, stunning markets.",
-      "summary_zh": "欧元在欧洲央行政策决议前于周四保持稳定，焦点集中于法国债券市场的动荡，而美元在美联储缓和明年加息押注后表现震荡。 欧洲央行预计将维持利率不变，在美联储如预期按兵不动推动欧元前一交易日上涨0.3%后，欧元小幅走软至$1.1145。 对法国债务负担的担忧拖累了欧元兑美元今年下跌5.1%，投机者则积聚了价值$18.89 billion的十年最大净空头欧元头寸。 Allspring Global Investments多资产团队投资组合经理Rushabh Amin指出，滞胀风险正与财政紧张局势相碰撞。 美联储以10比2的投票结果维持利率不变，美联储主席Kevin Warsh对在无需提高失业率的情况下将通胀降至2%的目标表示有信心。 美元指数收于102.18，两年期国债收益率跌至4.6705%。 日本央行预计将维持利率不变，而新西兰储备银行将利率维持在2.75%的决定让市场感到震惊。"
+      "summary": "The US dollar stabilized on Thursday after the Federal Reserve kept interest rates unchanged and signaled that future inflation data will guide policy. The Fed voted 10 to 2 to hold rates until after the midterm elections and assessed economic activity as growing strongly. Chairman Kevin Warsh expressed confidence that inflation can hit the 2% target without stalling growth or raising unemployment. Traders reduced bets on a 2027 rate hike. The euro fell 0.15% to $1.1134, and the dollar rose 0.14% against the Japanese yen to 158.045 JPY/USD. Carol Kong of Commonwealth Bank of Australia noted that Warsh's failure to mention further hikes signaled easing. Kerry Craig of JP Morgan Asset Management stated the outcome gives time to assess employment and inflation. Additionally, the Reserve Bank of New Zealand unexpectedly kept rates at 2.75%, and the New Zealand dollar stabilized at $0.5621.",
+      "summary_zh": "美联储维持利率不变并暗示未来通胀数据将指导政策后，美元在周四的交易中走稳。 美联储以10票赞成、2票反对决定在下周中期选举后才调整贷款利率，并对经济活动给出强劲增长的积极评估。 主席凯文·沃什表示有信心在不阻碍经济增长或增加失业率的情况下将通胀降至2%的目标。 交易员减少了对美联储在2027年加息的押注。 欧元下跌0.15%至$1.1134，美元兑日元上涨0.14%至158.045 JPY/USD。 澳大利亚联邦银行的货币策略师卡罗尔·孔指出，沃什未提及进一步加息被市场解读为宽松信号。 摩根资产管理公司的克里·克雷格认为，此次会议结果为市场和美联储提供了评估就业和通胀数据的时间。 此外，新西兰储备银行意外维持利率在2.75%不变，新西兰元稳定在$0.5621。"
     }
   ]
 }
