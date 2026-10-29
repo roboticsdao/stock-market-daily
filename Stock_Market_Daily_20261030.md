@@ -1,0 +1,130 @@
+# 📈 Stock Market Daily | 2026.10.30（金曜日 / Friday）
+
+> ⚠ 本日报优先收录最近24小时的市场新闻、个股异动与当时市场快照；数据仅供参考，不构成投资建议。
+
+---
+
+
+## 🇺🇸 美国股市 / US Market
+
+- **[2026.10.30] 24/7 Wall St. — Intel Drops 4% Ahead of Earnings as Foundry Hopes Fade; Alphabet Tumbles 12%, Microsoft Edges Lower**
+  English：Intel shares dropped 4% to $92.04 ahead of its Q3 2026 earnings report, compounding a 20% monthly decline. The pressure followed Elon Musk's Terafab initiative confirming active discussions with Taiwan Semiconductor Manufacturing for a dedicated fabrication plant, undermining Intel's foundry positioning. In Q2 2026, Intel Foundry grew revenue 31% to $5.76 billion but posted a $2.1 billion operating loss. Analysts cited weak PC shipments and Taiwan Semiconductor advanced packaging price increases. Alphabet reported Q3 2026 revenue of $127.58 billion, up 24.6% year over year, missing expectations and sending its stock down 12% to $284.82 after an $8.7 billion equity loss and $51.36 billion in capital expenditures, despite Google Cloud revenue surging 103% to $30.71 billion. Microsoft reported Q1 FY2027 revenue rose 18.8% to $92.28 billion with adjusted earnings of $4.89 per share, though it guided Windows OEM and devices revenue to fall in the mid-30s percentage range in Q2 FY2027, contributing to broader tech sector declines.
+  中文：总结：在发布2026年第三季度财报前，英特尔股价下跌4%至$92.04，月跌幅扩大至20%。 埃隆·马斯克的Terafab项目确认正与台积电洽谈建设专用晶圆厂，对英特尔的代工定位造成冲击。 2026年第二季度，英特尔代工业务营收增长31%至$5.76 billion，但运营亏损达$2.1 billion。 分析师提到了个人电脑出货量疲软及台积电先进封装涨价的因素。 Alphabet公布2026年第三季度营收为$127.58 billion，同比增长24.6%，略低于预期，因$8.7 billion的股权证券损失及$51.36 billion的资本支出，股价下跌12%至$284.82，尽管谷歌云营收飙升103%至$30.71 billion。 微软公布2027财年第一季度营收增长18.8%至$92.28 billion，调整后每股收益为$4.72超预期，但其预计2027财年第二季度Windows原始设备制造商及设备营收将下降30%至40%之间的中段，拖累科技板块走低。
+  📰 [24/7 Wall St.](https://247wallst.com/investing/2026/10/29/intel-drops-4-ahead-of-earnings-as-foundry-hopes-fade-alphabet-tumbles-12-microsoft-edges-lower/)
+
+- **[2026.10.30] 24/7 Wall St. — Micron Is Up 225% This Year and Still Trades at 5 Times Earnings. Is It Too Late?**
+  English：Micron Technology stock is up 221.96% year to date and trades at about 5x forward earnings, sitting 26.8% below its 52-week high of $1,254.61. For fiscal Q4, Micron reported revenue of $54.23 billion, up 379.27% year over year, beating the $50.97 billion estimate, alongside non-GAAP EPS of $33.42 and a gross margin of 87%. For fiscal Q1 2027, management guided to revenue of $61.5 billion plus or minus $1.5 billion and EPS of $38.15 plus or minus $1.00. Management stated its technology is at least two nodes ahead of Chinese competition. Micron has committed over 75% of fiscal 2027 shipments and signed 26 Strategic Customer Agreements through 2030, including a co-designed HBM4E product with NVIDIA. Capital expenditures reached $30.71 billion in fiscal 2026, while the company generated $62.31 billion in free cash flow.
+  中文：总结：美光科技今年迄今已上涨221.96%，目前市盈率约为未来盈利的5倍，股价较$1,254.61的52周高点下跌26.8%。 在第四财季中，美光营收达到$54.23 billion，同比增长379.27%，超过$50.97 billion的预期，非美国通用会计准则每股收益为$33.42，毛利率扩大至87%。 对于2027财年第一季度，管理层预计营收为$61.5 billion正负$1.5 billion，每股收益为$38.15正负$1.00。 管理层表示其技术领先中国竞争对手至少两个节点。 美光已锁定2027财年逾75%的出货量，并签署了26份延续至2030年的战略客户协议，其中包括与英伟达合作设计的高带宽内存HBM4E产品。 其2026财年资本支出达到$30.71 billion，自由现金流为$62.31 billion。
+  📰 [24/7 Wall St.](https://247wallst.com/investing/2026/10/29/micron-is-up-225-this-year-and-still-trades-at-5-times-earnings-is-it-too-late/)
+
+- **[2026.10.30] Investor's Business Daily — Tesla Stock Quotes, Company News And Chart Analysis**
+  English：Tesla broke out into a buy range on Tuesday after clearing a long-term trendline following aggressive moves, with Musk touting a Cybercab fleet expansion.
+  中文：总结：特斯拉在经历激进走势并突破长期趋势线后，于周二进入买入区间，马斯克吹捧了Cybercab车队的扩张。
+  📰 [Investor's Business Daily](https://www.investors.com/news/technology/tesla-motors-stock-quotes-company-news-and-chart-analysis/)
+
+- **[2026.10.30] Investor's Business Daily — Stock Market Today: Stock Market News And Analysis**
+  English：The Nasdaq posted losses around midday Thursday as investors reacted to an Alphabet earnings report showing lower ad revenue for its search business and investment losses.
+  中文：总结：周四盘中，纳斯达克指数持续下跌，投资者对Alphabet发布的财报作出反应，该财报显示其搜索业务广告收入下降并出现投资亏损。
+  📰 [Investor's Business Daily](https://www.investors.com/news/stock-market-today-stock-market-news/)
+
+- **[2026.10.29] Simply Wall St — US Stock Market Today: S&P 500 Futures Dip As Key PCE And GDP Loom**
+  English：U. S. stocks prepared for a cautious open on Thursday, October 29, 2026, as inflation and key economic data took center stage. Economists expect the September PCE price index to rise 0.5% month on month and core PCE 0.3%, with annual headline PCE projected at 3.6% and core at 3.1%. The advance Q3 GDP report is projected at 3.2% annualized. In corporate developments, a hacker group claimed to leak records on over 40,000 U. S. Department of Homeland Security employees via an Okta single sign-on system. Visa expanded an agreement with Tencent after receiving People’s Bank of China approval for a domestic bank card clearing business. A Bitcoin whale transferred 438.37 BTC, valued at about US$35 million, to Coinbase Prime at a reported US$15 million paper loss, while Ripple’s RLUSD stablecoin launched across Coinbase venues under a new national trust bank charter. Market movers included Vertiv Holdings jumping 16.48% on strong Q3 results and raised guidance, Flex surging 11.61% on strong Q2 results and Axiom spin-off progress, Oracle rallying 10.73% following Investor Day targets, F5 falling 20.43% on weaker fiscal 2027 guidance, LPL Financial declining 15.23%, and Baker Hughes dropping 7.36%.
+  中文：总结：随着通胀和关键经济数据成为焦点，2026年10月29日周四美国股市开盘前情绪谨慎。 经济学家预计9月PCE价格指数环比上涨0.5%，核心PCE上涨0.3%，年度整体PCE预计为3.6%，核心PCE为3.1%。 第三季度预估GDP年化增长率预计为3.2%。 在企业动态方面，一个黑客组织声称通过Okta单点登录系统泄露了逾40,000名美国国土安全部员工的记录。 Visa在获得中国人民银行批准筹备境内银行卡清算业务后，扩大了与腾讯的协议。 一个比特币巨鲸向Coinbase Prime转入了438.37枚BTC，价值约US$35 million，账面亏损约为US$15 million，同时瑞波的RLUSD稳定币在新的国家信托银行特许下上线Coinbase各大平台。 市场主要波动个股中，Vertiv Holdings因第三季度业绩超预期并上调全年指引而大涨16.48%，Flex因第二季度业绩强劲及Axiom分拆进展飙升11.61%，甲骨文在投资者日公布目标后大涨10.73%，F5因2027财年指引疲软下跌20.43%，LPL Financial下跌15.23%，贝克休斯下跌7.36%。
+  📰 [Simply Wall St](https://simplywall.st/stocks/us/software/nasdaq-ffiv/f5/news/us-stock-market-today-sp-500-futures-dip-as-key-pce-and-gdp)
+
+- **[2026.10.29] BigGo Finance — Chip Stocks Slide as Samsung Profit Misses and Big Tech Trims AI Spending Plans**
+  English：Semiconductor shares fell in overnight trading following weaker-than-expected quarterly profit from Samsung Electronics and reduced capital expenditure forecasts from major AI hardware buyers. Micron Technology dropped 3.4%, Intel lost 3.3%, and Broadcom and Advanced Micro Devices each slipped about 2.8%, while the iShares Semiconductor ETF declined 2.5%. Samsung reported September-quarter net profit of 75.136 trillion won (approximately $56.3 billion) against expectations of 86.13 trillion won (approximately $64.5 billion), with revenue reaching a record 195.253 trillion won (approximately $146.2 billion). Meanwhile, Microsoft reported $45.2 billion in capital expenditures, below estimates of $50.7 billion, and Alphabet posted $51.36 billion in spending against a $55.09 billion forecast. Alphabet also missed revenue expectations with $127.58 billion and recorded negative $9.07 billion in free cash flow, causing its shares to fall nearly 10% in after-hours trading. Market attention turns to upcoming earnings reports from Intel and Amazon.
+  中文：总结：受三星电子季度利润逊于预期以及主要人工智能硬件买家削减资本支出计划影响，半导体股票在盘后交易中下跌。 美光科技下跌3.4%，英特尔下跌3.3%，博通和超微半导体均下滑约2.8%，iShares半导体ETF下跌2.5%。 三星公布9月季度净利润为75.136 trillion won（约合$56.3 billion），低于FactSet追踪分析师预期的86.13 trillion won（约合$64.5 billion），营收则达到创纪录的195.253 trillion won（约合$146.2 billion）。 同时，微软上季度资本支出为$45.2 billion，低于StreetAccount估计的$50.7 billion；Alphabet支出为$51.36 billion，预期为$55.09 billion。 Alphabet营收为$127.58 billion且自由现金流为负$9.07 billion，导致其股价在盘后交易中下跌近10%。 市场焦点转向英特尔和亚马逊即将发布的财报。
+  📰 [BigGo Finance](https://finance.biggo.com/news/22102caf-8dc7-4ff7-bf1b-c8eccab17461)
+
+- **[2026.10.30] 行情快照 / Quote · S&P 500 — 标普500下跌0.53%**
+  Quote: S&P 500 stood at 7,702.77 as of 2026.10.30 02:46 JST, 0.53% lower than the previous close.
+  行情中文：截至 2026.10.30 02:46 JST，标普500较前收盘下跌0.53%。
+  📰 [Yahoo Finance](https://finance.yahoo.com/quote/%5EGSPC)
+
+- **[2026.10.30] 行情快照 / Quote · Nasdaq Composite — 纳斯达克综合指数下跌1.49%**
+  Quote: Nasdaq Composite stood at 26,153.91 as of 2026.10.30 02:46 JST, 1.49% lower than the previous close.
+  行情中文：截至 2026.10.30 02:46 JST，纳斯达克综合指数较前收盘下跌1.49%。
+  📰 [Yahoo Finance](https://finance.yahoo.com/quote/%5EIXIC)
+
+## 🇯🇵 日本株式市場 / Japan Market
+
+- **[2026.10.30] 外為どっとコム — 【テクニカル】日経平均株価テクニカル分析－抵抗線まで上昇**
+  日本語：日経平均株価は大幅続伸となり、3日連続の陽線を形成して10日移動平均線の63861円や一目均衡表の転換線の63433円を明確に上回った。 RSI（9日）は46.5％から45.0％へ上昇し、7月29日安値の60448円を始点に9月14日安値の62726円を通る右上がりの抵抗線まで上昇した。 上値メドには心理的節目の65000円、25日移動平均線の66182円、10月14日安値の67533円、心理的節目の68000円などが挙げられ、下値メドには10日移動平均線、5日移動平均線の63352円、心理的節目の62000円、200日移動平均線の61725円、心理的節目の61000円などが意識されている。
+  中文：总结：日经平均股价大幅连续上涨，形成连续3天的阳线，明确突破了10日移动平均线63861日元及一目均衡表的转换线63433日元。 9日RSI从46.5%上升至45.0%，并触及以7月29日低点60448日元为起点、经9月14日低点62726日元的向上倾斜抵抗线。 上方目标位包括心理关口65000日元、25日移动平均线66182日元、10月14日低点67533日元以及心理关口68000日元等，下方目标位则有10日移动平均线、5日移动平均线63352日元、心理关口62000日元、200日移动平均线61725日元及心理关口61000日元等。
+  📰 [外為どっとコム](https://www.gaitame.com/media/entry/2026/10/30/005014)
+
+- **[2026.10.29] 日本経済新聞 — 東証大引け 日経平均は3日続伸 アドテストが押し上げ**
+  日本語：29日の東京株式市場で日経平均株価は3日続伸し、前日比705円28銭（1.10%）高の6万4659円47銭で取引を終えた。 指数寄与度の大きいアドバンテストが前日に発表した業績予想の上方修正などを好感され、同社株だけで日経平均を約450円押し上げた。 韓国総合株価指数が午後に下げ幅を縮小する中、短期筋による日経平均先物への買いも入り、上げ幅は一時900円に迫った。 サムスン電子が午前に発表した26年7〜9月期決算の確報値を受けて一時は下げる場面もあったが、短期筋の先物買いや個人投資家の押し目買いで後場に持ち直した。 東証プライムの売買代金は概算で13兆8657億円と約4カ月ぶりの高水準となり、東証株価指数は小幅に反発して4003.28で終えた。
+  中文：总结：29日的东京股市中，日经平均股价连续第三天上涨，比前一交易日上涨705日元28钱（1.10%），收于6万4659日元47钱。 指数权重较大的爱德万测试前一日公布的上调业绩预期等利好受到市场欢迎，仅该公司一只股票就将日经平均指数推高了约450日元。 在韩国综合股价指数于午后缩小跌幅的背景下，短线资金对日经平均股指期货的买盘也十分显眼，日经平均指数涨幅曾一度逼近900日元。 三星电子于上午公布2026年7至9月期财报确报值后，指数虽一度下跌，但随后因短线资金的期货买盘及个人投资者的低吸买盘在午盘后回升。 东证普兰市场的成交额估算为13兆8657亿日元，创下约4个月以来的最高水平，东证股价指数小幅反弹并以4003.28收盘。
+  📰 [日本経済新聞](https://www.nikkei.com/article/DGXZQOFL28BAZ0Y6A021C2000000/)
+
+- **[2026.10.29] 日本経済新聞 — コマツ株価、午後急落3カ月ぶり安値 業績予想上方修正でも物足りず**
+  日本語：コマツは後場に急落し、前日比525円（7.70%）安の6290円まで下落して7月21日以来約3カ月ぶりの安値を付けた。 29日午後2時30分に、2027年3月期（今期）の連結純利益（米国会計基準）が前期比1%増の3820億円になりそうだと発表した。
+  中文：总结：小松在午盘后急剧下跌，比前一日下跌525日元（7.70%），跌至6290日元，创下自7月21日以来约3个月的新低。 公司在29日下午2点30分宣布，预计2027年3月期（本财年）的合并净利润（美国会计准则）将比上一财年增长1%至3820亿日元。
+  📰 [日本経済新聞](https://www.nikkei.com/article/DGXZQOFL295DN0Z21C26A0000000/)
+
+- **[2026.10.29] Yahoo!ファイナンス — ソフトバンクグループ(株)【9984】：掲示板**
+  日本語：Yahoo! ファイナンスの掲示板ではソフトバンクグループの株価動向や決算、地政学リスクを巡り、ユーザー間で強気と弱気が激しく対立する意見が投稿されている。 Armの時間外での値動きやナスダック先物の下落、米国のインテルやアマゾンの決算発表を前にした警戒感が示される一方、ウクライナやイランを巡る情勢、信用買い残の積み上がりに対する懸念も語られている。 Googleの決算におけるフリーキャッシュフローの赤字やAI投資を巡る議論も言及され、翌日の相場展開を見極めようとする投稿が相次いでいる。
+  中文：总结：在雅虎财经的公告栏上，围绕软银集团的股价走势、财报以及地缘政治风险，用户们发表了多空意见激烈对立的言论。 一方面表现出对Arm盘后走势、纳斯达克期货下跌以及美国英特尔和亚马逊财报发布前的警惕感，另一方面也提及了对乌克兰和伊朗局势以及信用买入余额不断累积的担忧。 同时，公告栏中还谈到了谷歌财报中的自由现金流赤字及人工智能投资的相关讨论，有关评估次日市场走势的帖子接连不断。
+  📰 [Yahoo!ファイナンス](https://finance.yahoo.co.jp/quote/9984.T/forum)
+
+- **[2026.10.29] 日本経済新聞 — 日経平均大引け 3日続伸 705円高の6万4659円**
+  日本語：29日の東京株式市場で日経平均株価は3日続伸し、前日比705円28銭（1.10%）高の6万4659円47銭で終えた。 指数寄与度の大きいアドテストが前日に発表した業績予想の上方修正などが好感された。 半導体比率が高い韓国総合株価指数（KOSPI）が午後に下げ幅を縮小する場面では、短期筋による日経平均先物への買いも目立ち、日経平均の上げ幅は一時900円近くに迫った。 〔日経QUICKニュース（NQN）〕 権限不足のため、フォローできません 入力いただいたメールアドレスにメールを送付しました。 メールのリンクをクリックすると記事全文をお読みいただけます。 エラーが発生し、登録できませんでした。 ニュースレターの登録に失敗しました。 ご覧頂いている記事は、対象外になっています。 入力いただきましたメールアドレスは既に登録済みとなっております。 ニュースレターの配信をお待ち下さい。 _
+  📰 [日本経済新聞](https://www.nikkei.com/article/DGXZQOFL28BBY0Y6A021C2000000/)
+
+- **[2026.10.29] マネクリ — 【日本株】日本株の決算好感度は42.5％ 「50％回復」が相場好転のカギ？**
+  日本語：好決算でも株価下落？ 「決算好感度指数」で探る投資家の本音 3月期決算企業の第2四半期決算発表が本格化しています。 企業が今期の通期業績計画を上方修正すると、好材料として株価が上昇することがあります。 一方で、上方修正がすでに株価に織り込まれていたり、事前の期待に届かなかったりすると、決算発表後に株価が下落するケースも見られます。 このように、決算発表後の株価の動きには、業績の良し悪しだけでなく、投資家がその業績をどのように評価しているかが表れます。 では、足元の株式市場では、企業の決算発表を好意的に受け止める投資家が多いのでしょうか。 それとも、業績に対する期待が高く、好決算でも株価が上がりにくい状況なのでしょうか。 そこで今回は、決算発表前後の株価反応を集計し、企業業績に対する投資家の評価を数値化する独自の指標「決算好感度指数」を使い、足元の株式市場の状況を探ってみたいと思います。
+  📰 [マネクリ](https://media.monex.co.jp/articles/amp/30405)
+
+- **[2026.10.29] 行情快照 / Quote · Nikkei 225 — 日经225上涨1.10%**
+  行情日本語：日经225（Nikkei 225）は2026.10.29 15:45 JST時点で64,659.47となり、前日終値比で1.10%上昇しています。
+  行情中文：截至 2026.10.29 15:45 JST，日经225较前收盘上涨1.10%。
+  📰 [Yahoo Finance](https://finance.yahoo.com/quote/%5EN225)
+
+- **[2026.10.29] 行情快照 / Quote · Tokyo Electron — 东京电子上涨2.35%**
+  行情日本語：东京电子（Tokyo Electron）は2026.10.29 15:30 JST時点で10,035.00となり、前日終値比で2.35%上昇しています。
+  行情中文：截至 2026.10.29 15:30 JST，东京电子较前收盘上涨2.35%。
+  📰 [Yahoo Finance](https://finance.yahoo.com/quote/8035.T)
+
+## 🌍 宏观经济与投资 / Macro & Investment
+
+- **[2026.10.30] Admirals — JGB Yields Hit Records: Why Japan's Bond Market Matters**
+  English：Japan's Bond Market Breaks Records: Why JGB Yields Matter Globally Japanese government bonds have had their most dramatic year in three decades. The 10-year JGB yield rose above 3% on 1 September 2026 for the first time since 1996, according to Jiji Press via Adnkronos. It then peaked near 3.12% intraday on 1 and 6 October. The 30-year yield set an all-time record of 4.235% on 5 October, as The Standard reported, citing Reuters.
+  📰 [Admirals](https://admiralmarkets.com/analytics/traders-blog/jgb-yields-record-japan-bond-market)
+
+- **[2026.10.29] Fortune — Current price of gold as of October 29, 2026**
+  English：As of 9:10 a. m. Eastern Time today, gold was priced at $4,025 per ounce. This represents a $30 fall from yesterday at the same hour and an increase of $7 compared to one year ago. If you’re searching for an investment that doesn’t move in lockstep with inflation, gold could be a smart pick. Over time, gold has generally shown an upward trend in value. Many investors use a gold IRA to buy and hold gold, which can help stabilize a portfolio during market swings.
+  📰 [Fortune](https://fortune.com/article/current-price-of-gold-10-29-2026/)
+
+- **[2026.10.29] Fortune — Current price of Bitcoin for October 29, 2026**
+  English：At 8:45 a. m. Eastern Time today, the going rate for one Bitcoin (BTC) is $80,036.60. That’s $1,323.02 lower than yesterday morning’s level and about $30,008 below where it stood a year ago. What is Bitcoin? Bitcoin holds the distinction of being the original cryptocurrency and remains the most widely followed digital coin today. Its market capitalization is around $1.33 trillion, putting it well ahead of Ethereum—the second-largest cryptocurrency—which has about $233 billion in market value.
+  📰 [Fortune](https://fortune.com/article/price-of-bitcoin-10-29-2026/)
+
+- **[2026.10.29] The Economic Times — Gold price, silver rate today: Why are gold rate, silver price down on Thursday? What to expect in Novembe**
+  English：Gold prices slid on Thursday as sticky inflation fueled bets of a potential interest rate hike by the US Federal Reserve later this year, while investors awaited a US inflation report. Platinum dropped 2.9 per cent to $1,493.71 and palladium slid 1 per cent to $1,000.91, with all metals headed for a second straight monthly decline. Han Tan, chief market analyst at Bybit, stated that gold may be dragged back into sub-$4,000 levels if PCE figures exceed market expectations and pave the way for a December rate hike. Traders priced in about a 90 per cent chance of a December rate hike via CME's FedWatch Tool. Meanwhile, the European Central Bank is expected to hold rates, though overshadowed by turmoil in France's bond market. International oil prices fell after US Vice President JD Vance wrote to Iranian Security Council chief Mohsen Rezaei, rekindling hopes for peace talks.
+  中文：总结：由于通货膨胀居高不下加剧了市场对美国联邦储备委员会今年晚些时候可能加息的押注，投资者等待美国通货膨胀报告以获取政策动向，黄金价格于周四下跌。 铂金下跌2.9 per cent至$1,493.71，钯金下跌1 per cent至$1,000.91，所有金属均势迎连续第二个月下跌。 Bybit首席市场分析师Han Tan表示，如果个人消费支出数据超出市场预期并为12月加息铺平道路，黄金可能会被拖回$4,000以下的水平。 根据CME的FedWatch工具，交易员仍定价12月加息约90 per cent的可能性。 与此同时，欧洲央行预计将维持利率不变，但该决定可能被法国债券市场的动荡所掩盖。 在美国副总统JD Vance致信伊朗最高国家安全委员会秘书Mohsen Rezaei后，和平谈话的希望重燃，国际油价于周四下跌。
+  📰 [The Economic Times](https://m.economictimes.com/news/international/us/gold-price-silver-rate-today-why-are-gold-rate-silver-price-down-on-thursday-what-to-expect-in-november/articleshow/135314480.cms)
+
+- **[2026.10.29] inkl — Global Market: Japanese investors extend foreign bond selling streak to six weeks**
+  English：Japanese investors continued to reduce their holdings of foreign long-term bonds for a sixth consecutive week through October 24, according to Ministry of Finance data. A recent decline in US Treasury yields slowed the pace of selling. Investors sold a net 92.6 billion yen ($586.56 million) of foreign long-term bonds during the week, marking their smallest weekly net sales in six weeks. In contrast, they purchased a net 235.3 billion yen of short-term bills, reversing the net sales of 136.9 billion yen recorded in the previous week.
+  中文：总结：根据日本财务省的数据，截至10月24日的一周内，日本投资者连续第六周减持海外长期债券，不过美国国债收益率近期的小幅下降放缓了抛售步伐。 投资者在该周净卖出92.6 billion yen（$586.56 million）的海外长期债券，创下六周以来最小的周净卖出额。 与此同时，他们净买入了235.3 billion yen的短期国库券，扭转了上一周净卖出136.9 billion yen的局面。
+  📰 [inkl](https://www.inkl.com/news/global-market-japanese-investors-extend-foreign-bond-selling-streak-to-six-weeks)
+
+- **[2026.10.29] KELO-AM — Euro steady before ECB decision, dollar holds ground as Fed stands pat**
+  English：The euro held steady on Thursday ahead of an European Central Bank policy decision focusing on French bond-market turmoil, while the dollar wobbled after the Federal Reserve tempered rate hike bets for next year. The ECB is expected to keep interest rates on hold, with the euro easing to $1.1145 after a 0.3% rise following the Fed's decision to stand pat. Worries over France's debt burden have weighed on the euro, which is down 5.1% against the dollar this year, while speculators built a record $18.89 billion short euro position. Allspring Global Investments portfolio manager Rushabh Amin noted that stagflation risks are colliding with fiscal tensions. The Fed left rates unchanged in a 10-2 decision, with Fed Chair Kevin Warsh expressing confidence in hitting the 2% inflation target without raising unemployment. The dollar index sat at 102.18, and two-year yields fell to 4.6705%. The Bank of Japan is expected to keep rates steady, while the Reserve Bank of New Zealand held rates at 2.75%, stunning markets.
+  中文：总结：欧元在欧洲央行政策决议前于周四保持稳定，焦点集中于法国债券市场的动荡，而美元在美联储缓和明年加息押注后表现震荡。 欧洲央行预计将维持利率不变，在美联储如预期按兵不动推动欧元前一交易日上涨0.3%后，欧元小幅走软至$1.1145。 对法国债务负担的担忧拖累了欧元兑美元今年下跌5.1%，投机者则积聚了价值$18.89 billion的十年最大净空头欧元头寸。 Allspring Global Investments多资产团队投资组合经理Rushabh Amin指出，滞胀风险正与财政紧张局势相碰撞。 美联储以10比2的投票结果维持利率不变，美联储主席Kevin Warsh对在无需提高失业率的情况下将通胀降至2%的目标表示有信心。 美元指数收于102.18，两年期国债收益率跌至4.6705%。 日本央行预计将维持利率不变，而新西兰储备银行将利率维持在2.75%的决定让市场感到震惊。
+  📰 [KELO-AM](https://kelo.com/2026/10/28/dollar-steady-after-fed-hold-leaves-rate-path-murky/)
+
+- **[2026.10.30] 行情快照 / Quote · USD/JPY — 美元兑日元上涨0.07%**
+  Quote: USD/JPY stood at 157.87 as of 2026.10.30 02:46 JST, 0.07% higher than the previous close.
+  行情中文：截至 2026.10.30 02:46 JST，美元兑日元较前收盘上涨0.07%。
+  📰 [Yahoo Finance](https://finance.yahoo.com/quote/JPY%3DX)
+
+- **[2026.10.30] 行情快照 / Quote · US 10Y Yield — 美国10年期国债收益率下跌0.91%**
+  Quote: US 10Y Yield stood at 5.00 as of 2026.10.30 02:31 JST, 0.91% lower than the previous close.
+  行情中文：截至 2026.10.30 02:31 JST，美国10年期国债收益率较前收盘下跌0.91%。
+  📰 [Yahoo Finance](https://finance.yahoo.com/quote/%5ETNX)
+
+---
+※Stock Market Daily Digest | 2026.10.30
