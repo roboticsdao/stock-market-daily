@@ -1,15 +1,15 @@
 {
   "kind": "market",
-  "updated_at": "2026-11-01T01:28:04.929299+09:00",
+  "updated_at": "2026-11-01T02:45:11.422091+09:00",
   "status": {
     "state": "ok",
-    "checked_at": "2026-11-01T01:28:04.929299+09:00",
-    "latest_article_at": "2026-11-01T00:32:55+09:00",
-    "articles": 21,
+    "checked_at": "2026-11-01T02:45:11.422091+09:00",
+    "latest_article_at": "2026-11-01T02:05:21+09:00",
+    "articles": 23,
     "sections": {
       "美国股市 / US Market": 8,
       "日本株式市場 / Japan Market": 8,
-      "宏观经济与投资 / Macro & Investment": 5
+      "宏观经济与投资 / Macro & Investment": 7
     },
     "shortfalls": {},
     "translations_missing": 0
@@ -23,8 +23,8 @@
       "url": "https://247wallst.com/investing/2026/10/31/the-nasdaq-100-briefly-fell-into-a-correction-as-the-ai-trade-cracks/",
       "language": "English",
       "section": "美国股市 / US Market",
-      "summary": "On October 30, 2026, the Nasdaq 100 briefly dropped 10% into a correction during the session, hitting an intraday low of 28,093.24 before closing down 3.46% at 28,384.85. The selling originated in chips, led by Intel falling 28.6% after issuing lower fourth-quarter revenue guidance of $15 billion to $16 billion. Joe Tigay of Equity Armor Investments stated that the AI trade is moving from hopes and dreams to a show-me phase. Meanwhile, Amazon CEO Andy Jassy noted expected 2026 capital expenditures of approximately $220 billion.",
-      "summary_zh": "在2026年10月30日，纳斯达克100指数在盘中一度跌入10%的修正区间，触及28,093.24点的盘中低点，随后收盘下跌3.46%，报28,384.85点。 抛售潮始于芯片股，其中英特尔在发布150亿美元至160亿美元的第四季度营收预期（低于此前报告的$16.5 billion）后大跌28.6%。 Equity Armor Investments的投资组合经理乔·蒂盖表示，人工智能交易正从希望与梦想阶段进入实力证明阶段。 同时，亚马逊首席执行官安迪·杰西指出，预计2026年的资本支出约为2200亿美元。"
+      "summary": "The Nasdaq-100 briefly dipped into a correction on October 30, 2026, falling 3.46% to close at 28,384.85 after hitting an intraday low of 28,093.24, which was 10.0% below its October 6 record. Semiconductor stocks led the sell-off, with Intel shares dropping 28.6% following fourth-quarter revenue guidance of $15 billion to $16 billion. The Philadelphia Semiconductor Index fell 7.2%, and Invesco QQQ Trust closed down 3.47% at $690.49. Equity Armor Investments portfolio manager Joe Tigay stated that the AI trade was moving from the hopes and dreams phase to the show me phase. Investors questioned whether massive AI data center spending would pay off, while Amazon CEO Andy Jassy noted that 2026 capital expenditures were still expected to reach approximately $220 billion.",
+      "summary_zh": "在2026年10月30日，纳斯达克100指数盘中一度跌入修正区间，盘中触及28,093.24点的低点，较10月6日的纪录高位下跌了10.0%，随后收盘时回升至28,384.85点，跌幅为3.46%。 由于第四季度营收指引降至150亿至160亿美元，英特尔股价暴跌28.6%，引领芯片股重挫。 费城半导体指数下跌7.2%，Invesco QQQ信托基金收跌3.47%至$690.49。 Equity Armor Investments的投资组合经理乔·蒂盖表示，人工智能交易正从希望与梦想阶段过渡到用实力证明阶段。 投资者开始质疑数千亿美元的人工智能数据中心支出能否得到回报，而亚马逊首席执行官安迪·贾西则指出，预计2026年的资本支出仍将达到大约$220 billion。"
     },
     {
       "date": "2026.10.31",
@@ -34,19 +34,8 @@
       "url": "https://finance.yahoo.com/markets/article/wall-streets-favorite-stocks-are-in-their-worst-slump-since-2010-chart-of-the-day-124436147.html",
       "language": "English",
       "section": "美国股市 / US Market",
-      "summary": "Throughout 2026, S&P 500 stocks with the highest share of analyst Buy ratings underperformed those with the lowest share, marking the third-worst stretch in Piper Sandler data since 1995, according to chief investment strategist Michael Kantrowitz. Kantrowitz noted that the sell side's most favored stocks lagged behind the least favored for most of the year. During the week, Alphabet recorded its worst month in history, Intel experienced its worst day since 1974, and the Nasdaq suffered its largest daily drop since June. The AI trade lost about $5 trillion in market value since October 6, with Nvidia and Alphabet accounting for about $835 billion each.",
-      "summary_zh": "根据Piper Sandler首席投资策略师迈克尔·坎特罗维茨的数据，整个2026年，标普500指数中获得分析师买入评级比例最高的股票表现逊于比例最低的股票，创下自1995年以来Piper数据的第三差表现。 坎特罗维茨指出，卖方最青睐的股票在今年大部分时间里落后于最不受青睐的股票。 本周，Alphabet创下历史最差月份，英特尔遭遇1974年以来最糟糕的一天，纳斯达克则经历了6月以来最大单日跌幅。 自10月6日以来，人工智能交易已损失约$5 trillion市值，其中英伟达和Alphabet各自缩水约8350亿美元。"
-    },
-    {
-      "date": "2026.10.31",
-      "published_at": "2026-10-31T21:39:10+09:00",
-      "headline": "In 1993, 3 Friends Met At Denny's To Talk About Making A Chip That Would Allow Computers To Create Realistic 3D Graphics. By The Mid-1990s, The Company Was Weeks From Running Out Of Cash. Today Nvidia Is Worth Nearly $5 Trillion",
-      "source": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/2026/10/31/in-1993-3-friends-met-at-dennys-to-talk-about-making-a-chip-that-would-allow-computers-to-create-realistic-3d-graphics-by-the-mid-1990s-the-company-was-weeks-from-running-out-of-cash-today-nvidi/",
-      "language": "English",
-      "section": "美国股市 / US Market",
-      "summary": "In 1993, Jensen Huang, Chris Malachowsky, and Curtis Priem founded Nvidia after meeting at a Denny's in East San Jose. The company's first product, the NV1, suffered a near-total return rate when 249,000 of 250,000 units came back, leaving the startup weeks away from running out of cash in the mid-1990s. Sega provided a $5 million investment in 1995 that extended the company's runway, leading to the 1997 release of the RIVA 128 and a 1999 initial public offering. By October 30, 2026, Nvidia reached a market value of $4.94 trillion, with recent quarterly revenue rising 105.85% year over year to $96.22 billion.",
-      "summary_zh": "1993年，黄仁勋、克里斯·马拉乔夫斯基和柯蒂斯·普里姆在圣何塞东部的Denny's餐厅会面后创立了英伟达。 该公司的首款产品NV1遭遇了近乎全线退货，在发出的25万台中有24万9千台被退回，导致这家初创公司在20世纪90年代中期面临资金耗尽的危机。 世嘉在1995年提供了500万美元的投资，延长了公司的生存时间，并促成了1997年RIVA 128的发布以及1999年的首次公开募股。 截至2026年10月30日，英伟达的市值达到$4.94 trillion，其最近的季度营收同比增长105.85%至962.2亿美元。"
+      "summary": "Piper Sandler chief investment strategist Michael Kantrowitz reported that S&P 500 stocks with the highest share of analyst Buy ratings have underperformed those with the lowest share for most of 2026, marking the third-worst stretch in data going back to 1995. Big Tech results revived concerns over AI spending, contributing to an estimated $5 trillion loss in market value for the AI trade since October 6, with approximately $1.6 trillion lost on Friday alone. Nvidia and Alphabet each shed about $835 billion, while the remaining 625 large US stocks in Yahoo Finance's count gained about $1.3 trillion over the same period, led by Eli Lilly, Walmart, and Exxon Mobil. Piper picks groups from both ends of 11 sectors, and the slump affected six of nine names on Piper's favored list, while nearly all of the least-loved stocks posted gains.",
+      "summary_zh": "派杰投资首席投资策略师迈克尔·坎特罗维茨报告称，在2026年的大部分时间里，标普500指数中获得分析师买入评级比例最高股票的表现一直落后于买入评级比例最低的股票，这是自1995年以来的第三差表现。 大型科技公司的业绩重新引发了对人工智能支出的担忧，导致人工智能交易自10月6日以来蒸发了约$5 trillion的市值，仅在周五一天就损失了约$1.6 trillion。 英伟达和Alphabet各自缩水约$835 billion，而雅虎财经统计的其他625家美国大盘股在同一时期内上涨了约$1.3 trillion，由礼来、沃尔玛和埃克森美孚领涨。 派杰从11个行业的两端挑选股票，其偏爱名单上的九只股票中有六只出现下跌，而不受青睐的股票几乎全部上涨。"
     },
     {
       "date": "2026.10.31",
@@ -56,8 +45,8 @@
       "url": "https://www.marketbeat.com/instant-alerts/filing-tesla-inc-tsla-stock-greenup-street-wealth-management-llc-raises-position-2026-10-31/",
       "language": "English",
       "section": "美国股市 / US Market",
-      "summary": "Greenup Street Wealth Management LLC increased its Tesla holdings by 20.1% in the third quarter, acquiring an additional 2,879 shares to own a total of 17,172 shares valued at $6,093,000, according to a 13F filing. Other institutional investors, including Petros Family Wealth LLC and Arta Finance Wealth Management LLC, also grew their stakes. Tesla reported third-quarter earnings of $0.48 per share, beating the consensus estimate of $0.46, on revenue of $28.05 billion, which was down 0.2% year over year. The company generated $1.5 billion in free cash flow and reduced its 2026 capital-spending forecast to $20 billion.",
-      "summary_zh": "根据13F文件，Greenup Street Wealth Management LLC在第三季度将其特斯拉持股量增加了20.1%，增购了2,879股，总共持有17,172股，价值6,093,000美元。 Petros Family Wealth LLC和Arta Finance Wealth Management LLC等其他机构投资者也增持了股份。 特斯拉报告第三季度每股收益为0.48美元，超过0.46美元的普遍预期；营收为280.5亿美元，同比下降0.2%。 该公司产生了15亿美元的自由现金流，并将2026年的资本支出预测下调至200亿美元。"
+      "summary": "Greenup Street Wealth Management LLC increased its Tesla holdings by 20.1% during the third quarter, owning 17,172 shares valued at $6,093,000, representing 0.7% of its portfolio. Other institutional investors also modified positions, including Petros Family Wealth LLC lifting holdings by 31.6% to 2,197 shares valued at $780,000, DWM Financial Group buying a new stake worth $226,000, Arta Finance increasing holdings by 19.8% to 12,902 shares worth $4,578,000, Whelan Financial raising holdings by 13.9% to 3,698 shares worth $1,312,000, and Raleigh Capital Management lifting its position by 4.4% to 3,696 shares valued at $1,312,000. Institutional investors own 66.20% of Tesla stock. Tesla opened at $399.81 on Friday with a market cap of $1.58 trillion. The company reported third-quarter earnings of $0.48 per share on revenue of $28.05 billion.",
+      "summary_zh": "根据提交给美国证券交易委员会的最新13F文件，Greenup Street Wealth Management LLC在第三季度将其特斯拉持股比例提高了20.1%，持有17,172股这家电动汽车生产商的股票，价值$6,093,000，占其投资组合的0.7%。 其他机构投资者也调整了持仓，其中Petros Family Wealth LLC增持31.6%至2,197股，价值$780,000；DWM Financial Group新建价值$226,000的头寸；Arta Finance增持19.8%至12,902股，价值$4,578,000；Whelan Financial增持13.9%至3,698股，价值$1,312,000；Raleigh Capital Management增持4.4%至3,696股，价值$1,312,000。 机构投资者持有该公司66.20%的股份。 特斯拉周五开盘价为$399.81，市值达$1.58 trillion。 该公司公布第三季度每股收益为$0.48，营收为$28.05 billion。"
     },
     {
       "date": "2026.10.31",
@@ -67,74 +56,85 @@
       "url": "https://www.openingbelldailynews.com/p/stock-market-this-week-oct-31-2026",
       "language": "English",
       "section": "美国股市 / US Market",
-      "summary": "Alphabet stock fell 12.6% over the week, recording the largest decline among the Magnificent Seven as six of the seven stocks declined. Alphabet closed on Friday at $279.84, down from $320.21 the previous week, following its quarterly earnings report released after the market close on Wednesday. Tesla was the sole gainer among the group, rising 7.41%. Other weekly performances included Microsoft down 0.49%, Apple down 0.89%, Nvidia down 2.99%, Amazon down 3.08%, and Meta down 4.29%.",
-      "summary_zh": "Alphabet股价在本周下跌12.6%，在“七大科技巨头”中跌幅最大，这七只股票中有六只下跌。 在周三收盘后发布季度财报后，Alphabet周五收于279.84美元，低于前一周的320.21美元。 特斯拉是该群体中唯一上涨的股票，涨幅为7.41%。 其他股票周表现为：微软下跌0.49%，苹果下跌0.89%，英伟达下跌2.99%，亚马逊下跌3.08%，Meta下跌4.29%。"
+      "summary": "Alphabet stock fell 12.6% over the week, marking the largest decline among the Magnificent Seven as six of the seven stocks experienced losses. Alphabet closed Friday at $279.84, down from $320.21 the previous week, following the release of its quarterly earnings after the market close on Wednesday. Tesla was the only Magnificent Seven stock to register a gain, rising 7.41%. The weekly performances for the other members included Microsoft down 0.49%, Apple down 0.89%, Nvidia down 2.99%, Amazon down 3.08%, and Meta down 4.29%. Alphabet, Microsoft, and Amazon all reported earnings during the week and none finished higher.",
+      "summary_zh": "Alphabet股价在本周下跌12.6%，在“七大科技巨头”中跌幅最大，该群体中有六只股票出现下跌。 在周三收盘后发布季度财报后，Alphabet周五收盘价为$279.84，低于一周前的$320.21。 特斯拉是“七大科技巨头”中唯一上涨的股票，涨幅为7.41%。 其他成员周度表现分别为：微软下跌0.49%，苹果下跌0.89%，英伟达下跌2.99%，亚马逊下跌3.08%，Meta下跌4.29%。 Alphabet、微软和亚马逊均在本周发布了财报，且无一收高。"
     },
     {
       "date": "2026.10.31",
-      "published_at": "2026-10-31T13:45:31+09:00",
-      "headline": "Amazon.com, Inc. (AMZN) stock price, news, quote and history",
-      "source": "Yahoo Finance UK",
-      "url": "https://uk.finance.yahoo.com/quote/AMZN/",
+      "published_at": "2026-10-31T09:14:00+09:00",
+      "headline": "US: Wall Street closes sharply lower as AI cash burn fears spark tech sell-off",
+      "source": "The Business Times",
+      "url": "https://www.businesstimes.com.sg/companies-markets/us-wall-street-closes-sharply-lower-ai-cash-burn-fears-spark-tech-sell",
       "language": "English",
       "section": "美国股市 / US Market",
-      "summary": "Amazon. com, Inc. (AMZN) closed its previous session at 243.79 with an open of 232.53, a bid of 238.00 x 200, and an ask of 243.17 x 200. The day's range was 229.36 to 241.54, while its 52-week range stood at 196.00 to 287.20. Volume reached 104,652,185 against an average volume of 37,978,881, and its intra-day market capitalization was 2.599T. The trailing P/E ratio was 19.43 with a diluted EPS of 12.37, and the next earnings date is scheduled for 29 Oct 2026. The 1-year target estimate is 331.77. Financial metrics include a profit margin of 16.90%, return on assets of 6.62%, return on equity of 27.42%, trailing revenue of 797.46B, trailing net income available to common stock of 134.78B, total cash of 114.23B, total debt-to-equity of 44.32%, and levered free cash flow of -11.55B.",
-      "summary_zh": "亚马逊公司（AMZN）前收盘价为243.79，开盘价为232.53，买入价为238.00乘以200，卖出价为243.17乘以200。 当日价格区间为229.36至241.54，52周价格区间为196.00至287.20。 成交量达到104,652,185，平均成交量为37,978,881，盘中市值达2.599T。 滚动市盈率为19.43，每股收益为12.37，财报发布日期定于2026年10月29日，1年目标价估计为331.77。 财务指标包括利润率16.90%，资产回报率6.62%，净资产收益率27.42%，滚动收入797.46B，普通股股东应占净收入134.78B，总现金114.23B，总债务与股权比率44.32%，杠杆自由现金流为-11.55B。"
+      "summary": "US stocks tumbled on Friday, October 30, with the Nasdaq sliding 2.9 per cent to 25,437 for its largest one-day percentage drop since June 5, driven by disappointing quarterly results from Intel and Amazon that heightened concerns over massive AI spending. The Dow Jones Industrial Average fell 572.25 points or 1.1 per cent to 51,770.31, and the S&P 500 lost 140.32 points or 1.8 per cent to 7,580.07. Intel shares plunged 28.6 per cent, Nvidia dropped 4.2 per cent, and AMD slid 10.9 per cent. Oliver Pursche, senior vice-president at Wealthspire Advisors, stated that the week focused on the future of artificial intelligence and whether there would be a positive return on investment. Meanwhile, oil supermajors Exxon Mobil and Chevron gained 2.2 per cent and 2.8 per cent due to energy supply disruptions from conflicts, while cryptocurrency firms fell following reports of a US$6.3 billion hack on Binance.",
+      "summary_zh": "美国股市在10月30日周五大幅下跌，纳斯达克指数下挫2.9%至25,437点，创下6月5日以来的最大单日百分比跌幅。 英特尔和亚马逊令人失望的季度业绩加剧了人们对巨额人工智能支出的担忧，从而引发了此次科技股抛售。 道琼斯工业平均指数下跌572.25点或1.1%，至51,770.31点；标普500指数下跌140.32点或1.8%，至7,580.07点。 英特尔股价暴跌28.6%，英伟达下跌4.2%，AMD下挫10.9%。 Wealthspire Advisors高级副总裁奥利弗·普尔施表示，本周主要围绕人工智能的未来以及是否存在积极的投资回报展开。 同时，受冲突导致的能源供应中断影响，石油巨头埃克森美孚和雪佛龙分别上涨2.2%和2.8%，而加密货币公司则因币安遭黑客盗取US$6.3 billion的报道而下跌。"
     },
     {
       "date": "2026.10.31",
-      "published_at": "2026-10-31T06:04:00+09:00",
-      "headline": "In A Bad Week For The AI Trade, This One Mag Seven Stock Holds Strong",
-      "source": "Investor's Business Daily",
-      "url": "https://www.investors.com/news/tesla-nvidia-amazon-google-alphabet-microsoft-apple-meta-tech-earnings-magnificent-seven/",
+      "published_at": "2026-10-31T03:58:00+09:00",
+      "headline": "If AI Spending Slows in 2027, These Semiconductor Stocks Could Hold Up Best",
+      "source": "24/7 Wall St.",
+      "url": "https://247wallst.com/investing/2026/10/30/if-ai-spending-slows-in-2027-these-semiconductor-stocks-could-hold-up-best/",
       "language": "English",
       "section": "美国股市 / US Market",
-      "summary": "As artificial intelligence stocks weathered a difficult week characterized by investor concerns over hyperscalers' spending and good-but-not-great quarters, Tesla stood out among the Magnificent Seven stocks. According to MarketSurge, Tesla rose 7.4% this week before Friday's open, remaining immune to the doubts that affected its peers.",
-      "summary_zh": "在人工智能股票经历艰难一周之际，由于投资者对超大规模企业的支出以及表现平平的季度财报感到担忧，特斯拉在“七巨头”股票中脱颖而出。 根据MarketSurge的数据，在周五开盘前，特斯拉本周上涨了7.4%，似乎未受到同类股票所遭遇的质疑的影响。"
+      "summary": "As AI budgets face potential pressure heading into 2027, three key semiconductor stocks—NVIDIA, Micron Technology, and Taiwan Semiconductor Manufacturing Company (TSM)—control vital supply chain choke points and have seen strong year-to-date share price gains of 16.58%, 240.82%, and 45.35% respectively. Wall Street consensus price targets suggest significant upside of about 52% for NVIDIA at $328.95, 61% for Micron at $1,561.91, and 33% for TSM at $584.39, with analysts recently raising earnings estimates and all three companies exceeding recent EPS forecasts. To reach more aggressive targets of $350 for NVIDIA, $1,800 for Micron, and $600 for TSM, specific conditions must be met: NVIDIA's chief executive noted that demand exceeds supply while delivery is targeted at 70%; Micron has over 75% of fiscal 2027 shipments committed along with 26 strategic customer agreements through 2030; TSMC served 534 customers in 2025, with CEO C. C. Wei stating they saw no slowdown signs for AI accelerators while N2 capacity is expected to more than double in 2027; and top five hyperscaler capital expenditures are projected to reach $1.3 trillion in 2027. Potential hurdles include TSMC exercising business planning prudence for 2027 and NVIDIA carrying $279 billion in supply commitments. Historical five-year returns show NVIDIA up 773.55%, Micron up 1330.97%, and TSMC up 309.21%, underpinned by massive market caps of $5.23 trillion, $1.10 trillion, and $2.27 trillion.",
+      "summary_zh": "随着2027年人工智能预算面临压力，英伟达、美光科技和台湾积体电路制造公司这三家控制着供应链关键节点的芯片制造商股价今年以来分别上涨了16.58%、240.82%和45.35%。 华尔街的共识目标价显示，英伟达为$328.95，美光为$1,561.91，台积电为$584.39，分别对应约52%、61%和33%的上涨空间，且三家公司最近的每股收益均超出了预期。 为了达到每只股票的激进目标价（英伟达$350、美光$1,800、台积电$600），需满足特定条件：英伟达首席执行官表示需求远大于70%但供应允许自信交付70%；美光已锁定2027财年超过75%的出货量，并拥有涵盖至2030年的26项战略客户协议；台积电2025年服务了534家客户，首席执行官魏哲家表示未看到人工智能加速器放缓的迹象，且N2产能预计在2027年增加一倍以上；前五大超大规模企业的资本支出预计在2027年达到$1.3 trillion。 潜在障碍包括台积电在2027年业务规划中保持谨慎，以及英伟达承担了$279B的供应承诺。 过去五年的历史回报显示，英伟达回报率为773.55%，美光为1330.97%，台积电为309.21%，市值分别达到$5.23 trillion、$1.10 trillion和$2.27 trillion。"
     },
     {
       "date": "2026.10.31",
-      "published_at": "2026-10-31T05:34:46+09:00",
-      "headline": "US tech stocks see sharp falls as AI spending nears $1tn",
-      "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/cvwy72e0n72yo",
+      "published_at": "2026-10-31T03:02:22+09:00",
+      "headline": "Chip stocks crash: Intel plunges 30%, AMD drops 12%, Nvidia and Broadcom also slide — what's driving the selloff?",
+      "source": "Livemint",
+      "url": "https://www.livemint.com/market/stock-market-news/chip-stocks-crash-intel-plunges-30-amd-drops-12-nvidia-and-broadcom-also-slide-whats-driving-the-selloff-11793380373861.html",
       "language": "English",
       "section": "美国股市 / US Market",
-      "summary": "US tech stocks suffered sharp declines for a second consecutive day amid rising concerns over hundreds of billions of dollars being invested in artificial intelligence. On Friday, Intel shares plummeted by 28%, losing over $130bn in value after finance chief David Zinsner stated the firm expects to spend more cash than it brings in this year and forecast lower-than-expected fourth-quarter revenue amid a continuing PC slowdown. Alphabet saw its stock fall another 1.4% following a 12% plunge on Thursday, wiping out more than $500bn (£374bn) in market value after revealing that AI search summaries impacted search advertising revenue; Alphabet expects to invest up to $205bn this year, mostly in AI. Amazon shares dropped 1.4% after reporting its spending increased six-fold over three months as part of a $220bn commitment for the year toward AI data centres, network equipment, and servers. Reddit plummeted 29% due to weaker daily users and Google's AI search hurting referral traffic, while Roblox fell 18% on declining active users. Meta, Alphabet, Oracle, Amazon, and Microsoft have committed to spending $800bn between them in 2026. FHN Financial analyst Chris Low noted these companies are showing growing pains as they pursue AI, while XTB research director Kathleen Brookes stated investors have turned ruthless regarding third-quarter earnings disappointments.",
-      "summary_zh": "由于市场对数千亿美元人工智能投资的担忧加剧，美国科技股连续第二天大幅下跌。 周五，英特尔股价暴跌28%，市值缩水超过$130bn。 此前其财务负责人大卫·津斯纳表示，在个人电脑市场持续放缓的背景下，公司预计今年现金支出将超过收入，并预测第四季度营收低于预期。 谷歌母公司Alphabet股价继周四暴跌12%之后又下跌1.4%，在透露AI搜索摘要影响了搜索广告收入后，其市值蒸发了超过$500bn（£374bn）；Alphabet预计今年将进行高达$205bn的投资，几乎全部与AI相关。 亚马逊股价下跌1.4%，此前该公司公布其三个月内的支出增加了六倍，这是其今年用于AI数据中心、网络设备和服务器等$220bn投资计划的一部分。 Reddit股价暴跌29%，原因在于日活用户数据疲软以及谷歌不断发展的AI驱动搜索损害了推荐流量，同时罗布乐思因日活跃用户数下降下跌18%。 Meta、Alphabet、Oracle、Amazon和Microsoft已承诺在2026年共同支出的资金达到$800bn。 FHN Financial分析师克里斯·洛指出，这些公司在追求AI建设时表现出了成长痛，而XTB研究总监凯瑟琳·布鲁克斯则表示，投资者对第三季度的业绩失望变得冷酷无情。"
+      "summary": "A multi-fold profit surge at China's ChangXin Memory Technologies (CXMT) triggered a semiconductor selloff in Friday's trade on October 30, compounded by disappointing earnings from Amazon and Intel that aggravated growth concerns on Wall Street. Intel led losses by plunging 30%, followed by Advanced Micro Devices (AMD) down 12%, Qualcomm down 12%, SanDisk down 9.7%, Broadcom down 5%, Nvidia down 4.86%, Micron Technology down 4%, and Amazon down 2%. CXMT reported a more than sevenfold year-on-year increase in third-quarter revenue to 118.71 billion yuan ($16.7 billion)—up 19.3% from the previous quarter—driven by memory chip demand and tight global supplies, while net profit attributable to shareholders reached 54.4 billion yuan ($8.17 billion) for the three months ended September 30, reversing a prior-year loss. For the first nine months of 2026, CXMT revenue reached 269.02 billion yuan with net profit at 132.04 billion yuan, reversing a loss of about 5.3 billion yuan last year. Amazon reported third-quarter property and equipment spending exceeding expectations at more than $77 billion amid data center expansion and AI service demand, alongside slower online retail growth, forecasting capital expenditures of $220 billion for the year. Intel warned of cash burning due to a weak PC market, manufacturing bottlenecks, and heavy production expansion spending, forecasting fourth-quarter revenue and profit below expectations with PC segment sales expected to drop over 20% sequentially. Alphabet shares also dropped 13% on Thursday following search and advertising sales results that raised AI threat concerns, which could wipe out early Nasdaq 100 weekly gains following events like Anthropic's IPO filing, Meta's capital raise of more than $95 billion, and SpaceX's $40 billion equipment-finance lease.",
+      "summary_zh": "10月30日周五，中国长鑫存储技术有限公司利润成倍飙升引发了芯片股抛售潮，同时亚马逊和英特尔令人失望的财报加剧了华尔街对增长的担忧。 英伟达、AMD、高通、闪迪、博通、英伟达、美光科技和亚马逊等公司股价分别暴跌或下跌。 长鑫存储公布第三季度营业收入同比增长七倍以上至118.71 billion yuan（$16.7 billion），环比增长19.3%，归属于股东的净利润达到54.4 billion yuan（$8.17 billion），扭转了去年同期的亏损。 2026年前九个月，长鑫存储营业收入达到269.02 billion yuan，净利润为132.04 billion yuan，扭转了去年同期约5.3 billion yuan的亏损。 亚马逊公布第三季度物业和设备支出超过预期达到$77 billion以上，预计今年全年资本支出为$220 billion。 英特尔警告称由于个人电脑市场疲软、制造瓶颈和沉重的生产扩张支出，今年将出现现金消耗，并预测第四季度营收和利润低于预期。 Alphabet股价周四也下跌了13%，此前其搜索和广告销售业绩引发了投资者对人工智能威胁其核心业务的担忧，这些最新业绩可能抹去纳斯达克100指数本周初的涨幅。"
+    },
+    {
+      "date": "2026.10.31",
+      "published_at": "2026-10-31T02:58:15+09:00",
+      "headline": "Why are Micron, SK Hynix, and SanDisk stocks falling on Friday?",
+      "source": "Invezz",
+      "url": "https://invezz.com/ng/news/2026/10/30/why-are-micron-sk-hynix-and-sandisk-stocks-falling-on-friday/",
+      "language": "English",
+      "section": "美国股市 / US Market",
+      "summary": "Memory chip stocks including Micron Technology, SK Hynix, and SanDisk fell sharply on Friday due to a broader semiconductor sell-off triggered by disappointing earnings from Amazon and Intel. Micron declined about 5%, SK Hynix fell over 7%, and SanDisk dropped more than 10% despite reporting stronger-than-expected fiscal first-quarter earnings and issuing an upbeat outlook. The Philadelphia Semiconductor Index slid over 6% and the Nasdaq fell more than 2%. Amazon missed expectations on revenue and earnings, maintaining its 2026 capital expenditure forecast of $220 billion while reporting negative free cash flow for a second consecutive quarter with an enlarged deficit. Intel shares plunged around 29% after forecasting December-quarter revenue below market expectations, warning that PC market weakness could persist through the first half of 2027 and that it would burn cash amid manufacturing bottlenecks, supply disruptions, and heavy investment in production expansion. Intel CEO Lip-Bu Tan stated on a conference call that they were unable to meet strong customer demand due to manufacturing supply shortages, an unprecedented memory crunch, and resulting PC demand softness. Concurrently, China's largest DRAM supplier by revenue, ChangXin Memory Technologies (CXMT), reported a net profit attributable to shareholders of 54.4 billion yuan ($8.11 billion) for the three months ended September 30, with a gross margin rising to 89.53% and revenue surging 613.2% year over year to 118.71 billion yuan.",
+      "summary_zh": "由于亚马逊和英特尔令人失望的财报引发了更广泛的半导体抛售潮，美光科技、SK海力士和闪迪等内存芯片股周五急剧下跌。 尽管美光科技、SK海力士和闪迪公布了强于预期的第一财季财报并发布了乐观的前景，但美光下跌约5%，SK海力士下跌超过7%，闪迪跌幅超过10%。 费城半导体指数下滑逾6%，纳斯达克指数下跌超过2%。 亚马逊营收和利润均逊于预期，维持2026年资本支出预测为$220 billion，同时连续第二个季度报告自由现金流为负且赤字扩大。 英特尔股价暴跌约29%，因其预测12月季度的营收低于市场预期，并警告个人电脑市场的疲软可能会持续到2027年上半年，且在制造瓶颈和生产扩张重投资下将消耗现金。 英特尔首席执行官陈立武在电话会议上表示，由于制造供应短缺、前所未有的内存危机以及随之而来的个人电脑需求疲软，公司未能满足强劲的客户需求。 与此同时，中国收入最大的DRAM供应商长鑫存储技术有限公司公布截至9月30日的三个月归属于股东的净利润为54.4 billion yuan（$8.11 billion），毛利率上升至89.53%，营收同比飙升613.2%至118.71 billion yuan。"
     },
     {
       "date": "2026.11.01",
-      "published_at": "2026-11-01T00:00:00+09:00",
-      "headline": "米中間選挙やトヨタなど決算発表 今週の予定11月1日〜",
-      "source": "日本経済新聞",
-      "url": "https://www.nikkei.com/article/DGXZQOCD260TB0W6A021C2000000/",
-      "language": "Japanese",
-      "section": "日本株式市場 / Japan Market",
-      "summary": "Various political, economic, and corporate events are scheduled for the week of November 1. On Monday, November 2, the Disaster Prevention Agency will be established, and earnings will be released by SBI Holdings, SBI Shinsei Bank, Sumitomo Corporation, Sumitomo Chemical, Japan Airlines, and Apple, alongside the opening of China's National People's Congress Standing Committee and an oil exhibition in Abu Dhabi. Tuesday, November 3 marks the 80th anniversary of the Constitution of Japan, the US midterm elections, and earnings from Saudi Aramco. Wednesday, November 4 features earnings from NTT, Mitsubishi Corporation, Mitsui & Co. , Itochu Corporation, Marubeni, and IHI, alongside Bank of Japan monetary base data and Brazil central bank meetings. Thursday, November 5 includes earnings from Toyota Motor, Sony Group, Nippon Steel, Nippon Yusen, Mitsubishi Chemical Group, Nintendo, and Kao, plus the release of BOJ meeting minutes from September 17 to 18. Friday, November 6 brings earnings from Yamada HD, Mitsubishi Heavy Industries, Mitsui Fudosan, KDDI, and JFE HD, alongside Japan's monthly labor survey and US employment statistics for October. Saturday, November 7 includes the New Zealand general election.",
-      "summary_zh": "11月1日这一周安排了多项政治、经济和企业活动。 11月2日星期一，防灾厅将成立，SBI控股、SBI新生银行、住友商事、住友化学、日本航空和苹果公司将发布财报，同时中国全国人大常委会会议及阿布扎比石油展也将开幕。 11月3日星期星期二迎来日本国宪法公布80周年、美国中间選挙以及沙特阿美公司的财报。 11月4日星期三包含NTT、三菱商事、三井物产、伊藤忠商事、丸红和IHI的财报，以及日本央行的货币基础数据和巴西央行会议。 11月5日星期四包括丰田汽车、索尼集团、日本制铁、日本邮船、三菱化学集团、任天堂和花王的财报，此外还有9月17日至18日的日本央行货币政策会议纪要。 11月6日星期星期五公布山田控股、三菱重工业、三井不动产、KDDI和JFE控股的财报，以及日本9月每月劳动统计调查和美国10月就业统计数据。 11月7日星期六包括新西兰大选。"
-    },
-    {
-      "date": "2026.10.31",
-      "published_at": "2026-10-31T23:01:38+09:00",
+      "published_at": "2026-11-01T02:05:21+09:00",
       "headline": "来週（11/2〜11/6）の日経平均株価の予想レンジは6万1000～6万5000円！ 米・中間選挙や雇用統計、アップル決算、さらに金融政策や金利の動向に注目！",
       "source": "ダイヤモンド・オンライン",
       "url": "https://diamond.jp/zai/articles/-/1074815",
       "language": "Japanese",
       "section": "日本株式市場 / Japan Market",
-      "summary": "Nikkei Average fluctuated over the week, ultimately closing up 596.95 yen or 0.95% at 63,290.11 yen, driven by corporate earnings reactions, a rebound in US stocks, and Advantest's upward earnings revision. The US Federal Open Market Committee decided to keep interest rates at 3.75 to 4.00%, while the Bank of Japan maintained its rate at 1.25% and decided to increase the pace of selling held ETFs starting January 2027. However, concerns over tech earnings and AI investment returns caused a decline on Friday, with the Nikkei dropping 1,369.36 yen or 2.12% to close at 63,290.11 yen, pressured by a stronger yen around 157 yen per dollar and inflation fears from rising oil prices. For the upcoming week of November 2 to 6, the Nikkei projects a range of 61,000 to 65,000 yen, with attention on the US midterm elections on November 3, US employment statistics on November 6, ISM indices, and major domestic and foreign earnings including Apple, Toyota, Nintendo, and Mitsubishi Heavy Industries. Additionally, individual stocks saw notable movements, such as Circlace rising 83.09% following a TOB announcement by an affiliate of Hillhouse Capital at 2,020 yen per share, Asahi Eito Holdings advancing due to rare gas business developments, and Convano gaining from share consolidation, buybacks, and an AI healthcare brand site launch, while HEROZ and Tomen Devices declined.",
-      "summary_zh": "日经平均指数在本周内波动，受企业财报反应、美股反弹以及爱德万测试上调业绩预测的推动，最终收盘上涨596.95日元或0.95%，报63,290.11日元。 美国联邦公开市场委员会决定将政策利率维持在3.75至4.00%，而日本央行则将政策利率维持在1.25%，并决定自2027年1月起加快出售所持ETF的步伐。 然而，由于对科技股盈利和人工智能投资回报的担忧，周五市场出现下跌，日经指数下跌1,369.36日元或2.12%，收于63,290.11日元，同时受到1美元兑157日元左右的日元走强以及油价上涨带来的通胀警惕等因素的拖压。 在11月2日至6日的来周，日经平均指数预计在61,000至65,000日元的区间内波动，市场焦点集中在11月3日的美国中间选举、11月6日的美国雇用统计、ISM指数以及苹果、丰田、任天堂和三菱重工等国内外主要企业的财报上。 此外，个股出现显著异动，其中サークレイス因高瓴资本旗下公司以每股2020日元进行公开要约收购（TOB）的公告而上涨83.09%，ASAHI EITOホールディングス因稀气业务进展而上涨，コンヴァノ则因股份合并、股票回购以及发布医疗特化型AI代理“AXON”品牌网站而受到买盘青睐，而HEROZ和トーメンデバイス则出现下跌。"
+      "summary": "During the week of October 26 to 30, Japan's Nikkei Stock Average rose 596.95 yen or 0.95% to finish at 6,3290.11 yen, driven by corporate earnings reactions while experiencing high volatility amid AI and semiconductor stock fluctuations. The index dropped to 62,189.65 yen on October 26 due to selling pressure before rebounding for three consecutive days from October 27 to 29, aided by recovering US stocks and strong domestic corporate earnings, notably Advantest upgrading its earnings forecast which pushed the index to 64,831 yen on October 29. The US Federal Open Market Committee decided on October 28 to keep the policy rate at 3.75% to 4.00%, while the Bank of Japan decided on October 30 to maintain its policy rate at 1.25% and increase its holdings of ETF sales pace starting January 2027. However, on October 30, the Nikkei plummeted 1,369.36 yen or 2.12% to close at 63,290.11 yen due to heavy selling of major tech stocks following US tech earnings concerns, a stronger yen moving toward the 157 yen per dollar range, and inflation worries from rising oil prices. For the upcoming week of November 2 to 6, the Nikkei projects a range of 61,000 to 65,000 yen, with market participants closely monitoring the US midterm elections on November 3, US employment statistics on November 6, ISM indices, and major domestic and international corporate earnings including Apple, Qualcomm, Toyota, and Nintendo, alongside potential additional rate hike expectations by the Bank of Japan, oil prices, and foreign exchange fluctuations. In weekly individual stock movements, Circulate ranked top in price gains with an 83.09% increase following a tender offer at 2,020 yen per share by Hillhouse-backed HHH1, while Asahi Eito Holdings and Convano also saw notable moves, and HEROZ led the losers amid profit-taking.",
+      "summary_zh": "10月26日至30日这一周，日经平均指数上涨596.95日元（0.95%），以63,290.11日元收盘，盘中受企业财报及人工智能与半导体股票波动影响，走势剧烈震荡。 10月26日受抛售压力影响下跌至62,189.65日元，随后在美股回稳及国内企业强劲财报带动下于27日至29日连续三天反弹，爱德万测试上调业绩预期促使指数在29日回升至64,831.65日元。 美联储于10月28日决定将政策利率维持在3.75%至4.00%，日本央行于10月30日决定将政策利率维持在1.25%，并决定自2027年1月起提高持有ETF的出售步伐。 然而，由于美国科技股财报引发担忧导致科技股遭到抛售，加之日元兑美元汇率走强至157日元区间以及油价上涨带来的通胀担忧，日经指数在30日暴跌1,369.36日元（2.12%），收于63,290.11日元。 展望11月2日至6日的一周，日经平均指数预计震荡区间为61,000至65,000日元，市场将密切关注11月3日的美国中期选举、11月6日的美国就业统计数据、ISM指数以及苹果、高通、丰田汽车和任天堂等国内外主要企业的财报，同时防范日本央行潜在的加息预期、油价及外汇波动风险。 在个股方面，萨克雷斯因高瓴资本旗下的HHH1合同会社以每股2020日元进行公开要约收购，周涨幅以83.09%位居涨幅榜首，旭卫陶控股和康瓦诺也录得显著变动，而HEROZ则在短期获利盘回吐中领跌。"
+    },
+    {
+      "date": "2026.11.01",
+      "published_at": "2026-11-01T02:00:00+09:00",
+      "headline": "トヨタが5日に4〜9月決算発表 中国販売苦戦、堅調なHVが補えるか",
+      "source": "日本経済新聞",
+      "url": "https://www.nikkei.com/article/DGXZQOFD28BAG0Y6A021C2000000/",
+      "language": "Japanese",
+      "section": "日本株式市場 / Japan Market",
+      "summary": "Toyota Motor is scheduled to announce its consolidated financial results for the April-September period of 2026 on November 5. The market expects solid earnings driven by rising global sales of hybrid vehicles (HV) and the positive boosting effect of a weak yen. However, stock prices have remained sluggish amid struggling sales in China, raising attention on whether the upcoming financial results will outline a path to recovery. Production and sales leading up to this period fell below the previous year, with worldwide production for April through September 2026 decreasing by 2% year-on-year to 4.89 million units, and sales dropping by 4%. While performance in Japan and the United States has been relatively solid, gas vehicle sales faced challenges in specific regions.",
+      "summary_zh": "丰田汽车将于5日公布2026年4月至9月期间的合并财报。 市场预计，由于全球混合动力车（HV）销量增长以及日元贬值的推动效应，业绩表现将会稳健。 然而，由于在中国的销售陷入苦战，股价一直低迷，此次财报能否指明上升途径备受关注。 截至目前的生产和销售均低于上年同期，2026年4至9月的全球产量同比减少2%至489万辆，销量下降4%。 尽管日本和美国的表现相对稳健，但汽油车等销售在部分地区面临挑战。"
     },
     {
       "date": "2026.10.31",
-      "published_at": "2026-10-31T22:31:48+09:00",
-      "headline": "トヨタ/マツダ米国合弁工場（アラバマ工場）が累計生産台数100万台を達成、北米マツダ社長は\"次期型CX-50\"もアラバマ生産の可能性を明言。",
-      "source": "つらつらとMAZDA",
-      "url": "https://taku2-4885.hatenablog.com/entry/2026/10/31/223148",
+      "published_at": "2026-10-31T18:35:00+09:00",
+      "headline": "ソフトバンク出資のOPay、海外規制当局の調査を受け3億400万ドルのNYSE上場を撤回",
+      "source": "BigGo ファイナンス",
+      "url": "https://finance.biggo.jp/news/2f3cad00-1878-42a4-8a2b-e6de7465dda0",
       "language": "Japanese",
       "section": "日本株式市場 / Japan Market",
-      "summary": "米国のマツダとトヨタの合弁工場であるマツダ・トヨタ・マニュファクチャリング（MTMUS）は、アラバマ州ハンツビルの工場で累計生産台数100万台を達成した。 2021年9月の操業開始以来、トヨタは「カローラクロス」、マツダは「CX-50」を生産してきた。 北米マツダのTom Donnelly社長は、次世代CX-50もハンツビルで生産される予定であることを明かし、同社は2026年に過去最高の業績を見込んでいる。 また、2030年までに米国での年間販売台数50万台の達成を目標に掲げている。 一方で、マツダは米国での事業拡大に対して慎重な姿勢を示しており、巨額の投資が必要となる中でトヨタとの提携によってリスクを軽減している。 ハンツビルの工場にはさらなる生産拡大の余地があり、第3シフトの導入や生産ライン増設の可能性が指摘されている。",
-      "summary_zh": "美国马自达与丰田的合资工厂马自达丰田制造公司（MTMUS）宣布，其位于亚拉巴马州亨茨维尔的工厂累计产量已达到100万辆。 自2021年9月投产以来，丰田在该厂生产“卡罗拉跨界车”，马自达则生产“CX-50”。 北美马自达总裁Tom Donnelly透露，下一代“CX-50”也将由亨茨维尔工厂生产，并表示公司预计2026年将迎来创纪录的最佳业绩，同时设定了到2030年实现美国年销量50万辆的目标。 另一方面，面对巨额资金投入，马自达对在美扩大业务保持谨慎态度，通过与丰田合作降低了投资风险。 亨茨维尔工厂未来仍有扩展空间，相关人士指出未来可能通过增设第三班次或增加生产线来进一步提升产量。"
+      "summary": "ソフトバンクが出資するナイジェリアのデジタル決済プラットフォーム、OPay Ltd. は、海外規制当局の調査が浮上したことを受け、ニューヨーク証券取引所（NYSE）での3億400万ドルの新規株式公開（IPO）を中止すると発表した。 実現していれば今年の新興国フィンテック企業による米国上場としては最大級となる予定だった。 上場はADS1口19ドルで価格決定し、評価額約40億ドルで取引を開始する計画だったが、取引停止前の気配値は公開価格を下回っていた。 OPayは中核事業にとって重要でない法域に関わる調査だと説明し、財務実績や業務の健全性に問題はないと述べたが、規制当局の名称や事案の内容は明らかにせず、撤回が最も慎重な選択肢だったとした。 シティグループ、ドイツ銀行、スタンダード銀行などが共同主幹事を務め、2018年の事業開始以来ナイジェリアやエジプトなどで5,000万人以上のユーザーを抱える同社のIPO撤回は、新興国フィンテックの米国上場やアフリカ・南アジアからの類似案件に対する投資家意欲に影響を与える可能性がある。",
+      "summary_zh": "软银投资的尼日利亚数字支付平台 OPay Ltd. 宣布，由于海外司法管辖区出现监管机构调查，已撤回在纽约证券交易所进行价值 3 亿美元的首次公开募股。 若成功实现，这将是今年新兴市场金融科技公司在美国规模最大的上市交易之一。 该上市原本计划以每份美国存托凭证 19 美元定价，并以约 40 亿美元的估值开始交易，但在盘前交易中认购需求急剧降温，且在 NYSE 暂停交易后未能成行。 OPay 表示该调查涉及对其核心业务不重要的司法管辖区，并强调此决定不反映财务或业务存在问题，但未透露监管机构名称及具体事案。 花旗集团、德意志银行和南非标准银行担任联席主承销商。 OPay 自 2018 年开展业务以来，在尼日利亚、埃及、巴基斯坦和印度尼西亚拥有超过 5000 万用户，此次撤回对其在美国上市计划及类似新兴市场企业的投资者信心造成了波折。"
     },
     {
       "date": "2026.10.31",
@@ -144,19 +144,41 @@
       "url": "https://note.com/tatsuya_sabato/n/nbdecf1df5e3d",
       "language": "Japanese",
       "section": "日本株式市場 / Japan Market",
-      "summary": "2026年10月30日、新しいルールに基づく新TOPIX（東証株価指数）の運用が開始され、初回の定期入替で35銘柄が新たに採用される一方、683銘柄が「移行措置銘柄」として約2年をかけて段階的に指数から除外されることになった。 東証は流動性の向上や海外投資家の利便性向上を目的に見直しを進めており、移行完了時には構成銘柄の浮動株時価総額や1日あたり売買代金の中央値が大きく増加する見込みである。 移行措置銘柄は、四半期ごとに8回に分けて指数内でのウエイトが引き下げられ、2028年7月末までに完全に除外されるスケジュールとなっている。 これにより、一度に大量の売り注文が集中して株価が崩れるリスクを和らげる狙いがある。 個人投資家が保有するインデックスファンドへの影響については、長期的な積立投資であれば慌てて対応する必要はないとされているが、個別株投資においては需給の変化に注意が必要となる。",
-      "summary_zh": "2026年10月30日，基于新规则的新东证股价指数（新TOPIX）正式启动。 在首次定期调整中，有35只股票新纳入指数，而683只股票则作为“过渡措施股票”，将在约两年内分阶段逐步退出指数。 东京证券交易所推进此次调整旨在提升流动性并便利海外投资者，预计在过渡完成后，成份股的自由流通市值及日均成交额中位数将大幅增加。 过渡措施股票在指数中的权重将分八个季度逐步下调，计划在2028年7月底前完全从指数中剔除，此举旨在缓释集中抛售对股价造成冲击的风险。 对于个人投资者持有的指数基金而言，长期定投者无需惊慌采取应对措施，但在进行个股投资时则需要密切关注供求关系的变化。"
+      "summary": "2026年10月30日、日本株の代表的な株価指数であるTOPIXの新ルールに基づく初回の定期入替が実施され、35銘柄が新規採用される一方、683銘柄が移行措置銘柄として約2年をかけて段階的に除外されることになった。 TOPIXは浮動株時価総額で加重される日本株全体のベンチマークであり、2026年6月時点で約160兆円の資産が連動している。 今回の見直しは、旧東証1部の全銘柄構成による流動性の課題や一部大型株への依存を解消し、使い勝手のよい指数にするための第二段階にあたる。 新ルールではプライム、スタンダード、グロース市場が対象となり、年間売買代金回転率や浮動株時価総額の累積比率などの流動性基準が導入された。 683銘柄は四半期ごとに移行係数を8回に分けて12.5%ずつ引き下げることで、2028年7月末までに徐々に比率が減らされる仕組みとなっている。 新規採用には日本マクドナルドホールディングスやタイミーなどが含まれ、移行完了時には1銘柄あたりの規模と流動性が高まる一方、市場カバー率は維持される見込みである。",
+      "summary_zh": "2026年10月30日，日本股票代表性股价指数东证指数（TOPIX）在全新规则下实施了首次定期调整，有 35 只股票新纳入指数，而 683 只股票作为过渡措施股票将在约两年内分阶段逐步退出。 TOPIX 是以流通市值加权计算的日本股市整体基准，截至 2026 年 6 月与该指数挂钩的资产规模达到约 160 万亿日元。 此次调整是继旧东市一部全股票构成时期后，为解决流动性问题并提高指数易用性而实施的第二阶段改革。 新规则将适用范围扩大至主板、标准和成长市场，并引入了年换手率和流通市值累计比率等流动性标准。 这 683 只股票将通过每季度下调 12.5% 权重的方式分 8 次进行调整，计划在 2028 年 7 月底前完全剔除。 新纳入的股票包括日本麦当劳控股和 Taimei 等，在过渡完成后，单只股票的规模和流动性将显著提升，同时市场覆盖率预计将保持基本稳定。"
     },
     {
       "date": "2026.10.31",
-      "published_at": "2026-10-31T08:40:58+09:00",
-      "headline": "レーティング週報【最上位を継続＋目標株価を増額】(1) (10月26日－30日)(株探ニュース)",
-      "source": "Yahoo!ファイナンス",
-      "url": "https://finance.yahoo.co.jp/news/detail/49336f4f1325baff3fc787bc698b4e53aa30cfef",
+      "published_at": "2026-10-31T08:40:05+09:00",
+      "headline": "レーティング週報【最上位を継続＋目標株価を増額】(1) (10月26日－30日)",
+      "source": "株探",
+      "url": "https://s.kabutan.jp/news/n202610310138/",
       "language": "Japanese",
       "section": "日本株式市場 / Japan Market",
-      "summary": "10月26日から30日の期間において、複数の調査機関が投資判断を最上位に継続しつつ、目標株価を引き上げた銘柄がまとまった。 主な銘柄として、山崎製パン（2212）はゴールドマン・サックス証券が4100円から4300円へ、みずほ証券が4350円から4400円へ引き上げた。 JT（2914）はモルガン・スタンレーが7000円から8000円へ、ゴールドマン・サックス証券が7900円から8300円へ、UBS証券が8150円から8500円へ引き上げた。 SRE HOLDINGS（2980）は日興が3100円から4400円へ引き上げた。 さらに、さくらインターネット（3778）や信越化学工業（4063）、オービック（4684）、日立製作所（6501）などの企業についても、複数の金融機関が目標株価の引き上げを行っている。",
-      "summary_zh": "在10月26日至30日期间，多家研究机构对部分股票维持最高投资评级，并上调了其目标价。 主要股票中，山崎面包（2212）被高盛将目标价从4100日元上调至4300日元，瑞穗证券从4350日元上调至4400日元。 日本烟草（2914）被摩根士丹利从7000日元上调至8000日元，高盛从7900日元上调至8300日元，瑞银从8150日元上调至8500日元。 SRE HOLDINGS（2980）被日兴将目标价从3100日元上调至4400日元。 此外，樱花互联网（3778）、信越化学工业（4063）、欧比克（4684）以及日立制作所（6501）等企业也获得了多家金融机构上调目标价。"
+      "summary": "10月26日から30日の期間に、調査機関が投資判断を最上位に継続し、かつ目標株価を引き上げた主な銘柄と内容は以下の通り。 山崎製パンはゴールドマン・サックス証券が4100円から4300円へ、みずほ証券が4350円から4400円へ引き上げた。 JTはモルガン・スタンレーが7000円から8000円へ、ゴールドマン・サックス証券が7900円から8300円へ、UBS証券が8150円から8500円へと引き上げた。 SREホールディングスは日興証券が3100円から4400円へ、野村不動産ホールディングスはゴールドマン・サックス証券が1230円から1280円へ引き上げた。 霞ヶ関キャピタルは大和証券が13400円から14600円へ、さくらインターネットは野村証券が4076円から4753円へ、UBS証券が6870円から7010円へ引き上げた。 レゾナックは東海東京証券が24580円から25100円へ、イビデンは野村証券が9500円から10000円へ、信越化学工業はマッコーリー証券が7300円から7400円へ、ゴールドマン・サックス証券が9510円から9700円へ引き上げた。 さらに、ウイングアーク1s、Sansan、ロート製薬、リゾートトラスト、オービック、オービックビジネスコンサルタント、MARUWA、THK、日立製作所、PHCホールディングスなどの銘柄についても、各調査機関により目標株価の増額が実施された。",
+      "summary_zh": "在 10 月 26 日至 30 日期间，各研究机构维持对特定股票的最高投资评级并上调目标价的主要股票及内容如下。 山崎面包获高盛证券将目标价由 4100 日元上调至 4300 日元，瑞穗证券由 4350 日元上调至 4400 日元。 日本烟草（JT）获摩根士丹利由 7000 日元上调至 8000 日元，高盛证券由 7900 日元上调至 8300 日元，瑞银证券由 8150 日元上调至 8500 日元。 SRE Holdings 获日兴证券由 3100 日元上调至 4400 日元，野村不动产控股获高盛证券由 1230 日元上调至 1280 日元。 霞ヶ関 Capital 获大和证券由 13400 日元上调至 14600 日元，樱花互联网获野村证券由 4076 日元上调至 4753 日元、瑞银证券由 6870 日元上调至 7010 日元。 Resonac 获东海东京证券由 24580 日元上调至 25100 日元，揖斐电获野村证券由 9500 日元上调至 10000 日元，信越化学获麦格理证券由 7300 日元上调至 7400 日元、高盛证券由 9510 日元上调至 9700 日元。 此外，WingArc1s、Sansan、乐敦制药、Resorttrust、OBIC、OBIC Business Consultants、MARUWA、THK、日立制作所和 PHC Holdings 等股票的目标价也在该期间获得各大研究机构的上调。"
+    },
+    {
+      "date": "2026.10.31",
+      "published_at": "2026-10-31T03:15:00+09:00",
+      "headline": "AI投資への懐疑で半導体株安、日経平均は一時3%下落 日銀は1.25%で据え置き",
+      "source": "BigGo ファイナンス",
+      "url": "https://finance.biggo.jp/news/f20fbe7f-4d10-428a-b083-70757ed611bd",
+      "language": "Japanese",
+      "section": "日本株式市場 / Japan Market",
+      "summary": "金曜日の日本株は急落し、米国テクノロジー企業の決算に対する失望やAIインフラ投資の収益性に対する疑念の再燃を受け、半導体・AI関連銘柄を中心に売りが広がった。 日経平均株価は一時3%下落した後に2.8%安で推移し、TOPIXは1.3%下落した。 個別ではアドバンテストが9.1%急落し、東京エレクトロンが5.6%下落、イビデンが15.2%安、レーザーテックが13.8%安、ソフトバンクグループが6.7%下落した。 野村証券の沢田麻希氏は、AI投資の収益性に対する懸念が高まっていることの表れだと述べた。 米国ではアマゾン・ドット・コムとインテルの四半期決算で多額の現金消費や予想を下回るガイダンスが示され、台湾のTSMCや鴻海精密工業、韓国のサムスン電子やSKハイニックスなども下落した。 一方、日本銀行は政策金利を1.25%に据え置き、10月の東京コア消費者物価指数（CPI）は前年同月比2.6%上昇した。 コナミグループが15.3%急騰し、オリエンタルランドが6.6%上昇するなど例外もあったが、市場ではAI支出に対する厳しい目が向けられている。",
+      "summary_zh": "周五日本股市急剧下跌，受美国科技公司财报令人失望以及市场对人工智能基础设施投资盈利能力疑虑重重的影响，抛售潮主要集中在半导体和人工智能相关股票上。 日经平均指数盘中一度下跌 3%，随后跌幅收窄至 2.8%，东证指数下跌 1.3%。 具体个股方面，爱凌测试暴跌 9.1%，东京电子下跌 5.6%，揖斐电大跌 15.2%，Lasertec 下跌 13.8%，软银集团下跌 6.7%。 野村证券的股票策略师泽田麻希表示，这体现出市场对人工智能投资收益率的担忧正在加剧。 在美国，亚马逊和英特尔的季度财报显示出巨额现金消耗以及低于预期的业绩指引，同时台湾的台积电、鸿海精密以及韩国的三星电子和 SK 海力士也纷纷下挫。 另一方面，日本银行将政策利率维持在 1.25% 不变，10 月份东京核心消费者物价指数同比上涨 2.6%。 尽管科乐美集团飙升 15.3% 且东方乐园上涨 6.6% 等个股逆势上涨，但市场整体对人工智能支出的审查正变得愈发严格。"
+    },
+    {
+      "date": "2026.11.01",
+      "published_at": "2026-11-01T00:00:00+09:00",
+      "headline": "米中間選挙やトヨタなど決算発表 今週の予定11月1日〜",
+      "source": "日本経済新聞",
+      "url": "https://www.nikkei.com/article/DGXZQOCD260TB0W6A021C2000000/",
+      "language": "Japanese",
+      "section": "日本株式市場 / Japan Market",
+      "summary": "11月1日からの週の主な予定として、1日に福岡市長選と熊本市長選が告示され、2日に防災庁が発足するほか、マブジェネシスがグロース市場に上場する。 また、SBIホールディングス、SBI新生銀行、住友商事、住友化学、日本航空が4〜9月期決算を発表し、中国の全国人民代表大会常務委员会が6日まで開催されるほか、米アップルが7〜9月期決算を発表する。 3日には日本国憲法公布から80年を迎え、米中間選挙が実施されるほか、サウジアラムコが7〜9月期決算を発表する。 4日にはオルガナイズホールディングスがグロース市場に上場し、NTT、三菱商事、三井物産、伊藤忠商事、丸紅、IHIが4〜9月期決算を発表する。 5日にはLTV-Xが名証ネクストに上場し、トヨタ自動車、ソニーグループ、日本製鉄、日本郵船、三菱ケミカルグループ、任天堂が4〜9月期決算を発表するほか、花王が1〜9月期決算を発表する。 6日にはestieがグロース市場に上場し、ヤマダホールディングス、三菱重工業、三井不動産、KDDI、JFEホールディングスが4〜9月期決算を発表するほか、厚生労働省による9月の毎月勤労統計調査や10月の米雇用統計が発表される。 7日にはニュージーランド総選挙が実施される。",
+      "summary_zh": "自 11 月 1 日起这一周的主要日程安排包括：1 日福冈市长选举和熊本市长选举发布公告，2 日防灾厅成立，Mabuhay Genesis 在成长市场上市。 此外，SBI控股、SBI新生银行、住友商事、住友化学和日本航空将公布 4 月至 9 月财报，中国全国人大常委会会议举行至 6 日，美国苹果公司将公布 7 月至 9 月财报。 3 日迎来日本国宪法公布 80 周年，美国将举行中期选举，沙特阿美将公布 7 月至 9 月财报。 4 日 Organize Holdings 在成长市场上市，NTT、三菱商事、三井物产、伊藤忠商事、丸红和 IHI 将公布 4 月至 9 月财报。 5 日 LTV-X 在名古屋证券交易所 Next 市场上市，丰田汽车、索尼集团、日本制铁、日本邮船、三菱化学集团和任天堂将公布 4 月至 9 月财报，花王将公布 1 月至 9 月财报。 6 日 estie 在成长市场上市，山田控股、三菱重工业、三井不动产、KDDI 和 JFE 控股将公布 4 月至 9 月财报，厚生劳动省将公布 9 月每月劳动统计调查结果以及 10 月美国就业报告。 7 日将举行新西兰大选。"
     },
     {
       "date": "2026.10.31",
@@ -166,41 +188,8 @@
       "url": "https://finance.yahoo.co.jp/news/detail/fde438e8a7c5d2a9f6e283e8bd1be5c551c2af16",
       "language": "Japanese",
       "section": "日本株式市場 / Japan Market",
-      "summary": "10月23日から29日に発表された決算を受け、東証プライム上場銘柄のうち株価にプラスのインパクトを与えた企業の上昇率ランキングがまとまった。 発表前日の終値を基準とし、30日の大引けにかけて株価を切り上げた銘柄が上位に並んでいる。 上昇率が最も高かったのはメタウォータ（9551）で22.52%の上昇を記録し、上期経常利益は62.96%減益であった。 続いてフリービット（3843）が15.03%上昇し、本決算の経常変化率は5.00%となった。 また、コナミグループ（9766）が15.02%の上昇を見せ、上期経常変化率は73.05%の増益を記録した。 その他、信越ポリマー、西部ガスホールディングス、MARUWAなどが上位に入り、それぞれ決算内容に応じた株価の反応を示している。",
-      "summary_zh": "根据10月23日至29日公布的财报数据，东证Prime市场上市股票中对股价产生正向影响的企业上涨率排行榜已经出炉。 以财报发布前一日收盘价为基准，在30日收盘时股价实现上涨的股票名列前茅。 上涨率最高的是Metaaqua（9551），涨幅达22.52%，其上半年经常利润同比下降62.96%。 其次是FreeBit（3843），上涨15.03%，其全年财报的经常利润变动率为5.00%。 此外，科乐美集团（9766）上涨15.02%，上半年经常利润实现73.05%的增益。 其他如信越聚合物、西部天然气控股、MARUWA等企业也进入榜单前列，股价根据财报内容做出了相应的上涨反应。"
-    },
-    {
-      "date": "2026.10.31",
-      "published_at": "2026-10-31T14:24:45+09:00",
-      "headline": "決算シーズンに押さえておきたい企業決算の見方、増収増益だけでは分からない株価の動き",
-      "source": "マネーフォワード",
-      "url": "https://media.moneyforward.com/articles/11028/summary",
-      "language": "Japanese",
-      "section": "日本株式市場 / Japan Market",
-      "summary": "三井住友カードは、2026年5月26日からVisaの最高ランクである「Visa Infinite」を冠した「Oliveフレキシブルペイ Visa Infinite」の発行を開始した。 すでに提供されている「三井住友カード Visa Infinite」に続く最上位カードとなり、その特徴や違い、どのようなライフスタイルの人に適しているかが注目されている。",
-      "summary_zh": "三井住友信用卡从2026年5月26日起开始发行带有Visa最高级别“Visa Infinite”头衔的“Olive Flexible Pay Visa Infinite”。 这是继此前已有的“三井住友信用卡 Visa Infinite”之后的又一款顶级卡片，其产品特点、与同类高级卡的差异以及适合何种生活方式的人群备受关注。"
-    },
-    {
-      "date": "2026.10.31",
-      "published_at": "2026-10-31T12:21:00+09:00",
-      "headline": "キオクシア初配当、東京エレクトロンは増配と自社株買い1500億円―決算と還元策を比較",
-      "source": "財経新聞",
-      "url": "https://www.zaikei.co.jp/article/20261031/875703.html",
-      "language": "Japanese",
-      "section": "日本株式市場 / Japan Market",
-      "summary": "キオクシアホールディングスは10月30日に上場後初となる配当を発表し、9月30日を基準日として1株90円の中間配当を実施する。 同社の2027年3月期中間期は生成AI向けデータセンター需要を背景に売上高4兆2,472億円、営業利益3兆2,647億円、最終利益2兆1,979億円を記録した。 一方、東京エレクトロンは同日、中間期で売上高1兆6,675億円、営業利益5,068億円、最終利益3,769億円を発表し、配当増額と1,500億円を上限とする自社株買いを発表した。 東京エレクトロンの中間配当予想は従来予想の384円から415円に引き上げられた。",
-      "summary_zh": "铠侠控股于10月30日宣布了上市以来的首次分红，以9月30日为基准日发放每股90日元的中期股息。 该公司2027年3财年上半财年受生成式AI数据中心需求推动，销售额达到4兆2,472亿日元，营业利润达3兆2,647亿日元，最终利润达2兆1,979亿日元。 东京电子同日公布的上半财年销售额为1兆6,675亿日元，营业利润为5,068亿日元，最终利润为3,769亿日元，并宣布增加分红及上限达1,500亿日元的股票回购。 东京电子的中期股息预测从原先的384日元上调至415日元。"
-    },
-    {
-      "date": "2026.10.31",
-      "published_at": "2026-10-31T23:15:46+09:00",
-      "headline": "Gold and Bitcoin Are Now 2026’s Worst Major Assets: What Went Wrong?",
-      "source": "CryptoRank",
-      "url": "https://cryptorank.io/news/feed/bb45a-gold-and-bitcoin-are-now-2026s-worst-major-assets-what-went-wrong",
-      "language": "English",
-      "section": "宏观经济与投资 / Macro & Investment",
-      "summary": "Bitcoin and gold have become the worst-performing major asset classes so far in 2026, marking an unusual outcome not seen in data dating back to 2011. Higher oil prices and renewed expectations for tighter monetary policy have pressured both assets, weakening their appeal as hedges against debt, deficits, and currency debasement.",
-      "summary_zh": "比特币和黄金成为2026年迄今表现最差的主要资产类别，创下了自2011年有数据记录以来罕见的局面。 油价上涨以及对收紧货币政策的重新预期给这两种资产带来了压力，削弱了它们作为对冲债务、赤字和货币贬值工具的吸引力。"
+      "summary": "東証プライム市場において、企業決算発表に対する株価のプラス・インパクト銘柄の上昇率ランキングが発表された。 決算発表前日の水準から30日大引け現在にかけて株価を切り上げた銘柄が網羅されており、メタウォータが上昇率+22.52％で首位となったほか、フリービット、コナミＧ、信越ポリ、西部ガスＨＤなどが上位にランクインした。 各銘柄の上昇率や決算期、経常変化率などのデータが示されている。",
+      "summary_zh": "东证Prime市场公布了企业财报发布后产生“正向影响”的股票涨幅排行榜。 该榜单涵盖了从财报发布前一日水准到30日收盘时股价实现上升的股票，其中Metawater以+22.52%的涨幅居首，FreeBit、科乐美集团、信越ポリ、西部瓦斯HD等也跻身前列。 文中列出了各只股票的涨幅、财报期以及经常利润变化率等数据。"
     },
     {
       "date": "2026.10.31",
@@ -210,30 +199,8 @@
       "url": "https://coinpedia.org/price-analysis/bitcoin-gold-silver-stocks-face-a-market-wide-sell-off-why-is-everything-falling-at-once/",
       "language": "English",
       "section": "宏观经济与投资 / Macro & Investment",
-      "summary": "Global markets headed into November on a bearish note as Bitcoin, stocks, and precious metals declined simultaneously due to widespread selling pressure. Bitcoin slipped to $77,328 before dropping to $76,400 following a security breach at Binance, while immediate support rests at $74,336. On Wall Street, the Nasdaq Composite dropped 2.86%, the S&P 500 fell 1.82%, and the Dow Jones Industrial Average lost 1.09% amid concerns over rising AI spending and valuations. Gold experienced a 3.68% daily decline to $3,872.86, falling below its $3,930 to $3,950 support zone, and silver dropped below the $50 mark.",
-      "summary_zh": "由于广泛的抛售压力，比特币、股市和贵金属同时下跌，全球市场带着看跌情绪进入11月。 比特币在币安发生安全漏洞后跌至76,400美元，此前曾滑落至77,328美元，目前74,336美元为即时支撑位。 在华尔街，由于对人工智能支出增加和估值的担忧，纳斯达克综合指数下跌2.86%，标准普尔500指数下跌1.82%，道琼斯工业平均指数下跌1.09%。 黄金单日下跌3.68%至3,872.86美元，跌破了3,930至3,950美元的支撑区间，白银也跌破了50美元大关。"
-    },
-    {
-      "date": "2026.10.31",
-      "published_at": "2026-10-31T16:02:22+09:00",
-      "headline": "USD exchange rate today, October 31st: The USD price at banks has uniformly dropped below 26,000 VND/USD for selling. Should you buy USD now?",
-      "source": "Vietnam.vn",
-      "url": "https://www.vietnam.vn/en/ty-gia-usd-hom-nay-31-10-gia-usd-khoi-ngan-hang-dong-loat-giam-xuong-duoi-26-000-dong-usd-ban-ra-co-nen-mua-usd-luc-nay",
-      "language": "English",
-      "section": "宏观经济与投资 / Macro & Investment",
-      "summary": "On October 31, 2026, the DXY index fell 0.07% to 101.96 points, while the State Bank of Vietnam set the central exchange rate at 25,637 dong/USD, down 7 dong from the previous session. The State Bank's exchange desk listed USD at 24,406 VND for buying and 26,868 VND for selling. Commercial banks also saw declines, with Vietcombank trading USD at 25,580-25,990 dong/USD, VietinBank at 25,440-25,980 dong/USD, and BIDV at 25,600-25,980 dong/USD. Meanwhile, the Japanese yen rose 0.11% to 157.51 yen/USD after the Bank of Japan kept interest rates unchanged at 1.25% but raised its inflation forecast, and the euro fell 0.12% to $1.1168.",
-      "summary_zh": "2026年10月31日，美元指数下跌0.07%至101.96点，越南国家银行公布的中心汇率较前一交易日下降7越南盾，报25,637越南盾/美元。 国家银行交易台的美元买入价为24,406越南盾，卖出价为26,868越南盾。 商业银行的汇率也有所下降，其中越南外贸股份商业银行的美元买卖价为25,580至25,990越南盾/美元，越南工商银行报25,440至25,980越南盾/美元，越南投资发展银行报25,600至25,980越南盾/美元。 与此同时，日本央行维持1.25%的利率不变并上调通胀预测后，日元上涨0.11%至157.51日元/美元，欧元则下跌0.12%至1.1168美元。"
-    },
-    {
-      "date": "2026.10.31",
-      "published_at": "2026-10-31T02:56:43+09:00",
-      "headline": "Current price of Bitcoin for October 30, 2026",
-      "source": "Fortune",
-      "url": "https://fortune.com/article/price-of-bitcoin-10-30-2026/",
-      "language": "English",
-      "section": "宏观经济与投资 / Macro & Investment",
-      "summary": "At 8:15 a. m. Eastern Time on October 30, 2026, the market price for a single Bitcoin was $77,380.93, marking a $2,655.67 drop from the previous morning and sitting about $30,941 lower than a year prior. Bitcoin maintains a market capitalization of roughly $1.33 trillion, far ahead of Ethereum's $233 billion. Operating as a decentralized digital currency on a peer-to-peer network, Bitcoin was introduced in 2009 and has seen its price affected over the years by investor speculation, corporate adoption, broader economic conditions, and regulatory developments. Investors can gain exposure to Bitcoin through direct purchases on crypto exchanges, Bitcoin ETFs, crypto stocks, or Bitcoin IRAs.",
-      "summary_zh": "美国东部时间2026年10月30日上午8点15分，单个比特币的市场价格为77,380.93美元，较前一天上午下跌了2,655.67美元，比一年前低了约30,941美元。 比特币的市值约为1.33 trillion美元，远远领先于以太坊的233 billion美元市值。 比特币作为运行在点对点网络上的去中心化数字货币于2009年推出，其价格多年来一直受到投资者投机、企业采用、整体经济状况和监管发展的影响。 投资者可以通过在加密货币交易所直接购买、比特币ETF、加密货币股票或比特币IRA来获得对比特币的投资敞口。"
+      "summary": "Global markets heading into November face widespread selling pressure, with Bitcoin, stocks, and precious metals declining simultaneously amid worries over AI investment returns, rising oil prices, and geopolitical tensions. The Fed's policy added to uncertainty, as Bitcoin slipped to $77,328, Wall Street recorded its steepest daily decline since June, and gold fell to a one-year low while silver dropped below $50. Technology stocks came under pressure, with the Nasdaq dropping 2.86%, S&P 500 falling 1.82%, and Dow Jones losing 1.09%, alongside declines in Intel, Nvidia, Alphabet, and Meta. Additionally, a security breach at Binance dragged Bitcoin down to $76,400 before a recovery above $77,500, with support levels watched at $74,336. Gold also faced heavy selling, declining 3.68% to $3,872.86 and slipping below its $3,930 to $3,950 support zone.",
+      "summary_zh": "进入11月的全球市场面临广泛的抛售压力，在人工智能投资回报担忧、油价上涨以及地缘政治紧张局势的背景下，比特币、股票和贵金属同时下跌。 美联储的政策增加了不确定性，比特币跌至$77,328，华尔街创下6月以来最大单日跌幅，黄金跌至一年新低，白银则跌破$50的重要关口。 科技股承压，纳斯达克综合指数下跌2.86%，标普500指数下跌1.82%，道琼斯工业平均指数下跌1.09%，英特尔、英伟达、字母表和Meta也遭遇抛售。 此外，币安的安全漏洞将比特币价格一度拖至$76,400，随后回升至$77,500以上，市场正密切关注$74,336的支撑位。 黄金同样面临沉重抛售，大跌3.68%至$3,872.86，跌破$3,930至$3,950的支撑区间。"
     },
     {
       "date": "2026.10.31",
@@ -243,8 +210,63 @@
       "url": "https://cryptoticker.io/en/is-gold-a-safe-haven-gold-price-crisis/",
       "language": "English",
       "section": "宏观经济与投资 / Macro & Investment",
-      "summary": "On Friday, 30 October 2026, gold futures fell 3.6 percent to $3,884.90 per ounce as the US stock market experienced its worst day since June. In October, the gold price lost 7.2 percent, marking its second consecutive monthly decline, and is down 27 percent from its record close of $5,318.40 on 29 January 2026. The year-to-date decline stands at 10.5 percent, while Bitcoin has lost 11.8 percent and the S&P 500 remains up 10.7 percent since 31 December 2025. Historical analysis of six market crises since 2007 indicates that gold often falls alongside stocks during the acute phase of a crash before proving its value later when central banks cut rates. Three primary reasons explain the current decline: expectations of further rate hikes by the Fed fueled by higher oil prices, inflation fears driven by crude oil gains following attacks on commercial shipping in the Strait of Hormuz, and investors selling assets for liquidity during sharp stock market drops. The Federal Reserve maintained its key rate at 3.75 to 4.00 percent on 28 October, though two officials voted for a hike and futures markets priced a December hike at around 80 percent according to the CME FedWatch tool. Silver also fell to its lowest level of the year at around $50. Additionally, analysts at XTB raised questions regarding whether this trend represents the end of the safe-haven myth or merely a search for liquidity.",
-      "summary_zh": "在2026年10月30日星期五，随着美国股市遭遇自6月以来最糟糕的一天，黄金期货下跌3.6%，至每盎司$3,884.90美元。 在10月份，黄金价格下跌了7.2%，这是其连续第二个月下跌，并且自2026年1月29日创下的$5,318.40美元的纪录收盘价以来已下跌27%。 自2025年12月31日收盘以来，黄金今年迄今已下跌10.5%，而比特币下跌了11.8%，标普500指数则仍上涨了10.7%。 对2007年以来六次市场危机的历史分析表明，在崩盘的急性期，黄金往往与股票一同下跌，直到后来央行开始降息时才证明其避险价值。 当前黄金下跌主要有三个原因：受油价上涨推升的美联储进一步加息预期、霍尔木兹海峡商业航运再次遭到袭击推动原油走高从而加剧的通胀担忧、以及投资者在股市大幅下跌期间为了流动性而抛售资产。 美联储于10月28日将关键利率维持在3.75至4.00 percent，但有两名官员投票支持加息，且根据CME FedWatch工具显示，期货市场对12月加息的定价约为80 percent。 白银也跌至今年以来的最低水平，约在$50左右。 此外，XTB的分析师提出了关于这究竟是避险神话的终结还是对流动性的追寻的问题。"
+      "summary": "Gold futures fell 3.6 percent to $3,884.90 per ounce on Friday, October 30, 2026, marking a 7.2 percent decline in October and a 27 percent drop from its record close of $5,318.40 on January 29, 2026. This crash occurred alongside a US stock market sell-off where the Nasdaq dropped 2.86 percent and the S&P 500 fell 1.82 percent. Historical analysis of six crises since 2007 shows gold often falls during the acute phase of a crash due to investors needing liquidity, before recovering later when central banks cut rates. Three main reasons drive the current drop: expectations of further rate hikes by the Fed as fueled by higher oil prices and renewed attacks in the Strait of Hormuz, and investors selling gold for liquidity during stock market drops. Neither gold nor Bitcoin acted as safe havens in 2026, with gold down 10.5 percent and Bitcoin down 11.8 percent year to date, while the S&P 500 rose 10.7 percent.",
+      "summary_zh": "2026年10月30日周五，黄金期货下跌3.6%，至每盎司$3,884.90，10月份累计下跌7.2%，自2026年1月29日创下的$5,318.40的历史收盘高点以来已下跌27%。 此次暴跌伴随着美国股市的抛售，其中纳斯达克指数下跌2.86%，标普500指数下跌1.82%。 对2007年以来六次危机历史分析表明，由于投资者需要流动性，黄金往往在危机的急剧阶段下跌，随后在央行降息时反弹。 当前下跌的三大原因为：受油价上涨和霍尔木兹海峡商船袭击事件推动的美联储进一步加息预期，以及投资者在股市下跌期间为了流动性而抛售黄金。 2026年黄金和比特币均未充当避险资产，年初至今黄金下跌10.5%，比特币下跌11.8%，而标普500指数上涨了10.7%."
+    },
+    {
+      "date": "2026.10.31",
+      "published_at": "2026-10-31T06:55:00+09:00",
+      "headline": "Yen Little Changed in Upper 157 Range as Markets Digest BOJ, Fed Meetings; Few Fresh Cues",
+      "source": "BigGo Finance",
+      "url": "https://finance.biggo.com/news/32c382d4-abd1-420c-9541-104c8cc74ae2",
+      "language": "English",
+      "section": "宏观经济与投资 / Macro & Investment",
+      "summary": "The yen traded little changed in the upper 157 range against the dollar in New York on Friday, October 30, at 157.59-69 yen, up 0.06 yen, as markets digested the conclusion of monetary policy meetings by the Bank of Japan and the Federal Reserve with few fresh trading cues. The BOJ kept its policy rate unchanged at 1.25% by a majority vote with one proposal for a 1.50% rate, and raised its fiscal 2027 CPI forecast to 2.6% from 2.4%. Meanwhile, St. Louis Fed President Musalem and New York Fed's Hansen indicated support for a December rate hike and discussed probability, while U. S. 10-year Treasury yields fell to the 4.90% level. Japanese economic indicators showed the Tokyo ward-area CPI rose 2.6%, the September job openings-to-applicants ratio was 1.19, the unemployment rate stood at 2.4%, and retail sales rose 2.3%. Market attention is shifting to the U. S. midterm elections on November 3 and the October U. S. employment report on the 6th.",
+      "summary_zh": "10月30日周五纽约外汇市场上，日元兑美元汇率变动不大，维持在157上方区间，报157.59-69日元，较前一日上涨0.06日元。 随着日本银行和美联储货币政策会议的结束，市场上缺乏新的交易线索。 日本银行以多数投票决定维持1.25%的政策利率不变（有一人提议升至1.50%），并将2027财年核心CPI预期从2.4%上调至2.6%。 同时，圣路易斯联储主席穆萨莱姆和纽约联储的汉森暗示支持12月加息并讨论了相关概率，美国10年期国债收益率跌至4.90%区间。 日本经济指标显示，东京市区CPI同比上涨2.6%，9月求才倍率为1.19，失业率为2.4%，零售额仅增长2.3%。 市场注意力正转向11月3日的美国中期选举以及6日的10月美国就业报告。"
+    },
+    {
+      "date": "2026.10.31",
+      "published_at": "2026-10-31T05:10:47+09:00",
+      "headline": "Evening digest: Binance hack rattles crypto, oil rises",
+      "source": "TradingView",
+      "url": "https://www.tradingview.com/news/invezz:34150b394094b:0-evening-digest-binance-hack-rattles-crypto-oil-rises/",
+      "language": "English",
+      "section": "宏观经济与投资 / Macro & Investment",
+      "summary": "Cryptocurrency markets and technology stocks fell on Friday following a $6.3 billion Binance hack that renewed digital asset security concerns. Binance co-CEO Richard Teng stated that about $3 billion of stolen funds were frozen on-chain and pledged to cover customer losses using the Secure Asset Fund for Users and company funds, attributing the breach to a compromised DevOps engineer's laptop. Bitcoin dropped up to 4.8% to about $76,820, while Coinbase, Circle Internet Group, and Strategy shares declined. Simultaneously, Brent crude oil prices rose over 2% to settle at $117.55 a barrel amid Middle East tensions and reported attacks on shipping and Saudi facilities. Gold prices dropped 3.44% to $3,881.68 an ounce, and Intel shares plunged 28% after issuing a fourth-quarter revenue forecast of $15 billion to $16 billion.",
+      "summary_zh": "周五，加密货币市场与科技股因63亿美元的Binance盗窃案引发对数字资产安全的担忧而承压。 Binance联席CEO理查德·腾表示，在区块链合作伙伴的帮助下，大约30亿美元被盗资金已被链上冻结，该交易所承诺通过用户安全资产基金及公司资金来弥补客户损失，并将漏洞归咎于DevOps工程师被攻破的笔记本电脑。 比特币24小时内下跌多达4.8%至约76,820美元，Coinbase、Circle Internet Group和Strategy股价亦下跌。 同时，受中东局势及航运与沙特设施遇袭报道影响，布伦特原油期货上涨超过2%，收于每桶117.55美元。 黄金现货价格下跌3.44%至每盎司3,881.68美元，Intel股价则在发布150亿至160亿美元的第四季度营收预期后暴跌28%。"
+    },
+    {
+      "date": "2026.10.31",
+      "published_at": "2026-10-31T04:18:46+09:00",
+      "headline": "Yen gains after BOJ holds rates, dollar slips",
+      "source": "Honolulu Star-Advertiser",
+      "url": "https://www.staradvertiser.com/2026/10/30/breaking-news/yen-gains-after-boj-holds-rates-dollar-slips/",
+      "language": "English",
+      "section": "宏观经济与投资 / Macro & Investment",
+      "summary": "The Japanese yen headed for a third consecutive daily gain after the Bank of Japan left its main interest rate unchanged at 1.25% and upgraded its inflation outlook, signaling a more hawkish policy phase. The yen strengthened to a high of 157.89 per dollar. Meanwhile, the European Central Bank, the US Federal Reserve, and the Reserve Bank of New Zealand also left interest rates unchanged. The euro declined 0.17% to $1.1163. Sterling strengthened 0.14% to $1.3394, and the Australian dollar rose 0.1% to $0.7034. The US dollar index edged lower by 0.02% to 101.86, weighed down by a decline in US Treasury yields and tech stock sell-offs driven by renewed worries over artificial intelligence spending following earnings results from Alphabet, Amazon, and Intel. Bitcoin dropped 1.79% to $77,430.45 following the $6.3 billion Binance hack.",
+      "summary_zh": "在日本银行维持利率在1.25%不变并上调通胀预期、暗示进入更趋鹰派的政策阶段后，日元有望迎来连续第三个交易日上涨，最高走强至每美元157.89日元。 与此同时，欧洲中央银行、美国联邦储备委员会和新西兰储备银行均维持利率不变。 欧元下跌0.17%至1.1163美元。 英镑上涨0.14%至1.3394美元，澳元兑美元上涨0.1%至0.7034美元。 美元指数微跌0.02%至101.86，主要受美国国债收益率下降以及Alphabet、Amazon和Intel财报引发对人工智能支出担忧从而导致科技股遭到抛售的拖累。 在Binance发生63亿美元黑客盗窃案后，比特币下跌1.79%至77,430.45美元。"
+    },
+    {
+      "date": "2026.10.31",
+      "published_at": "2026-10-31T03:23:52+09:00",
+      "headline": "Bitcoin Price Could Fall as Dollar Debasement Trade Unravels, Connection Capital Founder Warns",
+      "source": "99Bitcoins",
+      "url": "https://99bitcoins.com/news/bitcoin-btc/bitcoin-price-could-fall-as-dollar-debasement-trade-unravels-connection-capital-founder-warns/",
+      "language": "English",
+      "section": "宏观经济与投资 / Macro & Investment",
+      "summary": "Bitcoin could face renewed selling pressure as a strengthening US dollar challenges the dollar debasement investment narrative, according to Connection Capital founder Dan Krupka. Krupka noted that rising energy prices and weakness in foreign currencies like the euro and Japanese yen could push the dollar higher, dragging Bitcoin, gold, and broader markets down in the coming months. Bitcoin was trading around $77,500, while the US Dollar Index remained near 102 after gains since September. The Dollar Index closed around 101.85 on October 29 compared with 101.45 at the end of September. Krupka argued that import-dependent economies in Europe and Japan are vulnerable to rising energy costs, which can increase inflation and weaken their currencies, thereby boosting the dollar. However, the dollar weakened slightly on October 30 due to falling Treasury yields and tech stock concerns.",
+      "summary_zh": "Connection Capital创始人丹·克鲁普卡表示，随着美元走强对美元贬值投资逻辑构成挑战，比特币可能面临新的抛售压力。 克鲁普卡指出，能源价格上涨以及欧元和日元等主要外汇的疲软可能会推高美元，从而在未来几个月拖累比特币、黄金和更广泛的市场走势。 比特币交易价格在77,500美元左右，而美元指数自9月以来上涨后仍接近102。 10月29日，美元指数收于101.85左右，9月底为101.45。 克鲁普卡认为，欧洲和日本等依赖进口的经济体极易受到能源成本上升的影响，这会加剧通胀并削弱其货币，进而提振美元。 不过，由于国债收益率下降和科技股担忧，美元在10月30日小幅走弱。"
+    },
+    {
+      "date": "2026.10.31",
+      "published_at": "2026-10-31T02:56:43+09:00",
+      "headline": "Current price of Bitcoin for Oct. 30, 2026",
+      "source": "Fortune",
+      "url": "https://fortune.com/article/price-of-bitcoin-10-30-2026/",
+      "language": "English",
+      "section": "宏观经济与投资 / Macro & Investment",
+      "summary": "At 8:15 a. m. Eastern Time on October 30, 2026, the market price for a single Bitcoin was $77,380.93, marking a $2,655.67 drop from the previous morning and about $30,941 lower than one year prior. Bitcoin has a market capitalization of roughly $1.33 trillion, surpassing Ethereum's market cap of about $233 billion. Operating on a peer-to-peer network without a central authority, Bitcoin functions as a decentralized digital currency with a fixed supply. Historically, developer Laszlo Hanyecz famously spent 10,000 Bitcoins on pizza, an amount now valued at over 668 million dollars, and prices have climbed more than 15,000% over the past decade. Bitcoin's price is influenced by investor speculation, major corporate adoption, broader economic strength, and regulatory developments, and investors can gain exposure through direct exchange purchases, ETFs, crypto stocks, or Bitcoin IRAs.",
+      "summary_zh": "在2026年10月30日东部时间上午8点15分，单个比特币的市场价格为77,380.93美元，较前一天上午下跌2,655.67美元，比一年前低约30,941美元。 比特币的市值约为$1.33 trillion，远超Ethereum约$233 billion的市值。 比特币运行于没有中央机构的点对点网络上，作为一种具有固定供应量的去中心化数字货币运作。 历史上，开发者拉斯洛·汉内茨曾用10,000枚比特币购买披萨，这笔资金如今价值超过6.68亿美元，且在过去十年中价格涨幅超过15,000%。 比特币价格受投资者投机、大型企业采用、整体经济实力和监管发展的影响，投资者可以通过交易所直接购买、ETF、加密股票或比特币IRA来获得投资敞口。"
     }
   ]
 }
