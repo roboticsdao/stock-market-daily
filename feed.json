@@ -1,129 +1,151 @@
 {
   "kind": "market",
-  "updated_at": "2026-11-03T12:51:42.254266+09:00",
+  "updated_at": "2026-11-04T03:45:49.326653+09:00",
   "status": {
     "state": "ok",
-    "checked_at": "2026-11-03T12:51:42.254266+09:00",
-    "latest_article_at": "2026-11-03T12:25:39+09:00",
-    "articles": 24,
+    "checked_at": "2026-11-04T03:45:49.326653+09:00",
+    "latest_article_at": "2026-11-04T02:45:00+09:00",
+    "articles": 23,
     "sections": {
       "美国股市 / US Market": 8,
       "日本株式市場 / Japan Market": 8,
-      "宏观经济与投资 / Macro & Investment": 8
+      "宏观经济与投资 / Macro & Investment": 7
     },
     "shortfalls": {},
     "translations_missing": 0
   },
   "articles": [
     {
-      "date": "2026.11.03",
-      "published_at": "2026-11-03T09:52:08+09:00",
-      "headline": "Today’s Market Recap: Oil Slumps 8%, Apple and PLTR Earnings Beat Expectations, Marvell Tumbles Over 12%",
-      "source": "TradingKey",
-      "url": "https://www.tradingkey.com/analysis/stocks/us-stocks/262265688-oil-plunge-8-percent-apple-pltr-beat-marvell-drop-tradingkey",
+      "date": "2026.11.04",
+      "published_at": "2026-11-04T02:45:00+09:00",
+      "headline": "Nvidia Is Extremely Compelling Right Now And Here’s Why",
+      "source": "24/7 Wall St.",
+      "url": "https://247wallst.com/investing/2026/11/03/nvidia-is-extremely-compelling-right-now-and-heres-why/",
       "language": "English",
       "section": "美国股市 / US Market",
-      "summary": "On November 2 ET, U. S. equities diverged as tech and AI shares slumped, pulling down the S&P 500 and Nasdaq while the Dow gained 0.41% to close at 51,989.19. The S&P 500 fell 0.51% to 7,541.40 and the Nasdaq lost 1.07% to 25,164.32. Oil prices declined with Brent crude at $104.33 and WTI at $96.25 amid diplomatic mediation involving Iran and Qatar, while spot gold rose 1.8% to $3,946.720 per ounce and Bitcoin dropped 1.96% to $76,816. Apple reported fourth-fiscal-quarter revenue of $114.5 billion with net income of $30.71 billion and earnings per share of $2.10. Palantir posted third-quarter revenue of $2.313 billion and expects fourth-quarter revenue of $2.649 billion to $2.653 billion. Marvell and Lumentum announced an all-stock merger valuing Lumentum at an enterprise value of approximately $115 billion. Additionally, China's October manufacturing PMI declined to 49.3.",
-      "summary_zh": "美东时间11月2日，美股走势分化，科技与人工智能板块下挫，拖累标普500指数和纳斯达克指数下跌，而道琼斯工业平均指数上涨0.41%至51,989.19点。 标普500指数下跌0.51%收于7,541.40点，纳斯达克综合指数下跌1.07%收于25,164.32点。 随着伊朗和卡塔尔调解取得进展，油价下跌，布伦特原油报$104.33，WTI原油报$96.25；现货黄金上涨1.8%至每盎司$3,946.720，比特币下跌1.96%至$76,816左右。 苹果第四财季营收增长12%至$114.5 billion，净利润为$30.71 billion，每股收益为$2.10。 Palantir第三季度营收为$2.313 billion，并预计第四季度营收为$2.649 billion至$2.653 billion。 Marvell与Lumentum宣布了一项全股票合并协议，对Lumentum的估值约为$115 billion。 此外，中国10月份制造业PMI降至49.3。"
+      "summary": "NVIDIA shares traded at $202.06, falling 13.63% over the past month and gaining 0.03% over the past year, while revenue roughly doubled. Major AI buyers including OpenAI committed to 10+ gigawatts of NVIDIA systems, Anthropic took 1GW, and Meta Platforms signed a multi-year, multi-generation agreement. In Q2 fiscal 2027, revenue reached $96.22 billion, up 105.8% year-over-year, and non-GAAP EPS was $2.22 compared to the $2.09 consensus. Management guided Q3 revenue to $108.0 billion, plus or minus 2%. Financial metrics include a 92.2% return on invested capital, a 0.073 debt-to-equity ratio, and an interest coverage of 503.4x. NVIDIA returned about $26.0 billion to shareholders in Q2 and raised its quarterly dividend from $0.01 to $0.25. CEO Jensen Huang stated that AI has reached an inflection point where compute is revenue.",
+      "summary_zh": "NVIDIA股价报202.06美元，过去一个月下跌13.63%，过去一年仅上涨0.03%，而营收大约翻倍。 OpenAI承诺采购10+吉瓦的NVIDIA系统，Anthropic采用1吉瓦，Meta Platforms则签署了多年多代协议。 2027财年第二季度营收达到$96.22 billion，同比大增105.8%，非美国通用会计准则每股收益为2.22美元，高于2.09美元的市场共识。 管理层预计第三季度营收为$108.0 billion（上下浮动2%）。 公司的投资回报率为92.2%，债务与股权比率为0.073，利息保障倍数为503.4倍。 NVIDIA仅在第二季度就向股东回报了约$26.0 billion，并将季度股息从0.01美元上调至0.25美元。 首席执行官黄仁勋表示，人工智能已到达拐点，计算已转化为收入。"
     },
     {
-      "date": "2026.11.03",
-      "published_at": "2026-11-03T09:22:00+09:00",
-      "headline": "S&P 500, Nasdaq Drop As Capex Concerns Grip Tech Investors, Outweighing US-Iran Diplomacy Hope — ORCL, META, PLTR, AAPL In Focus",
+      "date": "2026.11.04",
+      "published_at": "2026-11-04T00:45:00+09:00",
+      "headline": "Qualcomm stock loses crucial support as earnings loom: buy or sell the dip?",
       "source": "TradingView",
-      "url": "https://www.tradingview.com/news/stocktwits:3c87105a9094b:0-s-p-500-nasdaq-drop-as-capex-concerns-grip-tech-investors-outweighing-us-iran-diplomacy-hope-orcl-meta-pltr-aapl-in-focus/",
+      "url": "https://www.tradingview.com/news/invezz:3e75d4761094b:0-qualcomm-stock-loses-crucial-support-as-earnings-loom-buy-or-sell-the-dip/",
       "language": "English",
       "section": "美国股市 / US Market",
-      "summary": "U. S. stocks finished lower on Monday as investors stepped away from technology and AI assets due to capex and valuation anxieties. The S&P 500 dropped 0.5%, the Nasdaq 100 fell 1.4%, and the Dow Jones Industrial Average added 0.4%. Crude oil prices declined following optimism around potential U. S. -Iran diplomatic talks, with Brent crude tumbling 7.63% to close at $104.77 per barrel and WTI settling at $96.46 per barrel. U. S. Secretary of State Marco Rubio noted over the weekend that President Donald Trump has not yet decided on military action against Tehran, while Iranian state outlets stated a deal remains achievable. Tech companies pursued fundraising for artificial intelligence investments, with Oracle offering $10 billion in debt alongside an equivalent stock sale and Meta Platforms considering raising $20 billion through a multi-currency bond issuance. Palantir and Apple reported strong earnings that beat consensus expectations despite valuation and guidance concerns. Analysts also discussed targets and merger impacts for companies including CrowdStrike, AST SpaceMobile, and Tesla.",
-      "summary_zh": "周一美国股市收低，因投资者对资本支出和估值的担忧而撤出科技和人工智能资产。 标普500指数下跌0.5%，纳斯达克100指数下跌1.4%，道琼斯工业平均指数上涨0.4%。 由于对潜在美伊外交谈话的乐观情绪，原油价格下跌，布伦特原油大跌7.63%收于每桶$104.77，西德克萨斯中质原油结算价为每桶$96.46。 美国国务卿马可·卢比奥周末指出，唐纳德·特朗普总统尚未决定对德黑兰采取军事行动，而伊朗官媒则表示若展现善意达成协议仍有可能。 科技公司纷纷为人工智能投资筹集资金，其中Oracle提供$10 billion的债务并进行等额股票出售，Meta Platforms则考虑通过多币种债券发行筹集$20 billion。 尽管存在估值和预期方面的担忧，Palantir和Apple公布的财报仍超出了市场共识预期。 分析师还讨论了包括CrowdStrike、AST SpaceMobile和Tesla在内的多家公司的目标价与并购影响。"
+      "summary": "Qualcomm stock dropped to $162 on Monday, down over 37% from its year-to-date high, amid a semiconductor industry sell-off and an ongoing memory shortage that caused a DRAM shortage for smartphones. IDC data showed smartphone sales declined for major brands in the second quarter, including a 26% drop for Xiaomi and decreases for OPPO and Vivo. In its previous earnings report, Qualcomm reported a 4% revenue drop to $9.9 billion and a 24% fall in earnings before taxes to $2.96 billion, driven by a 5% decline in its QCT division and a 20% drop in handset revenue to $5.08 billion, which offset growth in automotive and IoT. Analysts expect fourth-quarter revenue to fall 9.9% to $10.15 billion and EPS to drop from $3 to $2.16, bringing annual revenue to $42.8 billion. The company aims for $40 billion in non-handset revenue by 2029.",
+      "summary_zh": "受半导体行业抛售潮及内存短缺引发智能手机DRAM短缺的影响，高通股价周一跌至162美元，较年内高点下跌超过37%。 IDC数据显示，第二季度主要品牌智能手机销量下滑，其中小米销量同比下降26%，OPPO和Vivo等品牌也有所下降。 高通上期财报显示，受QCT部门营收下降5%至85亿美元及手机业务营收下降20%至$5.08 billion的拖累，整体营收下降4%至$9.9 billion，税前利润大跌24%至29.6亿美元，部分被汽车和物联网业务的增长所抵消。 分析师预计第四季度营收将下降9.9%至101.5亿美元，每股收益从3美元跌至2.16亿美元，全年营收降至$42.8 billion。 公司目标是在2029年实现400亿美元的非手机业务营收。"
+    },
+    {
+      "date": "2026.11.04",
+      "published_at": "2026-11-04T00:26:00+09:00",
+      "headline": "Micron Now Trades at Under 5 Times Earnings With a $35 Billion Buyback Weeks Away",
+      "source": "24/7 Wall St.",
+      "url": "https://247wallst.com/investing/2026/11/03/micron-now-trades-at-under-5-times-earnings-with-a-35-billion-buyback-weeks-away/",
+      "language": "English",
+      "section": "美国股市 / US Market",
+      "summary": "Micron Technology closed at $833.59, down 31.3% from its record close and marking its lowest close since early August following a 5.78% drop. Wall Street analysts maintain a consensus price target of $1,562. Micron finished fiscal 2026 with $133.19 billion in revenue and non-GAAP EPS of $75.52. Kioxia guided a December-quarter operating profit of 2 trillion yen, which was flat and missed expectations, pushing Micron down. A $35.16 billion share repurchase authorization becomes available starting December 9, 2026, with no expiration date. Micron held $73.45 billion in cash and marketable investments against $5.18 billion of debt and produced $62.31 billion of adjusted free cash flow in fiscal 2026. For the current quarter, Micron guided non-GAAP EPS of $38.15 on revenue of $61.5 billion, with non-GAAP gross margin expected around 86.25%.",
+      "summary_zh": "美光科技收盘报833.59美元，较纪录高位下跌31.3%，在经历5.78%的跌幅后创下8月初以来的最低收盘价。 华尔街分析师的共识目标价为1,562美元。 美光2026财年营收为1,331.9亿美元，非美国通用会计准则每股收益为75.52美元。 铠侠发布的12月季度营业利润预期为2 trillion，与上一季度持平且不及预期，导致美光股价下跌。 一项总额为351.6亿美元的股票回购授权将于2026年12月9日开始生效，且没有到期日。 美光持有734.5亿美元的现金及有价投资，债务为51.8亿美元，2026财年产生调整后自由现金流623.1亿美元。 对于当前季度，美光预计非美国通用会计准则每股收益为38.15美元，营收为615亿美元，非美国通用会计准则毛利率约为86.25%。"
     },
     {
       "date": "2026.11.03",
-      "published_at": "2026-11-03T07:56:17+09:00",
-      "headline": "US Stock Market Fails To Recover as $700 Billion Comeback Collapses",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/us-stock-market-fails-recover-225617461.html",
+      "published_at": "2026-11-03T23:35:00+09:00",
+      "headline": "U.S. stocks drift in mixed early trading on Wall Street as Apple falls",
+      "source": "The Tribune-Democrat",
+      "url": "https://www.tribdem.com/news/business/u-s-stocks-drift-in-mixed-early-trading-on-wall-street-as-apple-falls/article_c251620f-8e35-5d35-a279-01aff04548aa.html",
       "language": "English",
       "section": "美国股市 / US Market",
-      "summary": "Wall Street experienced a sharp reversal on Monday after morning optimism driven by Middle East peace talks evaporated, wiping out roughly $700 billion in fresh market gains. The S&P 500 initially surged 1.1% before closing down 0.5%, and the Nasdaq Composite fell 1.1%. Oil prices dropped toward $104 as potential U. S. -Iran peace discussions raised expectations of cheaper energy. However, investors quickly refocused on concerns regarding high artificial intelligence capital expenditures by Big Technology companies. Oracle dropped nearly 9% after announcing plans to raise $20 billion through stock and bond sales to fund AI expansion, while Marvell lost almost 13% following its announced $115 billion acquisition of Lumentum. White House economic adviser Kevin Hassett dismissed fears of an AI financing crisis, stating that there is substantial cash in the ecosystem. Approximately 70% of S&P 500 companies finished higher, with market weakness remaining concentrated in major technology stocks ahead of U. S. midterm elections and the upcoming jobs report.",
-      "summary_zh": "华尔街股市在周一早盘因中东和平会谈带来的乐观情绪而一度上涨，但随后急剧逆转，约$700 billion的新增市值蒸发。 标普500指数盘初一度飙升1.1%，随后收盘下跌0.5%，纳斯达克综合指数下跌1.1%。 由于潜在的美伊和平会谈燃起对廉价能源的期望，油价跌至$104附近。 然而，投资者迅速重新聚焦于大型科技公司在人工智能领域的高额资本支出担忧。 Oracle在宣布计划通过股票和债券发售筹集$20 billion以资助其AI扩张后暴跌近9%，Marvell在宣布以$115 billion收购Lumentum后下跌近13%。 白宫经济顾问凯文·哈塞特驳斥了对AI融资危机的担忧，称生态系统中有充足的现金。 大约70%的标普500成分股收高，市场弱势主要集中在大型科技股上，而投资者正迎来美国中期选举和即将发布的就业报告。"
+      "summary": "The U. S. stock market traded in mixed conditions as early trading on Tuesday saw the S&P 500 rise 0.2%, the Dow Jones Industrial Average fall 212 points, and the Nasdaq composite gain 0.5%. Apple shares declined 3.2% after the company stated it expects lower profit margins from each dollar of revenue during the final three months of the year. Brent crude oil fell 1.7% to $103 a barrel. European and Asia indexes recorded mixed results. U. S. futures traded mixed ahead of the midterm elections and amid growing concerns over high costs associated with artificial intelligence sector expansion.",
+      "summary_zh": "美国股市周二早盘呈现涨跌互现的分化行情，标普500指数上涨0.2%，道琼斯工业平均指数下跌212点，纳斯达克综合指数上涨0.5%。 苹果公司股价下跌3.2%，此前该公司表示预计今年最后三个月中每1美元营收所获得的利润将减少。 布伦特原油价格下跌1.7%，至每桶103美元。 欧洲和亚洲市场指数表现不一。 在美中期选举前夕以及市场对人工智能领域扩张巨大成本的担忧持续加剧的背景下，美国股指期货走势分化。"
     },
     {
       "date": "2026.11.03",
-      "published_at": "2026-11-03T07:30:02+09:00",
-      "headline": "Why Franklin Electric Stock Raced 5% Higher on Monday",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/why-franklin-electric-stock-raced-223002450.html",
+      "published_at": "2026-11-03T20:31:50+09:00",
+      "headline": "TSG Advice Partners LLC Buys 4,163 Shares of Tesla, Inc. $TSLA",
+      "source": "MarketBeat",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-tsg-advice-partners-llc-buys-4163-shares-of-tesla-inc-tsla-2026-11-03/",
       "language": "English",
       "section": "美国股市 / US Market",
-      "summary": "Shares of pump and motor manufacturer Franklin Electric rose over 5% on Monday after DA Davidson analyst Matt Summerville upgraded his recommendation on the stock from neutral to buy. Summerville also raised his price target for the industrial company from $105 to $135 per share. The upgrade was driven by the company's growing exposure to high-growth market segments, including developing new products for data center infrastructure and critical minerals businesses, alongside efforts to boost its distribution business to increase segment margins and revenue growth. Furthermore, the analyst noted that Franklin maintains a relatively clean balance sheet, which is critical given the capital-intensive nature of industrial businesses. While the niche industrial company stands to benefit from these hot verticals, its core markets remain vulnerable to rising interest rates and construction-industry downcycles, though the emerging newer businesses present an attractive growth opportunity.",
-      "summary_zh": "泵和电机制造商富兰克林电气（Franklin Electric）的股价在周一上涨超过5%，此前DA Davidson分析师马特·萨默维尔将该股票的评级从“中性”上调至“买入”。 萨默维尔还将这家工业公司的目标价从每股$105上调至$135。 此次评级上调是由该公司对高增长市场板块不断增加的业务接触所驱动的，包括为数据中心基础设施和关键矿产业务开发新产品，以及努力提振分销业务以增加板块利润率和收入增长。 此外，该分析师指出富兰克林保持着相对干净的资产负债表，鉴于工业企业资本密集的特性，这一点至关重要。 虽然这家利基工业公司有望从这些热门垂直领域中受益，其核心市场仍然容易受到利率上升和建筑行业下行周期的影响，但新兴的新业务为其带来了诱人的增长机会。"
+      "summary": "TSG Advice Partners LLC acquired a new position of 4,163 shares in Tesla, Inc. during the third quarter, valued at approximately $1,477,000. Other institutional investors, including Security National Bank of Sioux City Iowa IA, Harborfront Financial Group LLC, Montgomery Financial Services LLC, Timbuktu Capital Management LLC, and Navigoe LLC, also established new stakes during the second quarter. Institutional investors own 66.20% of Tesla stock. October registrations showed sharp rebounds in Europe, rising 248% in Sweden, 131% in Norway, 34% in Denmark, 186.1% in Portugal, and 94% in Italy. Tesla's Texas robotaxi fleet reached 1,244 vehicles, and a shipper alliance ordered 2,500 Tesla Semi trucks. Meanwhile, competition in China intensified with strong October sales reported by BYD, Xiaomi, and XPeng, while investor Gary Black highlighted a drop in U. S. EV market share and raised concerns over valuation.",
+      "summary_zh": "TSG Advice Partners LLC在第三季度新买入4,163股特斯拉公司股票，价值约1,477,000美元。 包括苏城国民银行、Harborfront Financial Group LLC、Montgomery Financial Services LLC、Timbuktu Capital Management LLC和Navigoe LLC在内的其他机构投资者也在第二季度建立了新仓位。 机构投资者持有特斯拉66.20%的股份。 10月份欧洲注册量大幅反弹，瑞典、挪威、丹麦、葡萄牙和意大利分别增长248%、131%、34%、186.1%和94%。 特斯拉在德克萨斯州的Robotaxi车队达到1,244辆，且某货运商联盟订购了2,500辆特斯拉Semi卡车。 与此同时，随着比亚迪、小米和小鹏汽车公布强劲的10月销量，中国市场竞争加剧，而投资者加里·布莱克则指出特斯拉美国电动汽车市场份额下降并引发了对估值的担忧。"
     },
     {
       "date": "2026.11.03",
-      "published_at": "2026-11-03T06:42:22+09:00",
-      "headline": "More drops for AI and tech stocks overshadow gains for most of Wall Street",
-      "source": "KTVN",
-      "url": "https://www.2news.com/news/national/us-stocks-erase-their-rally-from-the-morning-as-tech-and-ai-stocks-keep-swinging/article_08b4d682-41f5-557c-9c38-d260dbb23f2e.html",
+      "published_at": "2026-11-03T20:10:00+09:00",
+      "headline": "A Once-in-a-Decade Opportunity: 1 Artificial Intelligence (AI) Stock to Buy Before It Soars 60%, According to Wall Street",
+      "source": "The Motley Fool",
+      "url": "https://www.fool.com/investing/2026/11/03/a-once-in-a-decade-opportunity-1-artificial-intell/",
       "language": "English",
       "section": "美国股市 / US Market",
-      "summary": "U. S. stocks saw a reversal on Monday as a morning rally faded due to ongoing weakness in technology and artificial intelligence industries. The S&P 500 fell 0.5% to 7,541.40, the Dow Jones Industrial Average rose 0.4% to 51,983.98, and the Nasdaq composite dropped 1.1% to 25,164.32. Brent crude dropped 7.6% to $104.77 per barrel amid ongoing uncertainty regarding the war with Iran. The decline in oil prices benefited fuel-dependent sectors, sending United Airlines up 4.8%, Southwest Airlines up 3.6%, Carnival up 4.2%, and Marriott International up 4.3%. Idexx Laboratories surged 21.8% after beating analyst expectations for the latest quarter and raising its full-year 2026 forecasts. Technology stocks continued to face pressure, with Alphabet dropping 0.3%, Nvidia falling 1.3%, and Marvell declining 12.7% after announcing its acquisition of Lumentum, whose shares dropped 18.6%. Meanwhile, the People’s Bank of China announced that around 100 billion yuan ($15 billion) would be deployed under a new program to support the market.",
-      "summary_zh": "周一美国股市出现逆转，由于科技和人工智能行业持续疲软，早盘的涨势逐渐消退。 标普500指数下跌0.5%至7,541.40点，道琼斯工业平均指数上涨0.4%至51,983.98点，纳斯达克综合指数下跌1.1%至25,164.32点。 在对与伊朗战争的不确定性持续存在的背景下，布伦特原油下跌7.6%至每桶$104.77。 油价下跌使燃料依赖型板块受益，推动联合航空上涨4.8%、西南航空上涨3.6%、嘉年华邮轮上涨4.2%、万豪国际上涨4.3%。 Idexx Laboratories在公布超出分析师预期的最新季度财报并上调2026全年预测后，股价飙升21.8%。 科技股继续面临压力，Alphabet下跌0.3%，英伟达下跌1.3%，Marvell在宣布收购Lumentum后下跌12.7%，而Lumentum的股价则暴跌18.6%。 与此同时，中国人民银行宣布将通过一项新计划部署约100 billion yuan（$15 billion）以支持市场。"
+      "summary": "Nvidia has seen its stock gain more than 300% over the past three years, though it has advanced only about 9% this year. The company reported a 100% increase in revenue to $96 billion and a triple-digit gain in net income to $59 billion in its latest quarter, driven by its dominant graphics processing units and expanding AI product portfolio. Despite strong financial results, tech spending concerns and questions about whether cloud investments will translate into sufficient growth have held the stock back. Wall Street analysts estimate a 60% increase in the stock over the coming 12 months, supported by a forward earnings multiple of 21x and expanding real-world AI applications.",
+      "summary_zh": "英伟达在过去三年中股价上涨超过300%，但今年仅上涨了约9%。 在最新季度中，受益于其图形处理器和不断扩展的人工智能产品组合，该公司报告营收增长100%至960亿美元，净利润实现三位数增长达到590亿美元。 尽管财务业绩强劲，但科技支出担忧以及对云投资能否转化为足够增长的疑问一直压制着股价。 华尔街分析师预计该股在未来12个月内将上涨60%，这得到了21倍预期市盈率以及不断扩大的现实世界人工智能应用的支撑。"
     },
     {
       "date": "2026.11.03",
-      "published_at": "2026-11-03T06:29:24+09:00",
-      "headline": "Wall Street Is Betting Big on Uber Ahead of Q3",
-      "source": "TradingView",
-      "url": "https://www.tradingview.com/news/gurufocus:cd6464b3e094b:0-wall-street-is-betting-big-on-uber-ahead-of-q3/",
+      "published_at": "2026-11-03T19:45:24+09:00",
+      "headline": "Cathie Wood Buys COIN Stock After Pullback, Adds CRCL Before Q3 Earnings",
+      "source": "Stocktwits",
+      "url": "https://stocktwits.com/news-articles/markets/equity/cathie-wood-buys-coin-stock-adds-crcl-shares-before-its-results/cNGXbRJR95S",
       "language": "English",
       "section": "美国股市 / US Market",
-      "summary": "Uber Technologies Inc. is preparing to report its third-quarter profits, with Wall Street analysts projecting bookings growth, free cash flow, and managing competition from autonomous cars. Earnings are expected at $0.86 per share on $14.67 billion in revenue. UBS analyst Stephen Ju maintained a Buy rating while lowering his price target from $110 to $106, citing tougher year-over-year comparisons for U. S. mobility and scooter competition in Brazil, though he anticipates annual EBITDA and free cash flow growth through 2028. Bank of America analyst Justin Post also issued a Buy rating with a $101 price objective, predicting bookings of approximately $59.78 billion and non-GAAP EPS of $0.91, while forecasting Uber to retain about 73% of the U. S. transportation market through 2028 despite competition from Waymo, Tesla, and Zoox. The broader consensus is a Strong Buy, with the upcoming November 4 earnings report serving as the next major catalyst.",
-      "summary_zh": "优步科技公司即将公布第三季度利润，华尔街分析师关注其预定额增长、自由现金流以及来自自动驾驶汽车的竞争。 市场预期每股收益为$0.86，营收为$14.67 billion。 瑞银分析师斯蒂芬·朱维持买入评级，但将目标价从$110下调至$106，指出美国出行服务的同比比较更加艰难以及巴西市场的滑板车竞争。 尽管面临这些挑战，他认为优步有望在2028年之前超越华尔街对EBITDA和自由现金流约21%年增长率的预测。 美国银行分析师贾斯汀·波斯特维持买入评级，目标价设为$101，预计总预定额约为$59.78 billion，非美国通用会计准则每股收益为$0.91，并预测尽管面临Waymo、特斯拉和Zoox的竞争，优步仍将在2028年前保持约73%的美国运输市场份额。 整体专家共识维持强力买入，下一个催化剂是10月4日的财报发布及管理层对预定额、盈利能力和自动驾驶汽车合作的预期。"
+      "summary": "Cathie Wood’s ARK Invest purchased 24,790 shares of Coinbase Global and 35,657 shares of USDC stablecoin issuer Circle on Monday across three exchange-traded funds, with the purchases valued at around $3.4 million and $2.6 million respectively. Wood also bought 7,703 shares of Robinhood Markets and sold 104,172 shares of Bullish worth about $2.3 million. Coinbase reported third-quarter revenue of about $1.2 billion, which met Wall Street forecasts but remained flat from the second quarter and down 28% from a year earlier, with earnings per share meeting expectations of a $0.09 loss. Circle is scheduled to report third-quarter results on Wednesday with expected revenue of about $789 million and earnings of $0.42 a share.",
+      "summary_zh": "方舟投资的凯茜·伍德周一通过三只交易所交易基金购买了24,790股Coinbase Global股份以及35,657股USDC稳定币发行商Circle股份，购买价值分别约为340万美元和260万美元。 伍德还买入了7,703股Robinhood Markets股份，并卖出了104,172股价值约230万美元的Bullish股份。 Coinbase公布第三季度营收约为12亿美元，符合华尔街预期，但与第二季度持平且较去年同期下降28%，每股收益符合0.09美元亏损的预期。 Circle预定于周三公布第三季度业绩，分析师预计营收约为7.89亿美元，每股收益为0.42美元。"
     },
     {
       "date": "2026.11.03",
-      "published_at": "2026-11-03T06:14:27+09:00",
-      "headline": "Nasdaq Falls 1.07%, SOX Drops Over 3%; AI-Related Stocks Extend Losses, Marvell Falls Over 12%, Oracle Drops Over 8%",
-      "source": "TradingKey",
-      "url": "https://www.tradingkey.com/analysis/stocks/us-stocks/262264978-us-stock-close-nasdaq-falls-dow-rises-marvell-oracle-tradingkey",
+      "published_at": "2026-11-03T18:07:10+09:00",
+      "headline": "Why Chip Stocks Answer To Memory Prices, Not Congress",
+      "source": "Trefis",
+      "url": "https://www.trefis.com/stock/intc/articles/622011/nov-3-why-chip-stocks-answer-to-memory-prices-not-congress/2026-11-03",
       "language": "English",
       "section": "美国股市 / US Market",
-      "summary": "On Monday, November 2, U. S. stocks diverged as investors rotated from tech into other sectors, sending the Dow higher while the Nasdaq and S&P 500 declined. Major market events included Marvell Technology's $115 billion all-stock acquisition of Lumentum, Oracle's $10 billion bond offering, and Meta's planned $20 billion debt issuance for AI infrastructure. Anthropic also reported third-quarter revenue nearing $17 billion alongside significant future spending commitments ahead of its upcoming IPO. At the close, the Dow Jones Industrial Average rose 0.41% to 51,983.98 points, the Nasdaq Composite fell 1.07% to 25,164.32 points, and the S&P 500 dropped 0.51% to 7,541.40 points. Marvell shares fell 12.72% while Lumentum dropped 18.59% following their enterprise-value $115 billion transaction, in which Lumentum shareholders will receive 4.5 Marvell shares per held share, leaving legacy Marvell holders with roughly 67% and Lumentum holders with about 33% of the combined company. Oracle shares dropped 8.85% to $119.1 after launching a $10 billion bond offering divided into six tranches with up to a 20-year maturity to fund AI infrastructure and corporate purposes. The Philadelphia Semiconductor Index fell 3.37% to 10,328.33 points. Meta is reportedly considering at least $20 billion in cross-border investment-grade bonds across U. S. dollar and euro markets, marking its first euro bond issuance, arranged by Citigroup and Morgan Stanley. Anthropic's updated IPO filing revealed third-quarter revenue approaching $17 billion, roughly 12 times that of the previous year, with a net loss of $23.3 billion compared to $12.1 billion previously.",
-      "summary_zh": "美东时间11月2日周一，美股出现分化，投资者从科技股轮动至其他板块，推动道指上涨，而纳斯达克指数和标普500指数下跌。 重大科技动态包括美满电子以$115 billion的全股票交易收购朗讯科技、甲骨文发售$10 billion债券，以及Meta计划为人工智能基础设施发行$20 billion债务。 同时，Anthropic在即将进行首次公开募股前报告第三季度营收接近$17 billion，并伴随巨大的未来支出承诺。 收盘时，道琼斯工业平均指数上涨0.41%至51,983.98点，纳斯达克综合指数下跌1.07%至25,164.32点，标普500指数下跌0.51%至7,541.40点。 美满电子股价下跌12.72%，朗讯科技下跌18.59%，双方宣布了企业价值约为$115 billion的全股票交易，根据条款，朗讯股东每持有一股将获得4.5股美满电子股票，交易完成后原美满股东将持有合并后公司约67%的股份，朗讯股东持有约33%。 甲骨文股价下跌8.85%至$119.1，该公司宣布推出$10 billion的债券发行以筹集资金用于人工智能基础设施投资和其他一般企业用途，该发行分为六个部分，最长期限为20年。 费城半导体指数下跌3.37%至10,328.33点。 据报道，Meta正考虑在美元和欧元市场发行至少$20 billion的跨境投资级债券，这将是其首次发行欧元债券，已聘请花旗集团和摩根士丹利安排投资者电话会议。 Anthropic周一更新的IPO文件显示，截至9月30日的第三季度营收接近$17 billion，约为去年同期的12倍；净亏损为$23.3 billion，而去年同期为$12.1 billion。"
+      "summary": "Betting markets give Democrats a high chance of winning the House and taking the Senate, leaving President Trump with his veto power. Chip stocks are primarily driven by memory prices and PC demand rather than Washington politics, as seen in Micron rising on a memory shortage and Intel falling 45% in October. The White House has previously imposed a 25% tariff on imported chips, maintained China sales on Commerce Department licenses, and converted Intel CHIPS Act grants into a stake of about 10% without congressional votes. A Democratic House could potentially hold hearings, use the defense bill to push export limits like the GAIN AI Act, and debate data center write-offs during debt limit negotiations.",
+      "summary_zh": "博彩市场赋予民主党赢得众议院并拿下参议院的高概率，而特朗普总统仍保留其否决权。 芯片股票主要受内存价格和个人电脑需求驱动，而非华盛顿政治，正如美光因内存短缺而上涨、英特尔在10月下跌45%所显示的那样。 白宫此前在未经过会投票的情况下，对进口芯片征收了25%的关税，通过商务部许可证维持对华销售，并将英特尔的《芯片法案》补助转换为约10%的股份。 民主党控制的众议院可能会举行听证会，利用国防法案推动诸如《GAIN AI Act》等出口限制，并在债务上限谈判期间辩论数据中心税收冲销。"
     },
     {
       "date": "2026.11.03",
-      "published_at": "2026-11-03T02:58:00+09:00",
-      "headline": "Alphabet (GOOGL) Stock Quotes, Company News And Chart Analysis",
-      "source": "Investor's Business Daily",
-      "url": "https://www.investors.com/news/technology/alphabet-googl-stock-quotes-company-news-google-stock-chart-analysis/",
-      "language": "English",
-      "section": "美国股市 / US Market",
-      "summary": "As artificial intelligence stocks experienced a difficult week across the market, Tesla emerged as a standout among the Magnificent Seven stocks by holding strong amidst the broader sector downturn.",
-      "summary_zh": "在人工智能股票经历艰难一周之际，“七巨头”股票中的特斯拉在整体行业低迷中表现强劲，成为其中的亮点。"
-    },
-    {
-      "date": "2026.11.03",
-      "published_at": "2026-11-03T12:25:39+09:00",
-      "headline": "中国製ロボタクシーに「トヨタマネー流入」って本当？",
-      "source": "自動運転ラボ",
-      "url": "https://jidounten-lab.com/u_69604",
+      "published_at": "2026-11-03T16:00:00+09:00",
+      "headline": "バイナンス巨額流出で注目、暗号資産の安全を守るセキュリティー関連株5選【日本株】",
+      "source": "トウシル",
+      "url": "https://media.rakuten-sec.net/articles/-/53937",
       "language": "Japanese",
       "section": "日本株式市場 / Japan Market",
-      "summary": "Recent developments in the autonomous driving sector include Pony. ai considering entry into the Japanese market through a strategic partnership memorandum with MK Holding, backed by international funding including Toyota. Turing's autonomous test vehicle successfully demonstrated the ability to use hazard lights as a thank-you gesture through end-to-end AI. Waymo released a report stating its Waymo Driver had 95% fewer serious-injury-or-worse accidents than human drivers, recording 0.011 per 1 million miles compared to 0.213 for humans. KIDZ AI is considering purchasing 500 units of Tesla's Cybercab robotaxi following Tesla's pricing and delivery confirmation. Entrepreneur Hiroyuki commented that human-driven taxis will not disappear because a distinct demand for human assistance remains. Waymo secured a $5 billion term loan in its first debt financing, with an estimated enterprise valuation of approximately $126 billion as of February 2026, while planning international expansion for 2027. Tier IV, which listed on the Tokyo Stock Exchange Growth Market in July 2026, saw its stock double in three months and projected reaching a cumulative 1,800 operating vehicles by September 2030. Honda is recruiting management to establish a service operation organization for robotaxi commercialization. Toyota plans to begin implementing autonomous technology in its e-Palette EV during 2027, aiming for cumulative sales of roughly 1,000 units over five to six years. Finally, the autonomous industry continues its transition toward end-to-end AI architectures while maintaining hybrid systems.",
-      "summary_zh": "自动驾驶领域的最新进展包括：小马智行通过与エムケイ控股签署战略合作备忘录正考虑进入日本市场，其背后拥有包括丰田在内的国际资金支持。 Turing的自动驾驶测试车辆通过端到端人工智能成功展示了使用危险报警闪光灯表示感谢的能力。 Waymo发布报告称，其Waymo Driver导致重伤或更严重事故的概率比人类驾驶员少95%，每100万英里发生0.011起，而人类为0.213起。 KIDZ AI在特斯拉确认价格和交付时间后，正考虑购买500辆特斯拉Cybercab机器人出租车。 实业家西村博之评论称人类驾驶的计程车不会消失，因为对人类协助的需求依然存在。 Waymo完成了$5 billion的定期贷款，为其首次债务融资，截至2026年2月企业估值约为$126 billion，并计划在2027年进行海外扩张。 于2026年7月在东京证券交易所成长市场上市的Tier IV股价在三个月内翻倍，并预计到2030年9月累计运营车辆将达到1,800辆。 本田正在招聘管理人员以建立机器人出租车商业化的服务运营组织。 丰田计划在2027年期间在其e-Palette电动汽车中开始实施自动驾驶技术，目标是在五到六年内实现约1,000辆的累计销量。 最后，自动驾驶行业在保持混合系统的同时，继续向端到端人工智能架构转型。"
+      "summary": "暗号資産交換所のバイナンスは10月30日、サイバー攻撃により推定約63億ドル、日本円で約1兆円の資産が不正流出たと発表しました。 TRM Labsの分析によると、攻撃は約20分間で大部分の資産が引き出され、署名システムが侵害された可能性が高いとされています。 米FBIやTRM Labsなどは、2025年のBybit事件やDMMビットコイン事件と同様に、北朝鮮系ハッカー集団「TraderTraitor」による犯行と特定しました。 バイナンスは関係企業と協力して約30億ドル相当の資産を凍結し、主要10種類の暗号資産について100%の裏付け資産を確保したとして、不足分を自社資金などで補填する方針です。",
+      "summary_zh": "加密货币交易所币安于10月30日宣布，因网络攻击导致估计约63亿美元（约合1万亿日元）的资产被非法窃取。 根据TRM Labs的分析，攻击在约20分钟内提取了大部分资产，签名系统很可能受到了侵害。 美国联邦调查局和TRM Labs等机构已将此案认定为朝鲜黑客集团“TraderTraitor”所为，这与2025年的Bybit事件和DMM比特币事件类似。 币安已与相关企业合作冻结了价值约30亿美元的资产，并表示已为主流10种加密货币确保了100%的储备资产，计划用自有资金等填补其余缺口。"
     },
     {
       "date": "2026.11.03",
-      "published_at": "2026-11-03T08:00:20+09:00",
-      "headline": "アップル決算、iPhone売上575.8億ドルで過去最高――好調でも株価は下落",
-      "source": "shiritomo",
-      "url": "https://hashout.jp/gadget/13697/",
+      "published_at": "2026-11-03T12:07:36+09:00",
+      "headline": "パランティア・テクノロジーズ決算レビュー：予想を上回る好結果にもかかわらず、なぜ株価は下落したのか？",
+      "source": "Moomoo",
+      "url": "https://www.moomoo.com/ja/community/feed/palantir-earnings-review-why-did-the-stock-fall-despite-better-117550301577221",
       "language": "Japanese",
       "section": "日本株式市場 / Japan Market",
-      "summary": "アップルが11月2日に発表した2026年度第4四半期決算は、売上高が1144.8億ドルで前年同期比12%増、EPSが2.10ドルとなり市場予想を上回った。 iPhoneの売上高は575.8億ドル、サービスは315.7億ドルで過去最高を更新した一方、Mac、iPad、ウェアラブルは前年を下回った。 中華圏の売上高は175.4億ドルで21%増えたが市場予想には届かず、関税還付によるEPSの一時的な押し上げもあり、好決算にもかかわらず株価は下落した。",
-      "summary_zh": "苹果于当地时间11月2日发布的2026财年第四季度财报显示，销售额为1144.8亿美元，同比增长12%，每股收益为2.10美元，均高于市场预期。 其中iPhone销售额达575.8亿美元，服务业务达315.7亿美元，均创下历史同期新高；但Mac、iPad和可穿戴设备等出现同比下滑。 大中华区销售额为175.4亿美元，同比增长21%，但未达到市场预期。 由于部分利润受关税退税临时提振等因素，尽管业绩良好，股价在盘后交易中仍出现下跌。"
+      "summary": "Palantir Technologies reported third-quarter revenue of 23.1 billion dollars, representing a 95.87% year-over-year increase that beat the market consensus of 21.8 billion dollars, alongside a net income of 1.13 billion dollars and adjusted earnings per share of 0.44 dollars. Total contract value for the quarter came in at 2.9 billion dollars, though新規受注額および残存履行義務における新規受注額は小幅な減少し、既存受注残高の消化に対する懸念を強めました。 政府部門の売上高は11.5 billion dollarsとなり前年比約81.7%増を記録した一方、商業部門の売上高は11.7 billion dollarsに達して前年比約113.5%増となりました。 当期の粗利益率は83.4%で前四半期から1.3ポイント低下し、営業利益率は46.9%となり、決算発表後に株価は3%超下落しました。",
+      "summary_zh": "帕兰蒂尔技术公司公布第三季度营收为23.1亿美元，同比大幅增长95.87%，超过市场预期的21.8亿美元，净利润为11.3亿美元，调整后每股收益为0.44亿美元。 该季度的总合同价值为29亿美元，但新订单额和小幅下降的残存履行义务加剧了市场对其消耗现有订单储备的担忧。 政府部门营收达到11.5亿美元，同比增长约81.7%，而商业部门营收达到11.7亿美元，同比增长约113.5%。 当期毛利率为83.4%，较上一季度下降1.3个百分点，营业利润率为46.9%，财报公布后股价下跌超过3%。"
+    },
+    {
+      "date": "2026.11.03",
+      "published_at": "2026-11-03T11:15:00+09:00",
+      "headline": "東京エレクトロンが通期予想を初公表、「営業利益87％増」の強気計画の裏付けは？ 下期に高採算体質を実現できるかどうかのカギ（マネーポストWEB）",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/articles/908f022cd40b5c9a4daf4cf23e9ed8a28ea6de06?page=2",
+      "language": "Japanese",
+      "section": "日本株式市場 / Japan Market",
+      "summary": "Tokyo Electron announced its full-year financial forecasts, projecting net sales of 3.7 trillion yen, an increase of 51.4 percent compared to the previous fiscal year. The company expects second-half net sales of 2.0232 trillion yen and operating income of 6622 billion yen, with an operating profit margin improving from 30.4 percent in the first half to 32.6 percent. Annual R&D expenses are planned at 3350 billion yen, up 20.6 percent year-on-year. Furthermore, the company established a dividend forecast of 191 yen per share, marking a 52.1 percent increase, following a 5-for-1 stock split effective October 1. A share buyback of up to 150 billion yen will be conducted by the end of March 2027, covering up to 25 million shares or 1.1 percent of issued shares excluding treasury stock.",
+      "summary_zh": "东京电子公布了全年业绩预期，预计全年净销售额为3.7万亿元，比上一财年增长51.4%。 该公司预计下半年净销售额为2.0232万亿元，营业利润为6622亿元，营业利润率预计从上半年的30.4%提高到下半年的32.6%。 全年研发费用计划增加至3350亿元，比上年增长20.6%。 此外，自10月1日起按1股拆为5股的比例进行拆股后，年度股息预期为191日元，比前期的125.6日元增长52.1%。 同时，该公司将在2027年3月底前实施上限为1500亿元的股票回购，回购股份上限为2500万股，占除库藏股外已发行股份总数的1.1%。"
+    },
+    {
+      "date": "2026.11.03",
+      "published_at": "2026-11-03T07:30:03+09:00",
+      "headline": "ADR主要銘柄（日本）－日産自、ソニーＧが上昇、ニデック、ソフトバンクＧが下落(トレーダーズ・ウェブ)",
+      "source": "Yahoo!ファイナンス",
+      "url": "https://finance.yahoo.co.jp/news/detail/815b5968ea193ed2c48cd153abc980aace4e0a08",
+      "language": "Japanese",
+      "section": "日本株式市場 / Japan Market",
+      "summary": "Japanese ADR shares on November 2 traded with slightly stronger buying pressure, based on a conversion rate of 157.90 yen per dollar. Notable gainers included Nissan Motor and Sony Group, while Nidec and SoftBank Group experienced declines. Individual stock figures showed INPEX at an ADR closing price of 3964.9 yen, down 2.20 percent, and Sekisui House at 3510.1 yen, up 0.81 percent. Nidec recorded a significant drop of 8.95 percent to 1604.3 yen with a volume of 6675. Sony Group rose 1.56 percent to 4028.0 yen with a volume of 4,179,976. Toyota Motor increased by 1.35 percent to 3092.2 yen with a volume of 326,509. Fast Retailing and other major issues were also tracked in the broader ADR rankings.",
+      "summary_zh": "11月2日的日本ADR股票按1美元兑157.90日元的汇率换算，整体呈现轻微的买盘优势。 日产汽车和索尼集团等股票上涨，而尼电和软银集团则出现下跌。 个股方面，INPEX的ADR收盘价为3964.9日元，跌幅为2.20%，积水房屋收盘价为3510.1日元，涨幅为0.81%。 尼电大幅下跌8.95%至1604.3日元，成交量为6675；索尼集团上涨1.56%至4028.0日元，成交量为4,179,976。 丰田汽车上涨1.35%至3092.2日元，成交量为326,509。 法ーストリテイリング等其他主要股票也在ADR排名中受到关注。"
     },
     {
       "date": "2026.11.03",
@@ -133,63 +155,96 @@
       "url": "https://dot.asahi.com/books/articles/-/295208",
       "language": "Japanese",
       "section": "日本株式市場 / Japan Market",
-      "summary": "任天堂が2025年6月に発売した「Nintendo Switch 2」により、当期の売上高は約2.3兆円と前期から98.6％増の約2倍に増加した。 ゲーム専用機は約2.2兆円を占め、Switch 2は発売からの約10か月間で1986万台を販売し、5割ほど高い販売価格も売上を押し上げた。 しかし、AIブームによる半導体メモリー価格の高騰などで材料費が約1.2兆円へと倍増し、原価率が急上昇したため粗利の伸びが制限され、営業利益率は低下した。",
-      "summary_zh": "任天堂于2025年6月发售“Nintendo Switch 2”后，本期销售额约为2.3万亿日元，较前期大幅增长98.6%约两倍。 其中游戏专用机业务约占2.2万亿日元，Switch 2在发售约10个月内售出1986万台，且售价较初代高出约五成，推动了销售额增长。 然而，受AI热潮导致的半导体存储器价格暴涨影响，材料费暴增至约1.2万亿日元，促使原価率急剧上升，毛利润增长受限，营业利润率也随之下降。"
+      "summary": "Nintendo released the Nintendo Switch 2 in June 2025, driving net sales for the fiscal year ending March 2026 to approximately 2.3 trillion yen, a 98.6 percent increase year-on-year. Game-dedicated machine sales accounted for roughly 2.2 trillion yen or 97 percent of the total, with Switch 2 selling 19.86 million units over roughly 10 months and featuring a sales price about 50 percent higher than the original Switch. Overseas markets generated about 80 percent of sales. However, cost of goods sold surged to 1.4 trillion yen due to soaring material costs, pushing the cost ratio from 39 percent to over 60 percent. Semiconductor memory prices increased significantly amid an AI boom. Selling, general, and administrative expenses rose 28.3 percent due to higher R&D and advertising costs for Switch 2. Consequently, operating income grew 27.5 percent year-on-year, but the operating profit margin fell to 15.6 percent, nearly 20 percentage points lower than the peak in the fiscal year ending March 2022.",
+      "summary_zh": "任天堂于2025年6月发售了“Nintendo Switch 2”，推动截至2026年3月底的财年净销售额达到约2.3万亿元，比上年增长98.6%。 游戏专用机销售额占总额的97%左右，约为2.2万亿元；Switch 2在大约10个月内售出了1986万台，且售价比初代Switch高出约五成。 海外市场贡献了约八成的销售额。 然而，由于材料成本激增，销售成本飙升至1.4万亿元，成本率从39%急剧上升至60%以上，半导体存储器价格因人工智能热潮而上涨被认为是主要原因。 由于Switch 2的研发费用和广告宣传费增加，销售及管理费用比上年增长28.3%。 受这些因素影响，营业利润虽比上年增长27.5%，但营业利润率降至15.6%，较初代Switch销售鼎盛期的2022年3月财年下降了近20个百分点。"
     },
     {
       "date": "2026.11.03",
-      "published_at": "2026-11-03T05:00:00+09:00",
-      "headline": "トヨタ系４社 減益…９月中間決算 中国で低迷、原材料高騰逆風 ：地域ニュース",
-      "source": "読売新聞",
-      "url": "https://www.yomiuri.co.jp/local/chubu/news/20261102-GYTNT00082/",
+      "published_at": "2026-11-03T10:09:20+09:00",
+      "headline": "「株式」ADR日本株ランキング～やや買い優勢、シカゴは大阪日中比180円高の62780円",
+      "source": "株探",
+      "url": "https://s.kabutan.jp/news/n202611030232/",
       "language": "Japanese",
       "section": "日本株式市場 / Japan Market",
-      "summary": "トヨタ自動車グループ主要8社が発表した2026年9月中間連結決算では、中国市場の販売低迷や原材料価格の高騰を背景に、デンソー、アイシン、豊田合成、愛知製鋼の4社の最終利益が減益となった。 アイシンの最終利益は前年同期比28.9%減となり、中国の売上高も15.6%減を記録。 各社は中国市場での生産拠点合理化や固定費削減、現地ニーズに対応した製品開発などの対策を進める方針を示している。",
-      "summary_zh": "丰田汽车集团主要8家公司公布的2026年9月中期合并财报显示，受中国市场销量低迷及原材料价格高企影响，电装、爱信、丰田合成和爱知钢构等4家公司的净利润出现下降。 其中，爱信净利润同比减少28.9%，中国区销售额也下降15.6%。 各家公司正着手采取应对措施，包括推进中国制造基地的合理化、削减固定费用，以及开发契合当地需求的产品。"
+      "summary": "Japanese ADR stocks showed slightly stronger buying pressure on November 2, compared against the Tokyo Stock Exchange at a rate of 157.88 yen per dollar, with Fast Retailing, Recruit Holdings, and SoftBank Group advancing. Chicago Nikkei 225 futures settlement prices stood at 62780 yen, up 180 yen from the Osaka daytime session. In the U. S. market, the Dow Jones Industrial Average closed up 213.67 points at 51983.98, while the Nasdaq fell 272.68 points to 25164.32, weighed down by high-tech sell-offs following startup Anthropic's disclosure of soaring third-quarter sales alongside massive future spending plans. The dollar-yen rate moved from a low of 157.63 yen to 157.95 yen, ending at 157.93 yen, influenced by diplomatic developments regarding Iran and U. S. ISM manufacturing index data. NY crude WTI futures for December delivery dropped 6.32 dollars, or 6.18 percent, to close at 95.97 dollars.",
+      "summary_zh": "11月2日，按1美元兑157.88日元换算，日本ADR股票兑东京证券交易所表现为买盘稍占优势，迅销、瑞可利控股和软银集团等股票上涨。 芝加哥日经225指数期货结算价比大阪日间交易高出180日元，报62780日元。 美国股市表现分化，道琼斯工业平均指数收盘上涨213.67点，报51983.98点；纳斯达克指数下跌272.68点，报25164.32点，原因是初创公司Anthropic公布第三季度销售额激增的同时披露了未来数年的巨额支出计划，导致科技股遭到抛售。 美元兑日元汇率从157.63日元的低点回升至157.95日元，收于157.93日元，受到有关伊朗的外交动向及美国ISM制造业指数数据的影。 纽约原油12月期货合约下跌6.32美元，跌幅为6.18%，收于95.97美元。"
     },
     {
       "date": "2026.11.03",
-      "published_at": "2026-11-03T02:36:28+09:00",
-      "headline": "日本の株式市場日経平均、キオクシア急落で下落、東京エレクトロンは好調な見通しで上昇",
-      "source": "アラブニュース",
-      "url": "https://www.arabnews.jp/business/%E6%97%A5%E6%9C%AC%E3%81%AE%E6%A0%AA%E5%BC%8F%E5%B8%82%E5%A0%B4%E6%97%A5%E7%B5%8C%E5%B9%B3%E5%9D%87%E3%82%AD%E3%82%AA%E3%82%AF%E3%82%B7%E3%82%A2%E6%80%A5%E8%90%BD%E3%81%A7%E4%B8%8B%E8%90%BD%E6%9D%B1%E4%BA%AC%E3%82%A8%E3%83%AC%E3%82%AF%E3%83%88%E3%83%AD%E3%83%B3%E3%81%AF%E5%A5%BD%E8%AA%BF%E3%81%AA%E8%A6%8B%E9%80%9A%E3%81%97%E3%81%A7%E4%B8%8A%E6%98%87-3001218",
+      "published_at": "2026-11-03T08:00:20+09:00",
+      "headline": "アップル決算、iPhone売上575.8億ドルで過去最高――好調でも株価は下落",
+      "source": "shiritomo",
+      "url": "https://hashout.jp/gadget/13697/",
       "language": "Japanese",
       "section": "日本株式市場 / Japan Market",
-      "summary": "月曜日の日本の株式市場では、メモリーチップメーカーのキオクシアの株価が12月期の見通しに対する失望から15.78%急落し、日経平均株価の下落につながった。 一方、東京エレクトロンが年間連結純利益の50%増加を予測して5.16%上昇し、パナソニックホールディングスも予想を上回るAI関連需要などを背景に営業利益予想を引き上げて5.41%上昇し、損失を限定した。 主要銀行株は三菱UFJや三井住友、みずほを含め約2%下落した。",
-      "summary_zh": "周一日本股市中，由于存储芯片制造商铠侠的12月期业绩预期令投资者失望，股价暴跌15.78%，拖累日经平均指数走低。 与此同时，东京电子预测全年合并纯利润将增长50%而上涨5.16%，松下控股也因超预期的AI相关需求等因素上调了营业利润预期并上涨5.41%，限制了市场的整体跌幅。 主要银行股普遍走弱，三菱日联金融集团、三井住友金融集团和瑞穗金融集团均下跌约2%。"
+      "summary": "Apple announced its fourth-quarter fiscal 2026 financial results for the period of July through September, posting diluted earnings per share of 2.10 dollars, beating the market consensus of 1.99 dollars. Total revenue reached 1144.8 billion dollars, representing a 12 percent year-on-year increase. iPhone revenue hit 575.8 billion dollars, setting a record high for a September quarter with a 17.5 percent year-on-year rise. Services revenue reached 315.7 billion dollars, up 9.8 percent year-on-year. Conversely, Mac revenue was 107.9 billion dollars, iPad revenue was 62.3 billion dollars down 10.4 percent year-on-year, and wearables, home, and accessories revenue fell 7.9 percent to 83.0 billion dollars. Full-year fiscal 2026 revenue totaled 4788 billion dollars. Despite the beating of estimates, Apple's stock fell in after-hours trading, driven primarily by a downward revision in gross margin guidance for the December quarter, alongside weaker-than-expected Greater China revenue of 175.4 billion dollars and an EPS boost of 0.05 dollars stemming from a temporary tariff refund.",
+      "summary_zh": "苹果公司公布了2026财年第四季度（7月至9月）财务业绩，每股收益为2.10美元，超过了市场预期的1.99美元。 总营收达到1144.8亿美元，较去年同期增长12%。 其中，iPhone营收达到575.8亿美元，同比增长17.5%，创下包含9月份在内的季度历史新高；服务业务营收达到315.7亿美元，同比增长9.8%。 相比之下，Mac营收为107.9亿美元，iPad营收为62.3亿美元，同比下降10.4%；可穿戴设备、家居与配件营收下降7.9%至83.0亿美元。 2026财年全年的总营收达到了4788亿美元。 尽管业绩好于预期，但苹果股价在盘后交易中下跌，主因是12月季度的毛利率预期下调，同时大中华区营收为175.4亿美元低于市场预期，且每股收益中包含0.05美元由关税退款带来的暂时性推升。"
     },
     {
-      "date": "2026.11.02",
-      "published_at": "2026-11-02T18:02:39+09:00",
-      "headline": "日経平均、6万円の「売る権利」建玉が急増 節目割れに備え",
-      "source": "日本経済新聞",
-      "url": "https://www.nikkei.com/article/DGXZQOUB026P40S6A101C2000000/",
+      "date": "2026.11.03",
+      "published_at": "2026-11-03T08:00:20+09:00",
+      "headline": "AI半導体市場「メガサイクル局面だ」 アドバンテスト好決算、CEOが語る「CPU」「光電融合」への期待とワクワク",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/articles/19bfd6a2c01ac681748841200432cafbd48cf4c1",
       "language": "Japanese",
       "section": "日本株式市場 / Japan Market",
-      "summary": "オプション市場において、今後の株安に備えたポジションが増加している。 日経平均株価で6万円を権利行使価格とする「プット（売る権利）」の建玉は、10月末時点で直近2限月あわせて2万6357枚となり、3週間で2割弱増加した。 内訳は11月物が8878枚、12月物が1.7479万枚に達している。",
-      "summary_zh": "在期权市场上，防范未来股价下跌的持仓正在增加。 以日经平均指数6万日元为行权价格的“认沽期权”未平仓合约数量，截至10月底在最近两个到期月份合计达到26357张，在3周内增加了近两成。 其中，11月到期合约为8878张，12月到期合约达到17479张。"
+      "summary": "アドバンテストのダグラス・ラフィーバCEOは、10月28日の決算説明会で、AI半導体市場が「メガサイクル」と呼ばれる高成長局面にあると述べた。 同日発表された2026年度第2四半期決算は、売上高が4777億円（前年同期比81.7％増）、営業利益が2668億円（同146.0％増）、純利益が1933億円（同142.7％増）といずれも過去最高を記録した。 これを受け、通期の業績予想を売上高1兆8630億円、営業利益9670億円へと上方修正し、2800億円を上限とする自社株買いも発表した。 好調の背景にはGPUやCPU向け試験装置の需要拡大があり、特にエージェント型AIの普及に伴うCPU需要の伸びが第3の成長ドライバーとして業績を後押ししている。",
+      "summary_zh": "爱德万测试首席执行官道格拉斯·拉菲瓦在10月28日的财报说明会上表示，AI半导体市场正处于被称为“巨周期”的高增长阶段。 该公司同日公布的2026财年第二财季财报显示，销售额为4777亿日元，同比增长81.7%，营业利润为2668亿日元，同比增长146.0%，净利润为1933亿日元，同比增长142.7%，三项指标均创下历史新高。 基于此，该公司将全年销售额预期上调至1兆8630亿日元，营业利润预期上调至9670亿日元，并宣布了上限为2800亿日元的股票回购计划。 业绩向好的背景是AI热潮带动了GPU及CPU测试设备需求的扩大，特别是代理式AI的发展推动了CPU需求的增长，成为业绩的第三大增长动力。"
     },
     {
-      "date": "2026.11.02",
-      "published_at": "2026-11-02T17:57:38+09:00",
-      "headline": "日本株「ツルハシ神話」に陰り AI投資に黄信号、揺らぐ増益期待",
-      "source": "日本経済新聞",
-      "url": "https://www.nikkei.com/article/DGXZQOUB0222R0S6A101C2000000/",
-      "language": "Japanese",
-      "section": "日本株式市場 / Japan Market",
-      "summary": "日本株の上昇期待が剝落しつつあり、市場は米テック大手による人工知能投資の拡大ペースが減速する将来を織り込み始めています。 大規模投資の恩恵を受けてきたツルハシ銘柄が悪影響を受け、株価上昇を正当化してきた物語が株売りの材料にすり替わっています。 山和証券の岡本郁翔ディーラーは、過去最大の損失が出たとし、人工知能関連の地合いの悪さは単なる需給悪化だけではないかもしれないと述べています。",
-      "summary_zh": "日本股市的上涨预期正在消退，市场开始消化美国科技巨头放大人工智能投资步伐放减速的未来。 受惠于大规模投资的“掘头”股票受到负面影响，曾经正股价上涨的故事正在转变为卖出股票的材料。 山和证券的冈本郁翔表示，出现了历史最大亏损，人工智能相关市场氛围恶化可能不仅仅是因为供需恶化。"
+      "date": "2026.11.03",
+      "published_at": "2026-11-03T23:36:10+09:00",
+      "headline": "Today the crypto market is in motion. Bitcoin is being nudge",
+      "source": "KuCoin",
+      "url": "https://www.kucoin.com/news/insight/BTC/6ae9f09cbbcb52000745abae",
+      "language": "English",
+      "section": "宏观经济与投资 / Macro & Investment",
+      "summary": "Today the crypto market is in motion, with Bitcoin being nudged by broad market sentiment. Rising oil prices and geopolitical tensions are feeding inflation concerns that could weigh on crypto values. This content is provided for general informational purposes only without any representation, warranty, or financial advice. KuCoin shall not be liable for errors, omissions, or outcomes resulting from the use of this information, and reminds investors that digital asset investments carry risks.",
+      "summary_zh": "今天加密货币市场正在波动，比特币受到整体市场情绪的推动。 不断上涨的油价和地缘政治紧张局势加剧了通货膨胀的担忧，这可能会对加密货币的价值造成压力。 此内容仅供一般参考，不作任何陈述、保证或财务建议。 KuCoin不对因使用此信息而导致的错误、遗漏或结果承担责任，并提醒投资者数字资产投资具有风险。"
     },
     {
-      "date": "2026.11.02",
-      "published_at": "2026-11-02T17:00:48+09:00",
-      "headline": "レーティング日報【最上位を継続＋目標株価を増額】 (11月2日)(株探ニュース)",
-      "source": "Yahoo!ファイナンス",
-      "url": "https://finance.yahoo.co.jp/news/detail/e61db663dc903eb1d6fae0c2370300fe58632d19",
-      "language": "Japanese",
-      "section": "日本株式市場 / Japan Market",
-      "summary": "11月2日に調査機関が投資判断を最上位で継続し、目標株価を引き上げた銘柄がまとめられました。 武田はマッコリが強気で7400から7600へ、大塚ＨＤはＧＳが買いで14200から14800へ、オービックは日興が強気で5700から6700へ引き上げました。 住友電、パナＨＤ、ＴＤＫ、レーザーテク、村田製、東エレク、東京メトロについても、ゴールドマン・サックス証券やマッコリー証券などの調査機関がそれぞれ買いや強気の判断を継続し、目標株価を引き上げています。",
-      "summary_zh": "汇总了11月2日调查机构维持最高投资评级并调高目标股价的股票。 武田被麦格理维持强气并将目标价从7400调高至7600，大塚控股被高盛维持买入并将目标价从14200调高至14800，欧力士被日兴维持强气并将目标价从5700调高至6700。 住友电工、松下控股、TDK、Lasertec、村田制作所、东京电子以及东京地铁等股票，也获得了高盛证券或麦格理证券等调查机构维持买入或强气评级并调高目标股价。"
+      "date": "2026.11.03",
+      "published_at": "2026-11-03T16:19:59+09:00",
+      "headline": "US midterms and payrolls: Could the dollar fall even as yields rise?",
+      "source": "Saxo",
+      "url": "https://www.home.saxo/en-sg/content/articles/forex/us-midterms-playbook-03112026",
+      "language": "English",
+      "section": "宏观经济与投资 / Macro & Investment",
+      "summary": "Two major catalysts are converging: US midterm elections on November 3 and October nonfarm payrolls on November 6 at 9:30pm SGT. Midterm scenarios range from a Democratic sweep to continued Republican control, which could revive fiscal deficit concerns. Higher Treasury yields may weaken the USD if driven by fiscal risk rather than growth. Meanwhile, potential US-Iran escalation could raise oil prices, and gold has broken below the psychological USD 4,000 level while trading below major moving averages. Key currency pairs like EUR/USD and USD/JPY face specific support and resistance levels as markets test Federal Reserve expectations.",
+      "summary_zh": "两大主要催化剂正在汇聚：11月3日举行的美国中期选举以及新加坡时间11月6日晚上9点30分公布的10月非农就业数据。 中期选举的情景从民主党大胜到共和党继续控制不等，这可能会重新引发对财政赤字的担忧。 如果国债收益率走高是由财政风险而非经济增长驱动的，则可能会削弱美元。 同时，潜在的美伊升级可能会推高油价，黄金在跌破4000美元的心理关口后继续在主要移动平均线下方交易。 随着市场对美联储预期进行测试，欧元兑美元和美元兑日元等主要货币对面临各自的支撑位和阻力位。"
+    },
+    {
+      "date": "2026.11.03",
+      "published_at": "2026-11-03T14:34:04+09:00",
+      "headline": "Weekly market commentary",
+      "source": "BlackRock",
+      "url": "https://www.blackrock.com/us/individual/insights/blackrock-investment-institute/weekly-commentary",
+      "language": "English",
+      "section": "宏观经济与投资 / Macro & Investment",
+      "summary": "After two years of booming AI investment, the BlackRock Investment Institute downgraded U. S. equities to neutral last month while maintaining its conviction in AI fundamentals. The earnings gap has flipped for the first time since 2022, with the S&P 493 outpacing the magnificent seven at roughly 29% versus 18%, and the Nasdaq posting its worst month since March 2025. Hyperscaler spending has surged, leaving little cash surplus after capital expenditures and raising questions about whether returns can keep pace with soaring investment. However, companies outside big tech with higher AI adoption are on track for about 3% more earnings growth this quarter than those with lower adoption.",
+      "summary_zh": "在经历了两年的AI投资热潮后，贝莱德投资研究所上个月将美股下调至中性，同时保持对AI基本面的坚定信心。 自2022年以来，盈利差距首次出现反转，标普493指数的增长率跑赢了“七巨头”，分别约为29%对18%，纳斯达克指数也创下了2025年3月以来表现最差的一个月。 超大规模企业的支出激增，导致资本支出后几乎没有现金盈余，引发了回报能否跟上飙升投资步伐的疑问。 不过，大型科技公司之外、AI采用率更高的企业本季度的盈利增长预计将比采用率较低的企业高出约3%。"
+    },
+    {
+      "date": "2026.11.03",
+      "published_at": "2026-11-03T14:32:22+09:00",
+      "headline": "Fed hike bets push gold back below $3,950 ahead of US midterm elections",
+      "source": "www.tmgm.com",
+      "url": "https://www.tmgm.com/en-eu/analysis/market-news/article/gold-weakens-back-below-3-950-as-fed-hike-bets-weigh-ahead-of-us-midterm-elections-202611030435",
+      "language": "English",
+      "section": "宏观经济与投资 / Macro & Investment",
+      "summary": "US manufacturing activity expanded for a 10th consecutive month in October as the ISM Manufacturing PMI climbed to 55.5. Expectations of a hawkish Federal Reserve and rebounding US bond yields helped the US Dollar extend its recovery, prompting Gold (XAU/USD) to slip below $3,950. Meanwhile, caution ahead of the US midterm elections limits USD gains, while geopolitical factors including US-Iran talks and Russia-Ukraine escalation keep geopolitical risk premiums in place. Traders are also awaiting the US JOLTS Job Openings and Friday's Nonfarm Payrolls report for further market direction.",
+      "summary_zh": "随着美国供应管理协会制造业采购经理人指数攀升至55.5，美国10月制造业活动连续第十个月扩张。 美联储鹰派预期和美国国债收益率的反弹帮助美元扩大了回升势头，导致黄金兑美元跌破3950美元。 与此同时，对美国中期选举的谨慎情绪限制了美元的涨幅，而美伊会谈和俄乌升级等地缘政治因素则使地缘政治风险溢价得以维持。 交易员们还在等待美国JOLTS职位空缺数以及周五的非农就业报告，以获取进一步的市场方向。"
+    },
+    {
+      "date": "2026.11.03",
+      "published_at": "2026-11-03T13:52:56+09:00",
+      "headline": "Liquidity Crisis Behind Gold’s Plunge Echoes 2008, When a Rebound Followed!",
+      "source": "www.tmgm.com",
+      "url": "https://www.tmgm.com/en/analysis/market-insight/gold-liquidity-crisis-rebound",
+      "language": "English",
+      "section": "宏观经济与投资 / Macro & Investment",
+      "summary": "Amid intensifying Middle East tensions and concerns over potential US strikes against Iran, gold experienced a sharp sell-off, falling last Friday to its lowest level in over a year. Unlike traditional patterns where investors flee to gold during regional conflicts, a broader stock market sell-off spilled over into precious metals via a liquidity-driven flight to safety, forcing investors to sell gold to raise cash. Technical support established in July broke, accelerating the decline. Worsening regional conditions and US economic resilience could keep the Federal Reserve on hold, preventing a recovery, though deep artificial intelligence sector sell-offs might offer support. Market analysts note similarities to the 2008 financial crisis, suggesting long-term potential for gold if interest rates drop in 2027 and the US government expands the money supply to finance its debt.",
+      "summary_zh": "随着中东局势再度紧张以及市场担忧美国可能对伊朗发动新一轮军事打击，传统避险资产黄金遭遇剧烈抛售，上周五跌至一年多来的最低点。 与地缘冲突升级时资金通常涌入黄金的传统模式不同，美股近期的大跌引发了流动性驱动的避险抛售，投资者因股市受损而被迫抛售黄金以筹集现金。 随着7月建立的技术支撑位跌破，黄金跌幅加速。 区域局势恶化和美国经济的韧性可能促使美联储维持高利率，阻碍金价持续回升，但人工智能板块的抛售深化可能会带来一定支撑。 市场分析指出，当前金价与股市同时下跌的情况令人回想起2008年金融危机，如果美联储在2027年转向降息且美国政府继续扩大货币供应以偿还庞大债务，黄金长期来看可能获得强劲支撑。"
     },
     {
       "date": "2026.11.03",
@@ -199,85 +254,19 @@
       "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/dollar-under-pressure-as-oil-prices-slump-australia-rate-decision-awaited/articleshow/135478890.cms",
       "language": "English",
       "section": "宏观经济与投资 / Macro & Investment",
-      "summary": "Brent crude futures plunged more than 7% on Monday in their sharpest single-day drop in months after Tehran said contacts with the US to end their eight-month war were continuing. Falling energy prices eased inflation concerns and pushed US Treasury yields lower, with the 10-year note steady at 4.9145% and the 30-year bond flat at 5.2868%. The dollar index traded at 101.76 after hitting a one-month low. The euro touched $1.1185, while the Japanese yen held at 157.915 per dollar. Central banks including Britain, Australia, Norway, and Sweden are scheduled to meet, with the Reserve Bank of Australia expected to raise the official cash rate by 25 basis points to 4.85%. Sterling strengthened to $1.3414 as British manufacturing output grew at its strongest pace in over two years, and economists expect the Bank of England to raise its Bank Rate to 4.0% from 3.75%.",
-      "summary_zh": "布伦特原油期货周一暴跌逾7%，创下数月来最大单日跌幅，此前德黑兰表示其与美国旨在结束八个月战争的接触仍在继续。 能源价格下跌缓解了通胀担忧，并推低了美国国债收益率，其中10年期国债收益率稳定在4.9145%，30年期国债收益率持平于5.2868%。 美元指数在触及一个月低点后交投于101.76。 欧元触及$1.1185，日元兑美元维持在157.915。 英国、澳大利亚、挪威和瑞典等央行即将举行会议，预计澳大利亚储备银行将把官方现金利率上调25个基点至4.85%。 由于英国制造业产出创下两年多来的最强劲增长，英镑走强至$1.3414，经济学家预计英国央行将把基准利率从3.75%上调至4.0%。"
+      "summary": "Brent crude futures plunged more than 7% on Monday in their sharpest single-day drop in months after Tehran announced that contacts with the US aimed at ending their eight-month war are continuing. The fall in energy prices eased inflation concerns and dragged longer-dated US Treasury yields lower, with the 10-year yield steady at 4.9145% and the 30-year bond flat at 5.2868%. The dollar index slipped to 101.76 after hitting a one-month low, while the euro edged up to $1.1185 and the Japanese yen held at 157.915 per dollar. Central banks in Britain, Australia, Norway, and Sweden are scheduled to issue policy statements. The Reserve Bank of Australia is expected to raise the official cash rate by 25 basis points to 4.85% on Tuesday. Sterling strengthened to $1.3414 following strong British manufacturing PMI data, and Reuters-polled economists expect the Bank of England to raise its Bank Rate to 4.0% from 3.75%.",
+      "summary_zh": "布伦特原油期货周一暴跌超过7%，创下几个月来最大单日跌幅，此前德黑兰表示其与美国旨在结束八个月战争的接触仍在继续。 能源价格下跌缓解了通胀担忧，并拉低了长期美债收益率，其中美国10年期国债收益率稳定在4.9145%，30年期国债收益率持平于5.2868%。 美元指数在触及一个月低点后微跌至101.76，欧元小幅走高至$1.1185，日元兑美元汇率维持在157.915。 英国、澳大利亚、挪威和挪威等多个国家的央行本周将发布政策声明。 澳大利亚储备银行预计将于周二将官方现金利率上调25个基点至4.85%。 受强劲的英国制造业采购经理指数数据推动，英镑走强至$1.3414，路透社调查的经济学家预计英国央行将把基准利率从3.75%上调至4.0%。"
     },
     {
       "date": "2026.11.03",
-      "published_at": "2026-11-03T11:04:10+09:00",
-      "headline": "Gold Price Analysis Today | Forex Gold Analysis | XAU/USD Analysis - November 3, 2026",
-      "source": "Mitrade",
-      "url": "https://www.mitrade.com/insights/commodity-analysis/gold/gold-oil-tumbles-diplomacy-midterms",
+      "published_at": "2026-11-03T05:05:00+09:00",
+      "headline": "Today's Crypto News: Bitcoin, Ether and Altcoin Insights",
+      "source": "Investing News Network",
+      "url": "https://investingnews.com/cryptocurrency-market-recap/",
       "language": "English",
       "section": "宏观经济与投资 / Macro & Investment",
-      "summary": "Gold (XAU/USD) recovered to $3,948.48 on November 3, 2026, after bouncing from an annual low near $3,870. The rebound was supported by a 7.6% plunge in Brent crude below $105 following U. S. -Iran talks, which eased energy inflation and pulled the 10-year Treasury yield down to 4.90%. However, stronger-than-expected ISM manufacturing data and a 55.5 PMI reading kept expectations for a December Federal Reserve rate hike around 75%, acting as a headwind. Dilin Wu, a strategist at Pepperstone, noted that gold attracted speculative buying following forced equity liquidations, but analysts emphasize that the price must reclaim and hold the $4,000 level to reverse the broader bearish technical structure.",
-      "summary_zh": "黄金（XAU/USD）在2026年11月3日早盘回升至$3,948.48，此前曾从接近$3,870的年度低点反弹。 这一回升受到布伦特原油因美伊会谈消息暴跌7.6%至$105以下的支撑，原油下跌缓解了通货膨胀担忧，并将10年期国债收益率拉低至4.90%。 然而，强于预期的ISM制造业数据以及55.5的PMI读数使市场对美联储12月加息的预期定价高达75%，构成了市场阻力。 Pepperstone策略师吴迪林（Dilin Wu）指出，在股票遭到强平后，黄金吸引了投机性买盘，但分析师认为，金价必须收复并稳守$4,000心理关口，才能扭转更广泛的看跌技术结构。"
-    },
-    {
-      "date": "2026.11.03",
-      "published_at": "2026-11-03T10:17:47+09:00",
-      "headline": "Dollar Weakens as Oil Prices Tumble Ahead of Key Central Bank Rates",
-      "source": "Global Banking & Finance Review",
-      "url": "https://www.globalbankingandfinance.com/dollar-pressure-oil-prices-slump-australia-rate-decision/",
-      "language": "English",
-      "section": "宏观经济与投资 / Macro & Investment",
-      "summary": "Global Banking & Finance Review publishes banking, financial, and market news, analysis, and third-party content solely for general informational and educational purposes. The platform states that its published material does not constitute professional, financial, legal, or tax advice, nor does it serve as an endorsement, recommendation, or trading signal to buy or sell any financial product, security, cryptocurrency, or commodity. The website notes that market prices and information can change rapidly, and data may be delayed or supplied by third parties. It emphasizes that readers are solely responsible for conducting their own research, verifying information, understanding risks, and considering their individual financial circumstances before making any investment decisions, while also acknowledging that past performance does not guarantee future results.",
-      "summary_zh": "Global Banking & Finance Review发布银行、金融和市场新闻、分析以及第三方内容，仅用于一般信息参考和教育目的。 该平台声明其发布的内容不构成专业、财务、法律或税务建议，也不作为购买或出售任何金融产品、证券、加密货币或商品的背书、推荐或交易信号。 该网站指出市场价格和信息变化迅速，数据可能存在延迟或由第三方提供。 它强调读者全权负责在做出任何投资决定前进行自主研究、核实信息、理解风险并考虑自身的财务状况，同时也承认过往业绩不能保证未来结果。"
-    },
-    {
-      "date": "2026.11.03",
-      "published_at": "2026-11-03T09:52:08+09:00",
-      "headline": "Today’s Market Recap: Oil Slumps 8%, Apple and PLTR Earnings Beat Expectations, Marvell Tumbles Over 12%",
-      "source": "TradingKey",
-      "url": "https://www.tradingkey.com/analysis/stocks/us-stocks/262265688-oil-plunge-8-percent-apple-pltr-beat-marvell-drop-tradingkey",
-      "language": "English",
-      "section": "宏观经济与投资 / Macro & Investment",
-      "summary": "On November 2 ET, U. S. equities diverged as tech and AI shares slumped, dragging down the S&P 500 and Nasdaq, while the Dow gained 0.41% to close at 51,989.19. Falling oil prices benefited fuel-sensitive sectors amid easing geopolitical risk premiums, with Brent crude dropping 8.01% to $104.33 and WTI crude falling about 6.5% to $96.25. Spot gold rose 1.8% to $3,946.720 per ounce, and Bitcoin traded around $76,816, down 1.96%. In corporate news, Apple reported a fourth-fiscal-quarter revenue rise of 12% to $114.5 billion with net income of $30.71 billion, Palantir posted third-quarter revenue of $2.313 billion up 96% year-over-year, and Marvell announced an all-stock merger to acquire Lumentum at an enterprise value of approximately $115 billion. Additionally, China's October manufacturing PMI fell 0.8 percentage points to 49.3.",
-      "summary_zh": "美东时间11月2日，美股表现分化，科技股和人工智能股下挫拖累标普500指数和纳斯达克指数，而道琼斯指数上涨0.41%收于51,989.19点。 地缘政治风险溢价缓和促使油价下跌，令燃料敏感型板块受益，其中布伦特原油下跌8.01%至$104.33，WTI原油下跌约6.5%至$96.25。 现货黄金上涨1.8%至每盎司$3,946.720，比特币交易价格约为$76,816，下跌1.96%。 在企业动态方面，苹果第四财季营收增长12%至$$114.5 billion，净利润为$$30.71 billion；帕兰提尔（Palantir）第三季度营收为$$2.313 billion，同比增长96%；迈威尔（Marvell）宣布通过全股票合并收购Lumentum，估值约为$$115 billion。 此外，中国10月份制造业PMI下降0.8个百分点至49.3。"
-    },
-    {
-      "date": "2026.11.03",
-      "published_at": "2026-11-03T09:10:05+09:00",
-      "headline": "Yen loses ground to the Dollar despite US-Iran deal hopes",
-      "source": "www.tmgm.com",
-      "url": "https://www.tmgm.com/en/analysis/market-news/article/yen-loses-ground-to-the-dollar-despite-us-iran-deal-hopes-202611022300",
-      "language": "English",
-      "section": "宏观经济与投资 / Macro & Investment",
-      "summary": "The U. S. Dollar fell against the Euro and the Pound on U. S. -Iran diplomacy news but rose against the Japanese Yen, pushing USD/JPY to 158.00, its highest level since October 29. Japan imports nearly all of its crude oil, so the drop in oil prices from the talks reduces its import bill, yet the Yen weakened regardless. The Bank of Japan (BoJ) holds its next policy decision on December 17-18, leaving no policy changes scheduled for over six weeks. Market participants are monitoring upcoming U. S. data, including the ISM services index forecast at 54.8 and the October payrolls report forecast at 65K, following the Federal Reserve's decision to hold rates at 3.75%-4.00% on October 28.",
-      "summary_zh": "受美伊外交消息影响，美元兑欧元和英镑下跌，但兑日元上涨，推动美元兑日元汇率达到158.00，为10月29日以来的最高水平。 日本几乎所有原油都依赖进口，因此会谈带来的油价下跌降低了日本的进口账单，但日元却依然走弱。 日本央行（BoJ）将于12月17日至18日做出下一次政策决议，这意味着在一个多月的时间内不会有既定的政策调整。 在美联储于10月28日维持3.75%-4.00%的利率不变之后，市场参与者正在密切关注即将公布的美国数据，包括预测值为54.8的ISM服务业指数以及预测值为65K的10月份就业报告。"
-    },
-    {
-      "date": "2026.11.03",
-      "published_at": "2026-11-03T06:15:34+09:00",
-      "headline": "Gold Faces $4,000 Test as December Hike Risk Caps the Recovery",
-      "source": "Investing.com Nigeria",
-      "url": "https://ng.investing.com/analysis/gold-faces-4000-test-as-december-hike-risk-caps-the-recovery-220424",
-      "language": "English",
-      "section": "宏观经济与投资 / Macro & Investment",
-      "summary": "Spot gold traded at $3,945.70 an ounce in early U. S. trading on Monday, November 2, rebounding $67.90 or 1.80% from Friday's close of $3,877.80. The rally was driven by a drop in crude oil—with WTI falling 6.28% to $97.58 a barrel—after Iran signaled it could reopen the Strait of Hormuz within two days if the U. S. lifts naval blockades and oil export sanctions. Cheaper oil lowers the inflation outlook and reduces the probability of a December Federal Reserve rate hike, decreasing the opportunity cost for gold. The bounce follows a 3.6% crash on Friday, October 30, which coincided with a tech rout and Nasdaq decline, where leveraged investors triggered forced liquidations and margin calls, selling the most liquid non-equity asset to raise cash.",
-      "summary_zh": "11月2日周一美国早盘交易中，现货黄金交投于每盎司$3,945.70，较周五收盘价$3,877.80反弹$67.90或1.80%。 在伊朗暗示如果美国解除海军封锁和石油出口制裁，可能会在两天内重新开放霍尔木兹海峡之后，原油价格下跌（WTI原油下跌6.28%至每桶$97.58）推动了此次反弹。 更便宜的石油降低了通胀前景，并减少了美联储在12月加息的可能性，从而降低了黄金的机会成本。 此次反弹发生在10月30日周五黄金暴跌3.6%之后，当时正值科技股暴跌和纳斯达克指数下跌，杠杆投资者触发了强平潮和追加保证金通知，为筹集现金而抛售了流动性最强的非股票资产。"
-    },
-    {
-      "date": "2026.11.03",
-      "published_at": "2026-11-03T01:18:03+09:00",
-      "headline": "Weekly market commentary",
-      "source": "BlackRock",
-      "url": "https://www.blackrock.com/us/individual/insights/blackrock-investment-institute/weekly-commentary",
-      "language": "English",
-      "section": "宏观经济与投资 / Macro & Investment",
-      "summary": "BlackRock portfolio strategist Devan Nathwani discusses the shifting backdrop for artificial intelligence investments and megacap tech stocks. Although BlackRock downgraded U. S. equities to neutral last month, its core conviction in AI fundamentals remains intact. Key earnings highlight a tension between strong demand and rising capital expenditures, with hyperscaler spending surging and leaving little cash surplus. Meanwhile, S&P 500 earnings are projected to grow about 30%, and the earnings gap has flipped for the first time since 2022, with the rest of the market outpacing the magnificent seven.",
-      "summary_zh": "贝莱德投资研究所投资策略师德万·纳特瓦尼讨论了人工智能投资和超大盘科技股不断变化的环境。 尽管贝莱德在上个月将美股下调至中性，但其对人工智能基本面的核心信念依然完好。 关键财报凸显了强劲需求与不断上升的资本支出之间的紧张关系，超大型企业支出激增，几乎没有留下现金盈余。 与此同时，标普500指数盈利预计将增长约30%，并且盈利增长差距自2022年以来首次发生反转，市场其他板块的表现超过了“七巨头”。"
-    },
-    {
-      "date": "2026.11.02",
-      "published_at": "2026-11-02T19:33:07+09:00",
-      "headline": "Gold recovers to nearly $3,900 despite inflation concerns",
-      "source": "www.tmgm.com",
-      "url": "https://www.tmgm.com/en-eu/analysis/market-news/article/gold-rebounds-to-near-3-900-despite-inflation-worries-202611020045",
-      "language": "English",
-      "section": "宏观经济与投资 / Macro & Investment",
-      "summary": "Gold recovered to nearly $3,895 in early Asian trading after falling to a low of $3,870, though further gains remain constrained by high oil prices and expectations that U. S. interest rates will rise. The CME FedWatch tool prices in a 72.9% probability of a U. S. rate increase in December. Meanwhile, geopolitical tensions persist as Ukraine resumed strikes on Russian oil refineries and Iran's Supreme Leader instructed commanders to prepare for confrontation. OCBC strategists noted that core PCE came in at 3.1% YoY while 3Q26 GDP reinforced U. S. economic resilience, offering little reason for markets to pare rate hike expectations.",
-      "summary_zh": "黄金在亚洲早盘回落至3,870美元低点后，回升至近3,895美元，不过高油价和美国利率将上升的预期限制了进一步涨幅。 CME美联储观察工具显示，12月美国加息概率为72.9%。 与此同时，地缘政治紧张局势持续，乌克兰恢复对俄罗斯炼油厂的打击，伊朗最高领袖指示指挥官为对抗做好准备。 华侨银行策略师指出，核心PCE同比增幅为3.1%，2026年第三季度GDP增强了美国经济韧性，几乎没有给市场理由削减加息预期。"
+      "summary": "Binance processed US$4.649 billion in withdrawals and US$1.01 billion in deposits during the first nine and a half hours after reopening withdrawals on Sunday. Bitcoin traded at US$76,940.19, down 1.2 percent over 24 hours, while Ethereum traded at US$2,252.50, XRP at US$1.25, and Solana at US$91.81. Morgan Stanley downgraded Coinbase to a price target of US$120 from US$258, citing weaker trading, a softer revenue outlook, and uncertainty following the Binance hack; Coinbase reported third-quarter revenue of US$1.22 billion. tZERO announced plans to go public by merging with FG Imperii Acquisition Corp at a US$350 million valuation. OKX launched a Mastercard-backed virtual card in the US for stablecoin spending. Additionally, fifty companies, including NVIDIA, Nike, and Microsoft, have objected to tokenized versions of their shares trading on the OKXICE blockchain stock venue.",
+      "summary_zh": "币安在周日重新开放提现后的前九个半小时内，处理了46.49亿美元的提现和10.1亿美元的存款。 比特币交易价格为$76,940.19，24小时内下跌1.2%，以太坊交易价格为$2,252.50，瑞波币为$1.25，索拉纳为$91.81。 摩根士丹利将Coinbase的评级下调，目标价从$258降至$120，理由是交易疲软、营收前景黯淡以及币安黑客事件后的不确定性；Coinbase公布第三季度营收为12.2亿美元。 tZERO宣布计划通过与FG Imperii Acquisition Corp合并上市，交易对其估值为3.5亿美元。 OKX在美国推出了支持万事达卡网络的虚拟卡，用于稳定币消费。 此外，包括英伟达、耐克和微软在内的50家公司已对在其OKXICE区块链股票交易平台上交易其股票的代币化版本提出反对。"
     }
   ]
 }
