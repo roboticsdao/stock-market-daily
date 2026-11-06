@@ -1,13 +1,13 @@
 {
   "kind": "market",
-  "updated_at": "2026-11-07T03:38:39.761472+09:00",
+  "updated_at": "2026-11-07T04:57:36.221632+09:00",
   "status": {
     "state": "ok",
-    "checked_at": "2026-11-07T03:38:39.761472+09:00",
-    "latest_article_at": "2026-11-07T03:34:46+09:00",
-    "articles": 22,
+    "checked_at": "2026-11-07T04:57:36.221632+09:00",
+    "latest_article_at": "2026-11-07T04:05:08+09:00",
+    "articles": 23,
     "sections": {
-      "美国股市 / US Market": 6,
+      "美国股市 / US Market": 7,
       "日本株式市場 / Japan Market": 8,
       "宏观经济与投资 / Macro & Investment": 8
     },
@@ -23,8 +23,30 @@
       "url": "https://beinsure.com/news/ai-stocks-rebound-as-nvidia-and-semiconductor-companies-recover/",
       "language": "English",
       "section": "美国股市 / US Market",
-      "summary": "US artificial intelligence stocks rebounded on Friday, November 6, recovering part of their losses from a sharp sell-off driven by concerns over data centre investment, tighter regulation, and the financial sustainability of the AI boom. Nvidia gained approximately 4%, while the Philadelphia Semiconductor Index advanced around 4%. Other semiconductor companies, including AMD, Intel, Broadcom, and Micron Technology, recorded gains ranging from roughly 2% to 10%. Infrastructure, cloud, and energy companies also participated in the rebound. Jefferies characterised the previous session's sell-off as a response to overlapping concerns rather than a fundamental breakdown in the AI investment outlook.",
-      "summary_zh": "美国人工智能股票在11月6日星期五出现反弹，收复了因数据中心投资担忧、监管收紧以及人工智能热潮财务可持续性引发的大幅抛售所带来的一部分失地。 英伟达上涨约4%，费城半导体指数上涨约4%。 AMD、英特尔、博通和美光科技等其他半导体公司的涨幅在2%到10%之间。 基础设施、云计算和能源公司也参与了反弹。 杰富瑞认为前一交易日的抛售是对多重叠加担忧的反应，并非人工智能投资前景出现根本性崩溃。"
+      "summary": "US artificial intelligence and semiconductor stocks rebounded on Friday, November 6, recovering part of their steep losses from a global sell-off driven by data centre investment concerns, tighter regulations, and AI financial sustainability fears. Nvidia gained approximately 4% and the Philadelphia Semiconductor Index advanced around 4%. Other chipmakers including AMD, Intel, Broadcom, and Micron Technology recorded gains ranging from roughly 2% to 10%. Infrastructure providers, cloud operators, and energy suppliers also participated in the rebound. Meanwhile, US stocks traded mixed as a stronger-than-expected employment report raised questions about the Federal Reserve's interest-rate outlook. Jefferies characterised the previous session's sell-off as a market reaction to overlapping uncertainties rather than a fundamental reversal in the AI investment outlook.",
+      "summary_zh": "美国人工智能与半导体股票在11月6日星期五出现反弹，收复了此前因数据中心投资担忧、监管收紧以及人工智能发展财务可持续性恐惧所引发的大幅抛售中的部分失地。 英伟达上涨约4%，费城半导体指数上涨约4%。 包括AMD、Intel、博通和美光科技在内的其他芯片制造商录得约2%至10%不等的涨幅。 基础设施供应商、云运营商和能源供应商也参与了反弹。 与此同时，由于严于预期的就业报告引发了对美联储利率前景的担忧，美股交易涨跌互现。 杰富瑞将前一个交易日的抛售描述为对重叠不确定性的市场反应，而非人工智能投资前景的根本性逆转。"
+    },
+    {
+      "date": "2026.11.07",
+      "published_at": "2026-11-07T03:14:05+09:00",
+      "headline": "How Investors Are Reacting To Cisco Stock After Analyst Downgrade",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/investors-reacting-cisco-stock-analyst-181405768.html",
+      "language": "English",
+      "section": "美国股市 / US Market",
+      "summary": "Cisco Systems is rolling out a broad portfolio refresh including Cisco IQ for Partners, expanded Cisco 360 Partner Program incentives, and AI-centric tools such as Model Foundry and MCP servers to connect networking, security, and AI operations. These updates shift value toward telemetry, recurring software, and partner-driven lifecycle work, interacting with concerns regarding hardware mix and gross margin pressure. Non-GAAP gross margin slipped 210 basis points to 66.3%, with management expecting further pressure through FY27 from memory costs and AI hardware. The US$9.3b AI infrastructure order book remains a key swing factor for turning demand into steady revenue. Cisco's investment narrative connects analyst expectations for US$83.4b in revenue and US$20.1b in earnings by 2029 with a 9.6% annual revenue growth rate and an earnings increase of about US$6.8b from US$13.3b today.",
+      "summary_zh": "思科系统公司正在推出广泛的产品组合更新，包括面向合作伙伴的Cisco IQ、扩展的Cisco 360合作伙伴计划激励措施，以及诸如Model Foundry和MCP服务器等以人工智能为中心工具，以将网络、安全和人工智能运营联系起来。 这些更新将价值转移向遥测技术、经常性软件和合作伙伴驱动的生命周期工作，这与硬件组合和毛利率压力的担忧相互交织。 非美国通用会计准则毛利率下滑210个基点至66.3%，管理层预计由于内存成本和人工智能硬件，2027财年将面临进一步压力。 93亿美元的人工智能基础设施订单储备仍然是将需求转化为稳定收入的关键摇摆因素。 思科的投资叙事将分析师对2029年834亿美元收入和201亿美元盈利的预期，与9.6%的年收入增长率以及较当前133亿美元增加约68亿美元的盈利联系起来。"
+    },
+    {
+      "date": "2026.11.07",
+      "published_at": "2026-11-07T00:50:00+09:00",
+      "headline": "Stock Market Today: Stock Market News And Analysis",
+      "source": "Investor's Business Daily",
+      "url": "https://www.investors.com/news/stock-market-today-stock-market-news/",
+      "language": "English",
+      "section": "美国股市 / US Market",
+      "summary": "The Dow Jones Industrial Average sought firm direction on Friday while the Nasdaq was in recovery mode, aided by gains from Intel and Nvidia following a previous AI-driven market rout. Stock futures moved alongside the broader market updates provided in live coverage by Investor's Business Daily.",
+      "summary_zh": "道琼斯工业平均指数在周五寻求明确方向，而纳斯达克指数则处于复苏模式，这得益于在先前由人工智能引发的市场暴跌之后，Intel和英伟达取得的涨幅。 股票期货走势与《投资者商业日报》现场报道中提供的更广泛市场更新保持一致。"
     },
     {
       "date": "2026.11.07",
@@ -34,8 +56,8 @@
       "url": "https://qz.com/magnificent-seven-stocks-sp-500-share",
       "language": "English",
       "section": "美国股市 / US Market",
-      "summary": "As of December 2025, seven major technology companies known as the Magnificent Seven held close to 35% of the S&P 500's market value, according to Vantage Markets. The group comprises Apple, Microsoft, Amazon, Alphabet, Nvidia, Meta Platforms, and Tesla, spanning sectors such as semiconductors, cloud computing, e-commerce, social media, and electric vehicles. Due to the S&P 500's market-capitalization weighting system, these large members exert an amplified influence on the index and create a more concentrated portfolio. In 2025, the seven accounted for 42.5% of the index's 17.9% total return, marking the first year since 2021 that they delivered less than half.",
-      "summary_zh": "根据Vantage Markets的数据，截至2025年12月，被称为“七巨头”的七家主要科技公司占据了标普500指数近35%的市值。 该集团包括苹果、微软、亚马逊、字母表、英伟达、元平台和特斯拉，业务涵盖半导体、云计算、电子商务、社交媒体和电动汽车等领域。 由于标普500指数采用市值加权系统，这些大型成员对指数产生放大了的影响，并形成了更加集中的投资组合。 在2025年，这七家公司占该指数17.9%总回报率的42.5%，这是自2021年以来它们贡献的比例首次低于一半。"
+      "summary": "As of December 2025, seven large U. S. technology companies known as the Magnificent Seven held close to 35% of the S&P 500's market value, according to Vantage Markets. The group includes Apple, Microsoft, Amazon, Alphabet, Nvidia, Meta Platforms, and Tesla. Spanning semiconductors, cloud computing, e-commerce, social media, and electric vehicles, these companies share a reliance on digital ecosystems, cloud infrastructure, artificial intelligence, and data, causing them to move in similar directions during economic or technology shifts. Because the S&P 500 weights each member by market capitalization, these large members exert greater influence on the index and create a concentrated portfolio for index funds and passive strategies. In 2025, the seven accounted for 42.5% of the index's 17.9% total return, marking the first year since 2021 that they delivered less than half of the total return.",
+      "summary_zh": "根据Vantage Markets的数据，截至2025年12月，被称为“七巨头”的七家大型美国科技公司占标普500指数市值近35%。 该集团包括苹果、微软、亚马逊、Alphabet、英伟达、Meta Platforms和特斯拉。 这些公司跨越半导体、云计算、电子商务、社交媒体和电动汽车领域，共同依赖数字生态系统、云基础设施、人工智能和数据，这使得它们在经济或技术发生转变时往往朝着相同的方向变动。 由于标普500指数按市值对每个成员进行加权，这些大型成员对指数施加了更大的影响力，并为指数基金和被动策略创造了集中的投资组合。 在2025年，这七家公司占该指数17.9%总回报率的42.5%，标志着自2021年以来它们贡献的总回报率首次低于一半。"
     },
     {
       "date": "2026.11.06",
@@ -45,52 +67,41 @@
       "url": "https://m.economictimes.com/news/international/us/us-stock-market-today-why-is-the-nasdaq-up-1-today-while-the-dow-jones-falls-sp-500-turns-green-amid-tech-stock-volatility-and-fed-rate-hike-fears-over-strong-october-jobs-report/articleshow/135611451.cms",
       "language": "English",
       "section": "美国股市 / US Market",
-      "summary": "On Friday, November 6, the US stock market traded mixed as technology shares recovered from Thursday's heavy losses while stronger-than-expected employment data raised concerns about the Federal Reserve's interest-rate outlook. The Nasdaq gained 248 points, or 1.02%, and the Dow Jones fell 465 points. Nvidia shares jumped 5.56% to $191.70, whereas Apple shares fell 0.94% to $340.93 and Tesla shares rose 1.61% to $349.23. The US economy added 165,000 jobs in October, exceeding expectations of around 70,000 and lowering the unemployment rate to 4.1%, which could increase the possibility of another rate hike in December following Thursday's $2.3 trillion market sell-off.",
-      "summary_zh": "11月6日星期五，美国股市涨跌互现，科技股从周四的沉重跌势中复苏，而强于预期的就业数据引发了人们对美联储利率前景的担忧。 纳斯达克指数上涨248点，涨幅为1.02%，道琼斯指数下跌465点。 英伟达股价跳涨5.56%至191.70美元，苹果股价下跌0.94%至340.93美元，特斯拉股价上涨1.61%至349.23美元。 美国10月份经济新增165,000个就业岗位，超出约70,000个的预期，失业率降至4.1%，这可能会在周四$2.3 trillion的市场抛售之后，增加12月再次加息的可能性。"
+      "summary": "The Nasdaq gained 248 points while the Dow Jones fell 465 points as US stocks experienced mixed trading. The Nasdaq's recovery was driven by renewed buying in technology and semiconductor stocks following Thursday's sharp losses that erased about $2.3 trillion in market value. Nvidia jumped 5.56% to $191.70, while Tesla rose 1.61% to $349.23. Conversely, Apple fell 0.94% to $340.93 and weighed on the Dow. Additionally, a stronger October jobs report showed 165,000 new jobs added against expectations of around 70,000, and the unemployment rate declined to 4.1% from 4.2%. This robust labour market data raised concerns about another Federal Reserve interest-rate hike in December, complicating the market outlook alongside ongoing uncertainty over technology valuations and AI spending.",
+      "summary_zh": "随着美股交易涨跌互现，纳斯达克指数上涨248点，道琼斯工业平均指数下跌465点。 纳斯达克的复苏是由周四抹去了约$2.3 trillion市值的急剧跌幅之后，科技股和半导体股重新获得买盘所驱动的。 英伟达跳涨5.56%至191.70美元，特斯拉上涨1.61%至349.23美元。 相反，苹果下跌0.94%至340.93美元并拖累了道指。 此外，表现强劲的10月就业报告显示新增165,000个工作岗位，而预期约为70,000个，失业率从4.2%下降至4.1%。 这一强劲的劳动力市场数据引发了对美联储在12月再次加息的担忧，在对科技股估值和人工智能支出的持续不确定性之外，使市场前景变得更加复杂。"
     },
     {
       "date": "2026.11.06",
-      "published_at": "2026-11-06T23:54:00+09:00",
-      "headline": "US stock market today: Why is the Nasdaq up 1% while…",
-      "source": "inkl",
-      "url": "https://www.inkl.com/news/us-stock-market-today-why-is-the-nasdaq-up-1-while-the-dow-jones-falls-s-p-500-turns-green-amid-tech-stock-volatility-and-fed-rate-hike-fears-over-strong-october-jobs-report",
+      "published_at": "2026-11-06T19:54:33+09:00",
+      "headline": "U.S. chip stocks rebound sharply after Thursday’s brutal selloff",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/technology/articles/u-chip-stocks-rebound-sharply-105433545.html",
       "language": "English",
       "section": "美国股市 / US Market",
-      "summary": "Wall Street moved in opposite directions on Friday, November 6, with the Nasdaq gaining 1.02% by adding 248 points, while the Dow Jones fell 465 points and the S&P 500 rose 0.29%. The divergence highlights a selective recovery in semiconductor stocks following the previous day's AI-led sell-off. Nvidia jumped 5.56%, whereas Apple declined 0.94%.",
-      "summary_zh": "华尔街在11月6日星期五呈现相反走势，纳斯达克指数上涨1.02%并增加248点，道琼斯指数下跌465点，标普500指数上涨0.29%。 这种分化凸显了在经历前一天由人工智能引发的抛售后，半导体股票出现了选择性复苏。 英伟达跳涨5.56%，而苹果下跌0.94%。"
-    },
-    {
-      "date": "2026.11.06",
-      "published_at": "2026-11-06T22:00:00+09:00",
-      "headline": "Buy, Sell, or Hold? Friday's Top Upgrades and Downgrades: Becton Dickinson, BJ's Wholesale Club, Cogent Communications, Fervo Energy, JinkoSolar, Molson-Coors, Pfizer, SiTime, Steven Madden, and More",
-      "source": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/2026/11/06/buy-sell-or-hold-fridays-top-upgrades-and-downgrades-becton-dickinson-bjs-wholesale-club-cogent-communications-fervo-energy-jinkosolar-molson-coors-pfizer-sitime-steven-madden-and-mor/",
-      "language": "English",
-      "section": "美国股市 / US Market",
-      "summary": "Wall Street analysts adjusted ratings on multiple stocks following a Thursday market sell-off that erased Wednesday's rally and drove the Nasdaq down 5.52% to 24,314. The S&P 500 fell 4.36% to 7,353, the Dow Jones dropped 3.44% to 51,523, and the Russell 2000 declined 4.45% to 2,729. Concerns over artificial intelligence, data centre spending, and Democratic control of Congress contributed to the downturn. Friday pre-market futures were mixed with higher Nasdaq futures and lower Dow futures. Notable analyst rating changes included Freedom Broker upgrading American States Water Company to Buy, Wells Fargo raising Becton Dickinson to Overweight, UBS upgrading JinkoSolar to Buy, and Citigroup downgrading BJ's Wholesale Club to Neutral.",
-      "summary_zh": "在周四的市场抛售后，华尔街分析师对多只股票的评级进行了调整，该抛售抹去了周三的涨幅并导致纳斯达克指数下跌5.52%至24,314点。 标普500指数下跌4.36%至7,353点，道琼斯指数下跌3.44%至51,523点，罗素2000指数下跌4.45%至2,729点。 对人工智能、数据中心支出以及民主党控制国会的担忧促成了此次下跌。 周五盘前期货涨跌互现，纳斯达克期货上涨，道琼斯期货下跌。 值得注意的分析师评级调整包括：Freedom Broker将美国国家水务公司评级上调至买入，富国银行将BD医疗评级上调至增持，瑞银将晶科能源评级上调至买入，花旗集团将BJ批发俱乐部评级下调至中性。"
+      "summary": "U. S. chip stocks rebounded sharply on Friday, recovering some ground after a sweeping AI-driven selloff on Thursday following the Democrats' midterm election victory earlier in the week. Investors also reacted to an October jobs report showing payroll growth of 165,000, well above forecasts of 65,000. The iShares Semiconductor ETF jumped 4.9%, Nasdaq 100 futures rose 1.8%, and the 10-year Treasury yield edged higher to 4.88%. Chipmakers such as Lam Research surged over 10%, Micron and Marvell rose about 8%, AMD soared 11.2%, and Applied Materials surged over 7%. Cloud-computing stocks also gained, while European AI-linked stocks staged a modest recovery following rough sessions in Asia, where South Korea's Kospi closed more than 6% lower. Investors have been dumping AI stocks over concerns that Democratic policymakers could block data center projects amid growing voter opposition.",
+      "summary_zh": "美国芯片股在周五大幅反弹，收复了本周早些时候民主党在期中选举获胜后由人工智能引发的大规模抛售所带来的部分失地。 投资者还迎来了强于预期的10月就业报告，非农就业人数增加165,000人，远超65,000人的预期，而9月数据则自60,000人向上修正。 iShares半导体ETF在开盘后不久跳涨4.9%，纳斯达克100指数期货上涨1.8%，10年期国债收益率小幅升至4.88%。 在上一交易日遭受重创的芯片制造商中，Lam Research在美股早盘飙升超过10%，美光科技和迈威尔科技上涨约8%，AMD飙升11.2%，应用材料公司飙升超过7%，博通和SK海力士的美股上市股份上涨超过4%，英特尔跳涨8%。 闪迪和ARM分别上涨11.3%和5.4%。 云计算股票也全线走高，Astera Labs上涨约8%，CoreWeave跳涨7.5%，甲骨文攀升3.1%。 欧洲与人工智能相关的股票也出现温和复苏，此前亚洲市场经历艰难交易日，韩国KOSPI指数收盘跌幅超过6%，创下2025年以来最糟糕的一天。 投资者一直在抛售人工智能股票，原因是对民主党决策者可能在选民日益反对建设的背景下阻止全美数据中心项目感到担忧。"
     },
     {
       "date": "2026.11.06",
       "published_at": "2026-11-06T19:40:48+09:00",
       "headline": "Micron tops chip stocks with lowest forward P/E amid broad sector selloff",
       "source": "TradingView",
-      "url": "https://www.tradingview.com/news/seekingalpha:1d8301a25094b:0-micron-tops-chip-stocks-with-lowest-forward-p-e-amid-broad-sector-selloff/",
+      "url": "https://www.tradingview.com/news/seekingalpha:1d8301a25094b:0-micron-tops-u-s-chip-stocks-with-lowest-forward-p-e-amid-broad-sector-selloff/",
       "language": "English",
       "section": "美国股市 / US Market",
-      "summary": "The U. S. semiconductor sector experienced a sharp selloff on Thursday, with Micron Technology shares plunging more than 17% amid concerns over AI infrastructure spending and company-specific developments. Micron led the top 10 U. S. semiconductor stocks ranked by lowest forward price-to-earnings ratios at 3.72, and also held the highest Quant Rating with a Strong Buy score of 4.99. Micron faced company-specific pressure following a report that it suspended work on its planned Taoyuan manufacturing facility in Taiwan due to a prolonged labor dispute. Other chipmakers recorded steep losses, including Astera Labs down nearly 20%, Advanced Micro Devices dropping over 17%, and Nvidia declining just over 9%. The list spans market capitalizations from mega-cap companies such as Micron ($742.65B) and Qualcomm ($167.72B) to smaller players like Penguin Solutions ($2.24B).",
-      "summary_zh": "周四美国半导体板块遭遇大幅抛售，美光科技股价因人工智能基础设施支出担忧及公司自身发展而暴跌超过17%。 在forward P/E最低的前十大美国半导体及半导体设备股票中，美光科技以3.72的比例居首，并以4.99的“强烈买入”评分拥有最高Quant评级。 美光同时面临公司层面的压力，此前有报道称其因长期劳资纠纷暂停了台湾桃园制造厂的计划建设。 其他芯片制造商也录得陡峭跌幅，Astera Labs下跌近20%，超威半导体下跌逾17%，英伟达下跌略超9%。 该榜单涵盖了广泛的市值范围，包括美光（$742.65B）和高通（$167.72B）等巨头，以及Penguin Solutions（$2.24B）等小型参与者。"
+      "summary": "The semiconductor sector faced a sharp selloff on Thursday, with Micron Technology plunging more than 17% amid concerns over AI infrastructure spending and political scrutiny slowing data-center development. Micron led the top 10 U. S. semiconductor and semiconductor equipment stocks ranked by lowest forward price-to-earnings ratios, with a forward P/E of 3.72 and a Quant Rating Strong Buy score of 4.99. Micron also faced company-specific pressure after suspending work on its planned Taoyuan manufacturing facility in Taiwan amid a labor dispute. Other chipmakers saw steep losses, including Astera Labs falling nearly 20%, AMD dropping more than 17%, and Nvidia declining just over 9%. Penguin Solutions and First Solar followed Micron in the P/E ranking at 8.16 and 11.14, respectively. Market capitalizations among the top 10 ranged from mega-cap companies like Micron at $742.65B and Qualcomm at $167.72B down to smaller players like Penguin Solutions at $2.24B, while Enphase Energy recorded the highest forward P/E at 17.42.",
+      "summary_zh": "半导体板块在周四遭遇剧烈抛售，由于对人工智能基础设施支出以及政治审查可能放慢数据中心发展的担忧，美光科技股价暴跌超过17%。 美光在按最低预期市盈率（P/E）排名的前10大美国半导体及半导体设备股中名列榜首，其预期市盈率为3.72，量化评级为“强烈买入”，得分为4.99。 在有报道称其因长期劳资纠纷而暂停在台湾桃园规划的制造厂建设后，美光还面临公司自身层面的压力。 其他芯片制造商也遭遇了惨重跌幅，其中Astera Labs下跌近20%，超威半导体（AMD）下跌超过17%，英伟达下跌略超9%。 企鹅解决方案和第一太阳能紧随美光之后，预期市盈率分别为8.16和11.14。 前10名股票的市值跨度很大，从美光（$742.65B）和高通（$167.72B）等巨头，到企鹅解决方案（$2.24B）等较小规模企业，其中恩然能源的预期市盈率最高，达到17.42。"
     },
     {
       "date": "2026.11.07",
-      "published_at": "2026-11-07T03:34:46+09:00",
+      "published_at": "2026-11-07T04:05:08+09:00",
       "headline": "来週(11/9～11/13)の日経平均株価の予想レンジは､5万4000～6万円！ 暴落後の自律反発が期待される一方、米国のAIデータセンター規制の行方には要警戒！",
       "source": "ダイヤモンド・オンライン",
       "url": "https://diamond.jp/zai/articles/-/1075070",
       "language": "Japanese",
       "section": "日本株式市場 / Japan Market",
-      "summary": "今週の日経平均株価は、米国のAI投資減速懸念や中間選挙での民主党大勝によるAI規制強化への警戒から大幅に下落し、週末には先週末比5855.34円（9.25％）安の5万7434.77円で終えた。 米国時間の11月5日にはナスダック総合指数やSOX指数が急落し、翌6日の日本市場も全面安となって日経平均は前日比3643.13円（5.96％）安の終値ベースで過去3番目の下げ幅を記録した。 個別では、シンバイオ製薬が造血幹細胞移植後のアデノウイルス感染症を対象とした注射剤ブリンシドホビルについて英国MHRAとの承認申請進行合意を発表し、値上がり率トップの＋54.55％となった。 来週（11月9〜13日）の日経平均株価の想定レンジは5万4000〜6万円とされ、売られ過ぎからの自律反発が期待される一方、AI・半導体関連株の需給調整や米国のAIデータセンター規制の行方に要警戒とされている。",
-      "summary_zh": "本周日经平均指数因美国AI投资放缓担忧以及美国中期选举民主党大胜引发对AI监管收紧的警惕而大幅下跌，周末收于57434.77点，较上周末下跌5855.34点（9.25%）。 美国时间11月5日纳斯达克综合指数与费城半导体指数急跌，导致6日日本市场全面走低，日经平均指数较前一日下跌3643.13点（5.96%），创下收盘价历史第三大跌幅。 个股方面，SymBio Pharmaceuticals宣布就造血干细胞移植后腺病毒感染注射剂brincidofovid与英国MHRA达成推进上市申请共识，以+54.55%领涨涨幅榜。 预计下周（11月9至13日）日经平均指数的假设区间为54000至60000点，在期待超卖后自主反弹的同时，市场对AI及半导体相关股票的供需调整以及美国AI数据中心监管动向保持高度警惕。"
+      "summary": "Japan's Nikkei 225 fell sharply this week, losing 5,855.34 points or 9.25% to end at 57,434.77 amid concerns over slowing U. S. AI investments and tighter regulations following the Democratic midterm election victory. Semiconductor-heavy indexes tumbled, and the Nikkei touched 61,077.90 on November 5 before plunging 3,643.13 points on November 6 in its third-largest points drop on record. South Korea's Kospi also dropped sharply, triggering circuit breakers. Analysts expect a potential technical rebound next week due to overselling, though supply-and-demand adjustments will continue with focus on upcoming U. S. and Japanese corporate earnings and economic data such as CPI and PPI reports. Individual movers included SymBio Pharmaceuticals rising 54.55% after agreeing with the UK MHRA to pursue approval for brincidofovir, HODL1 surging on a blockchain payment design order, and PEGASUS hitting daily limit highs on high dividend yields. Conversely, PayCloud Holdings fell due to a subsidiary data breach notice, and Kioxia Holdings dropped after lower-than-expected earnings forecasts and AI regulatory concerns.",
+      "summary_zh": "受美国AI投资放缓担忧以及美国中间选举民主党获胜后对AI监管收紧的警戒影响，本周日本日经平均指数大幅下跌，最终比上周末下跌5,855.34日元（9.25%），收于57,434.77日元。 半导体相关股票遭到抛售，日经指数在11月5日跌至61,077.90日元，随后在11月6日暴跌3,643.13日元（5.96%），创下收盘历史上第三大跌幅。 韩国KOSPI指数的大跌也触发了熔断机制。 分析师预计下周由于超卖现象可能会出现自律反弹，但供求调整仍将持续，市场焦点集中在美日两国的企业财报以及CPI和PPI等经济指标上。 个股方面，シンバイオ製薬因与英国药品和医疗产品监管局就推进布林西多福韦的批准申请达成一致而大涨54.55%；HODL1因接获区块链支付功能设计开发业务订单而急升；PEGASUS则因高股息预期连续涨停。 相反，ペイクラウドホールディングス因子公司邮件发送服务遭受未经授权访问的后续公告而下跌；キオクシアホールディングス则因2027年10至12月期营业利润预期低于市场预期及AI监管担忧而走低。"
     },
     {
       "date": "2026.11.07",
@@ -100,8 +111,8 @@
       "url": "https://www.nomura.co.jp/wealthstyle/article/0930/",
       "language": "Japanese",
       "section": "日本株式市場 / Japan Market",
-      "summary": "2026年11月5日の東京株式市場の日経平均株価は4日続落し、終値は前日比1,110.73円安の61,077.90円と約5ヶ月半ぶりの安値を付けた。 米国の中間選挙で共和党が敗北し、AI規制に積極的な民主党が上院54議席を獲得するなど大勝したことが背景にある。 野村證券の岡崎康平チーフ・マーケット・エコノミストは、AI規制強化がデータセンターを建設するAIツルハシ企業には逆風となる一方、巨額の設備投資をしてきた既存のハイパースケーラーには参入障壁となり有利に働く可能性があると指摘している。 また、防衛関連では米国の財政拡張ハードルが上がる一方、同盟国への負担増大要請につながる可能性を挙げた。 原油先物価格は直近限月で95米ドル前後まで下がり、10月末水準から約15米ドル下落した。",
-      "summary_zh": "2026年11月5日东京股市日经平均指数连续第四个交易日下跌，收盘较前一日下跌1,110.73日元至61,077.90日元，创下约五年半以来的最低水平。 其背景是美国中期选举中共和党落败，积极主张AI监管的民主党赢得参议院54个席位等获得大胜。 野村证券首席市场经济学家冈崎康平指出，AI监管收紧对建设数据中心的AI“淘金铲”企业而言是逆风，但对于已经进行了巨额资本支出的现有超大规模企业来说，可能形成进入壁垒并带来相对优势。 此外，在国防相关领域，他提到美国财政扩张的门槛提高，同时可能促使盟友承担更多负担。 原油期货价格近期近月合约跌至95美元左右，较10月底水平下跌了约15美元。"
+      "summary": "The Nikkei average fell 1,110.73 points on November 5, 2026, to 61,077.90, marking a five-and-a-half-month low following the U. S. midterm elections where Democrats secured a major victory, including 54 seats in the Senate. According to Nomura Securities chief market economist Kohei Okazaki, Democratic control raises barriers for new entrants in AI and acts as a headwind for data-center hardware suppliers, while potentially benefiting established hyperscalers like GAFAM by limiting new competition. Okazaki notes that while short-term pressure exists on AI spending and U. S. defense stocks due to fiscal expansion hurdles, non-U. S. defense and renewable energy sectors could see positive momentum. Additionally, falling crude oil prices near $95 per barrel may ease U. S. inflation pressures in early 2027, and the lame-duck period could prompt President Trump to focus heavily on foreign policy and security initiatives.",
+      "summary_zh": "2026年11月5日，东京股市日经平均指数连续第四天下跌，收盘比前一日下跌1,110.73日元，报61,077.90日元，创下自5月20日以来约五个半月的新低。 此前，11月3日投票的美国中期选举结果显示共和党失利、民主党大胜并在参议院获得54个席位。 野村证券首席市场经济学家冈崎康平指出，民主党大胜意味着对AI监管的积极态度，这会提高AI产业的准入门槛，对数据中心硬件供应商形成逆风，但对于已经投入巨资的GAFAM等大型云厂商而言，则可能因为竞争壁垒加强而占据相对有利地位。 冈崎康平认为，短期内AI相关支出和因财政扩张门槛提高而受到制约的美国防务股会面临压力，但非美国防务产业和可再生能源板块可能会受到积极影响。 此外，原油期货价格近期跌至95美元左右，若持续下去将对2027年前期美国通胀产生下行压力，同时特朗普政府在进入跛脚鸭时期后可能会将精力集中在外交和安全保障事务上。"
     },
     {
       "date": "2026.11.06",
@@ -111,19 +122,8 @@
       "url": "https://note.com/tatsuya_sabato/n/nc8964a732bd3",
       "language": "Japanese",
       "section": "日本株式市場 / Japan Market",
-      "summary": "任天堂が2026年11月5日に公表した2027年3月期の中間決算（2026年4月1日〜9月30日、連結・日本基準）によると、売上高は9,660.41億円で前年同期比12.1％減となった一方、営業利益は2,165.00億円で同49.1％増となり、減収増益を記録した。 営業利益率は前年同期の約13.2％から約22.4％へと約9.2ポイント改善した。 任天堂は、ソフトウェア販売が堅調で売上高に占める割合が上がったことに加え、第1四半期に売上原価に計上していた米国IEEPAに基づく関税の還付を受けたことなどを営業利益増の要因として説明している。",
-      "summary_zh": "任天堂于2026年11月5日公布的2027年3月期中期财报（2026年4月1日至9月30日，合并、日本会计准则）显示，营业收入为9,660.41亿日元，同比下降12.1%；而营业利润为2,165.00亿日元，同比增长49.1%，实现收入下降但利润增长。 营业利润率从去年同期的约13.2%改善至约22.4%，提升了约9.2个百分点。 任天堂解释称，营业利润增长的原因包括软件销售坚挺导致其在营收中占比上升，以及在第一季度收到了计入营业成本的基于美国IEEPA的关税退税等。"
-    },
-    {
-      "date": "2026.11.06",
-      "published_at": "2026-11-06T20:29:48+09:00",
-      "headline": "AIブームは終わるのか 日経平均6万円割れ、注目は米企業の上場 [AIの時代]",
-      "source": "朝日新聞",
-      "url": "https://www.asahi.com/articles/ASVC63HCYVC6ULFA011M.html",
-      "language": "Japanese",
-      "section": "日本株式市場 / Japan Market",
-      "summary": "日米の株式市場が大荒れとなり、米中間選挙でAIやデータセンターの推進に慎重とみられた民主党が大勝したことがAI関連銘柄を襲う発端となった。 米国5日のニューヨーク株式市場で、ダウ工業株平均は前日の上昇分をすべて吐き出す1800ドル超の下げを記録した。 下落を主導した半導体大手エヌビディアは前日終値から9.26%下落した。 データセンター建設をめぐっては、電気や水的消費などの理由で地元住民の反発が根強く、全米有数のデータセンター建設地であるテキサス州の州知事選で規制強化を掲げた民主党候補が現職を破って当選し、今後の投資拡大の逆風になるとみられている。",
-      "summary_zh": "日美股市剧烈动荡，美国中期选举中被认为对推进AI及数据中心持谨慎态度的民主党获得大胜，成为冲击AI相关股票的导火索。 在5日的美国纽约股市中，道琼斯工业平均指数大跌超过1800美元，将前一天的涨幅全数吐回。 主导此次下跌的半导体巨头英伟达较前一日收盘价下跌9.26%。 围绕数据中心建设，由于电力和水资源的大量消耗，当地居民的反对情绪强烈；在全美主要数据中心建设地的得克萨斯州州长选举中，高举加强监管旗号的民主党候选人击败现任州长当选，被认为将成为未来扩大投资的逆风因素。"
+      "summary": "Nintendo reported its interim financial results for the six-month period from April 1 to September 30, 2026, under Japanese GAAP, showing a decrease in revenue alongside an increase in operating profit. Net sales dropped 12.1% year-over-year from 10,995.65 million yen to 9,660.41 million yen (converted to 966.041 billion yen from original figures in millions), while operating profit surged 49.1% from 1,451.81 million yen to 2,165.00 million yen. This resulted in an improvement in the operating profit margin from approximately 13.2% to 22.4%. Nintendo attributed the profit increase to steady software sales raising its share of total revenue and a first-quarter refund of U. S. IEEPA-based tariffs previously recorded as cost of goods sold.",
+      "summary_zh": "任天堂公布了按照日本会计准则编制的2027年3月期中期财报，涵盖2026年4月1日至9月30日的实际业绩，数据显示其销售额虽然下降，但营业利润却显著增加。 销售额从上年同期的10,995.65百万日元下降12.1%至9,660.41百万日元（原表单位为百万日元），而营业利润则从1,451.81百万日元大增49.1%至2,165.00百万日元。 由此，营业利润率从约13.2%改善至约22.4%。 任天堂解释称，营业利润增长的背后原因包括软件销售表现稳健使其在销售额中的占比上升，以及在第一季度收到了此前记入销售成本的基于美国IEEPA的关税退税。"
     },
     {
       "date": "2026.11.06",
@@ -133,8 +133,8 @@
       "url": "https://news.yahoo.co.jp/articles/ebf8869a979b120d6e9d8b25ffaf15fdab26db64",
       "language": "Japanese",
       "section": "日本株式市場 / Japan Market",
-      "summary": "日経平均株価は大幅に5日続落し、終値は-3643.13円の5万7434.77円と歴代3位の下げ幅を記録した。 米国のAIインフラ銘柄の売りが波及し、東京市場でも東証プライムの約98％が下落する全面安となった。 個別銘柄では、ソニーグループの2027年3月期上期営業利益が前年同期比42.9％増の1兆988億円となり、通期予想も引き上げられた。 任天堂は上期営業利益が前年同期比49.1％増の2165億円だったものの市場予想を下回り、ゲーム機「ニンテンドースイッチ2」の販売台数が振るわなかった。 JTについては、プーチン大統領がJTインターナショナル傘下のロシア現地法人4社をロシア企業の一時管理下に移す大統領令に署名し、事実上の経営権喪失や減配リスクが意識され売りが殺到した。",
-      "summary_zh": "日股日经平均指数大幅连续5日下跌，收盘报57434.77日元，较前一日下跌3643.13日元，创下历史第3大跌幅。 受美国AI基础设施股遭抛售影响，东京市场约98%的东证主板股票下跌，呈全面下跌态势。 个股方面，索尼集团2027财年上半财年营业利润同比增长42.9%至10988亿日元，并上调了全财年业绩预期。 任天堂上半财年营业利润同比增长49.1%至2165亿日元，但未达市场预期，游戏机“任天堂Switch 2”销量低迷。 关于JT（日本烟草产业公司），俄罗斯总统普京签署总统令，将JT国际旗下的4家俄罗斯当地法人置于俄罗斯企业临时管理之下，JT实际上失去经营权，因引发减值及减派风险担忧而遭抛售。"
+      "summary": "11月6日の日経平均株価は大幅に5日続落し、終値は-3643.13円の5万7434.77円と約7カ月ぶりに5万8000円を下回った。 前日の米国市場でAIインフラ銘柄が売られた流れが東京市場にも波及し、東証プライムの約98％が下落する全面安となった。 個別銘柄では、ソニーグループの2027年3月期上期営業利益が前年同期比42.9％増の1兆988億円となり、通期予想を1兆8700億円に引き上げた。 任天堂の同上期営業利益は同49.1％増の2165億円で市場予想を下回り、ニンテンドースイッチ2の販売台数が37.4％減と振るわなかった。 JTについては、ロシアのプーチン大統領がJTインターナショナル傘下のロシア現地法人4社をロシア企業による一時管理下に移す大統領令に署名し、JTは事実上の経営権を失う形となった。",
+      "summary_zh": "11月6日日本经平均指数大幅连续第5天下跌，收盘下跌3643.13日元至57434.77日元，约7个月来首次跌破58000日元。 前一日美国市场人工智能基础设施股票遭到抛售的走势波及东京市场，东证Prime市场约98%的股票下跌，呈现全面下跌局面。 个股方面，索尼集团2027财年上半年营业利润较上年同期增长42.9%至10988亿日元，全年预测上调至18700亿日元。 任天堂同期营业利润较上年同期增长49.1%至2165亿日元，低于市场预期，游戏机“任天堂Switch 2”销量下降37.4%表现低迷。 关于JT，俄罗斯总统普京签署了总统令，将JT国际旗下的4家俄罗斯当地法人转为由俄罗斯企业临时托管，JT实质上失去了经营权。"
     },
     {
       "date": "2026.11.06",
@@ -144,8 +144,19 @@
       "url": "https://finance.yahoo.co.jp/news/detail/f2d49e96d4ce393dc1aa186a81196644e3eb74b0",
       "language": "Japanese",
       "section": "日本株式市場 / Japan Market",
-      "summary": "2025年11月6日、調査機関による投資判断の最上位継続および目標株価の引き上げが行われた銘柄がまとめられた。 野村證券は地主を4075円から4080円へ、特殊陶を5500円から5600円へ、ソニーGを4700円から5000円へ、ヒロセ電を33400円から33800円へ引き上げた。 ゴールドマン・サックス証券は参天薬を2250円から2300円へ、ソニーGを4700円から4800円へ、トヨタを3900円から4300円へ引き上げた。 マッコリー証券はラインヤフーを5600円に代わり560円から600円へ、ソニーGを4700円から5200円へ、トヨタを3700円から4200円へ引き上げた。 UBS証券は日本製鉄を940円から970円へ、みずほ証券は山九を1900円から2200円へ、東海東京証券はカプコンを5090円から5200円へ、JPモルガン証券はコナミGを29100円から35100円へそれぞれ目標株価を引き上げた。",
-      "summary_zh": "2025年11月6日，多家调查机构对特定股票维持最高投资评级并上调了目标股价。 野村证券将地主目标价从4075日元上调至4080日元，特殊陶从5500日元上调至5600日元，索尼集团从4700日元上调至5000日元，广濑电机从33400日元上调至33800日元。 高盛证券将参天制药目标价从2250日元上调至2300日元，索尼集团从4700日元上调至4800日元，丰田从3900日元上调至4300日元。 麦格理证券将LINE Yahoo目标价从560日元上调至600日元，索尼集团从4700日元上调至5200日元，丰田从3700日元上调至4200日元。 瑞银证券将日本制铁目标价从940日元上调至970日元，瑞穗证券将山九目标价从1900日元上调至2200日元，东海东京证券将卡普空目标价从5090日元上调至5200日元，摩根大通将科乐美集团目标价从29100日元上调至35100日元。"
+      "summary": "11月6日に調査機関が発表した投資判断の最上位継続と目標株価の引き上げ銘柄として、地主が野村により4075円から4080円へ、参天製薬がGSにより2250円から2300円へ、ラインヤフーがマッコリにより560円から600円へ引き上げられた。 特殊陶業は野村により5500円から5600円へ、日本製鉄はUBSにより940円から970円へ増額された。 ソニーグループは野村が4700円から5000円へ、GSが4700円から4800円へ、モルガンが5000円から5500円へ、マッコリが4700円から5200円へとそれぞれ引き上げた。 ヒロセ電機は野村により3万3400円から3万3800円へ、トヨタはGSが3900円から4300円へ、マッコリが3700円から4200円へ増額された。 さらに、山九はみずほにより1900円から2200円へ、カプコンは東海東京により5090円から5200円へ、コナミグループはJPモルガンにより2万9100円から3万5100円へ目標株価が引き上げられた。",
+      "summary_zh": "在11月6日调查机构公布的维持最高投资评级并调高目标股价的个股中，地主被野村从4075日元上调至4080日元，参天制药被高盛从2250日元上调至2300日元，LINEヤフー被麦格理从560日元上调至600日元。 特殊陶业被野村从5500日元上调至5600日元，日本制铁被瑞银从940日元上调至970日元。 索尼集团分别被野村从4700日元上调至5000日元、高盛从4700日元上调至4800日元、摩根士丹利从5000日元上调至5500日元、麦格理从4700日元上调至5200日元。 广濑电机被野村从33400日元上调至33800日元，丰田被高盛从3900日元上调至4300日元、麦格理从3700日元上调至4200日元。 此外，山九被瑞穗从1900日元上调至2200日元，卡普空被东海东京从5090日元上调至5200日元，科乐美集团被摩根大通从29100日元上调至35100日元。"
+    },
+    {
+      "date": "2026.11.06",
+      "published_at": "2026-11-06T16:30:00+09:00",
+      "headline": "日経平均株価、キーエンスの換算係数変更",
+      "source": "日本経済新聞",
+      "url": "https://www.nikkei.com/article/DGXZQOUB066F60W6A101C2000000/",
+      "language": "Japanese",
+      "section": "日本株式市場 / Japan Market",
+      "summary": "日本経済新聞社は、日経平均株価の構成銘柄であるキーエンスの株価換算係数を11月19日付で変更すると発表した。 同社が実施する株式分割の比率に合わせて、現在の0.1から0.5へと変更する。 株価換算係数は日経平均の算出に必要な株価を算出するために構成銘柄の実際の株価に乗じる数値であり、今回の調整によって相場変動以外の影響を取り除くとしている。",
+      "summary_zh": "日本经济新闻社宣布，将于11月19日变更日经平均指数成分股基恩士的股价换算系数。 配合该公司实施的股票拆分比例，将该系数从目前的0.1变更为0.5。 股价换算系数是为计算日经平均指数所需股价而乘以成分股实际股价的数值，此次调整旨在剔除市场波动以外的影响。"
     },
     {
       "date": "2026.11.06",
@@ -155,19 +166,19 @@
       "url": "https://www.nikkei.com/article/DGXZQOFL061WO0W6A101C2000000/",
       "language": "Japanese",
       "section": "日本株式市場 / Japan Market",
-      "summary": "人工知能（AI）関連株の下落が加速し、ソフトバンクグループ（SBG）の株価は一時、前日比630円（15.82%）安の3350円まで下落した。 これにより、3月下旬の年初来安値である3365円を更新し、株式分割考慮ベースで2025年8月以来の水準となった。",
-      "summary_zh": "人工智能（AI）相关股票跌幅加速，软银集团股价一度较前一日下跌630日元（15.82%），至3350日元。 该价格刷新了3月下旬创下的年初至今最低点3365日元，按考虑股份拆细的基础计算，达到了2025年8月以来的水平。"
+      "summary": "人工知能関連株の下落が加速する中、ソフトバンクグループの株価は一時前日比630円、15.82%安の3350円まで下落した。 これにより3月下旬の年初来安値である3365円を更新し、株式分割考慮ベースで2025年8月以来の安値水準となった。",
+      "summary_zh": "在人工智能相关股票跌幅加速的背景下，软银集团股价一度较前一日下跌630日元或15.82%，跌至3350日元。 这刷新了3月下旬创下的年初至今最低价3365日元，按考虑股票拆分计算，达到了2025年8月以来的最低水平。"
     },
     {
       "date": "2026.11.06",
-      "published_at": "2026-11-06T11:14:47+09:00",
-      "headline": "任天堂、株価急反落一時8%安 4〜9月営業益49%増は予想に届かず",
-      "source": "日本経済新聞",
-      "url": "https://www.nikkei.com/article/DGXZQOFL061GI0W6A101C2000000/",
+      "published_at": "2026-11-06T16:00:00+09:00",
+      "headline": "日経平均株価一時4,000円超下落 目先の下値メドと今後の展開は 野村證券ストラテジストが解説",
+      "source": "野村證券",
+      "url": "https://www.nomura.co.jp/wealthstyle/article/0934/",
       "language": "Japanese",
       "section": "日本株式市場 / Japan Market",
-      "summary": "任天堂の株価が急反落し、一時前日比759円（8.54%）安の8121円を付けた。 前日5日に発表された2026年4〜9月期の連結決算において、営業利益が前年同期比49%増の2165億円となり大幅な増益を記録したものの、市場予想には届かなかった。",
-      "summary_zh": "任天堂股价急剧回落，一度较前一日下跌759日元（8.54%），触及8121日元。 任天堂在前一日即5日公布的2026年4月至9月合并财报显示，营业利润为2165亿日元，较去年同期增长49%，实现了大幅增益，但该结果未达到市场预期。"
+      "summary": "11月3日の米国中間選挙で民主党が大勝した影響や、米国で半導体・AI関連株主導の全面安となった動きを受け、11月6日の日経平均株価は一時4000円超下落して5万7000円を割り込んだ。 トピックスも一時3700を割り込み、野村證券ストラテジストは目先のレンジ下限をトピックス3500、日経平均を5万5000円とみている。 民主党会合やエヌビディアの決算発表、イラン情勢の安定化などが今後の注目材料とされている。",
+      "summary_zh": "受11月3日美国中期选举民主党大胜的影响，以及美国半导体及人工智能相关股票主导的全面下跌行情的波及，11月6日日经平均指数一度下跌超过4000日元，跌破57000日元。 东证指数也一度跌破3700点，野村证券策略师认为近期波动下限为东证指数3500点、日经平均指数55000日元。 民主党会议、英伟达财报发布以及伊朗局势稳定等被视为未来的关注材料。"
     },
     {
       "date": "2026.11.07",
@@ -177,8 +188,8 @@
       "url": "https://qz.com/stocks-after-midterm-elections",
       "language": "English",
       "section": "宏观经济与投资 / Macro & Investment",
-      "summary": "The 2026 midterm elections resulted in Democrats holding majorities in both the House and the Senate, creating a divided government alongside Republican President Donald Trump. While near-term market prices shifted following the results, various experts note that historical records suggest midterm outcomes have a limited effect on overall stock market returns. BlackRock observed that midterm years tend not to be the strongest for stocks, whereas Bespoke Investment Group highlighted that the S&P 500 has risen during every one of the last nine sessions and continued climbing since the Great Financial Crisis despite changing political control. Franklin Templeton found that a Republican president paired with a Democratic Congress has a historical 12-month average stock return of around 15% since the 1950s. Additionally, SentimenTrader noted a seasonal pattern showing the stock market has not fallen between November 1 of a midterm year and April of the following year since the 1930s.",
-      "summary_zh": "2026年中期选举使民主党在众议院和参议院均占据多数席位，与共和党籍总统唐纳德·特朗普共同构成了分裂政府。 尽管短期市场价格在选举结果公布后有所变动，但多位专家指出历史记录表明中期选举结果对整体股市回报的影响有限。 贝莱德指出中期选举年往往不是股市表现最强劲的年份，而Bespoke投资集团则强调，自金融危机以来，尽管华盛顿的控制权屡次易手，标普500指数在过去九个交易日的每一个时期都在上涨。 富兰克林邓普顿发现，自20世纪50年代以来，在共和党总统任内出现由民主党控制国会两院的配置时，12个月的平均股票回报率约为15%。 此外，SentimenTrader补充了一个季节性角度，发现自20世纪30年代以来，股市在中期选举年的11月1日至次年4月期间从未下跌。"
+      "summary": "The 2026 midterm elections have reshaped the balance of power in Washington, with the Associated Press reporting that Democrats hold majorities in both the House and the Senate while some races remain uncalled. President Donald Trump, a Republican, serves the remaining half of his term alongside a divided government. Early market reactions saw near-term price changes in stocks, oil, gold, and cryptocurrency, while the S&P 500 ended a three-day losing streak on Tuesday. Many experts believe election outcomes have a limited effect on overall market returns, though policy changes can move specific assets. BlackRock noted that midterm years tend not to be the strongest for stocks. Bespoke Investment Group stated that the S&P 500 has risen during every one of the last nine sessions and kept rising since the Great Financial Crisis despite changing Washington control. Franklin Templeton found that under Republican presidents, the party split in Congress matters little for 12-month returns, putting the average at around 15% since the 1950s, and noted that Democratic majorities in both houses have been the most common setup. SentimenTrader added that the stock market has not fallen between November 1 of a midterm year and April of the following year at any point since the 1930s.",
+      "summary_zh": "2026年中期选举重塑了华盛顿的权力平衡，美联社报道称民主党在众议院和参议院均占据多数席位，部分竞选结果尚未最终确定。 身为共和党人的总统唐纳德·特朗普在任期剩余的一半时间里，将面对一个国会两院均由民主党控制的分裂政府。 早期市场反应显示股票、石油、黄金和加密货币价格出现了近期变动，标普500指数则在周二结束了三连跌。 许多专家认为选举结果对整体市场回报的影响有限，尽管政策变化能够推动特定资产。 贝莱德指出中期选举年通常不是股市表现最强劲的年份。 Bespoke投资集团表示，自金融危机以来，尽管华盛顿控制权屡次更迭，标普500指数在过去九个交易日的每一场中都在上涨。 富兰克林邓普顿发现，在共和党总统任内，国会党派分裂对12个月回报率的影响相对较小，自20世纪50年代以来平均回报率约为15%，并指出两院均由民主党控制是该时期最常见的格局。 SentimenTrader补充称，自20世纪30年代以来，股票市场在中期选举年的11月1日至次年4月之间从未下跌。"
     },
     {
       "date": "2026.11.07",
@@ -188,19 +199,19 @@
       "url": "https://finance.biggo.com/news/49797edb-1fee-4870-b173-65035863a41e",
       "language": "English",
       "section": "宏观经济与投资 / Macro & Investment",
-      "summary": "On the 6th in the New York Foreign Exchange Market, the euro edged lower against the dollar. At 12:00 a. m. , EUR/USD traded at 1.1150 dollars, marking a decrease of about 0.0018 dollars compared to 1.1168 dollars at 10:00 p. m. The downturn was driven by the October U. S. Employment Report released that day, which showed nonfarm payrolls, the unemployment rate, and average hourly earnings all exceeding market expectations. This confirmed labor market resilience, prompting euro selling and dollar buying that pushed EUR/USD to a low of 1.1131 dollars, its lowest level since October 29. Soft trading in European equities also weighed on the currency. However, dollar buying paused as the rise in U. S. long-term interest rates leveled off, allowing the pair to recover to 1.1150 dollars. Meanwhile, dollar-yen stood at 158.30 yen at 12:00 a. m. , fluctuating after briefly reaching 158.58 yen due to rising U. S. long-term rates, while EUR/JPY stood at 176.51 yen.",
-      "summary_zh": "6日在纽约外汇市场上，欧元兑美元走低。 截至午夜12点，欧元/美元报1.1150美元，较晚上10点的1.1168美元下跌约0.0018美元。 市场下行的推动力是当天公布的美国10月就业报告，其中的非农就业人数、失业率和平均时薪增长均超出了市场预期。 这确认了劳动力市场的韧性，促使市场抛售欧元并买入美元，推动欧元/美元一度跌至1.1131美元，创下10月29日以来的最低水平。 欧洲股市表现疲软也对欧元造成了压力。 不过，随着美国长期利率升势暂停，买入美元的动能告一段落，该货币对回升至1.1150美元水平。 与此同时，截至午夜12点，美元/日元报158.30日元，在因美国长期利率上升而触及158.58日元的高点后呈现震荡，欧元/日元则报176.51日元。"
+      "summary": "The euro edged lower against the dollar in the New York Foreign Exchange Market on the 6th. As of 12:00 a. m. , EUR/USD was at 1.1150 dollars, down about 0.0018 dollars from 1.1168 dollars at 10:00 p. m. , driven by the October U. S. Employment Report released the same day. Nonfarm payrolls, the unemployment rate, and average hourly earnings all exceeded market expectations, confirming labor market resilience and pushing EUR/USD to a low of 1.1131 dollars, its lowest level since October 29, alongside soft trading in European equities. Dollar buying subsequently paused as U. S. long-term interest rates stopped rising, paring losses to 1.1150 dollars. Dollar-yen struggled to gain, standing at 158.30 yen at 12:00 a. m. , about 1 sen weaker for the dollar compared to 10:00 p. m. Although solid employment data pushed U. S. long-term rates up and the pair briefly rose to 158.58 yen, breaking the previous day's high of 158.50 yen, buying stalled amid a wait-and-see stance on U. S. tech stock moves. EUR/JPY stood at 176.51 yen at 12:00 a. m. , down about 29 sen from 10:00 p. m. , weighed down by EUR/USD declines and weak European equities. On the previous day, the 4th, euro selling ran its course with EUR/USD near 1.1218 dollars at 4:00 a. m. , while WTI crude oil futures slid to the lower 87-dollar range and the 10-year Treasury yield fell to around 4.89%. Market views suggest the strong employment report has dampened Federal Reserve rate-cut expectations and that the dollar will hold firm, while the euro remains vulnerable to European equities and German interest rates.",
+      "summary_zh": "6日，在纽约外汇市场上，欧元兑美元小幅走低。 截至午夜12点，欧元/美元报1.1150美元，较晚上10点的1.1168美元下跌约0.0018美元，欧元走弱而美元走强。 推动市场走低的是当日发布的美国10月就业报告。 非农就业人数、失业率以及平均时薪增长均超市场预期，在劳动力市场韧性得到确认的背景下，抛售欧元和买入美元占据上风，欧元/美元盘中一度跌至1.1131美元，创下10月29日以来的最低水平，欧洲股市表现疲软也对欧元造成了压制。 随后，随着美国长期利率升势暂停，买入美元的行动告一段落，汇率收窄跌幅至1.1150美元附近。 美元兑日元涨势艰难，截至午夜12点报158.30日元，较晚上10点的158.31日元相比美元下跌约1分。 受稳健就业报告推动美国长期利率上升的影响，该汇率突破前一日158.50日元的盘中高点，一度被买盘推高至158.58日元，但由于对当日美国科技股走势持观望态度，买盘未能持续，随后上方承压。 欧元兑日元的回弹同样迟缓，截至午夜12点报176.51日元，较晚上10点的176.80日元下跌约29分，除跟随欧元兑美元下跌外，欧洲股市的疲软也拖累了市场情绪。 在前一日即4日的纽约市场上，欧元/美元的抛售告一段落，清晨4点时基本持平于1.1218美元。 当时WTI原油期货下滑至87美元低位区间，美国10年期国债收益率跌至4.89%左右，一度将美元兑日元拉回158日元低位区间。 市场观点认为，强劲的就业报告削弱了对美国联邦储备委员会降息的预期，美元将在主要货币面前保持坚挺，而欧元则依然容易受到欧洲股市疲软和德国利率走势的影响。"
     },
     {
-      "date": "2026.11.07",
-      "published_at": "2026-11-07T00:22:27+09:00",
-      "headline": "Week Ahead – Inflation and Geopolitics in Focus as US Political Landscape Shifts",
-      "source": "Action Forex",
-      "url": "https://www.actionforex.com/contributors/fundamental-analysis/660117-week-ahead-inflation-and-geopolitics-in-focus-as-us-political-landscape-shifts/",
+      "date": "2026.11.06",
+      "published_at": "2026-11-06T23:40:56+09:00",
+      "headline": "IRS releases 2027 tax brackets: How new income tax rates and standard deductions for single, married and s",
+      "source": "The Economic Times",
+      "url": "https://m.economictimes.com/news/international/us/2027-tax-brackets-irs-releases-new-federal-income-tax-rates-standard-deductions-for-single-married-filers-seniors-and-tax-savings-comparison/articleshow/135608988.cms",
       "language": "English",
       "section": "宏观经济与投资 / Macro & Investment",
-      "summary": "Financial markets experienced high volatility as post-midterm election euphoria faded and risk aversion took over. The Democratic party's strong performance in taking control of Congress initially confused investors, prompting rallies in equities, gold, and bitcoin that were later erased by a technology-led sell-off, while European markets strengthened on expectations of a less aggressive President Trump. Bitcoin's rally fizzled due to concerns over the Democrats' stance on crypto legislation, whereas gold maintained a large part of its rally above the $4,000 level. Oil prices found strong support around the $88 area following a recent drop, amid expectations regarding tariffs and conflicts. The US dollar strengthened due to soft risk appetite and steady expectations for a mid-December Fed rate hike. Meanwhile, attention turns to upcoming US CPI and PPI inflation reports for October, along with numerous speeches from Federal Reserve officials.",
-      "summary_zh": "随着中期选举后的乐观情绪消退并被避险情绪取代，金融市场经历了剧烈波动。 民主党在国会选举中的强势表现最初让投资者感到困惑，并引发了股票、黄金和比特币的短暂上涨，随后被科技股为主导的抛售潮所吞没，而欧洲股市则因预期特朗普总统的立场可能缓和而走强。 由于投资者开始适应民主党对加密货币立法的已知立场，比特币的反弹势头逐渐消退，而黄金则在4,000美元水平上方保留了大部分涨幅。 在对关税和冲突的预期背景下，油价在近期下跌后于88美元区域附近找到了强劲支撑。 受疲软的风险偏好以及对美联储12月中旬加息的稳定预期推动，美元走强。 与此同时，市场焦点转向即将发布的美国10月CPI和PPI通货膨胀报告，以及美联储官员的大量讲话。"
+      "summary": "The IRS announced on November 5 through Revenue Procedure 2026-35 that the seven federal income tax rates for 2027 will remain unchanged, ranging from 10% to 37%, while income thresholds are adjusted for inflation. For single filers, the upper limit of the 12% bracket increases from $50,400 in 2026 to $52,025 in 2027, the 22% bracket moves from $105,700 to $109,125, and the top 37% rate begins above $661,375 compared to $640,600. For married couples filing jointly, the 12% bracket extends to $104,050 from $100,800, the 22% bracket reaches $218,250 up from $211,400, and the 37% rate begins above $793,650 up from $768,700. Standard deductions increase across all four filing categories. Taxpayers aged 65 or older and legally blind individuals can claim an additional standard deduction of $1,700, increasing to $2,100 for unmarried individuals who are not surviving spouses. A separate deduction of up to $6,000 for individuals aged 65 or older, and up to $12,000 for married couples filing jointly where both qualify, is available under the Working Families Tax Cuts for tax years 2025 through 2028, beginning to phase out when modified adjusted gross income exceeds $75,000 for single filers and $150,000 for joint filers. Long-term capital gains tax thresholds will also increase in 2027. The maximum Child Tax Credit will rise to $2,300 per qualifying child with a refundable portion of $1,800, and the maximum Earned Income Tax Credit will reach $8,496 for eligible taxpayers with three or more qualifying children.",
+      "summary_zh": "美国国税局于11月5日通过第2026-35号税收程序宣布，2027年的七档联邦所得税税率将保持不变，维持在10%至37%之间，但纳税人的应纳税所得额门槛根据通货膨胀进行了调整。 对于单身申报者，12%税率档的上限从2026年的$50,400提高到2027年的$52,025，22%税率档的上限从$105,700调整为$109,125，最高37%税率的起征点从$640,600提高到$661,375以上。 对于选择联合申报的已婚夫妇，12%税率档延伸至$104,050，高于2026年的$100,800；22%税率档达到$218,250，高于$211,400；37%税率档在超过$793,650时生效，高于$768,700。 四种申报类别的标准扣除额均有所增加。 65岁及以上的纳税人和法定盲人可以申请$1,700的额外标准扣除额，对于未婚且非生存配偶的个人，该金额增加到$2,100。 在2025至2028纳税年度期间，根据“美满家庭减税法案”，65岁及以上的个人可单独申请最高达$6,000的扣除额，如果夫妻双方均符合条件则联合申报最高可获得$12,000，该扣除额在单身纳税人修改后调整总收入超过$75,000、联合申报超过$150,000时开始逐步退坡。 2027年长期资本利得税的门槛也将提高。 每个符合条件的儿童的最高儿童税收抵免额将增至$2,300，可退还部分升至$1,800，而对于拥有三个或更多符合条件的儿童的合格纳税人，最高劳动所得税抵免额将达到$8,496。"
     },
     {
       "date": "2026.11.06",
@@ -210,8 +221,8 @@
       "url": "https://cryptoticker.io/en/crypto-market-cap-explained-bitcoin-gold-apple/",
       "language": "English",
       "section": "宏观经济与投资 / Macro & Investment",
-      "summary": "Cryptocurrency market capitalization represents the total value of all circulating units of a coin, calculated by multiplying the current price by the circulating supply. On Friday morning, November 6, data from CoinGecko showed the total crypto market cap reached approximately $2.58 trillion, which is equivalent to about 2.30 trillion euros, following a 6.5 percent daily drop. Bitcoin accounted for $1.53 trillion of that total, with a dominance rate of approximately 59.2 percent. Bitcoin's calculation involves roughly 20.11 million circulating BTC priced at about $76,140, or 68,170 euros per BTC, totaling about 1.37 trillion euros. Market capitalization differs from actual cash reserves and changes continuously with price fluctuations, serving as a thermometer for overall market sentiment.",
-      "summary_zh": "加密货币的市值是指某一种代币所有流通中单位的总价值，计算方法是将当前价格乘以流通供应量。 11月6日星期五上午，根据CoinGecko的数据，在经历单日6.5%的下跌后，整个加密市场总市值达到约$2.58 trillion，相当于约2.30 trillion。 其中比特币占到了$1.53 trillion，市场主导地位约为59.2%。 比特币的市值计算涉及大约2,011万枚流通中的比特币，价格约为76,140美元或每枚比特币68,170欧元，总计约1.37 trillion。 市值并不等同于实际的现金储备，它会随着价格波动而分分秒秒发生变化，并可作为衡量整体市场情绪的温度计。"
+      "summary": "Cryptocurrency market capitalization is calculated by multiplying an asset's price by its circulating supply, which represents freely tradable coins or tokens excluding locked holdings by founding teams, foundation reserves, or unmined coins. On Friday morning, November 6, CoinGecko data showed the total crypto market capitalization stood at approximately $2.58 trillion, equivalent to about 2.30 trillion euros, after falling by about 6.5 percent within 24 hours. Bitcoin accounted for $1.53 trillion of that total, with about 20.11 million BTC in circulation at a price of about $76,140, or around 68,170 euros per BTC totaling about 1.37 trillion euros. Bitcoin's maximum supply is fixed at 21 million BTC, created exclusively through mining. Market capitalization reflects the valuation of the last traded price applied to all circulating units, rather than actual cash held in accounts. CoinGecko listed almost 22,840 active cryptocurrencies on November 6. Bitcoin dominance, representing Bitcoin's share of the total crypto market capitalization, stood at approximately 59.2 percent on that day.",
+      "summary_zh": "加密货币的市值计算方法是将资产价格乘以其流通供应量，流通供应量是指可以自由交易的币或代币，不包括创始团队持有的锁定份额、基金会储备或尚未开采的币。 11月6日星期五上午，根据CoinGecko的数据，整个加密货币市场总市值约为$$2.58 trillion，相当于约2.30 trillion，在24小时内下跌了约6.5%。 其中比特币占据了$$1.53 trillion，当时大约有2011万枚BTC在流通，价格约为$76,140，折合每枚BTC约68,170欧元，总计约合1.37 trillion。 比特币的最大供应量固定为21万枚BTC，仅通过挖矿产生。 市值反映的是将最后一笔交易价格应用于所有流通单位的估值，而不是账户中实际持有的现金。 11月6日，CoinGecko列出了近22,840种活跃的加密货币。 比特币市占率（即比特币占加密货币总市值的份额）当日约为59.2%。"
     },
     {
       "date": "2026.11.06",
@@ -221,8 +232,8 @@
       "url": "https://fortune.com/article/price-of-bitcoin-11-06-2026/",
       "language": "English",
       "section": "宏观经济与投资 / Macro & Investment",
-      "summary": "At 7:15 a. m. Eastern Time on November 6, 2026, the market price of a single Bitcoin was $76,023.87, representing a $4,197.53 drop from the previous day and about $25,325 lower than one year prior. Bitcoin maintains the top position in name recognition and market size, with a market capitalization of roughly $1.33 trillion, far surpassing second-place Ethereum at about $233 billion. Operating as a decentralized digital currency on a peer-to-peer network, Bitcoin allows users to transfer value without intermediaries. Historically, developer Laszlo Hanyecz famously spent 10,000 Bitcoins on pizza, an amount currently valued at more than 668 million dollars, and Bitcoin's price has climbed more than 15,000% over the last decade despite closing 2025 roughly 30% below its October all-time high. Bitcoin's price is influenced by investor speculation, major company adoption, macroeconomic conditions, and regulatory developments, and can be invested in through direct exchange purchases, ETFs, crypto stocks, or Bitcoin IRAs.",
-      "summary_zh": "在2026年11月6日美东时间上午7点15分，单个比特币的市场价格为76,023.87美元，较前一天下跌4,197.53美元，比一年前低约25,325美元。 比特币在知名度和市场规模上位居榜首，市值约为$1.33 trillion，远超排名第二、市值约为$233 billion的以太坊。 作为运行在点对点网络上的去中心化数字货币，比特币允许用户在没有中介的情况下转移价值。 历史上，开发者拉斯洛·哈涅茨曾用1万枚比特币购买披萨，这笔钱如今价值超过6.68亿美元。 在过去十年中，尽管2025年底收盘时比10月的历史最高点低了约30%，比特币价格仍上涨了15,000%以上。 比特币价格受投资者投机、大公司采用、宏观经济状况和监管发展的影响，投资者可以通过直接在交易所购买、ETF、加密货币股票或比特币IRA进行投资。"
+      "summary": "At 7:15 a. m. Eastern Time on November 6, 2026, Bitcoin traded at $76,023.87, down $4,197.53 from the previous morning and about $25,325 lower than a year ago, with a market capitalization of roughly $1.33 trillion. Bitcoin functions as a decentralized digital currency running on a peer-to-peer network without a central authority. Its history includes a 2009 launch, significant volatility, a milestone where Laszlo Hanyecz spent 10,000 Bitcoins on pizza now worth over 668 million dollars, and a close to 2025 where it traded roughly 30% below its October all-time high. Price movements are driven by investor speculation, major corporate adoption such as Tesla and Ferrari, the broader economy, and regulatory developments. Investors can buy Bitcoin directly on crypto exchanges, invest in Bitcoin ETFs, purchase crypto stocks, or open a Bitcoin IRA.",
+      "summary_zh": "在2026年11月6日美东时间上午7点15分，单枚比特币的市场价格为$76,023.87，较前一天早晨下跌$4,197.53，比一年前低约$25,325，其市值约为$1.33 trillion。 比特币是一种去中心化的数字货币，依靠计算机点对点网络运行，无需中央机构。 自2009年推出以来，比特币经历了巨大波动，早期开发者Laszlo Hanyecz曾花10,000比特币买披萨，如今这些币价值超过668 million dollars，且2025年底收盘时较10月创下的历史最高价低约30%。 其价格受投资者投机、特斯拉和Ferrari等大公司的采用、经济状况及监管发展所驱动。 投资者可以通过加密货币交易所直接购买比特币、投资比特币ETF、购买加密股票或开立比特币IRA。"
     },
     {
       "date": "2026.11.06",
@@ -232,8 +243,8 @@
       "url": "https://finance.biggo.com/news/aef32b79-02ae-4235-b824-842510a6a290",
       "language": "English",
       "section": "宏观经济与投资 / Macro & Investment",
-      "summary": "On Friday, the US dollar rose against major currencies as safe-haven demand increased following a broad selloff in global artificial intelligence stocks, while falling US Treasury yields limited those gains ahead of the monthly US jobs report. The dollar index jumped 0.25% to 101.76, driven by a sharp drop on Wall Street where the Nasdaq posted its largest single-day decline since April 2025 following a Democratic victory in the congressional midterm elections. In currency markets, the Japanese yen climbed to a one-week high of 157.27 against the dollar before paring gains to 157.805, while the euro fell 0.2% to $1.1198 and the British pound dropped 0.2% to $1.3433. In Asia, Taiwan's dollar slid as much as 0.5% to 33.040, and South Korea's KOSPI fell 8.6%, prompting a 20-minute trading halt. Bond markets saw two-year Treasury yields drop about 10 basis points to 4.8348% and 10-year yields fall about six basis points to 4.4719%. Investors awaited the nonfarm payrolls report after weekly jobless claims fell by 6,000 to 189,000, matching a 57-year low recorded in July.",
-      "summary_zh": "周五，由于全球人工智能股票遭到广泛抛售引发避险需求，美元兑主要货币汇率上涨，不过美国国债收益率下跌限制了涨幅，市场同时等待美国月度就业报告。 衡量美元兑六种主要货币汇率的美元指数上涨0.25%至101.76。 此前由于民主党在国会中期选举中大胜，华尔街股市大跌，纳斯达克指数创下自2025年4月以来最大单日跌幅。 在汇市中，日元兑美元一度升至157.27的一周高点，随后回落至157.805；欧元兑美元下跌0.2%至$1.1198；英镑下跌0.2%至$1.3433。 亚洲方面，新台币兑美元一度下跌0.5%至33.040，韩国KOSPI指数下跌8.6%，触发20分钟交易暂停。 债券市场上，两年期美债收益率下跌约10个基点至4.8348%，10年期收益率下跌约6个基点至4.4719%。 在周度初请失业金人数减少6,000人至189,000人（追平7月份创下的57年低点）之后，投资者正等待非农就业报告以获取美联储利率政策信号。"
+      "summary": "The US dollar rose against major currencies on Friday due to safe-haven demand after a broad artificial intelligence stock selloff, though falling US Treasury yields limited gains ahead of the US monthly jobs report. The dollar index jumped 0.25% to 101.76, supported by a sharp Wall Street drop where the Nasdaq saw its largest single-day decline since April 2025 following a Democratic Party congressional midterm victory. Pepperstone researcher Dilin Wu noted that safe-haven demand supports the dollar against Asian currencies while falling yields limit gains. OCBC analysts stated the AI selloff creates competing forces for the dollar, while the Japanese yen acts as a prominent hedge. Two-year Treasury yields fell about 10 basis points to 4.8348% and 10-year yields fell about six basis points to 4.4719%. The Japanese yen climbed to a one-week high of 157.27 before paring gains to 157.805, while the euro fell 0.2% to $1.1198 and the British pound dropped 0.2% to $1.3433 following the Bank of England's rate hike. Investors awaited the US nonfarm payrolls report, with weekly jobless claims having fallen by 6,000 to 189,000. MUFG analysts expect continued labor market improvement, and futures traders priced a 70% chance of a 25-basis-point Federal Reserve rate hike in December.",
+      "summary_zh": "受人工智能股票遭广泛抛售引发的避险需求推动，美元周五兑主要货币上涨，不过美国国债收益率下跌限制了在美國月度就业报告发布前的涨幅。 美元指数跃升0.25%至101.76，受到华尔街暴跌的支撑，纳斯达克指数录得自2025年4月以来最大单日跌幅，此前民主党在中期国会选举中取得压倒性胜利。 Pepperstone研究员Dilin Wu指出，避险需求支撑了美元兑亚洲货币汇率，但收益率下降限制了涨幅。 华侨银行分析师表示，AI抛售对美元构成了相互冲突的力量，日元则是突出的对冲工具。 两年期美债收益率下跌约10个基点至4.8348%，10年期收益率下跌约6个基点至4.4719%。 日元一度攀升至157.27的一周高位，随后回落至157.805；欧元兑美元下跌0.2%至$1.1198；在英国央行加息后，英镑下跌0.2%至$1.3433。 投资者正等待美国非农就业报告，此前每周初请失业金人数减少6,000至189,000。 MUFG分析师预计劳动力市场将继续改善，期货交易员预计美联储12月加息25个基点的概率约为70%。"
     },
     {
       "date": "2026.11.06",
@@ -243,19 +254,19 @@
       "url": "https://www.vietnam.vn/en/dien-bien-thi-truong-tai-chinh-tien-te-quoc-te-sang-6-11",
       "language": "English",
       "section": "宏观经济与投资 / Macro & Investment",
-      "summary": "The US dollar held firm against major currencies in Friday's trading session as a sharp sell-off in US stocks driven by the Democratic Party's congressional victory prompted investors to shift toward safe-haven assets. The Nasdaq recorded its sharpest single-day decline since April 2025 amid concerns over increased regulatory scrutiny of the artificial intelligence industry, leading the Japanese yen to rise 0.2% to a one-week high of 157.40 JPY/USD and the Swiss franc to gain 0.2% against the dollar. The USD Index remained virtually unchanged at 101.55 points. Meanwhile, 10-year US Treasury yields hovered near 4.84%, and 2-year yields fell about 10 basis points to 4.47%. Federal funds rate futures indicated the probability of a 25-basis-point Fed rate hike in December dropped to around 70% from over 80%. The euro traded at $1.1222, heading for a 0.5% weekly gain, and the British pound rose 0.1% to $1.3457 following the Bank of England's expected interest rate hike. In Japan, the Nikkei 225 index fell 5.3% at the mid-session break amid a sell-off in technology and AI-related shares following Wall Street's losses.",
-      "summary_zh": "周五交易日中，由于民主党在国会选举中大胜引发美股剧烈抛售，促使投资者转向避险资产，美元兑主要货币保持坚挺。 由于市场担忧人工智能行业将面临更严格的监管审查，纳斯达克指数创下自2025年4月以来最大单日跌幅，日元兑美元上涨0.2%至157.40日元的一周高点，瑞士法郎兑美元也上涨0.2%。 美元指数基本维持在101.55点不变。 同时，美国10年期国债收益率徘徊在4.84%附近，2年期收益率下跌约10个基点至4.47%。 联邦基金利率期货显示，美联储在12月加息25个基点的概率从周三的80%以上降至约70%。 欧元交易报$1.1222，有望实现0.5%的周涨幅；在英国央行如预期加息后，英镑上涨0.1%至$1.3457。 在日本，受华尔街跌势影响，科技股和人工智能相关股票遭到抛售，日经225指数在盘中休息时下跌5.3%。"
+      "summary": "The US dollar held firm on Friday following a US stock sell-off that drove investors toward safe-haven assets like the Japanese yen and pushed down US Treasury yields while markets awaited the US jobs report. The Democratic Party's US Congress victory caused US stocks to plummet on Thursday, with the Nasdaq recording its sharpest single-day decline since Liberation Day in April 2025. Concerns over stricter artificial intelligence regulations and data center construction disrupted markets. The Japanese yen rose 0.2% to a one-week high of 157.40 JPY/USD, and the Swiss franc rose 0.2% against the USD, while the USD Index remained at 101.55 points. OCBC analysts commented that the AI sell-off has mixed effects on the dollar, pointing to the yen as a hedge and noting inflows from the Japanese Government Pension Investment Fund. Ten-year US Treasury yields neared their lowest since September 10th at 4.84%, and 2-year yields fell about 10 basis points to 4.47%. Fed funds rate futures indicated the probability of a 25-basis-point December rate hike fell to around 70%. The euro traded at $1.1222, the British pound rose 0.1% to $1.3457 after the Bank of England raised rates, and Japan's Nikkei index fell 5.3% at mid-session amid tech stock declines.",
+      "summary_zh": "受美国股市抛售潮推动投资者转向日元等避险资产并压低美债收益率的影响，美元周五保持坚挺，市场同时等待美国就业报告。 民主党在美国国会选举中的胜利导致美股周四暴跌，纳斯达克指数创下自2025年4月解放日以来的最大单日跌幅。 对人工智能监管收紧及数据中心建设的担忧扰乱了全球市场。 日元兑美元上涨0.2%，一度触及157.40 JPY/USD的一周高位，瑞士法郎兑美元亦上涨0.2%，美元指数维持在101.55点。 华侨银行分析师评论称，AI股票抛售对美元具有混合影响，并指出日元是对冲工具，同时日本政府养老投资基金的资金流入可能提供进一步动力。 10年期美债收益率接近9月10日以来的最低点4.84%，2年期收益率下跌约10个基点至4.47%。 联邦基金利率期货显示美联储12月加息25个基点的概率降至70%左右。 欧元兑美元报$1.1222，英国央行加息后英镑上涨0.1%至$1.3457，日本日经指数在科技股下跌的背景下盘中下跌5.3%。"
     },
     {
       "date": "2026.11.06",
-      "published_at": "2026-11-06T16:53:14+09:00",
-      "headline": "What Is the Electrodollar? Could Electricity Replace Oil in Supporting the US Dollar?",
-      "source": "EBC Financial Group",
-      "url": "https://www.ebc.com/forex/what-is-electrodollar-petrodollar-us-dollar",
+      "published_at": "2026-11-06T18:27:32+09:00",
+      "headline": "Gold: Consolidation with cautious optimism – OCBC",
+      "source": "www.tmgm.com",
+      "url": "https://www.tmgm.com/en/analysis/market-news/article/gold-consolidation-with-cautious-optimism-ocbc-202611060913",
       "language": "English",
       "section": "宏观经济与投资 / Macro & Investment",
-      "summary": "The electrodollar is an economic hypothesis suggesting that electricity-intensive industries like artificial intelligence and cloud computing could reinforce global demand for the US dollar, rather than an official currency or formal monetary system. Data-centre electricity demand is projected to grow approximately 14.4% annually between 2025 and 2030, reaching roughly 3% of global power demand, with global usage rising from approximately 485 terawatt-hours in 2025 to 950 terawatt-hours by 2030. Five major technology companies spent more than $400 billion in capital expenditure in 2025, with a further 75% increase projected for 2026, though financial returns remain uncertain. The hypothesis connects reliable electricity powering data centres that supply digital services to profitable American providers potentially earning international revenue or attracting investment in dollar-denominated assets. This dynamic contrasts with the petrodollar, which describes widespread dollar pricing in international oil trade and reinvestment of oil revenues. Established financial foundations remain large, with the dollar holding a 56.70% reserve share in Q2 2026 and involvement in 89.2% of April 2025 foreign exchange trading, according to the International Energy Agency's April 2026 assessment and financial data.",
-      "summary_zh": "电美元（Electrodollar）是一个经济假说，认为人工智能和云计算等耗电密集型产业可能会巩固全球对美元的需求，它并非官方货币或正式的货币体系。 据预测，2025年至2030年间，数据中心电力需求预计将以每年约14.4%的速度增长，达到全球电力需求的3%左右，全球用电量将从2025年的约485太瓦时增至2030年的950太瓦时。 五家大型科技公司在2025年的资本支出超过$400 billion，预计2026年还将进一步增加75%，不过财务回报仍不确定。 该假说将驱动数字服务的可靠电力同美国供应商潜在的国际收入或美元资产投资联系起来。 这种动态与石油美元不同，石油美元指的是国际石油贸易中普遍采用美元定价以及石油出口收入再投资于美元资产。 根据国际能源署2026年4月的评估和金融数据，美元的基础依然庞大，其在2026年第二季度的外汇储备占比为56.70%，并参与了2025年4月89.2%的外汇交易。"
+      "summary": "Christopher Wong at OCBC reports that gold is consolidating after reaching a two-week high above 4140, supported by softer Treasury yields and safe-haven appeal amid an equity selloff, though rebounding oil prices and a steadier US Dollar limit gains. Broader deleveraging remains a risk ahead of US data. Wong remains cautiously optimistic, noting resistance at 4146 and 4190/97, and support at 4065/75, 3960/80, and 3870. The deepening selloff in AI and semiconductor stocks warrants near-term caution, and equity weakness could trigger liquidity-driven selling. However, gold's resilience is encouraging, and softer employment data could lower Fed tightening expectations, weigh on yields and the USD, and extend the gold recovery. Daily momentum turned mild bullish with moderated RSI growth, and upcoming events include the US payrolls report and next Tuesday's US CPI.",
+      "summary_zh": "华侨银行的Christopher Wong指出，黄金在触及4140上方两周高位后正在盘整，受到收益率走软及股市抛售背景下避险需求的支撑，不过油价反弹和美元企稳限制了涨幅。 在关键美国数据发布前，更广泛的去杠杆化仍然是一个风险。 Wong保持谨慎乐观，指出阻力位在4146和4190/97，支撑位在4065/75、3960/80和3870。 AI和半导体股票的深度抛售值得短期警惕，股市走弱可能引发流动性驱动的抛售。 不过，黄金的相对韧性令人鼓舞，较弱的就业数据可能进一步缓和美联储收紧预期，打压收益率和美元并延续黄金的复苏。 日线动能转为温和看涨且RSI升势放缓，接下来的关键事件包括美国非农就业报告和下周二的美国CPI。"
     }
   ]
 }
