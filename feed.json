@@ -1,41 +1,63 @@
 {
   "kind": "market",
-  "updated_at": "2026-11-08T02:07:16.622261+09:00",
+  "updated_at": "2026-11-08T03:03:03.034518+09:00",
   "status": {
-    "state": "ok",
-    "checked_at": "2026-11-08T02:07:16.622261+09:00",
-    "latest_article_at": "2026-11-08T02:01:03+09:00",
-    "articles": 24,
+    "state": "partial",
+    "checked_at": "2026-11-08T03:03:03.034518+09:00",
+    "latest_article_at": "2026-11-08T02:34:55+09:00",
+    "articles": 22,
     "sections": {
       "美国股市 / US Market": 8,
-      "日本株式市場 / Japan Market": 8,
+      "日本株式市場 / Japan Market": 6,
       "宏观经济与投资 / Macro & Investment": 8
     },
     "shortfalls": {},
-    "translations_missing": 0
+    "translations_missing": 3
   },
   "articles": [
     {
       "date": "2026.11.08",
-      "published_at": "2026-11-08T02:01:03+09:00",
-      "headline": "Apple Completes the Set: Every Magnificent Seven Stock Opts Out of OKX-ICE Venue",
-      "source": "Decrypt",
-      "url": "https://decrypt.co/382768/apple-meta-every-magnificent-seven-stock-opts-out-okx-ice-venue",
+      "published_at": "2026-11-08T02:34:55+09:00",
+      "headline": "4,295 Tesla, Inc. $TSLA Shares Bought by Tamar Securities LLC",
+      "source": "MarketBeat",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-4295-tesla-inc-tsla-shares-bought-by-tamar-securities-llc-2026-11-07/",
       "language": "English",
       "section": "美国股市 / US Market",
-      "summary": "Apple and Meta Platforms joined OKX-ICE's objection list in its November 5 notice, meaning all seven Magnificent Seven tech giants have now opted out of the planned tokenized stock venue. The list grew to 67 companies, though crypto-friendly firms like Coinbase, Robinhood, and Strategy are absent. Under the SEC's innovation exemption, a timely objection bars the venue from listing a third-party tokenized version of a company's stock. OKXICE TSV, a 50-50 joint venture between Intercontinental Exchange and OKX, plans to offer tokenized U. S. stocks 24/7 through permissioned pools on OKX's XLayer blockchain, using an outside tokenizer to hold real shares one-for-one. With the market's biggest names opted out, it remains unclear which major stocks the venue will offer at launch.",
-      "summary_zh": "苹果和Meta平台加入了OKX-ICE在11月5日通知中的反对名单，这意味着全部七家“七巨头”科技公司现在都已选择退出计划中的代币化股票交易场所。 反对名单扩大至67家公司，不过Coinbase、Robinhood和Strategy等加密友好公司并未出现。 根据美国证券交易委员会的创新 exemption，及时提出反对可阻止该交易场所上市公司股票的第三方代币化版本。 OKXICE TSV是纽交所所有者洲际交易所与OKX美国控股公司各占50%股份的合资企业，计划通过OKX的XLayer区块链上的受权限池全天候提供代币化的美国股票，并由外部代币化机构通过注册经纪交易商按一比一的比例持有真实股票。 随着市场最大的一些名字选择退出，该交易场所启动时能够提供哪些主流股票目前尚不清楚。"
+      "summary": "Tamar Securities LLC increased its stake in Tesla, Inc. by 7.1% in the third quarter, owning 64,935 shares valued at $23,040,000 as of its recent SEC filing, representing about 2.1% of its holdings. Other institutional investors also modified positions, with Legal & General Group, Bank of New York Mellon, Deutsche Bank, Canada Pension Plan Investment Board, and Mitsubishi UFJ Asset Management purchasing shares in the second quarter. Institutional investors own 66.20% of the stock. Wall Street brokerages updated their views on Tesla: JPMorgan raised its price target from $415.00 to $430.00 with a neutral rating on October 22nd; Wall Street Zen downgraded Tesla from hold to sell on October 24th; Roth Capital restated a buy rating with a $505.00 price objective on July 23rd; Barclays upgraded the stock from outperform to overweight, raising its target from $370.00 to $450.00 on October 26th; and BMO Capital Markets initiated coverage with an outperform rating on August 17th. MarketBeat data shows a consensus rating of Moderate Buy and a consensus target price of $414.51. News stories impacting Tesla included Elon Musk stating plans to wind down Cybertruck production at the Texas factory around mid-2027 for Cybercab robotaxis, an AI-accelerator roadmap, an EV sector rebound, and ongoing Cybertruck demand and execution challenges. In insider transactions, CFO Vaibhav Taneja sold 2,606 shares on September 8th at an average price of $360.13 for a total of $938,498.78 to cover tax obligations, leaving him with 25,972 shares valued at approximately $9,353,296.36, representing a 9.12% decrease in his ownership. Tesla stock traded up $14.53 during midday trading on Friday, reaching $358.22 with a volume of 36,597,110 shares.",
+      "summary_zh": "Tamar Securities LLC在第三季度将其对Tesla, Inc. 的持股比例提高了7.1%，根据其向美国证券交易委员会提交的最新Form 13F文件，该基金拥有64,935股该电动汽车制造商的股票，价值$23,040,000。 其他机构投资者也调整了持仓，Legal & General Group、纽约梅隆银行、德意志银行、加拿大退休金计划投资委员会和三菱UFJ资产管理公司在第二季度买入了特斯拉股份。 机构投资者持有该股票66.20%的份额。 华尔街券商对TSLA发表了看法：摩根大通于10月22日将特斯拉目标价从$415.00上调至$430.00并给予中性评级；Wall Street Zen于10月24日将特斯拉从持有评级下调至卖出评级；Roth Capital于7月23日重申买入评级并设定$505.00的目标价；巴克莱银行于10月26日将特斯拉从跑赢大盘评级上调至增持评级，目标价从$370.00上调至$450.00；BMO资本市场于8月17日开始对其进行追踪并给予跑赢大盘评级。 MarketBeat数据显示特斯拉目前的共识评级为中度买入，共识目标价为$414.51。 影响特斯拉的新闻包括埃隆·马斯克表示特斯拉计划在2027年年中左右逐步停止德州工厂的Cybertruck生产以腾出空间制造更多Cybercab无人驾驶出租车、新的AI加速器路线图、电动汽车板块的反弹以及Cybertruck的需求与执行挑战。 内部交易方面，CFO Vaibhav Taneja于9月8日以$360.13的平均价格售出2,606股特斯拉股票，总价值$938,498.78，以支付股权奖励归属相关的税收扣缴义务，交易完成后其直接持有25,972股，价值约$9,353,296.36。 特斯拉股价在周五盘中交易中上涨$14.53，达到$358.22，成交量为36,597,110股。"
     },
     {
       "date": "2026.11.08",
-      "published_at": "2026-11-08T01:09:51+09:00",
-      "headline": "Tesla, Inc. $TSLA Stock: Carmel Capital Partners LLC Reduces Holdings",
-      "source": "MarketBeat",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-tesla-inc-tsla-stock-carmel-capital-partners-llc-reduces-holdings-2026-11-07/",
+      "published_at": "2026-11-08T02:33:00+09:00",
+      "headline": "The S&P 500 Just Had Its Worst Week Since the April 2025 Tariff Crash",
+      "source": "24/7 Wall St.",
+      "url": "https://247wallst.com/investing/2026/11/07/the-sp-500-just-had-its-worst-week-since-the-april-2025-tariff-crash/",
       "language": "English",
       "section": "美国股市 / US Market",
-      "summary": "Carmel Capital Partners LLC decreased its position in Tesla, Inc. by 12.9% during the third quarter, owning 11,169 shares worth $3,963,000 after selling 1,653 shares. Tesla accounts for approximately 1.4% of the firm's portfolio. Several other large investors also adjusted their stakes, while 66.20% of the stock is currently owned by institutional investors and hedge funds. In company news, Elon Musk stated Tesla plans to wind down Cybertruck production at its Texas factory around mid-2027 to make room for Cybercab robotaxis. Wall Street analysts maintain various ratings, with a consensus rating of Moderate Buy and an average price target of $414.51. During mid-day trading on Friday, Tesla shares traded up $14.53 to reach $358.22 with a volume of 36,597,110 shares.",
-      "summary_zh": "Carmel Capital Partners LLC在第三季度将其在特斯拉公司的持股比例减少了12.9%，在售出1,653股后，持有11,169股这家电动汽车生产商的股票，价值3,963,000美元。 特斯拉约占该机构投资组合的1.4%。 其他几家大型投资者也调整了持股，目前该股票有66.20%由机构投资者和对冲基金持有。 在公司新闻方面，埃隆·马斯克表示特斯拉计划在2027年年中左右逐步停止其得克萨斯工厂的Cybertruck生产，以为更多的Cybercab无人驾驶出租车腾出空间。 华尔街分析师维持了不同的评级，共识评级为“中度买入”，平均目标价为414.51美元。 周五盘中交易中，特斯拉股价上涨14.53美元，达到358.22美元，交易量为36,597,110股。"
+      "summary": "The S&P 500 closed Friday, November 6, 2026, at 7,376.86, dropping 2.68% from 7,580.07 the previous week for its worst Friday-to-Friday performance since the week ending April 4, 2025, and marking its fourth consecutive weekly decline. The SPDR S&P 500 ETF Trust fell 2.7% from $755.72 to $735.29, with heavy selling concentrated on Thursday, November 5, when the index fell 4.36% following midterm results. The PHLX Semiconductor Index fell 12.15% from 10,688.80 to 9,390.25, the Technology Select Sector SPDR fell 7%, and the energy sector fund fell 11%, while the Dow fell just 0.94% to 51,285.73. The Invesco QQQ Trust fell 4.98% to $656.10, and NVIDIA made up 7.58% of the S&P 500 ETF Trust as of March 2026. Employers added 165,000 jobs in October, exceeding the expected 65,000, while September's gain was revised to 60,000 and unemployment fell to 4.1%, raising the probability of a December rate hike to 78% from 70%. October CPI data is scheduled for November 10 at 8:30 a. m. ET, and NVIDIA reports earnings on November 17. Strategists Keith Lerner of Truist Advisory Services and Adam Turnquist of LPL Financial commented that AI remains the primary bull market theme and the selloff resembles a knee-jerk reaction to the midterms.",
+      "summary_zh": "标普500指数在2026年11月6日周五收于7,376.86点，较前一周的7,580.07点下跌2.68%，创下自截至2025年4月4日当周以来的最大周跌幅，也是该指数连续第四周下跌。 State Street SPDR标普500 ETF信托基金下跌2.7%，从$755.72跌至$735.29，大部分跌幅出现在11月5日周四，当时中期选举结果引发AI股票的大量抛售，标普500指数下跌4.36%，创下自2025年4月崩盘以来的最大单日跌幅。 费城半导体指数下跌12.15%，从10,688.80点降至9,390.25点，科技精选行业SPDR基金下跌7%，能源行业基金下跌11%，而道琼斯指数仅下跌0.94%，至51,285.73点。 景顺QQQ信托基金下跌4.98%至$656.10，根据2026年3月的数据，英伟达占SPY基金的7.58%。 美国雇主在10月份增加165,000个工作岗位，远高于预期的65,000个，9月份的增幅修正为60,000个，失业率降至4.1%，交易员将12月加息的概率从70%提高到78%。 10月消费者价格指数定于美国东部时间11月10日上午8点30分发布，英伟达将于11月17日收盘后公布第三财季业绩。 Truist Advisory Services的首席投资官基思·勒纳表示人工智能仍是牛市的主题，LPL Financial的首席跨资产策略师亚当·特恩奎斯特将此次下跌称为对中期选举的本能反应。"
+    },
+    {
+      "date": "2026.11.08",
+      "published_at": "2026-11-08T02:09:08+09:00",
+      "headline": "Tesla, Inc. $TSLA Stock Position Decreased by Privium Fund Management B.V.",
+      "source": "MarketBeat",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-tesla-inc-tsla-stock-position-decreased-by-privium-fund-management-bv-2026-11-07/",
+      "language": "English",
+      "section": "美国股市 / US Market",
+      "summary": "Privium Fund Management B. V. reduced its Tesla, Inc. position by 1.3% in the third quarter, owning 225,000 shares valued at $79,832,000, which accounts for 15.2% of its portfolio and makes it the fund's largest holding. Other institutional investors adjusted holdings: Bamco Inc. NY increased its stake by 5.0% during the second quarter to 12,524,752 shares worth $5,267,911,000; One Plus One Wealth Management acquired a new position valued at $1,009,000; Bessemer Group lifted holdings by 23.6% in the first quarter to 56,240 shares valued at $20,908,000; H&H International Investment purchased a new position valued at $1,267,259,000; and MassMutual Private Wealth & Trust FSB boosted its stake by 12.4% in the third quarter to 43,600 shares worth $15,470,000. Institutional investors and hedge funds own 66.20% of the stock. Recent news highlights include Elon Musk's plan to phase out Cybertruck production at the Texas factory around mid-2027 for Cybercab robotaxis, an AI-accelerator roadmap, an EV sector rebound following a post-election selloff, and ongoing challenges regarding Cybertruck demand, delays, quality issues, and recalls. Wall Street brokerages provided various ratings: Wall Street Zen downgraded Tesla from hold to sell on October 24th; Yorkville Ives initiated coverage with an outperform rating and a $500.00 price objective on October 7th; Jefferies upgraded the stock from hold to buy on October 26th; Stifel Nicolaus set a $475.00 target price on October 22nd; and JPMorgan Chase lifted its target price from $415.00 to $430.00 with a neutral rating on October 22nd. The consensus rating on MarketBeat is Moderate Buy with a consensus price target of $414.51. Tesla stock traded up $14.53 on Friday, hitting $358.22 with 36,597,110 shares exchanged against an average volume of 36,353,072. The company has a debt-to-equity ratio of 0.09, current ratio of 1.74, quick ratio of 1.39, market capitalization of $1.42 trillion, price-to-earnings ratio of 393.65, price-to-earnings-growth ratio of 25.01, and a beta of 1.74.",
+      "summary_zh": "Privium Fund Management B. V. 在第三季度将其持有的Tesla, Inc. 股份减少了1.3%，持有225,000股，价值$79,832,000，占其投资组合的15.2%，为其最大持仓。 其他机构投资者调整了持股：Bamco Inc. NY在第二季度将其持股增加5.0%，达到12,524,752股，价值$5,267,911,000；One Plus One Wealth Management在第二季度收购了价值约$1,009,000的新头寸；Bessemer Group在第一季度将其持股增加23.6%，达到56,240股，价值$20,908,000；H&H International Investment在第一季度收购了价值约$1,267,259,000的新头寸；MassMutual Private Wealth & Trust FSB在第三季度将其持股增加12.4%，达到43,600股，价值$15,470,000。 目前66.20%的股票由对冲基金和其他机构投资者持有。 重要新闻包括埃隆·马斯克表示特斯拉计划在2027年年中左右逐步停止德州工厂的Cybertruck生产以为Cybercab无人驾驶出租车腾出空间、新的AI加速器路线图、大选后抛售后电动汽车板块的反弹以及Cybertruck面临的需求、延迟、质量问题和多次召回。 华尔街券商近期发表了评论：Wall Street Zen于10月24日将特斯拉从持有评级下调至卖出评级；Yorkville Ives于10月7日开始追踪并给出跑赢大盘评级及$500.00的目标价；杰富瑞金融集团于10月26日将特斯拉从持有评级上调至买入评级；Stifel Nicolaus于10月22日设定$475.00的目标价；摩根大通于10月22日将目标价从$415.00上调至$430.00并给出中性评级。 根据MarketBeat的数据，该股目前的共识评级为中度买入，共识目标价为$414.51。 特斯拉股票周五上涨$14.53，触及$358.22，成交量为36,597,110股，而平均成交量为36,353,072股。 该公司债务权益比为0.09，流动比率为1.74，速动比率为1.39，市值为$1.42 trillion，市盈率为393.65，市盈增长比率为25.01，贝塔值为1.74。"
+    },
+    {
+      "date": "2026.11.08",
+      "published_at": "2026-11-08T02:01:03+09:00",
+      "headline": "Apple Completes the Set: Every Magnificent Seven Stock Opts Out of OKX-ICE Venue",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/apple-completes-set-every-magnificent-170103142.html",
+      "language": "English",
+      "section": "美国股市 / US Market",
+      "summary": "All members of Wall Street's Magnificent Seven have opted out of OKX and ICE's planned tokenized stock venue, following an updated notice from OKXICE TSV dated Thursday that added Apple and Meta Platforms to the list of objecting issuers. They join Microsoft, Alphabet, Amazon, Nvidia, and Tesla, completing the group. Other new objectors include Home Depot, Boeing, GE Vernova, Palantir, ServiceNow, S&P Global, KLA, Super Micro Computer, and Nebius Group, raising the total number of objecting companies to 67. Apple was among the last megacaps to object, following Amazon, Tesla, and SpaceX on November 2, while the initial list appeared on October 15 with nine companies. Crypto-friendly public companies like Coinbase, Robinhood, and Strategy, as well as Berkshire Hathaway, Visa, and Exxon Mobil, do not appear on the list, and it remains unclear if OKXICE notified them. Under the SEC's innovation exemption introduced in September after the Clarity Act failed in the Senate, a venue must notify a company before offering third-party tokenized shares, and if the company objects in writing within 30 days, the venue cannot offer the stock for trading. The OKXICE TSV venue, a 50-50 joint venture between Intercontinental Exchange and OKX's U. S. holding company, plans to offer 24/7 tokenized U. S. stocks on OKX's XLayer blockchain using an outside tokenizer holding real shares through a registered broker-dealer, though launch offerings remain uncertain with major stocks opted out.",
+      "summary_zh": "华尔街“七大科技巨头”的所有成员现在都选择不参与OKX和洲际交易所计划中的代币化股票交易平台。 根据周四更新的OKXICE TSV通知，苹果和Meta Platforms被加入到反对发行人名单中，与微软、字母表、亚马逊、英伟达和特斯拉会合，完成了该科技巨头群体的全员退出。 其他新的反对者包括家得宝、波音、GE Vernova、帕兰提尔、ServiceNow、标普全球、KLA、超微电脑和Nebius Group，使反对OKX和ICE平台的公司总数达到67家。 苹果是最后一批加入反对名单的超大盘股之一，此前亚马逊、特斯拉和SpaceX在11月2日的通知中提出反对，而在10月15日首次出现反对者时名单上只有9家公司。 加密货币友好型上市公司如Coinbase、Robinhood和Strategy，以及伯克希尔哈撒韦、维萨和埃克森美孚并未出现在名单上，目前尚不清楚OKXICE是否通知了这些公司。 根据美国证券交易委员会在9月《清晰法案》在参议院未能推进后推出的创新豁免条例，交易所在提供由非关联第三方代币化的股票版本之前必须通知公司，如果公司在30天内以书面形式提出异议，交易所则不能提供该股票进行交易。 OKXICE TSV是洲际交易所与OKX美国控股公司各持股50%的合资企业，计划通过OKX的XLayer区块链上的权限池提供24/7全天候代币化美股，由外部代币化机构通过注册经纪商持有真实股票，但由于市场最大市值的公司纷纷选择退出，该平台在推出时能提供哪些主要股票尚不明确。"
     },
     {
       "date": "2026.11.08",
@@ -45,8 +67,8 @@
       "url": "https://247wallst.com/investing/2026/11/07/wall-street-may-have-lost-2-5-trillion-but-this-30-warning-could-be-an-even-bigger-problem-for-ai-stocks/",
       "language": "English",
       "section": "美国股市 / US Market",
-      "summary": "About 30% of the data-center capacity the U. S. plans to add in 2028 could be at risk due to delivery constraints, according to a UBS estimate reported by Reuters. This warning shifts the AI debate from demand to delivery, raising questions about whether power, transmission, construction labor, cooling, financing, and local approvals can arrive on schedule. For NVIDIA, whose fiscal second-quarter Data Center revenue reached $89.023 billion and supply obligations rose to $279.00 billion, some buildings meant to house chips exist only as plans. Broadcom CEO Hock Tan noted that land, power, and shell are major constraints. NVIDIA shares fell 21.4% over the past month to $186.64 on November 6. Analysts are split on revenue estimates for the fiscal year ending January 2028, ranging from $506.483 billion to $778.471 billion.",
-      "summary_zh": "根据路透社报道的瑞银估计，美国计划在2028年增加的数据中心容量中，约有30%可能因交付瓶颈而面临风险。 这一警告将人工智能的争论从需求转向了交付，引发了人们对电力、输电、建筑劳动力、冷却、融资以及本地审批能否按时到位的质疑。 对于Nvidia而言，其财年第二季度数据中心收入达到$89.023 billion，供应义务增至$279.00 billion，而一些旨在容纳芯片的建筑目前仅存在于规划中。 博通首席执行官Hock Tan指出，土地、电力和外壳是主要制约因素。 Nvidia股价在过去一个月内下跌了21.4%，于11月6日跌至186.64美元。 分析师对截至2028年1月的财年收入估计存在分歧，范围从$506.483 billion到$778.471 billion不等。"
+      "summary": "According to a UBS estimate reported by Reuters, about 30% of the data-center capacity the U. S. plans to add in 2028 could be at risk, raising concerns over whether infrastructure elements like power, transmission, construction labor, cooling, financing, and local approvals can keep pace with AI demands. NVIDIA's second-quarter fiscal 2027 Data Center revenue reached $89.023 billion, up 117% year over year, with management guiding third-quarter revenue to $108.0 billion plus or minus 2%. NVIDIA's supply obligations rose to $279.00 billion, largely tied to memory purchases for Vera Rubin production, while its guarantee obligations to AI cloud and data-center partners are capped at $108.5 billion. CFO Colette Kress noted the supply-constrained outlook, citing data-center availability, power, land, shell capacity, cooling, construction, and labor as pressure points, and Broadcom CEO Hock Tan highlighted land, power, and shell as major constraints. NVIDIA shares fell 21.4% over the past month from $237.47 on October 7 to $186.64 on November 6, leaving the stock up 0.31% for the year, while Broadcom fell 22%, Eaton fell 20.78%, and Constellation Energy fell 16.57%. Data-center landlords Equinix and Digital Realty held up better, declining 1.85% and 3.47%, respectively. NVIDIA's non-GAAP gross margin was 75.0% last quarter, with fourth-quarter guidance at 74.0% plus or minus 50 basis points and expected to bottom between 71% and 72% as memory prices rise.",
+      "summary_zh": "根据路透社报道的瑞银估计，美国计划在2028年增加的数据中心容量中，大约30%可能面临风险，这引发了人们对电力、输电、建筑劳动力、冷却、融资和地方审批等基础设施元素能否跟上人工智能需求的担忧。 英伟达2027财年第二季度的数据中心收入达到$89.023 billion，同比增长117%，管理层预计第三季度收入为$108.0 billion，上下浮动2%。 英伟达的供应义务增加到$279.00 billion，主要与Vera Rubin生产的内存采购相关，其对AI云和数据中心伙伴的担保义务上限为$108.5 billion。 首席财务官科莱特·克雷斯指出这是一个受供应限制的前景，并列出了数据中心可用性、电力、土地、外壳容量、冷却、建设和劳动力作为压力点，博通首席执行官陈福阳则更直接地指出土地、土地权、电力和外壳是主要制约因素。 英伟达股价在过去一个月内下跌了21.4%，从10月7日的$237.47跌至11月6日的$186.64，今年迄今涨幅仅为0.31%，同期博通下跌22%，伊顿下跌20.78%，星座能源下跌16.57%。 数据中心业主Equinix和Digital Realty表现较好，分别下跌1.85%和3.47%。 英伟达上一季度的非美国通用会计准则毛利率为75.0%，第四季度指引为74.0%加减50个基点，随着内存价格攀升，预计毛利率将在第四季度触底于71%至72%的区间。"
     },
     {
       "date": "2026.11.08",
@@ -56,19 +78,8 @@
       "url": "https://www.tradingview.com/news/seekingalpha:edfeba763094b:0-notable-tech-headlines-for-the-week-amd-qualcomm-and-lumentum-in-focus/?mobileapp_new=true",
       "language": "English",
       "section": "美国股市 / US Market",
-      "summary": "Qualcomm shares plunged after its smartphone chip revenue tumbled 26% in the fourth quarter as rising memory prices weighed on handset demand, resulting in adjusted earnings of $2.17 per share and total revenue of $10.44B for the period ending September 27. Marvell Technology disclosed its intent to acquire Lumentum in an all-stock deal valuing Lumentum at an enterprise value of $115B, or roughly $1,132 per share, after both CEOs consulted Nvidia CEO Jensen Huang. AMD closed nearly 4% higher in extended trading on Tuesday after reporting third-quarter results and guidance that topped Wall Street forecasts, alongside a third-quarter charge of more than $1B tied to performance-based stock warrants issued to OpenAI and Meta Platforms. Micron Technology suspended plans for a Taiwan memory chip plant amid a labor dispute and dropped over 17% on Thursday.",
-      "summary_zh": "高通股价在第四季度智能手机芯片收入暴跌26%后暴跌，原因是不断上涨的内存价格对手机需求造成了压力，导致截至9月27日的季度调整后每股收益为2.17美元，总收入为10.44B美元。 Marvell Technology披露了拟通过全股票交易收购Lumentum的意向，对Lumentum的企业估值为115B美元，或约每股1,132美元，此前两家公司的首席执行官均咨询了Nvidia首席执行官黄仁勋的意见。 AMD在周二盘后交易中收盘上涨近4%，此前该公司公布的第三季度业绩和指引超出了华尔街的预测，同时由于向OpenAI和Meta平台发行的基于绩效的认股权证，产生了超过1B美元的第三季度费用。 美光科技在劳资纠纷中暂停了台湾内存芯片工厂的计划，并在周四下跌超过17%。"
-    },
-    {
-      "date": "2026.11.07",
-      "published_at": "2026-11-07T23:04:00+09:00",
-      "headline": "Nvidia Is Worth $1.3 Trillion Less After Its 5th Straight Losing Week",
-      "source": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/2026/11/07/nvidia-is-worth-1-3-trillion-less-after-its-5th-straight-losing-week/",
-      "language": "English",
-      "section": "美国股市 / US Market",
-      "summary": "Nvidia rose 2.81% on Friday, November 6, 2026, closing at $186.71 after a $5.11 gain, but still suffered its fifth straight losing week and a weekly drop of 8.76%, erasing about $433 billion. The stock sits 21.96% below its record close of $239.24 on October 6, 2026, translating to an estimated market value loss of about $1.27 trillion based on 24.15 billion shares outstanding. Global markets and data editor Jared Blikre attributed the drop to Democrats winning both chambers of Congress after candidates in both parties ran against AI data centers. The PHLX Semiconductor Index fell 12.15% for the week, closing 35.84% below its June 22, 2026 record. Nvidia reports fiscal third-quarter 2027 results on November 17, needing revenue at or above its $108.0 billion plus or minus 2% guidance to break the run.",
-      "summary_zh": "Nvidia在2026年11月6日星期五上涨2.81%，在上涨5.11美元后收于186.71美元，但仍遭遇了连续第五周下跌，周跌幅达8.76%，蒸发了约4330亿美元市值。 该股票比2026年10月6日创纪录的239.24美元收盘价低21.96%，按241.5亿股流通股计算，估计市值损失约$1.27 trillion。 全球市场和数据编辑Jared Blikre将此次下跌归因于两党候选人反对人工智能数据中心后，民主党赢得了国会两院。 费城半导体指数本周下跌12.15%，收盘价比2026年6月22日的纪录低35.84%。 Nvidia将于11月17日公布2027财年第三季度业绩，需要收入达到或超过$108.0 billion加减2%的指引才能打破下跌趋势。"
+      "summary": "Notable tech headlines for the week: AMD, Qualcomm and Lumentum in focus The tech sector remained in the spotlight this week amid a persistent sell-off from investors and earnings reports from companies including Qualcomm and AMD. The tech-focused Nasdaq Composite Index COMP closed in the green on Friday, leading a recovery from its worst day in more than a year.",
+      "summary_zh": ""
     },
     {
       "date": "2026.11.07",
@@ -78,30 +89,19 @@
       "url": "https://www.investors.com/research/best-stocks-seven-magnificent-stocks-earnings-growth/",
       "language": "English",
       "section": "美国股市 / US Market",
-      "summary": "Amid post-midterm stock market volatility, equity analysts highlight Amazon. com, Autodesk, and Eli Lilly as top stocks for magnificent profit growth prospects, noting that Lilly leads the pharmaceutical sector.",
-      "summary_zh": "在期中选举后的股市波动中，股票分析师指出亚马逊、欧特克和礼来公司是具有卓越利润增长前景的顶级股票，并指出礼来在制药行业处于领先地位。"
+      "summary": "As the stock market goes through post-midterms volatility, it's important to watch the stocks that are holding up and are most loved by equity analysts. They may end up becoming the next big opportunities. Amazon. com (AMZN), Autodesk (ADSK) and Eli Lilly (LLY) are three of the seven best stocks where investors can find magnificent profit growth prospects. Lilly Leads Pharma… Copyright ©2026 Investor's Business Daily, LLC. All rights reserved. 87990cbe856818d5eddac44c7b1cdeb8",
+      "summary_zh": ""
     },
     {
       "date": "2026.11.07",
-      "published_at": "2026-11-07T19:23:54+09:00",
-      "headline": "Bitmine Immersion Technologies (BMNR) Resumed Buybacks, Is The Stock Cheap?",
-      "source": "Simply Wall St",
-      "url": "https://simplywall.st/stocks/us/software/nyse-bmnr/bitmine-immersion-technologies/news/bitmine-immersion-technologies-bmnr-resumed-buybacks-is-the",
+      "published_at": "2026-11-07T21:31:00+09:00",
+      "headline": "U.S. Stock Market Rebounds $700B in 20 Minutes: What’s Next?",
+      "source": "The Coin Republic",
+      "url": "https://www.thecoinrepublic.com/2026/11/07/u-s-stock-market-rebounds-700b-in-20-minutes-whats-next/",
       "language": "English",
       "section": "美国股市 / US Market",
-      "summary": "Bitmine Immersion Technologies has restarted its share repurchase program after a 10-week pause while its Ethereum supply efforts slow. Trading at a latest price of $18.76, the stock has dropped 23.93% over 30 days and 39.85% year-to-date, contrasting with a 46.61% three-year return but a 53.35% one-year decline. The company trades at a 1x P/B ratio below software sector averages, reports net losses, relies on high-risk borrowing, and carries an analyst price target of $45.87, alongside a DCF model cash flow valuation of $0.01 per share.",
-      "summary_zh": "在通往以太坊供应目标的推进速度开始放缓之际，Bitmine Immersion Technologies在暂停10周后重新启动了股份回购计划。 该股最新收盘价为$18.76，30天内股价回报率下跌23.93%，年初至今股价回报率下跌39.85%，这与46.61%的三年总股东回报率形成对比，但一年总股东回报率则下降了53.35%。 该公司市净率为1倍，低于软件行业平均水平，报告净亏损，依赖高风险借款，分析师目标价为$45.87，而现金流模型估值为每股$0.01。"
-    },
-    {
-      "date": "2026.11.07",
-      "published_at": "2026-11-07T19:08:02+09:00",
-      "headline": "Palantir Stock Investors Just Got Great News From a Wall Street Analyst (Hint: The Stock Could Soar)",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/palantir-stock-investors-just-got-100802677.html",
-      "language": "English",
-      "section": "美国股市 / US Market",
-      "summary": "Palantir Technologies has experienced significant share price appreciation and revenue growth acceleration for 13 consecutive quarters amid the artificial intelligence boom. In late October, JPMorgan Chase analyst Brian Essex initiated coverage with a buy rating and a $262 price target, representing a 63% upside from $160. Palantir develops analytics platforms and an integrated artificial intelligence platform called AIP, which utilizes an ontology-based software to unify data and automate business processes for government and commercial clients.",
-      "summary_zh": "在人工智能热潮中，Palantir Technologies实现了显著的股价上涨，并且营收增长连续13个季度加速。 10月下旬，摩根大通分析师布莱恩·埃塞克斯首次给予该公司覆盖评级，评级为买入，目标价为每股$262，较$160的当前股价隐含63%的上涨空间。 Palantir开发分析平台以及名为AIP的集成人工智能平台，该平台采用基于本体的软件来统一数据，并为政府和商业客户自动化业务流程。"
+      "summary": "Key Insights - U. S. stock market advanced as semiconductor shares led the market rebound. - Lam Research led the heatmap, rising 9.74% among listed stocks. - Bitcoin fell 0.96%, while Zcash gained 8.35% in crypto markets. U. S. stocks recovered on Friday, Nov. 6, as semiconductor companies rebounded from Thursday’s sharp sell-off. Advanced Micro Devices (AMD) gained 11.04%, while Lam Research rose 8.23%.",
+      "summary_zh": ""
     },
     {
       "date": "2026.11.08",
@@ -111,19 +111,8 @@
       "url": "https://diamond.jp/zai/articles/-/1074902",
       "language": "Japanese",
       "section": "日本株式市場 / Japan Market",
-      "summary": "ダイヤモンド・オンラインが、楽天証券のNISA口座（成長投資枠）における2026年11月時点の日本株および国内ETF／ETNの買付金額・保有残高ランキングを発表した。 2026年10月1日から10月31日までの集計データを基に、大企業や高配当株、また貴金属関連銘柄の動向などを紹介しており、投資家が銘柄選定を行う際の参考資料として毎月更新されている。",
-      "summary_zh": "钻石在线公布了乐天证券NISA账户（成长投资枠）在2026年11月的日本股票及国内ETF/ETN买入金额与持有余额排行榜。 该排名基于2026年10月1日至10月31日期间统计的数据，介绍了大型企业、高股息股票以及贵金属相关股票的走势，每月更新一次，可作为投资者选择投资品种时的参考资料。"
-    },
-    {
-      "date": "2026.11.07",
-      "published_at": "2026-11-07T20:35:00+09:00",
-      "headline": "ソニー、PS Plus特典を展開もYouTube Premium体験版は大半の会員が対象外に",
-      "source": "BigGo ファイナンス",
-      "url": "https://finance.biggo.jp/news/2ddfbbee-6088-4738-89ba-f407110304ad",
-      "language": "Japanese",
-      "section": "日本株式市場 / Japan Market",
-      "summary": "ソニーはPlayStation Plus会員向けに新たなパートナー特典を発表したが、3カ月間のYouTube Premium体験版は過去に利用や購読をしたことのある会員が対象外となり、既存会員の大半が除外されることで批判を招いている。 特典の発表対象はドイツ、フランス、英国の会員で、コミュニティからはマーケティング手法への懸念や価格引き下げを求める声が上がっている。 一方、9月のPS Plusの月間アクティブユーザー数は前年同期比7%増の1億2700万アカウントと過去最高を記録した。",
-      "summary_zh": "索尼面向PlayStation Plus会员公布了一系列合作伙伴福利，但其中作为重头戏的3个月YouTube Premium体验版规定，凡是过去曾订阅或使用过该体验版的人一概不符合条件，导致绝大部分现有会员被排除在外，引发了批评。 此次福利面向德国、法国和英国的会员公布，社区对这种营销手段表示担忧并要求降低订阅费。 另一方面，9月份PS Plus的月度活跃用户数达到1亿2700万个账号，同比增加7%，创下历史新高。"
+      "summary": "楽天証券は2026年11月、2026年10月1日から2026年10月31日までの集計期間に基づくNISA口座（成長投資枠）の日本株および国内ETF／ETNの買付金額・保有残高ランキングを発表した。 日本株のランキングでは大企業が並び、保有残高の上位には高配当株が多く含まれている。 国内ETF／ETNでは、「NEXT FUNDS 日経平均高配当株50指数連動型上場投信」が買付金額と保有残高の1位となり、貴金属価格の上昇を背景に「純金上場信託（現物国内保管型）」や「iシェアーズ ゴールド ETF」などの貴金属関連銘柄が順位を上げている。",
+      "summary_zh": "乐天证券于2026年11月公布了基于2026年10月1日至2026年10月31日统计期间的NISA账户（成长投资额度）日本股票及国内ETF／ETN的买入金额与持仓余额排行榜。 在日本股票排行榜中大企业云集，持仓余额上位者多为高股息股票。 在国内ETF／ETN方面，“NEXT FUNDS 日经平均高配当株50指数连动型上场投信”在买入金额和持仓余额均位居第一，以贵金属价格上涨为背景，“纯金上场信托（现物国内保管型）”和“iシェアーズ ゴールド ETF”等贵金属相关品种排名有所上升。"
     },
     {
       "date": "2026.11.07",
@@ -133,8 +122,8 @@
       "url": "https://bloomo.co.jp/learn/library/article/youtube_20261106/",
       "language": "Japanese",
       "section": "日本株式市場 / Japan Market",
-      "summary": "ブルーモ証券株式会社が金融商品取引法に基づく表示事項、リスク・手数料相当額、および免責事項等を公表した。 証券取引における価格変動リスクや元本損失の可能性に言及し、本資料は投資判断の参考情報の提供を目的とし投資勧誘を目的としたものではないこと、また掲載内容の正確性や完全性を保証せず、利用に伴う損害について同社は一切責任を負わないとしている。",
-      "summary_zh": "Blumo证券股份有限公司公布了基于金融商品交易法的公示事项、风险与手续费等相关说明以及免责声明。 文中提及了证券交易中的价格变动风险及本金损失的可能性，并指出本资料旨在提供投资决策参考信息而非进行投资劝诱，同时不对所载内容的准确性或完整性作任何保证，该公司对因使用资料而产生的任何损失概不负责。"
+      "summary": "ブルーモ証券株式会社は、金融商品取引法に基づく表示事項として、商号、加入協会、リスク・手数料相当額、および免責事項等を公表している。 証券取引には価格変動リスク、信用リスク、為替変動リスク、カントリーリスクが存在し、元本損失が生じる可能性があるため、取引にあたってはリスクと手数料を十分に理解し、自身の判断と責任で行うよう求めている。 また、提供する資料は投資判断の参考情報の提供を目的としたものであり、情報の正確性や完全性を保証するものではなく、投資の結果生じた損害に対して同社は一切の責任を負わないとしている。",
+      "summary_zh": "蓝色证券株式会社作为基于金融商品取引法的公示事项，公布了商号、加入协会、风险与手续费相当额以及免责声明等内容。 证券交易存在价格变动风险、信用风险、汇率变动风险及国家风险，并可能导致本金损失，因此要求在交易时充分理解风险与手续费，并根据自己的判断与责任进行交易。 此外，所提供的资料旨在为投资决策提供参考信息，并不保证信息的准确性或完整性，该公司对因投资结果而产生的任何损害不承担任何责任。"
     },
     {
       "date": "2026.11.07",
@@ -144,8 +133,8 @@
       "url": "https://car.watch.impress.co.jp/docs/news/2154605.html",
       "language": "Japanese",
       "section": "日本株式市場 / Japan Market",
-      "summary": "トヨタ自動車は2027年3月期第2四半期決算会見にて、将来ビジョンや事業構造改革の進捗を説明し、アジアやグローバルサウス地域に向けた新たなマルチパスウェイプラットフォームの導入を発表した。 AセグメントからCセグメントまでの車種を1つの車台でカバーし、多様なパワートレインを実現して量を束ねることで原価競争力の引き上げを図る。 宮崎洋一副社長は、初期の収益性の厳しさを認めつつも中国での経験を織り込み、モデル投入後も継続的に原価改善を進める体質を取り戻したいと述べた。",
-      "summary_zh": "丰田汽车在2027年3月期第二季度财报发布会上说明了未来愿景与业务结构改革的进展，并宣布将面向亚洲及全球南方地区引入全新的多路径平台。 该平台用一个底盘覆盖从A级到C级的车型，实现多样化的动力总成并通过汇聚生产规模来提升成本竞争力。 副总经理宫崎洋一承认初期盈利状况将较为严峻，但表示将融入中国市场的经验，并恢复在车型投放后也能持续推进成本改善的体质。"
+      "summary": "トヨタ自動車は2026年11月5日に2027年3月期第2四半期決算を発表し、代表取締役副社長の宮崎洋一氏が将来ビジョンや事業構造改革の進捗を説明した。 アジア・グローバルサウス地域に向けて、A、B、Cセグメントを1つのプラットフォームでカバーする新たなマルチパスウェイプラットフォーム（Innovative Multi-pathway Vehicle）を投入する。 この車台はバッテリーEV、PHEV、ハイブリッド車、ICE、CN燃料車を1つの車台で実現し、多くの数を束ねて生産することで圧倒的な原価競争力を目指す方針である。 宮崎副社長は、当初の収益や価格競争力の確保が最大の課題であるとしつつ、中国での学びを織り込み、導入後も着実に原価改善を進める体質を取り戻すためチャレンジすると述べた。",
+      "summary_zh": "丰田汽车于2026年11月5日发布了2027年3月期第二季度财报，代表取締役副社长江崎洋一说明了未来愿景及业务结构改革的进展。 面向亚洲及全球南方地区，丰田将投入以一个平台覆盖A、B、C细分市场的新型多路径平台（Innovative Multi-pathway Vehicle）。 该底盘在单一车身上实现电池EV、PHEV、混合动力车、ICE以及CN燃料车，通过集中大量生产来追求压倒性的成本竞争力。 宫崎副社长表示，最初的收益和价格竞争力的确保是最大课题，但将融入在中国学到的经验，为了恢复在车型投入后也能持续推进成本改善的体质而进行挑战。"
     },
     {
       "date": "2026.11.07",
@@ -155,19 +144,8 @@
       "url": "https://finance.yahoo.co.jp/news/detail/9a9ec60cace1987dfbc2449a0c1398fd8a9958d6",
       "language": "Japanese",
       "section": "日本株式市場 / Japan Market",
-      "summary": "株探ニュースが10月30日から11月5日までに発表された東証プライム上場企業の決算に基づく「プラス・インパクト銘柄」の上昇率ランキングを発表した。 前日終値を基準として6日大引けまでの株価変化率を算出したもので、ハリマ化成グループが上昇率29.95%で首位となり、ストライクグループやHENNGEなどが続いたほか、トヨタやソニーグループ、三菱商事なども上位にランクインした。",
-      "summary_zh": "株探新闻公布了根据10月30日至11月5日发布的东证Prime上市公司财报得出的“正向影响个股”涨幅排行榜。 该榜单以财报发布前一日收盘价为基准计算了截至6日收盘时的股价变动率，其中ハリマ化成集团以29.95%的涨幅居首，ストライク集团和HENNGE等紧随其后，丰田、索尼集团以及三菱商事等也进入了前列。"
-    },
-    {
-      "date": "2026.11.07",
-      "published_at": "2026-11-07T18:35:00+09:00",
-      "headline": "ソフトバンクGとABB、中国事業分離で買収救済を模索 54億ドル案件",
-      "source": "BigGo ファイナンス",
-      "url": "https://finance.biggo.jp/news/713dfec5-40ca-45d0-b80f-b4dfa1b0ca68",
-      "language": "Japanese",
-      "section": "日本株式市場 / Japan Market",
-      "summary": "ソフトバンクグループとスイスのABBが、約54億ドル規模のABBの産業用ロボット事業買収計画において、中国事業を分離する案を検討していることが明らかになった。 中国当局が取引を阻止したことを受けた動きであり、中国部門を独立した事業体として切り離すことで規制上の懸念を解消し、残りの事業をソフトバンクグループに売却できるか模索している。 中国当局はロボット関連データがオープンAIのAI開発に利用されることへの懸念などから中国事業の買収を禁止したと報じられている。 協議は初期段階であり、ABBは別の買い手への売却や分社化も含めた代替案も検討している。",
-      "summary_zh": "软银集团与瑞士ABB正探讨在约54亿美元的ABB工业机器人业务收购计划中剥离中国业务的方案。 此举是为了应对中国监管机构此前阻止该交易的决定，双方试图将中国部门作为独立实体剥离以消除监管顾虑，并将剩余业务出售给软银。 据报道，中国当局禁止收购的原因涉及机器人相关数据可能被用于OpenAI人工智能开发的担忧。 相关磋商仍处于初期阶段，ABB也在考虑向其他买家出售或分社化等替代方案。"
+      "summary": "株探ニュースは、東証プライム上場銘柄を対象に、直近の決算発表を受け止めて株価が上昇した銘柄のランキングを発表した。 10月30日から11月5日までに決算を発表した企業を対象としており、決算発表前日の終値を基準とした6日大引け時点の株価変化率である上昇率の大きい順に、ハリマ化成グループ、ストライク、HENNGEなどが上位にランクインしている。 トヨタ、ソニーグループ、三菱商事なども決算プラス・インパクト銘柄として上昇率が掲載されている。",
+      "summary_zh": "株探新闻针对东证Prime上市板块，公布了因近期财报发布而股价上涨的股票排行榜。 对象为10月30日至11月5日期间发布财报的企业，以财报发布前一日收盘价为基准计算的6日收盘时股价变化率即涨幅从大到小排序，播磨化成集团、Strike、HENNGE等名列前茅。 丰田、索尼集团、三菱商事等作为财报正向影响股票也列入了涨幅榜中。"
     },
     {
       "date": "2026.11.07",
@@ -177,8 +155,8 @@
       "url": "https://tokyonewsmedia.com/archives/30093",
       "language": "Japanese",
       "section": "日本株式市場 / Japan Market",
-      "summary": "ソニーグループは11月5日、2027年3月期の連結業績予想を上方修正し、純利益を従来の1兆2100億円から1兆3300億円に引き上げた。 映画のヒットに加え、ゲームや音楽事業も好調に推移しており、売上高と営業利益の予想も上積みし、いずれも過去最高を更新する見通しである。 売上高予想は13兆円に増額し、営業利益は1兆8700億円へ引き上げた。 映画「スパイダーマン」シリーズの新作ヒットが映画事業を支えたほか、ゲームソフトの販売増加や音楽配信の好調が業績を押し上げた。 同時に公表した2026年9月中間連結決算では、売上高が前年同期比9.4％増の6兆2672億円、純利益が38.8％増の7917億円となった。",
-      "summary_zh": "索尼集团于11月5日上调了2027年3月期的合并业绩预期，将纯利润从原先的1兆2100亿日元上调至1兆3300亿日元。 受益于电影热映以及游戏和音乐业务的良好表现，销售额和营业利润预期均被上调，预计两者皆将创下历史新高。 销售额预期增至13兆亿日元，营业利润提升至1兆8700亿日元。 电影《蜘蛛侠》系列新作的热映支撑了电影业务，同时游戏软件销量增加与音乐播放表现良好也推高了业绩。 同日公布的2026年9月中期合并财报显示，销售额较上年同期增长9.4%至6兆2672亿日元，纯利润增长38.8%至7917亿日元。"
+      "summary": "ソニーグループは2027年3月期の連結業績予想を修正し、純利益を従来の1兆2100億円から1兆3300億円へ引き上げた。 映画のヒットに加え、ゲームソフトの販売増加や音楽配信の好調が寄与し、売上高予想を従来の12兆5000億円から13兆円へ、営業利益予想を1兆7200億円から1兆8700億円へそれぞれ増額し、いずれも過去最高を更新する見通しである。 同時に公表した2026年9月中間連結決算では、売上高が前年同期比9.4％増の6兆2672億円、純利益が38.8％増の7917億円となった。 最高財務責任者（CFO）の陶琳氏は、長年投資してきたエンターテインメント事業から毎年大ヒット作品が生まれるようになってきたと説明し、今後は作品などの知的財産の多角的な展開が次の成長の焦点になるとの認識を示した。",
+      "summary_zh": "索尼集团修正了2027年3月期的合并业绩预期，将净利润从原先的1万2100亿日元上调至1万3300亿日元。 在电影热映的带动下，加上游戏软件销量增加以及音乐流媒体表现良好，销售额预期从原先的12万5000亿日元上调至13万亿日元，营业利润预期从1万7200亿日元上调至1万8700亿日元，各项数据均有望刷新历史最高纪录。 同时公布的2026年9月中期合并财报显示，销售额同比增长9.4%至6兆2672亿日元，净利润同比增长38.8%至7917亿日元。 首席财务官（CFO）陶琳解释称，多年投资的娱乐业务开始每年诞生超级热门作品，并表示今后如何多角化拓展作品等知识产权将是下一个增长的焦点。"
     },
     {
       "date": "2026.11.07",
@@ -188,8 +166,8 @@
       "url": "https://www.nomura.co.jp/wealthstyle/article/0930/",
       "language": "Japanese",
       "section": "日本株式市場 / Japan Market",
-      "summary": "2026年11月5日の東京株式市場の日経平均株価は4日続落し、終値は前日比1,110.73円安の61,077.90円と、5月20日以来約5ヶ月半ぶりの安値を付けた。 11月3日の米国中間選挙で共和党が敗北し民主党が大勝した結果を受け、AI規制や防衛、再エネなどの分野における今後の政策や市場への影響が注目されている。 野村證券の岡崎康平チーフ・マーケット・エコノミストは、AI規制強化が新規参入を難しくすることで既存のハイパースケーラーに相対的有利をもたらす可能性がある一方、防衛や再エネ関連銘柄への影響や、議会で議席を伸ばした民主党とトランプ政権との財政政策を巡る動向について解説している。",
-      "summary_zh": "2026年11月5日，东京股市日经平均指数连续第四日下跌，收盘较前一日下跌1,110.73日元至61,077.90日元，创下5月20日以来约五个半月的新低。 鉴于11月3日美国中期选举中共和党落败、民主党大胜的结果，市场正密切关注其对人工智能监管、国防及可再生能源等领域的政策及市场影响。 野村证券首席市场经济学家冈崎康平指出，人工智能监管的收紧可能通过增加新进入者的难度而为现有的超大规模企业带来相对优势，并对国防与可再生能源相关板块的影响以及在国会增加席位的民主党与特朗普政府在财政政策方面的动向进行了分析。"
+      "summary": "2026年11月5日の東京株式市場で日経平均株価は4日続落し、前日比1,110.73円安の61,077.90円と、5月20日以来約5ヶ月半ぶりの安値を付けました。 米国の中間選挙では共和党が敗北し民主党が大勝した結果となり、AI規制などのテーマや財政政策、防衛・再エネ銘柄への影響が注目されています。 野村證券チーフ・マーケット・エコノミストの岡崎康平氏は、AI規制強化が新規参入を困難にするため既存のハイパースケーラーには相対的に有利に働く一方、装置産業には逆風となると指摘しています。 また、米国の防衛予算拡張のハードルが上がることで同盟国の防衛費負担増大につながる可能性や、民主党の大勝によりトランプ政権の活動可能領域が狭まり外交等に専念する「レームダック」期間に入る可能性などが解説されています。",
+      "summary_zh": "2026年11月5日东京股市日股日經平均指数下跌，收盘较前一日下跌1,110.73日元至61,077.90日元，创下5月20日以来约5个月半以来的最低点。 美国中期选举中共和党败选、民主党大胜，市场正密切关注人工智能监管、财政政策及国防和可再生能源股票等主题受到的影响。 野村证券首席市场经济学家冈崎康平指出，人工智能监管的收紧使新进入者门槛提高，对现有超大规模企业相对有利，但对设备产业可能是逆风。 此外，美国国防预算扩张门槛的提高可能导致盟国增加国防开支负担，而民主党的大胜缩小了特朗普政府的活动空间，使其可能专注于外交等事务并进入“跛脚鸭”时期。"
     },
     {
       "date": "2026.11.08",
@@ -199,74 +177,8 @@
       "url": "https://cryptoticker.io/en/crypto-fear-and-greed-index-extreme-fear-history/",
       "language": "English",
       "section": "宏观经济与投资 / Macro & Investment",
-      "summary": "Crypto Fear and Greed Index sits at 28, placing it in the fear zone just above the extreme fear threshold of 24, following a recent market sell-off. The index aggregates volatility, trading volume, social media activity, Bitcoin dominance, and Google search trends into a score from 0 to 100, acting as a measure of crowd sentiment rather than a direct price forecast. Historical episodes show that buying during periods of extreme fear has outperformed buying during greed over a six to twelve month horizon, though the index can remain depressed for weeks or months before a definitive market bottom forms.",
-      "summary_zh": "加密货币恐慌与贪婪指数在近期市场抛售后来到28，处于恐慌区间，略高于24的极度恐慌分界线。 该指数将波动性、交易量、社交媒体活动、比特币主导率和谷歌搜索趋势综合为0到100的分数，反映的是大众情绪而非价格预测。 历史事件表明，在极度恐慌期间买入在六到十二个月的期限内表现优于在贪婪时期买入，尽管在形成确定的市场底部之前，该指数可能会在数周或数月内保持低迷。"
-    },
-    {
-      "date": "2026.11.08",
-      "published_at": "2026-11-08T00:52:12+09:00",
-      "headline": "Robert Kiyosaki: Rich Dad Poor Dad and Bitcoin Predictions",
-      "source": "CryptoTicker.io",
-      "url": "https://cryptoticker.io/en/robert-kiyosaki-rich-dad-bitcoin-predictions/",
-      "language": "English",
-      "section": "宏观经济与投资 / Macro & Investment",
-      "summary": "Robert Kiyosaki, author of the bestselling personal finance book \"Rich Dad Poor Dad\", is a prominent advocate of Bitcoin, gold, and silver who has frequently predicted major market crashes and high price targets. Born in 1947 in Hilo, Hawaii, Kiyosaki self-published \"Rich Dad Poor Dad\" in April 1997, which has since sold more than 44 million copies. His investment philosophy centers on acquiring income-generating assets, avoiding liabilities such as one's own home, and rejecting fiat currency in favor of what he considers real money like precious metals and Bitcoin.",
-      "summary_zh": "罗伯特·清崎是畅销个人理财书籍《富爸爸穷爸爸》的作者，也是比特币、黄金和白银的知名倡导者，曾多次预测重大市场崩盘并给出高昂的价格目标。 清崎于1947年出生在夏威夷希洛，于1997年4月自费出版了《富爸爸穷爸爸》，该书此后售出了超过4400万册。 他的投资理念以获取产生收入的资产、避免诸如自住房等负债，以及拒绝法定货币并青睐他所认为的贵金属和比特币等真实货币为中心。"
-    },
-    {
-      "date": "2026.11.07",
-      "published_at": "2026-11-07T23:45:00+09:00",
-      "headline": "GOP Rout Dims the Policy Tailwind Behind Crypto(Nov. 7, 2026 | Column)",
-      "source": "Iolite（アイオライト）",
-      "url": "https://iolite.net/en/opinion/kasou-nishi/crypto-weekly-market-analysis-kasou-nishi-20261107",
-      "language": "English",
-      "section": "宏观经济与投资 / Macro & Investment",
-      "summary": "Following the U. S. midterm elections where Democrats won majorities in the House and Senate, Bitcoin surged before tumbling toward the end of the week. Falling U. S. crude oil futures and lower interest rates initially lifted the crypto market on hopes of looser financial conditions. However, the Democratic victory also sparked fears of tighter regulation, including potential legislation to expand U. S. Securities and Exchange Commission powers and scrutiny of President Donald Trump's businesses. Additional downward pressure came after on-chain data showed Trump Media & Technology Group moved about 4,259 BTC to Crypto. com, alongside a sharp fall in U. S. tech stocks and illicit funds moved from a French bank through crypto exchanges.",
-      "summary_zh": "在民主党赢得美国众议院和参议院多数席位的美国中期选举之后，比特币先是飙升，随后在周末前下挫。 美国原油期货下跌以及利率走降曾因宽松金融环境的预期提振了加密货币市场。 然而，民主党获胜也引发了对监管收紧的担忧，包括可能立法扩大美国证券交易委员会权力以及对唐纳德·特朗普相关业务的审查。 链上数据显示特朗普媒体与科技集团将约4,259枚BTC转移至Crypto. com，加剧了抛售担忧；同时美国科技股大幅下跌，且有资金从法国银行非法转移通过加密交易所，这些因素共同将市场推向了周末的抛售潮。"
-    },
-    {
-      "date": "2026.11.07",
-      "published_at": "2026-11-07T18:06:04+09:00",
-      "headline": "Daily Financial Breakfast 6 November 2026: BoE Lifts Rate to 4%; Fed's Williams Judges Inflation Too High",
-      "source": "www.tmgm.com",
-      "url": "https://www.tmgm.com/en-eu/analysis/market-insight/morning-brief-2026-11-05",
-      "language": "English",
-      "section": "宏观经济与投资 / Macro & Investment",
-      "summary": "Dow Jones futures stood near 51,170 after dropping 0.85% in early European trading on Friday, while S&P 500 futures rose 0.06% to around 7,390 and Nasdaq 100 futures gained 0.90% to around 26,990. EUR/USD fell 0.4% to 1.1170, and AUD/USD traded near 0.6910. The Bank of England raised Bank Rate by 25 basis points to 4.00%, backed by eight policymakers, while Catherine Mann voted for 50 basis points. The Bank's November projection placed inflation around 5% in the second quarter of 2027 and returning to 2% no earlier than the third quarter of 2028, with Governor Andrew Bailey noting further rises could not be ruled out. Revised forecasts projected GDP growth of 1.6% in 2026, 1.3% in 2027, and 1.2% in 2028. New York Fed President John Williams stated inflation was too high and must return to 2%, while initial U. S. jobless claims fell to 189,000. ECB Chief Economist Philip Lane emphasized limiting spillovers, and eurozone producer prices in September were 11.1% higher year-on-year. The Bank of Mexico unexpectedly cut its policy rate by 25 basis points to 6.50%.",
-      "summary_zh": "周五欧洲早盘，道琼斯指数期货下跌0.85%后报于51,170左右，标普500指数期货上涨0.06%至约7,390，纳斯达克100指数期货上涨0.90%至约26,990。 欧元兑美元下跌0.4%至1.1170，澳元兑美元交投于0.6910附近。 英国央行将基准利率上调25个基点至4.00%，获得八位决策者支持，凯瑟琳·曼恩则投票支持上调50个基点。 英国央行11月报告预计2027年第二季度通胀率在5%左右，且不早于2028年第三季度回到2%的目标，行长安德鲁·贝利指出不排除进一步加息。 修正后的预测显示2026年GDP增长1.6%，2027年增长1.3%，2028年增长1.2%。 纽约联邦储备银行行长约翰·威廉姆斯表示通胀过高必须回到2%，同时美国初请失业金人数降至189,000。 欧洲央行首席经济学家菲利普·莱恩强调限制溢出效应，9月欧元区生产者价格较上年同期上涨11.1%。 墨西哥央行则意外将政策利率下调25个基点至6.50%。"
-    },
-    {
-      "date": "2026.11.07",
-      "published_at": "2026-11-07T15:35:00+09:00",
-      "headline": "US October CPI Expected Up 0.3% Month-on-Month; A Week That Will Shape the Fed's Rate Decision",
-      "source": "BigGo Finance",
-      "url": "https://finance.biggo.com/news/9e1d0a9b-b32c-4bf1-b265-11480691d264",
-      "language": "English",
-      "section": "宏观经济与投资 / Macro & Investment",
-      "summary": "From November 9 to 13, indicators from Japan, the US, and Europe will be released, with the US October Consumer Price Index from the Bureau of Labor Statistics on the 10th drawing attention for its potential impact on the Fed's December rate decision. The October CPI is expected to rise 0.3% month-on-month, with core CPI up 0.2%, while year-on-year figures will not be published due to missing sampling survey data from last year's US government shutdown. In the UK, preliminary July-September GDP on the 12th is expected to show 0.7% quarter-on-quarter growth following the Bank of England's rate hike to 4.00%. In Japan, the October Corporate Goods Price Index on the 12th is expected to rise 0.2% month-on-month and 6.5% year-on-year, while the Bank of Japan's October 29-30 meeting minutes will be published on the 10th. In China, October CPI and PPI will be released on the 9th, with CPI expected to rise 0.8% year-on-year and PPI up 5.4%. Turkey's central bank will publish its quarterly inflation report on the 12th following a 29.77% year-on-year October CPI rise.",
-      "summary_zh": "11月9日至13日期间，日本、美国和欧洲将陆续发布一系列指标，其中美国劳工统计局将于10日公布的10月消费者物价指数因可能左右美联储12月利率决定而备受瞩目。 市场预期10月CPI环比上升0.3%，核心CPI上升0.2%，由于去年美国政府停工导致采样调查缺失，本次将不发布同比数据。 英国方面，12日将公布7至9月初步GDP，预计在英国央行加息至4.00%后环比增长0.7%。 日本方面，12日将公布10月企业商品价格指数，预计环比上升0.2%、同比上升6.5%，日本央行10月29至30日货币政策会议主要意见将于10日公布。 中国将于9日发布10月CPI和PPI，预期CPI同比上涨0.8%、PPI上涨5.4%。 土耳其央行将在12日发布季度通货膨胀报告，此前其10月CPI同比上涨29.77%。"
-    },
-    {
-      "date": "2026.11.07",
-      "published_at": "2026-11-07T04:42:05+09:00",
-      "headline": "Dollar jumps after strong US payrolls report",
-      "source": "Yahoo",
-      "url": "https://malaysia.news.yahoo.com/dollar-lures-bids-safety-ai-043349016.html",
-      "language": "English",
-      "section": "宏观经济与投资 / Macro & Investment",
-      "summary": "The US dollar index surged 0.77% to 102.26 on Friday, heading for its biggest daily gain in nearly five months, after the Labor Department reported nonfarm payrolls jumped by 165,000 jobs in October and the unemployment rate dipped to 4.1%. The stronger-than-expected data pushed CME FedWatch Tool expectations for a December rate hike of at least 25 basis points back toward 80%. The euro tumbled 0.67% to $1.11437, the pound dropped 0.71% to $1.3355, and the Japanese yen weakened to 158.430. The dollar's rise followed a volatile period where S&P 500 equities wiped out about $3 trillion in market value due to fears that tougher government regulations on AI development after the US midterm elections would stunt economic growth. Lawmakers and aides noted Democrats plan new legislation targeting AI systems and data-center development when taking control of Congress in January. Meanwhile, Federal Reserve officials including John Williams, Alberto Musalem, and Mary Daly addressed ongoing inflation concerns.",
-      "summary_zh": "美国劳工部报告显示10月非农就业人口大幅增加165,000个且失业率降至4.1%后，美元指数于周五飙升0.77%至102.26，创下近五个月来的最大单日百分比涨幅。 这份超预期的报告将CME美联储观察工具对12月至少加息25个基点的市场预期推回至80%左右。 欧元下跌0.67%至$1.11437，英镑下跌0.71%至$1.3355，日元走弱至158.430。 在此之前，由于担心美国中期选举后对人工智能发展的更严厉政府监管会阻碍经济增长，标普500指数股票曾抹去了约$3 trillion市值。 议员与国会助手指出，民主党人在1月接管国会时计划推出针对人工智能系统和数据中心开发的新立法。 与此同时，美联储官员约翰·威廉姆斯、阿尔贝托·穆萨莱姆和玛丽·戴利均就持续存在的通胀担忧发表了看法。"
-    },
-    {
-      "date": "2026.11.07",
-      "published_at": "2026-11-07T02:47:07+09:00",
-      "headline": "Gold: Cautious optimism amid consolidation – OCBC",
-      "source": "www.tmgm.com",
-      "url": "https://www.tmgm.com/eng/analysis/market-news/article/gold-consolidation-with-cautious-optimism-ocbc-202611060913",
-      "language": "English",
-      "section": "宏观经济与投资 / Macro & Investment",
-      "summary": "Gold reached a two-week high above 4140 before paring gains, with OCBC's Christopher Wong anticipating consolidation amid recovering oil prices and a more stable U. S. dollar. Softer U. S. Treasury yields and gold's resilience during the equity sell-off supported safe-haven demand, though broader deleveraging poses risks as key U. S. data approaches. Wong identified immediate resistance at 4146 and 4190/97, and support at 4065/75, 3960/80, and 3870. The market awaited the U. S. payrolls report and upcoming U. S. CPI data, while oil prices remained a key driver of inflation and rate expectations.",
-      "summary_zh": "黄金一度触及4140上方两周高位后回吐涨幅，华侨银行的Christopher Wong预计，在油价复苏和美元趋稳的背景下，黄金将进入盘整期。 美债收益率走软以及黄金在股市抛售期间表现出的韧性支撑了避险需求，不过随着关键美国数据临近，更广泛的去杠杆化仍构成风险。 Wong指出即时阻力位在4146和4190/97，支撑位在4065/75、3960/80和3870。 市场正等待美国非农就业报告及即将发布的美国CPI数据，而油价依然是通胀和利率预期的重要驱动因素。"
+      "summary": "Following Friday's sell-off, the Crypto Fear and Greed Index dropped to 28, placing it in the fear zone just above the extreme fear line of 24. The index compiles volatility, trading volume, social media activity, Bitcoin dominance, and Google search trends into a score from 0 to 100. Past extreme fear episodes, such as during March 2020, November 2022, August 2024, March 2025, February 2026, and June 2026, show that buying extreme fear has historically outperformed buying greed over a six to twelve month horizon, though the market bottom is rarely marked by the first extreme fear reading alone. Currently, with over a billion dollars in leveraged positions wiped out on Friday, a reading of 28 reflects a washed out rather than capitulated market, and a drop into the low 20s combined with forced selling would be required to signal the kind of panic that preceded past strong rebounds.",
+      "summary_zh": "在周五的抛售之后，加密货币恐慌与贪婪指数降至28，处于恐慌区间，略高于24的“极度恐慌”线。 该指数将波动性、交易量、社交媒体活动、比特币主导地位和谷歌搜索趋势综合为0到100的分数。 过去如2020年3月、2022年11月、2024年8月、2025年3月、2026年2月和2026年6月等极度恐慌时期的历史数据表明，在六到十二个月的期限内，购买极度恐慌的表现一直优于购买贪婪，尽管市场底部很少仅由第一次极度恐慌读数标志。 目前，随着周五超过10亿美元的杠杆头寸被清算，28的读数反映出市场情绪已被洗清而非彻底投降，需要跌入20年代初并结合强迫卖出，才能发出类似过去强劲反弹前的恐慌信号。"
     },
     {
       "date": "2026.11.08",
@@ -276,8 +188,74 @@
       "url": "https://cryptoticker.io/en/copper-price/",
       "language": "English",
       "section": "宏观经济与投资 / Macro & Investment",
-      "summary": "At the weekly close on Friday, November 6, 2026, at 10:59 p. m. German time, the copper price on the COMEX futures exchange in New York stood at $6.24 per pound, which equals $13,752 or 12,342 euros per tonne, and around 12.34 euros per kilogram. This level is 8.3 percent below the record close of $14,999 per tonne reached on September 9, 2026, and 10.8 percent higher than at the start of the year. On the London Metal Exchange, the cash price on November 6, 2026, was $13,955 per tonne with a three-month price of $13,780. The International Copper Study Group expects a surplus of 104,000 tonnes for 2026, while LME stocks have more than doubled since January. Historical milestones include a low of $1.94 per pound in January 2016 and $2.12 in March 2020, followed by waves of growth driven by the world economy in 2021, power grids in 2024, and US tariff disputes in 2025 and 2026. On July 8, 2025, US President Donald Trump announced a 50 percent tariff on copper, causing a 13.3 percent single-day jump, followed by a 22.3 percent loss on July 31 when refined copper was exempted. Four primary factors determine the price: demand from China, which accounts for 59 percent of consumption, power grids, data centres, and tariffs.",
-      "summary_zh": "在2026年11月6日星期五德国时间晚上10点59分的每周收盘时，纽约COMEX期货交易所的铜价为每磅$6.24美元，折合每吨$13,752美元或12,342欧元，每公斤约为12.34欧元。 这一价格比2026年9月9日创下的每吨$14,999美元的最高收盘纪录低8.3%，比今年年初水平高10.8%。 在伦敦金属交易所，2026年11月6日的现货价格为每吨$13,955美元，三个月期货价格为$13,780美元。 国际铜业研究小组预计2026年将出现104,000吨的过剩，同时LME库存自1月以来增加了一倍多。 历史价格走势包括2016年1月COMEX每磅$1.94美元的短暂低点以及2020年3月新冠疫情恐慌时的$2.12美元低点，随后在2021年世界经济复苏、2024年电网建设押注以及2025和2026年美国关税争端的推动下呈波浪式上涨。 2025年7月8日，美国总统唐纳德·特朗普宣布对铜征收50%的关税，导致COMEX价格在单日内跃升13.3%；随着精炼铜被豁免关税，纽约溢价崩盘，7月31日出现了至少2000年以来最大的单日跌幅22.3%。 决定铜价的四个因素包括：占消费量59%的中国需求、电网、数据中心以及关税。"
+      "summary": "At the weekly close on Friday, November 6, 2026, the copper price on the COMEX futures exchange stood at $6.24 per pound, which converts to $13,752 or 12,342 euros per tonne, and around 12.34 euros per kilogram. This level is 8.3 percent below the record close of $14,999 per tonne reached on September 9, 2026, and 10.8 percent above its level at the start of the year. The London Metal Exchange cash price on November 6, 2026, was $13,955 per tonne with a three-month price of $13,780. The International Copper Study Group expects a surplus of 104,000 tonnes for 2026, and LME stocks have more than doubled since January. The price is driven by factors including demand from China, which accounts for 59 percent, as well as power grids, data centres, and US tariffs, such as the July 2025 tariff announcement by US President Donald Trump that caused severe single-day price swings.",
+      "summary_zh": "在2026年11月6日星期五的周收盘时，纽约商品交易所COMEX期货交易所的铜价为每磅6.24美元，折合每吨13,752美元或12,342欧元，每公斤约12.34欧元。 这一水平比2026年9月9日创下的每吨14,999美元的纪录收盘价低8.3%，比今年年初高出10.8%。 2026年11月6日伦敦金属交易所的现货价格为每吨13,955美元，三个月价格为13,780美元。 国际铜业研究组织预计2026年将出现104,000吨的过剩，且LME库存自1月以来已经翻了一番多。 铜价受中国需求（占59%）、电网、数据中心以及美国关税等因素驱动，例如美国总统唐纳德·特朗普在2025年7月宣布的关税曾导致单日价格剧烈波动。"
+    },
+    {
+      "date": "2026.11.07",
+      "published_at": "2026-11-07T21:06:56+09:00",
+      "headline": "Bitcoin Today: Bitcoin Steadies at 75,882.5 After a Week of $1 Billion Liquidations",
+      "source": "JournalArta",
+      "url": "https://journalarta.com/en/2026/11/07/bitcoin-today-bitcoin-steadies-at-75882-5-after-a-week-of-1-billion-liquidations/",
+      "language": "English",
+      "section": "宏观经济与投资 / Macro & Investment",
+      "summary": "Bitcoin edged up 0.19% to 75,882.51 on Saturday after a week in which more than $1 billion in leveraged crypto positions was liquidated. Ethereum rose 0.29% to 2,241.90, while Solana slipped 0.21% to 89.87. The sell-off was driven by crypto falling alongside technology stocks due to an AI and chip rout on Wall Street, combined with net outflows from US spot Bitcoin exchange-traded funds. While Wall Street stabilized on Friday with the Nasdaq rising 1.09% and the S&P 500 gaining 0.32%, crypto traded on thin weekend liquidity without replicating the equity rebound. Traders are looking to Asian markets opening on Monday, spot Bitcoin ETF flows, and upcoming corporate earnings reports including Constellation Energy on November 9, The Trade Desk and Take-Two Interactive on the same day, and Applied Materials and Cisco on November 12, to see if sentiment and chip results will steer crypto direction.",
+      "summary_zh": "周六，比特币小幅上涨0.19%至75,882.51，此前一周有超过10亿美元的加密货币杠杆头寸被清算。 以太坊上涨0.29%至2,241.90，而索拉纳下跌0.21%至89.87。 此次抛售是由华尔街人工智能和芯片板块暴跌导致加密货币随科技股下跌，以及美国现货比特币交易所交易基金出现净流出共同驱动的。 尽管华尔街周五趋于稳定，纳斯达克指数上涨1.09%，标普500指数上涨0.32%，但加密货币在周末的薄弱流动性下交易，并未复制股市的反弹。 交易员正关注周一亚洲市场的开盘、现货比特币ETF的资金流向，以及包括11月9日星座能源、The Trade Desk和Take-Two Interactive，以及11月12日应用材料和思科在内的即将发布的财报，以观察市场情绪和芯片业绩是否会引导加密货币的方向。"
+    },
+    {
+      "date": "2026.11.07",
+      "published_at": "2026-11-07T18:06:04+09:00",
+      "headline": "Daily Financial Breakfast 6 November 2026: BoE Lifts Rate to 4%; Fed's Williams Judges Inflation Too High",
+      "source": "www.tmgm.com",
+      "url": "https://www.tmgm.com/en-eu/analysis/market-insight/morning-brief-2026-11-05",
+      "language": "English",
+      "section": "宏观经济与投资 / Macro & Investment",
+      "summary": "On Thursday, the Bank of England raised its Bank Rate by 25 basis points to 4.00%, with eight policymakers supporting the move and Catherine Mann voting for 50 basis points, citing persistent inflationary pressures. The November Monetary Policy Report projects inflation at roughly 5% in the second quarter of 2027 and a return to the 2% target no earlier than the third quarter of 2028, with Governor Andrew Bailey warning that an adverse energy shock could push inflation to 6.2%. The Bank projects GDP growth of 1.6% in 2026, 1.3% in 2027, and 1.2% in 2028. Meanwhile, New York Fed President John Williams stated on Friday that US inflation has been too high for too long and needs to return to 2%, while describing the US economy as resilient with a stable labor market. Additionally, the Bank of Mexico cut its policy rate by 25 basis points to 6.50%, defying expectations of a hold.",
+      "summary_zh": "周四，英国央行将其基准利率上调25个基点至4.00%，八位决策者支持此举，凯瑟琳·曼恩则投票支持50个基点，理由是持续存在的通胀压力。 11月货币政策报告预测，2027年第二季度通胀率约为5%，最早在2028年第三季度恢复至2%的目标，行长安德鲁·贝利警告称，不利的能源冲击可能会将通胀推高至6.2%。 英国央行预计2026年GDP增长1.6%，2027年增长1.3%，2028年增长1.2%。 与此同时，纽约联储主席约翰·威廉姆斯周五表示，美国通胀长期过高，需要回到2%，并形容美国经济具有韧性且劳动力市场稳定。 此外，墨西哥央行将其政策利率下调25个基点至6.50%，打破了维持利率不变的预期。"
+    },
+    {
+      "date": "2026.11.07",
+      "published_at": "2026-11-07T13:45:39+09:00",
+      "headline": "Dollar Gains on US Economic Strength and Hawkish Fed",
+      "source": "TradingView",
+      "url": "https://www.tradingview.com/news/barchart:bbfdbfe83094b:0-dollar-gains-on-us-economic-strength-and-hawkish-fed/",
+      "language": "English",
+      "section": "宏观经济与投资 / Macro & Investment",
+      "summary": "The US dollar index rallied by +0.71% to a 1-week high, driven by a stronger-than-expected October payroll report that showed 165,000 jobs added and an unemployment rate decline to 4.1%. Additional support came from a rise in the University of Michigan November consumer sentiment index to 51.0 and hawkish remarks from Federal Reserve officials. New York Fed President Williams stated that inflation is absolutely too high, while San Francisco Fed President Mary Daly indicated a necessity to tighten monetary policy further. Markets priced in a 78% chance of a +25 bp rate hike at the upcoming FOMC meeting. Meanwhile, Japanese government bond yields fell, weakening the yen, and December COMEX gold dropped -38.60 to close down -0.94% due to pressure from a stronger dollar and rising stock recovery.",
+      "summary_zh": "美元指数上涨+0.71%至一周高位，主要受到强于预期的10月非农就业报告推动，该报告显示新增就业165,000个，失业率意外降至4.1%。 密歇根大学11月美国消费者信心指数上升至51.0，以及美联储官员的鹰派言论也为美元提供了支撑。 纽约联储主席威廉姆斯表示通胀绝对过高，旧金山联储主席玛丽·戴利表示预计需要进一步收紧货币政策。 市场目前定价联邦公开市场委员会在12月会议上加息+25个基点的概率为78%。 同时，日本国债收益率下降导致日元走弱，而12月COMEX黄金下跌-38.60收跌-0.94%，受到强势美元和股市回升的压力。"
+    },
+    {
+      "date": "2026.11.07",
+      "published_at": "2026-11-07T10:21:45+09:00",
+      "headline": "Stock Market Today : AI Stocks Rebound After Brutal Nasdaq Selloff, Oil prices Fall",
+      "source": "Eurasia Business News",
+      "url": "https://eurasiabusinessnews.com/2026/11/07/stock-market-today-ai-stocks-rebound-after-brutal-nasdaq-selloff/",
+      "language": "English",
+      "section": "宏观经济与投资 / Macro & Investment",
+      "summary": "Wall Street ended mixed on Friday as artificial intelligence stocks recovered following a historic selloff that had erased approximately $2.5 trillion from Nasdaq-listed companies' market value. The Nasdaq Composite gained 1.1% and the S&P 500 rose 0.3%, while the Dow Jones Industrial Average fell 0.5% as a stronger-than-expected jobs report pushed Treasury yields higher. For the week, the Nasdaq dropped 3.4%, the S&P 500 fell 2.7%, and the Dow declined 0.9%. Thursday's rout was fueled by anxiety over the sustainability of AI infrastructure spending and expectations of tighter data-center regulations. On Friday, the Philadelphia Semiconductor Index rebounded 4.2%. Concurrently, the Bureau of Labor Statistics reported that US employers added 165,000 jobs in October, exceeding expectations and lowering the unemployment rate to 4.1%, keeping a December interest-rate increase in view.",
+      "summary_zh": "华尔街股市周五收盘涨跌互现，人工智能相关股票在经历了此前抹去纳斯达克上市公司约$2.5 trillion市值历史性抛售后有所反弹。 纳斯达克综合指数上涨1.1%，标普500指数上涨0.3%，而道琼斯工业平均指数下跌0.5%，因强于预期的就业报告推高了国债收益率。 纵观全周，纳斯达克下跌3.4%，标普500下跌2.7%，道琼斯下跌0.9%。 周四的暴跌是由对AI基础设施支出可持续性的担忧以及对收紧数据中心监管的预期所引发的。 周五费城半导体指数反弹4.2%。 与此同时，美国劳工统计局报告称，美国10月雇主新增165,000个工作岗位，超出了预期并将失业率降至4.1%，这使12月加息预期依然存在。"
+    },
+    {
+      "date": "2026.11.07",
+      "published_at": "2026-11-07T04:42:05+09:00",
+      "headline": "Dollar jumps after strong US payrolls report",
+      "source": "Yahoo",
+      "url": "https://malaysia.news.yahoo.com/dollar-lures-bids-safety-ai-043349016.html",
+      "language": "English",
+      "section": "宏观经济与投资 / Macro & Investment",
+      "summary": "The US dollar index surged 0.77% to 102.26 on Friday, poised for its biggest daily percentage gain in nearly five months, after the Labor Department reported nonfarm payrolls jumped by 165,000 jobs last month and the unemployment rate dipped to 4.1%. The report solidified expectations for a Federal Reserve rate hike, with market pricing for a December increase moving back toward 80%. The euro tumbled 0.67% to $1.11437. The previous day's market drop was driven by fears that new regulations on AI development would stunt growth as Democrats prepare new legislation. Federal Reserve officials, including New York Fed President John Williams, St. Louis Fed President Alberto Musalem, and San Francisco Fed President Mary Daly, emphasized that inflation remains too high, supporting the case for further monetary tightening. In Japan, Prime Minister Sanae Takaichi planned to use Bank of Japan ETF sales proceeds to finance investment projects, while the yen weakened.",
+      "summary_zh": "美元指数周五飙升0.77%至102.26，有望创下近五个月来最大单日百分比涨幅。 此前美国劳工部报告称上个月非农就业人数跃升165,000人，失业率降至4.1%。 该报告巩固了美联储加息的预期，市场对12月加息的定价回升至接近80%。 欧元暴跌0.67%至$1.11437。 前一天的市场大跌是由民主党准备推出针对人工智能开发的新立法、市场担忧监管将阻碍经济增长所驱动的。 美联储官员包括纽约联储主席约翰·威廉姆斯、圣路易斯联储主席阿尔贝托·穆萨勒姆以及旧金山联储主席玛丽·戴利均强调通胀仍然过高，支持进一步收紧货币政策。 在日本，首相高市早苗计划利用日本央行的ETF出售收益来资助投资项目，同时日元走弱。"
+    },
+    {
+      "date": "2026.11.07",
+      "published_at": "2026-11-07T04:12:41+09:00",
+      "headline": "Gold dives below $4,100 as blowout NFP underpins Fed hike odds",
+      "source": "www.tmgm.com",
+      "url": "https://www.tmgm.com/en/analysis/market-news/article/gold-dives-below-4-100-as-blowout-nfp-underpins-fed-hike-odds-202611061839",
+      "language": "English",
+      "section": "宏观经济与投资 / Macro & Investment",
+      "summary": "Gold prices retreated on Friday, falling nearly 1% to trade at $4,060 after peaking at $4,106, as a blowout US employment report crushed forecasts and raised expectations that the Federal Reserve will hike rates in December. October nonfarm payrolls reached 165,000, surpassing the 65,000 forecast, and September figures were revised upward to 60,000, bringing the unemployment rate down to 4.1%. The University of Michigan's November Consumer Sentiment Index edged up to 51 from 48 in October. The US Dollar Index rose 0.62% above the 102.00 threshold, while 10-year Treasury yields stood at 4.840%. St. Louis Fed President Alberto Musalem noted ongoing inflation concerns driven by energy shocks and the AI buildout. Meanwhile, geopolitical tensions persisted with continued Houthi attacks on Saudi Arabia and ongoing US-Iran negotiations.",
+      "summary_zh": "黄金价格周五回落，从4,106美元的高点下跌近1%至4,060美元交易，因为一份远超预测的美国就业报告提升了美联储在12月加息的预期。 10月非农就业人口达到165,000人，超过了65,000人的预期，9月的数据也被向上修正至60,000人，失业率降至4.1%。 密歇根大学11月消费者信心指数从10月的48小幅上升至51。 美元指数上涨0.62%突破102.00关口，10年期美国国债收益率报4.840%。 圣路易斯联储主席阿尔贝托·穆萨勒姆指出，由能源冲击和人工智能建设驱动的通胀担忧依然存在。 同时，地缘政治紧张局势持续，胡塞武装对沙特阿拉伯发动了持续袭击，美国与伊朗的谈判也在进行中。"
     }
   ]
 }
