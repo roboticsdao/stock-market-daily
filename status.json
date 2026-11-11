@@ -1,13 +1,13 @@
 {
-  "state": "partial",
-  "checked_at": "2026-11-12T03:58:26.012089+09:00",
-  "latest_article_at": "2026-11-12T03:15:42+09:00",
-  "articles": 24,
+  "state": "ok",
+  "checked_at": "2026-11-12T05:12:30.813970+09:00",
+  "latest_article_at": "2026-11-12T05:01:13+09:00",
+  "articles": 23,
   "sections": {
     "美国股市 / US Market": 8,
-    "日本株式市場 / Japan Market": 8,
+    "日本株式市場 / Japan Market": 7,
     "宏观经济与投资 / Macro & Investment": 8
   },
   "shortfalls": {},
-  "translations_missing": 8
+  "translations_missing": 0
 }
