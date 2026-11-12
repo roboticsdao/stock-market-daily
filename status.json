@@ -1,7 +1,7 @@
 {
   "state": "partial",
-  "checked_at": "2026-11-13T04:16:45.637598+09:00",
-  "latest_article_at": "2026-11-13T03:29:27+09:00",
+  "checked_at": "2026-11-13T05:50:04.798424+09:00",
+  "latest_article_at": "2026-11-13T05:43:59+09:00",
   "articles": 24,
   "sections": {
     "美国股市 / US Market": 8,
@@ -9,5 +9,5 @@
     "宏观经济与投资 / Macro & Investment": 8
   },
   "shortfalls": {},
-  "translations_missing": 20
+  "translations_missing": 5
 }
