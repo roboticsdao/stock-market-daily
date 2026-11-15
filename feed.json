@@ -1,20 +1,42 @@
 {
   "kind": "market",
-  "updated_at": "2026-11-15T03:57:50.389443+09:00",
+  "updated_at": "2026-11-15T11:27:06.190356+09:00",
   "status": {
     "state": "ok",
-    "checked_at": "2026-11-15T03:57:50.389443+09:00",
-    "latest_article_at": "2026-11-15T02:04:00+09:00",
-    "articles": 23,
+    "checked_at": "2026-11-15T11:27:06.190356+09:00",
+    "latest_article_at": "2026-11-15T11:08:45+09:00",
+    "articles": 22,
     "sections": {
       "美国股市 / US Market": 8,
-      "日本株式市場 / Japan Market": 7,
-      "宏观经济与投资 / Macro & Investment": 8
+      "日本株式市場 / Japan Market": 8,
+      "宏观经济与投资 / Macro & Investment": 6
     },
     "shortfalls": {},
     "translations_missing": 0
   },
   "articles": [
+    {
+      "date": "2026.11.15",
+      "published_at": "2026-11-15T09:30:52+09:00",
+      "headline": "3 Founder Led Stocks To Own In November 2026",
+      "source": "Simply Wall St",
+      "url": "https://simplywall.st/stocks/us/automobiles/nasdaq-tsla/tesla/news/3-founder-led-stocks-to-own-in-november-2026-1/amp",
+      "language": "English",
+      "section": "美国股市 / US Market",
+      "summary": "Jensen Huang's sudden resignation from Nvidia highlighted the significant influence founders hold over businesses, prompting a look at three founder-led stocks. Tesla, with a market cap of US$1.6t, is driven by Elon Musk and his pursuit of ambitions like AI, robotaxis, humanoid robotics, and battery storage, generating about US$91.3b from Automotive and US$12.3b from Energy Generation and Storage. Spotify Technology, valued at US$123b, remains steered by Daniel Ek in product decisions, generating roughly €16.9b from Premium subscriptions and €1.9b from Ad-Supported services, while seeing early Audiobooks+ traction above $100 million in annual recurring revenue. Super Micro Computer, with a US$17.8b market cap, brings Charles Liang's leadership to AI infrastructure, generating about US$54.0b from high-performance server solutions as global AI adoption drives ongoing demand.",
+      "summary_zh": "英伟达创始人杰森·黄的突然辞职凸显了创始人对企业的深远影响，这也引发了对三只创始人主导股票的关注。 特斯拉市值达US$1.6t，在埃隆·马斯克的带领下涉足人工智能、自动机器人出租车、人形机器人和电池存储等领域，汽车业务创收约US$91.3b，能源生成与存储业务创收US$12.3b。 Spotify Technology市值达US$123b，由丹尼尔· Ek继续掌舵产品策略，其高级订阅服务创收约€16.9b，广告支持服务创收€1.9b，且Audiobooks+的早期经常性年收入表现突破了$100 million。 超微电脑市值达US$17.8b，其将梁见后的长期领导力带入人工智能硬件领域，高性能服务器解决方案创收约US$54.0b，随着全球人工智能采纳率加速推进，企业持续产生需求。"
+    },
+    {
+      "date": "2026.11.15",
+      "published_at": "2026-11-15T08:18:54+09:00",
+      "headline": "Wall Street shakes following swings for Nvidia and oil prices but recovers most of its early losses",
+      "source": "VernonReporter",
+      "url": "https://vernonreporter.com/wall-street-shakes-following-swings-for-nvidia-and-oil-prices-but-recovers-most-of-its-early-losses/",
+      "language": "English",
+      "section": "美国股市 / US Market",
+      "summary": "The U. S. stock market steadied on Thursday, November 12, 2026, after absorbing swings in Nvidia's stock and oil prices. The S&P 500 dipped 0.3%, the Dow Jones Industrial Average dropped 88 points or 0.2%, and the Nasdaq composite fell 0.5%. Nvidia shares plunged 14% at the opening following the resignation of CEO Jensen Huang amid a board investigation concerning a relationship with a woman suspected of being a Chinese government agent. CFO Colette Kress was named interim CEO. Other AI industry stocks also experienced uncertainty, with CoreWeave falling 8.2% and Micron Technology sinking 2.1%, while Broadcom rose 5.2% and Advanced Micro Devices added 5.9%. Meanwhile, oil prices climbed as President Donald Trump stated he is no longer interested in a deal with Iran, with Brent crude rising 3.3% to $95.82 per barrel. The 10-year Treasury yield climbed to 5.10% from 4.98%, heightening inflation worries and impacting the housing market.",
+      "summary_zh": "在经历英伟达股价和油价的大幅波动后，美国股市在2026年11月12日星期四趋于稳定。 标普500指数下跌0.3%，道琼斯工业平均指数下跌88点或0.2%，纳斯达克综合指数下跌0.5%。 在董事会对其与一名被怀疑是中国政府特工的女性的关系展开调查之际，首席执行官杰森·黄宣布辞职，受此影响英伟达股价开盘暴跌14%。 首席财务官科莱特·克雷斯被任命为临时首席执行官。 其他人工智能行业股票也出现波动，CoreWeave下跌8.2%，美光科技下跌2.1%，而博通上涨5.2%，超威半导体上涨5.9%。 与此同时，随着美国总统唐纳德·特朗普表示不再对与伊朗达成协议感兴趣，油价随之攀升，布伦特原油价格上涨3.3%至每桶$95.82。 10年期国债收益率从4.98%攀升至5.10%，加剧了通胀担忧并对房地产市场产生了影响。"
+    },
     {
       "date": "2026.11.15",
       "published_at": "2026-11-15T01:48:51+09:00",
@@ -23,30 +45,8 @@
       "url": "https://shattered.io/apple-leads-magnificent-seven-30-5-percent-gain-aapl/",
       "language": "English",
       "section": "美国股市 / US Market",
-      "summary": "Apple emerged as the top-performing Magnificent Seven stock of 2026, recording a 30.5% gain through the November 12 close according to one calculation, with shares moving from $271.86 on December 31, 2025 to $354.88. Different sources and tables reported returns of 26.8%, about 29%, and 30.5% due to varying measurement dates, though all agreed on Apple holding the leading position. Amazon ranked second with a 15.9% gain, moving from $230.82 to $267.44, while Microsoft gained 8.1% and four other members of the group declined. The divergence highlights a shift from the Magnificent Seven moving together as a single AI trade into distinct winners and losers.",
-      "summary_zh": "苹果公司成为2026年表现最佳的“七巨头”股票，根据某项计算，截至11月12日收盘，其股价从2025年12月31日的$271.86上涨至$354.88，涨幅达30.5%。 由于测量日期不同，各来源和表格记录的涨幅分别为26.8%、约29%和30.5%，但均一致确认苹果排名第一。 亚马逊以15.9%的涨幅位居第二，股价从$230.82上涨至$267.44，微软上涨8.1%，“七巨头”中的另外四只股票则出现下跌。 这一分化表明，过去作为一个整体人工智能交易的“七巨头”已经分化为赢家和输家。"
-    },
-    {
-      "date": "2026.11.15",
-      "published_at": "2026-11-15T00:10:48+09:00",
-      "headline": "Notable tech headlines for the week: Nvidia, Microsoft and Cisco in focus",
-      "source": "TradingView",
-      "url": "https://www.tradingview.com/news/seekingalpha:36a684556094b:0-notable-tech-headlines-for-the-week-nvidia-microsoft-and-cisco-in-focus/",
-      "language": "English",
-      "section": "美国股市 / US Market",
-      "summary": "Nvidia co-founder Jensen Huang resigned as CEO on Thursday, with CFO Colette Kress taking over on an interim basis, prompting rating downgrades from brokerages including GF Securities, William Blair, Melius Research, Evercore, and KeyBanc. GF analyst Jeff Pu noted that leadership is crucial to Nvidia and the AI industry, and the stock closed 2% lower on Friday. Meanwhile, a widespread Microsoft outage affecting Outlook and Teams persisted for hours across Asia and the U. S. , disrupting businesses and government operations, though Microsoft stated it had no indication of malicious activity and made sustained improvements in restoring services. Cisco reported strong Q1 results featuring 43% year-over-year growth in its Networking business segment, while Applied Materials reported fiscal fourth-quarter results and guidance exceeding Wall Street forecasts, and CoreWeave planned to raise at least $4 billion through an investment-grade loan led by Morgan Stanley and Mitsubishi UFJ Financial Group.",
-      "summary_zh": "英伟达联合创始人黄仁勋于周四辞去首席执行官职务，首席财务官科莱特·克雷斯将担任临时首席执行官，此举引发了广发证券、威廉·布莱尔、Melius Research、Evercore和KeyBanc等券商的评级下调。 广发证券分析师蒲俊指出，领导层对英伟达及人工智能行业至关重要，该股周五收盘下跌2%。 与此同时，微软发生影响Outlook和Teams的大规模服务中断，在亚洲和美国持续了数小时，扰乱了企业和政府运营，微软表示没有迹象表明中断是由恶意活动引起的，并在持续推进恢复服务。 思科公布了强劲的第一季度财报，其网络业务板块同比强劲增长43%；应用材料公司公布的第四财季财报和业绩指引超越了华尔街预期；此外，CoreWeave计划通过由摩根士丹利和三菱日联金融集团牵头的投资级贷款筹集至少$40亿美元资金。"
-    },
-    {
-      "date": "2026.11.15",
-      "published_at": "2026-11-15T00:07:00+09:00",
-      "headline": "AMD Just Beat Nvidia by the Widest Margin Since 1999",
-      "source": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/2026/11/14/amd-just-beat-nvidia-by-the-widest-margin-since-1999/",
-      "language": "English",
-      "section": "美国股市 / US Market",
-      "summary": "AMD shares rose 44.7% from $404.40 to $585.30 in the five trading days through Thursday, while Nvidia shares fell 8.5% from $181.60 to $166.19, creating a 53.2-percentage-point gap that marked the widest five-day spread in AMD's favor across 6,997 trading days since Nvidia's January 1999 IPO. AMD was powered by record third-quarter revenue of $13.4 billion, up 45%, with data center revenue rising about 97%, alongside a cloud deal with Google for fifth-generation EPYC chips, a preferred chip list spot from Goldman Sachs, and CoreWeave results. CEO Lisa Su stated that demand exceeds supply and guided fourth-quarter revenue to about $17 billion. Conversely, Nvidia lost Jensen Huang, who resigned as president, CEO, and director on November 12, leaving CFO Colette Kress as interim CEO, and recorded its sixth straight weekly loss.",
-      "summary_zh": "截至周四的五个交易日内，AMD股价上涨44.7%，从$404.40升至$585.30；同期英伟达股价下跌8.5%，从$181.60跌至$166.19。 53.2个百分点的差距创下了自英伟达1999年1月首次公开募股以来6997个交易日中对AMD最有利的五日最大价差纪录。 AMD的强劲表现得益于创纪录的第三季度营收$$13.4 billion（同比增长45%），其中数据中心营收增长约97%，此外还与谷歌就第五代EPYC芯片达成云端合作，并获得了高盛的首选芯片名单席位及CoreWeave的业绩支持。 首席执行官苏姿丰表示需求大于供给，并预计第四季度营收将达到约$$17 billion。 相比之下，英伟达则失去了于11月12日辞去总裁、首席执行官兼董事职务的黄仁勋，由首席财务官科莱特·克雷斯担任临时首席执行官，并录得连续第六周下跌。"
+      "summary": "Apple is the best-performing Magnificent Seven stock of 2026, recording a gain of 30.5% through the November 12, 2026 close, with its share price moving from $271.86 on December 31, 2025 to $354.88, representing a per-share increase of $83.02. Coverage from outlets including Foreign Policy Journal and Engadget highlights Apple leading the group by a wide margin, contrasting with other mega-cap tech stocks where Amazon ranks second with a 15.9% gain, moving from $230.82 to $267.44, and Microsoft gains 8.1%, while four of the seven stocks fall into negative territory. Different sources present slightly varying figures, such as 26.8% or approximately 29%, primarily due to varying measurement dates and compilation timelines. This analysis tracks price returns based strictly on shared start and end dates without incorporating dividends.",
+      "summary_zh": "苹果公司是2026年表现最好的“七巨头”股票，截至2026年11月12日收盘，其涨幅达到30.5%，股价从2025年12月31日的$271.86上涨至$354.88，每股上涨$83.02。 《外交政策杂志》和Engadget等媒体的报道显示，苹果以巨大优势领跑该群体，这与其它大型科技股形成了对比：亚马逊以15.9%的涨幅位居第二，股价从$230.82上涨至$267.44，微软上涨8.1%，而该群体中的七只股票有四只出现下跌。 由于测量日期和汇编时间不同，不同来源的数据略有差异，例如显示26.8%或大约29%。 本分析严格基于相同的起止日期追踪价格回报，未计入股息。"
     },
     {
       "date": "2026.11.14",
@@ -56,52 +56,85 @@
       "url": "https://www.openingbelldailynews.com/p/stock-market-this-week-broadcom-18-percent-nov-14-2026",
       "language": "English",
       "section": "美国股市 / US Market",
-      "summary": "Broadcom stock increased by 18.2% during the week, closing at $347.01 on November 13 compared to $293.69 a week earlier, maintaining its gain even after a 4.8% drop on Friday and outperforming all Magnificent 7 stocks. Other mega-cap tech companies recorded mixed weekly movements, including Tesla up 8.9%, Meta up 5.2%, Apple up 4.1%, Alphabet up 3.9%, Amazon up 2.8%, Microsoft down 1.3%, and Nvidia down 12.7%. Additionally, smaller chipmaker AMD rose 18.9% over the same stretch, demonstrating that mega-cap technology stocks did not move as a single unit.",
-      "summary_zh": "博通股价在本周上涨18.2%，11月13日收于$347.01，高于一周前的$293.69，即便在周五下跌4.8%后仍保持涨幅，且表现超过所有“七巨头”股票。 其他超大型科技公司的周涨跌幅各不相同：特斯拉上涨8.9%，Meta上涨5.2%，苹果上涨4.1%，Alphabet上涨3.9%，亚马逊上涨2.8%，微软下跌1.3%，英伟达下跌12.7%。 此外，较小规模的芯片制造商AMD在同期上涨18.9%，表明超大型科技股并未作为一个整体同步波动。"
+      "summary": "Broadcom stock jumped 18.2% during the week ending November 13, 2026, closing at $347.01 compared to $293.69 a week earlier, outperforming every Magnificent 7 stock even after a 4.8% drop on Friday. Other mega-cap tech stocks posted varied weekly movements, including Tesla up 8.9%, Meta up 5.2%, Apple up 4.1%, Alphabet up 3.9%, Amazon up 2.8%, Microsoft down 1.3%, and Nvidia down 12.7%. Meanwhile, smaller chipmaker AMD rose 18.9% over the same period, illustrating that mega-cap tech did not move as a single unit.",
+      "summary_zh": "截至2026年11月13日的一周内，博通股价跃升18.2%，收于$347.01，而一周前为$293.69，其表现超过了所有“七巨头”股票，尽管周五曾下跌4.8%。 其他大型科技股在本周走势各异，其中特斯拉上涨8.9%，Meta上涨5.2%，苹果上涨4.1%，Alphabet上涨3.9%，亚马逊上涨2.8%，微软下跌1.3%，英伟达下跌12.7%。 与此同时，小型芯片制造商超威半导体在同一时期上涨了18.9%，这表明大型科技股并未作为一个整体同步波动。"
     },
     {
       "date": "2026.11.14",
-      "published_at": "2026-11-14T18:09:13+09:00",
-      "headline": "Market Movers blog: Microsoft shares shudder on global Outlook outage while tech rivals benefit",
-      "source": "Investment Week",
-      "url": "https://www.investmentweek.co.uk/blog/4080428/market-movers-blog",
+      "published_at": "2026-11-14T22:18:55+09:00",
+      "headline": "The bond market just turned on the AI trade — and chip stocks lost more than $650 billion in two days: Chart of the Day",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/article/the-bond-market-just-turned-on-the-ai-trade--and-chip-stocks-lost-more-than-650-billion-in-two-days-chart-of-the-day-131855807.html",
       "language": "English",
       "section": "美国股市 / US Market",
-      "summary": "Investment Week published a live Market Movers blog on November 13, 2026, collating breaking market news, analysis, and opinion concerning equities, bonds, currencies, regulation, economics, and key market figures, noting specifically that Microsoft shares shuddered due to a global Outlook outage while tech rivals benefited.",
-      "summary_zh": "《投资周刊》于2026年11月13日发布了一篇名为“市场推动者”的实时博客，汇总了关于股票、债券、货币、监管、经济学以及关键市场数据的突发市场新闻、分析和观点，并特别指出微软股价因全球Outlook服务中断而受到震动，而科技竞争对手则从中受益。"
+      "summary": "During the week ending November 13, 2026, chip stocks lost more than $650 billion in market value between Wednesday's close and Friday, despite the PHLX Semiconductor Index finishing the week up about 8%, the Nasdaq 100 up about 3.5%, and the S&P 500 up about 2.5%. Nvidia fell about 13% during the week Jensen Huang resigned as CEO, wiping out about $570 billion in value amidst its $530 billion web of AI deals. Related chip stocks and partners also dropped, including Nebius falling about 10% following third-quarter earnings, CoreWeave sliding about 6% on Friday, and memory makers Micron and SK Hynix giving back roughly 3% to 4% on Friday. Unlike previous sell-offs where 10-year Treasury yields fell, the 10-year yield jumped about 30 basis points to about 5.15% and the 5-year climbed about 33 basis points during the three down days for semiconductors. Meanwhile, Federal Reserve Governor Christopher Waller opened the door to a half-point rate hike on Tuesday, and October Consumer Price Index data alongside wholesale prices reinforced rate hike expectations.",
+      "summary_zh": "在截至2026年11月13日的一周里，费城半导体指数收盘上涨约8%，纳斯达克100指数上涨约3.5%，标普500指数上涨约2.5%，但芯片股在周三收盘到周五期间市值损失超过$650 billion。 在杰森·黄辞去首席执行官职务的一周内，英伟达下跌约13%，在其$530 billion的人工智能交易网络中抹去了约$570 billion的价值。 相关的芯片股票和合作伙伴也出现下跌，Nebius在公布第三季度财报后下跌约10%，CoreWeave在周五下滑约6%，存储芯片制造商美光和SK海力士在周五回落约3%至4%。 与以往抛售时10年期国债收益率下降的情况不同，在半导体下跌的三天里，10年期国债收益率跃升了约30个基点至约5.15%，5年期国债收益率攀升了约33个基点。 与此同时，美联储理事克里斯托弗·沃勒在周二暗示可能加息半个百分点，加上10月份的消费者价格指数数据以及批发价格数据，进一步强化了市场对加息的预期。"
     },
     {
       "date": "2026.11.14",
-      "published_at": "2026-11-14T17:30:00+09:00",
-      "headline": "6,729 Shares of Tesla, Inc. $TSLA Acquired by Bernicke Wealth Management Ltd.",
-      "source": "MarketBeat",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-6729-shares-of-tesla-inc-tsla-acquired-by-bernicke-wealth-management-ltd-2026-11-14/",
+      "published_at": "2026-11-14T21:25:00+09:00",
+      "headline": "CPI Beat and Weak Housing Market Prompt Hedge Funds to Revive Shorts on Rate-Sensitive US Stocks",
+      "source": "BigGo Finance",
+      "url": "https://finance.biggo.com/news/797bc060-2fbd-4ef8-a1b3-96effe640c55",
       "language": "English",
       "section": "美国股市 / US Market",
-      "summary": "Bernicke Wealth Management Ltd. acquired a new stake of 6,729 shares in Tesla, Inc. valued at approximately $2,388,000 during the 3rd quarter. Tesla constitutes 0.3% of the firm's portfolio. Several other institutional investors adjusted their holdings, including State Street Corp, Legal & General Group Plc, Amundi, Bank of New York Mellon Corp, and Bamco Inc. NY. Additionally, CFO Vaibhav Taneja sold 2,606 shares on Tuesday, September 8th, at an average price of $360.13 for a total of $938,498.78 to cover tax obligations. Tesla reported third-quarter earnings with $0.48 EPS and revenue of $28.05 billion, while analysts have issued various ratings and price targets for the stock.",
-      "summary_zh": "Bernicke Wealth Management Ltd. 在第三季度新收购了6,729股特斯拉公司股份，价值约$2,388,000，占其投资组合的0.3%。 多家机构投资者也调整了持股，包括State Street Corp、Legal & General Group Plc、Amundi、Bank of New York Mellon Corp和Bamco Inc. NY。 此外，首席财务官Vaibhav Taneja于9月8日星期二以$360.13的平均价格售出2,606股，总价值$938,498.78，以支付税务预扣义务。 特斯拉公布第三季度每股收益为$0.48，营收为$28.05 billion，分析师近期对该股票发布了不同的评级与目标价。"
+      "summary": "Bank of America's trading desk reports that hedge funds are reviving short positions in rate-sensitive US stocks, driven by a higher-than-expected US Consumer Price Index (CPI) and weak existing home sales data. John Egan, head of global short analytics and tactical solutions, noted that heavily shorted consumer discretionary stocks fell an average 2.28% on the day the CPI data was released, outperforming the S&P 500's 0.38% decline. This follows sharp swings between mid-August and early November, where short sellers profited from a 16.5% drop in those stocks before being squeezed by a roughly 20% rebound. Bank of America emphasizes that this capital flow reflects a rebalancing of long and short positions rather than a broad bearish turn, with some hedge funds simultaneously allocating capital to tech stocks as performance divergence across US equity sectors widens.",
+      "summary_zh": "美国消费者物价指数（CPI）超预期及美国现有住房销售数据疲软，促使对冲基金重新建立对利率敏感的美国股票的空头头寸。 美国银行全球短期分析与战术解决方案主管约翰·伊根表示，在CPI数据发布的当天，被大量做空的非必需消费品股票平均下跌了2.28%，而标普500指数仅下跌0.38%。 此前在8月中旬至10月中旬期间，被大量做空的非必需消费品股票曾平均下跌16.5%，随后在10月中旬至11月的第一周反弹了大约20%，引发了逼空行情。 美国银行强调，重建空头头寸并不一定意味着整体看空转向，部分对冲基金在做空受高借贷成本和需求减弱影响的公司同时，也在将资金配置到科技股中。"
     },
     {
       "date": "2026.11.14",
-      "published_at": "2026-11-14T15:18:15+09:00",
-      "headline": "Stock Market Today, Nov. 13: AMD Sinks 8.75% on Sector AI-Chip Sell-Off After Early Gains Reverse",
-      "source": "The Motley Fool",
-      "url": "https://www.fool.com/coverage/stock-market-today/2026/11/13/stock-market-today-nov-13-amd-sinks-8-75-on-sector-ai-chip-sell-off-after-early-gains-reverse/",
+      "published_at": "2026-11-14T21:05:01+09:00",
+      "headline": "META Stock Rises Premarket: Zuckerberg Claims Threads Now Rivals Musk's X In Scale Or Close In Scale",
+      "source": "Stocktwits",
+      "url": "https://stocktwits.com/news-articles/markets/equity/meta-stock-rises-premarket-zuckerberg-says-threads-is-either-bigger-than-x-or-close-in-scale/cZteUFLRJy6",
       "language": "English",
       "section": "美国股市 / US Market",
-      "summary": "Advanced Micro Devices closed down 8.75% at $534.06 on Friday following a reversal from early AI-chip buying into a broader sector sell-off. Trading volume reached 48.6 million shares, about 98% above its three-month average. Other semiconductor stocks also declined, with Nvidia falling 2.01% to $162.85 and Intel dropping 2.52% to $59.66. Despite Friday's decline, AMD reported third-quarter revenue of $13.4 billion last week, with data-center sales nearly doubling year over year, and the company maintains strong overall gains for the week amid ongoing focus on AI data center growth.",
-      "summary_zh": "Advanced Micro Devices周五收盘下跌8.75%至$534.06，此前市场从早盘对人工智能芯片的买入转向板块抛售。 交易量达到48.6 million股，较三个月平均水平高出约98%。 其他半导体股票也告下跌，其中Nvidia下跌2.01%至$162.85，Intel下跌2.52%至$59.66。 尽管周五有所下跌，但该公司上周公布第三季度营收为$13.4 billion，数据中心销售额同比增长近一倍，在对人工智能数据中心增长的持续关注中，该公司本周仍保持了稳健的整体涨幅。"
+      "summary": "Meta Platforms Inc. CEO Mark Zuckerberg stated in an interview that Threads has reached 500 million monthly active users, putting the three-year-old app roughly on par with or very close to Elon Musk's X in scale. Despite this growth, Zuckerberg continues to post on X to engage with active technology and AI communities. Meta stock edged 0.7% higher in Wednesday premarket trading. The 500 million user milestone, announced in a June 16 blog post, brings Threads halfway toward Zuckerberg's 1 billion user target set at its July 2023 launch, aided by cross-promotion from Instagram's roughly 3 billion users. Additionally, Meta launched Muse, a private AI agent handling tasks via app and WhatsApp with Stripe Link payments, while retail sentiment on Stocktwits remained bearish and Meta stock declined 7% year-to-date.",
+      "summary_zh": "Meta Platforms公司首席执行官马克·扎克伯格在播客采访中表示，Threads拥有500万月活跃用户，这使得这个推出三年的应用在规模上与埃隆·马斯克的X大致相当或即将相当。 尽管Threads增长迅速，扎克伯格仍继续在X上发帖，以接触活跃于该平台的科技和人工智能社群。 Meta股价在周三盘前交易中小幅上涨0.7%。 Meta在6月16日的博客文章中首次公布了500万月活跃用户的数据，这使Threads距离扎克伯格在2023年7月推出该应用时设定的10亿用户目标又近了一半，并得益于Instagram约30亿用户的交叉推广。 此外，Meta推出了私密人工智能代理Muse，可通过应用和WhatsApp处理任务并使用Stripe Link进行安全支付，而Stocktwits上的散户情绪保持看跌，Meta股价今年迄今已下跌7%。"
     },
     {
       "date": "2026.11.14",
-      "published_at": "2026-11-14T13:09:06+09:00",
-      "headline": "Is the US Stock Selloff Over? Wall Street Debates AI Bubble as S&P 500, Chip Stocks Diverge for 2027",
-      "source": "TradingKey",
-      "url": "https://www.tradingkey.com/analysis/stocks/us-stocks/262305431-us-stock-selloff-wall-street-debates-ai-bubble-sp-500-chip-stocks-2027-tradingkey",
+      "published_at": "2026-11-14T20:40:02+09:00",
+      "headline": "Qualcomm Is Cheap Enough to Hold Through 2030",
+      "source": "AOL.com",
+      "url": "https://www.aol.com/articles/qualcomm-cheap-enough-hold-2030-114002000.html",
       "language": "English",
       "section": "美国股市 / US Market",
-      "summary": "Following the U. S. midterm elections, AI-related stocks experienced heavy capital outflows, causing the S&P 500 to tumble 4.4%, the Nasdaq Composite to fall 5.5%, and the Philadelphia Semiconductor Index to drop about 12% on November 5. Wall Street remains divided on the selloff; bulls like Morgan Stanley, Yardeni Research, and Cathie Wood view it as a healthy unwinding of crowded positions within a continuing bull market supported by enterprise demand, while bears such as Bank of America and Capital Economics warn of unsustainable AI spending and deteriorating free cash flow. Strategists have issued various year-end targets for the S&P 500, with an average target of roughly 7,973.",
-      "summary_zh": "在美国中期选举之后，人工智能相关股票遭遇大量资金流出，导致11月5日标普500指数大跌4.4%，纳斯达克综合指数下跌5.5%，费城半导体指数暴跌约12%。 华尔街对此次抛售意见不一；以摩根士丹利、Yardeni Research和Cathie Wood为代表的多头认为这是在企业需求支撑的持续牛市中对拥挤仓位的健康解除，而美国银行和凯投宏观等空头则警告人工智能支出不可持续且自由现金流恶化。 各策略师对标普500指数提出了不同的年终目标，平均目标约为7,973点。"
+      "summary": "Qualcomm CEO Cristiano Amon announced in the fiscal 2026 Q4 report on November 4 that fiscal 2027 marks the start of non-handset revenue inflection, driven by the ramp of its data center business. Qualcomm shares closed at $173.53 on November 10, trading 33% below their May 29 high, weighed down by a 26% year-over-year drop in handset chip sales last quarter and a shrinking relationship with Apple. However, data center revenue is forecast to top $650 million in fiscal 2027 Q1 and exit fiscal 2027 at a $7 billion annual run rate, supported by a contract allowing Amazon to purchase up to $60 billion in chips over 10 years. Qualcomm's automotive revenue also hit its first $2 billion quarter, up 89%, while the stock trades at roughly 9.6 times management's fiscal 2029 earnings target of more than $18 per share.",
+      "summary_zh": "高通公司首席执行官克里斯蒂亚诺·阿蒙在11月4日的2026财年第四季度报告中宣布，2027财年标志着其非手机业务收入拐点的开始，其中包括数据中心业务的加速。 高通股价在11月10日收于173.53美元，较5月29的高点下跌了33%，部分原因是上一季度手机芯片销售额同比下降26%以及与苹果公司关系的缩小。 然而，在亚马逊一项可在10年内购买高达600亿美元芯片的合同支持下，其数据中心业务收入预计在2027财年第一季度将突破6.5亿美元，并在2027财年末达到70亿美元的年化运行率。 高通的汽车业务收入也首次达到了20亿美元的季度，同比增长89%，同时该股票的交易价格约为管理层2029财年每股超过18美元的盈利目标的9.6倍。"
+    },
+    {
+      "date": "2026.11.15",
+      "published_at": "2026-11-15T11:08:45+09:00",
+      "headline": "視る日経！ニュースNEXT▼コロナ禍以来の「買い控え」・消費支出低迷で日本経済は？",
+      "source": "テレビ東京",
+      "url": "https://www.tv-tokyo.co.jp/broad_bstvtokyo/program/detail/202611/22663_202611162100.html",
+      "language": "Japanese",
+      "section": "日本株式市場 / Japan Market",
+      "summary": "TV Tokyo's news program 'News NEXT' reports that personal consumption slumps are acting as a drag on the Japanese economy. September consumption expenditures recorded a year-on-year drop representing the largest magnitude since the coronavirus pandemic, six years prior. This downturn was directly hit by unfavorable weather conditions such as prolonged rain and typhoons, alongside thrift-oriented mindsets driven by high prices. The program addresses the 7-9 quarter Gross Domestic Product (GDP) results released on the 16th and examines with experts how the consumption tax cuts advocated by the government might impact the economy.",
+      "summary_zh": "东京电视台新闻节目《视る日経！ ニュースNEXT》报道称，个人消费的失速正在成为日本经济的足枷。 9月的消费支出同比降幅创下了自新冠疫情以来的6年最大纪录，长雨、台风等不良天气以及物价高涨带来的节约倾向直接打击了消费意愿。 节目传达了16日公布的7-9月期国内生产总值（GDP）结果，并与专家一同验证了政府提出的消费税减税将带来何种影响。"
+    },
+    {
+      "date": "2026.11.15",
+      "published_at": "2026-11-15T11:04:17+09:00",
+      "headline": "来週（11/16～20）の日経平均株価の予想レンジは、5万9500～6万3500円！ 6万2000円(200日移動平均線)近辺での攻防や、好決算の内需株･金融株に注目",
+      "source": "ダイヤモンド・オンライン",
+      "url": "https://diamond.jp/zai/articles/-/1075498",
+      "language": "Japanese",
+      "section": "日本株式市場 / Japan Market",
+      "summary": "The Nikkei Stock Average rebounded sharply, ending the week of November 9-13 up 3707.58 points or 6.46% at 61142.35, driven by buying back in AI and semiconductor stocks and a weakening yen. On November 10, SoftBank Group reported an interim net loss of 7680 billion yen for the period ending March 2027, and US CPI data reinforced rate hike expectations. On November 12, Nvidia CEO Jensen Huang's scandal triggered concerns, causing an AI-led pullback, though TOPIX remained firm. For the upcoming week of November 16-20, the Nikkei projects a range of 59500 to 63500 yen, focusing on the 200-day moving average near 62000 yen, upcoming US and domestic GDP and CPI releases, and Nvidia's earnings. Notable individual movers included Hokuriku Electric Industry, which surged due to a Bain Capital-affiliated TOB at 4180 yen, Sinden-Hightex and Ivy Cosmetics which upwardly revised full-year earnings forecasts, Toyoko which delayed earnings due to accounting doubts, and Broadleaf which lowered its operating profit forecast.",
+      "summary_zh": "受AI和半导体股票回购以及日元贬值推动，日盘经平均股价大幅反弹，11月9日至13日这一周收盘上涨3707.58点（6.46%），报61142.35点。 11月10日，软银集团公布截至2027年3月期的上期最终损益为7680亿日元赤字，同时美国CPI数据强于预期，加剧了加息预期。 11月12日，受英伟达CEO丑闻影响，AI和半导体股主导了回调，但TOPIX表现坚挺。 展望11月16日至20日的一周，日经平均株価的预期区间为5万9500至6万3500円，焦点在于200日移动平均线所在的6万2000円附近的攻防、即将发布的国内外GDP与CPI数据以及英伟达财报。 个股方面，北陸電気工業因贝恩资本系实施4180円的TOB而大涨，シンデン・ハイテックス和アイビー化粧品上调了全期业绩预期，トヨコー因会计疑义延期财报而大跌，ブロードリーフ则下调了营业利润预期。"
+    },
+    {
+      "date": "2026.11.15",
+      "published_at": "2026-11-15T08:00:00+09:00",
+      "headline": "【日本株週間見通し】今週はエヌビディア決算、アンソロピックIPOを受けてAI関連株の動向が焦点に",
+      "source": "マネーポストWEB",
+      "url": "https://www.moneypost.jp/1465714",
+      "language": "Japanese",
+      "section": "日本株式市場 / Japan Market",
+      "summary": "投資情報会社・フィスコが11月16日～20日の株式市場の相場見通しを解説した。 先週の日経平均は前週末比3707.58円高の61142.35円で終了した。 米中間選挙後におけるAI開発規制強化を懸念する売りが一巡し、米半導体株指数（SOX指数）が反発したことが相場反転のきっかけとなった。 10日には60000円台を回復し、米アンソロピックのIPOに関する公開価格仮条件引き上げ検討や、米コアウィーブの好決算がAI関連株の追い風となった。 一方、週後半には米エヌビディアのジェンスン・フアンCEOの解任を巡る報道が伝わり、AI市場成長への警戒感から関連株に売り戻し圧力が強まったが、週末はフアンCEO辞任発表を受けたエヌビディアが売り一巡後に下げ渋り、買い戻しが優勢となった。 エヌビディアは6日終値から12日終値まで11％の下落となったが、12日は安値水準から10％の上昇となった。 17日にはエヌビディアの決算発表が予定され、19日には米アンソロピックのIPOが控えており、AI関連株の動向が引き続き焦点となる。",
+      "summary_zh": "投资信息公司Fisco回顾了11月9日至13日的股市走势，并对11月16日至20日的行情进行了展望。 上周日经平均指数收于61142.35日元，较前周末上涨3707.58日元（+6.5%）。 随着美国中期选举后对加强人工智能开发监管的担忧告一段落，美国费城半导体指数反弹成为行情反转的契机。 10日股指重回60000点大关，随后美国Anthropic公司首次公开募股（IPO）主承销商探讨上调发行价区间以及美国CoreWeave公布良好财报等消息，也对人工智能相关股票起到了东风作用。 进入本周后半段，有关英伟达首席执行官杰森·黄遭解职的报道传出，由于对人工智能市场增长的警惕，人工智能及半导体相关股票一度面临回吐抛压。 不过周末随着杰森·黄辞职消息公布后英伟达在抛售告一段落后企稳，买入安心感扩散，回购盘占据优势并结束了当周交易。 英伟达股价从6日收盘价到12日收盘价下跌了11%，但12日从低位水平反弹上涨了10%。 17日该公司将迎来财报发布，19日还将迎来美国Anthropic公司的IPO，人工智能相关股票的动向将继续成为焦点。"
     },
     {
       "date": "2026.11.15",
@@ -111,19 +144,8 @@
       "url": "https://finance.biggo.jp/news/JP_3116.T_2026-11-15",
       "language": "Japanese",
       "section": "日本株式市場 / Japan Market",
-      "summary": "Toyota Boshoku announced its financial results for the second quarter of fiscal 2026 on November 15, 2026, reporting an increase in revenue of 960億円 to 1兆683億円 compared to the previous year, while operating income decreased by 75億円 to 295億円 due to worsening market conditions from Middle East situations, increased expenses, and quality-related costs. Management revised the full-year operating income forecast down by 50億円 to 710億円, while maintaining the annual dividend at 86円. The company adjusted its foreign exchange assumptions to 155円 per dollar and 180円 per euro, and management emphasized that the quality-related expenses were related to a previously addressed issue.",
-      "summary_zh": "トヨタ紡織于2026年11月15日公布了2026年度第二季度财报，报告显示营业收入比去年同期增加960億円至1兆683億円，而由于中东局势带来的市场恶化、费用增加以及质量相关成本，营业利润减少75億円至295億円。 管理层将全年营业利润预期下调50億円至710億円，同时维持全年分红86円不变。 该公司将外汇假设调整为1美元兑155円、1欧元兑180円，管理层并强调质量相关费用与先前已处理过的问题有关。"
-    },
-    {
-      "date": "2026.11.15",
-      "published_at": "2026-11-15T01:59:03+09:00",
-      "headline": "来週（11/16～20）の日経平均株価の予想レンジは、5万9500～6万3500円！ 6万2000円(200日移動平均線)近辺での攻防や、好決算の内需株･金融株に注目",
-      "source": "ダイヤモンド・オンライン",
-      "url": "https://diamond.jp/zai/articles/-/1075498",
-      "language": "Japanese",
-      "section": "日本株式市場 / Japan Market",
-      "summary": "今週の日経平均株価は、AI・半導体株への買い戻しを背景に急反発し、先週末比3707.58円高の6万1142.35円で終了した。 週初はソフトバンクグループの決算での7680億円の赤字発表や米国の利上げ観測が重しとなったほか、12日にはエヌビディアCEOの不倫スキャンダルや辞任の影響が警戒されAI・半導体株が主導して反落したものの、買い戻しにより上昇した。 個別銘柄では、北陸電気工業に対して米投資ファンド系のBCJ-116が公開買い付け（TOB）を行うと発表しストップ高となったほか、シンデン・ハイテックスやアイビー化粧品が通期営業利益予想を上方修正して上昇した。 一方、トヨコーは会計上の疑義発覚と決算発表延期により急落し、ブロードリーフは連結営業利益予想の下方修正を発表して下落した。",
-      "summary_zh": "本周日经平均指数在人工智能与半导体股票回购的背景下急剧反弹，最终以比上周末高出3707.58点的61142.35点收盘。 周初，软银集团在财报中公布2027年3月期上半财年最终损益出现7680亿日元亏损以及美国加息预期成为大盘压力；12日，受英伟达CEO丑闻及辞职影响，人工智能与半导体股票主导下跌，随后因回购再次上涨。 个股方面，北陆电气工业因美国投资基金系BCJ-116宣布实施公开要约收购而涨停，新电元工业与アイビー化妆品因上调全期营业利润预期而上涨。 另一方面，Toyoko因曝出会计疑义并延期发布财报而急跌，Broadleaf因发布合并营业利润预期下调公告而下跌。"
+      "summary": "トヨタ紡織が2026年11月15日に発表した2026年度第2四半期決算は、売上収益が前年同期比960億円増の1兆683億円と増収を確保したものの、営業利益は同75億円減の295億円と減益になった。 中東情勢に伴う市況悪化や諸経費の増加、品質関連費用が利益を圧迫した。 為替は1ドル159円、1ユーロ184円と円安が進行し、売上収益で525億円、営業利益で14億円の増益影響があった。 セグメント別では、日本が新製品・増産効果で4億円増益の80億円、アジアが新車投入効果や為替影響で4億円増益の191億円と堅調だった一方、欧州・アフリカは市況影響や切替ロス等で34億円減益の19億円の営業損失となり、中国は需要変化に伴う減産影響で43億円減益の36億円、その他地域は中東情勢の影響で6億円減益の6億円となった。 経営陣は品質問題が一過性であると強調しつつ、通期の営業利益予想を前回から50億円引き下げて前年比170億円増の710億円とする一方、年間配当は86円を維持する方針を示した。 通期の為替前提は1ドル155円、1ユーロ180円に見直された。",
+      "summary_zh": "丰田纺织于2026年11月15日公布的2026财年第二季度财报显示，营业收入同比增长960亿日元至1兆683亿日元，实现了增收，但营业利润同比减少75亿日元至295亿日元，出现了减利。 中东局势伴随的市场行情恶化、各项费用增加以及质量相关费用对利润造成了压力。 汇率方面，日元贬值推行至1美元兑159日元、1欧元兑184日元，对营业收入产生了525亿日元的增利影响，对营业利润产生了14亿日元的增利影响。 从各业务板块来看，日本由于新产品及增产效果实现营业利润80亿日元（增加4亿日元），亚洲由于新车投放效果及汇率影响实现营业利润191亿日元（增加4亿日元），表现稳健；而欧洲及非洲因市场行情影响及切换损失等出现19亿日元的营业亏损（减少34亿日元），中国因需求变化带来的减产影响实现营业利润36亿日元（减少43亿日元），其他地区受中东局势的市场行情影响实现营业利润6亿日元（减少6亿日元）。 管理层强调质量问题是一次性的，并将全年的营业利润预期较上次预测下调50亿日元至710亿日元（同比增加170亿日元），同时表明维持全年每股86日元的股息方针。 全年的汇率前提调整为1美元兑155日元、1欧元兑180日元。"
     },
     {
       "date": "2026.11.14",
@@ -133,8 +155,8 @@
       "url": "https://jioinc.jp/investleaders/openai_toush/",
       "language": "Japanese",
       "section": "日本株式市場 / Japan Market",
-      "summary": "ChatGPTの developers であるOpenAIは、2026年6月8日に米証券取引委員会へIPO向け書類を非公開で提出したが、アルトマンCEOは安全性への対応を理由に2026年内には上場しない意向を示し、具体的な上場日は未定となっている。 3月31日の資金調達では投資家の出資約束額が1220億ドル、調達後の評価額が8,520億ドルとなり、月間売上高は20億ドルに達したと説明された。 しかし、生成AIの開発には半導体やデータセンターへの継続的な支出が必要であり、Claudeを展開するAnthropicやGoogleのGeminiとの顧客獲得競争や、計算資源への支出、資金調達負担がリスクとなる。 また、ナスダック100の早期採用制度の導入はあるものの、S&Pは採用条件緩和を行わないと発表しており、指数組み入れやロックアップ期間の条件も未確定である。",
-      "summary_zh": "开发ChatGPT的OpenAI于2026年6月8日向美国证券交易委员会非公开提交了IPO相关文件，但阿尔特曼CEO以应对安全性为由表示不会在2026年内上市，具体上市日期未定。 在3月31日的资金筹措中，投资者的出资承诺额为1220亿美元，筹资后的估值为8520亿美元，并说明月营业额达到了20亿美元。 然而，生成式AI的开发需要对半导体和数据中心持续支出，与运营Claude的Anthropic以及谷歌Gemini的客户争夺战、计算资源的支出以及筹资负担构成了风险。 此外，尽管纳斯达克100指数引入了早期采纳制度，但标准普尔宣布不放宽采纳条件，指数纳入及锁定期等条件也尚未确定。"
+      "summary": "ChatGPTを開発するOpenAIの株式上場をめぐり、アルトマンCEOは安全性への対応を理由に2026年内には上場しない意向を示しており、具体的な上場日や公開価格、売出株数は未定である。 OpenAIは2026年6月8日に米証券取引委員会（SEC）にIPOに向けた書類を非公開で提出したと公表していたが、当時から時期は未定であった。 また、3月31日の資金調達では投資家の出資約束額が1220億ドル、調達後の評価額が8520億ドルであったが、これは非上場企業の条件であり取引所の株価ではない。 上場後の期待材料としては収益成長の継続や開示情報の増加による評価の明確化が挙げられる一方、生成AI開発に伴う計算資源への支出や資金調達負担、AnthropicやGoogleのGeminiなどとの顧客獲得競争、AIへの期待が先行した株価の反落といったリスクが存在する。 さらに、上場前の売却機会やロックアップ期間の条件についても、正式な目論見書による確認が必要となる。",
+      "summary_zh": "围绕开发了ChatGPT的OpenAI的股票上市问题，首席执行官阿尔特曼基于对安全性的应对理由，表明了2026年内不予上市的意向，具体的上市日期、发行价以及发售股数均未确定。 OpenAI曾于2026年6月8日宣布向美国证券交易委员会（SEC）秘密提交了首次公开募股（IPO）的相关文件，但当时时间就未定。 此外，在3月31日的资金筹措中，投资者的出资承诺额为1220亿美元，筹资后的估值为8520亿美元，这是未上市企业的条件，并非交易所的股价。 作为上市后的期待因素，虽然举出了收益增长的持续以及通过披露信息增加来明确评估等，但另一方面，也存在伴随生成式人工智能开发对计算资源的支出及资金筹措负担、与Anthropic及谷歌Gemini等企业的客户争夺战、以及因人工智能期待先行导致股价回落等风险。 此外，关于上市前的出售机会以及锁定期限制的条件，也有必要通过正式的招股说明书来进行确认。"
     },
     {
       "date": "2026.11.14",
@@ -144,41 +166,41 @@
       "url": "https://note.com/tatsuya_sabato/n/n43abde540edc",
       "language": "Japanese",
       "section": "日本株式市場 / Japan Market",
-      "summary": "日本個別株デューデリジェンスセンターは、保有中の株の見直しや点検に役立つ自著10冊を紹介している。 週末に持ち株を見返した際に買った理由や当時の期待が曖昧になることがあるため、最初のメモを上書きせず日付を添えて分かったことを追記し、会社で起きたことと自分の考え直したことをたどる方法を勧めている。 紹介された書籍には、値動きに反応した際の自分の思い込みや見落としを考える『認知バイアスの解剖学』、限られた時間で取引の準備や点検手順を作る『仕事中に株価を見られない人のスイングトレード。 』、繰り返し作業をAIに分担させる仕事の分解術、金利や為替のニュースを企業の数字に結びつける『株価の背景を読む 金利・為替・資源価格入門』、日銀の保有するETF売却を題材にした需給分析の本などが含まれる。",
-      "summary_zh": "日本个股尽职调查中心介绍了10本有助于重新审视和检查持有股票的自著书籍。 当周末回顾持仓时，购买的理由和当时的期望有时会变得模糊，因此建议不要覆盖最初的笔记，而是加上日期追加了解到的事情，从而追踪公司发生的事件与自己重新思考的内容。 所介绍的书籍包括思考对价格变动做出反应时的自我偏见与遗漏的《认知偏差解剖学》、为有限时间者建立交易准备与检查步骤的《在工作时无法看股价的人的摇摆交易。 》、将重复工作分摊给AI的工作分解术、将利率及汇率新闻与企业数字联系起来的《阅读股价背景 利率、汇率、资源价格入门》、以日本央行出售所持ETF为主题的供需分析书籍等。"
+      "summary": "日本個別株デューデリジェンスセンターの代表者が、保有中の株式の見直しに役立つ自著10冊を紹介している。 週末の持ち株の点検において、一週間の損益だけでなく、買った当時に期待した理由と今週分かったことを並べて記録し、会社の事業変化や自身の判断の癖を振り返る重要性を説いている。 紹介されている10冊には、値動きに対する認知バイアスを扱う『認知バイアスの解剖学』、短い取引期間の点検を考える『仕事中に株価を見られない人のスイングトレード。 』、繰り返し作業をAIに渡す範囲を考える『AIに仕事を奪われる前に、AIに雑務を渡しなさい』、金利や為替のニュースと企業の業績をつなげる『株価の背景を読む 金利・為替・資源価格入門』、日銀の保有するETF売却を題材にする『日銀は、100年かけて日本株を売る』、市場参加者の事情から取引の偏りを考える『「絶対に教えたくない」日本株の歪み』、親子上場と非公開化の理由を比較する『TOBが起きる会社の共通点』などが含まれており、自身の思い込みから市場全体の資金の流れ、企業グループの事業方針まで視野を広げて資産全体を点検するための指針を示している。",
+      "summary_zh": "日本个股尽职调查中心的代表介绍了10本有助于重新审视所持股票的自著图书。 在周末对持股进行检查时，不仅要看一周的损益，还要将买入当时所期待的理由与本周新了解到的内容并列记录下来，阐述了回顾公司业务变化及自身判断习惯的重要性。 介绍的10本图书中包括处理针对价格波动认知偏差的《认知偏差解剖学》、思考短期交易检查的《无法在工作期间看盘的人的摇摆交易。 》、思考将重复作业交给人工智能范围的《在被人工智能夺走工作之前，把杂务交给人工智能》、将利率和汇率新闻与企业业绩联系起来的《解读股价背景 利率、汇率、资源价格入门》、以日本银行持有的ETF出售为题材的《日本银行将用100年时间抛售日本股票》、从市场参与者的情势思考交易偏向的《“绝对不想教人”日本股票的扭曲》、比较母子公司交叉上市与私有化理由的《发生TOB的公司的共同点》等，展示了从自身的先入为主到整个市场的资金流向、企业集团的业务方针扩展视野来检查整体资产的指导方针。"
     },
     {
       "date": "2026.11.14",
-      "published_at": "2026-11-14T08:40:51+09:00",
-      "headline": "レーティング週報【最上位を継続＋目標株価を増額】(1) (11月9日－13日)(株探ニュース)",
-      "source": "Yahoo!ファイナンス",
-      "url": "https://finance.yahoo.co.jp/news/detail/aea5346d52892a1125615d7e7d5bf30930acadba",
+      "published_at": "2026-11-14T12:12:16+09:00",
+      "headline": "トヨタ、通期純利益を上方修正 ３・２兆円、円安で押し上げ効果",
+      "source": "山陽新聞",
+      "url": "https://www.sanyonews.jp/article/1967021?rct=global_kezai_c&kw=%E3%83%86%E3%81%BE",
       "language": "Japanese",
       "section": "日本株式市場 / Japan Market",
-      "summary": "11月9日から13日にかけて、調査機関が投資判断を最上位で継続し、かつ目標株価を引き上げた銘柄がまとめられている。 トライアルはモルガンが強気を継続し目標株価を4400から4800へ引き上げ、サッポロはマッコリが強気で2085から2195へ、キッコマンはGSが買いで1850から2000へ引き上げた。 モノタロウはマッコリが強気で2570から2600へ、東急不HDはGSが買いで1550から1570へ、コスモス薬品は野村が買いで9600から9800へ引き上げた。 また、F&LCはUBS、モルガン、みずほ、野村の各社が目標株価を引き上げ、レゾナックはマッコリが6000から23000へ、岩井コスモが22800から25000へと引き上げるなど、幅広い銘柄で目標株価の増額が相次いだ。",
-      "summary_zh": "汇总了11月9日至13日期间，调查机构维持最高投资评级并同时调高目标股价的股票。 Trial被摩根维持强势并将目标股价从4400上调至4800，札幌被麦格理强势从2085上调至2195，龟甲万被高盛买入从1850上调至2000。 MonotaRO被麦格理强势从2570上调至2600，东急不动产控股被高盛买入从1550上调至1570，科斯莫斯药品被野村买入从9600上调至9800。 此外，F&LC获得了瑞银、摩根、瑞穗、野村各机构上调目标股价，Resonac被麦格理从6000上调至23000、岩井Cosmo从22800上调至25000等，众多股票相继被调高目标股价。"
+      "summary": "トヨタ自動車は4日、2027年3月期の連結純利益予想を従来の3兆円から3兆2500億円に上方修正した。 円安ドル高の進行による押し上げ効果を見込んだものである。 ただし中東情勢は重しとなっており、前期比では15.5％減の水準であり、3年連続の減益になるとの見通しは変わっていない。 売上高は51兆円から54兆円へと引き上げられ、過去最高を更新する見通しである。 同時に発表された2026年4～6月期連結決算は、純利益が前年同期比75.6％増の1兆4770億円となり、4～6月期として増益は2年ぶりとなった。 売上高は10.4％増の13兆5254億円となり、過去最高を更新した。",
+      "summary_zh": "丰田汽车于4日将2027年3月期的合并净利润预期从原先的3兆日元向上修正为3兆2500亿日元。 这是由于预期日元贬值美元升值将带来推高效果。 不过，中东局势成为了拖累因素，与前期相比处于下降15.5%的水平，连续3年减利的预期没有改变。 营业收入从51兆日元上调至54兆日元，预计将刷新历史最高纪录。 同时公布的2026年4月至6月期合并财报显示，净利润同比增长75.6%至1兆4770亿日元，作为4月至6月期时隔2年实现增利。 营业收入同比增长10.4%至13兆5254亿日元，刷新了最高纪录。"
     },
     {
       "date": "2026.11.14",
-      "published_at": "2026-11-14T05:03:39+09:00",
-      "headline": "ＰＳ５、販売１億台突破＝発売６年で大台―ソニー",
-      "source": "Infoseek",
-      "url": "https://news.infoseek.co.jp/article/jiji_2026111400107/",
+      "published_at": "2026-11-14T16:35:00+09:00",
+      "headline": "エヌビディア決算とアンソロピックIPO、AI相場の分水嶺となるか 日経平均6万1000円台で週明けへ",
+      "source": "BigGo ファイナンス",
+      "url": "https://finance.biggo.jp/news/2ef29064-b8d2-470c-9966-b70e2d1bff10",
       "language": "Japanese",
       "section": "日本株式市場 / Japan Market",
-      "summary": "ソニーグループの家庭用ゲーム機「プレイステーション（ＰＳ）５」の世界累計販売台数が、今月10日時点で出荷ベースで1億台を突破した。 2020年11月の発売から6年での大台到達となり、画面の鮮明さや立体的な音響による没入感が人気を集めている。 発売当日の日本での価格は5万4978円であり、コロナ禍の巣ごもり需要を追い風に21年7月にはシリーズ最速で全世界累計実売台数1000万台を達成したが、半導体不足や物流網の混乱により約2年間は品薄が続いていた。 ソニーは近年定額制会員サービスを重視しており、最高財務責任者の陶琳氏によれば新規販売台数は想定通り緩やかに減少しているという。 ＰＳシリーズで1億台を突破したのは初代ＰＳ、ＰＳ２、ＰＳ４に次いで4機種目となる。",
-      "summary_zh": "索尼集团的家用游戏机“PlayStation（PS）5”的全球累计销量（出货量基准）截至本月10日已突破1亿台。 自2020年11月发售以来历时6年达成这一大关，其画面的清晰度以及立体音效带来的沉浸感博得了人气。 发售当日在日本的价格为54978日元，在新冠疫情居家需求的东风下于2021年7月创下系列最快纪录，达成了全球累计实际销量1000万台，但由于半导体短缺和物流网混乱，曾持续了约2年的供货紧缺状态。 索尼近年来重视定额制会员服务，据首席财务官陶琳表示，新增销量正按预期缓缓减少。 在PS系列中，突破1亿台的机型继初代PS、PS2、PS4之后为第四款。"
+      "summary": "週明けの東京株式市場は、前週末の日経平均株価が6万1142円35銭と6万円台を回復した流れを引き継ぎ、上値では慎重な売買が交錯しそうである。 市場の注目は、17日の米エヌビディア決算発表と19日の米アンソロピックのIPOに集中している。 前週の日経平均は先週末比3707円58銭高の6.5％高と急反発し、米中間選挙後のAI規制懸念一巡やSOX指数の反発、アンソロピックのIPO仮条件引き上げ検討報道などが好材料となった。 週後半にはエヌビディアのジェンスン・ファンCEOの辞任報道で一時売り圧力がかかったものの、ファン氏の辞任発表後に売りが一巡し買い戻しが優勢となった。 エヌビディア株はこの1週間で約13％下落した。 国内の7-9月期GDPは前期比0.1％増、年率0.2％増の予想で4四半期連続のプラス成長が見込まれている。 10月コアCPIは前年同月比2.4％上昇と予測され、日銀の目標2％を2カ月連続で上回る見通しである。 為替市場では、財務省が11月9日に公表した7〜8月の介入実績が3日間で15兆円規模に上った中、ドル・円は160円を超える水準で当局による為替介入への警戒感から上値が重い展開が予想されている。",
+      "summary_zh": "周一的东京股市将继承前周末日经平均指数回升至61142日元35钱的势头，但在高位预计将伴随谨慎的买卖交错。 市场焦点集中在17日美国半导体巨头英伟达的财报发布以及19日美国AI初创公司Anthropic的首次公开募股。 上周日经平均指数大幅反弹，较前周末上涨3707点58钱，涨幅达6.5%，主要受到美国中期选举后对AI开发监管担忧的消退、SOX指数反弹以及Anthropic上调IPO公开价格区间预期等利好因素推动。 周后段曾因英伟达CEO黄仁勋辞职的报道导致AI及半导体相关股票出现短暂回吐卖压，但在黄仁勋辞职公布后卖盘告一段落，买盘重新占据优势。 英伟达股价在一周内下跌了约13%。 日本国内7-9月期实际GDP市场共识为环比增长0.1%，按年率计算增长0.2%，预计将连续四个季度保持正增长。 10月核心CPI预计同比上涨2.4%，较9月的2.1%加速，连续两个月超过日本央行2%的目标。 在汇率方面，财务省11月9日公布的7至8月外汇干预实绩显示3天内规模高达15万亿日元，在美元兑日元突破160日元水平的背景下，由于市场警惕日本当局的外汇干预，上行压力仍然沉重。"
     },
     {
-      "date": "2026.11.14",
-      "published_at": "2026-11-14T12:00:00+09:00",
-      "headline": "日本株を襲った「ブルーウェーブ・ショック」…好決算でも売られる理由と、買い直すための条件",
-      "source": "みんかぶ（マガジン）",
-      "url": "https://mag.minkabu.jp/money/45018/",
-      "language": "Japanese",
-      "section": "日本株式市場 / Japan Market",
-      "summary": "2026年11月3日の米国中間選挙で民主党が大勝した結果、6日の日経平均株価は前日比3,643円13銭安と過去3番目の下げ幅を記録した。 fundnoteのファンドマネージャーである川合直也氏は、半導体関連株だけでなく幅広い銘柄に売りが広がった背景について、個々の企業の業績だけでは説明しきれない需給や投資家心理の変化、そして将来の成長を支えてきた前提の変化が影響していると指摘している。",
-      "summary_zh": "在2026年11月3日举行的美国期中选举中，民主党取得大胜。 受此影响，日本股市日经平均指数在11月6日较前一日下跌3,643円13銭，创下历史第三大跌幅。 fundnote基金经理川合直也指出，不仅半导体相关股票，抛售潮还扩散至广泛的板块，这背后的原因无法仅用个别企业的业绩来解释，而是源于供需关系与投资者心理的变化，以及支撑未来增长的前提条件发生了转变。"
+      "date": "2026.11.15",
+      "published_at": "2026-11-15T10:56:40+09:00",
+      "headline": "investingLive Asia-Pacific market news: Fed hike bets ripple through Asia",
+      "source": "investingLive",
+      "url": "https://investinglive.com/news/investinglive-asia-pacific-market-news-fed-hike-bets-ripple-through-asia/",
+      "language": "English",
+      "section": "宏观经济与投资 / Macro & Investment",
+      "summary": "On Friday, November 13, 2026, rising bets on further Federal Reserve rate hikes spread through Asian markets, pushing Japanese government bonds lower and keeping the yen close to 160 per dollar. Japan’s 10-year bond yield rose about 7 basis points to around 2.87%, while the US 10-year yield traded near 5.13%. New York Fed President Williams stated that inflation remains stubbornly high and the Fed still has work to do. Finance Minister Katayama warned of one-sided, rapid currency moves, stating she would communicate with the US Treasury, while noting the US Treasury bought yen in July for the first time since 1998. Katayama also announced the government will bring forward winter utility bill subsidies. Regional equities gave back early gains, weighed down by concerns over Jensen Huang's resignation as Nvidia CEO. The Nikkei pared its rise, the Kospi reversed an early 2% gain to trade lower with SK Hynix down over 2% and Samsung off about 0.6%, and the Hang Seng fell about 1%. Bitcoin sank below $69,000 amid continued ETF outflows. Brent crude held near $95.70 and WTI near $88.40 despite an unverified Iranian claim of striking a US radar in Bahrain, while gold rose close to 1%. In China, SMIC reported record third-quarter revenue of about $3.19 billion, more than doubled its profit, and projected full-year revenue above $12 billion while warning of tight chip supplies.",
+      "summary_zh": "2026年11月13日周五，对美联储进一步加息的押盘升温并在亚洲市场蔓延，导致日本国债遭到抛售，日元兑美元汇率维持在160附近。 日本10年期国债收益率上升约7个基点至2.87%左右，美国10年期国债收益率接近5.13%。 纽约联储主席威廉姆斯表示通胀依然顽固偏高，美联储仍有工作要做。 日本财务大臣片山出警告称正密切关注单边、快速的汇率波动，并将与美国财政部保持沟通以做出适当应对，同时提及美国财政部曾在7月进行了自1998年以来的首次买入日元干预。 片山还宣布政府将提前发放冬季燃气和电力补贴以减轻家庭能源负担。 受英伟达CEO黄仁勋辞职事件引发的担忧拖累，亚洲区域股市抹去了早盘的大部分涨幅。 日经指数收窄涨幅，韩国综合指数抹去了早盘2%的涨幅转为下跌，其中SK海力士下跌超过2%，三星电子下跌约0.6%，恒生指数下跌约1%。 在持续的ETF资金流出背景下，比特币跌破69,000美元。 尽管伊朗革命卫队声称袭击了巴林的一处美国雷达（该消息未得到独立证实），但布伦特原油仍持稳于95.70美元附近，WTI原油维持在88.40美元附近，黄金价格则上涨近1%。 在中国，中芯国际公布第三季度创纪录的约$3.19 billion营收，利润翻了一番以上，并预计全年营收将超过120亿美元，但同时警告芯片供应紧张。"
     },
     {
       "date": "2026.11.14",
@@ -188,30 +210,8 @@
       "url": "https://finance.biggo.com/news/78507bed-752d-4fb3-a4a2-8f24d5f44858",
       "language": "English",
       "section": "宏观经济与投资 / Macro & Investment",
-      "summary": "Nvidia CEO Jensen Huang suddenly resigned on November 12, stepping down after 33 years, while CFO Colette Kress became interim CEO and Harvey Jones was appointed chairman. Huang's departure and an ongoing independent investigation sparked a drop in AI-related stocks, a $215 billion fall in the crypto market within 48 hours, and a 3% drop in gold to $3,882.50 per troy ounce. Bitcoin briefly fell to $71,381 on the morning of November 13 and later dropped below $70,000, while US spot Bitcoin ETFs saw five consecutive days of outflows reaching about $1.44 billion. Meanwhile, higher-than-expected October US inflation data led to rising rate hike expectations, and crude oil prices rose due to Middle East tensions.",
-      "summary_zh": "英伟达首席执行官黄仁勋于11月12日突然宣布辞职，卸任其自1993年联合创立以来担任了33年的职务，首席财务官科莱特·克雷斯出任临时CEO，哈维·琼斯被任命为董事长。 黄仁勋的离职及一项正在进行的独立调查引发人工智能相关股票普跌，加密货币市场总市值在48小时内缩水$215 billion，黄金价格也下跌约3%至每金衡盎司$3,882.50。 比特币在13日上午一度跌至$71,381并随后跌破$70,000，美国现货比特币ETF连续五个交易日出现资金流出，累计净流出额达到约$1.44 billion。 同时，美国10月通胀数据高于预期，推高了加息预期，原油价格也因中东局势紧张而回升。"
-    },
-    {
-      "date": "2026.11.14",
-      "published_at": "2026-11-14T18:22:29+09:00",
-      "headline": "Oil (USCrude) Price Forecast for Today, Tomorrow, Next Week, and Next 30 Days",
-      "source": "LiteFinance",
-      "url": "https://www.litefinance.org/blog/analysts-opinions/oil-price-prediction-forecast/daily-and-weekly/",
-      "language": "English",
-      "section": "宏观经济与投资 / Macro & Investment",
-      "summary": "USCrude price forecasting involves analyzing fundamental, geopolitical, and technical factors. According to independent trader and analyst Alan Tsagaraev, technical indicators on the 4-hour chart show an Inverted Hammer near the $85.09 support level, a sideways MACD, an RSI at 52, an MFI turning downward from overbought territory, and VWAP and SMA20 sitting below the current market price. USCrude is trading at $88.560 as of November 14, 2026. Key support and resistance levels outline potential scenarios for long and short positions. Market volatility is expected due to economic data releases, Middle East conflict, and the upcoming APEC summit, while OPEC+ has kept December production targets unchanged and the EIA has raised its fourth-quarter Brent crude price forecast to $105 per barrel.",
-      "summary_zh": "美国原油（USCrude）价格预测需要综合考虑基本面、地缘政治和技术因素。 独立交易员兼分析师阿兰·察加拉耶夫指出，4小时图表显示$85.09支撑位附近出现倒锤头形态、MACD在正值区域横盘、RSI维持在52、MFI从超买区向下转向、VWAP和SMA20低于当前市场价格。 截至2026年11月14日，美国原油交易价格为$88.560。 关键支撑位和阻力位勾勒出多头和空头仓位的潜在情景。 受经济数据发布、中东冲突以及即将召开的亚太经合组织（APEC）峰会影响，市场预计将出现波动；与此同时，OPEC+决定维持12月生产目标不变，美国能源信息署（EIA）则将第四季度布伦特原油平均价格预测上调至每桶$105。"
-    },
-    {
-      "date": "2026.11.14",
-      "published_at": "2026-11-14T18:09:13+09:00",
-      "headline": "Market Movers blog: Microsoft shares shudder on global Outlook outage while tech rivals benefit",
-      "source": "Investment Week",
-      "url": "https://www.investmentweek.co.uk/blog/4080428/market-movers-blog",
-      "language": "English",
-      "section": "宏观经济与投资 / Macro & Investment",
-      "summary": "Investment Week published a live Market Movers blog on 13 November 2026, collating breaking market news, analysis, and opinion on equities, bonds, currencies, regulation, economics, and key market figures, including reporting on Microsoft shares dropping during a global Outlook outage while tech rivals benefited.",
-      "summary_zh": "《投资周刊》于2026年11月13日发布了一篇名为“市场推动者”的实时博客，汇总了关于股票、债券、货币、监管、经济及关键市场数据的突发市场新闻、分析与观点，其中包括微软股价因全球Outlook服务中断而下跌、而科技竞争对手因此受益的相关报道。"
+      "summary": "The sudden resignation of Nvidia Chief Executive Officer Jensen Huang on November 12 has triggered a broad sell-off of AI-related and risk assets across global financial markets. Huang stepped down as CEO and director after leading the company for 33 years since co-founding it in 1993, with CFO Colette Kress taking over as interim CEO and former Synopsys CEO Harvey Jones appointed as chairman. Nvidia launched an independent investigation following allegations involving Huang, during which shares briefly plunged nearly 14% to $148.80 before closing down 4.3%. In the cryptocurrency market, total market capitalization fell by $215 billion in 48 hours, dropping below $2.4 trillion for the first time in three months. Bitcoin fell to $69,000, and Ethereum broke below $2,000 to around $1,920. US spot Bitcoin ETFs saw cumulative net outflows of about $1.44 billion, with $299.9 million leaving on the 11th, including $269.7 million from BlackRock's IBIT. Binance Bitcoin open interest fell about 17% to $8.8 billion, and about $745 million in derivatives positions were liquidated in the 24 hours through the 13th, of which longs accounted for about $630 million. Gold also fell about 3% to $3,882.50 per troy ounce. Concurrently, US October CPI rose 0.4% month-on-month, exceeding the 0.3% forecast, and core CPI rose 0.3% against a 0.2% forecast. CME FedWatch data showed the December rate hike probability jumped from 78% to 100%, with Cleveland Fed President Hammack and San Francisco Fed President Daly signaling further rate hikes. The dollar hit its highest level against major currencies in about 19 months, while WTI crude rose to $88.74 and Brent to $95.82 amid receded Middle East peace expectations.",
+      "summary_zh": "英伟达首席执行官黄仁勋于11月12日突然辞职，在全球金融市场引发了对人工智能相关股票及风险资产的广泛抛售。 自1993年共同创立公司并领导了33年之后，黄仁勋卸任CEO及董事职务，首席财务官科莱特·克雷斯担任临时CEO，前新思科技CEO哈维·琼斯被任命为董事会新设的主席职务。 英伟达在收到针对黄仁勋的指控报告后启动了独立调查，并在该调查期间宣布了辞职消息，消息公布后该公司股价一度暴跌近14%至148.80美元，最终收盘下跌4.3%。 在加密货币市场，总市值在48小时内缩水$215 billion，三个月来首次跌破$2.4 trillion。 比特币跌至69,000美元左右，以太坊跌破2,000美元关口至1,920美元附近。 美国比特币现货ETF连续五个交易日出现资金流出，累计净流出达约14.4亿美元，仅11日单日就有$299.9 million流出，其中贝莱德的IBIT流出$269.7 million。 币安的比特币未平仓合约在不到一个月内从$10.6 billion跌至$8.8 billion下降约17%，截至13日的24小时内约有7.45亿美元的衍生品仓位被强制平仓，其中多头占约6.3亿美元。 黄金价格也下跌约3%至每盎司3,882.50美元。 与此同时，美国10月消费者价格指数环比上涨0.4%，高于市场预期的0.3%，核心CPI也录得0.3%，超出0.2%的预期。 CME集团的FedWatch工具显示，美联储12月加息概率从一周初的78%跃升至100%，克利夫兰联储主席哈马克和旧金山联储主席戴利均暗示可能需要进一步加息。 美元兑主要货币汇率触及约19个月来的最高水平。 受中东和平预期回落影响，WTI原油升至每桶88.74美元，北海布伦特原油升至95.82美元。"
     },
     {
       "date": "2026.11.14",
@@ -221,8 +221,19 @@
       "url": "https://timesofindia.indiatimes.com/business/international-business/dollar-nears-19-month-high-as-inflation-fuels-bets-on-bigger-fed-rate-hike-next-month/articleshow/135825650.cms",
       "language": "English",
       "section": "宏观经济与投资 / Macro & Investment",
-      "summary": "The US dollar neared a 19-month high and headed for its biggest weekly gain in two months on Friday, driven by stronger-than-expected US inflation data and hawkish comments from Federal Reserve officials that increased traders' bets on a larger interest rate hike next month. The dollar index rose 0.1% to 103.34, while two-year Treasury yields rose about 32 basis points to nearly 4.84%. The Japanese yen remained weak near 159.84 per dollar, prompting Finance Minister Satsuki Katayama to state that the government would respond appropriately to currency volatility. Meanwhile, the euro fell 0.23% to $1.103, the Australian dollar dropped to $0.678, the New Zealand dollar slipped to $0.553, and cryptocurrencies recorded losses with bitcoin falling 4.73% to $68,126.21 and ethereum declining 5.02% to $1,914.61.",
-      "summary_zh": "受强于预期的美国通货膨胀数据以及美联储官员的鹰派言论推动，交易员对下个月美联储实施更大规模加息的押注增加，美元在周五接近19个月高点，并有望创下两个月来最大单周涨幅。 美元指数上涨0.1%至103.34，两年期美国国债收益率上涨约32个基点至近4.84%。 日元兑美元维持在159.84附近的弱势水平，财务大臣片山皋月表示政府将对汇率波动做出适当回应。 与此同时，欧元下跌0.23%至$1.103，澳元跌至$0.678，新西兰元跌至$0.553，加密货币也普遍下跌，其中比特币下跌4.73%至$68,126.21，以太坊下跌5.02%至$1,914.61。"
+      "summary": "The US dollar headed for its biggest weekly gain in two months on Friday, remaining close to a 19-month high as traders increased bets on a larger interest rate hike by the Federal Reserve next month. Stronger-than-expected US inflation data and hawkish comments from Fed officials, including New York Fed President John Williams and Fed Governor Christopher Waller, drove up US Treasury yields, with two-year Treasury yields rising about 32 basis points this week to nearly 4.84%. According to the CME FedWatch tool, traders priced in a roughly 92% chance of a 25-basis-point rate hike next month. The dollar index rose 0.1% to 103.34. The euro fell 0.23% to $1.103 to hit its lowest level against the dollar since April 2025, and the dollar gained 0.28% against the Swiss franc to 0.837. The Japanese yen remained weak at 159.84 per dollar, down about 1% for the week and near its lowest level since early September, prompting Finance Minister Satsuki Katayama to state that the government would respond appropriately to currency volatility. The Australian dollar fell 0.46% to $0.678, making it the worst-performing G10 currency against the dollar for the month and the only G10 country where markets expect a rate cut next year. The New Zealand dollar slipped 0.29% to $0.553. Cryptocurrencies also declined, with bitcoin falling 4.73% to $68,126.21 and ethereum dropping 5.02% to $1,914.61.",
+      "summary_zh": "美国美元在周五迎来了两个月来最大单周涨幅，维持在19个月高点附近，因交易员加大了对美联储下个月采取更大力度加息的押注。 由于本周公布的美国通胀数据强于预期，加之纽约联储主席约翰·威廉姆斯和美联储理事克里斯托弗·沃勒等美联储官员发表了鹰派言论，推动了美国国债收益率上升，其中两年期美债收益率本周上涨约32个基点至接近4.84%，创下自2025年4月以来最大单周涨幅。 根据CME的FedWatch工具，交易员预计美联储下个月加息25个基点的概率约为92%。 衡量美元兑一揽子货币汇率的美元指数上涨0.1%至103.34。 欧元下跌0.23%至1.103美元，触及自2025年4月以来对美元的最低水平，美元兑瑞郎则上涨0.28%至0.837。 日本日元在周五维持在每美元159.84的弱势水平，本周下跌约1%且接近9月初以来的最低水平，这引发了日本财务大臣片山皋月表态称政府将对汇率波动做出适当回应。 澳大利亚元下跌0.46%至0.678美元，成为本月兑美元表现最差的G10货币，澳大利亚也是市场上唯一预期明年会降息的G10国家。 新西兰元兑美元下滑0.29%至0.553美元。 加密货币同样录得下跌，其中比特币下跌4.73%至68,126.21美元，以太坊下跌5.02%至1,914.61美元。"
+    },
+    {
+      "date": "2026.11.14",
+      "published_at": "2026-11-14T15:02:00+09:00",
+      "headline": "Gold (XAU/USD) Price Forecast: Dollar Strength Extends Downside Targets",
+      "source": "FXEmpire",
+      "url": "https://www.fxempire.com/forecasts/article/gold-xau-usd-price-forecast-dollar-strength-extends-downside-targets-2-1644653",
+      "language": "English",
+      "section": "宏观经济与投资 / Macro & Investment",
+      "summary": "Gold remained under pressure on Friday following a bearish trend continuation signal triggered during Thursday’s session when prices declined below $3,870. During Friday’s session, gold consolidated in a narrow range from $3,868 to $3,923 near prior lows and in the lower half of Thursday’s range, indicating that sellers remained in control heading into the weekend. While support could hold above Thursday’s low of $3,852, potential rallies are expected to encounter resistance that turns prices back down toward new lows, with key resistance levels identified at Thursday’s high of $4,001 and the 20-day moving average currently near $4,023. The bearish trend is reinforced by a declining trend channel following a recent swing high of $4,697 at its upper boundary, with prices having previously tested the channel midline three consecutive days in late October and confirming a breakdown below it with this week's close. Additionally, Friday’s high tested resistance at that midline. On the weekly chart, a bearish engulfing candlestick pattern is on track to complete, increasing the likelihood of testing support near the channel's lower boundary. A decisive decline below this week’s low of $3,852 would signal a new bearish trend continuation, targeting a support confluence range from $3,736 to $3,705 consisting of the 127.2% Fibonacci extension and the 61.8% Fibonacci retracement of the prior advance from the June low, with the subsequent support level located at the 78.6% Fibonacci retracement of $3,650.",
+      "summary_zh": "周五黄金价格继续承压，此前在周四的交易中跌破3870美元触发了看跌趋势持续信号。 周五当天，黄金在3868美元至3923.00美元的狭窄日内区间内盘整，位于前期低点附近以及周四波动区间的下半部分，表明卖方在进入周末时仍占据主导地位。 尽管支撑位可能在周四创下的3852美元新低上方保持，但自此的反弹预计将遇到阻力并导致金价回落，并存在创下新低的潜力，关键阻力位包括周四的高点4001美元以及目前接近4023美元的20日移动平均线。 在近期创下4697美元的上轨 swing 高点之后，当前的短期下跌跟随一个下行通道，10月下旬价格曾连续三天触及通道中线，而本周收盘跌破该中线确认了其突破，周五的高点也直接测试了该中线的阻力。 此外，周刊图表正在完成看跌吞没K线形态，增加了最终测试通道下边界附近支撑的可能性。 如果决定性地跌破本周低点3852美元，将提供一个新的看跌趋势持续信号，金价将首先跌向3736美元至3705.00美元的潜在支撑汇聚区，该区间分别由6月低点以来前一涨势的127.2%斐波那契扩展位和61.8%斐波那契回撤位构成，该区间之下的下一个支撑位是前期涨势78.6%的斐波那契回撤位3650美元。"
     },
     {
       "date": "2026.11.14",
@@ -232,8 +243,8 @@
       "url": "https://finance.biggo.com/news/25fc8054-3e79-4da3-99bf-1ba17def382c",
       "language": "English",
       "section": "宏观经济与投资 / Macro & Investment",
-      "summary": "The yen fell to the lower 158 range against the dollar in New York on the 10th, trading at 158.12-22 yen per dollar at 8 a. m. , representing a 26-sen decline from the previous day's 5 p. m. rate of 157.86-96 yen. A similar narrow range trend was observed in Tokyo, with the dollar-yen at 158.03 yen at noon. The euro remained flat against the dollar, while the euro-yen traded around the 177.30 yen level. In Sydney, the yen stood at 157.92-93 yen at 8:30 a. m. local time. In the previous New York session on Monday the 9th, the dollar-yen was at 157.90-158.00 yen. Market participants noted persistent dollar buying driven by the U. S. -Japan interest rate differential, while the 158 level serves as heavy upside resistance. Analysts indicate that if the weak-yen level becomes entrenched, import prices may draw renewed attention to domestic consumer prices, keeping financial markets focused on Bank of Japan monetary policy and Federal Reserve rate cuts.",
-      "summary_zh": "10日在纽约外汇市场上，日元兑美元跌至158.12至158.22日元区间，较前一日下午5点的157.86至157.96日元下跌26钱。 东京市场也呈现相似的窄幅波动走势，中午时段美元兑日元报158.03日元。 欧元兑美元保持平稳，欧元兑日元则围绕177.30日元左右寻找方向。 悉尼市场10日上午8点30分时，日元兑美元报157.92至157.93日元。 在9日周一的纽约早盘，美元兑日元曾报157.90至158.00日元。 市场参与者指出，受美日利差意识推动，买入美元的操作持续存在，同时158这一水平被视为具有较重的上行阻力。 由于美元在美债收益率下降时易遭抛售，且弱势日元可能通过进口价格波及国内消费市场，市场正密切关注日本银行的货币政策走向及美联储的降息步伐。"
+      "summary": "In the New York Foreign Exchange Market on the 10th, the yen fell to the 158.12–22 range per dollar at 8 a. m. , representing a 26-sen decline from the previous day's 5 p. m. level of 157.86–96 yen. The pair moved within a narrow range centered on the upper 157 and 158 levels across Tokyo, Sydney, and New York markets, with limited overall direction. Persistent dollar buying driven by the U. S. -Japan interest rate differential and heavy upside resistance around the 158 level kept participants in a wait-and-see stance. Market focus remains on the Bank of Japan's monetary policy conduct and the U. S. Federal Reserve's rate cut pace. While the stalemate does not immediately affect Japanese exporters' earnings outlooks, an entrenched weak-yen level near 158 could draw renewed attention to domestic consumer prices through import prices.",
+      "summary_zh": "在10日的纽约外汇市场上，日元在上午8点跌至每美元158.12至158.22日元区间，比前一天下午5点的157.86至157.96日元下跌了26钱。 东京、悉尼和纽约市场上的美元兑日元汇率均在157上方至158水平的狭窄区间内波动，方向不明。 受美日利差推动的持续买入美元以及158水平附近沉重的上方阻力，使得市场参与者维持观望态度。 市场焦点依然集中在日本央行的货币政策走向以及美国联邦储备委员会的降息步伐上。 虽然汇市僵局并未立即影响日本出口企业的盈利前景，但如果158左右的弱势日元水平长期固化，通过进口价格向国内消费价格的传导可能会再次受到关注。"
     },
     {
       "date": "2026.11.14",
@@ -243,30 +254,8 @@
       "url": "https://www.tmgm.com/eng/analysis/market-news/article/bank-of-japan-set-to-hike-in-december-why-the-japanese-yen-is-still-weakening-anyway-202611131247",
       "language": "English",
       "section": "宏观经济与投资 / Macro & Investment",
-      "summary": "The Japanese Yen remains under pressure as USD/JPY trades above 160.00 for a second consecutive session, drawing verbal warnings from Japanese Finance Minister Katayama over rapid foreign exchange moves. Japan's Q3 real GDP growth is projected at 0.8% QoQ saar, supported by AI-related export demand and wage-driven domestic consumption, while October's trade deficit is projected to widen to JPY1.2 trillion amid 17% YoY export growth. These factors, alongside above-target inflation, support expectations for a 25 bps Bank of Japan rate increase in December. However, Commerzbank's Volkmar Baur notes that expectations for further Federal Reserve tightening, including a March rate increase, are offsetting domestic policy support and converging central bank paths, leading to a forecast of a modest move to 155.00 by mid-2027. Meanwhile, strategists at DBS Group Research, Societe Generale, and Commerzbank evaluate potential technical breakouts toward 162.20 and note initial support at the 200-day moving average around 158.70.",
-      "summary_zh": "随着美元兑日元连续第二个交易日交投于160.00上方，日元持续承压并接近数月低点，日本财务大臣片山对此类单边快速外汇变动提出了警告。 受人工智能相关出口需求和工资支持的国内消费驱动，日本第三季度实际GDP环比年化增长率预计为0.8%，且在出口同比增长17%的同时，10月贸易逆差预计将扩大至1.2 trillion。 这些因素与高于目标的通胀率共同支撑了日本央行在12月加息25个基点的预期。 不过，德国商业银行的沃尔克马尔·鲍尔指出，美联储可能在3月进一步加息的预期抵消了国内政策支持，促使两国央行政策路径趋同，该行预计到2027年中期日元仅会小幅升值至155.00水平。 同时，DBS集团研究、兴业银行和德国商业银行的策略师正在评估突破162.20的可能性，并指出200日移动均线158.70附近构成初步支撑。"
-    },
-    {
-      "date": "2026.11.14",
-      "published_at": "2026-11-14T10:46:00+09:00",
-      "headline": "Gold, Silver and Oil: The Golden Age of Trading Is Here – Are You Positioned?",
-      "source": "FXEmpire",
-      "url": "https://www.fxempire.com/forecasts/article/gold-silver-and-oil-the-golden-age-of-trading-is-here-are-you-positioned-1644585",
-      "language": "English",
-      "section": "宏观经济与投资 / Macro & Investment",
-      "summary": "GSC Commodity Intelligence's latest institutional survey of roughly 250 financial institutions reveals an average investment holding period of 2.5 months, with 67% of respondents shifting strategies from investing to trading over a nine-month period in 2026. A majority of respondents agreed that commodities and hard assets are the place to be through the end of the decade, driven by megatrends such as deglobalization, energy security, geopolitical conflict, infrastructure expansion, resource nationalism, central bank reserve diversification, and artificial intelligence. Over half of the institutions stated that the traditional 60/40 stock-bond portfolio no longer sufficiently protects clients, with 70% prioritizing downside protection and diversification for 2027 and beyond. Additionally, the World Gold Council reported that central banks added a net 321 tonnes of gold in Q3 2026, which is 42% higher than a year earlier, while global physically backed gold ETFs attracted $2.7 billion in October to reach a record 4,275 tonnes, despite gold falling 8.5% in U. S. dollars in September 2026.",
-      "summary_zh": "GSC商品情报公司对约250家金融机构进行的最新机构调查显示，平均投资持仓期限仅为2.5个月，67%的受访者在2026年的9个月期间将策略从投资转向了交易。 多数受访者一致认为，受去全球化、能源安全、地缘政治冲突、基础设施扩张、资源民族主义、央行储备多元化以及人工智能等大趋势推动，大宗商品和硬资产是直到本十年末的最佳去向。 超过半数的机构表示，传统的60%股票和40%债券组合已不再足以保护客户，约70%的机构将2027年及以后的下行保护和多元化配置列为首要任务。 此外，世界黄金协会报告称，2026年第三季度各国央行净增持321吨黄金，比去年同期增加42%，同时全球实物黄金ETF在10月吸引了$2.7 billion资金流入，持仓量达到创纪录的4,275吨，尽管黄金价格在2026年9月曾以美元计算下跌了8.5%。"
-    },
-    {
-      "date": "2026.11.14",
-      "published_at": "2026-11-14T11:59:50+09:00",
-      "headline": "USD heads for its strongest weekly gain in two months, yen approaches 160.",
-      "source": "Vietnam.vn",
-      "url": "https://www.vietnam.vn/en/usd-huong-toi-tuan-tang-manh-nhat-trong-hai-thang-yen-ap-sat-moc-160",
-      "language": "English",
-      "section": "宏观经济与投资 / Macro & Investment",
-      "summary": "The U. S. dollar remained near its 19-month high, heading for its strongest weekly gain in two months with the dollar index at 103.21, driven by rising bond yields and expectations of Fed interest rate hikes following U. S. statements regarding Iran and Middle East oil supply concerns. The two-year U. S. Treasury bond yield rose by about 34 basis points this week to 4.86%. Meanwhile, the yen approached the 160 level at 159.99 per dollar, depreciating about 1% for the week, which prompted Japanese Finance Minister Satsuki Katayama to state that the government will respond appropriately to excessive exchange rate fluctuations. In other markets, the euro traded sideways at $1.1053, the Australian dollar fell to $0.6789, the Swiss franc traded at 0.838 francs, Bitcoin fell 3% to $69,361, and Ether dropped 2.7% to $1,962.02.",
-      "summary_zh": "受美国关于伊朗的声明及中东石油供应担忧推高美债收益率和美联储加息预期影响，美元保持在19个月高位附近，美元指数报103.21，有望创下两个月来最大周涨幅。 本周美国两年期国债收益率上涨约34个基点至4.86%。 与此同时，日元逼近160关口，报159.99日元兑1美元，本周贬值约1%，这促使日本财务大臣片山皋月表示政府将对外汇过度波动采取适当回应。 在其他市场中，欧元横盘交投于1.1053美元，澳元下跌至0.6789美元，瑞郎交投于0.838瑞郎，比特币下跌3%至69,361美元，以太坊下跌2.7%至1,962.02美元。"
+      "summary": "The Japanese Yen faces ongoing pressure as USD/JPY trades above 160.00 for a second consecutive session, prompting verbal warnings from Japanese Finance Minister Katayama over rapid foreign exchange moves. Japan's Q3 real GDP growth is projected at 0.8% QoQ saar, driven by AI export demand and wage-supported consumption, while October's trade deficit is expected to widen to JPY1.2 trillion with 17% YoY export growth. These domestic factors, alongside above-target inflation, support expectations for a 25 bps Bank of Japan rate increase in December. However, higher expectations for Federal Reserve tightening, including a potential March rate rise cited by Commerzbank's Volkmar Baur, are offsetting that support. Strategists from DBS Group Research, Societe Generale, and Commerzbank note that while technical breakouts could push USD/JPY toward 162.20 with initial support at the 200-day moving average around 158.70, converging central bank paths and structurally more attractive domestic bond yields could influence longer-term currency recovery.",
+      "summary_zh": "随着美元兑日元连续第二个交易日交投于160.00上方，日元持续承受压力，日本财务大臣片山对此类单边快速外汇波动发出了警告。 受人工智能出口需求和工资支持的消费驱动，日本第三季度实际GDP环比年化增长率预计为0.8%，同时10月份贸易逆差预计将扩大至1.2 trillion，出口同比增长17%。 这些国内因素加上高于目标的通货膨胀，支持了日本央行在12月加息25个基点的预期。 然而，对美联储收紧政策的更高预期（包括德国商业银行的沃尔克·鲍尔提到的3月可能再次加息）抵消了这种支撑。 来自星展集团研究部、法国兴业银行和德国商业银行的策略师指出，技术突破可能会将美元兑日元推向162.20，200日移动平均线158.70附近提供初始支撑，而央行路径的趋同以及结构上更具吸引力的国内债券收益率可能会影响日元长期的回升。"
     }
   ]
 }
