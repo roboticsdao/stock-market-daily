@@ -1,6 +1,6 @@
 {
-  "state": "ok",
-  "checked_at": "2026-11-16T04:23:07.798345+09:00",
+  "state": "partial",
+  "checked_at": "2026-11-16T04:36:39.394765+09:00",
   "latest_article_at": "2026-11-16T04:15:18+09:00",
   "articles": 22,
   "sections": {
@@ -9,5 +9,5 @@
     "宏观经济与投资 / Macro & Investment": 6
   },
   "shortfalls": {},
-  "translations_missing": 0
+  "translations_missing": 4
 }
