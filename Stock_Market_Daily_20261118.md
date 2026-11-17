@@ -1,0 +1,157 @@
+# 📈 Stock Market Daily | 2026.11.18（水曜日 / Wednesday）
+
+> ⚠ 本日报优先收录最近24小时的市场新闻、个股异动与当时市场快照；数据仅供参考，不构成投资建议。
+
+---
+
+
+## 🇺🇸 美国股市 / US Market
+
+- **[2026.11.18] Yahoo Finance — Wall Street falters ahead of Nvidia earnings, Anthropic debut**
+  English：US stocks extended their tech-driven slide on Tuesday as investors prepared for Nvidia's earnings and Anthropic's upcoming IPO targeted to raise up to $1.4 trillion. Major indexes fell more than 1%, with all sectors in the S&P down amid broad market nervousness. The selloff followed controversy surrounding Nvidia CEO Jensen Huang's ouster and ongoing concerns over AI infrastructure spending. Meanwhile, economic data showed strong retail sales, weakening industrial output, rising import prices, and plunging homebuilder sentiment. Nvidia was projected to post 90.4% year-on-year earnings growth on revenue of $109.11 billion.
+  中文：总结：美国股市周二延续了由科技股引领的跌势，投资者正为英伟达的财报以及预计筹资高达$1.4 trillion的Anthropic首次公开募股做准备。 在市场整体紧张情绪下，三大主要股指跌幅均超过1%，标普所有板块悉数下跌。 此前，英伟达首席执行官黄仁勋因丑闻离职，加剧了市场对人工智能基础设施快速建设及相关风险的担忧。 与此同时，经济数据显示零售销售表现强劲、工业产出减弱、进口价格上涨以及住宅建筑商信心骤降。 英伟达此前预计将公布90.4%的同比增长盈利，营收达到$109.11 billion。
+  📰 [Yahoo Finance](https://finance.yahoo.com/markets/stocks/articles/us-stock-futures-slip-ahead-105311659.html)
+
+- **[2026.11.18] Yahoo Finance — Cathie Wood Is Betting $1.2 Billion on Tesla**
+  English：ARK Invest's latest 13F filing shows Tesla remained its largest holding at 6.9% of its 13F stocks at the end of September, with share counts increasing by 22% from June 30 to 3.37 million shares worth $1.20 billion. SpaceX was ARK's second-biggest holding, with 6.75 million shares valued at $1.02 billion, representing a 51% increase over the quarter. Reports indicate Tesla and SpaceX are in merger talks and could announce a deal as soon as December. Meanwhile, Tesla's GAAP operating margin fell to 2.6% in the third quarter from 5.8% a year earlier, and management guides 2026 capital spending to about $20 billion.
+  中文：总结：方舟投资最新的13F文件显示，截至9月底，特斯拉仍为其最大持仓，占其13F股票的6.9%，持股量较6月30日增加22%，达到3.37 million股，价值$1.20 billion。 SpaceX是方舟的第二大持仓，持有6.75 million股，价值$1.02 billion，在当季度增持了51%。 报道称特斯拉与SpaceX正在进行合并谈判，最快可能在12月宣布达成协议。 与此同时，特斯拉第三季度的GAAP营业利润率从去年同期的5.8%降至2.6%，管理层预计2026年资本支出约为$20 billion。
+  📰 [Yahoo Finance](https://finance.yahoo.com/markets/stocks/articles/cathie-wood-betting-1-2-150017010.html)
+
+- **[2026.11.17] Coinpedia — US Stock Market Today: Mag 7 Stocks Mostly Lower as Health Insurers Decline**
+  English：Most Magnificent 7 stocks traded lower, with Nvidia gaining 1%, Amazon rising 0.5%, and Tesla adding 0.4%. Alphabet slipped 0.1%, Apple and Microsoft each fell 0.3%, and Meta Platforms declined 0.4%. Health insurance stocks moved lower following the US government's proposed Medicare Advantage audit framework under the CRUSH proposal. Among individual stocks, Aecom surged 8% after issuing a stronger fiscal 2027 outlook, Home Depot fell 2% after reducing the upper end of its profit guidance, Omeros dropped 7% on weaker-than-expected quarterly revenue, and Red Cat plunged 30% after withdrawing its full-year revenue target.
+  中文：总结：多数“七巨头”股票下跌，其中英伟达上涨1%，亚马逊上涨0.5%，特斯拉上涨0.4%。 Alphabet微跌0.1%，苹果和微软均下跌0.3%，Meta平台下跌0.4%。 在美国政府根据CRUSH提案提议医疗保险优势计划审计框架后，健康保险股走低。 在个股方面，Aecom在发布强劲的2027财年展望后飙升8%，家得宝在下调利润指引上限后下跌2%，Omeros因季度营收逊于预期下跌7%，红猫因撤回全年营收目标暴跌30%。
+  📰 [Coinpedia](https://coinpedia.org/crypto-live-news/us-stock-market-today-mag-7-stocks-mostly-lower-as-health-insurers-decline/amp/)
+
+- **[2026.11.17] BigGo Finance — AI Hardware Stocks Rebound in Premarket After Selloff; Optical Communications Pair Jump Over 4%**
+  English：U. S. AI hardware stocks rebounded in premarket trading following heavy selling pressure in the prior session. Optical communications makers Coherent jumped 5.04% and Lumentum rose 4.51% premarket to lead the gains. Other bellwether stocks also advanced, including AMD up 3.10%, Marvell Technology up 3.78%, Arm up 2.49%, SK Hynix up 2.19%, Micron Technology up 2.14%, Broadcom up 1.45%, Nvidia up 1.17%, Taiwan Semiconductor Manufacturing up 0.39%, ASML up 0.45%, and SanDisk up 1.81%. The Direxion Daily Semiconductor Bull 3X Shares ETF gained 5.09% premarket, following prior sessions where the Philadelphia Semiconductor Index closed down 5.3%.
+  中文：总结：在经历前一个交易日的沉重抛压后，美国人工智能硬件股在盘前交易中反弹。 光通信制造商Coherent盘前跳涨5.04%，Lumentum上涨4.51%，领涨相关个股。 其他权重股也普遍上涨，其中AMD上涨3.10%，迈威尔科技上涨3.78%，Arm上涨2.49%，SK海力士上涨2.19%，美光科技上涨2.14%，博通上涨1.45%，英伟达上涨1.17%，台积电小幅上涨0.39%，阿斯麦上涨0.45%，闪迪上涨1.81%。 Direxion每日三倍做多半导体ETF盘前上涨5.09%，此前费城半导体指数在前几个交易日收盘下跌5.3%。
+  📰 [BigGo Finance](https://finance.biggo.com/news/5b835a16-19c5-46e4-8e91-95edad0fc323)
+
+- **[2026.11.17] 24/7 Wall St. — Wait for Tesla to Fall to $320: Patience Over FOMO is Paramount**
+  English：Tesla shares trade at $379.74 as a Hold, with expectations of a better entry near $320. Operating income fell 55.79% year over year as R&D rose to $2.76 billion, while free cash flow dropped 61.63% to $1.531 billion and capex rose 110.5%. FSD active subscriptions reached 1.74 million, and unsupervised Robotaxi miles grew 8x sequentially to about 2 million. Energy business is robust with Megapacks almost sold out for 2027, backed by $45.447 billion in cash. Consensus 2027 EPS fell to $2.1592, and the $412.48 consensus target implies 8.6% upside.
+  中文：总结：特斯拉股价报$379.74，评级为持有，理想的买入点位接近$320。 由于研发费用增至$2.76 billion，营业收入同比下降55.79%，自由现金流下降61.63%至$1.531 billion，资本支出则上升110.5%。 全自动驾驶活跃订阅数达到1.74 million，无人驾驶出租车行驶里程环比增长8倍，达到约2 million英里。 能源业务强劲，2027年的Megapacks几乎售罄，并拥有$45.447 billion的现金储备支持。 2027年每股收益共识降至$2.1592，$412.48的共识目标价暗示有8.6%的上涨空间。
+  📰 [24/7 Wall St.](https://247wallst.com/investing/2026/11/17/wait-for-tesla-to-fall-to-320-patience-over-fomo-is-paramount/)
+
+- **[2026.11.17] TradingKey — Marvell Technology Inc Stock (MRVL) Closed Down by 7.27% on Nov 16: Facts Behind the Movement**
+  English：Marvell Technology Inc (MRVL) stock closed down by 7.27% on November 16 amid a sector-wide risk aversion wave affecting semiconductor and artificial intelligence hardware suppliers. The decline was fueled by investor concerns over Marvell's announced $115 billion all-stock acquisition of Lumentum Holdings, which involves substantial shareholder dilution, integration hurdles, and regulatory reviews. Additional pressures stemmed from macroeconomic uncertainties, questions over hyperscale capital spending pace, and negative technical indicators such as a MACD value of -4.348 and an RSI of 32.557.
+  中文：总结：Marvell Technology Inc (MRVL) 股票在11月16日下跌7.27%，主要受到半导体及人工智能硬件板块整体风险规避情绪的影响。 股价下跌的主要原因包括投资者对Marvell宣布以全股票方式收购Lumentum Holdings交易引发的股东稀释、整合难题以及长期监管审查的担忧。 宏观经济不确定性、超大规模资本支出步伐的疑问，以及MACD指标为-4.348、RSI为32.557等负面技术指标也加剧了抛压。
+  📰 [TradingKey](https://www.tradingkey.com/news/market-movers/262307698-market-movers-mrvl-20261116)
+
+- **[2026.11.18] 24/7 Wall St. — NVIDIA Trades Under 12 Times Forward Earnings Heading Into Its Report. Bargain or Trap?**
+  English：NVIDIA shares traded under 12 times forward earnings heading into its November 17 earnings report, after declining 12.79% in the past week and 27.23% in the past month. The company previously reported second-quarter revenue of $96.22 billion and Data Center revenue growth of 117%, with consensus calling for EPS of $2.4712 on revenue of $108.73 billion for the current report. Management expects gross margins to bottom at 71% to 72% in Q4 due to rising memory costs, while days sales increased to 60 days and guarantee obligations reached $108.5 billion. Analysts maintain a buy rating with an average target of $278.31, driven by strong projected revenue growth and production of the Vera Rubin architecture.
+  中文：总结：在11月17日财报发布前，NVIDIA股价在过去一周下跌12.79%，过去一个月下跌27.23%，前瞻市盈率降至12倍以下。 该公司此前公布的第二季度营收达到$96.22 billion，数据中心营收增长117%，市场对此次财报的共识预期为每股收益$2.4712，营收$108.73 billion。 管理层预计第四季度毛利率将因内存成本上升而触底至71%至72%，应收账款周转天数增至60天，担保义务达到$108.5 billion。 分析师维持买入评级，平均目标价为$278.31，主要受到强劲的预计营收增长和Vera Rubin架构量产的推动。
+  📰 [24/7 Wall St.](https://247wallst.com/investing/2026/11/17/nvidia-trades-under-12-times-forward-earnings-heading-into-its-report-bargain-or-trap/)
+
+- **[2026.11.18] 行情快照 / Quote · S&P 500 — 标普500下跌1.38%**
+  Quote: S&P 500 stood at 7,314.35 as of 2026.11.18 05:12 JST, 1.38% lower than the previous close.
+  行情中文：截至 2026.11.18 05:12 JST，标普500较前收盘下跌1.38%。
+  📰 [Yahoo Finance](https://finance.yahoo.com/quote/%5EGSPC)
+
+- **[2026.11.18] 行情快照 / Quote · Nasdaq Composite — 纳斯达克综合指数下跌1.28%**
+  Quote: Nasdaq Composite stood at 24,196.88 as of 2026.11.18 05:12 JST, 1.28% lower than the previous close.
+  行情中文：截至 2026.11.18 05:12 JST，纳斯达克综合指数较前收盘下跌1.28%。
+  📰 [Yahoo Finance](https://finance.yahoo.com/quote/%5EIXIC)
+
+## 🇯🇵 日本株式市場 / Japan Market
+
+- **[2026.11.18] 外為どっとコム — 【テクニカル】日経平均株価テクニカル分析－下値模索もモメンタムは減速**
+  日本語：Nikkei Average experienced a sharp consecutive decline, testing lower levels and finding some support near the November 9 close of 58775 yen. The 9-day RSI rose from 35.3% to 35.6% on November 17 amid continued pullbacks from resistance lines connecting July 29 and October 23 lows. The market is testing a double bottom against the November 6 low of 56745 yen, with the 5-day moving average at 60346 yen and 10-day moving average at 60166 yen continuing downward. Potential resistance levels include 60000 yen and the October 29 high of 64831 yen, while support levels include 58000 yen and the March 31 low of 50558 yen.
+  中文：总结：日经平均指数大幅连续下跌，探寻更低水平，并在11月9日收盘价58775日元附近获得一定支撑。 在连接7月29日和10月23日低点的阻力线回撤影响下，9日RSI于11月17日从35.3%上升至35.6%。 市场正在对11月6日的低点56745日元进行二次探底测试，5日移动平均线（60346日元）和10日移动平均线（60166日元）继续下行。 潜在阻力位包括60000日元和10月29日高点64831日元，而支撑位则包括58000日元以及3月31日低点50558日元。
+  📰 [外為どっとコム](https://www.gaitame.com/media/entry/2026/11/18/010311)
+
+- **[2026.11.17] ダイヤモンド・オンライン — 日経平均株価は｢下値メドの5万6745円を下回れば5万円まで下落｣する可能性も！ 終値で200日移動平均線を上回るまでリスクを最小限に抑えて相場反転を待とう**
+  日本語：US and Japanese stock markets saw continued adjustments in AI and semiconductor-related stocks following the US midterm elections won by Democrats, who campaigned on limiting data center construction due to power and water concerns. Sentiment was further impacted by the resignation of NVIDIA CEO Jensen Huang on November 12 amid a scandal involving a woman linked to a company suspected of smuggling chips to China, alongside US export regulation updates and Treasury Secretary comments. Meanwhile, Anthropic scheduled an IPO on Nasdaq for November 19 with a target valuation between $1.26 trillion and $1.40 trillion. On November 17, the Nikkei Average fell 801.59 yen to close at 58860.43 yen following an overnight drop in US semiconductor stocks.
+  中文：总结：在美国民主党在中期选举中获胜（该党以电力和水资源原因为由主张限制数据中心建设）之后，美日股市的AI及半导体相关股票持续调整。 11月12日，NVIDIA首席执行官杰森·黄因涉及与涉嫌向中国走私芯片企业的关联女性丑闻而辞职，加上美国出口监管更新及财政部长言论，进一步打击了市场情绪。 与此同时，Anthropic计划于11月19日在纳斯达克进行IPO，估值在$1.26 trillion至$1.40 trillion之间。 受隔夜美股半导体板块大跌影响，11月17日日经平均指数下跌801.59日元，收于58860.43日元。
+  📰 [ダイヤモンド・オンライン](https://diamond.jp/zai/articles/-/1075748)
+
+- **[2026.11.17] BigGo ファイナンス — 日経平均、半導体株安で801円続落 アドバンテスト1銘柄で257円押し下げ**
+  日本語：Tokyo stocks tumbled on November 17, with the Nikkei Average dropping 801.59 yen to close at 58860.43 yen, pressured by a sharp fall in the Philadelphia Semiconductor Sector Index. Semiconductor-related high-priced stocks led the losses, with Advantest alone pushing down the index by about 257 yen and SoftBank Group contributing a 109 yen decline. Despite reporting strong earnings and upward revisions, companies like Resonac Holdings and Appier Group were pulled down by sector-wide selling. Conversely, defensive and domestic-oriented issues such as Recruit Holdings and Fast Retailing provided support, while Kッセイ Pharmaceutical gained after favorable clinical trial results announced by its licensing partner CG Oncology.
+  中文：总结：受费城半导体指数大跌拖累，东京股市11月17日大幅下跌，日经平均指数收盘下跌801.59日元，报58860.43日元。 半导体相关高价股领跌，其中Advantest单只股票就令日经指数下跌约257日元，软银集团贡献了约109日元的跌幅。 尽管发布了强劲的财报和业绩上调公告，Resonac Holdings和Appier Group等公司仍被板块整体抛售所拖累。 相反，瑞可利控股和迅销等防御及内需类股票提供了支撑，而基斯乐制药则因其许可合作伙伴CG Oncology公布良好的临床试验结果而上涨。
+  📰 [BigGo ファイナンス](https://finance.biggo.jp/news/42773206-2916-4bf0-be0f-61659a3a138b)
+
+- **[2026.11.17] Yahoo!ファイナンス — レーティング日報【最上位を継続＋目標株価を増額】 (11月17日)(株探ニュース)**
+  日本語：11月17日に調査機関が投資判断を最上位で継続し、目標株価を引き上げた銘柄がまとめられた。 主な銘柄として、ALSOKがモルガンにより強気で1600円から1800円へ、三越伊勢丹が岩井コスモによりAで2175円から2200円へ、東レが日興により強気で1700円から1800円へ、ネクソンが岩井コスモによりAで3400円から3600円へ、エーザイが東海東京により強気で5400円から5900円へ、大塚HDがモルガンにより強気で15100円から15700円へ、サワイGHDが野村により買いで2100円から2300円へ、富士フイルムが東海東京により強気で4400円から4900円へ、AREHDが日興により強気で6400円から6900円へ、オークマが東海東京により強気で5320円から5750円へ、ベイカレントが日興により強気で9500円から13900円へ、シスメックスが東海東京により強気で1850円から2600円へ、良品計画がJPモルガン証券により強気で5700円から6300円へ、バンナムHDが岡三により強気で7100円から8800円へ、JALがJPモルガン証券により強気で3400円から4000円へそれぞれ目標株価が引き上げられたことが報告された。
+  中文：总结：11月17日，调查机构维持了对多只股票的最高投资评级并上调了目标股价。 主要涉及的股票及变动包括：ALSOK由摩根士丹利评级为看好，目标价从1600日元上调至1800日元；三越伊势丹由岩井日星评级为A，目标价从2175日元上调至2200日元；东丽由日兴评级为看好，目标价从1700日元上调至1800日元；넥슨由岩井日星评级为A，目标价从3400日元上调至3600日元；卫材由东海东京评级为看好，目标价从5400日元上调至5900日元；大塚控股由摩根士丹利评级为看好，目标价从15100日元上调至15700日元；泽井制药集团由野村评级为买入，目标价从2100日元上调至2300日元；富士胶片由东海东京评级为看好，目标价从4400日元上调至4900日元；ARE控股由日兴评级为看好，目标价从6400日元上调至6900日元；大隈由东海东京评级为看好，目标价从5320日元上调至5750日元；贝克·麦坚时由日兴评级为看好，目标价从9500日元上调至13900日元；希森美康由东海东京评级为看好，目标价从1850日元上调至2600日元；良品计划由摩根大通证券评级为看好，目标价从5700日元上调至6300日元；万代南梦宫控股由冈三评级为看好，目标价从7100日元上调至8800日元；日本航空由摩根大通证券评级为看好，目标价从3400日元上调至4000日元。
+  📰 [Yahoo!ファイナンス](https://finance.yahoo.co.jp/news/detail/96dbca99952c190bd1ebb5963cb1501930b0e29b)
+
+- **[2026.11.17] 日本経済新聞 — キオクシア株価が7カ月ぶり安値 NVIDIA決算に警戒（17日の株式市場）**
+  日本語：17日の東京株式市場で日経平均株価は続落し、終値は前日比801円59銭（1.34%）安の5万8860円43銭となった。 終値で5万9000円を下回るのは9日以来となった。 16日の米半導体株の下落や、米国時間17日の米エヌビディアの決算発表を控えた警戒感から、東京市場でも値がさの半導体関連株を中心に売りが優勢となり、下げ幅は900円を超える場面があった。 また、キオクシア株価が7カ月ぶり安値を記録した。
+  中文：总结：在17日的东京股票市场上，日经平均指数继续下跌，收盘较前一日下跌801日圆59钱（1.34%），报58860日圆43钱。 这是自9日以来收盘价首次跌破59000日圆。 由于16日美国半导体股票下跌以及美国时间17日即将公布美国英伟达财报所带来的警惕感，东京市场同样以高价半导体相关股票为中心抛售占优，跌幅一度超过900日圆。 此外，铠侠股价创下7个月以来的新低。
+  📰 [日本経済新聞](https://www.nikkei.com/article/DGXZQOUB171WZ0X11C26A1000000/)
+
+- **[2026.11.17] SBI証券 — 企業業績は上振れ期待、株価は再び上昇へ？**
+  日本語：日経平均株価は10月6日の高値7万0683円98銭から11月6日には5万7434円77銭まで約19％下落した。 調整の要因は、米半導体株の下落に伴うインフレ再燃や利上げへの警戒とAI設備投資の持続可能性への疑問、および11月3日の米中間選挙で民主党が上下両院で過半数を確保する見通しとなりデータセンター建設抑制やAI規制強化が連想されたことである。 その後、株価は利益成長に見合った水準まで調整したことで11月13日に6万1142円35銭まで値を戻した。 上位20社の今期純利益は大幅な増益が見込まれており、市場予想は会社予想を上回っている。 ただし、半導体需要の減速や急速な円高、米国の金融政策の変化は下振れ要因になり得る。
+  中文：总结：日经平均股价从10月6日的高点70683日圆98钱下跌至11月6日的57434日圆77钱，跌幅约为19%。 调整的主要原因包括：受美国半导体股下跌影响而引发的对通胀重燃、加息的警惕以及对人工智能设备投资可持续性的疑问；以及11月3日美国中期选举中民主党预计将获得参众两院多数席位，从而联想到限制数据中心建设和强化人工智能监管。 此后，由于股价调整至与利润增长相匹配的水平，日经平均股价在11月13日回升至61142日圆35钱。 排名前20位的公司本期净利润预计将大幅增长，且市场预期高于公司预期。 不过，半导体需求的放缓、日元急速升值以及美国货币政策的变化可能会成为下行风险因素。
+  📰 [SBI証券](https://go.sbisec.co.jp/media/report/op225/op225_261117.html)
+
+- **[2026.11.17] 株探 — ソニーＧは続落、国内有力証券は投資判断「中立」に引き下げ**
+  日本語：ソニーグループの株価は続落した。 SBI証券は16日付で、同社株の投資判断を3段階で最上位の「買い」から真ん中の「中立」に引き下げた。 目標株価は5300円から4800円に見直された。 同社は好調な第2四半期決算を発表し、2027年3月期業績予想のガイダンスを上方修正した。 同証券は今期業績に上振れ余地があるとみているものの、マクロ経済悪化や先行投資の増加による来期成長鈍化を想定し、ガイダンス上方修正と11月の大型ゲームタイトル出荷で材料出尽くしになると見込んでいる。
+  中文：总结：索尼集团股价继续下跌。 SBI证券于16日将该公司的投资评级从三档中的最高档“买入”下调至中间档“中立”。 目标股价从5300日圆调整为4800日圆。 该公司发布了表现良好的第二季度财报，并上调了截至2027年3月财年的业绩预期指引。 该证券认为本期业绩仍有上行空间，但由于宏观经济恶化和前期投资增加，预计下期增长将会放缓，并预期业绩指引的上调以及11月份大型游戏作品的出货将导致利好出尽。
+  📰 [株探](https://s.kabutan.jp/news/n202611170968/)
+
+- **[2026.11.17] トウシル — AI相場の先行き、日本株の見通しは？3人の識者の見方**
+  日本語：米中間選挙を経てデータセンター規制が強化される可能性が生じ、市場は不確実性を嫌気して日米株式相場が急速に調整した。 2026年は大規模投資によってAI・半導体関連の純利益予想伸び率が大きくなりバリュエーションが切り上がったが、現在はAI相場プレミアムが剥落した水準にある。 日本企業の業績はアナリスト予想から5％以上上振れした企業が多いものの、日本株全体を大きく押し上げるほど強くはない。 一方で、デフレからインフレへの転換やコーポレートガバナンス改革の進展といった構造変化はプラス要因である。 専門家は個人投資家に対して、下落時の逆張りではなく、経済や企業業績の成長を背景に保有を継続するバイアンドホールド戦略を勧めている。
+  中文：总结：在美国中期选举之后，出现了数据中心监管被强化的可能性，市场厌恶不确定性，导致日美股市迅速调整。 2026年由于大规模投资，人工智能及半导体相关净利润预期增长率大幅上升，估值随之抬升，但目前处于人工智能行情溢价已经剥落的水平。 日本企业的业绩虽有许多超出分析师预期5%以上的企业，但并不足以强劲到大幅推高整体日本股市。 另一方面，从通缩向通胀的转变以及公司治理改革的推进等结构性变化则是正面因素。 专家建议个人投资者不要在下跌时进行逆势操作，而是应以经济和企业业绩增长为背景，采取持续持有的买入并持有策略。
+  📰 [トウシル](https://media.rakuten-sec.net/articles/-/54066)
+
+- **[2026.11.17] 行情快照 / Quote · Nikkei 225 — 日经225下跌1.34%**
+  行情日本語：日经225（Nikkei 225）は2026.11.17 15:45 JST時点で58,860.43となり、前日終値比で1.34%下落しています。
+  行情中文：截至 2026.11.17 15:45 JST，日经225较前收盘下跌1.34%。
+  📰 [Yahoo Finance](https://finance.yahoo.com/quote/%5EN225)
+
+- **[2026.11.17] 行情快照 / Quote · Tokyo Electron — 东京电子下跌1.56%**
+  行情日本語：东京电子（Tokyo Electron）は2026.11.17 15:30 JST時点で8,657.00となり、前日終値比で1.56%下落しています。
+  行情中文：截至 2026.11.17 15:30 JST，东京电子较前收盘下跌1.56%。
+  📰 [Yahoo Finance](https://finance.yahoo.com/quote/8035.T)
+
+## 🌍 宏观经济与投资 / Macro & Investment
+
+- **[2026.11.17] FXEmpire — Brent Oil Declines on Market Surplus as Fundamentals Drive Prices Lower**
+  English：The US dollar has returned to pre-tariff highs driven by artificial intelligence stock booms and an economic pickup, while oil prices declined due to supply outpacing demand. Goldman Sachs forecasts a surplus of 2 million barrels per day in 2027 and expects Brent to average $88 per barrel next year, falling to $78 by year-end. JPMorgan estimates a surplus of 1.1 million barrels per day in September and 1.4 million barrels per day in October. Brent has been trading near its 200-day moving average of $85. Meanwhile, crypto market capitalisation stayed close to $2.20T, and the probability of a 50-basis-point Fed rate hike in December declined from 14.5% to 5% according to CME FedWatch.
+  中文：总结：受人工智能公司股票繁荣和经济回升推动，美元已回到关税实施前的高点，而由于供应超过需求，油品价格则出现下跌。 高盛预测2027年日均过剩量将达到200万桶，并预计布伦特原油明年的平均价格为每桶$88，到年底将降至$78。 摩根大通估计9月份日均过剩量为110万桶，10月份为140万桶。 布伦特原油一直在每桶$85的200日均线附近交易。 同时，加密货币市值保持在$2.20T附近，根据CME FedWatch的数据，美联储12月份加息50个基点的概率从14.5%下降到了5%。
+  📰 [FXEmpire](https://www.fxempire.com/forecasts/article/brent-oil-declines-on-market-surplus-as-fundamentals-drive-prices-lower-1645182)
+
+- **[2026.11.17] Fortune — Current price of gold as of November 17, 2026**
+  English：Gold was trading at $3,860 per ounce at 9:05 a. m. Eastern Time, marking a $5 drop from the previous day and a $212 decrease compared to a year ago. Historical data from 1971 to 2024 shows traditional stocks averaged 10.7% annual returns while gold averaged 7.9%. Spot gold represents immediate over-the-counter trades, while the price spread is the gap between the buying ask price and selling bid price. James Taska noted that exchange-traded funds make client allocation rebalancing easier. Gold prices have reached record highs, increasing by more than 25% since early 2025, driven by inflation and uncertainty.
+  中文：总结：美国东部时间今天上午9点05分，黄金交易价格为每盎司$3,860，较前一天同一时间下跌$5，比一年前低$212。 1971年至2024年的历史数据显示，传统股票的年均回报率为10.7%，而黄金为7.9%。 现货黄金代表即时场外交易，而价差则是买入要价与卖出出价之间的差距。 詹姆斯·塔斯卡指出，交易所交易基金使得客户资产配置的再平衡变得更加容易。 受通胀和不确定性驱动，黄金价格已创下历史新高，自2025年初以来涨幅超过25%。
+  📰 [Fortune](https://fortune.com/article/current-price-of-gold-11-17-2026/)
+
+- **[2026.11.17] BigGo Finance — Dollar Pauses After Five-Day Surge as Kiwi Sinks to Six-Year Low**
+  English：The US dollar held steady on Tuesday following a five-day advance, with the dollar index up slightly at 103.58. CME FedWatch data shows futures markets assign only about 2.6% odds to a half-point increase next month, down from 14.5%. Jane Foley from Rabobank noted that 50 basis points is probably too much too soon. The New Zealand dollar slid to US$0.5482, its lowest since March 2020, while the Australian dollar touched US$0.6724. The euro touched 1.0983 before turning 0.1% higher at US$1.1004. Treasury yields retreated with the two-year yield falling 5 basis points to 4.823% and the 10-year yield dropping 3.2 basis points to 5.121%. Gold fell 0.8% to US$3,848.51 an ounce.
+  中文：总结：美元在经历五天上涨后于周二保持坚挺，美元指数小幅上涨至103.58。 CME FedWatch数据显示，期货市场对下个月加息半个百分点的概率预期仅为2.6%左右，低于之前的14.5%。 荷兰合作银行的外汇策略主管简·弗利指出，加息50个基点可能为时过早且幅度过大。 新西兰元一度滑落至US$0.5482，为2020年3月以来的最低点，而澳大利亚元触及US$0.6724。 欧元触及1.0983的低点后回升0.1%报US$1.1004。 国债收益率回落，其中两年期收益率下降5个基点至4.823%，10年期收益率下降3.2个基点至5.121%。 黄金下跌0.8%至每盎司US$3,848.51。
+  📰 [BigGo Finance](https://finance.biggo.com/news/6f6c28c0-dab6-4b1c-8a7c-c2cca9a2f44e)
+
+- **[2026.11.17] Fortune — Current price of Bitcoin for November 17, 2026**
+  English：At 8:15 a. m. Eastern Time, Bitcoin traded at $65,016.66 per 1 BTC, representing a $1,003.87 increase from the previous morning and a $27,141 loss compared to a year ago. Bitcoin has a market capitalization of around $1.33 trillion, while Ethereum has a market value of roughly $233 billion. Laszlo Hanyecz famously spent 10,000 Bitcoins on pizzas in the early days, worth more than $668 million today. Bitcoin's price has soared by more than 15,000% over the last decade. In 2025, it ended the calendar year about 30% below its October all-time high. Investors can gain exposure by buying directly on a cryptocurrency exchange, investing in Bitcoin ETFs, buying crypto stocks, or opening a Bitcoin IRA.
+  中文：总结：美国东部时间上午8点15分，比特币（1 BTC）的价格为$65,016.66，较昨天上午上涨$1,003.87，与一年前相比下跌约$27,141。 比特币的市值约为$$1.33 trillion，远高于以太坊大约$$233 billion的市值。 软件开发人员拉斯洛·哈尼茨在早期曾用1万枚比特币购买披萨，如今这些比特币价值超过$668 million。 在过去的大约十年里，比特币的价格飙升了15,000%以上。 2025年，其结束日历年时的价格比同年10月创下的历史最高点低约30%。 投资者可以通过在加密货币交易所直接购买、投资比特币ETF、购买加密股票或开设比特币IRA来获取头寸。
+  📰 [Fortune](https://fortune.com/article/price-of-bitcoin-11-17-2026/)
+
+- **[2026.11.17] LiteFinance — BoJ Tightening Bets Put Japanese Yen Back in Play. Forecast as of 17.11.2026**
+  English：Market sentiment on USD/JPY is divided, with the pair facing strong resistance near the 160 level. Tokyo spent ¥15.4 trillion defending the yen this summer. In the third quarter, the Japanese economy contracted for the first time in a year. Morgan Stanley projects the US dollar could climb to 162 by the end of 2027. Conversely, Goldman Sachs expects USD/JPY to decline to 158, 155, and 150 over the next three, six, and twelve months, and forecasts Bank of Japan borrowing costs to reach 2% by June 2027. Former BoJ Governor Haruhiko Kuroda suggested that the overnight rate could rise above the neutral level if inflation accelerates.
+  中文：总结：市场对美元兑日元汇率的看法存在分歧，该汇率在160关口附近面临强劲阻力。 今年夏天，东京动用了¥¥15.4 trillion来捍卫日元。 第三季度，日本经济一年来首次出现萎缩。 摩根士丹利预测，到2027年底，美元可能攀升至162。 相反，高盛预计美元兑日元在未来三个月、六个月和十二个月内将分别降至158、155和150，并预测日本央行借贷成本将在2027年6月达到2%。 前日本央行行长黑田东彦暗示，如果通货膨胀加速，隔夜利率可能会升至中性水平之上。
+  📰 [LiteFinance](https://www.litefinance.org/blog/analysts-opinions/usd-jpy-price-prediction/boj-tightening-bets-put-japanese-yen-back-in-play-forecast-as-of-17112026/)
+
+- **[2026.11.17] BigGo Finance — Dollar-Yen Battle at 160 Continues as Stock Slump and BOJ Rate-Hike Bets Collide**
+  English：Dollar-Yen Battle at 160 Continues as Stock Slump and BOJ Rate-Hike Bets Collide The dollar-yen pair is continuing its battle around the psychological 160 mark in the foreign exchange market. In Tokyo trading on the morning of the 17th, the pair traded in a range between the mid- and lower-159 levels, lacking clear direction. Dollar-buying pressure from expectations of an early U.
+  📰 [BigGo Finance](https://finance.biggo.com/news/eeff1f0d-6a3d-4815-8568-339a94c4279f)
+
+- **[2026.11.17] FXEmpire — US Dollar Rallies as Fed Rate Risks Pressure Global Markets**
+  English：Monday sees the U. S. dollar strengthening as investors adjust to the possibility that the Federal Reserve may need to raise interest rates even further to contain inflation. Meanwhile, global equity markets struggle while Japanese economic data has disappointed. With oil prices declining as supply conditions improve, the U. S. dollar advanced on the U. S. Dollar Index to approximately 103.5 during Asian trading, extending its winning streak to five sessions and reaching its highest level since April 2025.
+  📰 [FXEmpire](https://www.fxempire.com/forecasts/article/us-dollar-rallies-as-fed-rate-risks-pressure-global-markets-1644971)
+
+- **[2026.11.17] BlackRock — Weekly market commentary**
+  English：AI: looking beyond the buildout Market take Weekly video_20261116 Vivek Paul Global Head of Portfolio Research BlackRock Investment Institute SCRIPT Header: CAPITAL AT RISK. MARKETING MATERIAL. Opening frame: What’s driving markets?
+  📰 [BlackRock](https://www.blackrock.com/us/individual/insights/blackrock-investment-institute/weekly-commentary)
+
+- **[2026.11.18] 行情快照 / Quote · USD/JPY — 美元兑日元下跌0.02%**
+  Quote: USD/JPY stood at 159.35 as of 2026.11.18 05:12 JST, 0.02% lower than the previous close.
+  行情中文：截至 2026.11.18 05:12 JST，美元兑日元较前收盘下跌0.02%。
+  📰 [Yahoo Finance](https://finance.yahoo.com/quote/JPY%3DX)
+
+- **[2026.11.18] 行情快照 / Quote · US 10Y Yield — 美国10年期国债收益率下跌0.35%**
+  Quote: US 10Y Yield stood at 5.10 as of 2026.11.18 04:57 JST, 0.35% lower than the previous close.
+  行情中文：截至 2026.11.18 04:57 JST，美国10年期国债收益率较前收盘下跌0.35%。
+  📰 [Yahoo Finance](https://finance.yahoo.com/quote/%5ETNX)
+
+---
+※Stock Market Daily Digest | 2026.11.18
