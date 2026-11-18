@@ -1,29 +1,29 @@
 {
   "kind": "market",
-  "updated_at": "2026-11-19T04:42:26.254111+09:00",
+  "updated_at": "2026-11-19T06:26:24.606751+09:00",
   "status": {
     "state": "partial",
-    "checked_at": "2026-11-19T04:42:26.254111+09:00",
-    "latest_article_at": "2026-11-19T04:30:00+09:00",
-    "articles": 22,
+    "checked_at": "2026-11-19T06:26:24.606751+09:00",
+    "latest_article_at": "2026-11-19T05:03:00+09:00",
+    "articles": 20,
     "sections": {
-      "美国股市 / US Market": 6,
+      "美国股市 / US Market": 4,
       "日本株式市場 / Japan Market": 8,
       "宏观经济与投资 / Macro & Investment": 8
     },
     "shortfalls": {},
-    "translations_missing": 7
+    "translations_missing": 10
   },
   "articles": [
     {
       "date": "2026.11.19",
-      "published_at": "2026-11-19T04:07:20+09:00",
-      "headline": "Stock Market Today: Stock Market News And Analysis",
-      "source": "Investor's Business Daily",
-      "url": "https://www.investors.com/news/stock-market-today-stock-market-news/",
+      "published_at": "2026-11-19T05:03:00+09:00",
+      "headline": "NVIDIA Is Near Its 52-Week Low. Will NVDA Stock Hit $100 or $200 First?",
+      "source": "24/7 Wall St.",
+      "url": "https://247wallst.com/investing/2026/11/18/nvidia-is-near-its-52-week-low-will-nvda-stock-hit-100-or-200-first/",
       "language": "English",
       "section": "美国股市 / US Market",
-      "summary": "LATEST MARKET UPDATES Stock Market Today: Dow Drops As Nvidia Probe Deepens; Fed Minutes Loom (Live Coverage)The Dow Jones Industrial Average was stuck in negative territory Wednesday after a Federal Reserve official raised the prospect of an extra-large rate hike to reduce inflation. Minutes from the Fed's most. . . Read More Stock Futures: Check Premarket Prices On Dow Futures, S&P Futures,… Copyright ©2026 Investor's Business Daily, LLC. All rights reserved. 87990cbe856818d5eddac44c7b1cdeb8",
+      "summary": "NVIDIA Is Near Its 52-Week Low. Will NVDA Stock Hit $100 or $200 First? This post may contain links from our sponsors and affiliates, and Flywheel Publishing may receive compensation for actions taken through them. A record quarter wasn’t enough to stop the slide at NVIDIA (NASDAQ:NVDA | NVDA Price Prediction). NVIDIA stock sits at $151.30, down 3% in Wednesday’s afternoon session.",
       "summary_zh": ""
     },
     {
@@ -49,28 +49,6 @@
       "summary_zh": ""
     },
     {
-      "date": "2026.11.19",
-      "published_at": "2026-11-19T00:33:00+09:00",
-      "headline": "Nvidia Is Well Off Its Highs, but Our Model Still Sees 29% Upside",
-      "source": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/2026/11/18/nvidia-is-well-off-its-highs-but-our-model-still-sees-29-upside/",
-      "language": "English",
-      "section": "美国股市 / US Market",
-      "summary": "Nvidia Is Well Off Its Highs, but Our Model Still Sees 29% Upside This post may contain links from our sponsors and affiliates, and Flywheel Publishing may receive compensation for actions taken through them. The AI chipmaker just reported another record quarter, yet the stock trades near its 52-week low after its longtime chief executive left suddenly. Our 24/7 Wall St. price target for NVIDIA (NASDAQ:NVDA | NVDA Price Prediction) is $201.11, which implies 29.36% upside from $155.46.24/7 Wall St.",
-      "summary_zh": ""
-    },
-    {
-      "date": "2026.11.19",
-      "published_at": "2026-11-19T00:12:33+09:00",
-      "headline": "AMD, Broadcom, CoreWeave stocks mixed on Nvidia Q3 earnings beat",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/article/amd-broadcom-tsmc-stocks-rise-on-nvidia-earnings-coreweave-nebius-shares-also-rally-220159436.html",
-      "language": "English",
-      "section": "美国股市 / US Market",
-      "summary": "Semiconductor and cloud provider stocks were mixed on Wednesday after AI chip giant Nvidia (NVDA) reported Q3 results that beat Wall Street's expectations. Peers AMD (AMD) and Broadcom (AVGO) shares rose roughly 2%. Taiwan Semiconductor Manufacturing Company (TSM), which manufactures Nvidia's chips, also saw its stock rise modestly. The semiconductor trade has been volatile since Jensen Huang resigned as CEO last Thursday following reports of extramarital affairs.",
-      "summary_zh": ""
-    },
-    {
       "date": "2026.11.18",
       "published_at": "2026-11-18T17:18:59+09:00",
       "headline": "SK hynix Just Hit a New 52-Week Low, Down 38% From Its September High. Still “Ridiculously Cheap”?",
@@ -78,8 +56,8 @@
       "url": "https://www.tikr.com/blog/sk-hynix-just-hit-a-new-52-week-low-down-38-from-its-september-high-still-ridiculously-cheap?",
       "language": "English",
       "section": "美国股市 / US Market",
-      "summary": "SK hynix hit a new 52-week low of $117.40 on Nov. 17 before closing at $122.61, down 38% from its Sept. 9 closing high, amid an AI-hardware selloff that also impacted Micron, Sandisk, and Nvidia. Despite the broader market selloff and a Nov. 14 ruling letting a proposed DRAM price-fixing class action proceed, SK hynix reported record third-quarter results with revenue up 328% year over year to ₩104.6 trillion and operating profit up 632% to ₩83.3 trillion, representing an 80% margin. CEO Kwak Noh-Jung noted long-term agreements with 14 customers covering over half of its 2027 and 2028 capacity. The company also announced ₩100 trillion in 2026 shareholder returns and a ₩20 trillion buyback running through Jan. 28. Daniel Newman, CEO of Futurum Group, called the stock ridiculously cheap on CNBC.",
-      "summary_zh": "SK hynix在11月17日触及$117.40的新52周低点，随后收于$122.61，较9月9日的收盘高点下跌了38%，此次AI硬件抛售潮也波及了Micron、Sandisk以及最大的客户Nvidia。 尽管面临整体抛售以及11月14日关于DRAM价格操纵集体诉讼继续推进的裁决，SK hynix仍公布了其历史上最好的第三季度财报，营业收入同比大增328%至₩104.6万亿，营业利润大增632%至₩83.3万亿，利润率达到80%。 CEO Kwak Noh-Jung表示，公司与14家客户签订的长协合同覆盖了其2027和2028年过半的产能。 公司还规划了约₩100万亿的2026年股东回报，并启动了持续至1月28日的₩20万亿回购计划。 Futurum Group的CEO Daniel Newman在CNBC上称该股票便宜得离谱。"
+      "summary": "Key Takeaways - SK hynix just hit a new 52-week low, down 38% from its September high, in an AI-hardware selloff that has also hit Micron and Sandisk. - Most of the selling followed news from other companies, including the CEO’s resignation at Nvidia, SK hynix’s biggest customer, while SK hynix posted the best quarter in its history. - The stock trades at its lowest forward multiple since its July US listing, even though contracts with 14 customers cover more than half of its 2027 and 2028 capacity.",
+      "summary_zh": ""
     },
     {
       "date": "2026.11.19",
@@ -89,8 +67,8 @@
       "url": "https://www.nikkei.com/article/DGXZQOFL185IPTY6A111C2000000/",
       "language": "Japanese",
       "section": "日本株式市場 / Japan Market",
-      "summary": "半導体株の失速が鮮明となっており、日経半導体株指数は6月の高値から半値以下となり、今年度の上昇率は東証株価指数（TOPIX）に逆転を許した。 投資家は先行きに悲観的な見方を強め、買いポジションの縮小に動いている。 18日の東京株式市場で日経半導体株指数は前日比1.46%高の1万6931で終えた。 米エヌビディアが市場予想を上回る四半期決算を示し、ひとまず買い安心感につながった。",
-      "summary_zh": "半导体股票的失速十分明显，日经半导体指数已经从6月的高点跌去一半以上，今年度的涨幅被东证股价指数（TOPIX）反超。 投资者对前景的悲观情绪不断增强，并正着手缩减买入仓位。 18日的东京股市上，日经半导体指数收盘报1万6931，较前一日上涨1.46%。 由于美国英伟达公布了超出市场预期的季度财报，这暂时带来了一定的买入安心感。"
+      "summary": "半導体株の失速が鮮明だ。 日経半導体株指数はすでに6月の高値から半値以下となり、今年度の上昇率は東証株価指数（TOPIX）に逆転を許した。 投資家はバブルのごとく盛り上がった半導体株の先行きに悲観的な見方を強め、買いポジションの縮小に動いている。 18日の東京株式市場で日経半導体株指数は前日比1.46%高の1万6931で終えた。 米エヌビディアが市場予想を上回る四半期決算を示し、ひとまず買い安心感が. . . 権限不足のため、フォローできません 入力いただいたメールアドレスにメールを送付しました。 メールのリンクをクリックすると記事全文をお読みいただけます。 エラーが発生し、登録できませんでした。 ニュースレターの登録に失敗しました。 ご覧頂いている記事は、対象外になっています。 入力いただきましたメールアドレスは既に登録済みとなっております。 ニュースレターの配信をお待ち下さい。 _",
+      "summary_zh": ""
     },
     {
       "date": "2026.11.19",
@@ -100,8 +78,8 @@
       "url": "https://www.gaitame.com/media/entry/2026/11/19/005609",
       "language": "Japanese",
       "section": "日本株式市場 / Japan Market",
-      "summary": "日経平均株価は反発し、買い先行から序盤は上値水準を切り上げる展開となったが、5日移動平均線（59901円 11/18）や10日移動平均線（59850円 同）付近が意識され失速した。 前日安値（58691円）を割り込む時間帯もあったが、後場はプラス圏でもみ合いが続いた。 RSI（9日）は35.6%から40.3%に上昇し、あすも上昇しやすいタイミングとなる。 11/6安値（56745円）に対する二番底試しの局面は続くが、一目均衡表の転換線（59699円）が上向きに転じる可能性が高く、十字足から続伸につながるかが注目点となる。",
-      "summary_zh": "日经平均股价出现反弹，盘初在先行买盘推动下抬高了上行水位，但受到5日移动平均线（59901日元 11/18）及10日移动平均线（59850日元 同）附近的意识影响而导致失速。 盘中虽有一段时间跌破前一日低点（58691日元），但午盘后持续在正值区间盘整。 9日RSI从35.6%上升至40.3%，明天将迎来容易上涨的时点。 尽管针对11/6低点（56745円）的二次探底局面仍在持续，但一目均衡表的转换线（59699円 同）转为上行的可能性很高，能否从今日的“十字线”延续涨势成为了关注焦点。"
+      "summary": "日経平均株価は反発。 買い先行から序盤は上値水準を切り上げる展開となったが、5日移動平均線（59901円 11/18）や10日移動平均線（59850円 同）付近が上値で意識され、失速する展開につながった。 前日安値（58691円）を割り込む時間帯もあったが、後場はプラス圏でもみ合いが続いた。 RSI（9日）は35.6％→40.3％（11/18）に上昇。 あすも上昇しやすいタイミングとなる。 11/6安値（56745円）に対する二番底試しの局面は続くが、あすは一目均衡表の転換線（59699円 同）が上向きに転じる可能性が高く、きょうの「十字足」から続伸につながるかが注目どころとなる。 上値メドは、心理的節目の60000円や61000円、11/13高値（61902円）、25日移動平均線（62313円 同）、心理的節目の63000円や64000円、10/29高値（64831円）などがある。",
+      "summary_zh": ""
     },
     {
       "date": "2026.11.19",
@@ -111,19 +89,8 @@
       "url": "https://txbiz.tv-tokyo.co.jp/nmspremium/cnbc/post_352665",
       "language": "Japanese",
       "section": "日本株式市場 / Japan Market",
-      "summary": "日経平均株価の終値は801円安の5万8860円となり、プライム市場の8割が下落した。 NVIDIAの売りが続き4%安、コアウィーブは6%安となったほか、AI・半導体関連が軒並み下落し、キオクシアは4月以来の安値、SBGは年初来安値を更新した。 一方、ハードオフなどのリユース銘柄はインバウンド需要をつかみ高価格帯の新業態が好調だった。 京王電鉄はサイバー攻撃の影響により10〜12月の宿泊収入が18億円減少した。",
-      "summary_zh": "日经平均股价收盘下跌801日元至5万8860日元，主板市场8成股票下跌。 NVIDIA持续遭到抛售下跌4%，CoreWeave下跌6%，AI及半导体相关股票全线走低，铠侠创下4月以来新低，SBG创下年初以来新低。 另一方面，Hard Off等二手回收类股票抓住了入境需求，高价位的新业态表现良好。 京王电铁则因遭受网络攻击，导致10至12月的住宿收入减少了18亿日元。"
-    },
-    {
-      "date": "2026.11.19",
-      "published_at": "2026-11-19T00:00:00+09:00",
-      "headline": "S&P500から日本株へ資金を戻す人が、最初につまずく7つの違い決算期・権利日・単元・開示の読み方",
-      "source": "note",
-      "url": "https://note.com/tatsuya_sabato/n/n0c82182e2d68",
-      "language": "Japanese",
-      "section": "日本株式市場 / Japan Market",
-      "summary": "日本株へ資金を動かす前には、自分の状況を表す言葉として米国株への不安、円での配当受給、自身での企業調査など、解決したい問題の違いを整理する必要がある。 移行の理由を整理する際には、確認できる事実、自分の予想、実現したい生活上の希望を分けて書くことが重要である。 また、決算期と業績予想の読み方、権利日と配当や優待の条件、単元と現物注文の仕組み、開示資料の集め方と読む順番、個別企業の評価、通貨と分散、口座や税金・資金移動の手順という七つの違いを確認し、自らの判断に基づいて日本株への移行準備を進めることが求められる。",
-      "summary_zh": "在将资金转移至日本股票之前，有必要理清表述自身状况的话语，例如对美股的不安、希望以日元收取股息、自行调研企业等，从而明确想要解决的问题的不同之处。 在梳理转换理由时，把可确认的事实、个人的预测以及希望实现的生活愿望分开书写至关重要。 此外，需要确认七个方面的差异，包括财报期与业绩预测的解读方式、权利日与分红及股东优惠的条件、交易单位与现货订单的机制、披露资料的收集与阅读顺序、对个别企业的评估、货币与分散投资、以及账户与税务及资金转移的程序，从而根据自身的判断推进转向日本股票的准备工作。"
+      "summary": "■日経平均株価終値、801円安の5万8860円 プライム8割下落 ■NVIDIA、売りが続き4％安 コアウィーブは6％安 ■AI・半導体関連軒並み下落 キオクシアは4月以来の安値、SBG年初来安値 ■ハードオフなどリユース銘柄好調 インバウンド需要つかみ高価格帯の新業態も ■京王電鉄、サイバー攻撃で10～12月の宿泊収入18億円減 出演者 田嶋 智太郎 アルフィナンツ代表 曽根 純恵 日経CNBCキャスター 投資家が翌日の取引に備えるための、1日の総括と今後の展望を伝えます。 （制作：日経CNBC） https://online. nikkei-cnbc. co. jp/program/53? utm_source=txb&utm_medium=referral&utm_campaign=53",
+      "summary_zh": ""
     },
     {
       "date": "2026.11.18",
@@ -133,19 +100,8 @@
       "url": "https://finance.yahoo.co.jp/news/detail/fa26f30084006597b17fe3d2b643f90d269fea78",
       "language": "Japanese",
       "section": "日本株式市場 / Japan Market",
-      "summary": "11月18日に調査機関が投資判断を最上位で継続し、目標株価を引き上げた銘柄がまとめられた。 ジェイエイシ（強気1300→1400）、マクドナルド（買い9500→11000）、キッコマン（買い2000→2100）、Ｆ＆ＬＣ（強気6700→7000）、武田（強気7000→8000）、ベイカレント（強気8500→16000）、ゼンショＨＤ（強気13300→15000）、ニフコ（強気2650→3100）、丸井Ｇ（買い3600→3750）、東祥（強気990→1030）、ＪＲ東日本（強気4200→4400）、ＪＲ東海（強気4700→4900）、ニトリＨＤ（買い3500→4200）の各社で目標株価の引き上げが実施された。",
-      "summary_zh": "11月18日，多家调查机构对部分股票维持最高评级并上调了目标价。 其中包括杰伊艾起（强行1300→1400）、麦当劳（买入9500→11000）、龟甲万（买入2000→2100）、F&LC（强行6700→7000）、武田（强行7000→8000）、贝卡林（强行8500→16000）、泉膳HD（强行13300→15000）、尼夫科（强行2650→3100）、丸井G（买入3600→3750）、东祥（强行990→1030）、JR东日本（强行4200→4400）、JR东海（强行4700→4900）以及尼特利HD（买入3500→4200）。"
-    },
-    {
-      "date": "2026.11.18",
-      "published_at": "2026-11-18T16:47:02+09:00",
-      "headline": "任天堂株価が続伸、SBI証券の目標上げで評価回復（18日の株式市場）",
-      "source": "日本経済新聞",
-      "url": "https://www.nikkei.com/article/DGXZQOUB1879J0Y6A111C2000000/",
-      "language": "Japanese",
-      "section": "日本株式市場 / Japan Market",
-      "summary": "18日の東京株式市場で日経平均株価は3営業日ぶりに反発し、終値は前日比163円85銭（0.28%）高の5万9024円28銭だった。 米エヌビディアの好決算を受け、東京市場でも人工知能（AI）・半導体関連銘柄が買われて指数を押し上げた。 日経平均は一時700円超上昇した後に下落する場面もあったが、押し目買いが入り持ち直した。",
-      "summary_zh": "在18日的东京股市中，日经平均股价三个交易日以来首次反弹，收盘价较前一日上涨163円85钱（0.28%），报5万9024円28銭。 受美国英伟达良好财报的带动，东京市场的人工智能与半导体相关板块遭到买入，并推高了股指。 日经平均盘中一度上涨超过700円，虽然随后曾出现下跌行情，但在逢低买盘的支持下得以回稳。"
+      "summary": "●11月18日に調査機関が投資判断を最上位で継続し、かつ目標株価を引き上げた銘柄をまとめました 銘柄 機関 格付 目標株価 日付 ジェイエイシ <2124> モルガン 強気 1300→1400 11/18 マクドナルド <2702> みずほ 買い 9500→11000 11/18 キッコマン <2801> 野村 買い 2000→2100 11/18 Ｆ＆ＬＣ <3563> ＪＰモル 強気 6700→7000 11/18 武田 <4502> モルガン 強気 7000→8000 11/18 ベイカレント <6532> ＪＰモル 強気 8500→16000 11/18 ゼンショＨＤ <7550> ＪＰモル 強気 13300→15000 11/18 ニフコ <7988> ＪＰモル 強気 2650→3100 11/18 丸井Ｇ <8252> みずほ 買い 3600→3750 11/18 東祥 <8920> 東海東京 強気 990→1030 11/18 ＪＲ東日本 <9020> ＪＰモル 強気 4200→4400 11/18 ＪＲ東海 <9022> ＪＰモル 強気 4700→4900 11/18 ニトリＨＤ <9843> みずほ 買い 3500→4200 11/18 ※ＪＰモル＝ＪＰモルガン証券 株探ニュース（minkabu PRESS） 株探ニュース",
+      "summary_zh": ""
     },
     {
       "date": "2026.11.18",
@@ -155,8 +111,8 @@
       "url": "https://media.monex.co.jp/articles/-/30541",
       "language": "Japanese",
       "section": "日本株式市場 / Japan Market",
-      "summary": "先週の日経平均株価は5日移動平均線を上回る水準で反発が継続し、13日には6万1902円の戻り高値をつけた。 しかし今週に入り16日に1480円安となり5日移動平均線を下回り、17日も801円安と下落が続いて5万9000円を割り込んだ。 25日移動平均線が低下し200日移動平均線に接近しており、デッドクロス発生や下落継続への警戒が指摘されている。 モメンタムも0ラインを下回って低下しており、今後の下落トレンド継続や5日移動平均線上の回復可否が注目点となっている。",
-      "summary_zh": "上周日经平均股价在高于5日移动平均线的水平持续反弹，并于13日触及6万1902円的回升高点。 然而进入本周后，16日大跌1480円并跌破5日移动平均线，17日继续下跌801円，最终跌破5万9000円。 随着25日移动平均线持续下降并接近200日移动平均线，市场正警惕死叉的发生以及跌势的延续。 动量指标同样跌破0轴并持续走低，未来是否会延续下跌趋势以及能否重新回升至5日移动平均线上方成为了各方关注的焦点。"
+      "summary": "5日移動平均線を下回った日経平均株価の今後は？ 先週（11月9日週）の日経平均は、前回のコラム「【日本株】日経平均が200日移動平均線上を回復する条件は？ 」指摘したように、5日移動平均線を上回る水準で、反発が継続しました。 また、11月13日の取引時間中には61,902円の戻り高値をつけるなど、順調に株価の戻りが続きました。 一方、今週（11月16日週）に入ると様子が一変し、11月16日には1,480円安となり、一気に5日移動平均線を下回りました。 また、17日も下落が続いて801円安となり、ついに59,000円を割り込んでいます。 こうした状況から、いったん5日移動平均線を上回った株価が再び同線を下回り、25日移動平均線の低下が続き、ついに200日移動平均線まで接近しています。 このまま5日移動平均線を上回れない状況が続くと、25日移動平均線が200日移動平均線を下回るデッドクロスが発生し、下落が続く可能性があるため、注意が必要です。",
+      "summary_zh": ""
     },
     {
       "date": "2026.11.18",
@@ -166,8 +122,41 @@
       "url": "https://moneyworld.jp/news/detail?id=223248",
       "language": "Japanese",
       "section": "日本株式市場 / Japan Market",
-      "summary": "KOKUSAIやソフトバンクＧが上昇した。 本情報は日本経済新聞社グループの株式会社QUICKが運営するサイトで提供されており、著作権はQUICKまたは情報源に帰属する。 利用者は自身の責任で閲覧するものとし、特定の銘柄についての投資勧誘を目的としたものではなく、内容の保証や損害への責任は負わない。",
-      "summary_zh": "KOKUSAI及软银集团出现上涨。 相关信息由日本经济新闻社集团旗下的株式会社QUICK所运营的网站提供，版权归QUICK或信息源所有。 信息仅供使用者自行浏览，其目的并非针对特定股票的投资劝诱，运营方不对内容的准确性进行保证，也不承担因此产生的任何损失责任。"
+      "summary": "免責事項 QUICK Money World（クイックマネーワールド）（以下「当サイト」といいます。 ）は、日本経済新聞社グループの株式会社QUICK（以下「QUICK」といいます。 ）が運営するサイトです。 当サイトに含まれる情報（以下「本情報」といいます。 ）のうち著作権などの権利性を有するものに関する一切の権利、表示する画面に係わる著作権、ならびに使用される商号および商標に関する権利は、QUICKまたは当該本情報の提供元（以下「情報源」といいます。 ）に帰属します。 本情報は、利用者ご自身でのみご覧いただくものであり、本情報についての蓄積・編集・加工・二次利用（第三者への提供など）、および、本情報を閲覧している端末機以外への転載・組み込みを禁じます。 本情報のうち株価情報は（株）日本取引所グループから提供を受けています。 株価情報は発生から15分以上遅れて表示しています。",
+      "summary_zh": ""
+    },
+    {
+      "date": "2026.11.18",
+      "published_at": "2026-11-18T09:55:00+09:00",
+      "headline": "日経平均、3日ぶり反発で5万9000円台回復 エヌビディア決算が追い風",
+      "source": "BigGo ファイナンス",
+      "url": "https://finance.biggo.jp/news/686338cc-706c-453a-baee-f6e0c8228c57",
+      "language": "Japanese",
+      "section": "日本株式市場 / Japan Market",
+      "summary": "18日の東京株式市場で日経平均株価は3日ぶりに反発し、前日比146円97銭高の5万9007円40銭で寄り付いた。 米半導体大手エヌビディアが発表した2026年8〜10月期決算が市場予想を上回ったことが追い風となり、AI・半導体関連銘柄に買いが集中した。 寄り付き後は上げ幅を一時770円程度に広げた。 前日17日の大引けは801円59銭安の5万8860円43銭と続落しており、米国での半導体規制強化を嫌気した売りが優勢だった。 アドバンテスト、イビデン、東京エレクトロン、フジクラ、ソフトバンクグループなどが買い気配でスタートした一方、トヨタ自動車やソニーグループは軟調、ファーストリテイリングは小安く推移した。",
+      "summary_zh": "18日东京股市日经平均指数时隔3个交易日反弹开盘，较前一个交易日上涨146日元97钱（0.25%），报59007日元40钱，收复59000日元关口。 美国半导体巨头英伟达公布的2026财年8至10月财报优于市场预期，缓解了市场对人工智能基础设施投资的担忧，促使资金集中涌入AI与半导体相关股票。 此前17日收盘时，日经平均指数曾下跌801日元59钱（1.34%）至58860日元43钱。 东京电子、爱德万测试、藤仓及软银集团等股票在早盘呈现买方占优，而丰田汽车与索尼集团走软，迅销则小幅走低。"
+    },
+    {
+      "date": "2026.11.18",
+      "published_at": "2026-11-18T16:47:02+09:00",
+      "headline": "任天堂株価が続伸、SBI証券の目標上げで評価回復（18日の株式市場）",
+      "source": "日本経済新聞",
+      "url": "https://www.nikkei.com/article/DGXZQOUB1879J0Y6A111C2000000/",
+      "language": "Japanese",
+      "section": "日本株式市場 / Japan Market",
+      "summary": "18日の東京株式市場で日経平均株価は3営業日ぶりに反発し、終値は前日比163円85銭（0.28%）高の5万9024円28銭だった。 米エヌビディアの好決算を受けた人工知能（AI）・半導体関連銘柄の買いが指数を押し上げ、一時700円を超える上昇となった。 買い一巡後は下落に転じる場面もあったが、押し目買いが入り持ち直した。 前日の米株式相場の下落を引き継いだ流れもあったが、SBI証券による目標株価引き上げなどを背景に任天堂株価が続伸するなど、個別銘柄の評価回復も動きを支えた。",
+      "summary_zh": "18日东京股市日经平均指数时隔3个交易日反弹，收盘较前一日上涨163日元85钱（0.28%），报59024日元28钱。 受美国英伟达发布强劲财报的提振，东京市场的人工智能与半导体相关板块买盘踊跃，推动日盘一度大涨超过700日元。 尽管在买盘告一段落后曾一度转跌，但在逢低买盘支撑下最终回升。 在美股前一日收跌的背景下，任天堂股价因SBI证券调高目标价等利好因素而延续涨势，个股评估的修复亦对市场形成支撑。"
+    },
+    {
+      "date": "2026.11.19",
+      "published_at": "2026-11-19T04:44:02+09:00",
+      "headline": "Daily Summary: Hawkish Fed and fading optimism around Nvidia hit markets. Gold near 3700",
+      "source": "XTB.com",
+      "url": "https://www.xtb.com/cy/market-analysis/news-and-research/daily-summary-hawkish-fed-and-fading-optimism-around-nvidia-hit-markets-gold-near-3700",
+      "language": "English",
+      "section": "宏观经济与投资 / Macro & Investment",
+      "summary": "Minutes from the FOMC meeting revealed hawkish sentiment, with policymakers considering larger rate hikes if inflation data worsens. Gold prices dropped below 3 800 USD per ounce due to rising bond yields and hawkish central bank messaging. US housing starts rose by 9.9% month-on-month, while building permits fell by 7.4% amid high mortgage rates. Nvidia faced investor scrutiny and management changes, while Microsoft and Intel deepened their strategic partnership. US crude inventories rose by 3.38 million barrels, pushing crude oil prices lower.",
+      "summary_zh": "美联储公开市场委员会（FOMC）会议纪要显示出鹰派立场，决策者认为若通胀数据恶化应考虑更大规模的加息。 受债券收益率上升和央行鹰派言论影响，黄金价格跌至每盎司3800美元以下。 在美国高房贷利率环境下，美国新屋开工率环比上升9.9%，营建许可则下降7.4%。 英伟达面临投资者审查与管理层变动，微软和英特尔则加深了战略合作伙伴关系。 美国原油库存增加338万桶，导致原油价格走低。"
     },
     {
       "date": "2026.11.19",
@@ -177,8 +166,8 @@
       "url": "https://www.tmgm.com/en-eu/analysis/market-news/article/japanese-yen-softens-ahead-of-fomc-minutes-intervention-risk-in-focus-202611180056",
       "language": "English",
       "section": "宏观经济与投资 / Macro & Investment",
-      "summary": "The USD/JPY trades around 159.55 during Wednesday's Asian session, supported by the US Dollar against the Japanese Yen following hawkish remarks from Federal Reserve officials. St. Louis Fed President Alberto Musalem stated that several interest rate increases may be necessary to contain elevated inflation and argued for prompt action. October US Retail Sales rose 0.2% MoM, matching forecasts. Markets price in roughly a 95.7% probability of a quarter-point rate increase in December. Brown Brothers Harriman's Elias Haddad noted that robust US growth and sticky inflation keep the USD bias higher. Conversely, Japanese Finance Minister Satsuki Katayama cautioned against rapid exchange-rate movements and said the government would coordinate with the US Treasury. MUFG analysts pointed out that Japan's Q3 GDP fell 0.1% qoq annualized, but markets still price in about an 85% probability of a December Bank of Japan hike as board member Hajime Takata called for a nimble approach.",
-      "summary_zh": "周三亚洲早盘时段，美元兑日元交投于159.55附近，美联储官员的鹰派言论为美元提供了支撑。 圣路易斯联储主席穆萨莱姆周二表示，可能需要多次加息来遏制高企的通胀，并主张迅速采取行动以防问题恶化。 美国人口普查局周二公布的数据显示，美国10月零售销售环比增长0.2%，符合市场预期。 CME的FedWatch工具显示，市场预计12月加息25个基点的概率约为95.7%。 布朗兄弟哈里曼的埃利亚斯·哈达德指出，美国强劲的增长和黏性通胀使美元维持偏高倾向。 与此同时，日本财务大臣片山皋月对单边且快速的汇率变动发出警告，称政府将与美国财政部密切协调并适当应对。 三菱日联银行分析师指出，日本第三季度GDP按年率计算意外收缩0.1%，但由于鹰派董事高田创呼吁对进一步收紧政策采取灵活态度，市场仍定价日本央行在12月加息25个基点的概率约为85%。"
+      "summary": "USD/JPY traded around 159.55 during Wednesday’s Asian session as hawkish remarks by Fed officials supported the US Dollar. St. Louis Fed President Alberto Musalem stated that several interest rate increases may be necessary to contain elevated inflation. October US Retail Sales rose 0.2% MoM, matching forecasts. The CME FedWatch tool assigned a 95.7% probability to a quarter-point rate increase in December. Japan’s Finance Minister Satsuki Katayama cautioned against one-sided, rapid exchange-rate movements, while MUFG noted that Q3 GDP unexpectedly contracted by 0.1% qoq annualised, though markets still price in an 85% probability of a 25 bps Bank of Japan hike in December.",
+      "summary_zh": "周三亚洲早盘，美元兑日元交投于159.55附近，美联储官员的鹰派言论为美元提供支撑。 圣路易斯联储主席穆萨勒姆表示，可能需要多次加息来遏制高企的通胀。 美国10月零售销售环比增长0.2%，符合市场预期。 CME美联储观察工具显示，市场预计12月加息25个基点的概率约为95.7%。 日本财务大臣片山皋月对单边快速的汇率波动提出警告，三菱UFJ银行指出日本第三季度GDP按年率意外萎缩0.1%，不过市场仍计入日本央行在12月加息25个基点约85%的概率。"
     },
     {
       "date": "2026.11.19",
@@ -188,19 +177,8 @@
       "url": "https://www.poundsterlinglive.com/yen/23892-japanese-yen-forecast-bank-of-japan-hikes-pound-to-yen-dollar",
       "language": "English",
       "section": "宏观经济与投资 / Macro & Investment",
-      "summary": "The Japanese yen needs the Bank of Japan to implement three more rate hikes, pushing the policy rate to 2% or higher by June 2027, to stabilize and recover against the pound and dollar. Institutional analysts and fund managers, including those from Goldman Sachs and Bank of America, point to terminal rates, shrinking rate differentials, and domestic policy shifts as key factors. Japan's GDP was flat in the third quarter, while October inflation is expected to reach 2.5%. Meanwhile, U. S. Federal Reserve expectations and strong U. S. two-year Treasury yields above 4.8% on 17 November remain major hurdles for the currency. Officials such as BOJ Policy Board member Hajime Takata and the Ministry of Finance have also commented on rate trajectories and exchange rate impacts.",
-      "summary_zh": "日本央行需要进一步加息，到2027年6月将政策利率提升至2%或更高，即再进行三次加息，才能使日元兑英镑和美元实现复苏并保持稳定。 高盛和美国银行等机构的分析师及基金经理指出，终端利率、缩小的利差以及国内政策转变是关键因素。 日本第三季度GDP持平，而10月通胀率预计将达到2.5%。 同时，美国联邦储备委员会的预期以及11月17日维持在4.8%以上的美国两年期国债收益率仍然是日元面临的主要障碍。 日本央行政策委员会成员高田创和财务省官员也就利率走势及汇率影响发表了看法。"
-    },
-    {
-      "date": "2026.11.19",
-      "published_at": "2026-11-19T02:16:15+09:00",
-      "headline": "Gold Price Forecast — XAU-USD ($3,770) $4,050 Upside Target on 97.8% Fed Hike Odds",
-      "source": "TradingNEWS",
-      "url": "https://www.tradingnews.com/news/gold-xau-usd-breaks-3800-to-14-month-low-3757-reclaiming-3890-puts-4050-usd-target-in-play",
-      "language": "English",
-      "section": "宏观经济与投资 / Macro & Investment",
-      "summary": "Spot gold fell 2% to $3,770.12 an ounce on Wednesday morning, November 18, touching $3,757 and marking its lowest level since September 2025. U. S. gold futures for December delivery dropped 2.4% to $3,772.65. The broader decline is driven by strong expectations of a December Fed rate hike, which reached 97.8% probability, alongside a 10-year Treasury yield holding at 5.10% and a strong dollar. St. Louis Fed President Alberto Musalem and New York Fed President John Williams indicated more tightening may be needed, while China's central bank continued its buying streak by adding 25.8 tonnes in October. On Tuesday, November 17, spot gold was essentially flat at $3,851.90 while broader markets experienced heavy losses, including a 1.03% drop in the S&P 500.",
-      "summary_zh": "11月18日周三早盘，现货黄金下跌2%，至每盎司3770.12美元，盘中触及3757美元，创下2025年9月以来的最低水平。 12月交割的美国黄金期货下跌2.4%，至3772.65美元。 更广泛的下跌是由美联储12月加息的强烈预期（概率达到97.8%）、保持在5.10%的10年期国债收益率以及强劲的美元共同驱动的。 圣路易斯联储主席穆萨莱姆和纽约联储主席威廉姆斯暗示可能需要采取更多紧缩措施，而中国央行在10月增持了25.8吨黄金，延续了购买势头。 在11月17日周二，现货黄金基本持平于3851.90美元，而同期更广泛的市场遭受重创，标普500指数下跌1.03%。"
+      "summary": "Fund managers surveyed by Bank of America state that a terminal rate of 2.25% or higher is needed to stabilize the Japanese yen. Goldman Sachs forecasts three more rate hikes to a 2% policy rate by June 2027, which is more hawkish than the consensus expectation of 1.46%. Hajime Takata, a Bank of Japan Policy Board member, urged a nimble approach to bringing the policy rate close to neutral. Japan's Q3 GDP showed the economy flat on the quarter, while October headline inflation is expected to rise to 2.5%. Lloyd Chan at MUFG noted that rate differentials remain wide, keeping the yen under pressure unless BOJ normalisation deepens.",
+      "summary_zh": "美国银行调查的基金经理表示，需要2.25%或更高的最终利率才能稳定日元。 高盛预测到2027年6月将再加息三次至2%的政策利率，这比市场共识预期的1.46%更为鹰派。 日本央行政策委员会委员高田创敦采取灵活的步伐使政策利率接近中性水平。 日本第三季度GDP环比持平，10月整体通胀率预计将升至2.5%。 三菱UFJ银行的Lloyd Chan指出，由于日美利差依然较大，在日元持续承受压力的情况下，日元的持久复苏最终需要日本央行进一步推进正常化进程。"
     },
     {
       "date": "2026.11.19",
@@ -210,19 +188,8 @@
       "url": "https://www.tradingview.com/news/cointelegraph:6025a4d90094b:0-polymarket-us-takes-rapid-fire-crypto-trading-format-to-oil-natural-gas/",
       "language": "English",
       "section": "宏观经济与投资 / Macro & Investment",
-      "summary": "Polymarket US is expanding its short-duration up-or-down commodity markets to include oil and natural gas alongside gold and silver, following rapid growth in its crypto offerings. According to chief growth officer Travis VanderZanden, crypto up-or-down contracts surpassed $1 billion in trading volume and 300,000 traders in six weeks. In November, crypto up-or-down markets accounted for $931 million in notional volume, representing 10.3% of Polymarket US volume. Meanwhile, the commodities category recorded $4.3 million over the same period. Rival prediction market Kalshi has also experienced high activity, with its 15-minute gold contracts overtaking equivalent Ether contracts in September.",
-      "summary_zh": "继其加密货币产品实现快速增长后，Polymarket US正在将其短期涨跌大宗商品市场扩展至石油和天然气，此前该平台已推出黄金和白银。 据首席增长官特拉维斯·范德赞登称，加密货币涨跌合约在六周内交易量超过10亿美元，交易者超过30万名。 11月，加密货币涨跌合约的名义交易量达到9.31亿美元，占Polymarket US交易量的10.3%。 与此同时，大宗商品类别在同期记录了430万美元的交易额。 竞争对手预测市场Kalshi也经历了高活跃度，其15分钟黄金合约在9月份超越了同等以太坊合约。"
-    },
-    {
-      "date": "2026.11.19",
-      "published_at": "2026-11-19T01:53:02+09:00",
-      "headline": "Where to Buy Gold in Australia in 2026: Is Now a Good Time?",
-      "source": "Mitrade",
-      "url": "https://www.mitrade.com/au/insights/commodity/gold/where-to-buy-gold",
-      "language": "English",
-      "section": "宏观经济与投资 / Macro & Investment",
-      "summary": "Gold (XAU/USD) plunged below the psychological US$3,800 level during Wednesday's Asian trading session on 18 November 2026, falling more than 1% to approximately US$3,790 per ounce and reaching its lowest level since September 2025. The sell-off was driven by a stronger US dollar near a 19-month high, rising Treasury yields, and hawkish Federal Reserve expectations. For Australian investors, the decline prompts a reassessment of whether to buy physical gold, gold ETFs such as BetaShares Gold Bullion ETF, Global X Physical Gold, and Perth Mint Gold, gold mining shares like Northern Star Resources and Evolution Mining, or Gold CFDs. Each avenue carries different considerations regarding storage, insurance, leverage, and operational risks.",
-      "summary_zh": "在2026年11月18日周三的亚洲交易时段，黄金（XAU/USD）跌破了心理关口US$3800，跌幅超过1%，至每盎司约US$3790，创下2025年9月以来的最低水平。 这轮抛售是由接近19个月高点的走强美元、不断上升的国债收益率以及鹰派的美联储预期所驱动的。 对于澳大利亚投资者而言，此次下跌促使他们重新评估是否购买实物黄金、黄金ETF（如BetaShares Gold Bullion ETF、Global X Physical Gold和Perth Mint Gold）、黄金矿业股（如Northern Star Resources和Evolution Mining）或黄金差价合约（CFD）。 每种途径在仓储、保险、杠杆和运营风险方面都有不同的考量。"
+      "summary": "Polymarket US is expanding its short-duration up-or-down contracts to include oil and natural gas markets, following strong growth in its crypto contracts which surpassed $1 billion in trading volume over six weeks. The new commodities will join existing gold and silver markets that offer 15-minute and hourly trading intervals. According to Polymarket chief growth officer Travis VanderZanden, short-duration markets have attracted over 300,000 traders and reached $931 million in crypto volume in November as of Wednesday, representing 10.3% of the platform's total volume. Meanwhile, rival prediction market Kalshi recorded significant activity in its short-duration gold contracts, which overtook equivalent Ether contracts in September after generating 542 million contracts and an estimated $5 million in fees.",
+      "summary_zh": "Polymarket US正在将其短期涨跌交易合约扩展至石油和天然气市场，此前其加密货币合约在六周内的交易额突破了$1 billion。 这些新的大宗商品将加入已经拥有15分钟和每小时市场的黄金和白银交易行列。 Polymarket首席增长官Travis VanderZanden表示，短期市场是平台上增长最快的的产品之一，在短短六周内吸引了超过300,000名交易者，加密货币交易额突破$1 billion。 根据Ticker Tracker的数据，截至周三，11月份加密货币涨跌市场的名义交易额为$931 million，占Polymarket US总交易额的10.3%。 与此同时，竞争对手预测市场Kalshi的短期黄金合约在9月份推出几周后就超过了同等以太坊合约，当月录得542 million份交易合约和约$5 million的估算费用。"
     },
     {
       "date": "2026.11.19",
@@ -232,8 +199,8 @@
       "url": "https://eurasiabusinessnews.com/2026/11/18/stock-market-today-november-18-2026-nvidia-earnings-fail-to-calm-investors-as-gold-and-oil-fall/",
       "language": "English",
       "section": "宏观经济与投资 / Macro & Investment",
-      "summary": "U. S. stocks struggled for direction on Wednesday, November 18, 2026, as Nvidia's record revenue and upgraded forecasts failed to lift broader confidence in the artificial intelligence trade. Nvidia reported fiscal third-quarter revenue of $115.8 billion, a 103% year-over-year increase, with data-center sales rising 110% to $107.6 billion, and projected fourth-quarter revenue of $130 billion alongside an increased fiscal 2028 revenue-growth forecast of 75%. Despite the strong metrics and an interim CEO structure following Jensen Huang, shares remained volatile. Concurrently, gold fell below $3,800 per ounce, oil weakened on increased inventories, and markets anticipated Anthropic's upcoming market debut and the release of October Federal Reserve meeting minutes.",
-      "summary_zh": "2026年11月18日周三，美股艰难寻找方向，英伟达创纪录的营收和上调的预测未能提升市场对人工智能交易的整体信心。 英伟达报告称，其财年第三季度营收为1158亿美元，同比增长103%，其中数据中心销售额增长110%至1076亿美元，并预计第四季度营收为$130 billion，同时将2028财年营收增长预测上调至75%。 尽管业绩强劲且在黄仁勋之后采用了临时首席执行官架构，但其股价依然波动。 与此同时，黄金跌破每盎司3800美元，石油因库存增加而走弱，市场正密切关注Anthropic即将到来的上市以及美联储10月会议纪的发布。"
+      "summary": "U. S. stocks showed mixed movement on Wednesday, November 18, 2026, as Nvidia's record revenue and upgraded forecasts failed to lift broader investor confidence amid ongoing concerns regarding artificial intelligence financing and valuation. Nvidia reported fiscal third-quarter revenue of $115.8 billion, a 103% increase year over year, with data-center sales rising 110% to $107.6 billion. The chipmaker projected fourth-quarter revenue of $130 billion, plus or minus 3%, and raised its fiscal 2028 revenue-growth forecast to 75%. Despite these strong operating figures, Nvidia shares dropped approximately 0.6% in the supplied snapshot. Meanwhile, gold fell below $3,800 per ounce, oil weakened due to rising U. S. inventories, and Bitcoin traded around $64,000, while markets awaited the upcoming Federal Reserve October meeting minutes and prepared for Anthropic's market debut.",
+      "summary_zh": "2026年11月18日周三，由于英伟达（Nvidia）创纪录的营收和上调的预期未能消除市场对人工智能融资和估值的持续担忧，美国股市走势震荡。 英伟达公布的财年第三季度营收为$115.8 billion，同比增长103%，其中数据中心销售额增长110%至$107.6 billion。 这家芯片制造商预计第四季度营收为$130 billion，浮动幅度为正负3%，并将2028财年的营收增长预期上调至75%。 尽管运营数据强劲，但在提供的盘中快照中，英伟达股价下跌了约0.6%。 与此同时，黄金价格跌破每盎司$3,800，受美国库存增加影响油价走弱，比特币交易价格在$64,000左右，而市场正等待美联储10月会议纪要并为Anthropic的上市做准备。"
     },
     {
       "date": "2026.11.18",
@@ -243,19 +210,30 @@
       "url": "https://www.tmgm.com/en-eu/analysis/market-news/article/us-dollar-fed-support-before-a-2h27-reversal-ocbc-202611180828",
       "language": "English",
       "section": "宏观经济与投资 / Macro & Investment",
-      "summary": "Resilient US growth, persistent inflation and hawkish Federal Reserve commentary should underpin the Dollar, particularly against the Euro, according to OCBC strategists Sim Moh Siong and Christopher Wong. Their EUR/USD forecast stands at 1.08 by mid‑2027. However, they expect CNY appreciation and a stronger Japanese Yen to limit the Dollar’s broader gains, with a downward turn in the USD cycle anticipated mainly in 2H27.",
-      "summary_zh": ""
+      "summary": "OCBC strategists Sim Moh Siong and Christopher Wong project that resilient U. S. growth, persistent inflation, and hawkish Federal Reserve commentary will support the U. S. dollar, particularly against the euro, with a EUR/USD forecast of 1.08 by mid-2027. However, they expect Chinese yuan appreciation and an improving Japanese yen outlook to limit broader dollar gains before a downward cycle turns in the second half of 2027. October economic data showed solid U. S. momentum heading into the fourth quarter of 2026, with retail sales rising 0.2% month-on-month, control group sales up 0.6%, and manufacturing output gaining 0.3%, supporting expectations for a 25 basis point Fed rate hike in December. Fed officials including Alberto Musalem and John Williams maintained hawkish stances, noting that strong artificial interest and demand might require additional tightening.",
+      "summary_zh": "华侨银行（OCBC）策略师Sim Moh Siong和Christopher Wong预测，美国经济的韧性、持续的通胀以及美联储的鹰派言论将支撑美元，特别是兑欧元汇率，他们对2027年中期EUR/USD的预测为1.08。 然而，他们预计人民币升值和日元前景的改善将限制美元的更广泛涨幅，美元周期预计主要在2027年下半年转向下行。 10月份的数据显示，美国经济在进入2026年第四季度时保持了稳固的势头，零售额环比增长0.2%，核心零售额增长0.6%，制造业产出增长0.3%，这些数据支持了美联储在12月加息25个基点的预期。 包括Alberto Musalem和John Williams在内的美联储官员保持鹰派立场，指出强劲的人工智能投资和需求可能需要进一步收紧政策。"
     },
     {
       "date": "2026.11.18",
-      "published_at": "2026-11-18T20:45:00+09:00",
-      "headline": "Current price of Bitcoin for November 18, 2026",
-      "source": "Fortune",
-      "url": "https://fortune.com/article/price-of-bitcoin-11-18-2026/",
+      "published_at": "2026-11-18T16:59:56+09:00",
+      "headline": "Stocks Slip as Nvidia Earnings, Anthropic IPO Test AI Investment Boom",
+      "source": "Global Banking & Finance Review",
+      "url": "https://www.globalbankingandfinance.com/asia-stocks-set-snap-losing-streak-nvidia-beat-anthropic/",
       "language": "English",
       "section": "宏观经济与投资 / Macro & Investment",
-      "summary": "At 6:30 a. m. Eastern Time today, one Bitcoin (BTC) is priced at $64,146.40. That’s down $870.26 from where it stood yesterday morning and roughly $28,700 lower than it was at this time last year. What is Bitcoin? Bitcoin was the world’s first cryptocurrency and continues to be the most prominent digital coin on the market. Its market cap is about $1.33 trillion, placing it well ahead of the next-largest cryptocurrency, Ethereum, which has a market cap of roughly $233 billion.",
-      "summary_zh": ""
+      "summary": "Global stocks fell in choppy trading on Wednesday, November 18, as Nvidia's quarterly results failed to sustain a market rally and the U. S. dollar strengthened to a 19-month high following hawkish comments from Federal Reserve Governor Christopher Waller. Nvidia shares dropped 2.4% after rising up to 2.7%, and its board dismissed the possibility of rehiring former CEO Jensen Huang. The dollar index rose 0.19% to 103.81 after Waller suggested the central bank should either approve a half-point rate increase in December or signal a faster pace of hikes in 2027. In commodities markets, U. S. crude fell 4.39% to $82.23 a barrel and Brent crude dropped 2.37% to $90.93 per barrel following higher-than-expected inventory increases, while spot gold fell 2.86% to $3,739.66 an ounce.",
+      "summary_zh": "11月18日周三，由于英伟达的季度业绩未能维持市场涨势，且在美联储理事Christopher Waller发表鹰派言论后美元走强至19个月新高，全球股市在动荡交易中下跌。 英伟达股价在一度上涨2.7%后下跌了2.4%，其董事会驳回了重新聘用前首席执行官黄仁勋的可能性。 在Waller暗示央行应在12月批准加息半个百分点或在2027年发出更快加息步伐的信号后，美元指数上涨0.19%至103.81。 在大宗商品市场，由于库存增幅超预期，美国原油期货下跌4.39%至每桶$82.23，布伦特原油下跌2.37%至每桶$90.93，而现货黄金下跌2.86%至每盎司$3,739.66。"
+    },
+    {
+      "date": "2026.11.18",
+      "published_at": "2026-11-18T15:55:00+09:00",
+      "headline": "Dollar-Yen Tests 160 Line: A Hedge Fund \"Ally\" Shift Is the Key to Whether Japan Intervenes a Third Time",
+      "source": "BigGo Finance",
+      "url": "https://finance.biggo.com/news/f8e12d14-e617-406a-b705-53c560c2cfb5",
+      "language": "English",
+      "section": "宏观经济与投资 / Macro & Investment",
+      "summary": "The dollar-yen exchange rate is once again approaching the 160 level in 2026, raising expectations of a potential third yen-buying intervention by Japanese authorities. Previous interventions occurred during solo actions from late April to early May when the dollar broke 160, and a joint Japan-U. S. intervention from late July to early August after the rate reached 163. Unlike previous episodes where the yen's weakness was driven by large-scale speculative dollar buying and short positions reaching 160,000 contracts, U. S. Commodity Futures Trading Commission data shows speculators switched to net long yen positions exceeding 100,000 contracts following remarks by U. S. Treasury Secretary Scott Bessent. JPMorgan Chase strategist Junya Tanase noted that the July coordinated intervention signaled a change in market expectations regarding Bank of Japan rate hikes.",
+      "summary_zh": "2026年，美元兑日元汇率再次逼近160关口，引发了市场对日本当局可能进行第三次买入日元干预的预期。 此前的干预包括4月下旬至5月上旬美元突破160时的单边行动，以及7月下旬至8月上旬汇率达到163之后进行的日美联合干预。 与以往日元走弱主要由大规模投机性买入美元和空头头寸达到160,000份合约驱动的情况不同，美国商品期货交易委员会的数据显示，在美国财政部长Scott Bessent发表讲话后，投机者已转向净多头日元头寸，超过100,000份合约。 摩根大通首席外汇策略师Junya Tanase指出，7月的协同干预标志着市场对日本央行加息预期的转变。"
     }
   ]
 }
