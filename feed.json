@@ -1,20 +1,31 @@
 {
   "kind": "market",
-  "updated_at": "2026-11-20T04:42:50.682443+09:00",
+  "updated_at": "2026-11-20T06:37:15.045896+09:00",
   "status": {
     "state": "partial",
-    "checked_at": "2026-11-20T04:42:50.682443+09:00",
-    "latest_article_at": "2026-11-20T04:02:00+09:00",
-    "articles": 23,
+    "checked_at": "2026-11-20T06:37:15.045896+09:00",
+    "latest_article_at": "2026-11-20T05:45:34+09:00",
+    "articles": 22,
     "sections": {
       "美国股市 / US Market": 8,
-      "日本株式市場 / Japan Market": 7,
+      "日本株式市場 / Japan Market": 6,
       "宏观经济与投资 / Macro & Investment": 8
     },
     "shortfalls": {},
-    "translations_missing": 3
+    "translations_missing": 2
   },
   "articles": [
+    {
+      "date": "2026.11.20",
+      "published_at": "2026-11-20T05:45:34+09:00",
+      "headline": "Stock Market Today, November 19, 2026: Dow Sinks 1,084 Points, Nasdaq Drops 2.2% After Anthropic Debut",
+      "source": "Eurasia Business News",
+      "url": "https://eurasiabusinessnews.com/2026/11/19/stock-market-today-november-19-2026-dow-sinks-1084-points-nasdaq-drops-2-2-after-anthropic-debut/",
+      "language": "English",
+      "section": "美国股市 / US Market",
+      "summary": "On November 19, 2026, U. S. stocks sold off sharply despite Anthropic's historic stock-market debut. The Nasdaq Composite dropped 2.2%, the S&P 500 shed 2%, and the Dow Jones Industrial Average lost 1,084 points. Anthropic opened on Nasdaq at $111.50, up approximately 34% from its $83 offering price after pricing above its $70–$78 range. The transaction totaled approximately $81.34 billion for 980 million shares, making it the largest listing on record. Meanwhile, the Labor Department reported that initial unemployment claims increased by 1,000 to 203,000 for the week ending November 14.",
+      "summary_zh": "2026年11月19日，尽管Anthropic历史性的股市首秀引发了乐观情绪，但美国股市仍大幅抛售。 纳斯达克综合指数下跌2.2%，标普500指数下跌2%，道琼斯工业平均指数下跌1,084点。 Anthropic在纳斯达克开盘价为$111.50，较$83的发行价上涨约34%，此前其定价高于$70至$78的指引区间。 该交易以9.8亿股的总量筹集了约$$81.34 billion，成为有史以来规模最大的上市。 与此同时，美国劳工部报告称，截至11月14日的一周，初请失业金人数增加1,000人，达到203,000人。"
+    },
     {
       "date": "2026.11.20",
       "published_at": "2026-11-20T04:02:00+09:00",
@@ -23,8 +34,8 @@
       "url": "https://247wallst.com/investing/2026/11/19/amd-is-still-up-125-this-year-did-today-just-mark-the-top-for-amd-stock/",
       "language": "English",
       "section": "美国股市 / US Market",
-      "summary": "Advanced Micro Devices stock experienced a sharp reversal on November 19, falling 9% to $481.21 after Hunterbrook Media disclosed a short position and published a critical report. Hunterbrook alleged that banned Chinese server maker IEIT Systems received newer AMD firmware and claimed AMD bills over 20% of its revenue to China and Hong Kong customers while relying on a Chinese partner. AMD asserted the claims misrepresent its business practices and that it complies with U. S. export control laws. Prior to the report, AMD posted strong Q3 2026 results with revenue up 44.7% year over year to $13.38 billion. Analysts and market observers noted that AMD trades at a trailing price-to-earnings ratio of 108x while facing export-control risks and a cooling AI chip trade.",
-      "summary_zh": "Advanced Micro Devices公司股票在11月19日遭遇剧烈反弹，在Hunterbrook Media披露做空仓位并发布批评报告后，股价下跌9%至$481.21。 Hunterbrook指控被美国制裁的中国服务器制造商IEIT Systems持续获得更新的AMD固件，并声称AMD有超过20%的营收来自中国大陆和香港客户。 AMD发表声明称这些指控歪曲了其业务实践与合作关系，并强调公司遵守美国出口管制法律。 在此报告发布之前，AMD发布的2026财年第三季度财报显示营收同比增长44.7%至$13.38 billion。 市场观察人士指出，AMD的静态市盈率达到108倍，并在出口管制风险及冷却的AI芯片交易潮中面临压力。"
+      "summary": "Advanced Micro Devices stock dropped 9% on November 19, 2026, to $481.21 after Hunterbrook Media disclosed a short position and published a critical report alleging that banned Chinese server maker IEIT Systems received newer AMD firmware and that AMD bills over 20% of its revenue to customers in China and Hong Kong. AMD stated the claims misrepresent its business practices and that it complies with U. S. export control laws. Previously, AMD reported Q3 2026 revenue rose 44.7% year over year to $13.38 billion, with Data Center revenue jumping 97% to $8.55 billion, and management set Q4 revenue outlook at $17 billion plus or minus 3%.",
+      "summary_zh": "2026年11月19日，超威半导体（AMD）股价下跌9%，至$481.21，此前Hunterbrook Media披露了对AMD的空头头寸并发布了一份批判性报告。 该报告指控被禁的中国服务器制造商浪潮电子信息持续获得更新的AMD固件，且AMD将超过20%的收入记在中国内地和香港客户头上。 AMD发表声明称这些指控歪曲了其业务做法，并表示其遵守美国出口管制法律。 在此之前，AMD公布的2026年第三季度营收同比增长44.7%至$$13.38 billion，数据中心营收跃升97%至$$8.55 billion，管理层将第四季度营收展望设定为$$17 billion上下浮动3%。"
     },
     {
       "date": "2026.11.20",
@@ -34,8 +45,19 @@
       "url": "https://finance.biggo.com/news/ad053339-6ed9-4815-84ea-184d46130d69",
       "language": "English",
       "section": "美国股市 / US Market",
-      "summary": "Taiwan's stock market capitalization ranking fell from fourth in September to seventh globally amid foreign selling and a pullback in U. S. technology shares, with the TAIEX hovering near the 40,000-point threshold and state-backed funds stepping in to support the market. Cathay Securities Investment Trust stated that AI industry fundamentals remain intact and recommended an active-plus-passive dual-track allocation strategy to weather volatility. Liang En-yi, manager of the Cathay Taiwan High Dividend Fund, cited Nvidia's third-quarter fiscal 2027 quarterly revenue of $115.8 billion, up 103% year over year, and noted that Taiwan Semiconductor Manufacturing plans to invest up to $500 million in Anthropic's U. S. listing. Meanwhile, Chiang Yu-teng, manager of the 00878 fund, noted that financial stocks offer cross-sector resilience, with non-electronics holdings representing 52.57% of the fund's portfolio.",
-      "summary_zh": "受持续外资抛售及美国科技股回调影响，台湾股市市值全球排名从9月的第四位下滑至第七位，大盘在40,000点关口附近剧烈震荡，促使公股护盘资金正式介入。 国泰投信表示，人工智能产业基本面并未减弱，并建议投资人采取“主动加被动”的双轨配置策略以应对市场波动。 国泰台湾高股息基金经理人梁恩义指出，英伟达2027财年第三季度营收达$115.8 billion（约合新台币$3.8 trillion），同比增长103%，并提到台积电计划对Anthropic在美国的上市投资高达$500 million（约合新台币$17 billion）。 同时，00878基金经理人姜宇厅表示，金融股具有跨产业抗震能力，非电子股占该基金组合的比重达52.57%。"
+      "summary": "Taiwan's stock market capitalization ranking slid to seventh globally from fourth in September amid sustained foreign selling and a pullback in US technology shares, prompting state-backed funds to step in. Cathay Securities Investment Trust recommended an active-passive dual-track strategy. Liang En-yi noted that Nvidia's Q3 fiscal 2027 quarterly revenue reached $115.8 billion, up 103% year over year, with guidance reaching up to $130 billion, while Taiwan Semiconductor Manufacturing plans to invest up to $500 million in Anthropic's offering. The TAIEX closed at 40,194.91 on November 18 with turnover of NT$1.0.",
+      "summary_zh": "在持续的外资抛售和美国科技股回落的背景下，台湾股市的全球市值排名从9月份的第四位滑落至第七位，促使公股基金进场护盘。 国泰投信建议采取主动加被动的双轨配置策略。 经理人梁恩溢指出，英伟达2027财年第三季度营收达到$$115.8 billion，同比增长103%，下一季度营收指引高达$$130 billion，同时台积电计划对Anthropic的发行投资最多达$$500 million。 台股加权指数18日收盘报40,194.91点，成交额为新台币1.0。"
+    },
+    {
+      "date": "2026.11.20",
+      "published_at": "2026-11-20T03:04:00+09:00",
+      "headline": "NVIDIA Doubled Its Revenue in Its First Quarter Without Huang. Here’s Our Price Target.",
+      "source": "24/7 Wall St.",
+      "url": "https://247wallst.com/investing/2026/11/19/nvidia-doubled-its-revenue-in-its-first-quarter-without-huang-heres-our-price-target/",
+      "language": "English",
+      "section": "美国股市 / US Market",
+      "summary": "Nvidia posted third-quarter fiscal 2027 revenue of $115.84 billion, up 103.21% year over year, in its first earnings report since Jensen Huang resigned. Chairman Harvey Jones stated Huang resigned after disclosure of personal behavior inconsistent with company standards, and CFO Colette Kress is serving as interim CEO. Data Center revenue reached $107.60 billion, and Vera Rubin brought in nearly $20 billion in its first production quarter. Management guided fourth-quarter revenue to $130 billion plus or minus 3% and raised fiscal 2028 growth outlook to approximately 75%. 24/7 Wall St. set a price target of $201.11.",
+      "summary_zh": "在黄仁勋辞职后的首份财报中，英伟达公布2027财年第三季度营收为$$115.84 billion，同比增长103.21%。 董事长哈维·琼斯表示，黄仁勋在被披露个人行为不符合公司标准后辞职，资深首席财务官科莱特·克雷斯担任临时首席执行官。 数据中心营收达到$$107.60 billion，Vera Rubin在首个生产季度贡献了近$$20 billion的收入。 管理层将第四季度营收指引定为$$130 billion上下浮动3%，并将2028财年增长预期上调至约75%。 24/7 Wall St. 对其给出的目标价为$201.11。"
     },
     {
       "date": "2026.11.20",
@@ -45,8 +67,8 @@
       "url": "https://finance.biggo.com/news/893b5a9d-1666-4448-8c98-4597bafb1040",
       "language": "English",
       "section": "美国股市 / US Market",
-      "summary": "On November 19, U. S. stock indexes opened higher, with the Dow Jones Industrial Average up 0.39%, the S&P 500 up 1.17%, and the Nasdaq Composite up 1.91%. The initial public offering of AI company Anthropic served as a major sentiment catalyst, driving broad gains across semiconductor and memory-chip stocks, with the Philadelphia Semiconductor Index rising over 3% at the open. Memory and hard-drive names led the advance, including SanDisk rising over 8%, Intel over 7%, and Seagate Technology, Micron Technology, and Western Digital gaining more than 6%. Mega-cap tech stocks also advanced, with Google gaining nearly 4%, Nvidia over 4%, and Microsoft and Tesla rising over 2%. Anthropic's IPO pricing and subscription served as a key valuation benchmark for AI assets, drawing capital into computing power, memory, and optical communications.",
-      "summary_zh": "11月19日，美国三大股指开盘走高，道琼斯工业平均指数上涨0.39%，标普500指数上涨1.17%，纳斯达克综合指数上涨1.91%。 人工智能公司Anthropic的首次公开募股成为当日最强烈的市场情绪催化剂，推动半导体和存储芯片股全面上涨，费城半导体指数开盘涨幅超过3%。 存储和硬盘类股领涨，其中SanDisk涨幅超过8%，Intel涨幅超过7%，Seagate Technology、Micron Technology和Western Digital涨幅均超过6%。 大型科技股也普遍上涨，Google上涨近4%，Nvidia上涨超过4%，Microsoft和Tesla上涨超过2%。 Anthropic的IPO定价与认购被视作AI资产的重要估值基准，迅速吸引资金流入计算能力、存储和光通信板块。"
+      "summary": "On November 19, U. S. stock indexes opened higher, driven by Anthropic's IPO as a market sentiment catalyst. Memory and hard-disk stocks led the advance, with SanDisk rising over 8%, Intel over 7%, and Seagate Technology, Micron Technology, and Western Digital each gaining more than 6%, while South Korea's SK Hynix rose over 5%. Chip-design and analog-device companies such as Qualcomm, Broadcom, ON Semiconductor, and ARM all rose more than 3%. Mega-cap tech stocks advanced broadly except Apple, with Google gaining nearly 4% and Nvidia over 4%.",
+      "summary_zh": "11月19日，受人工智能企业Anthropic首次公开募股作为市场情绪催化剂的推动，美国三大股指开盘走高。 存储和硬盘股票领涨，其中闪迪上涨超过8%，英特尔上涨超过7%，希捷科技、美光科技和西部数据均涨超6%，韩国SK海力士涨超5%。 高通、博通、安森美和ARM等芯片设计和模拟器件公司均上涨超过3%。 除苹果外，大型科技股普遍上涨，谷歌上涨近4%，英伟达涨超4%。"
     },
     {
       "date": "2026.11.20",
@@ -56,8 +78,8 @@
       "url": "https://finance.yahoo.com/markets/article/nvidia-broadcom-micron-stocks-decline-as-anthropic-goes-public-170845481.html",
       "language": "English",
       "section": "美国股市 / US Market",
-      "summary": "Chip giant Nvidia, along with Broadcom and Intel, slid into the red on Thursday following the start of trading for Anthropic shares. Advanced Micro Devices sank 8% earlier in the session after Hunterbrook Media disclosed a short position regarding questions over semiconductors reaching a blacklisted Chinese server maker. Memory chipmaker Micron Technology and SK Hynix also lost their earlier gains. Micron president and chief technology officer Scott DeBoer stated on Wednesday that memory supply in 2027 will be tighter than in 2026 and that supply will not come into balance with demand in the foreseeable future. The broader chip sector initially rose to lift the Nasdaq Composite before trimming gains amid ongoing volatility, while analyst Dan Ives of Yorkville Ives described Anthropic's IPO as a major near-term win that supports a multi-trillion-dollar capital expenditure outlook.",
-      "summary_zh": "在Anthropic股票开始交易后，芯片巨头Nvidia与Broadcom和Intel于周四下跌至负值区域。 Advanced Micro Devices早盘一度下跌8%，此前Hunterbrook Media披露了空头头寸，并对该公司半导体是否持续流向被黑名单制定的中国服务器制造商提出了质疑。 存储芯片制造商Micron Technology和SK Hynix也回吐了先前的涨幅。 Micron总裁兼首席技术官Scott DeBoer于周三表示，2027年的存储供应将比2026年更为紧缺，且在可预见的未来内供应无法与需求达到平衡。 虽然更广泛的芯片板块盘初一度推动纳斯达克综合指数上涨，但随后在持续波动中收窄涨幅。 Yorkville Ives分析师Dan Ives表示，Anthropic的IPO是近期科技行业的重大胜利，并支撑了未来数万亿美元资本支出的长期观点。"
+      "summary": "Chip giant Nvidia stock slid into the red on Thursday along with Broadcom shares after Anthropic began trading. Intel stock pared gains, closing up more than 1%. AMD shares sank 7% after Hunterbrook Media disclosed a short position, citing questions about whether semiconductors reached a US-blacklisted Chinese server maker via intermediaries. Micron Technology and SK Hynix lost gains, dropping more than 2%. Micron president and CTO Scott DeBoer reiterated on Wednesday that memory supply in 2027 will be tighter than in 2026. The broader chip sector fell following recent volatility as Nvidia CEO Jensen Huang's exit and AI financing concerns created jitters. Taiwan Semiconductor Manufacturing Company and ASML erased earlier gains. Coherent, Bloom Energy, CoreWeave, and Nebius also trimmed or erased gains. Yorkville Ives' Dan Ives stated that Anthropic's IPO is a big near-term win that should help restore investor confidence, noting a longer-term view of $3 trillion to $4 trillion in capex over the next few years.",
+      "summary_zh": "芯片巨头英伟达股价周四转跌，博通股份亦随之下滑，此前Anthropic开始交易。 英特尔股价收盘上涨超过1%。 AMD股价重挫7%，因Hunterbrook Media披露了空头头寸，指出半导体是否通过中介公司流向被美国列入黑名单的中国服务器制造商存疑。 美光科技和SK海力士涨幅回吐，下跌超过2%。 美光总裁兼首席技术官Scott DeBoer周三重申，2027年的内存供应将比2026年更加紧俏。 受近期波动影响，更广泛的芯片板块周四下跌，英伟达首席执行官黄仁勋的离职以及对人工智能融资的担忧引发了AI交易领域的恐慌。 台积电和阿斯麦早盘涨幅被抹去。 Coherent、Bloom Energy、CoreWeave和Nebius也纷纷收窄或抹去涨幅。 Yorkville Ives的Dan Ives表示，Anthropic的IPO是科技行业的重大近期胜利，并指出未来几年将有$3 trillion至$4 trillion的资本支出。"
     },
     {
       "date": "2026.11.20",
@@ -67,41 +89,19 @@
       "url": "https://www.proactiveinvestors.com/companies/news/1102133/chip-stocks-rally-as-anthropic-s-record-ipo-lifts-ai-investment-sentiment-1102133.html",
       "language": "English",
       "section": "美国股市 / US Market",
-      "summary": "Shares in major technology and semiconductor companies rose on Thursday ahead of Anthropic's Nasdaq debut under the ticker ANT. The maker of Claude priced its IPO at $83 a share, giving the offering a total gross value of $81.34 billion and valuing the company at about $1.5 trillion on a fully diluted basis above its preliminary $70 to $78 range. Micron Technology led gains by climbing 5.8%, alongside Alphabet advancing 4.3% and Nvidia gaining 3.6%. Separately, seven technology companies agreed to invest a combined $26 billion in Anthropic through a private placement of non-voting shares at the IPO price. Google and Nvidia each agreed to invest approximately $10 billion, AMD committed $2.5 billion, and Broadcom, Micron, and Microsoft each agreed to invest $1 billion, with TSMC Partners contributing $500 million.",
-      "summary_zh": "在Anthropic以代码ANT在纳斯达克首次亮相之前，主要科技和半导体公司股价于周四上涨。 Claude的开发商将其IPO发行价定为每股$83，使公开发行总额达到$81.34 billion，在完全摊薄基础上的估值约为$1.5 trillion，高于此前预期的$70至$78区间。 Micron Technology领涨并攀升5.8%，Alphabet上涨4.3%，Nvidia上涨3.6%。 此外，七家科技公司同意通过按IPO价格进行的无投票权股份私募，向Anthropic联合投资$26 billion。 Google和Nvidia分别同意投资约$10 billion，AMD承诺投资$2.5 billion，Broadcom、Micron和Microsoft分别同意投资$1 billion，TSMC Partners则出资$500 million。"
+      "summary": "Shares in major technology and semiconductor companies rose on Thursday ahead of Anthropic’s Nasdaq debut. The maker of Claude priced its record-breaking IPO at $83 a share, giving the public offering a total gross value of $81.34 billion and valuing the company at about $1.5 trillion on a fully diluted basis. Micron Technology led the gains, climbing 5.8%, while Alphabet advanced 4.3% and Nvidia gained 3.6%. Broadcom rose 2.7%, Microsoft added 2.5%, AMD increased 2.1%, and Amazon gained 1.9%. The offering comprises 980 million shares. Separately, seven technology companies agreed to invest a combined $26 billion in Anthropic through a private placement of non-voting shares at the IPO price. Google and Nvidia agreed to invest approximately $10 billion each, AMD committed $2.5 billion, and Broadcom, Micron, and Microsoft agreed to invest $1 billion each. TSMC Partners agreed to contribute the remaining $500 million. Amazon is an existing shareholder but not among the seven buyers in this private placement.",
+      "summary_zh": "在Anthropic登陆纳斯达克之前，主要科技和半导体公司股价于周四上涨。 Claude的开发商将其创纪录的IPO定价为每股$83，使公开募股的总毛价值达到$81.34 billion，在完全稀释基础上对公司的估值约为$1.5 trillion。 美光科技领涨，攀升5.8%，Alphabet上涨4.3%，英伟达上涨3.6%。 博通上涨2.7%，微软上涨2.5%，AMD上涨2.1%，亚马逊上涨1.9%。 此次发行包含9.8亿股股份。 另外，七家科技公司同意通过按IPO价格进行的无表决权股份私募，向Anthropic联合投资$26 billion。 谷歌和英伟达分别同意投资约$10 billion，AMD承诺投资$2.5 billion，博通、美光和微软分别同意投资$1 billion。 台积电合伙企业同意出资剩余的$500 million。 亚马逊是现有股东，但不在参与此次私募的七家买家之列。"
     },
     {
       "date": "2026.11.20",
-      "published_at": "2026-11-20T01:09:00+09:00",
-      "headline": "Nvidia, Broadcom, Micron stocks rise leading up to Anthropic's first trade",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/article/nvidia-amd-micron-pare-gains-leading-up-to-anthropics-first-trade-155941221.html",
+      "published_at": "2026-11-20T01:18:50+09:00",
+      "headline": "Qualcomm Inc Stock (QCOM) Moved Up by 3.81% on Nov 19: Drivers Behind the Movement",
+      "source": "TradingKey",
+      "url": "https://www.tradingkey.com/news/market-movers/262313573-market-movers-qcom-20261119",
       "language": "English",
       "section": "美国股市 / US Market",
-      "summary": "Chip giant Nvidia (NVDA) stock slid into the red on Thursday, along with shares of Broadcom (AVGO) and Intel (INTC), after Anthropic shares began trading. Meanwhile, shares of chipmaker AMD (AMD) sank into negative territory earlier in the session, falling 8% after Hunterbrook Media disclosed a short position in the stock, citing questions about whether the company's semiconductors continued to reach a US-blacklisted Chinese server maker through intermediary companies despite export restrictions.",
-      "summary_zh": ""
-    },
-    {
-      "date": "2026.11.20",
-      "published_at": "2026-11-20T00:46:00+09:00",
-      "headline": "Stock Market Today: Stock Market News And Analysis",
-      "source": "Investor's Business Daily",
-      "url": "https://www.investors.com/news/stock-market-today-stock-market-news/",
-      "language": "English",
-      "section": "美国股市 / US Market",
-      "summary": "LATEST MARKET UPDATES Stock Market Today: Major Indexes, AI Players Slide After Anthropic's Debut (Live Coverage)Bullish vibes created by Wall Street's pricing of artificial intelligence pure-play platform Anthropic's initial public offering evaporated quickly as the Dow Jones Industrial Average and other major stock indexes turned solidly negative. . . Read More Stock Futures: Check Premarket Prices On Dow Futures, S&P Futures, Nasdaq… Copyright ©2026 Investor's Business Daily, LLC.",
-      "summary_zh": ""
-    },
-    {
-      "date": "2026.11.20",
-      "published_at": "2026-11-20T00:33:00+09:00",
-      "headline": "Why Hershey (HSY) Stock Is Down Today",
-      "source": "Quiver Quantitative",
-      "url": "https://www.quiverquant.com/news/Why+Hershey+%28HSY%29+Stock+Is+Down+Today",
-      "language": "English",
-      "section": "美国股市 / US Market",
-      "summary": "The Hershey Company (HSY) is down 3.2% today. Here is some analysis on what might have caused this price movement. Analysis: The most likely driver appears to be continued investor concern about demand and 2027 expectations rather than a single fresh company announcement. This could be because Hershey’s late-October update showed price-led sales growth but weaker volumes, and the stock has also been dealing with lowered or capped analyst expectations near current trading levels.",
-      "summary_zh": ""
+      "summary": "Qualcomm Inc stock moved up by 3.81% on November 19, outperforming the Technology Equipment sector which rose by 0.62%. Top stocks by turnover included AMD down 6.28%, NVIDIA up 1.51%, and Micron up 3.48%. The upward momentum was driven by investor enthusiasm surrounding Investor Day presentations and a strategic diversification roadmap to transition beyond smartphone modems into automotive technology, IoT devices, and next-gen PC silicon. Management expanded its addressable market opportunity, underpinned by generative AI adoption, while detailing multi-year revenue targets for non-handset units. Sentiment was also bolstered by diversification targets alleviating customer concentration concerns regarding the loss of Apple modem business. Company-specific risks include Baird reducing its price target after stripping a ByteDance custom AI ASIC design pipeline due to U. S. export controls, structural headwinds from Apple's modem transition, and escalating DRAM and NAND memory procurement costs squeezing smartphone OEM margins.",
+      "summary_zh": "高通公司股价于11月19日上涨3.81%，跑赢上涨0.62%的技术设备板块。 成交额靠前的股票包括下跌6.28%的AMD、上涨1.51%的NVIDIA以及上涨3.48%的美光科技。 上行势头受投资者对投资者日演讲及战略多元化路线图的热情驱动，该路线图旨在从传统的智能手机调制解调器过渡到汽车技术、物联网设备和下一代个人电脑硅片。 在生成式AI采用的支撑下，管理层扩大了可寻址市场机会，并详细公布了非手机业务单元的多年期收入目标。 多元化目标缓解了对苹果调制解调器业务流失的客户集中度担忧，进一步提振了市场情绪。 公司特定风险包括：Baird因美国出口管制剥夺了与字节跳动定制AI ASIC设计管道后下调目标价；来自苹果调制解调器过渡的结构性逆风；以及不断升级的DRAM和NAND内存采购成本挤压了智能手机OEM的利润率。"
     },
     {
       "date": "2026.11.20",
@@ -111,8 +111,8 @@
       "url": "https://finance.biggo.jp/news/4182fe6b-27fc-4a8d-8259-9bd01428828d",
       "language": "Japanese",
       "section": "日本株式市場 / Japan Market",
-      "summary": "19日の東京株式市場で日経平均株価は前日比419円93銭高の5万9444円21銭となり、2日連続で上昇した。 始値は5万9025円19銭。 相場を押し上げたのはAIや半導体関連株への買いで、米アンソロピックの新規株式公開を控え、公開価格が仮条件を上回る見通しと伝わったことが投資家心理を支えた。 一方、前日の米ダウ平均株価が約5カ月ぶりの安値で終えたことが重荷となり、一時下落に転じる場面もあった。 東証株価指数は3822.47と小幅に反落した。",
-      "summary_zh": "19日的东京股市中，日经平均指数收盘比前一日上涨419.93日元，报59444.21日元，连续两日上涨。 开盘价为59025.19日元。 推高行情的是对AI及半导体相关股票的买盘，由于美国Anthropic公司即将进行首次公开募股且公开价格有望超过初步询价区间，这支撑了投资者心理。 另一方面，前一日美国道琼斯工业平均指数创下约5个月来新低，对日股形成拖累，盘中曾一度下跌。 东证股价指数微幅回落至3822.47点。"
+      "summary": "In the Tokyo stock market on the 19th, the Nikkei Stock Average closed up 419.93 yen, or 0.71%, at 59,444.21 yen, marking a second consecutive day of gains. Trading started with a small continuation of gains, opening up 91 sen at 59,025.19 yen. The market was pushed up by buying in AI and semiconductor-related stocks that heavily influence the index, supported by news that US-based Anthropic's upcoming IPO was expected to price above its tentative range amid strong demand. Conversely, the previous day's drop in the US Dow Jones Industrial Average to a roughly 5-month low acted as a weight, causing the Nikkei to briefly turn downward and reflecting investors' wait-and-see attitude ahead of Anthropic's IPO. The TOPIX closed down 1.53 points, or 0.04%, at 3,822.47, experiencing a slight retreat.",
+      "summary_zh": "在19日的东京股市中，日经平均股价（225种）收盘比前一日上涨419.93日元（0.71%），报59,444.21日元，连续两日上涨。 交易开始时小幅续涨，开盘比前一日微涨91钱，报59,025.19日元。 受旺盛需求背景下美国Anthropic公司即将进行的IPO公开价格有望超过仮条件的消息支持，对日经平均指数影响较大的AI和半导体相关股票的买盘推高了行情。 相反，前一日美国道琼斯工业平均指数创下约5个月来新低，对市场造成拖累，导致日经指数一度转跌，反映出投资者在Anthropic进行IPO前持观望态度。 东证股价指数（TOPIX）收盘比前一日下跌1.53点（0.04%），报3,822.47点，小幅反弹回落。"
     },
     {
       "date": "2026.11.20",
@@ -122,19 +122,19 @@
       "url": "https://www.gaitame.com/media/entry/2026/11/20/005011",
       "language": "Japanese",
       "section": "日本株式市場 / Japan Market",
-      "summary": "日経平均株価は続伸し、後場の引けにかけて締まる動きとなった。 RSIは40.3％から63.5％に上昇。 5日移動平均線や10日移動平均線付近が上値で意識されたが、一目均衡表の転換線が上向きに転じたことが底堅さにつながった。 上値メドには心理的節目の60000円や61000円、11/13高値の61902円、25日移動平均線の61981円などが挙げられ、下値メドには11/18安値の58279円、11/6安値の56745円などが意識されている。",
-      "summary_zh": "日经平均股价继续上涨，盘中走势缺乏方向感但在尾盘收紧。 9日RSI从40.3%上升至63.5%。 5日移动平均线和10日移动平均线附近受到上方压力，但一目均衡表的转换线转向向上，这带来了坚挺的支撑。 上方目标位包括心理关口60000日元和61000日元、11/13高点61902日元、25日移动平均线61981日元等；下方目标位则关注11/18低点58279日元、11/6低点56745日元等。"
+      "summary": "The Nikkei Stock Average continued to rise, forming a consecutive positive candle following the previous day despite a directionless session during trading hours and a firming movement towards the close of the afternoon session. The 9-day RSI rose from 40.3% to 63.5% on November 19. While upside resistance was noted near the 5-day moving average of 59,626 yen and the 10-day moving average of 59,687 yen on November 19, the Ichimoku Kinko Hyo conversion line at 59,838 yen turned upward, providing underlying support. The 10-day moving average is likely to turn upward tomorrow, and the conversion line is expected to continue pointing upward. Attention focuses on how far the rebound can extend from the previous day's cross-shaped star candle. Upside targets include psychological milestones of 60,000 yen and 61,000 yen, the November 13 high of 61,902 yen, the 25-day moving average, and psychological milestones of 63,000 yen and 64,000 yen, up to the October 29 high of 64,831 yen. Downside targets range from the November 18 low to historical lows.",
+      "summary_zh": "日经平均股价继续上涨，尽管盘中走势缺乏方向感，但在后市收盘前表现坚挺，继前一日之后连续第二日形成阳线。 9日RSI从40.3%上升至63.5%（11月19日）。 虽然上方受到5日移动平均线（59,626日元，11月19日）和10日移动平均线（59,687日元，同日）附近的意识压制，但一目均衡表的转换线（59,838日元，同日）转向向上，这也带来了坚挺的支撑。 明日10日移动平均线极有可能转向向上，转换线也容易保持向上趋势。 市场关注点在于从前一日的“十字线”开始，短期的反弹能够延伸到什么程度。 上方目标包括心理关口60,000日元和61,000日元、11月13日高点（61,902日元）、25日移动平均线（同日61,981日元）、心理关口63,000日元和64,000日元以及10月29日高点（64,831日元）等。 下方目标包括11月18日低点（58,279日元）等技术支撑位。"
     },
     {
       "date": "2026.11.20",
       "published_at": "2026-11-20T00:00:00+09:00",
       "headline": "ゲーム大手企業の2027年3月期第2四半期決算 ソニーG、任天堂編（日経Gaming）",
       "source": "日経クロストレンド",
-      "url": "https://xtrend.nikkei.com/atcl/contents/18/01182/00110/?i_cid=nbpnxr_new_top_all_08",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/01182/00110/",
       "language": "Japanese",
       "section": "日本株式市場 / Japan Market",
-      "summary": "ソニーグループの2027年3月期第2四半期決算は、売上高が6兆2672億1700万円、営業利益が1兆988億2800万円、税引前利益が1兆1006億4500万円、当期利益が7917億6400万円となり増収増益を達成した。 PlayStation 5のハードウエア販売減少があったものの、ネットワークサービスの増収やソフトウエア販売増加が寄与し、9月の月間アクティブユーザー数は過去最高の1億2700万アカウントを記録した。 これを受け、通期の連結業績予想を上方修正した。",
-      "summary_zh": "索尼集团2027财年第二季度财报显示，销售额为6兆2672亿1700万日元，营业利润为1兆988亿2800万日元，税前利润为1兆1006亿4500万日元，当期纯利润为7917亿6400万日元，实现增收增益。 尽管PlayStation 5硬件销量有所减少，但网络服务收入的增加以及游戏软件销量的增长起到了推动作用，9月份的月度活跃用户数创下历史新高，达到1.27亿个账户。 基于此，公司上调了全年的合并业绩预期。"
+      "summary": "大手ゲーム関連企業の2026年4～9月期決算が発表され、ソニーグループと任天堂の業績がまとまった。 ソニーグループは売上高6兆2672億1700万円、営業利益1兆988億2800万円などで増収増益となり、第2四半期として過去最高を更新。 PlayStation 5のハードウエア販売減少はあるもののソフト販売増加や為替が後押しし、9月にはPS全体の月間アクティブユーザー数が1億2700万アカウントを記録した。 『Marvel's Wolverine』が240万本を突破し、通期業績予想も上方修正された。 任天堂はNintendo Switch 2が発売された前年同期に比べハード販売台数が減少し減収となったが、ソフト販売の堅調により営業利益は増加した。",
+      "summary_zh": "大型游戏相关企业的2026年4月至9月期财报公布，索尼集团与任天堂的业绩随之发布。 索尼集团实现销售额6兆2672亿1700万円、营业利润1兆988亿2800万円等，呈营收双增态势，第二季度创下历史新高。 尽管PlayStation 5硬件销量有所减少，但在软件销量增加及汇率因素推动下，9月份PlayStation整体月活跃用户数达到1亿2700万个账号。 《Marvel's Wolverine》销量突破240万份，全年业绩预期也进行了上调。 任天堂与推出Nintendo Switch 2的去年同期相比硬件销量减少导致营收下降，但由于软件销售稳健，营业利润有所增长。"
     },
     {
       "date": "2026.11.19",
@@ -144,8 +144,8 @@
       "url": "https://media.monex.co.jp/articles/amp/30550",
       "language": "Japanese",
       "section": "日本株式市場 / Japan Market",
-      "summary": "ダブルシグナルEAR戦略は、2027年3月期第2四半期で会社計画を上方修正し、営業利益修正率を重視した銘柄に着目する手法である。 決算前後の株価がTOPIX対比で超過リターンを示し、前営業日・当日・翌営業日の3日間がいずれもプラスの時価総額1500億円以上の銘柄を選定する。 アドバンテストは第2四半期に会社計画を8460億円から9676億円へ上方修正し、発表前後でTOPIX超過の動きを見せた。 過去5年の検証では期末保有で一貫してプラスとなった。",
-      "summary_zh": "双信号EAR战略是一种关注在2027财年第二季度上调公司计划并重视营业利润修正率的股票筛选方法。 该策略选取时值总额在1500亿日元以上、决算前后股价相对于TOPIX呈现超额收益且前一个营业日、当日、后一个营业日连续三天为正的股票。 爱德万测试在第二季度将公司计划从8460亿日元上调至9676亿日元，在发布前后表现出超越TOPIX的走势。 过去5年的验证表明，持有至期末的表现持续为正。"
+      "summary": "第2四半期決算で会社計画を上方修正した時価総額1500億円以上の銘柄を対象とし、決算前後の株価がTOPIX対比で超過リターンを記録して3日間連続でプラスとなった銘柄を狙うダブルシグナルEAR戦略が紹介されている。 リンテックは半導体チップ裏面保護テープで世界シェア約90％を占め先端半導体工程で不可欠。 ユアテックはデータセンター増設に伴う電力インフラ需要が追い風。 アドバンテストは第2四半期に会社計画を8460億円から9676億円へ上方修正し前年同期比で倍程度の伸び見通しを示し、決算発表前後の株価もTOPIX超過となった。 過去5年間の検証では期末までの保有で一貫してパフォーマンスがプラスになった。",
+      "summary_zh": "介绍了双信号EAR战略，该策略以第二季度财报中上调公司计划且市值在1500亿日元以上的股票为对象，关注财报前后股价相比TOPIX呈现超额收益且连续三天为正的个股。 林贴克在半导体芯片背面保护胶带领域拥有约90%的世界市场份额，在尖端半导体工艺中不可或缺。 育诚受数据中心扩建带来的电力基础设施需求东风影响。 爱德万测试在第二季度将公司计划从8460亿日元上调至9676亿日元，预计业绩较去年同期翻倍左右，财报发布前后的股价也超越了TOPIX。 过去5年的验证表明，持有至期末的表现始终为正。"
     },
     {
       "date": "2026.11.19",
@@ -155,8 +155,8 @@
       "url": "https://finance.yahoo.co.jp/news/detail/f7925bd84efc9f1c1b3af2fe8b4d998b4c7303b3",
       "language": "Japanese",
       "section": "日本株式市場 / Japan Market",
-      "summary": "11月19日に調査機関が投資判断を最上位で継続し、目標株価を引き上げた銘柄が発表された。 ニッスイは野村が買いを継続し目標株価を1700円から1800円に引き上げた。 ＴＩＳＩは日興が強気を継続し5200円から5400円へ、ＯＢＣは岡三が強気を継続し9650円から12000円へ引き上げた。 日本郵政はＧＳが買いで2830円から2980円へ、セガサミーは岡三が強気で3400円から4400円へ、ソニーＧは日興が強気で4800円から5000円へ引き上げた。",
-      "summary_zh": "11月19日，多家研究机构公布了维持最高投资评级并调高目标股价的股票名单。 野村维持对日水（Nissui）的买入评级，并将目标股价从1700日元上调至1800日元。 日兴证券维持对TISI的强劲评级，目标价从5200日元上调至5400日元；冈三证券维持对OBC的强劲评级，目标价从9650日元上调至12000日元。 高盛将日本邮政的买入目标价从2830日元上调至2980日元；冈三将世嘉飒美（SEGA SAMMY）的目标价从3400日元上调至4400日元；日兴将索尼集团的目标价从4800日元上调至5000日元。"
+      "summary": "11月19日に調査機関が投資判断を最上位で継続し、目標株価を引き上げた主な銘柄と変更内容は以下の通り。 ニッスイは野村が買いを継続し目標株価を1700から1800へ引き上げ。 ＴＩＳＩは日興が強気を継続し5200から5400へ。 ＯＢＣは岡三が強気で9650から12000へ。 日本郵政はＧＳが買いで2830から2980へ。 セガサミーは岡三が強気で3400から4400へ。 ソニーＧは日興が強気で4800から5000へ。 ゼンショＨＤはモルガンが強気で14000から18000へ。 島津はＵＢＳが買いで5500から6050へ。 メニコンは東海東京が強気で2200から2550へ。 ＳＧＨＤはＪＰモルが強気で1900から1950へ。 ダイセキは野村が買いで5100から5300へ引き上げた。",
+      "summary_zh": "11月19日，调查机构维持最高投资评级并调高目标股价的主要股票及变动内容如下。 日水被野村维持买入评级，目标价从1700调高至1800。 TISI被日兴维持强劲评级，从5200调高至5400。 OBC被冈三维持强劲评级，从9650调高至12000。 日本邮政被高盛维持买入评级，从2830调高至2980。 世嘉飒美被冈三维持强劲评级，从3400调高至4400。 索尼集团被日兴维持强劲评级，从4800调高至5000。 泉膳控股被摩根维持强劲评级，从14000调高至18000。 岛津被瑞银维持买入评级，从5500调高至6050。 美尼康被东海东京维持强劲评级，从2200调高至2550。 SG控股被摩根大通维持强劲评级，从1900调高至1950。 大荣环境被野村维持买入评级，从5100调高至5300。"
     },
     {
       "date": "2026.11.19",
@@ -166,19 +166,19 @@
       "url": "https://www.nikkei.com/article/DGXZQOUB191ND0Z11C26A1000000/",
       "language": "Japanese",
       "section": "日本株式市場 / Japan Market",
-      "summary": "19日の東京株式市場で日経平均株価は続伸し、終値は前日比419円93銭高の5万9444円21銭となった。 上げ幅は600円を超える場面もあった。 日本時間19日夜に新規株式公開を控える米人工知能開発のアンソロピックに対する旺盛な需要が、東京市場の投資家心理を支えた。 アンソロピックが18日に発表した公開価格は1株83ドルと、仮条件の上限を上回った。",
-      "summary_zh": "19日的东京股市中，日经平均指数继续上涨，收盘价比前一日上涨419.93日元，报59444.21日元。 涨幅一度超过600日元。 美国人工智能开发企业Anthropic预定于日本时间19日晚间进行首次公开募股，市场对其产生旺盛需求，这支撑了东京市场的投资者心理。 Anthropic于18日公布的发行价为每股83美元，超过了初步询价的上限。"
+      "summary": "19日の東京株式市場で日経平均株価は続伸し、終値は前日比419円93銭（0.71%）高の5万9444円21銭となった。 上げ幅が600円を超える場面もあった。 日本時間19日夜に新規株式公開を控える米人工知能開発のアンソロピックに対する旺盛な需要が投資家心理を支えた。 アンソロピックが18日発表した公開価格は1株83ドルと、仮条件の上限を上回った。",
+      "summary_zh": "19日的东京股市中日经平均指数继续上涨，收盘较前一日上涨419円93銭（0.71%），报5万9444円21銭。 盘中涨幅曾一度超过600日元。 预定于日本时间19日晚间进行首次公开募股的美国人工智能开发商Anthropic受到强劲需求支撑，提振了投资者心理。 Anthropic于18日公布的发行价为每股83美元，超过了初步询价的上限。"
     },
     {
-      "date": "2026.11.19",
-      "published_at": "2026-11-19T15:40:00+09:00",
-      "headline": "【日本株】2027年3月期の第2四半期（4～9月）決算が一巡、好決算企業をチェック",
-      "source": "マネクリ",
-      "url": "https://media.monex.co.jp/articles/-/30547",
-      "language": "Japanese",
-      "section": "日本株式市場 / Japan Market",
-      "summary": "2027年3月期第2四半期決算が一巡し、プライム市場上場企業の純利益は前期比2割増と6年連続で過去最高益になる見込みである。 日経平均採用銘柄153社のうち、最終利益を上方修正したのは87社で57％、据え置きは57社で37％、下方修正は9社で6％となった。 ソニーグループやセカンドリテイリング、日本カーバイド工業、ラウンドワン、三菱重工業などの企業が各々の要因で業績を拡大し、上方修正や過去最高益を発表している。",
-      "summary_zh": "2027年3月期第二季度财报已公布完毕，东证主板上市企业的纯利润预计比前期增长2成，连续6年创下历史最高利润。 在日经平均指数采用股的153家公司中，上调最终利润的有87家，占比57%；维持不变的有57家，占比37%；下调的有9家，占比6%。 索尼集团、Second Retailing、日本碳化物工业、Round One、三菱重工业等企业因各自的原因扩大了业绩，并发布了上调预期或创历史新高利润的公告。"
+      "date": "2026.11.20",
+      "published_at": "2026-11-20T05:45:34+09:00",
+      "headline": "Stock Market Today, November 19, 2026: Dow Sinks 1,084 Points, Nasdaq Drops 2.2% After Anthropic Debut",
+      "source": "Eurasia Business News",
+      "url": "https://eurasiabusinessnews.com/2026/11/19/stock-market-today-november-19-2026-dow-sinks-1084-points-nasdaq-drops-2-2-after-anthropic-debut/",
+      "language": "English",
+      "section": "宏观经济与投资 / Macro & Investment",
+      "summary": "U. S. stocks sold off sharply Thursday, November 19, as enthusiasm surrounding Anthropic’s historic stock-market debut failed to support the broader market. The Nasdaq Composite dropped 2.2%, the S&P 500 shed 2%, and the Dow Jones Industrial Average lost 1,084 points. Anthropic opened on Nasdaq at $111.50 under the ticker ANT, approximately 34% above its $83 offering price, after pricing above its $70–$78 range. The transaction totaled approximately $81.34 billion for 980 million shares, making it the largest listing on record. Meanwhile, 10 of the S&P 500’s 11 sectors posted negative territory, and initial unemployment claims increased by 1,000 to 203,000 for the week ending November 14, exceeding the consensus estimate of 198,000.",
+      "summary_zh": "11月19日周四，美股大幅抛售，Anthropic历史性的股市首秀引发的热情未能支撑整体市场。 纳斯达克综合指数下跌2.2%，标普500指数下跌2%，道琼斯工业平均指数下跌1,084点。 Anthropic在纳斯达克以交易代码ANT开盘价111.50美元交易，较83美元的发行价高出约34%，此前其定价高于70美元至78美元的区间。 980万股的交易总额约为8134亿美元，成为有记录以来规模最大的上市。 与此同时，标普500指数的11个板块中有10个处于负值区域，截至11月14日当周的初请失业金人数增加1,000人至203,000人，超过了198,000人的普遍预期。"
     },
     {
       "date": "2026.11.20",
@@ -188,8 +188,8 @@
       "url": "https://finance.biggo.com/news/a76ebb96-decc-495e-83f7-cc39fe705e5b",
       "language": "English",
       "section": "宏观经济与投资 / Macro & Investment",
-      "summary": "19日の東京外国語市場でドル・円は堅調に推移し、夕方には159円78銭まで上昇した。 背景には日本銀行の植田和男総裁が追加利上げに前向きな姿勢を示したことや、米連邦準備制度理事会の引き締め継続への期待がある。 豪州の10月失業率は4.9％となり、市場予想や前月の4.7％を上回った。 市場では日米金利差の縮小ペースや輸入価格を通じた国内物価への影響が意識されている。",
-      "summary_zh": "19日的东京外汇市场上，美元兑日元走势坚挺，傍晚升至159.78日元。 其背景是日本银行行长植田和男表现出对进一步加息的积极态度，以及市场对美国联邦储备委员会继续收紧货币政策的预期。 澳大利亚10月失业率为4.9%，高于市场预期和前一个月的4.7%。 市场上正关注日美利息差缩小的步伐以及通过进口价格对日本国内物价产生的影响。"
+      "summary": "In the Tokyo foreign exchange market on the 19th, the dollar-yen rose to the upper 159 range, trading at 159.70-80 yen by 5 p. m. , driven by expectations of Federal Reserve monetary tightening and yen-selling pressure from Bank of Japan Governor Kazuo Ueda's rate-hike hints. Governor Ueda stated that underlying inflation aligns with the 2% target and hinted at raising policy rates while monitoring foreign exchange risks regarding weak yen prices. Meanwhile, Minneapolis Fed President Neel Kashkari noted that high inflation stems from supply shocks and emphasized keeping inflation expectations in check. In the Tokyo stock market, the Nikkei Stock Average closed up 419.93 yen at 59,444.21. Additionally, Australia's October unemployment rate came in at 4.9%, exceeding the expected 4.7% and the previous 4.7%.",
+      "summary_zh": "在19日的东京外汇市场上，受美联储将继续收紧货币政策的预期以及日本央行行长植田和男暗示加息带来的日元抛售压力推动，美元兑日元汇率走高至159上方，截至下午5点交投于159.70-80日元。 行长植田和男表示基础通胀与2%的目标大致相符，并暗示将继续提高政策利率，同时指出日元走弱带来的价格上涨风险。 另一方面，明尼阿波利斯联储主席 Neel Kashkari 分析认为高通胀源于一系列供应冲击，并表示必须坚决控制通胀预期。 在东京股市方面，日经平均指数反弹，较前一交易日上涨419.93日元，收于59,444.21点。 此外，澳大利亚10月失业率为4.9%，高于预期和前值的4.7%。"
     },
     {
       "date": "2026.11.20",
@@ -199,8 +199,8 @@
       "url": "https://dailybeirut.com/en/business/anthropic-ipo-lifts-tech-stocks-eases-ai-concerns/",
       "language": "English",
       "section": "宏观经济与投资 / Macro & Investment",
-      "summary": "Wall Street investors pushed technology stocks higher in anticipation of Anthropic share trading, as the company's upsized initial public offering and private placement reached $107.3 billion. On Thursday, November 19, 2026, the Nasdaq 100 index rose by 2%, the S&P 500 rose by 1.2%, and the Dow Jones Industrial Average rose by 0.5%. Meanwhile, the euro rose by 0.2% to $1.1000, Bitcoin rose by 2.5% to $63,802.02, and West Texas Intermediate crude oil rose by 1.5% to $84.48 per barrel.",
-      "summary_zh": "华尔街投资者在Anthropic股份交易开始前推高了科技股，该公司规模扩大的首次公开募股和私募发行额达到了$107.3 billion。 在2026年11月19日星期四，纳斯达克100指数上涨2%，标普500指数上涨1.2%，道琼斯工业平均指数上涨0.5%。 同时，欧元上涨0.2%至$1.1000，比特币上涨2.5%至$63,802.02，西德克萨斯中质原油上涨1.5%至每桶$84.48。"
+      "summary": "Wall Street investors pushed technology stocks higher in anticipation of Anthropic shares beginning to trade, as the company's upsized initial public offering and private placement reached $107.3 billion. According to Bloomberg, the offering helped dispel artificial intelligence sector concerns and established a benchmark. On Thursday, November 19, 2026, the Nasdaq 100 rose 2%, the S&P 500 gained 1.2% by 9:32 AM New York time, the Dow Jones Industrial Average rose 0.5%, the Stoxx Europe 600 fell 0.1%, and the MSCI World index rose 0.9%. The euro rose 0.2% to $1.1000, the British pound was stable at $1.3155, and the Japanese yen fell 0.3% to 159.86 yen per dollar. Bitcoin and Ether both rose 2.5% to reach $63,802.02 and $1,806.98 respectively. The 10-year US Treasury yield rose two basis points to 5.09%, the German Bund yield rose 4 basis points to 3.41%, and the UK Gilt yield rose 4 basis points to 5.33%. West Texas Intermediate crude oil rose 1.5% to $84.48 per barrel, while spot gold fell 0.3% to $3,713.21 per ounce.",
+      "summary_zh": "华尔街投资者在 Anthropic 股份开始交易前推动科技股走高，该公司规模扩大的首次公开募股和私募配售总额达到 $107.3 billion。 据彭博社报道，此次发行有助于打消对人工智能行业持续性的担忧，并巩固了其行业表现基准的地位。 在2026年11月19日星期四的主要市场变动中，纳斯达克 100 指数上涨 2%，纽约时间上午9点32分标普 500 指数上涨 1.2%，道琼斯工业平均指数上涨 0.5%，斯托克欧洲 600 指数下跌 0.1%，MSCI 全球指数上涨 0.9%。 欧元上涨 0.2%至 $1.1000，英镑稳定在 $1.3155，日元兑美元下跌 0.3%至 159.86 日元。 比特币和以太坊均上涨 2.5%，分别达到 $63,802.02 和 $1,806.98。 美国10年期国债收益率上升两个基点至 5.09%，德国10年期国债收益率上升 4 个基点至 3.41%，英国10年期国债收益率上升 4 个基点至 5.33%。 西德克萨斯中质原油上涨 1.5%至每桶 $84.48，现货黄金下跌 0.3%至每盎司 $3,713.21。"
     },
     {
       "date": "2026.11.19",
@@ -210,8 +210,8 @@
       "url": "https://fortune.com/article/current-price-of-gold-11-19-2026/",
       "language": "English",
       "section": "宏观经济与投资 / Macro & Investment",
-      "summary": "As of 9:10 a. m. Eastern Time on November 19, 2026, gold was priced at $3,713 per ounce, representing a $73 fall from the previous day and an increase of $418 compared to one year ago. Financial advisor James Taska noted the ongoing debate regarding whether paper gold is as useful as physical gold, stating that exchange-traded funds make client allocation rebalancing easier. Between 1971 and 2024, stocks averaged an annual return of 10.7% while gold averaged 7.9% annually.",
-      "summary_zh": "截至2026年11月19日东部时间上午9:10，黄金价格为每盎司$3,713，较前一天同一时间下跌$73，较一年前上涨$418。 财务顾问詹姆斯·塔斯卡指出了关于纸黄金是否与实物黄金一样实用的争论，并表示交易所交易基金使客户资产配置的再平衡变得更加容易。 在1971年至2024年期间，股票的平均年回报率为10.7%，而黄金的平均年回报率为7.9%。"
+      "summary": "As of 9:10 a. m. Eastern Time on November 19, 2026, gold was priced at $3,713 per ounce, representing a $73 fall from the previous day at the same hour and a $418 increase compared to one year ago. Historical data indicates that between 1971 and 2024, stocks averaged an annual return of 10.7%, while gold averaged 7.9% annually. Gold is frequently utilized as a low-risk asset and store of value during economic uncertainty and market volatility. The spot price refers to the current price for immediate purchase or sale in the over-the-counter market, reflecting real-time demand, while the price spread represents the difference between the buying ask price and selling bid price. Investment vehicles for gold include physical bars and coins, jewelry, futures contracts, and exchange-traded funds (ETFs). Fee-based financial advisor James Taska noted that exchange-traded funds make client allocation rebalancing much easier compared to physical gold.",
+      "summary_zh": "截至2026年11月19日美东时间上午9点10分，黄金价格为每盎司 $3,713，较前一天同一时间下跌 $73，较一年前上涨 $418。 历史数据显示，在1971年至2024年期间，股票的平均年回报率为 10.7%，而黄金的平均年回报率为 7.9%。 在经济不确定性和市场波动期间，黄金常被用作低风险资产和价值储存手段。 现货价格是指场外市场即时买卖的当前价格，反映了实时需求，而价差则代表买入价与卖出价之间的差距。 黄金投资渠道包括实物金条和金币、珠宝、期货合约以及交易所交易基金（ETF）。 收费制财务顾问 James Taska 指出，与实物黄金相比，通过交易所交易基金能够更轻松地重新平衡客户的资产配置。"
     },
     {
       "date": "2026.11.19",
@@ -221,8 +221,8 @@
       "url": "https://www.cnbc.com/2026/11/19/gold-prices-fall-fed-rates-dollar.html",
       "language": "English",
       "section": "宏观经济与投资 / Macro & Investment",
-      "summary": "Gold prices hit a historic high of $5,589.38 an ounce on Jan. 28, 2025, before falling below $3,800 by Wednesday, roughly a third below its peak. Standard Chartered global head of commodities research Suki Cooper explained that gold initially climbed due to strong physical demand starting in 2022 and rising long-term investor exposure, with global ETF holdings doubling to $559 billion and net inflows reaching $89 billion in 2025. A weaker dollar, lower bond yields, and debt worries also supported the highs. However, after January 2026, market unease, the Middle East conflict, and a shift toward higher interest rates turned gold into a liquidity provider as investors sold it to raise cash. Federal Reserve Board of Governors member Christopher Waller noted a 50-basis point rate hike may be necessary, and financial advisor Evan Mills pointed out that higher Treasury yields, a strengthening dollar, and competing returns from cash and money market funds paying 4% to 5% increased the opportunity cost of holding non-yielding gold.",
-      "summary_zh": "黄金价格在2025年1月28日创下每盎司$5,589.38的历史新高后，于周三跌破$3,800，较峰值下跌约三分之一。 渣打银行全球大宗商品研究主管苏基·库珀解释称，黄金早期上涨受益于2022年开始的强劲实物需求和长期投资者持仓增加，2025年全球ETF资产翻倍至$559 billion，净流入达到$89 billion。 美元走弱、债券收益率下降以及债务担忧也支撑了当年的高位。 然而，进入2026年1月后，市场不安情绪蔓延、中东冲突爆发以及美联储倾向于加息，导致黄金转变为流动性提供者，投资者纷纷抛售黄金以筹集现金。 美联储理事克里斯托弗·沃勒指出可能需要进行50个基点的加息，金融顾问埃文·米尔斯则指出，更高的国债收益率、走强的美元以及支付4%至5%收益的货币市场基金使持有无收益黄金的机会成本大幅上升。"
+      "summary": "Following a historic high of $5,589.38 an ounce on Jan. 28, 2025, gold prices fell below $3,800 on Wednesday for the first time since September 2025. Suki Cooper, global head of commodities research at Standard Chartered, explained that gold initially climbed due to strong physical demand starting in 2022 and rising ETF holdings, with global gold ETFs reaching $559 billion in assets and $89 billion in inflows in 2025. However, following the Middle East conflict, gold shifted from acting as a safe haven to serving as a liquidity provider as investors sold it to raise cash. Additionally, Federal Reserve officials, including Board of Governors member Christopher Waller who noted a 50-basis point rate hike may be necessary, contributed to higher Treasury yields and a strengthening dollar. Financial advisor Evan Mills of Scholar Financial Advising stated that higher opportunity costs, alongside attractive cash alternatives like money market funds paying 4% to 5%, led investors to find traditional asset classes and cash more appealing than non-yielding gold.",
+      "summary_zh": "在2025年1月28日创下每盎司 $5,589.38 的历史新高后，黄金价格于周三跌破 $3,800，为2025年9月以来首次。 渣打银行全球大宗商品研究主管 Suki Cooper 解释称，黄金最初的上涨归因于2022年开始的强劲实物需求以及 ETF 持仓量的上升，2025年全球黄金 ETF 资产增至 $559 billion，资金流入达 $89 billion。 然而，在中东冲突爆发后，黄金不再充当避险资产，而是变成流动性提供者，投资者将其抛售以筹集现金。 此外，包括美联储理事 Christopher Waller 在内的美联储官员指出可能有必要进行 50 个基点的加息，这推高了国债收益率并走强了美元。 Scholar Financial Advising 的财务顾问 Evan Mills 表示，更高的机会成本，加上支付 4% 至 5% 收益率的货币市场基金等具吸引力的现金替代品，使得投资者认为传统资产类别和现金比不产生收益的黄金更具吸引力。"
     },
     {
       "date": "2026.11.19",
@@ -232,8 +232,8 @@
       "url": "https://www.actionforex.com/action-insight/market-overview/661457-yen-and-dollar-retreat-as-anthropic-ipo-sparks-equity-rebound-usd-jpy-nears-160/",
       "language": "English",
       "section": "宏观经济与投资 / Macro & Investment",
-      "summary": "On Thursday, the Japanese Yen and US Dollar led losses among major currencies as improving equity sentiment reduced demand for defensive assets ahead of Anthropic's Nasdaq debut. The Dollar Index edged down 0.06% to 103.749 despite a modest rise in US Treasury yields, while USD/JPY rose 0.38% to around 159.95. Nasdaq-100 futures advanced 2.11% and the VIX fell nearly 9% to 22.37 after Anthropic priced its IPO at USD 83 per share, raising approximately USD 81.3B through the sale of around 980M shares and surpassing SpaceX's June IPO record. This movement reflects tentative relief rather than a change in monetary policy, with CME FedWatch at 90.7% for a 25bps December hike and 9.3% for 50bps following FOMC minutes and hawkish remarks from Governor Christopher Waller. Meanwhile, AI concerns persist, with an AI-focused ETF cited by CNBC down 11% this month amid heightened sensitivity to profitability and heavy financing requirements.",
-      "summary_zh": "周四，由于股市情绪改善削弱了对防御性资产的需求，日元和美元在主要货币中领跌。 尽管美国国债收益率小幅上升，但美元指数仍下跌0.06%至103.749，美元兑日元汇率上涨0.38%至159.95附近。 此前，Anthropic将其首次公开募股定价为每股USD 83，通过出售约9.8亿股股票筹集了约USD 81.3B，超越了SpaceX在6月的IPO纪录，受此影响，纳斯达克100指数期货上涨2.11%，恐慌指数VIX下跌近9%至22.37。 这一货币走势反映出市场情绪的暂时缓和，而非货币政策预期的改变，在FOMC会议纪要发布及官员克里斯托弗·沃勒发表鹰派言论后，CME美联储观察工具显示12月加息25个基点的概率为90.7%，加息50个基点的概率为9.3%。 与此同时，市场对人工智能的担忧仍在持续，CNBC提及的一只AI主题ETF本月已下跌11%。"
+      "summary": "On Thursday, the yen and dollar led major currency losses as an equity rebound ahead of Anthropic's Nasdaq debut reduced demand for defensive assets. The Dollar Index edged down 0.06% to 103.749 despite a modest rise in US Treasury yields, while USD/JPY rose 0.38% to around 159.95, nearing the 160 level. Anthropic priced its initial public offering at USD 83 per share, raising approximately USD 81.3B through the sale of around 980M shares, surpassing SpaceX’s June IPO record. Nasdaq-100 futures advanced 2.11% and the VIX fell nearly 9% to 22.37. The currency moves reflect tentative relief rather than monetary policy shifts, with CME FedWatch indicating a 90.7% probability for a 25bps December hike and 9.3% for 50bps following Wednesday's FOMC minutes. Meanwhile, the AI-focused ETF cited by CNBC lost 11% this month, and Wednesday's FOMC minutes highlighted rapidly growing AI-related debt and complex financing structures as potential financial instability sources.",
+      "summary_zh": "周四，由于 Anthropic 在纳斯达克上市前夕股市反弹降低了对防御性资产的需求，日元和美元领跌主要货币。 尽管美国国债收益率小幅上升，但美元指数微跌 0.06% 至 103.749，而美元兑日元上涨 0.38% 至 159.95 附近，逼近 160 关口。 Anthropic 将其首次公开募股定价为每股 USD 83，通过发售约 980M 股筹集了约 USD 81.3B，超过了 SpaceX 6月份创下的 IPO 纪录。 纳斯达克 100 期指上涨 2.11%，恐慌指数 VIX 下跌近 9% 至 22.37。 这些货币变动反映出暂时的纾缓而非货币政策的转变，周三的 FOMC 会议纪要公布后，CME 美联储观察工具显示12月加息 25 个基点的概率为 90.7%，加息 50 个基点的概率为 9.3%。 与此同时，CNBC 引用的聚焦人工智能的 ETF 本月下跌了 11%，周三的 FOMC 会议纪要强调，快速增长的人工智能相关债务和复杂的融资结构是潜在的金融不稳定来源。"
     },
     {
       "date": "2026.11.19",
@@ -243,8 +243,8 @@
       "url": "https://www.tmgm.com/en-eu/analysis/market-insight/morning-brief-2026-11-17",
       "language": "English",
       "section": "宏观经济与投资 / Macro & Investment",
-      "summary": "On Wednesday, Dow Jones futures gained 0.26% to around 50,950, S&P 500 futures rose 0.60% to near 7,400, and Nasdaq 100 futures advanced 1.06% to around 27,360. A stronger U. S. dollar and higher Treasury yields pushed gold to a one-year low before it found footing near $3,850. Federal Reserve Governor Christopher Waller told CNBC that inflation was heading in the wrong direction and argued a half-percentage-point rate increase was needed unless faster increases were signaled. Bank Indonesia unexpectedly raised interest rates by 25 basis points, boosting the rupiah, while the Bank of England warned of pipeline cost pressures. Bank of Japan Governor Kazuo Ueda stated policy rate increases would reflect economic and price trends to maintain the 2% inflation target. The U. S. Dollar Index neared levels last seen in April 2025 at 103.60, and USD/JPY moved to around 159.55. Nvidia reported third-quarter revenue of $115.8 billion, a 103% year-on-year increase, and record net income of $65.3 billion, driven by AI infrastructure demand, with Jensen Huang noting a return as CEO would be appropriate if the board deemed it so. Additionally, U. S. fighter jets struck an Iranian missile site on Qeshm Island in self-defense amid Gulf tensions, while WTI crude dropped to just under $83.50 before rebounding below $86.00.",
-      "summary_zh": "周三，道琼斯指数期货上涨0.26%至约50,950点，标普500指数期货上涨0.60%至近7,400点，纳斯达克100指数期货上涨1.06%至约27,360点。 美元走强和国债收益率上升曾将黄金推至一年低点，随后在3,850美元附近获得支撑。 美联储理事克里斯托弗·沃勒对CNBC表示通胀正朝着错误方向发展，并主张如果不发出加快加息步伐的信号，则需要加息半个百分点。 印尼央行意外加息25个基点提振了印尼盾，英国央行则警告存在潜在成本压力。 日本央行行长植田和男表示，政策利率的继续上调将反映经济和价格走势以维持2%的通胀目标。 美元指数接近2025年4月以来的最高水平103.60，美元兑日元升至159.55左右。 英伟达公布的第三季度营收达$115.8 billion，同比增长103%，净利润创下$65.3 billion的纪录，主要受人工智能基础设施需求的推动，黄仁勋表示若董事会认为合适他重回CEO岗位也是合适的。 此外，在海湾局势紧张背景下，美军战机自卫打击了格什姆岛的一个伊朗导弹发射场，同时WTI原油跌至接近$83.50后反弹至$86.00下方。"
+      "summary": "Wednesday's European session brought gains of 0.26% for Dow Jones futures, taking them to around 50,950. S&P 500 futures reached near 7,400, a rise of 0.60%, while a 1.06% advance lifted Nasdaq 100 futures to around 27,360. A stronger U. S. dollar and higher Treasury yields had driven gold to a one-year low in the previous session. The metal then found a footing near $3,850 in Wednesday's early Asian trading.",
+      "summary_zh": ""
     },
     {
       "date": "2026.11.19",
@@ -254,19 +254,8 @@
       "url": "https://www.tmgm.com/en-in/analysis/market-news/article/indian-rupee-recovery-supported-by-oil-and-inflows-ocbc-202611190657",
       "language": "English",
       "section": "宏观经济与投资 / Macro & Investment",
-      "summary": "Supported by cheaper oil, robust foreign portfolio inflows, and short-covering, the Indian Rupee extended its rebound to a seven-month high of 93.2550 against the US Dollar before paring gains amid renewed dollar strength, according to OCBC Bank strategists Sim Moh Siong and Christopher Wong. The INR has gained about 1.5% this month, with foreign equity inflows approaching USD 10bn in November. Offshore forwards trading stronger than onshore forwards indicated that short-covering contributed to the appreciation. While lower oil prices provide relief to India's import bill and USD demand, OCBC strategists warned that geopolitical tensions, high US Treasury yields, and a firmer USD could constrain further gains. USD/INR was last seen at 93.44 levels with mild bearish momentum fading.",
-      "summary_zh": "根据华侨银行策略师沈茂雄和Christopher Wong的分析，在油价下跌、强劲的外资组合流入以及空头回补的支撑下，印度卢比对美元汇率扩大反弹至93.2550的七个月高点，随后因美元再度走强而回吐部分涨幅。 卢比本月已上涨约1.5%，11月外国股票流入额接近USD 10bn。 离岸远期交易强于在岸远期交易表明空头回补推动了此次升值。 尽管较低的油价缓解了印度的进口账单和美元需求，但华侨银行策略师警告称，地缘政治紧张局势、高企的美国国债收益率以及更为坚挺的美元可能会限制其进一步涨幅。 美元兑印度卢比汇率最后徘徊在93.44水平附近，温和的看跌动能呈现消退迹象。"
-    },
-    {
-      "date": "2026.11.19",
-      "published_at": "2026-11-19T16:59:00+09:00",
-      "headline": "LIVE – Bitcoin Price, Gold and Oil Fall: Should the US Repeat Its $2.2T 2020 Rescue?",
-      "source": "TradingView",
-      "url": "https://www.tradingview.com/news/cryptonews:51771a22a094b:0-live-bitcoin-price-gold-and-oil-fall-should-the-us-repeat-its-2-2t-2020-rescue/",
-      "language": "English",
-      "section": "宏观经济与投资 / Macro & Investment",
-      "summary": "Following FOMC minutes indicating policymakers are still considering raising interest rates, Bitcoin fell around 3.2% over 24 hours, gold futures dropped over 3%, and WTI crude lost about 3%. Almost all Fed officials viewed further hikes as appropriate, with two floating the possibility of a larger increase if inflation remains hot, sending the dollar to a 19-month high while Wall Street closed mixed. October's FOMC minutes also highlighted concerns regarding hedge fund leverage and debt tied to artificial intelligence investments, warning that disappointment in AI spending returns could trigger forced selling. The situation contrasts sharply with March 2020, when the Fed aggressively cut rates to 0%–0.25%, launched unlimited asset purchases, and Washington enacted the $2.2 trillion CARES Act signed by President Donald Trump to rescue households and businesses during COVID-19 lockdowns.",
-      "summary_zh": "在美联储会议纪要显示决策者仍在讨论加息之后，比特币在24小时内下跌约3.2%，黄金期货下跌超过3%，WTI原油下跌约3%。 几乎所有美联储官员都认为进一步加息是合适的，其中两人甚至提出如果通胀持续高企可能实施更大加息幅度的可能性，这推动美元升至19个月高点，而华尔街股市则涨跌不一。 10月的FOMC会议纪要还强调了对对冲基金杠杆以及与人工智能投资相关的债务的担忧，警告称AI支出回报若令人失望可能引发被迫抛售。 这种情况与2020年3月形成了鲜明对比，当时美联储积极将利率下调至0%至0.25%的区间，推出无限量资产购买计划，华盛顿则通过了由时任总统唐纳德·特朗普签署的$2.2 trillion《CARES法案》，以在新冠疫情封锁期间拯救美国家庭和企业。"
+      "summary": "Supported by cheaper Oil, robust foreign portfolio inflows and short-covering, the Indian Rupee (INR) has extended its rebound to a seven-month high against the US Dollar (USD), according to OCBC Bank strategists Sim Moh Siong and Christopher Wong. While sustained foreign buying and softer Oil prices may help the INR remain relatively resilient, the strategists warn that high US Treasury yields and a stronger USD could limit further gains.",
+      "summary_zh": ""
     }
   ]
 }
