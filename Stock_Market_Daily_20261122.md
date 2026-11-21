@@ -1,0 +1,160 @@
+# 📈 Stock Market Daily | 2026.11.22（日曜日 / Sunday）
+
+> ⚠ 本日报优先收录最近24小时的市场新闻、个股异动与当时市场快照；数据仅供参考，不构成投资建议。
+
+---
+
+
+## 🇺🇸 美国股市 / US Market
+
+- **[2026.11.21] MarketBeat — Resona Asset Management Co. Ltd. Purchases 1,478 Shares of Tesla, Inc. $TSLA**
+  English：Resona Asset Management Co. Ltd. increased its holdings in Tesla, Inc. by 0.2% during the third quarter, purchasing an additional 1,478 shares to bring its total to 825,086 shares valued at $292,380,000. Other institutional investors, including State Street Corp and Amundi, also adjusted their stakes. Meanwhile, Tesla CFO Vaibhav Taneja sold 2,606 shares on Tuesday, September 8th, at an average price of $360.13 for a total of $938,498.78 to cover tax withholding obligations. On Wall Street, Royal Bank Of Canada downgraded Tesla to sector perform, Mizuho raised its target price to $460.00 with an outperform rating, Weiss Ratings reissued a hold rating, Cantor Fitzgerald maintained an overweight rating with a $485.00 target, and William Blair assumed coverage with an outperform rating. Additional market attention came from HSBC upgrading Tesla to hold with a $359 target, declining mainland China deliveries in October, and proxy adviser concerns over board-chair choices. Tesla opened at $346.04 on Friday.
+  中文：总结：Resona Asset Management Co. Ltd. 在第三季度将其在 Tesla, Inc. 的持股比例提高了 0.2%，增持了 1,478 股，使其持股总数达到 825,086 股，价值 $292,380,000。 包括 State Street Corp 和 Amundi 在内的其他机构投资者近期也调整了其持仓。 与此同时，Tesla 首席财务官 Vaibhav Taneja 于 9 月 8 日星期二以 $360.13 的平均价格售出了 2,606 股 Tesla 股票，交易总额为 $938,498.78，此举旨在履行与股权奖励归属相关的税收预扣义务。 在华尔街研究报告方面，Royal Bank Of Canada 将 Tesla 的评级从跑赢大盘下调至与行业持平，Mizuho 将其目标价从 $450.00 上调至 $460.00 并给予跑赢大盘评级，Weiss Ratings 重申持有评级，Cantor Fitzgerald 重申增持评级并设定 $485.00 的目标价，William Blair 则开始对其进行覆盖并给予跑赢大盘评级。 其他市场关注点包括 HSBC 将 Tesla 评级上调至持有并将目标价从 $157 提高到 $359、10 月中国内地交付量下降以及代理顾问对董事会主席人选的反对。 Tesla 股票周五开盘价为 $346.04。
+  📰 [MarketBeat](https://www.marketbeat.com/instant-alerts/filing-resona-asset-management-co-ltd-purchases-1478-shares-of-tesla-inc-tsla-2026-11-21/)
+
+- **[2026.11.21] TradingView — Stock Market Crash: Nasdaq, S&P 500 Suffer Worst Weekly Losses in Years**
+  English：The US stock market suffered severe weekly losses as investors sold off technology and artificial intelligence stocks. The Nasdaq Composite plunged approximately 10% to 22,617.73, marking its worst week since March 2020, while the S&P 500 fell 8.6% to 6,910.39, entering correction territory alongside the Dow Jones Industrial Average, which lost 949 points to close at 48,147.33. The sell-off was driven by rising valuations, uncertainty over returns on AI investments, and reaction to Anthropic’s public debut, compounded by concerns over interest rates and inflation. Semiconductor stocks led the downturn, with Nvidia falling roughly 23%, AMD losing about 20.5%, and the overall semiconductor sector dropping 17.1% for the week.
+  中文：总结：随着投资者大量抛售科技和人工智能股票，美国股市遭遇了严重的周度下跌。 纳斯达克综合指数暴跌约 10% 至 22,617.73，创下自 2020 年 3 月以来的最差单周表现；标普 500 指数下跌 8.6% 至 6,910.39，与道琼斯工业平均指数一同进入修正区间，道指下跌 949 点，收于 48,147.33。 此次抛售潮主要是由不断上升的估值、对人工智能投资回报的不确定性以及对 Anthropic 公开发行的反应所驱动，同时叠加了对利率和通胀的担忧。 半导体股票领跌大盘，其中 Nvidia 周跌幅约 23%，AMD 下跌约 20.5%，整个半导体板块本周下跌 17.1%。
+  📰 [TradingView](https://www.tradingview.com/news/coinpedia:2c8691690094b:0-stock-market-crash-nasdaq-s-p-500-suffer-worst-weekly-losses-in-years/)
+
+- **[2026.11.21] JournalArta — SanDisk and Micron shares fall as AI stocks sell off**
+  English：SanDisk and Micron shares fell in early trading amid an AI stock sell-off driven by investor questions over infrastructure spending. UBS estimated US technology investments in AI could reach $5 trillion by the end of 2028, requiring at least $1.5 trillion in revenue by 2030 for adequate returns, while citing risks such as competition, financing, and regulations. UBS also projected the Federal Reserve to raise interest rates by 25 basis points in December 2026 and March 2027, adding to market caution, alongside a Hunterbrook report questioning AMD's business ties to China. Micron shares dropped 32% over a month to $605.35, while Western Digital and Seagate fell 28% and 32% respectively. Micron executives noted they lack visibility on supply and demand balance, with fiscal 2027 shipments largely committed.
+  中文：总结：在投资者对人工智能基础设施开支产生质疑并引发 AI 股票抛售潮之际，SanDisk 和 Micron 股价在早盘交易中下跌。 UBS 估计，到 2028 年底，美国对人工智能基础设施的技术投资可能接近 $5 trillion，到 2030 年相关模型和应用营收需要至少达到 $1.5 trillion 才能获得足够回报，同时该行也指出了竞争、融资和监管等风险。 UBS 还预测美联储将在 2026 年 12 月和 2027 年 3 月分别加息 25 个基点，这加剧了市场的谨慎情绪，此外 Hunterbrook 的一份做空报告也引发了对 AMD 与中国业务联系的担忧。 Micro 股价在一个月内下跌了 32%，至 $605.35，Western Digital 和 Seagate 则分别下跌了 28% 和 32%。 Micron 管理层指出，他们无法看清供需平衡的时间点，其 2027 财年的出货量大部分已被预订。
+  📰 [JournalArta](https://journalarta.com/en/2026/11/21/sandisk-micron-chip-stocks-ai-selloff-ubs/)
+
+- **[2026.11.21] Beinsure — Nvidia (NVDA) shares fell sharply as SEC investigates potential accounting issues**
+  English：Nvidia shares dropped 23% over the week, erasing approximately $1 tn in market value, following reports that the US Securities and Exchange Commission is investigating the company's accounting practices. The inquiry added to ongoing pressures that included chip export scrutiny, the resignation of former CEO Jensen Huang, and questions regarding his relationship with Alice Huang, a former Megaspeed executive linked by US authorities to Chinese intelligence. The SEC investigation coincides with scrutiny over Nvidia's geographic revenue reporting, specifically its previous reliance on Singapore billing addresses before shifting to customer headquarters in 2025. Nvidia reported $19.7 bn in revenue from customers headquartered in China during fiscal 2026, though the SEC has not publicly linked the inquiry to specific Singapore or China sales.
+  中文：总结：在有报道称美国证券交易委员会正在调查该公司的会计惯例后，Nvidia 股价本周下跌了 23%，市值蒸发了约 $1 tn。 这一调查加剧了该公司面临的持续压力，其中包括芯片出口审查、前首席执行官 Jensen Huang 的辞职，以及对其与被美国当局指称同中国情报部门有关联的前 Megaspeed 高管 Alice Huang 之间关系的质疑。 SEC 的调查与对 Nvidia 地理营收报告的审查同时发生，特别是该公司在 2025 年改为按客户总部汇报之前，曾依赖新加坡账单地址的做法。 在 2026 财年，Nvidia 报告来自中国总部客户的营收为 $19.7 bn，不过 SEC 尚未公开将该调查与特定的新加坡或中国销售联系起来。
+  📰 [Beinsure](https://beinsure.com/news/nvidia-stock-plunges-as-sec-investigates-potential-accounting-issues/)
+
+- **[2026.11.21] TRT World — 'The bubble already deflated' — Has Wall Street fallen out of love with AI?**
+  English：Wall Street's enthusiasm for the artificial intelligence sector faced a sharp correction as investors reckoned with high spending and profitability concerns. The Nasdaq index fell 5.28 percent, erasing its year-to-date gains, while the combined market capitalization of the Magnificent Seven tech stocks dropped by over $4 trillion in a month and a half. Market analysts attributed the shift to multiple factors, including Democratic victories in US midterms reflecting voter resistance to data centers, the resignation of Nvidia CEO Jensen Huang amid personal controversy, and rising debt levels to fund AI infrastructure without matching profits. AI firm Anthropic raised $91 billion in its stock market debut on Thursday, though it acknowledged potential future borrowing needs, while the European Central Bank warned about opaque AI-related debt and mutual commitments.
+  中文：总结：随着投资者开始应对巨额开支和盈利担忧，华尔街对人工智能的热情遭遇了剧烈修正。 纳斯达克指数下跌 5.28%，抹去了其开年以来的所有涨幅，而“七巨头”科技公司的总市值在一个半月内缩水超过 $4 trillion。 市场分析师将这一转变归因于多种因素，包括美国中期选举中民主党获胜反映出选民对数据中心的抵制、Nvidia 首席执行官 Jensen Huang 因个人争议而辞职，以及为资助人工智能基础设施而不断上升但尚未带来相匹配利润的债务水平。 人工智能企业 Anthropic 周四在股市首次亮相时斩获了 $91 billion 的资金，尽管该公司承认未来可能存在借贷需求，而欧洲央行近期则在一份报告中警告了不透明的人工智能相关债务以及相互交织的所有权关系。
+  📰 [TRT World](https://www.trtworld.com/article/08911d6c3c41)
+
+- **[2026.11.21] Free Malaysia Today — Has AI’s honeymoon ended on Wall Street?**
+  English：The Nasdaq index dropped 5.28% on Friday, erasing its yearly gains, as a repricing hit artificial intelligence markets. The combined market capitalization of the Magnificent Seven tech stocks fell by over US$4 trillion in the past month-and-a-half. Factors including US midterm elections with local ballot box measures restricting data centres, and Nvidia chief Jensen Huang resigning over multiple extramarital affairs involving an alleged Chinese spy, contributed to market setbacks. Stephen Innes of SPI Asset Management noted that spending ballooned alongside debt while profits lagged, while Steve Sostick of Interactive Brokers questioned returns on investment. AI firm Anthropic debuted on the stock market at US$91 billion, though acknowledging future borrowing needs, and the European Central Bank warned about opaqueness in AI-related debt.
+  中文：总结：受人工智能市场重新定价影响，以科技股为主的纳斯达克指数周五下跌5.28%，抹去了年内所有涨幅。 “七巨头”科技股在过去一个半月内总市值缩水超过US$4 trillion。 美国中期选举中地方投票通过了限制数据中心的措施，加之英伟达长期掌舵人延斯·黄因多起婚外情及涉嫌中国间谍事件辞职，导致市场挫折叠加。 SPI Asset Management经理斯蒂芬·英尼斯指出，在支出膨胀的同时债务增加，但利润尚未跟上；Interactive Brokers金融分析师史蒂夫·索斯蒂克则对投资回报提出质疑。 人工智能巨头Anthropic首次公开募股筹集了US$91 billion，但承认未来可能需要借款，欧洲中央银行也对人工智能相关债务的不透明性发出了警告。
+  📰 [Free Malaysia Today](https://www.freemalaysiatoday.com/category/business/2026/11/21/has-ai-s-honeymoon-ended-on-wall-street)
+
+- **[2026.11.21] Business Insider — Wall Street forecasters are starting to worry that the AI trade is on its last legs**
+  English：Wall Street faced a major tech and AI sell-off, pushing the Nasdaq Composite into negative territory for the year and driving the S&P 500 and Dow into correction. The downturn was fueled by panic over slowing AI capital expenditures, restrictive midterms affecting data centers, and Nvidia's crisis which brought its stock down 47% since early October. Anthropic's mega-IPO failed to provide the expected market boost, with its mixed reception signaling struggles for the AI trade. Wells Fargo warned of a broader valuations reset driven by higher rates and tighter regulation. TS Lombard shifted its global equities stance to underweight and noted potential risks of a 40% crash in AI-linked stocks by early 2028 if revenue targets fail. Capital Economics predicted the S&P 500 would drop 9% through the end of next year, while Citi advised investors to remain on guard amid spillover risks from Nvidia.
+  中文：总结：华尔街科技股和人工智能股遭遇大规模抛售，导致纳斯达克综合指数今年以来首次跌入负值区间，标准普尔500指数和道琼斯指数则陷入修正。 此次低迷由对人工智能资本支出放缓的恐慌、影响数据中心的中期选举限制，以及使股价自10月初以来下跌47%的英伟达危机所驱动。 Anthropic的大规模IPO未能提供预期的市场提振，其褒贬不一的反响表明人工智能交易正陷入困境。 富国银行警告称，在利率上升和监管收紧的推动下，估值可能面临更广泛的重置。 TS Lombard将全球股票立场下调至“减持”，并指出如果营收目标未能实现，人工智能相关股票可能在2028年初暴跌40%。 凯投宏观预测标准普尔500指数将在明年年底前下跌9%，花旗银行则建议投资者在英伟达的外溢风险中保持警惕。
+  📰 [Business Insider](https://www.businessinsider.com/tech-sell-off-ai-bubble-ending-stock-market-outlook-2026-11)
+
+- **[2026.11.21] Beinsure — US Stock Market Today: Dow Jones, S&P 500, Nasdaq 100 sink on AI selloff after Anthropic IPO**
+  English：U. S. stocks fell sharply on Friday, pushing the S&P 500 into correction territory down approximately 2.3% to around 7,000 points. The Nasdaq 100 dropped nearly 4% to about 25,500, while the Dow Jones Industrial Average lost 0.8% to 48,750, heading for their worst weekly performance since April 2025. Semiconductor stocks led the decline as investors reassessed AI infrastructure spending and higher interest rates, with Nvidia falling roughly 7%, AMD declining approximately 11%, and Broadcom dropping over 11%. Anthropic shares also fell following their record $81.3 bn IPO. The CBOE Volatility Index surged above 32, reflecting growing concern over corporate valuations, potential export restrictions on advanced chips to China, and the leadership uncertainty introduced by Jensen Huang's departure from Nvidia.
+  中文：总结：美国股市周五大幅下跌，推动标普500指数进入修正区间，跌幅约2.3%，至7,000点附近。 纳斯达克100指数下跌近4%，至约25,500点，道琼斯工业平均指数下跌0.8%，至48,750附近，创下2025年4月以来最糟糕的周度表现。 随着投资者重新评估人工智能基础设施支出和更高的利率，半导体股票领跌，其中英伟达下跌约7%，AMD下跌约11%，博通下跌超过11%。 Anthropic在创纪录的$81.3 bn IPO之后股价也出现下跌。 芝加哥期权交易所波动率指数飙升至32以上，反映出市场对公司估值、对华先进芯片潜在出口限制以及英伟达黄仁勋离职带来的领导层不确定性的日益担忧。
+  📰 [Beinsure](https://beinsure.com/news/us-stock-market-today-dow-jones-sp-500-nasdaq-100-plunge-on-ai-selloff/)
+
+- **[2026.11.21] 行情快照 / Quote · S&P 500 — 标普500下跌3.70%**
+  Quote: S&P 500 stood at 6,910.39 as of 2026.11.21 06:35 JST, 3.70% lower than the previous close.
+  行情中文：截至 2026.11.21 06:35 JST，标普500较前收盘下跌3.70%。
+  📰 [Yahoo Finance](https://finance.yahoo.com/quote/%5EGSPC)
+
+- **[2026.11.21] 行情快照 / Quote · Nasdaq Composite — 纳斯达克综合指数下跌5.28%**
+  Quote: Nasdaq Composite stood at 22,617.73 as of 2026.11.21 07:15 JST, 5.28% lower than the previous close.
+  行情中文：截至 2026.11.21 07:15 JST，纳斯达克综合指数较前收盘下跌5.28%。
+  📰 [Yahoo Finance](https://finance.yahoo.com/quote/%5EIXIC)
+
+## 🇯🇵 日本株式市場 / Japan Market
+
+- **[2026.11.22] ダイヤモンド・オンライン — 来週（11/24～27）の日経平均株価の予想レンジは、5万3000～6万円！ 11/6の安値も割り込んで自律反発に期待も、明確な“底入れ”まで材料株の物色が中心**
+  日本語：Japan's Nikkei average fell 7.7% for the week ending November 20, dropping 4705.70 yen to finish at 56,436.65 yen due to risk-off selling, weak 7-9 month GDP growth, and U. S. semiconductor export restrictions. Despite temporary boosts from Nvidia's earnings and Anthropic's market debut, U. S. AI infrastructure profitability concerns and higher U. S. interest rates dragged indices down, pushing the Tokyo market below its November 6 low. For the upcoming week, the Nikkei projects a range of 53,000 to 60,000 yen, with investors focusing on individual material-driven stocks until a clear bottom is confirmed. Notable stock movements included Axell Mark rising after its parent company Konvano subscribed to stock acquisition rights to fund card inventories, while Plaid declined following a customer data security breach.
+  中文：总结：受避险抛售、国内7至9月期GDP负增长以及美国半导体出口限制的拖累，截至11月20日的一周内，日经平均指数大幅下跌7.7%，下跌4705.70日元，最终收于56,436.65日元。 尽管受到英伟达财报和Anthropic上市预期的短暂提振，但美国人工智能基础设施盈利担忧和美国长期维持高利率拖累了主要股指，使东京市场跌破11月6日的低点。 展望下周，日经平均指数预计在53,000至60,000日元之间，在确认明确底部之前，投资者将以个股材料炒作为主。 个股方面，アクセルマーク因母公司认购新股预约权筹集资金用于卡片库存而上涨，而プレイド则因客户数据泄露事件而下跌。
+  📰 [ダイヤモンド・オンライン](https://diamond.jp/zai/articles/-/1075898)
+
+- **[2026.11.21] 財経新聞 — ソフトバンクG株が14.48%安、2024年8月以来の下げ幅―孫氏「アンソロピック見送りは失敗」**
+  日本語：ソフトバンクグループ株は20日の東京市場で前日比14.48%安の3025円となり、2024年8月以来の大きな下げ幅を記録した。 AI開発のアンソロピックが上場した後のAI関連株への売りがアジア市場に広がり、OpenAIへの巨額投資にふたたび注目が集まった。 同社のOpenAIへの累計投資額は646億ドル（約10兆3000億円）で持ち分は約13%に達している。 この株価急落は、創業者である孫正義会長兼社長がアンソロピックへの投資を見送ったことを「失敗の一例だ」と後悔を語ってからわずか2日後のことだった。 また、アンソロピックのIPOはハイテク株の下落基調を反転させず、初値から13%近く下落して初日の取引を終えた。 こうした動きに伴い、東京エレクトロンが7.06%安、レーザーテックが9.21%安、ルネサスエレクトロニクスが7.02%安となるなど日本の半導体関連株や韓国のSKハイニックスやサムスン電子にも売りが広がった。 さらにフィナンシャル・タイムズ紙は、OpenAIが最新の資金調達の目標額を300億ドル（約4兆8000億円）から200億ドル（約3兆2000億円）に引き下げ、想定企業価値も1兆2500億ドル（約200兆円）に下方修正したと報じている。
+  中文：总结：软银集团股价在20日的东京市场上较前一日下跌14.48%，报收于3025日元，创下2024年8月以来的最大跌幅。 随着AI开发公司Anthropic在美上市后，对AI相关股票的抛售潮蔓延至亚洲市场，市场再次聚焦于软银对OpenAI的巨额投资。 软银对OpenAI的累计投资额达到646亿美元（约10兆3000亿日元），持股比例约为13%。 此次股价暴急跌发生在软银创始人兼社长孙正义公开表示后悔未投资Anthropic且称其为“失败的一例”仅仅两天之后。 Anthropic的IPO未能扭转科技股的整体下跌趋势，其股价在开盘后下跌近13%收盘。 受此影响，日本半导体相关股票如东京电子下跌7.06%、Lasertec下跌9.21%、瑞萨电子下跌7.02%，韩国的SK海力士和三星电子也分别下跌5.92%和7.01%。 此外，《金融时报》报道称OpenAI已将最新一轮融资目标从300亿美元（约4兆8000亿日元）下调至200亿美元（约3兆2000亿日元），预期企业价值也从9月讨论的1兆4000亿美元（约224兆亿日元）下调至1兆2500亿美元（约200兆日元）。
+  📰 [財経新聞](https://www.zaikei.co.jp/article/20261121/878716.html)
+
+- **[2026.11.21] CRYPTO TIMES — ソフトバンクG・キオクシア先物が一時約20%安**
+  日本語：分散型取引所ハイパーリキッドにおいて、ソフトバンクグループとキオクシアホールディングスの株価に連動する無期限先物が一時約20%下落した。 20日の米国株急落やエヌビディアの14%下落など半導体株の総崩れを受け、東京市場が閉まった後に米国株安を先取りして売りが膨らんだ。 20日の東証終値はソフトバンクグループが前日比14.48%安の3025円、キオクシアが11.66%安の7307円だった。 ハイパーリキッドの先物は「HIP-3」という仕組みを利用して6月に追加されたもので、週末や祝日も24時間取引が可能であり、時間外の値動きには10から20%の制限が設けられている。 日本市場は23日が勤労感謝の日のため3連休となり、24日の東京市場で実際の株価がこの先物の下落水準にどこまで近づくかが焦点となっている。
+  中文：总结：在去中心化交易所Hyperliquid上，与软银集团和铠侠控股股价挂钩的无期限期货价格一度下跌约20%。 受20日美国股市急跌以及英伟达下跌14%等半导体股全面崩盘的影响，在东京市场收盘后，抛售压力扩大并提前消化了美股下跌的影响。 20日东京证券交易所的收盘价中，软银集团较前一日下跌14.48%至3025日元，铠侠下跌11.66%至7307日元。 Hyperliquid的期货是通过名为“HIP-3”的机制于6月添加的，支持周末和节假日24小时交易，场外价格变动设有10%至20%的限制。 由于日本市场23日因劳动感谢日迎来三天连假，24日东京市场的实际股价能在多大程度上接近这一期货下跌水平成为了焦点。
+  📰 [CRYPTO TIMES](https://crypto-times.jp/news-hyperliquid-softbank-kioxia-perps/)
+
+- **[2026.11.21] www.tv-tokyo.co.jp — 視る日経！ニュースNEXT▼１日の経済・投資・マーケット情報を深掘り、明日に生かす！**
+  日本語：BSテレ東の経済報道番組「視る日経！ ニュースNEXT」は、日本経済新聞、日経BP、英フィナンシャル・タイムズなどNIKKEIグループの総力を活かして1時間にわたり放送される。 メインキャスターの八木ひとみ、コメンテーターの大塚節雄（日本経済新聞編集委員）、キャスターのトラウデン直美および島田弘久（テレビ東京アナウンサー）が出演する。 番組では、ビジネスパーソンや投資家に必要な確かな情報を分析し、特集コーナーでの注目トピックの深掘り解説に加え、日経電子版の重要ニュースを振り返る「注目記事PickUp」やアクセスランキングなども届けている。
+  中文：总结：BS东京的经济新闻节目《视看日经！ 新闻NEXT》充分利用日本经济新闻、日经BP、英国《金融时报》等日经集团的综合实力进行为期1小时的播送。 主要主持人为八木ひとみ，评论员为大塚节雄（日本经济新闻编辑委员），主持人包括トラウデン直美和岛田弘久（东京电视台播音员）。 节目为商务人士和投资者分析必要的确切信息，除了在专题环节深入剖析受关注的话题之外，还提供回顾日经电子版重要新闻的“关注文章PickUp”以及访问量排行榜等内容。
+  📰 [www.tv-tokyo.co.jp](https://www.tv-tokyo.co.jp/broad_bstvtokyo/program/detail/202611/22663_202611272154.html)
+
+- **[2026.11.21] Yahoo!ファイナンス — レーティング週報【最上位を継続＋目標株価を増額】(1) (11月16日－20日)(株探ニュース)**
+  日本語：11月16日から20日の期間において、複数の調査機関が投資判断を最上位で継続しつつ目標株価を引き上げた銘柄がまとめられた。 主な対象銘柄として、ニッスイが野村により1700から1800へ、ジェイエイシがモルガンにより1300から1400へ、ALSOKがモルガンにより1600から1800へ引き上げられた。 また、マクドナルドはみずほにより9500から11000へ、キッコーマンは野村により2000から2100へ増額された。 さらに、三越伊勢丹、東レ、F&LC、TIS、ネクソン、アカツキ、野村総研、花王、武田、エーザイ、大塚HD、トレンド、OBC、サワイGHD、富士フイルム、ライオン、AREHD、リクルート、オークマ、日本郵政、ブラザー、セガサミー、ベイカレントなどの各銘柄についても、それぞれの調査機関によって格付の最上位継続と目標株価の引き上げが行われた。
+  中文：总结：在11月16日至20日期间，多家调查机构维持最高投资评级的同时上调了目标股价的股票得到了汇总。 主要上调对象包括：日水被野村从1700上调至1800，JAC被摩根从1300上调至1400，ALSOK被摩根从1600上调至1800。 此外，麦当劳被瑞穗从9500上调至11000，龟万甲被野村从2000上调至2100。 再者，三越伊势丹、东丽、F&LC、TIS、 Nexon、Akatsuki、野村综研、花王、武田、卫材、大塚控股、趋势科技、OBC、泽井集团控股、富士胶片、狮王、AREHD、瑞可利、大隈、日本邮政、兄弟工业、世嘉飒美、贝克街等各只股票也分别被相关调查机构维持最高评级并上调了目标股价。
+  📰 [Yahoo!ファイナンス](https://finance.yahoo.co.jp/news/detail/ab2543cc8008371596bbd03833415fa8dba26f26)
+
+- **[2026.11.21] Yahoo!ニュース — 【日本株】来期も好業績が期待できる｢受注残が増えた株｣2銘柄！ 金融機関のDX需要が追い風の｢野村総合研究所｣、今期の業績も上方修正した｢きんでん｣に注目！（ダイヤモンド・ザイ）**
+  日本語：受注残が増えていて来期以降も好業績が見込める日本株として「野村総合研究所」と「きんでん」の2銘柄が挙げられている。 米国の中間選挙以降、株式市場が不安定な値動きとなる中で、インフレコストの転嫁力を持つ企業や受注残が積み上がっている企業に注目が集まっている。 1つ目の野村総合研究所は、コンサルティングとIT事業を手掛け、9月末の受注残高が1年前比11%増の3411億円と過去最高を更新した。 特に高収益のクラウドやセキュリティなどのIT基盤サービスが34%増加し全体を牽引しており、中長期の増収増益が期待されている。 2つ目のきんでんは関西電力系の電気設備工事大手であり、2026年9月末の手持工事高が8304億円と1年前比25%増となり、弘電社を新たに連結に含めて通期予想を上方修正し、受注予想を7500億円に引き上げている。
+  中文：总结：作为订单余额增加且预计下一财年及以后将保持良好业绩的日本股票，“野村综合研究所”和“きんでん（Kinden）”两只股票受到了关注。 自美国中期选举以来，股市走势持续不稳定，市场正将目光投向具备转嫁通胀成本能力以及订单余额不断累积的企业。 第一家野村综合研究所从事咨询与IT业务，9月底的订单余额较前一年增加11%至3411亿日元，刷新历史最高纪录。 特别是高收益的云服务和安全等IT基础设施服务增长34%并引领整体业务，预计中长期将实现增收增益。 第二家きんでん是关西电力旗下的电气设备施工大企业，截至2026年9月底的在手施工金额达到8304亿日元，较前一年增加25%，并将弘电公司新纳入合并范围后向上修正了全年业绩预期，同时将订单预期上调至7500亿日元。
+  📰 [Yahoo!ニュース](https://news.yahoo.co.jp/articles/2d703f9c0cd0acc40f0c25afdabe5daca8f04f19)
+
+- **[2026.11.21] CRYPTO TIMES — 日経平均3000円超安、歴代5番目の下げ幅｜休場明け24日は？**
+  日本語：11月20日の東京株式市場で、日経平均株価は前日比3,007円56銭安の5万6,436円65銭で取引を終えた。 下げ幅は歴代5番目の大きさとなり、終値で5万7,000円を下回るのは4月13日以来約7カ月ぶり。 東証プライム市場では値下がり銘柄が1,400を超えて全体の9割超に達し、ソフトバンクグループやキオクシアホールディングス、アドバンテストなどが大きく下落した。 日経平均は1週間で7.7％下落し、東証プライムの売買代金は約8兆6,300億円に膨らんだ。 市場参加者は翌日からの3連休を前に持ち高を整理する売りが出やすかったとみている。 日本市場は23日が勤労感謝の日で休場となり、取引再開は24日となる。 その間、20日の米国市場ではナスダック総合指数が5.28％下落し、フィラデルフィア半導体株指数も10％超下落しており、週明けの東京市場は20日と23日の2日分の米国株の動きをまとめて織り込むことになるとみられる。
+  中文：总结：在11月20日的东京股市中，日经平均股价较前一日下跌3,007点56钱，报56,436点65钱收盘，跌幅为5.06%，创下历史第5大跌幅。 这是自4月13日以来约7个月来收盘价首次跌破57,000点。 东证Prime市场上下跌股票超过1,400只，占总数的9成以上，软银集团、铠侠控股、爱德万测试及东京电子等股票均大幅下挫。 日经平均股价在1周内下跌了7.7%，东证Prime的成交额膨胀至约8兆6,300亿日元。 由于日本市场23日因劳动感谢日休市，交易将于24日恢复。 在此期间，20日的美国市场纳斯达克综合指数下跌了5.28%，费城半导体指数也下跌了超过10%，周末过后东京市场将集中消化20日和23日两天的美股走势。
+  📰 [CRYPTO TIMES](https://crypto-times.jp/news-nikkei-3000-yen-plunge-1120/)
+
+- **[2026.11.21] 日本経済新聞 — 米国株急落で強まるリスク回避 日経平均「年内5万円接近」の声**
+  日本語：20日の米株式市場で主要3指数が大きく下落した。 19日に上場したアンソロピックの大幅安などを背景に、人工知能（AI）関連銘柄が軒並み売られた。 米市場でナスダック総合株価指数は前日比5%安となり、半導体株指数は米エヌビディアの急落が響いて1割下落した。 ダウ工業株30種平均とS&P500種株価指数も直近の高値から下げる展開となった。 こうしたリスク回避姿勢の広がりを背景に、連休明けの日本株も大きく変動する可能性がある状況となっている。
+  中文：总结：在20日的美国股市中，三大主要指数大幅下跌。 受19日上市的Anthropic大幅下跌等因素影响，人工智能相关股票遭到全面抛售。 在美国市场，纳斯达克综合股价指数较前一日下跌5%，半导体股指数受美国英伟达急挫影响下跌了1成。 道琼斯工业平均指数和标普500种指数也从近期高点回落。 在此类规避风险情绪蔓延的背景下，连假过后的日本股市也可能出现大幅波动。
+  📰 [日本経済新聞](https://www.nikkei.com/article/DGXZQOUB211CX0R21C26A1000000/)
+
+- **[2026.11.20] 行情快照 / Quote · Nikkei 225 — 日经225下跌5.06%**
+  行情日本語：日经225（Nikkei 225）は2026.11.20 15:45 JST時点で56,436.65となり、前日終値比で5.06%下落しています。
+  行情中文：截至 2026.11.20 15:45 JST，日经225较前收盘下跌5.06%。
+  📰 [Yahoo Finance](https://finance.yahoo.com/quote/%5EN225)
+
+- **[2026.11.20] 行情快照 / Quote · Tokyo Electron — 东京电子下跌7.06%**
+  行情日本語：东京电子（Tokyo Electron）は2026.11.20 15:30 JST時点で8,309.00となり、前日終値比で7.06%下落しています。
+  行情中文：截至 2026.11.20 15:30 JST，东京电子较前收盘下跌7.06%。
+  📰 [Yahoo Finance](https://finance.yahoo.com/quote/8035.T)
+
+## 🌍 宏观经济与投资 / Macro & Investment
+
+- **[2026.11.22] investingLive — How could Japan shake up the global markets?**
+  English：Minutes from the Bank of Japan’s October meeting point to another rate hike in December. The weak yen and rising energy costs driven by Middle East tensions pushed core inflation to 2.1% year over year in September, exceeding the BOJ’s 2% target, while the measure excluding food and energy climbed to 2.4%. Higher oil prices add to these inflationary pressures, making oil prices an important factor to watch. While tighter policy could help control inflation and ease pressure on the yen, it would make borrowing more expensive and raise debt-servicing costs given Japan’s government debt exceeds 200% of GDP. Currency intervention by selling US dollars and buying yen could also support the currency, though Japan’s reserves are not unlimited and selling US Treasuries could push up yields globally. If the Fed cuts rates, it could offer relief by making the yen carry trade less attractive, but strong inflation and labor markets make that unlikely for now. Conversely, if the Fed moves opposite to the BOJ and the carry trade unwinds, investors might be forced to sell foreign assets to repay loans, potentially triggering a market sell-off.
+  中文：总结：日本银行10月会议纪要显示12月可能再次加息。 日元贬值以及中东局势紧张推动的能源成本上升，使9月份的核心通胀率同比达到2.1%，超过了日银2%的目标，而剔除食品和能源的指标则攀升至2.4%。 油价上涨进一步加剧了这些通胀压力，使油价成为一个重要因素。 尽管收紧政策有助于控制通胀并缓解日元压力，但鉴于日本政府债务超过GDP的200%，这也会增加借贷成本并提高债务偿还成本。 通过抛售美元买入日元进行干预也可以支撑汇率，尽管日本的外汇储备并非无限，抛售美债可能会推高全球收益率。 如果美联储降息，可能会通过降低日元套利交易的吸引力来缓解压力，但强劲的通胀和劳动力市场使目前这种可能性不大。 相反，如果美联储采取与日银相反的行动并导致套利交易平仓，投资者可能会被迫出售外国资产来偿还贷款，从而可能引发市场抛售。
+  📰 [investingLive](https://investinglive.com/education/how-could-japan-shake-up-the-global-markets/)
+
+- **[2026.11.21] Vietnam.vn — USD exchange rate today, November 21st: The US dollar reverses course and cools down; what should domestic USD buyers pay attention to?**
+  English：On November 21, 2026, the US dollar experienced a slight decline as the DXY index fell to 103.84 points. In the global currency market, the US dollar dropped 0.5% against the Swiss franc and 0.6% against the Japanese yen to 158.78 yen/USD. In the domestic Vietnamese market, the central exchange rate at the State Bank of Vietnam reached 25,659 dong/USD, with buying and selling prices at the exchange desk at around 25,500 VND and 26,891 VND. Commercial banks such as Vietcombank, VietinBank, and BIDV reported increases in their USD buying and selling rates. Meanwhile, the black market USD exchange rate remained unchanged, with buying at 25,932 VND and selling at 26,052 VND.
+  中文：总结：2026年11月21日，美元指数下跌0.05%至103.84点，美元对瑞士法郎下跌0.5%，对日元下跌0.6%至158.78日元/USD。 在越南国内市场，越南国家银行公布的中心汇率达到25,659 dong/USD，央行兑换台的买入价和卖出价分别约为25,500 VND和26,891 VND。 越商行如Vietcombank、VietinBank和BIDV的美元买卖价均有所上涨。 同时，黑市美元汇率保持不变，买入价为25,932 VND，卖出价为26,052 VND。
+  📰 [Vietnam.vn](https://www.vietnam.vn/en/ty-gia-usd-hom-nay-21-11-dong-do-la-my-dao-chieu-ha-nhiet-nguoi-mua-usd-trong-nuoc-can-chu-y-gi)
+
+- **[2026.11.21] Investify — Bitcoin falls 5.10% to $55,830**
+  English：Bitcoin fell 5.10% to $55,830 at 11:13 p. m. ET on Friday, which corresponded to 0413 GMT on Saturday, according to Business Recorder. Earlier in the session, the cryptocurrency had dropped 3.57% to $56,813.68. The report noted that Bitcoin had previously fallen below $60,000 earlier on Friday, marking its first move beneath that threshold since July. The downward pressure on Bitcoin and other risk assets was linked to concerns over high valuations that weighed on the AI trade.
+  中文：总结：根据Business Recorder报道，比特币在周五晚上11点13分下跌5.10%至$55,830，对应周六0413 GMT的更新。 在交易早盘，该加密货币曾下跌3.57%至$56,813.68。 报道指出，比特币在周五早些时候曾跌破$60,000，为其自7月以来首次跌破该门槛。 比特币及其他风险资产面临的下行压力与对高估值的担忧有关，这拖累了人工智能相关交易。
+  📰 [Investify](https://www.investify.pk/news/100000162298/bitcoin-falls-5-10-to-55-830)
+
+- **[2026.11.21] www.tmgm.com — Japanese Yen gains modestly as CPI data bolsters expectations of a December BoJ rate hike**
+  English：The Japanese Yen posted modest gains against the US Dollar, with USD/JPY trading lower around 159.20 in Friday's early European session. Japan's National Consumer Price Index inflation rose from 2.1% YoY in September to 2.3% in October, while core CPI increased to 2.2% YoY, remaining above the Bank of Japan's 2% target for the second consecutive month. Brown Brothers Harriman strategists noted that the pair was testing key resistance at 160.00, supported by higher US yields, while highlighting intervention risks. Bank of Japan Governor Kazuo Ueda stated that underlying inflation is consistent with the price target and that the central bank intends to continue raising interest rates.
+  中文：总结：日元兑美元小幅上涨，周五欧洲早盘USD/JPY交易走低至159.20附近。 日本总务省数据显示，日本全国消费者物价指数通货膨胀率从9月的同比2.1%加速至10月的2.3%，核心CPI同比上涨2.2%，连续第二个月超出日本央行2%的目标。 布朗兄弟哈里曼策略师指出，受美国收益率走高支撑，该货币对正在测试160.00的关键阻力位，同时强调了干预风险。 日本央行行长植田和男表示，潜在通胀基本符合价格目标，央行拟继续加息。
+  📰 [www.tmgm.com](https://www.tmgm.com/en-in/analysis/market-news/article/japanese-yen-edges-higher-as-cpi-data-reinforces-december-boj-rate-hike-expectations-202611200630)
+
+- **[2026.11.21] www.tmgm.com — Australian Dollar stays under pressure amid divergent Fed and RBA outlooks**
+  English：The Australian Dollar remained under pressure, trading around 0.6631, which marks levels last recorded in December 2025. A global equity sell-off and a sharp decline in gold prices undermined market sentiment for the risk-sensitive currency, while lower US Treasury yields tempered the US Dollar's strength. Expectations of a hawkish Federal Reserve and growing expectations that the Reserve Bank of Australia is approaching the end of its tightening cycle added to the divergence. October employment figures showed Australia shed 43.5K jobs following a revised loss of 36.4K in September, while unemployment climbed from 4.7% to 4.9% to reach its highest level in five years.
+  中文：总结：澳元持续承压，交投于0.6631附近，创下2025年12月以来的最低水平。 全球股市遭到抛售以及金价的大幅下跌削弱了对该风险敏感货币的市场情绪，而美国国债收益率走低则缓和了美元的强势。 美联储可能采取鹰派立场的预期以及澳大利亚储备银行接近结束紧缩周期的预期加剧了这种分化。 10月就业数据显示，继9月经修正后减少36.4K个工作岗位之后，澳大利亚10月减少了43.5K个工作岗位，失业率从4.7%攀升至4.9%，达到五年来的最高水平。
+  📰 [www.tmgm.com](https://www.tmgm.com/en-eu/analysis/market-news/article/australian-dollar-remains-under-pressure-as-fed-and-rba-outlooks-diverge-202611201833)
+
+- **[2026.11.21] BigGo Finance — Dollar-Yen Gears Up for Battle Over Whether 160 Level Holds; AI Stock Selloff-Driven Yen Buying and US Rate-Hike Bets in Tug of War**
+  English：In the Tokyo foreign exchange market for the week of November 23-27, the dollar-yen is expected to see a tug of war between upward pressure aiming at the 160 level and yen buying driven by stock market instability. During the week, the dollar-yen stayed in a narrow band of 158.86-159.97 yen, failing to reach 160. The FOMC meeting minutes released on the 18th indicated that nearly all participants judged additional rate hikes appropriate. Meanwhile, Japan's October nationwide core CPI rose 2.2% year-on-year, and upcoming releases include the US PCE price index and preliminary November US PMI, alongside remarks from Bank of Japan board member Naoki Tamura.
+  中文：总结：在11月23日至27日当周的东京外汇市场上，美元兑日元预计将在指向160水平的上行压力与股市不稳定引发的买入日元之间展开拉锯战。 本周内，美元兑日元维持在158.86至159.97日元的狭窄区间内，未能触及160关口。 18日发布的FOMC会议纪要显示，几乎所有与会者都认为进一步加息是合适的。 同时，日本10月全国核心CPI同比上涨2.2%，接下来的经济数据包括美国PCE物价指数、11月美国PMI初值，以及日本央行董事会成员田村直树的讲话。
+  📰 [BigGo Finance](https://finance.biggo.com/news/32ade03e-93b5-45d8-91fd-12c6a3dcadc5)
+
+- **[2026.11.21] Fortune — Current price of Bitcoin for November 20, 2026**
+  English：At 7:15 a. m. Eastern Time, a single Bitcoin trades at $61,321.59, marking a $2,426.40 drop from the previous morning and about $25,250 lower than a year ago. Bitcoin has a market capitalization of roughly $1.33 trillion, leading second-place Ethereum at about $233 billion. Functioning as a decentralized digital currency on a peer-to-peer network, Bitcoin operates without a central authority. Investors use it to hedge against U. S. dollar inflation and diversify investments. Since its introduction in 2009, Bitcoin has experienced extreme volatility, including a historical milestone where developer Laszlo Hanyecz spent 10,000 Bitcoins on pizza, an amount now valued at over 668 million dollars. Over the past decade, prices have climbed more than 15,000%, though the asset has suffered severe pullbacks, trading roughly 30% below its October all-time high at the close of 2025. Factors influencing its price include investor speculation, adoption by major companies like Tesla and Ferrari, economic conditions, and regulatory developments. Investors can buy Bitcoin through cryptocurrency exchanges, Bitcoin ETFs, crypto stocks, or Bitcoin IRAs.
+  中文：总结：东部时间上午7点15分，单枚比特币（BTC）的市场价格为$61,321.59，较前天早晨下跌了$2,426.40，比一年前大约低$25,250。 比特币的市值约为$1.33 trillion，远远领先于市值约$233 billion的排名第二的以太坊。 作为一种去中心化数字货币，比特币运行在计算机点对点网络上，无需银行或政府等中央权威机构。 许多投资者将比特币用作对抗美元通货膨胀的潜在对冲工具。 自2009年推出以来，比特币经历了极高的波动性，早期开发者拉斯洛·哈涅茨曾用10,000枚比特币购买披萨，如今这些代币价值超过668 million dollars。 在过去十年中，比特币价格上涨了15,000%以上，但在2025年底收盘时，其交易价格比当年10月创下的历史高点低了约30%。 影响比特币价格的因素包括投资者投机、特斯拉和Ferrari等大公司的采用、经济状况以及监管动态。 投资者可以通过加密货币交易所、比特币ETF、加密股票或比特币IRA来购买和投资比特币。
+  📰 [Fortune](https://fortune.com/article/price-of-bitcoin-11-20-2026/)
+
+- **[2026.11.21] 行情快照 / Quote · USD/JPY — 美元兑日元下跌0.68%**
+  Quote: USD/JPY stood at 158.51 as of 2026.11.21 06:59 JST, 0.68% lower than the previous close.
+  行情中文：截至 2026.11.21 06:59 JST，美元兑日元较前收盘下跌0.68%。
+  📰 [Yahoo Finance](https://finance.yahoo.com/quote/JPY%3DX)
+
+- **[2026.11.21] 行情快照 / Quote · US 10Y Yield — 美国10年期国债收益率下跌2.77%**
+  Quote: US 10Y Yield stood at 4.91 as of 2026.11.21 04:59 JST, 2.77% lower than the previous close.
+  行情中文：截至 2026.11.21 04:59 JST，美国10年期国债收益率较前收盘下跌2.77%。
+  📰 [Yahoo Finance](https://finance.yahoo.com/quote/%5ETNX)
+
+---
+※Stock Market Daily Digest | 2026.11.22
