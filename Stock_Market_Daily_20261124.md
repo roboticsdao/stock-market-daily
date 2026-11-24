@@ -28,18 +28,18 @@
   📰 [Yahoo Finance](https://finance.yahoo.com/markets/stocks/articles/us-futures-bounce-while-asia-234419517.html)
 
 - **[2026.11.24] Investor's Business Daily — Stock Market Today: Stock Market News And Analysis**
-  English：Dow Jones Industrial Average futures and other major stock indexes traded with little change ahead of Tuesday's open, following a Monday surge of more than 1,400 points. The market activity included a recovery in tech stocks and Nvidia driven by the return of Jensen Huang, alongside rallies in Elon Musk-led SpaceX and Tesla.
-  中文：总结：道琼斯工业平均指数期货及其他主要股票指数在周二开盘前变动不大，此前在周一曾大涨超过1,400点。 市场活动包括在詹森·黄回归推动下科技股和英伟达的反弹，以及埃隆·马斯克旗下的太空探索技术公司SpaceX和特斯拉的上涨。
+  English：Dow Jones Industrial Average futures traded little changed ahead of Tuesday's open, following a Monday surge of more than 1,400 points. The market updates noted tech stocks and Nvidia snapping back due to Jensen Huang's return, alongside rallies for Elon Musk-led SpaceX and Tesla.
+  中文：总结：道琼斯工业平均指数期货在周二开盘前变动不大，此前在周一暴涨逾1400点。 市场最新动态显示，由于詹森·黄的回归，科技股和英伟达出现反弹，同时埃隆·马斯克领导的太空探索技术公司和特斯拉也迎来上涨。
   📰 [Investor's Business Daily](https://www.investors.com/news/stock-market-today-stock-market-news/)
 
 - **[2026.11.24] TradingView — SOXX Heads For Biggest Single-Day Gain in Over 18 Months As Semiconductor, AI Stocks Rebound Sharply**
-  English：The iShares Semiconductor ETF (SOXX) surged over 14% on Monday, marking its largest single-day percentage gain since April 2025, after Nvidia reinstated Jensen Huang as CEO. The rebound followed a 10.6% drop on Friday amid concerns over AI infrastructure spending. Miller Tabak's Matt Maley cautioned that data center construction delays and pricing resistance remain, while Gabelli Funds' Hendi Susanto stated that Huang's return restores confidence in the AI ecosystem despite ongoing financing and geopolitical concerns.
-  中文：总结：iShares半导体ETF（SOXX）在周一飙升超过14%，创下自2025年4月以来的最大单日百分比涨幅，此前英伟达恢复詹森·黄担任首席执行官。 在此反弹之前，由于对人工智能基础设施开支的担忧，该指数在周五下跌了10.6%。 美林·塔巴克的马特·马利警告称，数据中心建设延迟和定价阻力依然存在；而加贝利基金的亨迪·苏桑托则表示，尽管存在持续的融资和地缘政治担忧，黄的回归恢复了人们对人工智能生态系统的信心。
+  English：The iShares Semiconductor ETF surged over 14% on Monday for its largest single-day percentage gain since April 2025, driven by Nvidia's decision to reinstate Jensen Huang as CEO. Nvidia shares jumped up to 35% after Huang's immediate reinstatement, lifting other AI and semiconductor stocks like Nebius Group, CoreWeave, Marvell Technology, Micron Technology, Lumentum, Astera Labs, SanDisk, and Arm Holdings. Miller Tabak's Matt Maley cautioned that data center construction delays and enterprise pricing resistance remain, while Gabelli Funds' Hendi Susanto stated that Huang's return restores confidence in the AI ecosystem despite ongoing financing, geopolitical, and sustainability concerns.
+  中文：总结：由于英伟达决定恢复詹森·黄的首席执行官职务，iShares半导体ETF在周一飙升超过14%，创下自2025年4月以来的最大单日百分比涨幅。 在黄被立即复职后，英伟达股价一度跳涨多达35%，带动了Nebius Group、CoreWeave、美光科技、迈威尔科技、Lumentum、Astera Labs、SanDisk和Arm控股等其他人工智能和半导体股票。 Miller Tabak的马特·马利警告称，数据中心建设延迟和企业定价阻力依然存在；与此同时，加贝利基金的亨迪·苏桑托表示，尽管存在持续的融资、地缘政治和可持续性担忧，黄的回归仍恢复了对人工智能生态系统的信心。
   📰 [TradingView](https://www.tradingview.com/news/stocktwits:da072f964094b:0-soxx-heads-for-biggest-single-day-gain-in-over-18-months-as-semiconductor-ai-stocks-rebound-sharply/)
 
 - **[2026.11.23] Limapagi — Micron Shares Fall 13.9 Percent Amid AI Stock Selloff**
-  English：Micron Technology shares fell 13.9% on Friday, November 20, 2026, closing at $594.51 amid a broader AI stock selloff, underperforming the S&P 500's 3.7% decline. Micron generated $54.2 billion in revenue during fiscal fourth-quarter 2026, a 379.3% increase year over year, and $133.2 billion in total fiscal 2026 revenue. Management previously noted that tight memory market conditions could continue through 2028, while new production facilities from Micron, Samsung, and SK Hynix are expected to increase manufacturing capacity substantially from late 2028.
-  中文：总结：美光科技股价在2026年11月20日周五下跌13.9%，收于$594.51，正值大盘人工智能股票抛售潮，表现逊于标普500指数3.7%的跌幅。 美光在2026财年第四季度实现营收$54.2 billion，较去年同期增长379.3%，2026财年总营收达到$133.2 billion。 管理层此前指出，紧张的存储芯片市场状况可能会持续到2028年，而美光、三星和SK海力士的新生产设施预计将从2028年后期开始大幅增加制造产能。
+  English：Micron Technology shares fell 13.9% on November 20, 2026, closing at $594.51 amid a broader AI stock selloff and semiconductor valuation concerns. The memory chip manufacturer generated $54.2 billion in revenue during fiscal fourth-quarter 2026, up 379.3% year over year, and $133.2 billion for the full fiscal 2026, representing a 256% annual increase. Micron supplies high-bandwidth memory, DRAM, and storage products for artificial intelligence workloads. While management noted tight memory conditions could continue through 2028, expanding manufacturing capacity by Samsung, SK Hynix, and Micron could eventually increase supply and impact prices.
+  中文：总结：在人工智能股票遭到更广泛抛售以及半导体估值担忧的背景下，美光科技股价于2026年11月20日下跌13.9%，收于594.51美元。 这家存储芯片制造商在2026财年第四季度实现营收$54.2 billion，较上年同期增长379.3%；2026财年全年营收为$133.2 billion，同比增长256%。 美光为人工智能工作负载供应高带宽内存、DRAM和存储产品。 尽管管理层曾表示紧缩的内存市场状况可能会持续到2028年，但三星、SK海力士和美光扩大制造产能最终可能会增加供应并影响价格。
   📰 [Limapagi](https://www.limapagi.id/en/micron-shares-ai-selloff-november-2026)
 
 - **[2026.11.24] 行情快照 / Quote · S&P 500 — 标普500上涨4.73%**
@@ -54,71 +54,101 @@
 
 ## 🇯🇵 日本株式市場 / Japan Market
 
+- **[2026.11.24] 日経CNBC online — ソフトバンクG 英アームがハースCEOと長期契約、ソフトバンクG副会長に**
+  日本語：SoftBank Group's UK-based Arm has signed a long-term contract with CEO Rene Haas, who also becomes Vice Chairman of SoftBank Group, as reported in a fast news update covering market movements alongside Japan Tobacco's 10% drop due to a dividend reduction shock and M3's 50 billion yen share buyback tender offer.
+  中文：总结：软银集团旗下的英国Arm已与首席执行官雷内·哈斯签署长期合同，哈斯同时出任软银集团副董事长。 相关市场快讯还涵盖了日本烟草因减配ショック（减息/减配震撼）下跌10%以及M3进行500亿日元股票回购TOB的动态。
+  📰 [日経CNBC online](https://online.nikkei-cnbc.co.jp/vod/69233)
+
+- **[2026.11.24] 日本経済新聞 — 日経平均株価、一時2000円高 米国株急伸で5万8000円台回復**
+  日本語：休場明け24日の東京株式市場で、日経平均株価は一時前週末比2000円高となり、5万8000円台まで上昇した。 前日23日の米国株式市場でナスダック総合株価指数が前週末比7%高と急反発したことが日本株にも波及した。 米エヌビディアが、最高経営責任者（CEO）を辞任していたジェンスン・ファン氏のCEO復帰を発表し、株価が30%超急伸したことを受け、東京市場でもアドバンテストや東京エレクトロン、ソフトバンクグループなどの関連銘柄が買われた。
+  中文：总结：假期结束后的24日东京股市中，日经平均指数盘中一度较前周末上涨2000日元，回升至58000日元区间。 前一日23日美国股市中纳斯达克综合指数较前周末大涨7%，该涨势波及并带动了日本股市。 美国英伟达宣布辞去首席执行官（CEO）职务的杰森·黄重新担任CEO，受此推动其股价暴涨超30%，东京市场上的爱德万测试、东京电子以及软银集团等相关股票也随之遭到买入。
+  📰 [日本経済新聞](https://www.nikkei.com/article/DGXZQOUB240EV0U6A121C2000000/)
+
+- **[2026.11.24] BigGo ファイナンス — 東京株、AI関連主導で急反発へ 日経平均5万8000円台維持が焦点**
+  日本語：24日の東京株式市場で日経平均株価は、前営業日20日の急落からの反動に加え、米エヌビディアのジェンスン・フアンCEO復帰を受けた23日の米国株大幅高の流れを引き継ぎ、急反発する公算が大きい。 市場関係者の予想レンジは5万6500円から5万9000円で、寄り付き後に5万8000円前後を維持できるかが焦点となる。 前週末はエヌビディアの経営体制を巡る不透明感からAI・半導体関連銘柄に売りが集中していたが、フアン氏の復帰発表で投資家心理が好転し、シカゴ日経平均先物12月限の円建て清算値は5万7960円と現物終値を1200円超上回った。 アドバンテストや東京エレクトロンなどの買い戻しが先行する見通しである一方、東洋証券の大塚竜太氏は買い一巡後の戻り売りに対する慎重な見方も示している。
+  中文：总结：24日的东京股市中，受前一个交易日20日急跌的反弹影响，加上美国英伟达的杰森·黄恢复担任CEO促使23日美股大幅走高，日经平均指数预计将大幅反弹。 市场相关人士的预测区间在56500日元至59000日元之间，开盘后能否维持在58000日元附近成为焦点。 前周末因英伟达经营体制的不确定性导致AI及半导体相关股票遭集中抛售，但黄的复职宣布令投资者心理好转，芝加哥日经平均指数12月期货日元结算价达到57960日元，较现货收盘价高出1200多日元。 爱德万测试和东京电子等股票预计将率先出现回购，而东洋证券的大塚竜太则对买盘告一段落后的回吐抛盘持谨慎态度。
+  📰 [BigGo ファイナンス](https://finance.biggo.jp/news/3f869496-f3c6-4ca8-ae11-6e9491634e35)
+
+- **[2026.11.24] 株探 — 寄前【成行注文】売り越しランキング ソニーＧ、日立、伊藤忠 [08:35]**
+  日本語：11月24日8時35分現在の東証上場銘柄を対象とした寄り付き前の成行注文に基づく売り越しランキングが発表された。 ソニーグループが売り越し金額123787万円で首位となり、日立が102686万円、伊藤忠が88606万円、INPEXが85542万円、三菱UFJが80068万円と続いた。 この段階の注文状況には見せ板が含まれている場合があり、855分以降はプロの投資家からの注文が本格化して状況が大きく変わる可能性がある。
+  中文：总结：公布了截至11月24日8点35分以东京证券交易所上市股票为对象的开盘前市价委托净卖出排名。 索尼集团以123787万日元的净卖出金额居首，日立为102686万日元，伊藤忠为88606万日元，INPEX为85542万日元，三菱UFJ为80068万日元。 此阶段的订单情况可能包含虚假挂单，8点55分以后专业投资者的订单将全面进入，情况可能会发生较大变化。
+  📰 [株探](https://s.kabutan.jp/news/n202611240196/)
+
 - **[2026.11.24] 日本経済新聞 — 日経平均株価、NVIDIA急伸が追い風（先読み株式相場）**
-  日本語：24日の東京株式市場で日経平均株価は反発が予想される。 前日休場だった米株式市場でエヌビディアがジェンスン・ファンCEOの復帰を発表し株価が急伸したことや、主要指数が大幅反発したことが東京市場でも投機筋の買いを誘う見通し。 前週末終値の5万6436円から1500円あまり高い5万8000円程度への上昇が考えられる一方、戻り待ちの売りも出やすい状況となっている。
-  中文：总结：24日的东京股市中，日经平均指数预计将反弹。 在休市一天的23日美国股市上，英伟达宣布詹森·黄复出担任首席执行官，股价急升，主要指数也全面大幅反弹，这预计将吸引东京市场的投机资金买入。 日经平均指数有望从前周末收盘价的5万6436日元上涨约1500日元，达到5万8000日元左右，但与此同时也容易出现等待反弹的抛盘。
+  日本語：24日の東京株式市場で日経平均株価は反発する見通しである。 日本が祝日だった23日の米国株式市場では、エヌビディアが不倫問題で最高経営責任者（CEO）を辞任したジェンスン・ファン氏のCEO復帰を発表し、株価が急伸した。 主要指数もそろって大幅反発し、東京市場でも投機筋の買いを誘う形となっている。 日経平均は前週末終値の5万6436円から1500円あまり高い5万8000円程度への上昇が想定されるものの、戻り待ちの売りも出やすい状況にある。
+  中文：总结：24日的东京股市中日经平均指数预计将反弹。 在作为日本节假日的23日美国股市中，英伟达宣布由因绯闻辞职的首席执行官（CEO）杰森·黄重新担任CEO，其股价大幅飙升。 主要指数也一同大幅反弹，预计将在东京市场吸引投机资金买入。 日经平均指数预计将从前周末收盘价56436日元上涨约1500日元至58000日元左右，但同时也容易出现等待反弹的高位卖盘。
   📰 [日本経済新聞](https://www.nikkei.com/article/DGXZQOFL2404R0U6A121C2000000/)
 
-- **[2026.11.24] ｄメニューニュース — 前日に動いた銘柄 part1ソフトバンクグループ、三井金属、イビデンなど**
-  日本語：前日の株式市場における主な銘柄の動きとして、NRIが発行済株式数の0.67％上限の自社株買いなどを発表し、日本管財HDが1.10％・40万株上限の自社株買いを発表した。 一方、プレイドやJTが26年12月期業績を下方修正し、山九が株式売出しを発表した。 イントランスはGPUサーバシステム一式を受注し、ソフトバンクグループや三井金属などはAI関連株安の影響を受けた。
-  中文：总结：在前一天的股市中，各主要个股表现各异，其中NRI宣布回购不超过已发行股份总数0.67%的股份，日本管财HD宣布回购上限为1.10%、40万股的股份。 另一方面，普莱德和JT下调了26年12月期的业绩预期，山九宣布进行股票发售。 Intrans接获了一整套GPU服务器系统的大单，而软银集团和三井金属等则受到了人工智能相关股票下跌的影响。
-  📰 [ｄメニューニュース](https://topics.smt.docomo.ne.jp/article/fisco/business/fisco-0009350020261124010)
-
 - **[2026.11.24] 日経クロストレンド — ゲーム大手企業の2026年4～9月期決算 セガサミー、バンナム、スクエニ編**
-  日本語：大手ゲーム関連企業の2026年4～9月期決算が発表された。 セガサミーホールディングスは既存タイトルのリピート販売やサブスク収入が想定を上回り、売上高2125億8400万円、営業利益142億7900万円などで増収増益となった。 バンダイナムコホールディングスはトイホビー事業やIP軸戦略が好調で上期として過去最高業績を達成。 スクウェア・エニックス・ホールディングスはデジタルエンタテインメント事業が好調で、通期連結業績の売上高を3100億円、営業利益を590億円などに上方修正した。
-  中文：总结：大型游戏相关企业的2026财年4至9月期财报相继公布。 世嘉飒美控股因现有作品的重复销售及订阅收入超出预期，实现营业收入2125亿8400万日元、营业利润142亿7900万日元等，实现营收双增。 万代南梦宫控股凭借玩具爱好业务及IP轴战略的良好表现，创下了上半年业绩的历史最高纪录。 史克威尔艾尼克斯控股因数字娱乐业务表现稳健，将全年合并业绩的营业收入上调至3100亿日元，营业利润上调至590亿日元等。
+  日本語：大手ゲーム関連企業の2026年4～9月期決算が発表され、セガサミーホールディングス、バンダイナムコホールディングス、スクウェア・エニックス・ホールディングスの内容が明らかになった。 スクウェア・エニックス・ホールディングスは通期の連結業績を上方修正し、売上高を3100億円、営業利益を590億円、経常利益を590億円、当期純利益を370億円とした。 セガサミーホールディングスの2027年3月期第2四半期決算は売上高2125億8400万円、営業利益142億7900万円、経常利益161億3200万円、当期利益109億3100万円の増収増益となり、既存タイトルのリピート販売や遊技機事業におけるスマスロの販売が計画を上回った。 バンダイナムコホールディングスは、トイホビー事業の好調やIP軸戦略による定番IPの伸長により上期として過去最高業績を達成した。
+  中文：总结：大型游戏相关企业2026财年4月至9月期财报已发布，世嘉飒美控股、万代南梦宫控股以及史克威尔艾尼克斯控股的业绩内容随之明朗。 史克威尔艾尼克斯控股向上修正了全年合并业绩，预计销售额为3100亿日元，营业利润为590亿日元，经常利润为590亿日元，净利润为370亿日元。 世嘉飒美控股的2027财年3月期第二财季财报显示，销售额为2125亿8400万日元，营业利润为142亿7900万日元，经常利润为161亿3200万日元，净利润为109亿3100万日元，实现了营业收入与利润的双增长，其中存量作品的重复销售及博彩机业务中的智能老虎机销售均超出了计划。 万代南梦宫控股则因玩具爱好业务表现良好以及通过IP轴战略推进经典IP的增长，在上半财年创下了历史最高业绩。
   📰 [日経クロストレンド](https://xtrend.nikkei.com/atcl/contents/18/01182/00114/)
 
-- **[2026.11.24] 行情快照 / Quote · Nikkei 225 — 日经225上涨3.88%**
-  行情日本語：日经225（Nikkei 225）は2026.11.24 09:39 JST時点で58,623.86となり、前日終値比で3.88%上昇しています。
-  行情中文：截至 2026.11.24 09:39 JST，日经225较前收盘上涨3.88%。
+- **[2026.11.23] note — 最高益予想なのに年初来安値圏。業績と株価がねじれた好財務株 厳選20銘柄【2026年末の逆張り候補】**
+  日本語：11月20日の東京市場で日経平均株価は前日比3,007円安の5万6,436円と急落し、米国の半導体株安やAI関連投資の減速懸念から売りが広がった。 東証プライム企業の2027年3月期上期は過去最高レベルの増益となったが、株価が年初来安値圏にある銘柄が多く、「ねじれ」が生じている。 きんでんや関電工など、過去最高益や増配を予想しながらも株価が安値圏にある電気工事会社が例として挙げられている。
+  中文：总结：11月20日东京股市中，日经平均指数暴跌3,007日元，收报56,436日元，受美国半导体股价下跌及AI相关投资减速担忧影响，抛售潮蔓延。 东证Prime企业2027年3月期上半年的最终利润大幅增长且处于历史最高水平，但许多股票价格仍接近年初至今的低点，形成了“扭曲”。 以きんでん（Kinden）与关电工等企业为例，这些电气施工公司尽管预计将实现历史最高利润并增加分红，但股价仍处于低位。
+  📰 [note](https://note.com/tatsuya_sabato/n/n8846834fbee4)
+
+- **[2026.11.24] Yahoo!ファイナンス — アドバンテスト－買い気配 フアン氏のCEO復帰でエヌビディア急騰 AI・半導体関連に買い戻し(トレーダーズ・ウェブ)**
+  日本語：アドバンテストが買い気配でスタートした。 前日の米国株市場でエヌビディアが30％を超える急騰を見せたことが好感された。 ジェンスン・フアン氏の最高経営責任者（CEO）復帰が材料視され、ハイテク株が軒並み上昇した流れを継いだ。 国内でも東京エレクトロンやディスコなどのAI・半導体関連銘柄に買い戻しが入っている。
+  中文：总结：爱德万测试以买方气配开盘。 受前一日美股市场英伟达股价暴涨超过30%所鼓舞，詹森·黄复归担任首席执行官（CEO）一事受到市场好评，带动科技股全面飙升。 日本国内的东京电子、迪斯科等AI及半导体相关股票也出现了回购盘。
+  📰 [Yahoo!ファイナンス](https://finance.yahoo.co.jp/news/detail/6b84efd7a1ee3b27aa14aab30e6ced5cfc0567e2)
+
+- **[2026.11.24] 行情快照 / Quote · Nikkei 225 — 日经225上涨4.69%**
+  行情日本語：日经225（Nikkei 225）は2026.11.24 10:16 JST時点で59,082.09となり、前日終値比で4.69%上昇しています。
+  行情中文：截至 2026.11.24 10:16 JST，日经225较前收盘上涨4.69%。
   📰 [Yahoo Finance](https://finance.yahoo.com/quote/%5EN225)
 
-- **[2026.11.24] 行情快照 / Quote · Tokyo Electron — 东京电子上涨10.46%**
-  行情日本語：东京电子（Tokyo Electron）は2026.11.24 09:39 JST時点で9,178.00となり、前日終値比で10.46%上昇しています。
-  行情中文：截至 2026.11.24 09:39 JST，东京电子较前收盘上涨10.46%。
+- **[2026.11.24] 行情快照 / Quote · Tokyo Electron — 东京电子上涨12.34%**
+  行情日本語：东京电子（Tokyo Electron）は2026.11.24 10:16 JST時点で9,334.00となり、前日終値比で12.34%上昇しています。
+  行情中文：截至 2026.11.24 10:16 JST，东京电子较前收盘上涨12.34%。
   📰 [Yahoo Finance](https://finance.yahoo.com/quote/8035.T)
 
 ## 🌍 宏观经济与投资 / Macro & Investment
 
 - **[2026.11.24] TradingView — Evening digest: Nvidia reinstates Huang as CEO, gold rebounds and oil falls**
-  English：Global financial markets recovered on Monday after Nvidia announced the immediate reinstatement of Jensen Huang as CEO, helping boost technology and AI assets. Nvidia shares rose 30% after dropping 14.01% to $125.53 on Friday. Huang returns 10 days after stepping down, with Harvey C. Jones remaining board chair and Colette Kress staying as CFO. Spot gold climbed 3.9% to $3,639 per ounce following last week's sharp decline, while Brent crude oil fell 4% to $88.87 a barrel as Libya's Sharara pipeline reopened. Bitcoin also rebounded after falling close to $55,000 over the weekend.
-  中文：总结：在英伟达宣布即刻恢复詹森·黄的首席执行官职务并提振科技及人工智能相关资产后，全球金融市场于周一实现广泛复苏。 英伟达股价在周五下跌14.01%至$125.53后上涨了30%。 黄在辞职10天后回归，哈维·C·琼斯继续担任董事会主席，科莱特·克雷斯留任首席财务官。 随着上周的大幅下跌后现货黄金上涨3.9%至每盎司$3639，而由于利比亚沙拉拉管道重新开放，布伦特原油期货下跌4%至每桶$88.87。 比特币在周末跌近$55,000后也出现了反弹。
+  English：Nvidia announced the immediate reinstatement of Jensen Huang as CEO, causing its shares to gain 30% and helping global financial markets recover on Monday. Spot gold climbed 3.9% to $3,639 per ounce following a sharp decline last week. Oil prices fell nearly 4%, with Brent crude dropping to $88.87 a barrel, as supply expectations rose and Libya's Sharara pipeline reopened. Bitcoin also rebounded after briefly falling close to $55,000 over the weekend.
+  中文：总结：英伟达宣布立即恢复詹森·黄（Jensen Huang）的首席执行官职务，使其股价上涨30%，并帮助全球金融市场在周一实现广泛复苏。 在经历上周的大幅下跌后，现货黄金上涨3.9%，至每盎司3,639美元。 由于供应预期上升以及利比亚沙拉拉（Sharara）管道重新开放，油价下跌近4%，其中布伦特原油期货跌至每桶88.87美元。 比特币在周末跌至接近55,000美元后也迎来了反弹。
   📰 [TradingView](https://www.tradingview.com/news/invezz:5b89fe205094b:0-evening-digest-nvidia-reinstates-huang-as-ceo-gold-rebounds-and-oil-falls/)
 
 - **[2026.11.24] www.tmgm.com — Gold reclaims $3,650 as Nvidia news sparks rally ahead of US PCE**
-  English：Gold prices bounced near yearly lows of $3,502 and traded above $3,650 on Monday, rallying over 3.40% as Nvidia reinstated Jensen Huang as CEO and markets awaited US inflation data. S&P Global reported that US manufacturing PMI dipped to 54.5 and services PMI dropped to 54.7. Economists expect the October Core PCE Price Index to rise from 3.1% to 3.2% year-over-year, while the headline print is forecast to rise from 3.6% to 3.8%. The CME FedWatch Tool priced in a 96% chance of a 25-basis-point rate hike in December.
-  中文：总结：随着英伟达恢复詹森·黄的首席执行官职务且市场等待美国通胀数据，黄金价格在周一从接近$3502的年度低点反弹并交投于$3650上方，涨幅超过3.40%。 标普全球报告称，美国制造业采购经理指数降至54.5，服务业采购经理指数降至54.7。 经济学家预计10月份核心PCE物价指数年率将从3.1%升至3.2%，整体数据预计将从3.6%升至3.8%。 CME美联储观察工具显示12月加息25个基点的几率为96%。
+  English：Gold prices bounced near yearly lows of $3,502 to trade above $3,650 after rising over 3.40% on Monday, driven by Nvidia's reinstatement of Jensen Huang as CEO and falling US Treasury yields. The US Dollar Index rose 0.62% to 104.48, while the 10-year Treasury yield dropped one basis point to 4.944%. Investors await the October Core PCE Price Index, with the CME FedWatch Tool pricing in a 96% chance of a 25-basis-point rate hike in December.
+  中文：总结：受英伟达恢复詹森·黄担任CEO以及美国国债收益率下降的推动，金价从接近3,502美元的年内低点反弹，周一涨幅超过3.40%，交投于3,650美元上方。 美元指数上涨0.62%至104.48，10年期美债收益率下降一个基点至4.944%。 投资者正等待10月份核心PCE物价指数的发布，CME美联储观察工具显示12月加息25个基点的概率为96%。
   📰 [www.tmgm.com](https://www.tmgm.com/en/analysis/market-news/article/gold-reclaims-3-650-as-nvidia-news-sparks-rally-ahead-of-us-pce-202611231916)
 
 - **[2026.11.24] TradingView — Dollar Gains as Stocks Recover and T-Note Yields Rise**
-  English：The dollar index rose +0.43% alongside an increase in the 10-year T-note yield to 4.956%, supported by dollar interest rate differentials and a sharp stock rebound that reduced safe-haven demand. The S&P preliminary November US services PMI fell to 54.7 and the manufacturing PMI dropped to 54.5, both staying above 50.0. Markets price in a 100% chance of a +25 bp rate hike at the December 8-9 FOMC meeting. EUR/USD rose +0.51%, while the yen was undercut by reduced repatriation demand and a 48% chance of a +25 bp BOJ rate hike on December 18. December COMEX gold climbed +162.2 (+4.61%) and silver gained +2.520 (+6.14%) due to the stock rally easing selling pressure. World Gold Council data showed Q3 global central bank purchases at 321,000 MT, and China's PBOC gold reserves rose by 830,000 ounces in October to 78.30 million troy ounces.
-  中文：总结：由于美元利率差改善以及股市强劲反弹降低了对国债的避险需求，美元指数DXY上涨了+0.43%，10年期美债收益率上升+1.2个基点至4.956%。 标普11月美国服务业PMI初值从-1.4点降至54.7，制造业PMI初值微跌-0.4点至54.5，均位于50.0扩张收缩线上方。 市场定价显示美联储在12月8-9日联邦公开市场委员会会议上加息+25个基点的概率为100%。 欧元兑美元上涨+0.51%，而日元则因美股复苏导致汇回需求减少而走软，市场预计12月18日日本央行加息+25个基点的概率为48%。 12月COMEX黄金上涨+162.2（+4.61%），白银上涨+2.520（+6.14%），贵金属价格大幅走高得益于股市反弹缓解了投资者的抛售压力。 世界黄金协会数据显示全球央行第三季度黄金购买量为321,000公吨，且中国央行10月黄金储备增加830,000盎司，总数达到78.30百万金衡盎司。
+  English：The dollar index DXY rose +0.43% and the 10-year T-note yield increased +1.2 bp to 4.956% as stocks rebounded, reducing safe-haven demand for Treasuries. S&P preliminary November US services PMI fell to 54.7, while the manufacturing PMI dropped to 54.5. Markets priced in a 100% chance of a +25 bp rate hike at the December 8-9 FOMC meeting. December COMEX gold rose +4.61% and silver increased +6.14% as the stock rally relieved selling pressure, while central bank demand also supported gold prices.
+  中文：总结：随着股市反弹并减弱了对美债的避险需求，美元指数（DXY）上涨+0.43%，10年期美债收益率上升+1.2个基点至4.956%。 标普美国11月服务业PMI初值降至54.7，制造业PMI降至54.5。 市场定价显示12月8-9日FOMC会议加息+25个基点的概率达到100%。 由于股市上涨缓解了抛售压力，加上央行需求的支撑，12月COMEX黄金上涨+4.61%，白银上涨+6.14%。
   📰 [TradingView](https://www.tradingview.com/news/barchart:331739194094b:0-dollar-gains-as-stocks-recover-and-t-note-yields-rise/)
 
 - **[2026.11.23] News On Japan — Japan Markets Face Crucial Week After Historic Stock Selloff**
-  English：Japan's financial markets face a critical week from November 24th to 27th following a historic stock decline. On November 20th, the Nikkei 225 plunged 3,007.81 points to close at 56,436.65, a 5.1% drop, driven by a global retreat from technology and AI stocks. SoftBank Group fell more than 14%. The Tokyo Stock Exchange was closed on Monday, November 23rd, for Labor Thanksgiving Day. The currency market remained under pressure as the yen traded near 159 to the dollar, close to the 160 level. Bank of Japan Governor Kazuo Ueda indicated on November 19th the intent to continue raising rates following increases in June and September to 1.25%, while a Reuters survey on November 20th showed economists expect a rate increase to 1.5% in December.
-  中文：总结：在经历了一次历史性的股市大跌后，日本金融市场在11月24日至27日面临关键一周。 11月20日，日经225指数暴跌3,007.81点，收盘报56,436.65点，跌幅约5.1%，主要由于全球资金撤出科技股和人工智能板块。 软银集团股价下跌超过14%。 东京证券交易所于11月23日周一因勤劳感谢日休市。 外汇市场上日元兑美元交投于159日元附近，逼近160的心理关口。 日本央行行长植田和男在11月19日表示有意继续加息，此前该行已在6月和9月将基准政策利率上调至1.25%，而11月20日发布的路透社经济学家调查显示，多数人预计12月利率将进一步上调至1.5%。
+  English：Japan's financial markets face a critical week from November 24th to 27th following historic stock declines driven by concerns over artificial intelligence valuations, a weakening yen, rising government borrowing costs, and potential Bank of Japan interest rate hikes. The Tokyo Stock Exchange was closed on Monday, November 23rd, for Labor Thanksgiving Day following a turbulent November 20th session where the Nikkei 225 plunged 3,007.81 points or 5.1% to close at 56,436.65, and TOPIX ended at 3,674.22. SoftBank Group fell over 14% amid doubts over AI infrastructure returns. The yen traded near 159 to the dollar, raising import cost pressures and intervention risks. Meanwhile, BOJ Governor Kazuo Ueda indicated on November 19th that rate increases will continue, with a Reuters survey showing economists expecting a rise to 1.5% in December.
+  中文：总结：日本金融市场在11月24日至27日面临关键的一周，此前由于人工智能估值担忧、日元走弱、政府借贷成本上升以及日本央行可能再次加息，该国股市经历了历史上最大幅度的下跌之一。 东京证券交易所于11月23日周一因劳动感恩节休市，此前在11月20日经历了动荡交易日，日经225指数暴跌3,007.81点，跌幅约5.1%，收于56,436.65点，更广泛的东证指数收于3,674.22点。 软银集团股价跌幅超过14%。 日元兑美元交投于159日元附近，引发干预担忧。 与此同时，日本央行行长植田和男在11月19日表示央行计划继续加息，路透社调查显示多数经济学家预计12月利率将上调至1.5%。
   📰 [News On Japan](https://newsonjapan.com/article/151493.php)
 
+- **[2026.11.23] VT Markets — USD/JPY slips after Japan inflation lifts yen as intervention fears cap gains near 160.00**
+  English：USD/JPY eased on Friday as the yen strengthened following Japan's National CPI rising 2.3% year on year in October, up from 2.1% in September, while CPI excluding fresh food increased to 2.2%. The pair retreated after probing near 160.00, a psychological cap where Japanese authorities previously spent 9.8 trillion yen in April and May 2024 and 5.5 trillion yen in July to defend the zone. Markets price a 77% chance of a 25-basis-point Bank of Japan hike in December. Technically, USD/JPY hovered around 158.86, near the 200-day SMA at 158.87 and 100-day SMA at 158.84. VT Markets suggested derivative strategies such as downside put spreads targeting 157.00 or short futures if support near 158.70 breaks, alongside long volatility straddles near 159.00 to capture potential intervention-driven spikes.
+  中文：总结：随着日本10月全国CPI同比上涨2.3%（高于9月的2.1%）带动日元走强，美元兑日元于周五回落。 此前该汇率曾一度逼近160.00这一心理关口，日本当局曾在2024年4月和5月花费约9.8 trillion、7月花费5.5 trillion在此区间进行干预。 市场目前定价日本央行在12月加息25个基点的概率为77%。 技术面上，美元兑日元交投于158.86附近，接近200日均线158.87和100日均线158.84。 VT Markets建议采用衍生品策略，例如目标指向157.00的看跌期权价差，或者在跌破158.70支撑位时建立空头期货，同时在159.00附近建立多头波动率跨式组合以捕捉干预引发的急剧波动。
+  📰 [VT Markets](https://www.vtmarkets.com/en-eu/live-updates/usd-jpy-slips-after-japan-inflation-lifts-yen-as-intervention-fears-cap-gains-near-160-00/)
+
 - **[2026.11.23] www.tmgm.com — Week Ahead: Inflation data and Fed expectations set to drive markets amid AI sell-off**
-  English：Markets experienced a severe decline last week, with the Nasdaq plunging 10%, major U. S. indices entering correction territory, and global stocks, precious metals, and Bitcoin hitting 2026 lows. The U. S. dollar rose for the fourth straight week. Attention turns to U. S. core PCE figures, Q3 GDP second estimate, and PMI data. Markets price in a 97% probability of a 25-basis-point Fed rate hike in December. Eurozone PMI data and ECB rate expectations remain in focus, with inflation at 4% and markets pricing a 25-basis-point hike in December. Australia's October CPI follows a drop in AUD/USD, with unemployment rising to a five-year high of 4.9% and employment falling by 80,000 over two months, shifting expectations to two rate cuts in 2027.
-  中文：总结：上周市场遭遇重挫，纳斯达克指数暴跌10%，三大美国主要股指进入回调区间，全球股市、贵金属及比特币均跌至2026年低点。 美元则实现了连续四周上涨。 本周焦点转向美国核心PCE数据、第三季度GDP第二版修正值以及PMI数据。 市场定价美联储12月加息25个基点的概率为97%。 欧元区PMI数据和欧洲央行利率预期同样备受关注，目前通胀率已升至4%，市场定价12月将加息25个基点。 澳大利亚10月CPI数据在澳元兑美元下跌6%之际发布，此前失业率升至4.9%的五年高位，且两个月内就业人数减少80,000人，这使市场预期从进一步加息转变为2027年进行两次降息。
+  English：Global markets faced a steep decline as the Nasdaq plunged 10% and U. S. indices entered correction territory, while precious metals and Bitcoin hit 2026 lows. The U. S. dollar gained for a fourth straight week on hawkish Federal Reserve expectations and safe-haven flows. Investors await key U. S. data including core PCE figures, Q3 GDP second estimates, and PMI data, with markets pricing a 97% probability of a 25-basis-point rate hike in December. In Australia, October CPI data arrives after AUD/USD fell nearly 6% due to a rising unemployment rate of 4.9% and falling employment, prompting market shifts toward expected rate cuts in 2027. Meanwhile, Eurozone PMI data will provide insights as inflation reaches 4% and markets price a 25-basis-point European Central Bank hike in December.
+  中文：总结：全球市场遭遇大幅下跌，纳斯达克指数暴跌10%，美国三大主要指数均进入回调区域，贵金属和比特币则触及2026年低点。 受鹰派美联储预期和避险资金流入推动，美元连续第四周录得涨幅。 投资者正等待美国核心PCE数据、第三季度GDP第二次修正值及PMI数据，市场定价美联储12月加息25个基点的概率为97%。 在澳大利亚，由于失业率升至4.9%且就业人数下降导致澳元兑美元本月下跌近6%，10月CPI数据将随之公布，促使市场预期2027年将降息。 同时，随着通胀率升至4%且市场定价欧洲央行12月加息25个基点，欧元区PMI数据将提供经济活动指引。
   📰 [www.tmgm.com](https://www.tmgm.com/en/analysis/market-insight/week-ahead-inflation-data-and-fed-expectations-to-drive-markets-amid-ai-selloff)
 
+- **[2026.11.23] 朝日新聞 — U.S. dollar weakens sharply against the Japanese yen after market interventions**
+  English：The U. S. dollar weakened sharply against the Japanese yen on Monday after U. S. President Donald Trump and Japan's finance minister confirmed that both sides had intervened in the currency markets.
+  中文：总结：美国总统唐纳德·特朗普与日本财务大臣确认双方均已干预外汇市场后，美元兑日元于周一显著走弱。
+  📰 [朝日新聞](https://www.asahi.com/ajw/articles/photo/83603528)
+
 - **[2026.11.24] Kotak Neo — Why are gold price rising today? Gold Prices Rebound After 9% Weekly Fall; 3 Key Dates to Watch Before Buying Gold**
-  English：Gold prices rebounded on Monday as a weaker dollar and changing U. S. interest rate expectations brought buyers back after a 9% weekly fall. MCX gold futures for December delivery traded at ₹1,24,504 per 10 grams at 9:30 am IST, up ₹2,726 or 2.24% from Friday. Spot gold climbed above $3,600 an ounce after falling to a 14-month low near $3,500 on Friday. Reuters reported spot gold rose 2.4% to $3,616.51 an ounce on Monday. Kotak Neo's Anindya Banerjee noted that Friday's sell-off was driven by investors needing cash due to losses in technology stocks. Key upcoming dates include the MCX trading holiday on November 24, U. S. PCE inflation data on November 25, and U. S. Thanksgiving on November 26.
-  中文：总结：由于美元走软以及美国利率预期的变化，黄金价格在经历上周9%的跌幅后于周一反弹，吸引买盘回归。 印度标准时间上午9点30分，12月交割的MCX黄金期货交易价格为每10克124,504卢比，比周五收盘价上涨2,726卢比或2.24%。 现货黄金在周五跌至接近3,500美元的14个月低点后，回升至每盎司3,600美元上方。 路透社报道称，周一现货黄金上涨2.4%至每盎司3,616.51卢比。 Kotak Neo的大宗商品与货币研究主管阿宁迪亚·班纳吉指出，周五的抛售是由科技股亏损的投资者急需现金所致。 本周关键关注日期包括11月24日MCX交易假期、11月25日美国PCE通胀数据以及11月26日美国感恩节。
+  English：Gold prices rebounded over 2% on Monday, November 23, 2026, snapping a five-session losing streak after international spot gold climbed above $3,600 an ounce following a drop to a 14-month low near $3,500 on Friday. MCX gold futures for December delivery traded at ₹1,24,504 per 10 grams, up ₹2,726. Kotak Securities noted that last week's 9% international fall occurred while US 10-year Treasury yields dropped from 5.04% to 4.92%, with Anindya Banerjee attributing the sell-off to tech stock investors liquidating assets for cash. Buyers are tracking three key dates: a November 24 MCX trading holiday for Guru Nanak Jayanti, November 25 US PCE inflation data, and the November 26 US Thanksgiving holiday.
+  中文：总结：2026年11月23日周一，黄金价格反弹超过2%，结束了五连跌走势。 此前国际现货黄金在周五跌至接近3,500美元的14个月低点后回升至每盎司3,600美元上方。 12月交割的MCX黄金期货交易价为每10克1,24,504卢比，上涨2,726卢比。 柯达证券指出，上周国际金价下跌9%的同时，美国10年期国债收益率从5.04%降至4.92%，Anindya Banerjee将抛售归因于科技股投资者变现资产以获取现金。 买家正在关注三个关键日期：11月24日因古鲁纳纳克诞辰而休市的MCX交易假期、11月25日美国PCE通胀数据以及11月26日美国感恩节假期。
   📰 [Kotak Neo](https://www.kotakneo.com/news/commodities/why-gold-price-is-rising/)
 
-- **[2026.11.23] BullionVault — Gold, Silver Prices Rebound with US Stocks from Markets-Wide 'Washout'**
-  English：Gold and silver prices rebounded from a plunge in Asian trading on Monday, rising alongside U. S. stocks after the AI tech stock sell-off. Spot gold climbed to $3,636 per troy ounce during Chinese hours before fluctuating, while silver reached $42.91 and later spiked past $44. Analysts noted that gold was sold to raise cash during the market-wide sell-off. Between October 30 and November 20, gold and the S&P 500 fell 8.8%, the Nasdaq lost 11.1%, silver and copper dropped 15.4%, and Bitcoin fell 23.8%. U. S. Treasury prices rallied, lowering yields, while the U. S. dollar hit an 18-month high. Traders priced in a 96% chance of a quarter-point Fed rate hike. South Korea's Kospi fell 3.3%, and China's CSI300 index ended flat after Beijing financial regulators announced measures to enable heavier borrowing by speculators, releasing perhaps $77 billion of credit.
-  中文：总结：黄金和白银价格在周一亚洲交易时段从上周的暴跌中反弹，在人工智能科技股抛售潮后与美股一同上涨。 现货黄金在中国的交易时段攀升至每金衡盎司3,636美元后有所调整，而白银触及42.91美元后在纽约开盘时冲破44美元。 分析师指出，在市场整体抛售期间，黄金被作为筹集现金的资产遭到抛售。 从10月30日到11月20日，黄金和标普500指数均下跌8.8%，纳斯达克综合指数下跌11.1%，白银和铜均下跌15.4%，比特币下跌23.8%。 美国国债价格大幅反弹并拉低收益率，同时美元汇率创下逾18个月新高。 交易员定价美联储加息25个基点的概率为96%。 韩国Kospi指数下跌3.3%，而中国沪深300指数在金融监管机构宣布允许投机者增加借贷并可能释放770亿美元信贷后收盘持平。
-  📰 [BullionVault](https://www.bullionvault.com/gold-news/gold-price-news/gold-silver-crash-rally-112320261)
-
-- **[2026.11.24] 行情快照 / Quote · USD/JPY — 美元兑日元下跌0.05%**
-  Quote: USD/JPY stood at 158.90 as of 2026.11.24 09:54 JST, 0.05% lower than the previous close.
-  行情中文：截至 2026.11.24 09:54 JST，美元兑日元较前收盘下跌0.05%。
+- **[2026.11.24] 行情快照 / Quote · USD/JPY — 美元兑日元下跌0.12%**
+  Quote: USD/JPY stood at 158.79 as of 2026.11.24 10:31 JST, 0.12% lower than the previous close.
+  行情中文：截至 2026.11.24 10:31 JST，美元兑日元较前收盘下跌0.12%。
   📰 [Yahoo Finance](https://finance.yahoo.com/quote/JPY%3DX)
 
 - **[2026.11.24] 行情快照 / Quote · US 10Y Yield — 美国10年期国债收益率上涨0.12%**
