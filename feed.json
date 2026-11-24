@@ -1,14 +1,14 @@
 {
   "kind": "market",
-  "updated_at": "2026-11-25T08:01:33.477543+09:00",
+  "updated_at": "2026-11-25T08:24:33.824847+09:00",
   "status": {
     "state": "partial",
-    "checked_at": "2026-11-25T08:01:33.477543+09:00",
-    "latest_article_at": "2026-11-25T07:35:58+09:00",
-    "articles": 23,
+    "checked_at": "2026-11-25T08:24:33.824847+09:00",
+    "latest_article_at": "2026-11-25T08:22:48+09:00",
+    "articles": 22,
     "sections": {
       "美国股市 / US Market": 8,
-      "日本株式市場 / Japan Market": 7,
+      "日本株式市場 / Japan Market": 6,
       "宏观经济与投资 / Macro & Investment": 8
     },
     "shortfalls": {},
@@ -23,8 +23,8 @@
       "url": "https://www.fool.com/coverage/stock-market-today/2026/11/24/stock-market-today-nov-24-tech-sell-off-drags-nasdaq-as-dow-gains-on-value-rotation/",
       "language": "English",
       "section": "美国股市 / US Market",
-      "summary": "On November 24, 2026, U. S. markets saw the S&P 500 slip 0.50% to 7,201 and the Nasdaq Composite drop 1.48% to 23,734 due to cooling artificial intelligence momentum. The Dow Jones Industrial Average gained 0.85% to 50,019 as investors favored value sectors and defensive shares. Gold fell 2.67% to $3,554.00, while the 10-Year Treasury yield held steady at 4.92%. Kohl's Corp. jumped 19.48% and Dollar Tree Inc. surged 11.18% following strong quarterly results. Conversely, technology shares fell broadly, with Nvidia dropping 5.86%, Analog Devices tumbling 17.37%, and Hewlett Packard Enterprise falling 16.31%. Separately, The Conference Board's headline confidence index rose to 103.3, up 11.4 points from October.",
-      "summary_zh": "在2026年11月24日，由于人工智能势头冷却，美股标准普尔500指数下跌0.50%至7,201点，纳斯达克综合指数下跌1.48%至23,734点。 道琼斯工业平均指数上涨0.85%至50,019点，因投资者青睐价值板块和防御性股票。 黄金价格下跌2.67%至$3,554.00，10年期美国国债收益率保持在4.92%不变。 Kohl's公司因季度业绩超出预期跳涨19.48%，Dollar Tree公司激增11.18%。 与此相对，科技股普遍下跌，其中Nvidia下跌5.86%，Analog Devices暴跌17.37%，Hewlett Packard Enterprise下跌16.31%。 此外，世界大型企业联合会公布的信心指数升至103.3，比10月份上升11.4点。"
+      "summary": "On November 24, 2026, the S&P 500 fell 0.50% to 7,201 and the Nasdaq Composite dropped 1.48% to 23,734 due to cooling artificial intelligence momentum and tech weakness. The Dow Jones Industrial Average gained 0.85% to 50,019 as investors shifted to value sectors. Gold fell 2.67% to $3,554.00, the 10-Year Treasury yield held at 4.92%, and healthcare led sector gains. Kohl's Corp. jumped 19.48% and Dollar Tree Inc. surged 11.18% on strong earnings, while Analog Devices fell 17.37% and Hewlett Packard Enterprise dropped 16.31%. Nvidia shares declined 5.86% amid profit-taking in high-growth semiconductor names. The Conference Board's headline confidence index rose to 103.3, up 11.4 points from October and above the 92.2 consensus forecast.",
+      "summary_zh": "在2026年11月24日，标普500指数下跌0.50%至7,201点，纳斯达克综合指数下跌1.48%至23,734点，原因为人工智能势头降温及科技股走弱。 道琼斯工业平均指数则上涨0.85%至50,019点，因投资者青睐价值板块。 黄金价格下跌2.67%至$3,554.00，10年期美债收益率持平于4.92%，医疗保健板块领涨。 科尔士公司股价跃升19.48%，达元公司激增11.18%，财报超预期；模拟器件公司大跌17.37%，慧与科技下跌16.31%。 英伟达股价在科技股大范围抛售中回落5.86%，交易员对高增长半导体板块进行获利回吐。 世界大型企业联合会公布的消费者信心指数升至103.3，较10月上升11.4点，远高于92.2的预期共识。"
     },
     {
       "date": "2026.11.25",
@@ -34,19 +34,8 @@
       "url": "https://beinsure.com/news/us-stock-market-nasdaq-sp500-fall-ai-stocks-slide/",
       "language": "English",
       "section": "美国股市 / US Market",
-      "summary": "On Tuesday, November 24, 2026, U. S. stocks traded mixed as selling across artificial intelligence and semiconductor stocks interrupted Wall Street's recovery. The Nasdaq fell approximately 2%, the S&P 500 declined 0.8%, and the Dow gained 0.6% to nearly 49,886 points. Nvidia shares fell more than 7% after surging 31.5% on Monday when Jensen Huang's reinstatement as CEO added approximately $952 bn in market capitalization. The Philadelphia Semiconductor Index declined 9.2%, with Micron falling over 10% and AMD losing roughly 9%. Cloud providers CoreWeave and Nebius declined approximately 13%, while Anthropic traded around $79.57, below its $83 IPO price. UBS lowered global equities from Attractive to Neutral, estimating US tech companies could invest nearly $5 tn in AI infrastructure by the end of 2028. Goldman Sachs and Morgan Stanley maintain S&P 500 targets of 8,700 for 2027.",
-      "summary_zh": "在2026年11月24日星期二，由于人工智能和半导体股票的抛售打断了华尔街的复苏，美股表现分化。 纳斯达克指数下跌约2%，标普500指数下跌0.8%，道琼斯指数上涨0.6%至近49,886点。 Nvidia股价在周一因Jensen Huang恢复担任CEO使其市值增加约$952 bn而飙升31.5%后，周二下跌超过7%。 费城半导体指数下跌9.2%，其中Micron下跌超过10%，AMD下跌约9%。 云服务商CoreWeave和Nebius下跌约13%，Anthropic交投于$79.57附近，低于其$83的IPO价格。 瑞银将全球股票评级从具有吸引力下调至中性，估计美国科技公司到2028年底可能在AI基础设施上投资近$5 tn。 高盛和摩根士丹利维持对2027年标普500指数8,700的目标点位不变。"
-    },
-    {
-      "date": "2026.11.25",
-      "published_at": "2026-11-25T05:00:44+09:00",
-      "headline": "BigBear.ai, Harmonic, and Ionic Digital shares plummet, what you need to know",
-      "source": "TradingView",
-      "url": "https://www.tradingview.com/news/stockstory:09d9bf151094b:0-bigbear-ai-harmonic-and-ionic-digital-shares-plummet-what-you-need-to-know/",
-      "language": "English",
-      "section": "美国股市 / US Market",
-      "summary": "In the afternoon session, artificial intelligence and semiconductor stocks pulled back from a sharp rally, dragging down the Nasdaq Composite by 2.5% and the S&P 500 by 1.2%, while the Dow Jones Industrial Average traded flat. Nvidia shares tumbled over 7% following a previous 31% surge, and Anthropic fell 9% to break below its IPO price. Micron Technology and Advanced Micro Devices plunged over 10%, while Broadcom and Oracle fell more than 3%. UBS Global Wealth Management chief investment officer Mark Haefele noted that cloud growth and computing demand remain supportive, though differentiation is expected between established platforms and debt-reliant companies. Individual market moves included BigBear. ai falling 3%, Harmonic dropping 3.6%, and Ionic Digital declining 8%. Ionic Digital shares are down 15.7% since the beginning of the year and trade at $52.99, which is 38.8% below its 52-week high of $86.64 from September 2026.",
-      "summary_zh": "在午盘交易中，人工智能和半导体股票从前一交易日的急剧反弹中回落，拖累纳斯达克综合指数下跌2.5%，标普500指数下跌1.2%，道琼斯工业平均指数则在持平线附近交易。 在先前飙升31%之后，Nvidia股价暴跌超过7%，Anthropic下跌9%并跌破其IPO价格。 Micron Technology和Advanced Micro Devices暴跌超过10%，Broadcom和Oracle跌幅超过3%。 瑞银全球财富管理首席投资官Mark Haefele指出，云增长和计算需求依然具有支撑作用，但预计成熟平台与依赖债务的公司之间将出现更多分化。 个股变动方面，BigBear. ai下跌3%，Harmonic下跌3.6%，Ionic Digital下跌8%。 Ionic Digital股价自年初以来已下跌15.7%，报$52.99，较2026年9月创下的52周高点$86.64低38.8%."
+      "summary": "US stocks traded mixed on November 24, 2026, as renewed selling in AI and semiconductor shares interrupted a recent market recovery. The Nasdaq fell about 2%, the S&P 500 declined 0.8%, and the Dow gained 0.6% to nearly 49,886 points. Nvidia shares dropped over 7% following a 31.5% surge on Monday when Jensen Huang was reinstated as CEO, a move that added about $952 bn to market capitalization. The Philadelphia Semiconductor Index fell 9.2%, with Micron Technology down over 10% and AMD losing about 9%. Anthropic traded near $79.57, below its $83 IPO price, on an $81 bn initial public offering. UBS lowered global equities from Attractive to Neutral, estimating US tech companies could invest nearly $5 tn in AI infrastructure by the end of 2028. Goldman Sachs and Morgan Stanley maintained 2027 S&P 500 targets of 8,700.",
+      "summary_zh": "2026年11月24日周二，美股涨跌不一，人工智能和半导体股票的再度抛售打断了华尔街的复苏。 纳斯达克指数下跌约2%，标普500指数下跌0.8%，道琼斯工业平均指数上涨0.6%至近49,886点。 英伟达股价在周一因詹森·黄复职首席执行官飙升31.5%并增加约$952 bn市值后，下跌超过7%。 费城半导体指数下跌9.2%，美光科技下跌超10%，AMD下跌约9%。 Anthropic股价在$79.57左右交易，低于$83的IPO价格，其首次公开募股规模达$81 bn。 瑞银将全球股票评级从具有吸引力下调至中性，估计美国科技公司到2028年底可能在AI基础设施上投资近$5 tn。 高盛和摩根士丹利维持2027年标普500指数8,700点目标。"
     },
     {
       "date": "2026.11.25",
@@ -56,8 +45,8 @@
       "url": "https://247wallst.com/investing/2026/11/24/micron-just-hit-a-700-ceiling-caught-a-downgrade-and-is-down-10-today-is-mu-a-toxic-stock-or-a-prime-bargain/",
       "language": "English",
       "section": "美国股市 / US Market",
-      "summary": "Micron Technology shares dropped 10% to $636.47 in afternoon trading on November 24 after BNP Paribas analyst Karl Ackerman downgraded the stock to Neutral from Outperform and cut his price target to $775 from $1,700. Ackerman cited rising risks to hyperscaler capacity plans in 2028, a reported reduction in high-bandwidth memory content in NVIDIA's Vera Rubin Ultra platform, and expected PC and mobile unit declines. Micron's reversal follows an intraday high of $720.69 on November 23. Rival memory stocks also fell, with SanDisk down 11% to $77.93 and SK Hynix ADRs down 9% to $113.51. Investor Steve Eisman noted to CNBC on November 24 that the AI industry still faces major risks despite Jensen Huang's return to NVIDIA. Micron reported Q4 FY2026 revenue of $54.23 billion with adjusted EPS of $33.42, and guided Q1 FY2027 revenue to $61.5 billion plus or minus $1.5 billion, with executive Manish Bhatia stating over 75% of fiscal 2027 shipments are committed.",
-      "summary_zh": "在BNP Paribas分析师Karl Ackerman将Micron Technology的股票评级从跑赢大盘下调至中性，并将目标价从$1,700大幅下调至$775后，Micron股价在11月24日下午交易中下跌10%至$636.47。 Ackerman给出的理由包括2028年超大规模数据中心产能计划面临上升风险、NVIDIA的Vera Rubin Ultra平台中高带宽内存含量的报道削减，以及预计2026和2027年PC和移动设备出货量将下降。 此前，Micron在11月23日曾创下$720.69的盘中高点。 竞争对手内存股也出现下跌，SanDisk下跌11%至$77.93，SK Hynix美国存托凭证下跌9%至$113.51。 投资人Steve Eisman于11月24日向CNBC表示，尽管Jensen Huang重返NVIDIA，但AI行业仍面临重大风险。 Micron公布2026财年第四季度营收为$54.23 billion，调整后每股收益为$33.42，并预计2027财年第一季度营收为$61.5 billion加减$1.5 billion，公司高管Manish Bhatia称2027财年超过75%的出货量已完成签约。"
+      "summary": "Micron Technology stock fell 10% to $636.47 in afternoon trading after reaching an intraday high of $720.69 on November 23. BNP Paribas analyst Karl Ackerman downgraded Micron to Neutral from Outperform and cut his price target to $775 from $1,700, citing rising risks to hyperscaler capacity plans in 2028 and reduced high-bandwidth memory content in Nvidia's Vera Rubin Ultra platform. Rivals SanDisk and SK Hynix dropped 11% and 9% respectively. Investor Steve Eisman noted major risks remain for the AI trade. Micron reported Q4 FY2026 revenue of $54.23 billion with adjusted EPS of $33.42, and guided Q1 FY2027 revenue to $61.5 billion plus or minus $1.5 billion, with executive Manish Bhatia stating over 75% of shipments are committed for fiscal 2027.",
+      "summary_zh": "美光科技股价在午盘交易中下跌10%至$636.47，此前该股在11月23日曾创下$720.69的盘中高点。 法国巴黎银行分析师卡尔·阿克曼将美光评级从跑赢大盘下调至中性，并将目标价从$1,700大幅下调至$775，理由是2028年超大规模数据中心产能计划风险上升，且英伟达Vera Rubin Ultra平台中的高带宽内存含量减少。 竞争对手闪迪和SK海力士分别下跌11%和9%。 投资者史蒂夫·艾斯曼指出人工智能交易仍面临重大风险。 美光公布2026财年第四季度营收为$54.23 billion，调整后每股收益为$33.42，并预计2027财年第一季度营收为$61.5 billion加减$1.5 billion，高管曼尼什·巴蒂亚表示2027财年超过75%的出货量已完成承诺。"
     },
     {
       "date": "2026.11.25",
@@ -67,8 +56,8 @@
       "url": "https://m.economictimes.com/world/us/whats-happening-in-the-us-stock-market-today-ai-selloff-wipes-out-1-trillion-as-nasdaq-and-sp-500-fall-dow-rises-nvidia-drops-7-4-and-chip-stocks-lose-870-billion/articleshow/136140474.cms",
       "language": "English",
       "section": "美国股市 / US Market",
-      "summary": "On November 24, 2026, the U. S. stock market experienced a broad selloff in artificial intelligence and technology stocks, wiping out over $1 trillion in market value following Monday's rally. The Dow Jones Industrial Average gained 417.90 points, or 0.84%, to 50,013.21. Meanwhile, the S&P 500 fell 29.48 points, or 0.41%, to 7,207.69, and the Nasdaq Composite dropped 323.71 points, or 1.34%, to 23,765.85. Chip stocks alone lost $870 billion during the session. Major stock declines included Nvidia down 8.1%, Anthropic down 11.8% below its $83 IPO price, Micron down 10.8%, AMD down 10.5%, Analog Devices down 17.7%, and Intel down 8.4% to $54.86. Other technology and infrastructure companies also fell, with Dell dropping 11.5% and CoreWeave losing 11.3%. Additionally, the VIX stood at 26.56, and traders priced in a 95% probability of a 25-basis-point Federal Reserve rate increase in December.",
-      "summary_zh": "在2026年11月24日，美股市场在经历周一的反弹后，人工智能和科技股遭到广泛抛售，市值蒸发超过$1 trillion。 道琼斯工业平均指数上涨417.90点，涨幅为0.84%，报50,013.21点。 与此同时，标准普尔500指数下跌29.48点，跌幅为0.41%，报7,207.69点；纳斯达克综合指数下跌323.71点，跌幅为1.34%，报23,765.85点。 仅芯片股在当盘交易中就损失了$870 billion。 主要下跌股票包括：Nvidia下跌8.1%，Anthropic下跌11.8%并跌破其$83的IPO价格，Micron下跌10.8%，AMD下跌10.5%，Analog Devices下跌17.7%，Intel下跌8.4%至$54.86。 其他科技和基础设施公司也录得下跌，其中Dell下跌11.5%，CoreWeave下跌11.3%。 此外，VIX波动率指数报26.56，交易员预计美联储在12月加息25个基点的概率为95%。"
+      "summary": "On November 24, 2026, US markets experienced a broad AI sell-off that wiped out over $1 trillion in market value, with the Dow Jones gaining 0.84% to 50,013.21 while the S&P 500 fell 0.41% to 7,207.69 and the Nasdaq dropped 1.34% to 23,765.85. The downturn followed Monday's rally after Nvidia reinstated Jensen Huang as CEO. Chipmakers and tech companies suffered steep losses, including Nvidia down 8.1%, Anthropic down 11.8%, AMD down 10.5%, Micron down 10.8%, Analog Devices down 17.7%, and Intel down 8.4%. Memory and storage providers like SanDisk, Seagate, and Western Digital also recorded sharp declines. Traders priced in a 95% probability of a 25-basis-point Federal Reserve rate increase in December.",
+      "summary_zh": "2026年11月24日，美国市场遭遇人工智能板块的全面抛售，市值蒸发超过$1 trillion。 道琼斯工业平均指数上涨0.84%至50,013.21点，标普500指数下跌0.41%至7,207.69点，纳斯达克综合指数下跌1.34%至23,765.85点。 此次下跌紧随周一因英伟达恢复詹森·黄担任首席执行官而引发的涨势之后。 芯片制造商和科技公司遭受重创，其中英伟达下跌8.1%，Anthropic下跌11.8%，AMD下跌10.5%，美光下跌10.8%，亚德诺半导体下跌17.7%，英特尔下跌8.4%。 闪迪、希捷和西部数据等存储和内存供应商也录得大幅下跌。 交易员定价美联储在12月加息25个基点的概率为95%。"
     },
     {
       "date": "2026.11.25",
@@ -78,8 +67,8 @@
       "url": "https://finance.yahoo.com/markets/stocks/articles/tesla-robotaxi-business-could-generate-181613579.html",
       "language": "English",
       "section": "美国股市 / US Market",
-      "summary": "Tesla received a bullish endorsement from Seaport Global Securities on Tuesday, with the firm initiating coverage with a 'Buy' rating and a $475 price target. Seaport stated that Tesla's expanding robotaxi operations could reach $3 billion to $4 billion in annual recurring revenue by the end of 2027. The brokerage noted that Tesla is expanding its autonomous driving mileage faster than Alphabet's Waymo in Texas and that its camera-based technology could enable faster adoption than rivals using lidar and radar. Seaport expects growth and margin expansion in Tesla's automotive business in 2027, driven by stabilizing business in China and Full Self-Driving technology, though it views robotaxis as the primary justification for Tesla's valuation over the next three to five years. Separately, UBS analyst Joseph Spak raised Tesla's price target to $430 from $425 while keeping a 'Neutral' rating, and retail sentiment on Stocktwits remained 'bullish'.",
-      "summary_zh": "Seaport Global Securities于周二给予特斯拉买入评级，目标价为475美元，并表示其迅速扩张的Robotaxi业务到2027年底前可能产生30亿至40亿美元的年度经常性收入。 该机构指出，特斯拉在德克萨斯州的自动驾驶里程扩展速度快于Alphabet旗下的Waymo，其纯视觉自动驾驶技术可能比依赖激光雷达和雷达的竞争对手实现更快的普及率。 Seaport预计特斯拉汽车业务将在2027年实现增长和利润率扩张，这得益于中国业务的稳定以及全自动驾驶技术在西方市场成为关键产品差异化因素。 不过，该机构认为Robotaxi是未来三到五年内唯一能合理解释该公司当前估值的业务。 此外，瑞银分析师约瑟夫·斯帕克将特斯拉的目标价从425美元上调至430美元，并维持中性评级。"
+      "summary": "Seaport Global Securities initiated coverage of Tesla with a Buy rating and a $475 price target, implying a 23% upside from Monday's close. The brokerage stated that Tesla's robotaxi operations could generate $3 billion to $4 billion in annual recurring revenue by the end of 2027, driven by faster autonomous driving mileage expansion than Alphabet's Waymo in Texas and camera-based technology that may lead to quicker adoption. Seaport expects Tesla's automotive business to record growth and margin expansion in 2027 due to stabilizing business in China and FSD technology becoming a differentiator in Western markets. However, Seaport noted that legacy automotive and energy segments appear overvalued on their own. Separately, UBS raised its Tesla price target to $430 from $425 while maintaining a Neutral rating.",
+      "summary_zh": "Seaport全球证券对特斯拉给予买入评级，目标价定为$475，较周一收盘价隐含约23%的上行空间。 该机构表示，在德克萨斯州自动驾驶里程扩张速度超过Alphabet旗下Waymo以及基于摄像头的技术可能带来更快普及率的推动下，特斯拉的机器人出租车业务到2027年底可能产生$3 billion至$4 billion的年度经常性收入。 Seaport预计特斯拉的汽车业务将在2027年实现增长和利润率扩张，这得益于中国业务趋稳以及全自动驾驶技术成为西方市场的差异化产品。 不过，Seaport指出特斯拉传统的汽车和能源部门单独来看显得估值过高。 另外，瑞银将特斯拉目标价从$425上调至$430，并维持中性评级。"
     },
     {
       "date": "2026.11.25",
@@ -89,8 +78,8 @@
       "url": "https://www.tikr.com/blog/tesla-jumped-11-on-fsd-v15-wall-street-still-sees-418",
       "language": "English",
       "section": "美国股市 / US Market",
-      "summary": "Tesla shares jumped 11.5% on Monday, Nov. 23, closing at $385.46 as version 15 of its Full Self-Driving software began rolling out and the Nasdaq Composite rose 6.5%. Before the jump, Tesla traded at 162x forward earnings compared to General Motors' 5.7x. Third-quarter revenue was roughly flat at $28.0 billion, but GAAP operating margin fell to 2.6% from 5.8%, and operating expenses rose 39% to $4.8 billion. CFO Vaibhav Taneja stated operating expenses will continue rising until commercialization of new products, and management guides about $20 billion of capital spending for 2026. Forty-four analysts cover Tesla with an average target of $418, while active FSD subscriptions rose 67% to 1.74 million in the third quarter.",
-      "summary_zh": "特斯拉股价在11月23日星期一上涨11.5%，收于385.46美元，创下2025年4月以来的最佳单日表现，当时该公司开始向首批车主推送第15版全自动驾驶软件，且纳斯达克综合指数上涨6.5%。 在上涨之前，特斯拉的远期市盈率为162倍，而通用汽车为5.7倍。 第三季度营收大致持平于280亿美元，但GAAP营业利润率从5.8%降至2.6%，营业费用上升39%至48亿美元。 首席财务官瓦伊巴夫·塔内哈在10月21日的电话会议上表示，在特斯拉商业化新产品之前，营业费用将继续上升，管理层预计2026年资本支出约为200亿美元。 44位分析师对特斯拉的平均目标价为418美元，第三季度活跃的FSD订阅量增长67%至174万。"
+      "summary": "Tesla jumped 11.5% on Monday, Nov. 23, closing at $385.46 as version 15 of its Full Self-Driving software began rolling out and the Nasdaq Composite rose 6.5%. Third-quarter revenue was flat at $28.0 billion, while its GAAP operating margin fell to 2.6% and operating expenses rose 39% to $4.8 billion. Management guides about $20 billion of capital spending for 2026. HSBC analyst Mike Tyndall upgraded Tesla to Hold on Nov. 20 and raised his target to $359.",
+      "summary_zh": "特斯拉在11月23日星期一上涨了11.5%，收于$385.46，原因是其Full Self-Driving软件的第15版本开始推出，且纳斯达克综合指数上涨了6.5%。 第三季度营收持平于$28.0 billion，GAAP营业利润率降至2.6%，营业费用上升39%至$4.8 billion。 管理层预计2026年资本支出约为$20 billion。 汇丰银行分析师Mike Tyndall在11月20日将特斯拉评级上调至持有，并将目标价从$157上调至$359。"
     },
     {
       "date": "2026.11.25",
@@ -100,8 +89,30 @@
       "url": "https://cwibc.co.id/en/micron-shares-ai-demand-concerns",
       "language": "English",
       "section": "美国股市 / US Market",
-      "summary": "Micron Technology faced selling pressure in November 2026, losing 13.9% on November 20 and 11.7% on November 24 amid a technology selloff and questions over AI spending. Micron's November 20 decline occurred without a company announcement, while 32 other semiconductor companies with market caps of at least $2 billion also finished lower. Micron generated $54.2 billion in fiscal fourth-quarter 2026 revenue, a 379.3% increase year-over-year. BNP Paribas analyst Karl Ackerman downgraded Micron from outperform to neutral and cut his price target from $1,700 to $775, warning that expanding production could create excess memory supply and cause average selling prices to decline starting in mid-2027. Despite closing at $594.51 on November 20, Micron's 12-month gain remained 163.4% compared to a 5.3% increase for the S&P 500.",
-      "summary_zh": "美光科技在2026年11月面临抛售压力，在科技股抛售潮以及对人工智能支出、半导体估值和未来存储芯片供应的担忧中，该股于11月20日下跌13.9%，随后在11月24日周二的交易中又下跌11.7%。 美光在11月20日的下跌没有伴随公司的公告、财报发布或监管文件，当时市值至少20亿美元的其他32家半导体公司也全部收跌。 美光在截至9月3日的2026财年第四季度创造了542亿美元的营收，较上年同期增长379.3%。 法国巴黎银行分析师卡尔·阿克曼将美光从跑赢大盘下调至中性，并将目标价从1700美元下调至775美元，警告称扩大产能可能导致存储芯片供应过剩，并使平均售价最早在2027年中期开始下降。 尽管11月20日收于594.51美元，但美光过去12个月的涨幅仍达到163.4%，而标普500指数上涨5.3%。"
+      "summary": "Micron Technology faced selling pressure in November 2026, losing 13.9% on November 20 and 11.7% on November 24 amid broader tech declines. For its fiscal fourth-quarter 2026 ended September 3, Micron generated $54.2 billion in revenue, up 379.3% year-over-year. BNP Paribas analyst Karl Ackerman downgraded Micron to neutral and lowered his price target from $1,700 to $775, warning that expanding production could create excess DRAM and NAND supply and lower selling prices by mid-2027.",
+      "summary_zh": "美光科技在2026年11月面临抛售压力，在科技股整体下跌的背景下，11月20日下跌13.9%，11月24日再跌11.7%。 截至9月3日的2026财年第四季度，美光营收达到$54.2 billion，同比增长379.3%。 法国巴黎银行分析师Karl Ackerman将美光评级下调至中性，并将目标价从$1,700降至$775，警告称扩产可能导致DRAM和NAND供应过剩，并在2027年中期前压低售价。"
+    },
+    {
+      "date": "2026.11.24",
+      "published_at": "2026-11-24T16:34:02+09:00",
+      "headline": "Black Friday Comes to Tech Stocks: 3 Artificial Intelligence (AI) Names I’d Buy on Sale",
+      "source": "The Motley Fool",
+      "url": "https://www.fool.com/investing/2026/11/24/black-friday-comes-to-tech-stocks-3-artificial-intelligence-ai-names-id-buy-on-sale/",
+      "language": "English",
+      "section": "美国股市 / US Market",
+      "summary": "Geoffrey Seiler highlights three AI stocks trading at lower valuations: Micron, Nvidia, and Broadcom. Micron benefits from a longer memory cycle driven by high bandwidth memory and AI demand. Nvidia trades at a forward P/E of 10 times fiscal 2028 estimates following Jensen Huang's return, with revenue projected to grow 75% next year. Broadcom is a leader in custom ASIC chips and data center networking, with AI chip revenue projected to reach $230 billion in fiscal 2028.",
+      "summary_zh": "Geoffrey Seiler指出美光、英伟达和博通这三只估值走低的AI股票。 美光受益于由高带宽内存和AI需求驱动的较长内存周期。 在黄仁勋回归后，英伟达的股价按2028财年预估计算的远期市盈率为10倍，预计明年营收将增长75%。 博通是定制ASIC芯片和数据中心网络的领导者，预计其2028财年AI芯片营收将达到$230 billion。"
+    },
+    {
+      "date": "2026.11.25",
+      "published_at": "2026-11-25T08:00:00+09:00",
+      "headline": "【日本株】過去5期平均よりPERが低下した｢割安株｣の2銘柄！好業績でも割安な｢大阪有機化学工業｣、PERが過去5期平均の半分まで下がった｢第一三共｣に注目",
+      "source": "ダイヤモンド・オンライン",
+      "url": "https://diamond.jp/zai/articles/-/1075951",
+      "language": "Japanese",
+      "section": "日本株式市場 / Japan Market",
+      "summary": "【※株初心者におすすめの証券会社の情報はこちら！ 】 ⇒【証券会社おすすめ比較】株式売買手数料や米国株の取扱銘柄数、投資信託の取扱本数などを比較して、株初心者におすすめのお得な証券会社を紹介！ 【日本株】過去5期のPERと比べて大幅にPERが低下し、業績に対して割安感が強まっている「大阪有機化学工業」と「第一三共」に注目！ 発売中のダイヤモンド・ザイ2027年1月号の巻頭特集は「不安定相場にも強い！ 最新【好決算株】35銘柄」を掲載！ この特集では、注目企業が発表したばかりの中間決算を、アナリストなどの投資のプロが分析。 それを基に、大荒れの相場環境でも有望な株を選りすぐって紹介しているので、投資の参考になるはずだ。 今回はこの特集から「過去5期平均よりPERが低く、注目の割安株」の2銘柄を紹介！ 【※関連記事はこちら！ 】 ⇒【日本株】｢インフレ進展でも稼げる株｣2銘柄を紹介！",
+      "summary_zh": ""
     },
     {
       "date": "2026.11.25",
@@ -111,19 +122,19 @@
       "url": "https://www.nikkei.com/article/DGXZQOFL2504E0V21C26A1000000/",
       "language": "Japanese",
       "section": "日本株式市場 / Japan Market",
-      "summary": "25日の東京株式市場で日経平均株価は反落しそうだ。 前日の米国株式市場で半導体関連株が大きく下げ、前週に新規株式公開した米アンソロピックの株価が公開価格を割り込んだことが嫌気される。 東京市場でも人工知能や半導体関連株が売られて日経平均を下押しする見通し。 米国が中国などへの関税引き上げを準備しているとの報道も重荷となり、日経平均は前日の終値である5万8644円から1100円ほど安い5万7500円程度まで下落する可能性が想定されている。",
-      "summary_zh": "25日的东京股市中，日经平均指数预计将出现反弹回落。 前一个交易日美国股市半导体相关股票大幅下跌，加上上周进行首次公开募股的美国Anthropic公司股价跌破发行价，这些因素引发了市场担忧。 东京市场的人工智能及半导体相关股票也遭到抛售，预计将对日经平均指数造成下行压力。 有关美国正准备对中国等地加征关税的报道也成为了市场负担，预计日经平均指数可能会从前一个交易日的收盘价58644日元下跌约1100日元，至57500日元左右。"
+      "summary": "25日の東京株式市場で日経平均株価は反落しそうだ。 24日の米株式市場で半導体関連株が大きく下げたほか、前週に新規株式公開（IPO）した米アンソロピックの株価が公開価格を割り込んだ。 東京市場でも人工知能（AI）・半導体関連株が売られて日経平均を下押しする。 米国が中国などへの関税引き上げを準備しているとの報道も重荷となり、日経平均は前日の終値（5万8644円）から1100円ほど安い5万7500円程度. . . この記事は会員限定です。 登録すると続きをお読みいただけます。 残り832文字 権限不足のため、フォローできません _",
+      "summary_zh": ""
     },
     {
       "date": "2026.11.25",
-      "published_at": "2026-11-25T00:59:45+09:00",
-      "headline": "【テクニカル】日経平均株価テクニカル分析－陰線逆上がりの陽線を形成",
-      "source": "外為どっとコム",
-      "url": "https://www.gaitame.com/media/entry/2026/11/25/005812",
+      "published_at": "2026-11-25T07:12:00+09:00",
+      "headline": "CD PROJEKT RED、ソニーとパートナーシップ契約を締結。『ウィッチャー4』のマーケティング協力へ",
+      "source": "電ファミニコゲーマー",
+      "url": "https://news.denfaminicogamer.jp/news/261125d",
       "language": "Japanese",
       "section": "日本株式市場 / Japan Market",
-      "summary": "日経平均株価は大幅反発し、買い先行から上値を伸ばした。 後場はやや水準を切り下げてもみ合いとなったが大きくだれることはなく、一目均衡表の転換線（59169円 11/24）に上値を抑えられつつも陰線逆上がりの陽線を形成して終えた。 RSI（9日）は37.1％から40.5％に上昇した。 10月上旬からの値幅調整は続いており、上値抵抗線や10日移動平均線などが上値抵抗になりやすい。 上値メドは10日移動平均線や60000円などの節目、下値メドは11/20安値（56436円）や56000円などの節目が挙げられている。",
-      "summary_zh": "日经平均股价大幅反弹，开盘先行买入后推高股价。 午盘后虽略有回落并持续窄幅盘整，但未出现大幅下跌，最终形成了阴线逆行阳线。 9日RSI从37.1％上升至40.5％（11月24日）。 自10月上旬开始的价格调整仍在继续，10日均线及上行阻力线容易形成上档压力。 上方目标包括10日均线及60000日元等心理关口，下方目标则包括11月20日低点56436日元及56000日元等关口。"
+      "summary": "CD PROJEKT REDは、2026年第3四半期の決算説明会で、ソニー・インタラクティブエンタテインメント（以下、SIE）と新たなパートナーシップ契約を結んだことを明らかにした。 契約は、PlayStationおよびPlayStation Plusでの同社タイトルの展開と、今後実施される新作『ウィッチャー4』のマーケティングキャンペーンでの協力を対象としている。 契約について説明したのは、同社の最高財務責任者（CFO）を務めるピョートル・ニエルボヴィッチ氏だ。 同氏は契約を「本日」締結したと明かしたうえで、この提携が今年および将来の事業や財務見通しを支えるものになるとの見解を示した。 一方で、契約金額や期間、独占の有無といった詳しい条件については言及しなかった。 ニエルボヴィッチ氏がこの契約に触れたのは、今年の業績目標について説明した直後だった。",
+      "summary_zh": ""
     },
     {
       "date": "2026.11.24",
@@ -133,8 +144,19 @@
       "url": "https://finance.yahoo.co.jp/news/detail/c455aad79a80fc06093992ad9da9ca83fb8e0f30",
       "language": "Japanese",
       "section": "日本株式市場 / Japan Market",
-      "summary": "日系中堅証券は11月24日、ＫＡＤＯＫＡＷＡのレーティングを「中立」に据え置いた。 一方、目標株価は従来の3,500円から3,400円に引き下げた。 前日11月20日時点でのレーティングコンセンサスはアナリスト数7人で2.71の水準の「中立」となっており、目標株価コンセンサスはアナリスト数7人で3,339円となっている。",
-      "summary_zh": "日本一家中型证券公司于11月24日将KADOKAWA的评级维持在“中立”，同时将目标股价从3500日元下调至3400日元。 截至前一日即11月20日，共有7位分析师给出的评级共识为2.71，处于“中立”水平，目标股价共识则为3339日元。"
+      "summary": "日系中堅証券が11月24日、ＫＡＤＯＫＡＷＡ<9468>のレーティングを中立（中立）に据え置いた。 一方、目標株価は3,500円から3,400円に引き下げた。 因みに前日（11月20日）時点のレーティングコンセンサスは2.71（アナリスト数7人）で「中立」の水準、目標株価コンセンサスは3,339円（アナリスト数7人）となっている。 【一緒によく見られる銘柄】 デジタルガレージ<4819>、ファンコミュ<2461>、セプテーニＨ<4293>、ＢＩＰＲＯＧＹ<8056> アイフィスジャパン",
+      "summary_zh": ""
+    },
+    {
+      "date": "2026.11.24",
+      "published_at": "2026-11-24T17:01:29+09:00",
+      "headline": "レーティング日報【最上位を継続＋目標株価を増額】 (11月24日)(株探ニュース)",
+      "source": "Yahoo!ファイナンス",
+      "url": "https://finance.yahoo.co.jp/news/detail/3db2bd7be23226d791d41411ac53679e1bed8836",
+      "language": "Japanese",
+      "section": "日本株式市場 / Japan Market",
+      "summary": "●11月24日に調査機関が投資判断を最上位で継続し、かつ目標株価を引き上げた銘柄をまとめました 銘柄 機関 格付 目標株価 日付 マツキヨココ <3088> みずほ 買い 3000→3750 11/24 ブルーゾーン <417A> 岡三 強気 2200→2300 11/24 花王 <4452> ＪＰモル 強気 4000→4550 11/24 ライオン <4912> ＪＰモル 強気 2300→2600 11/24 ライオン <4912> 日興 強気 2600→2900 11/24 ミルボン <4919> 日興 強気 3800→4500 11/24 大和工 <5444> 日興 強気 14700→15100 11/24 ＫｅｅＰｅｒ <6036> 東海東京 強気 2335→2350 11/24 朝日インテク <7747> ＵＢＳ 買い 4820→5400 11/24 朝日インテク <7747> 東海東京 強気 5100→5400 11/24 ピジョン <7956> 日興 強気 2500→2900 11/24 みずほＦＧ <8411> ＪＰモル 強気 10760→10830 11/24 ヤマダＨＤ <9831> 日興 強気 840→930 11/24 サンドラッグ <9989> みずほ 買い 5100→5200 11/24 ※ＪＰモル＝ＪＰモルガン証券 株探ニュース（minkabu PRESS） 株探ニュース",
+      "summary_zh": ""
     },
     {
       "date": "2026.11.24",
@@ -144,41 +166,19 @@
       "url": "https://www.nomura.co.jp/wealthstyle/article/0957/",
       "language": "Japanese",
       "section": "日本株式市場 / Japan Market",
-      "summary": "野村證券の滝沢弘量が、2026年9月10日から2026年11月19日までに決算を発表したTOPIX100構成銘柄を対象とした株価騰落率ランキングTOP20を解説した。 1位はトヨタ自動車、2位はレゾナック・ホールディングス、3位はオリエンタルランド、4位はレーザーテック、5位は三菱商事となった。 トヨタ自動車はトップラインの伸び悩みと原材料価格の高騰が収益の重石となり、レゾナック・ホールディングスは上方修正や事業ポートフォリオ改革が進む見通しがポジティブに受け止められた。 オリエンタルランドは想定通りの内容となり、レーザーテックは想定外のタイミングでの通期受注計画上方修正が好感された。 三菱商事は業績概ね想定通りの中での大型自社株買い発表が好印象となった。 業種別では電気機器が最多ランクインとなった。",
-      "summary_zh": "野村证券的泷泽弘量对2026年9月10日至2026年11月19日期间公布财报的TOPIX100成分股涨跌幅前20名进行了评析。 排名第一的是丰田汽车，第二位是昭和电工材料控股，第三位是东方乐园，第四位是激光テック，第五位是三菱商事。 丰田汽车的营收增长乏力及原材料价格高昂成为收益的重压；昭和电工材料控股因向上修正业绩预期及业务组合改革前景而被持正面看法；东方乐园财报符合预期；激光テック因意外上调全年订单计划而获得积极评价；三菱商事在业绩基本符合预期的情况下宣布实施大规模股票回购，给人留下了良好印象。 按行业来看，电气设备行业的上榜数量最多。"
+      "summary": "野村證券の滝沢弘量が、2026年9月から11月の決算発表シーズンにおけるTOPIX100構成銘柄の株価騰落率ランキングを解説した。 対象期間は2026年9月10日から2026年11月19日まで。 トップ5はトヨタ自動車、レゾナック・ホールディングス、オリエンタルランド、レーザーテック、三菱商事となった。 トヨタ自動車はトップラインの伸び悩みと原材料価格の高騰が収益の重石となり、レゾナック・ホールディングスは上方修正された会社計画や事業ポートフォリオ改革が進む見通しからポジティブな印象を与えた。 オリエンタルランドは入園者数や単価の見方に大きな変化はなく想定通りの内容となり、レーザーテックは想定外のタイミングでの通期受注計画の上方修正が好感された。 三菱商事は業績がおおむね想定通りだったことに加え、大型の自社株買い発表が好印象を与えた。 業種別では電気機器が最多で、レーザーテック、アドバンテスト、パナソニックホールディングス、東京エレクトロンの4銘柄がランクインした。 野村證券のアナリストは、テクノロジー業界について規制や米中貿易摩擦への懸念はあるもののAI関連投資に減速感は見られていないと指摘している。",
+      "summary_zh": "野村证券的泷泽弘量对2026年9月至11月财报发布季中TOPIX100成分股的股价涨跌幅排名进行了阐述。 统计对象期间为2026年9月10日至2026年11月19日。 排名前五位的公司分别为丰田汽车、昭和电工控股、东方乐园、Lasertec和三菱商事。 丰田汽车因营业收入增长乏力及原材料价格高涨而对利润造成压力；昭和电工控股因大幅上调公司业绩预期及业务组合改革的推进展现而呈现积极印象；东方乐园的入园人数和客单价预期没有重大变化，财报表现符合预期；Lasertec因意外时点上调全年订单计划而获得好评；三菱商事虽然业绩基本符合预期，但发布的大额股票回购计划给市场留下了良好印象。 从行业来看，电气设备行业上榜最多，包括Lasertec、爱测试、松下控股和东京电子等4只股票。 野村证券分析师指出，尽管科技行业面临监管及中美贸易摩擦的担忧，但人工智能相关投资并未出现放缓迹象。"
     },
     {
-      "date": "2026.11.24",
-      "published_at": "2026-11-24T20:07:11+09:00",
-      "headline": "【日本株】連続増配＆増益で｢株価が上がる高配当株｣の2銘柄！ 過去最高業績を更新中の｢IDホールディングス｣、6期連続増益＆12期連続増配の｢アスビル｣に注目",
-      "source": "ダイヤモンド・オンライン",
-      "url": "https://diamond.jp/zai/articles/-/1075895",
-      "language": "Japanese",
-      "section": "日本株式市場 / Japan Market",
-      "summary": "ダイヤモンド・ザイ2027年1月号は大特集として「資産を増やす！ たくさんもらう！ 【高配当株】最強107銘柄」を掲載する。 今号では5期以上連続で増益・増配している条件に当てはまる銘柄から、IDホールディングスとアズビルの2銘柄に注目している。 IDホールディングスは足元の配当利回りが4.9％で、6期連続の増配・増益を見込み、企業のクラウド移行やセキュリティ対策分野の伸びが期待されている。 アズビルは足元の配当利回りが3.44％で、12期連続増配、6期連続増益を見込み、脱炭素化に伴うビルの省エネ化やデータセンター向けが堅調である。",
-      "summary_zh": "《Diamond Zai》2027年1月号刊登了大型专题报道“增加资产！ 获取更多！ 【高配当股】最强107只股票”。 本期重点关注了符合连续5期以上增利增息条件的ID控股和山武（阿自倍尔）两只股票。 ID控股目前的股息率为4.9％，预计将实现连续6期增息增利，企业的云端迁移以及安全对策领域备受期待。 山武目前的股息率为3.44％，计划实现连续12期增息及连续6期增利，其伴随去碳化进程的建筑节能改造以及面向数据中心的业务表现稳健。"
-    },
-    {
-      "date": "2026.11.24",
-      "published_at": "2026-11-24T19:27:52+09:00",
-      "headline": "【アナリスト評価】任天堂、レーティング強気を継続、目標株価10,970円に引上げ（日系中堅証券）(アイフィス株予報)",
-      "source": "Yahoo!ファイナンス",
-      "url": "https://finance.yahoo.co.jp/news/detail/08b664af52861bac820f06358166c3a54cc94967",
-      "language": "Japanese",
-      "section": "日本株式市場 / Japan Market",
-      "summary": "日系中堅証券は11月24日、任天堂のレーティングを強気（Outperform）に据え置いた。 一方、目標株価は10,800円から10,970円に引き上げた。 なお、前日11月20日時点でのレーティングコンセンサスはアナリスト数15人で4.33の水準の「やや強気」となっており、目標株価コンセンサスは10,691円となっている。",
-      "summary_zh": "日本一家中型证券公司于11月24日将任天堂的评级维持在“强于大盘”（Outperform），同时将目标股价从10800日元上调至10970日元。 此外，截至前一日即11月20日，共有15位分析师给出的评级共识为4.33，处于“较强看好”水平，目标股价共识则为10691日元。"
-    },
-    {
-      "date": "2026.11.24",
-      "published_at": "2026-11-24T18:29:27+09:00",
-      "headline": "ソニー損保、顧客情報95万件漏洩か 委託先に不正アクセス",
-      "source": "日本経済新聞",
-      "url": "https://www.nikkei.com/article/DGXZQOUB246KN0U6A121C2000000/",
-      "language": "Japanese",
-      "section": "日本株式市場 / Japan Market",
-      "summary": "ソニー損害保険は24日、業務委託先への不正アクセスで顧客の個人情報が約95万件漏洩した可能性があると発表した。 氏名や電話番号、車両の登録番号、口座情報などが流出した恐れがある。 現時点で漏洩した情報に基づく不正利用は確認していないとしている。 ロードサービス事業を手掛けるプレステージ・インターナショナルが10月29日にグループの業務システムで不正アクセスを検知した。 子会社が受託している業務の顧客情報が流出した。 不正アクセスを受けた業務システムは30日から停止している。 個人情報が漏洩した可能性のある顧客については、個別に伝達していく予定だ。 クレジットカード情報は含まれないという。",
-      "summary_zh": ""
+      "date": "2026.11.25",
+      "published_at": "2026-11-25T08:22:48+09:00",
+      "headline": "Yen holds under 160.00 with Tokyo CPI due on a US holiday",
+      "source": "www.tmgm.com",
+      "url": "https://www.tmgm.com/en/analysis/market-news/article/yen-holds-under-16000-with-tokyo-cpi-due-on-a-us-holiday-202611242313",
+      "language": "English",
+      "section": "宏观经济与投资 / Macro & Investment",
+      "summary": "USD/JPY has traded in a band of less than 200 pips since November 11, held by intervention warnings at 160.00 and expectations of a hiking Fed. The pair trades just above 159.00, with every daily close since September 1 below 160.00. Japan's inflation rose to 2.3% in October from 2.1%, and core inflation of 2.2% exceeded the Bank of Japan's 2% goal for a second month. BoJ Governor Ueda told parliament on November 19 that the bank expects to keep raising rates, and markets are pricing in a move from 1.25% to 1.50% at the December 17-18 meeting. The Federal Reserve meets on December 8-9, and a quarter-point hike from 3.75%-4.00% is priced above 95%, leaving the rate gap unchanged if the BoJ hikes a week later. Finance Minister Katayama stated on November 13 that she saw rapid, one-sided moves and would coordinate with the US Treasury, which had joined Japan in buying Yen on July 31. USD/JPY has not traded above 160.50 since. Tokyo's Consumer Price Index for November is due on Thursday, while the US PCE is released on Wednesday, ahead of the central bank decisions.",
+      "summary_zh": "受160.00的干预警告以及美联储持续加息预期的支撑，自11月11日以来，美元兑日元一直保持在不到200点的区间内波动。 该汇率目前交投于159.00上方，且自9月1日以来的每个日线收盘价均低于160.00。 日本10月通胀率从2.1%升至2.3%，核心通胀率达到2.2%，连续第二个月超过日本银行2%的目标。 日本银行行长植田和男于11月19日在国会表示，该行预计将继续加息，市场正计价12月17日至18日会议上利率从1.25%上调至1.50%的预期。 美联储将于12月8日至9日召开会议，市场对3.75%-4.00%的利率上调四分之一个百分点的预期超过95%，若日本银行随后一周加息，两行间的利率差距将保持不变。 财务大臣片山于11月13日表示，她观察到单边、快速的波动，并将与美国财政部进行协调，美国曾于7月31日加入日本买入日元的行列。 此后美元兑日元未曾高于160.50。 东京11月消费者价格指数将于周四公布，而美国个人消费支出价格指数将于周三发布，随后两家央行将相继做出决策。"
     },
     {
       "date": "2026.11.25",
@@ -188,8 +188,8 @@
       "url": "https://eurasiabusinessnews.com/2026/11/24/stock-market-today-november-24-2026-nasdaq-falls-as-nvidia-and-anthropic-slide-oil-price-at-89-gold-drops-to-3620/",
       "language": "English",
       "section": "宏观经济与投资 / Macro & Investment",
-      "summary": "By William Collins, consultant in stock markets – Eurasia Business News, November 24, 2026. Article no 3283 U. S. technology stocks resumed their selloff Tuesday, November 24, as investors questioned whether Jensen Huang’s return to Nvidia could sustain Monday’s rally. Anthropic dropped below its $83 IPO price, while Nvidia surrendered part of its 31.5% advance from the previous session.",
-      "summary_zh": ""
+      "summary": "U. S. technology stocks resumed their selloff on Tuesday, November 24, as investors questioned whether Jensen Huang's return to Nvidia could sustain the previous session's rally. Anthropic dropped below its $83 IPO price, while Nvidia surrendered part of its 31.5% advance from Monday. The Nasdaq Composite fell 1.37% to 23,758.80 in one market snapshot, and the S&P 500 lost 0.42% to 7,206.89, while the Dow performed better due to rotation into healthcare and consumer staples. Anthropic shares fell 13.4% to $76 around midday, dropping below their $83 offering price on their fourth trading day. Nvidia fell roughly 7% to 8% during Tuesday trading after closing at $165.05 on Monday, with quotations near $153.26. The board voted unanimously to reinstate Jensen Huang as CEO following pushback from President Donald Trump and senior officials, and Huang apologized to staff at a Tuesday town hall while stating he was undergoing therapy. Meanwhile, Michael Burry reduced his Nvidia put position by 75%, bought small long-dated out-of-the-money calls, closed semiconductor ETF puts, and reduced Nasdaq bearish exposure in a trading update.",
+      "summary_zh": "11月24日周二，美国科技股恢复抛售，投资者对黄仁勋回归英伟达是否能维持前一交易日的涨势产生疑问。 Anthropic跌破其83美元的IPO发行价，同时英伟达回吐了周一31.5%涨幅的一部分。 在其中一个市场快照中，纳斯达克综合指数下跌1.37%至23,758.80点，标普500指数下跌0.42%至7,206.89点，而道琼斯指数由于资金轮动至医疗健康和必需消费品板块而表现更好。 Anthropic股价在盘中下跌13.4%至76美元左右，在其第四个交易日跌破83美元的发行价。 英伟达在周一收于165.05美元后，周二交易期间下跌约7%至8%，报价接近153.26美元。 在特朗普总统和高级官员的推动下，董事会全票通过恢复黄仁勋首席执行官职务的决议，黄仁勋在周二的内部员工大会上向员工道歉并称自己正在接受治疗。 与此同时，迈克尔·伯里在交易更新中将其英伟达看跌头寸减少了75%，买入少量长期虚值看涨期权，平仓半导体ETF看跌期权，并减少了纳斯达克的看跌敞口。"
     },
     {
       "date": "2026.11.25",
@@ -199,8 +199,8 @@
       "url": "https://www.tradingnews.com/news/usd-jpy-climbs-back-to-15955-as-dual-rate-hikes-keep-gap-at-263bp-eyeing-16090-usd",
       "language": "English",
       "section": "宏观经济与投资 / Macro & Investment",
-      "summary": "Key Points - USD/JPY rebounded 80 pips from the 158.75 Tokyo low to 159.55 in London as yen longs were unwound Tuesday. - Japan spent ¥27,134.2 billion on intervention in 2026, including a record ¥7,976 billion on July 30. - A Fed hike on Dec 9 and a BOJ hike to 1.50% on Dec 17–18 would leave the 263bp policy gap unchanged. USD/JPY had a two-way session on Tuesday, November 24.",
-      "summary_zh": ""
+      "summary": "USD/JPY rebounded 80 pips from the 158.75 Tokyo low to 159.55 in London as yen longs were unwound on Tuesday, November 24. The pair traded in the 159.40s during New York hours, above the 159.01 open, following a 0.73% drop on Friday, November 20, from 159.85 to 158.42. The recent movement reflects a 263bp policy gap between a widely expected Federal Reserve hike on December 9 and a Bank of Japan rate hike to 1.50% on December 17-18. Japan spent ¥27,134.2 billion on intervention in 2026 across six trading days, including ¥11,734.9 billion in the April-June quarter with ¥6,278.7 billion on April 30, ¥780.2 billion on May 4, and ¥4,675.9 billion on May 6. In the July-September quarter, Tokyo bought ¥15,399.3 billion, equal to $97.16 billion, consisting of ¥7,976 billion on July 30, ¥5,552.3 billion on July 31, and ¥1,871.4 billion on August 3. The July 30 operation reached a record $50.4 billion, and on July 31, Finance Minister Satsuki Katayama and US Treasury Secretary Scott Bessent confirmed joint intervention, the first in 28 years. No intervention was recorded in October or up to Tuesday in November.",
+      "summary_zh": "11月24日周二，随着日元多头头寸的平仓，美元兑日元自东京低点158.75反弹80点至伦敦的159.55。 在经历了11月20日周五从159.85高点跌至158.42低点、跌幅达0.73%的行情后，该汇率在纽约时段交投于159.40区间，高于159.01的开盘价。 近期走势反映了美联储12月9日普遍预计的加息与日本银行12月17日至18日将利率上调至1.50%之间263个基点的政策差距。 日本在2026年通过六个交易日花费了271,34.2亿日元进行外汇干预，其中包括4月至6月季度的¥11,734.9 billion，其中4月30日为¥6,278.7 billion，5月4日为¥780.2 billion，5月6日为¥4,675.9 billion。 在7月至9月季度，东京买入了¥15,399.3 billion，折合约$97.16 billion，包括7月30日的¥7,976 billion、7月31日的¥5,552.3 billion以及8月3日的¥1,871.4 billion。 7月30日的单日操作创下了504亿美元的纪录，7月31日，财务大臣片山皋月与美国财政部长斯科特·贝森特确认了联合干预，这是28年来的首次。 10月以及11月截至周二期间未记录到任何干预行动。"
     },
     {
       "date": "2026.11.25",
@@ -210,19 +210,8 @@
       "url": "https://www.tmgm.com/en/analysis/market-news/article/canadian-dollar-advances-as-boc-governor-flags-persistent-inflation-risks-202611241807",
       "language": "English",
       "section": "宏观经济与投资 / Macro & Investment",
-      "summary": "USD/CAD edges lower on Tuesday, snapping a four-day winning streak as the US Dollar (USD) pulls back and hawkish remarks from Bank of Canada (BoC) Governor Tiff Macklem lift the Canadian Dollar (CAD). At the time of writing, the pair trades around 1.4278, down 0.70% on the day. Speaking at the Economic Club of Canada in Toronto, Macklem said “if inflation is going to be too high for too long, we would need to hike rates.",
-      "summary_zh": ""
-    },
-    {
-      "date": "2026.11.25",
-      "published_at": "2026-11-25T03:04:21+09:00",
-      "headline": "Fed hike bets drive gold lower despite a softer US Dollar",
-      "source": "www.tmgm.com",
-      "url": "https://www.tmgm.com/en-in/analysis/market-news/article/gold-slides-despite-weaker-us-dollar-as-fed-hike-bets-dominate-202611241748",
-      "language": "English",
-      "section": "宏观经济与投资 / Macro & Investment",
-      "summary": "Gold (XAU/USD) remains under pressure in Tuesday’s North American session, with risk appetite weakening and investors appearing confident of a Federal Reserve (Fed) rate hike at the December meeting. As markets prepare for key US inflation figures, XAU/USD is trading around $3,570 at the time of writing, a decline of nearly 1.90%. US equities, Treasury yields, Gold and the US Dollar are all sliding on Tuesday following Nvidia’s reinstatement of Jensen Huang as CEO.",
-      "summary_zh": ""
+      "summary": "USD/CAD edged lower on Tuesday, snapping a four-day winning streak as the US Dollar pulled back and hawkish remarks from Bank of Canada Governor Tiff Macklem lifted the Canadian Dollar. Trading around 1.4278 and down 0.70% on the day, the pair reacted to Macklem's speech at the Economic Club of Canada in Toronto, where he stated that rate hikes would be needed if inflation remains too high for too long, adding that businesses passing costs to consumers through second-round effects of the oil shock will add to inflation persistence. This revived December rate hike bets following softer-than-expected inflation data that showed Canada's annual CPI holding at 3.1% in October against a 3.2% forecast, while CPI-trim eased to 1.8% and CPI-median held at 2.0%. On the US side, the US Dollar Index traded near 103.77 after hitting a 20-month high of 104.53, pressured by lower Treasury yields as the 10-year yield slipped to around 4.88%. US stocks faced pressure following a Wall Street Journal report that the Trump administration is preparing to raise tariffs on China and other trading partners. Traders currently price a 97% chance of a December Fed rate hike and a 68% chance in January, with attention shifting to the October US Personal Consumption Expenditures Price Index due Wednesday.",
+      "summary_zh": "美元兑加元周二微幅走低，结束了四连涨走势，原因是美元回落以及加拿大银行行长蒂夫·麦克勒姆的鹰派言论提振了加元。 该汇率交投于1.4278附近，日内下跌0.70%，这是对麦克勒姆在多伦多加拿大经济俱乐部讲话的回应。 他在讲话中表示，如果通货膨胀持续过高且时间过长，将需要加息，并补充称企业通过石油冲击的第二轮效应将成本转嫁给消费者，这将加剧通胀的持续性。 此前低于预期的通胀数据显示加拿大10月年度消费者价格指数维持在3.1%，低于3.2%的预测，而核心通胀指标CPI-trim放缓至1.8%，CPI-median保持在2.0%，麦克勒姆的言论重新点燃了12月加息的预期。 在美国方面，美元指数在触及104.53这一20个月高位后交投于103.77附近，受到国债收益率下跌的拖累，10年期美债收益率滑落至4.88%左右。 在《华尔街日报》报道特朗普政府准备对中国及其他贸易伙伴提高关税后，美国股市承受压力。 交易员目前预测美联储12月加息的几率为97%，1月份加息的几率为68%，市场焦点正转向周三公布的美国10月个人消费支出价格指数。"
     },
     {
       "date": "2026.11.25",
@@ -232,41 +221,41 @@
       "url": "https://finance.yahoo.com/markets/currencies/articles/dollar-perky-renewed-ai-euphoria-055648131.html",
       "language": "English",
       "section": "宏观经济与投资 / Macro & Investment",
-      "summary": "On Tuesday, November 24, the US dollar slipped, giving back much of Monday's gains as a sharp AI stock rally driven by Jensen Huang's reinstatement as Nvidia CEO faded and traders questioned recent moves. The dollar index fell 0.47% to 103.81. Elias Haddad of Brown Brothers Harriman noted that the US growth edge over the euro zone, UK, and Japan narrowed further in November. Fed funds futures showed 97% odds of a Fed hike in December and 66% in January. Meanwhile, US consumer confidence reached a nearly two-year high in November, German business morale rose for a seventh straight month, and speculators held a record bearish position in the Australian dollar worth some $12.25 billion.",
-      "summary_zh": "11月24日周二，由于Jensen Huang复职Nvidia CEO带动的AI股票反弹热潮消退，且交易员质疑绿钞涨幅过快过高，美元出现回落，吐去了周一的大部分涨幅。 美元指数下跌0.47%至103.81。 Brown Brothers Harriman全球市场策略主管Elias Haddad表示，美国相对于欧元区、英国和日本的增长优势在11月进一步缩小。 CME集团FedWatch工具显示，联邦基金期货定价显示12月加息概率为97%，1同年1月再次加息概率为66%。 同时，美国11月消费者信心指数升至近两年最高水平，德国商业景气指数连续第七个月上升，且投机者持有的澳元看跌头寸创下纪录，按LSEG计算价值约$12.25 billion。"
+      "summary": "On Tuesday, November 24, the US dollar slipped from Monday's gains as a sharp rally in AI stocks faded following Jensen Huang's reinstatement as Nvidia CEO. The dollar index fell 0.47% to 103.81, while the euro rose 0.6% to $1.0966. Meanwhile, US consumer confidence increased more than expected in November to its highest level in nearly two years. Speculators hold a record $12.25 billion in bearish positions against the Australian dollar, which dropped over 5% in the last month.",
+      "summary_zh": "在11月24日周二，随着在延森·黄重新担任英伟达CEO推动下的AI股票暴涨逐渐消退，美元回吐了周一的大部分涨幅。 美元指数下跌0.47%至103.81，欧元上涨0.6%至$1.0966。 同时，美国11月消费者信心指数增幅超预期，触及近两年来的最高水平。 投机者持有的澳元看跌头寸达到创纪录的约$12.25 billion，澳元在过去一个月中下跌了超过5%。"
     },
     {
       "date": "2026.11.24",
-      "published_at": "2026-11-24T23:55:00+09:00",
-      "headline": "Current price of gold: Month Day, Year",
-      "source": "Fortune",
-      "url": "http://fortune.com/article/current-price-of-gold-11-24-202/",
+      "published_at": "2026-11-24T21:31:32+09:00",
+      "headline": "Yen's Big Opportunity Lies in AI's Downfall. Forecast as of 24.11.2026",
+      "source": "LiteFinance",
+      "url": "https://www.litefinance.org/blog/analysts-opinions/usd-jpy-price-prediction/yens-big-opportunity-lies-in-ais-downfall-forecast-as-of-24112026/",
       "language": "English",
       "section": "宏观经济与投资 / Macro & Investment",
-      "summary": "Gold traded at $3,631 per ounce at 9:50 a. m. Eastern Time, down $21 from the previous day and $451 lower than a year prior. Financial advisor James Taska noted debate over paper gold versus physical gold, stating that exchange-traded funds make client allocation rebalancing much easier. Spot gold tracks immediate over-the-counter trades and reflects market demand, while futures trade at different settlement terms. Gold prices have risen over 25% since early 2025 amid inflation and market volatility, prompting recommendations for portfolio diversification. Other precious metals like silver, platinum, and palladium also trade as portfolio additions but typically carry higher volatility than gold.",
-      "summary_zh": "美东时间上午9:50，黄金交易价格为每盎司$3,631，较前一日同一时间下跌$21，比一年前低$451。 理财顾问James Taska指出，纸黄金与实物黄金的实用性存在很大争论，从财务顾问的角度来看，通过交易所交易基金（ETF）持有黄金可以更容易地重新平衡客户的资产配置。 现货黄金追踪即时场外交易并反映市场需求，而期货则采用不同的结算条款。 在通胀和市场波动背景下，自2025年初以来金价已上涨超过25%，促使许多专家建议增加黄金配置以实现多元化。 白银、铂金和钯金等其他贵金属也可作为投资组合的补充，但通常比黄金更具波动性。"
+      "summary": "Demand for AI technologies may eventually cool, offering a preview of potential market responses. The yen and Swiss franc are gaining as AI enthusiasm wanes and the VIX volatility index rises. Meanwhile, Japan's economy contracted by 0.1% in the third quarter, and the consumer price index came in below expectations. Consequently, the probability of a Bank of Japan overnight rate hike in December dropped from 76% to 66%, fueling a USD/JPY rally. Falling oil prices are supporting the yen by easing pressure on Japan's energy-import-dependent economy.",
+      "summary_zh": "人工智能技术的需求最终可能会冷却，从而提供对潜在市场反应的预演。 随着AI热情的消退和VIX波动率指数的上升，日元和瑞郎正在走强。 同时，日本经济在第三季度萎缩了0.1%，消费物价指数低于彭博社分析师的预期。 因此，日本央行在12月加息隔夜利率的概率从76%降至66%，推动了美元兑日元的反弹。 油价下跌通过缓解日本这个能源进口依赖型经济体的压力来支持日元。"
     },
     {
       "date": "2026.11.24",
-      "published_at": "2026-11-24T23:41:31+09:00",
-      "headline": "Bitcoin News: CFTC Decision to Push BTC Toward $80K?",
+      "published_at": "2026-11-24T15:35:00+09:00",
+      "headline": "Gold's Rebound Above $3,600 May Not Signal Stability as Natixis Warns of Drop to $3,340 by January",
+      "source": "BigGo Finance",
+      "url": "https://finance.biggo.com/news/6e4e2965-e42b-493a-a96d-322551ce1a35",
+      "language": "English",
+      "section": "宏观经济与投资 / Macro & Investment",
+      "summary": "International gold prices rebounded to reclaim the $3,600-an-ounce mark after a sharp drop of about 9% last week. However, Natixis analyst Bernard Dahdah warned that the rebound does not signal stability and expects gold to fall to $3,340 an ounce by January 2027 due to rising interest rates, a stronger dollar, and weakening investment demand. Federal Reserve officials, including Christopher Waller, Alberto Musalem, and John Williams, have signaled potential rate hikes. Additionally, the National Bank of Poland reached its 700-ton gold reserve target, while Kazakhstan plans to cut gold's share of foreign exchange reserves from 78% to 75% by the end of the year.",
+      "summary_zh": "在经历上周约9%的大幅下跌后，国际金价反弹并收复了每盎司$3,600关口。 然而，法国外贸银行分析师伯纳德·达达在新的报告中警告称，此次反弹并不意味着调整已经结束，由于利率上升、美元走强以及投资需求减弱，他预计到2027年1月金价将跌至每盎司$3,340。 美联储官员克里斯托弗·沃勒、阿尔贝托·穆萨勒姆和约翰·威廉姆斯均暗示可能进一步加息。 此外，波兰国家银行已达到700吨黄金储备目标，而哈萨克斯坦国家银行计划在今年年底前将黄金在外汇储备中的占比从78%降至75%。"
+    },
+    {
+      "date": "2026.11.24",
+      "published_at": "2026-11-24T15:04:00+09:00",
+      "headline": "Asian markets rally on Wall Street AI surge; KOSPI jumps 7%, Nikkei climbs 4%",
       "source": "TradingView",
-      "url": "https://www.tradingview.com/news/cryptonews:fa1555ef7094b:0-bitcoin-news-cftc-decision-to-push-btc-toward-80k/",
+      "url": "https://www.tradingview.com/news/seekingalpha:c6df4c135094b:0-asian-markets-rally-on-wall-street-ai-surge-kospi-jumps-7-nikkei-climbs-4/",
       "language": "English",
       "section": "宏观经济与投资 / Macro & Investment",
-      "summary": "The US Commodity Futures Trading Commission issued guidance allowing regulated derivatives exchanges, swap facilities, and clearinghouses to count Bitcoin, Ether, and qualifying payment stablecoins toward resources covering 12 months of operating costs, subject to minimum haircuts of 20% for BTC and ETH and 2% for stablecoins. Under the rules, a firm holding $1 million in Bitcoin could count $800,000, though crypto cannot satisfy separate cash or liquid security requirements. Bitcoin traded near $60,000, remaining well below its October 2025 peak above $126,000, as the regulatory change removes barriers for institutions holding crypto but does not force them to buy.",
-      "summary_zh": "美国商品期货交易委员会（CFTC）发布指引，允许受监管的衍生品交易所、掉期设施和清算所将比特币、以太坊和符合条件的支付稳定币计入涵盖12个月运营成本的财务资源中，其中BTC和ETH面临最低20%的扣减，符合条件的稳定币为2%。 根据新规，持有$1 million比特币的公司可以计算$800,000，但加密货币不能满足单独的现金或高度流动性证券要求。 比特币交易价格在$60,000附近徘徊，仍远低于2025年10月超过$126,000的峰值，这一监管变化消除了持有加密货机构的障碍，但并未强制机构购买。"
-    },
-    {
-      "date": "2026.11.24",
-      "published_at": "2026-11-24T18:45:25+09:00",
-      "headline": "USD remains near 20-month high thanks to Nvidia's 'twist' that bolsters expectations of a Fed interest rate hike.",
-      "source": "Vietnam.vn",
-      "url": "https://www.vietnam.vn/en/usd-duy-tri-sat-dinh-20-thang-nho-cu-twist-cua-nvidia-cung-co-ky-vong-fed-tang-lai-suat",
-      "language": "English",
-      "section": "宏观经济与投资 / Macro & Investment",
-      "summary": "On Monday, November 23, Nvidia reinstated Jensen Huang as CEO following a previous resignation, triggering a massive AI sector stock rally and boosting Nvidia's market capitalization by approximately $950 billion overnight. Carol Kong of Commonwealth Bank of Australia noted that the comeback restored faith in the AI story, which supports US dollar strength. Analysts predict the AI investment surge will increase inflationary pressure and force the Fed to raise interest rates, with major global brokerages expecting hikes in December, January, and March. The USD Index hovered around 104.37, near Monday's 20-month high of 104.53. Meanwhile, the Japanese yen fell slightly to 159.28 JPY/USD, remaining near the 160 JPY/USD threshold ahead of anticipated Bank of Japan rate actions.",
-      "summary_zh": "11月23日周一，Nvidia在先前辞职后重新任命Jensen Huang为CEO，引发了AI板块的股市大涨，Nvidia市值一夜之间增加了约$950 billion。 澳大利亚联邦银行货币策略师Carol Kong表示，这一回归恢复了市场对AI故事的信心，从而支撑了美元走势。 分析师预测，AI投资激增将加剧通胀压力，并迫使美联储加息，多家全球经纪商预计美联储将在12月、1月和3月进一步加息。 美元指数徘徊在104.37点附近，接近周一创下的20个月高点104.53点。 同时，日元兑美元小幅下跌0.18%至159.28 JPY/USD，在预期日本央行采取利率行动之前，仍维持在160 JPY/USD的关键心理关口附近。"
+      "summary": "Asian equity markets traded mostly higher on Tuesday, buoyed by an overnight Wall Street AI surge that included a more than 30% jump in Nvidia following Jensen Huang's reinstatement as CEO. Japan's Nikkei 225 rose 4.10% to 58,738, and South Korea's KOSPI jumped 7.08% to 5,042.89. Hong Kong's Hang Seng Index fell 0.61% to 22,267.00, while mainland China's Shanghai Composite rose 0.40% to 3,552.91. Preliminary S&P Global data showed Japan's Manufacturing PMI rose to 53.7 in November, while the Services PMI Business Activity Index cooled to 50.5.",
+      "summary_zh": "受华尔街隔夜人工智能股飙升的提振，亚洲股市周二普遍高开高走，其中在延森·黄复任CEO后英伟达股价暴涨超过30%。 日本日经225指数上涨4.10%至58,738点，韩国综合股价指数（KOSPI）跃升7.08%至约5,042.89点。 香港恒生指数下跌0.61%至约22,267.00点，中国内地上证综指上涨0.40%至3,552.91点。 标普全球的初步数据显示，日本11月制造业PMI升至53.7，而服务业PMI商业活动指数则回落至50.5。"
     }
   ]
 }
