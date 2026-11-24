@@ -1,20 +1,53 @@
 {
   "kind": "market",
-  "updated_at": "2026-11-24T08:00:25.061999+09:00",
+  "updated_at": "2026-11-24T09:53:39.178643+09:00",
   "status": {
     "state": "partial",
-    "checked_at": "2026-11-24T08:00:25.061999+09:00",
-    "latest_article_at": "2026-11-24T07:40:50+09:00",
-    "articles": 20,
+    "checked_at": "2026-11-24T09:53:39.178643+09:00",
+    "latest_article_at": "2026-11-24T09:10:29+09:00",
+    "articles": 18,
     "sections": {
-      "美国股市 / US Market": 5,
-      "日本株式市場 / Japan Market": 8,
+      "美国股市 / US Market": 8,
+      "日本株式市場 / Japan Market": 3,
       "宏观经济与投资 / Macro & Investment": 7
     },
     "shortfalls": {},
-    "translations_missing": 20
+    "translations_missing": 5
   },
   "articles": [
+    {
+      "date": "2026.11.24",
+      "published_at": "2026-11-24T09:10:29+09:00",
+      "headline": "J.P. Morgan Analyst Sets Tesla Stock Price Target for 2026 and 2027",
+      "source": "Coinpedia",
+      "url": "https://coinpedia.org/price-analysis/j-p-morgan-analyst-sets-tesla-stock-price-target-for-2026-and-2027/",
+      "language": "English",
+      "section": "美国股市 / US Market",
+      "summary": "Steve is a crypto news writer with a passion for decoding market moves. He blends breaking blockchain news with sharp technical analysis and bold price predictions. From Bitcoin rallies to altcoin breakouts, Steve breaks it all down with clarity and insight. Whether you're a trader or just curious, his analysis keeps you ahead of the curve. Steve is a crypto news writer with a passion for decoding market moves.",
+      "summary_zh": ""
+    },
+    {
+      "date": "2026.11.24",
+      "published_at": "2026-11-24T09:05:00+09:00",
+      "headline": "Charged: Wall Street warms to Tesla as merger review takes center stage",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/charged-wall-street-warms-tesla-000523740.html",
+      "language": "English",
+      "section": "美国股市 / US Market",
+      "summary": "Institutional investors and professional traders rely on The Fly to keep up-to-the-second on breaking news in the electric vehicle and clean energy space, as well as which stocks in these sectors that the best analysts on Wall Street are saying to buy and sell.",
+      "summary_zh": ""
+    },
+    {
+      "date": "2026.11.24",
+      "published_at": "2026-11-24T08:22:00+09:00",
+      "headline": "Wall Street Stocks Post Strongest Monday Rally Since 2020",
+      "source": "Demokratis.co.id",
+      "url": "https://demokratis.co.id/en/wall-street-stocks-monday-rally",
+      "language": "English",
+      "section": "美国股市 / US Market",
+      "summary": "Wall Street Stocks Post Strongest Monday Rally Since 2020 US financial markets staged a powerful recovery on Monday, November 23, 2026, as investors returned to technology and artificial intelligence-related stocks following a steep sell-off the previous week. The rebound lifted major indexes, pushed semiconductor shares sharply higher, and delivered the S&P 500 its strongest daily performance since April 2025.",
+      "summary_zh": ""
+    },
     {
       "date": "2026.11.24",
       "published_at": "2026-11-24T07:29:19+09:00",
@@ -28,14 +61,25 @@
     },
     {
       "date": "2026.11.24",
-      "published_at": "2026-11-24T06:59:02+09:00",
-      "headline": "As Tech Stocks Crash, Is Berkshire Hathaway a Safe-Haven Investment?",
-      "source": "The Motley Fool",
-      "url": "https://www.fool.com/investing/2026/11/23/as-tech-stocks-crash-is-berkshire-hathaway-a-safe-haven-investment/",
+      "published_at": "2026-11-24T07:25:16+09:00",
+      "headline": "Wall Street soars on Huang's return to Nvidia, Treasury yields rise",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/us-futures-bounce-while-asia-234419517.html",
       "language": "English",
       "section": "美国股市 / US Market",
-      "summary": "By David Jagielski, CPA – Key Points - Berkshire Hathaway's stock has performed well this year under new CEO Greg Abel. - It has invested more in tech, but its portfolio largely centers around three blue chip stocks: Apple, American Express, and Coca-Cola. - In recent months, the stock has been going in the opposite direction of the State Street Technology Select Sector SPDR ETF.",
+      "summary": "By Sabrina Valle NEW YORK, Nov 23 (Reuters) - US stocks soared on Monday after Nvidia reinstated Jensen Huang as chief executive following pressure from US President Donald Trump. Shorter-dated US Treasury yields climbed and the dollar rose as traders bet on a more hawkish Federal Reserve. The company's decision sparked a sharp reversal of last week's global equity market rout, triggered in part by the leadership crisis at the chipmaker.",
       "summary_zh": ""
+    },
+    {
+      "date": "2026.11.24",
+      "published_at": "2026-11-24T04:04:00+09:00",
+      "headline": "Stock Market Today: Stock Market News And Analysis",
+      "source": "Investor's Business Daily",
+      "url": "https://www.investors.com/news/stock-market-today-stock-market-news/",
+      "language": "English",
+      "section": "美国股市 / US Market",
+      "summary": "Dow Jones Industrial Average futures and other major stock indexes traded with little change ahead of Tuesday's open, following a Monday surge of more than 1,400 points. The market activity included a recovery in tech stocks and Nvidia driven by the return of Jensen Huang, alongside rallies in Elon Musk-led SpaceX and Tesla.",
+      "summary_zh": "道琼斯工业平均指数期货及其他主要股票指数在周二开盘前变动不大，此前在周一曾大涨超过1,400点。 市场活动包括在詹森·黄回归推动下科技股和英伟达的反弹，以及埃隆·马斯克旗下的太空探索技术公司SpaceX和特斯拉的上涨。"
     },
     {
       "date": "2026.11.24",
@@ -45,8 +89,8 @@
       "url": "https://www.tradingview.com/news/stocktwits:da072f964094b:0-soxx-heads-for-biggest-single-day-gain-in-over-18-months-as-semiconductor-ai-stocks-rebound-sharply/",
       "language": "English",
       "section": "美国股市 / US Market",
-      "summary": "SOXX Heads For Biggest Single-Day Gain in Over 18 Months As Semiconductor, AI Stocks Rebound Sharply - The rebound followed a selloff driven by concerns over returns on heavy AI infrastructure investment. - Miller Tabak’s Matt Maley cautioned that data center construction delays and resistance to enterprise pricing remain unresolved. - Gabelli Funds’ Hendi Susanto said Huang’s return restores confidence in the AI ecosystem, including its suppliers and demand outlook.",
-      "summary_zh": ""
+      "summary": "The iShares Semiconductor ETF (SOXX) surged over 14% on Monday, marking its largest single-day percentage gain since April 2025, after Nvidia reinstated Jensen Huang as CEO. The rebound followed a 10.6% drop on Friday amid concerns over AI infrastructure spending. Miller Tabak's Matt Maley cautioned that data center construction delays and pricing resistance remain, while Gabelli Funds' Hendi Susanto stated that Huang's return restores confidence in the AI ecosystem despite ongoing financing and geopolitical concerns.",
+      "summary_zh": "iShares半导体ETF（SOXX）在周一飙升超过14%，创下自2025年4月以来的最大单日百分比涨幅，此前英伟达恢复詹森·黄担任首席执行官。 在此反弹之前，由于对人工智能基础设施开支的担忧，该指数在周五下跌了10.6%。 美林·塔巴克的马特·马利警告称，数据中心建设延迟和定价阻力依然存在；而加贝利基金的亨迪·苏桑托则表示，尽管存在持续的融资和地缘政治担忧，黄的回归恢复了人们对人工智能生态系统的信心。"
     },
     {
       "date": "2026.11.23",
@@ -56,74 +100,30 @@
       "url": "https://www.limapagi.id/en/micron-shares-ai-selloff-november-2026",
       "language": "English",
       "section": "美国股市 / US Market",
-      "summary": "Micron Shares Fall 13.9 Percent Amid AI Stock Selloff Concerns about artificial intelligence spending and semiconductor valuations triggered a sharp decline in Micron Technology shares on November 20, 2026. The memory chip manufacturer lost 13.9% during Friday's trading session, significantly underperforming the S&P 500, which fell 3.7%, despite no new company announcement, earnings report or regulatory filing explaining the movement.",
-      "summary_zh": ""
-    },
-    {
-      "date": "2026.11.23",
-      "published_at": "2026-11-23T21:23:38+09:00",
-      "headline": "Dow closes up 1,500 points as Democrats take control of Congress - ABC News",
-      "source": "Breaking News, Latest News and Videos",
-      "url": "https://abcnews.com/Business/dow-surges-1000-points-democrats-control-congress/story?id=137842989",
-      "language": "English",
-      "section": "美国股市 / US Market",
-      "summary": "Dow closes up 1,500 points as Democrats take control of Congress Stocks soared on Wednesday, just hours after results showed a blue wave. The Dow Jones Industrial Average closed up more than 1,500 points on Wednesday, just hours after midterm election results showed Democrats had taken control of the U. S. House and Senate. The S&P 500 finished the trading session up 1.5%, while the tech-heavy Nasdaq increased 1.4%.",
-      "summary_zh": ""
+      "summary": "Micron Technology shares fell 13.9% on Friday, November 20, 2026, closing at $594.51 amid a broader AI stock selloff, underperforming the S&P 500's 3.7% decline. Micron generated $54.2 billion in revenue during fiscal fourth-quarter 2026, a 379.3% increase year over year, and $133.2 billion in total fiscal 2026 revenue. Management previously noted that tight memory market conditions could continue through 2028, while new production facilities from Micron, Samsung, and SK Hynix are expected to increase manufacturing capacity substantially from late 2028.",
+      "summary_zh": "美光科技股价在2026年11月20日周五下跌13.9%，收于$594.51，正值大盘人工智能股票抛售潮，表现逊于标普500指数3.7%的跌幅。 美光在2026财年第四季度实现营收$54.2 billion，较去年同期增长379.3%，2026财年总营收达到$133.2 billion。 管理层此前指出，紧张的存储芯片市场状况可能会持续到2028年，而美光、三星和SK海力士的新生产设施预计将从2028年后期开始大幅增加制造产能。"
     },
     {
       "date": "2026.11.24",
-      "published_at": "2026-11-24T07:40:50+09:00",
-      "headline": "日本株ＡＤＲ・円換算終値",
-      "source": "みんかぶ FX/為替",
-      "url": "https://fx.minkabu.jp/news/385230",
-      "language": "Japanese",
-      "section": "日本株式市場 / Japan Market",
-      "summary": "日本株ＡＤＲ・円換算終値 銘柄名 円換算終値（前営業日・東証終値比） トヨタ 3373（+61.0 +1.84%） ホンダ 1763（+26.5 +1.53%） 三菱ＵＦＪ 3076（+52 +1.72%） みずほＦＧ 7377（+62 +0.85%） 三井住友ＦＧ 2949（+13 +0.44%） ＮＴＴ 168（+0.3 +0.18%） ＫＤＤＩ 2868（+15 +0.53%） ソフトバンク 247（+2.9 +1.19%） 伊藤忠 2272（+24 +1.07%） 三菱商 4938（+98 +2.02%） 三井物 4536（+60 +1.34%） 武田 7018（+45 +0.65%） 第一三共 2758（+51 +1.88%） 信越化 5399（+162 +3.09%） 日立 4870（+107 +2.25%） ソニーＧ 4428（+116 +2.69%） 三菱電 4551（+187 +4.29%） ダイキン 24055（+290 +1.22%） 三菱重 2782（+60 +2.20%） 村田製 4954（+254 +5.40%） ＨＯＹＡ 23228（+343 +1.50%） ＪＴ 5231（-34 -0.65%） セブン＆アイ 2166（+13 +0.60%） ファストリ 84582（+2362 +2.87%） リクルート 17091（+256 +1.52%） 任天堂 8827（-5 -0.06%） ソフトバンクＧ 3307（+282 +9.32%） キーエンス（普通株） 14478（+453 +3.23%） 執筆者 : MINKABU PRESS 資産形成情報メディア「みんかぶ」や、投資家向け情報メディア「株探」を中心に、マーケット情報や株・FXなどの金融商品の記事の執筆を行う編集部です。",
-      "summary_zh": ""
-    },
-    {
-      "date": "2026.11.24",
-      "published_at": "2026-11-24T07:26:11+09:00",
-      "headline": "今日の株価材料（新聞など、21〜24日）SKハイニックス、キオクシアの筆頭株主へ",
+      "published_at": "2026-11-24T08:32:54+09:00",
+      "headline": "日経平均株価、NVIDIA急伸が追い風（先読み株式相場）",
       "source": "日本経済新聞",
-      "url": "https://www.nikkei.com/article/DGXZQOFL211JN0R21C26A1000000/",
+      "url": "https://www.nikkei.com/article/DGXZQOFL2404R0U6A121C2000000/",
       "language": "Japanese",
       "section": "日本株式市場 / Japan Market",
-      "summary": "▽SKハイニックス、キオクシア（285A）の筆頭株主へ 社債転換で普通株取得（日経電子版） ▽アームCEOが長期契約、ソフトバンクグループ（SBG、9984）副会長に 一時NVIDIA後継説（日経電子版） ▽SBG傘下のSBエナジー、1〜9月の最終赤字3000億円 ワラント負債減り額は縮小（日経電子版） ▽ニデック（6594）違法配当、永守重信氏が責任否定 株主代表訴訟で（日経電子版） ▽JR東海 この記事は会員限定です。 登録すると続きをお読みいただけます。 残り1134文字 権限不足のため、フォローできません 入力いただいたメールアドレスにメールを送付しました。 メールのリンクをクリックすると記事全文をお読みいただけます。 エラーが発生し、登録できませんでした。 ニュースレターの登録に失敗しました。 ご覧頂いている記事は、対象外になっています。 入力いただきましたメールアドレスは既に登録済みとなっております。 ニュースレターの配信をお待ち下さい。 _",
-      "summary_zh": ""
+      "summary": "24日の東京株式市場で日経平均株価は反発が予想される。 前日休場だった米株式市場でエヌビディアがジェンスン・ファンCEOの復帰を発表し株価が急伸したことや、主要指数が大幅反発したことが東京市場でも投機筋の買いを誘う見通し。 前週末終値の5万6436円から1500円あまり高い5万8000円程度への上昇が考えられる一方、戻り待ちの売りも出やすい状況となっている。",
+      "summary_zh": "24日的东京股市中，日经平均指数预计将反弹。 在休市一天的23日美国股市上，英伟达宣布詹森·黄复出担任首席执行官，股价急升，主要指数也全面大幅反弹，这预计将吸引东京市场的投机资金买入。 日经平均指数有望从前周末收盘价的5万6436日元上涨约1500日元，达到5万8000日元左右，但与此同时也容易出现等待反弹的抛盘。"
     },
     {
       "date": "2026.11.24",
-      "published_at": "2026-11-24T07:15:00+09:00",
-      "headline": "前日に動いた銘柄 part1ソフトバンクグループ、三井金属、イビデンなど(フィスコ)",
-      "source": "Yahoo!ファイナンス",
-      "url": "https://finance.yahoo.co.jp/news/detail/74a42b8612927f4cc0c9a9ef046f0cdd2b0e2f23",
+      "published_at": "2026-11-24T08:15:53+09:00",
+      "headline": "前日に動いた銘柄 part1ソフトバンクグループ、三井金属、イビデンなど",
+      "source": "ｄメニューニュース",
+      "url": "https://topics.smt.docomo.ne.jp/article/fisco/business/fisco-0009350020261124010",
       "language": "Japanese",
       "section": "日本株式市場 / Japan Market",
-      "summary": "銘柄名<コード>20日終値⇒前日比 NRI<4307> 6080 +55 発行済株式数の0.67％上限の自社株買いと買付け委託を発表。 20日全株取得。 日本管財HD<9347> 3145 +35 発行済株式数の1.10％・40万株上限の自社株買いと 買付け委託を発表。 20日35万7100株取得。 プレイド<4165> 338 -51 26年12月期業績を下方修正。 JT<2914> 5265 -592 26年12月期業績と配当予想を下方修正。 山九<9065> 1592.5 -77.5 株式売出し発表。 イントランス<3237> 52 0 GPUサーバシステム一式を大口受注。 山崎製パン<2212> 4322 +75 UBS証券では投資判断を格上げ。 エラン<6099> 778 +23 株主優待制度の新設を発表。 東京海上<8766> 577.5 +11.5 通期修正純利益上方修正や自社株買い発表で。",
-      "summary_zh": ""
-    },
-    {
-      "date": "2026.11.24",
-      "published_at": "2026-11-24T06:51:49+09:00",
-      "headline": "【日本株】いまが“買い”の｢配当利回りが高い株ランキング｣ベスト10を紹介！ 配当利回りが6％後半で連続増配を継続している｢エクセディ｣や｢東計電算｣に注目",
-      "source": "ダイヤモンド・オンライン",
-      "url": "https://diamond.jp/zai/articles/-/1075884",
-      "language": "Japanese",
-      "section": "日本株式市場 / Japan Market",
-      "summary": "【※株初心者におすすめの証券会社の情報はこちら！ 】 ⇒【証券会社おすすめ比較】株式売買手数料や米国株の取扱銘柄数、投資信託の取扱本数などを比較して、株初心者におすすめのお得な証券会社を紹介！ 【日本株ランキング】アナリストなどのプロが注目する「配当利回りが高い株ランキング」上位10銘柄を紹介！ 発売中のダイヤモンド・ザイ2027年1月号の大特集は「資産を増やす！ たくさんもらう！ 【高配当株】最強107銘柄」を掲載！ 保有していると継続的に高い配当金が入ってきて、おまけに相場の下落局面でも底堅いのが高配当株の魅力。 この特集では、人気の高配当株の配当余力を診断するほか、配当で生活している個人投資家に聞いた「配当生活のつくり方」も掲載しているので、投資の参考になるはずだ。 今回はこの特集から、アナリストなどのプロおすすめの高配当株を対象に作成した「配当利回りが高い株ランキング」ベスト10を公開！",
-      "summary_zh": ""
-    },
-    {
-      "date": "2026.11.24",
-      "published_at": "2026-11-24T04:15:24+09:00",
-      "headline": "視る日経！ニュースNEXT【防衛産業ピンチ！？消費税減税で防衛費圧縮か】",
-      "source": "テレビ東京",
-      "url": "https://www.tv-tokyo.co.jp/broad_bstvtokyo/program/detail/202611/22663_202611242100.html",
-      "language": "Japanese",
-      "section": "日本株式市場 / Japan Market",
-      "summary": "視る日経！ ニュースNEXT【防衛産業ピンチ！ ？ 消費税減税で防衛費圧縮か】 番組内容 株式市場で「高市トレード」の代表格だった防衛銘柄が失速。 政府が防衛費の伸びを抑制する調整に入り、しわ寄せが防衛産業に及ぶとみられるためだ。 安保環境の悪化により防衛費抑制は与党から懸念の声があがるが、財源の問題が横たわる。 適正な防衛費の水準を考える。 他、大規模な再開発が進む新宿で先陣を切り開業する商業施設を取材 出演者 【メインキャスター】 八木ひとみ 【コメンテーター】 小柳建彦（日本経済新聞編集委員） 【キャスター】 武田健太（テレビ東京アナウンサー） 【ゲスト｝ 小木洋人（地経学研究所）",
-      "summary_zh": ""
+      "summary": "前日の株式市場における主な銘柄の動きとして、NRIが発行済株式数の0.67％上限の自社株買いなどを発表し、日本管財HDが1.10％・40万株上限の自社株買いを発表した。 一方、プレイドやJTが26年12月期業績を下方修正し、山九が株式売出しを発表した。 イントランスはGPUサーバシステム一式を受注し、ソフトバンクグループや三井金属などはAI関連株安の影響を受けた。",
+      "summary_zh": "在前一天的股市中，各主要个股表现各异，其中NRI宣布回购不超过已发行股份总数0.67%的股份，日本管财HD宣布回购上限为1.10%、40万股的股份。 另一方面，普莱德和JT下调了26年12月期的业绩预期，山九宣布进行股票发售。 Intrans接获了一整套GPU服务器系统的大单，而软银集团和三井金属等则受到了人工智能相关股票下跌的影响。"
     },
     {
       "date": "2026.11.24",
@@ -133,30 +133,19 @@
       "url": "https://xtrend.nikkei.com/atcl/contents/18/01182/00114/",
       "language": "Japanese",
       "section": "日本株式市場 / Japan Market",
-      "summary": "大手ゲーム関連企業の2026年4～9月期決算が発表された。 今回はセガサミーホールディングス、バンダイナムコホールディングス、スクウェア・エニックス・ホールディングスについて決算内容をまとめる。 コーエーテクモホールディングス、カプコン、コナミグループ、任天堂、ソニーグループは別の記事で紹介する。 ・バンダイナムコホールディングス ・スクウェア・エニックス・ホールディングス セガサミーホールディングスは、『STRANGER THAN HEAVEN』や『ペルソナ４ リバイバル』といった大型新作タイトルが下期に集中しているものの、『ペルソナ５ ザ・ロイヤル』『ペルソナ３ リロード』といった既存タイトルの販売本数が堅調に推移し、前年同期比で増収増益となった。 バンダイナムコホールディングスは、上期として売上高とすべての利益で過去最高業績を達成。",
-      "summary_zh": ""
+      "summary": "大手ゲーム関連企業の2026年4～9月期決算が発表された。 セガサミーホールディングスは既存タイトルのリピート販売やサブスク収入が想定を上回り、売上高2125億8400万円、営業利益142億7900万円などで増収増益となった。 バンダイナムコホールディングスはトイホビー事業やIP軸戦略が好調で上期として過去最高業績を達成。 スクウェア・エニックス・ホールディングスはデジタルエンタテインメント事業が好調で、通期連結業績の売上高を3100億円、営業利益を590億円などに上方修正した。",
+      "summary_zh": "大型游戏相关企业的2026财年4至9月期财报相继公布。 世嘉飒美控股因现有作品的重复销售及订阅收入超出预期，实现营业收入2125亿8400万日元、营业利润142亿7900万日元等，实现营收双增。 万代南梦宫控股凭借玩具爱好业务及IP轴战略的良好表现，创下了上半年业绩的历史最高纪录。 史克威尔艾尼克斯控股因数字娱乐业务表现稳健，将全年合并业绩的营业收入上调至3100亿日元，营业利润上调至590亿日元等。"
     },
     {
-      "date": "2026.11.23",
-      "published_at": "2026-11-23T14:00:00+09:00",
-      "headline": "最高益予想なのに年初来安値圏。業績と株価がねじれた好財務株 厳選20銘柄【2026年末の逆張り候補】",
-      "source": "note",
-      "url": "https://note.com/tatsuya_sabato/n/n8846834fbee4",
-      "language": "Japanese",
-      "section": "日本株式市場 / Japan Market",
-      "summary": "11月20日の東京市場で、日経平均株価は前日比3,007円安の5万6,436円と急落しました。 6月の最高値からの下落率は2割を超えています。 米国の半導体株安をきっかけに、米中間選挙後はデータセンターなどAI関連の投資に陰りが出るとの見方が広がり、売りはAIと縁の薄い銘柄にまで及びました。 11月6日には東証で1,006銘柄が年初来安値を更新し、19日にも368銘柄が安値を付けています。 株探によると、日経平均の25日移動平均線からの下方乖離は11月6日時点で12%に達し、統計上の売られすぎを示す水準を下抜ける銘柄が続出しました。 一方で、企業の稼ぐ力は落ちていません。 株探の集計では、東証プライム企業の2027年3月期上期の最終利益は前年同期比4割を超える増益で、水準としても過去最高レベルです。 業績は過去最高なのに、株価は年初来安値のそばにある。",
-      "summary_zh": ""
-    },
-    {
-      "date": "2026.11.23",
-      "published_at": "2026-11-23T11:29:46+09:00",
-      "headline": "キオクシアの筆頭株主が韓国SKに 株価8割安の裏で笑うのは誰か",
-      "source": "coki",
-      "url": "https://coki.jp/article/column/97957/",
-      "language": "Japanese",
-      "section": "日本株式市場 / Japan Market",
-      "summary": "旧東芝メモリのキオクシアホールディングスで、韓国のSKハイニックスが12月4日に実質的な筆頭株主になる。 株価が高値から8割下げた日に飛び込んできた開示の裏には、2018年の投資で膨らんだ巨額の含み益と、2023年の日米統合を止めた因縁、そして2028年に外れる縛りがあった。 11月20日の東京株式市場。 キオクシアホールディングスの株価は前日比13％安の7186円まで売り込まれ、7カ月半ぶりの安値を付けた。 予想PER（株価収益率）は一時2.0倍。 過去最高益をたたき出したばかりの会社とは思えない数字である。 その日の夕方、ソウルから一本の開示が飛び込んできた。 韓国の半導体大手SKハイニックスが、キオクシアの実質的な筆頭株主になるという。 キオクシアの前身は東芝メモリ。 日本に残った数少ない世界級の半導体メーカーで、最大株主の座に座るのは、NAND型フラッシュメモリーで真っ向から競合する韓国企業だ。",
-      "summary_zh": ""
+      "date": "2026.11.24",
+      "published_at": "2026-11-24T05:00:25+09:00",
+      "headline": "Evening digest: Nvidia reinstates Huang as CEO, gold rebounds and oil falls",
+      "source": "TradingView",
+      "url": "https://www.tradingview.com/news/invezz:5b89fe205094b:0-evening-digest-nvidia-reinstates-huang-as-ceo-gold-rebounds-and-oil-falls/",
+      "language": "English",
+      "section": "宏观经济与投资 / Macro & Investment",
+      "summary": "Global financial markets recovered on Monday after Nvidia announced the immediate reinstatement of Jensen Huang as CEO, helping boost technology and AI assets. Nvidia shares rose 30% after dropping 14.01% to $125.53 on Friday. Huang returns 10 days after stepping down, with Harvey C. Jones remaining board chair and Colette Kress staying as CFO. Spot gold climbed 3.9% to $3,639 per ounce following last week's sharp decline, while Brent crude oil fell 4% to $88.87 a barrel as Libya's Sharara pipeline reopened. Bitcoin also rebounded after falling close to $55,000 over the weekend.",
+      "summary_zh": "在英伟达宣布即刻恢复詹森·黄的首席执行官职务并提振科技及人工智能相关资产后，全球金融市场于周一实现广泛复苏。 英伟达股价在周五下跌14.01%至$125.53后上涨了30%。 黄在辞职10天后回归，哈维·C·琼斯继续担任董事会主席，科莱特·克雷斯留任首席财务官。 随着上周的大幅下跌后现货黄金上涨3.9%至每盎司$3639，而由于利比亚沙拉拉管道重新开放，布伦特原油期货下跌4%至每桶$88.87。 比特币在周末跌近$55,000后也出现了反弹。"
     },
     {
       "date": "2026.11.24",
@@ -166,8 +155,19 @@
       "url": "https://www.tmgm.com/en/analysis/market-news/article/gold-reclaims-3-650-as-nvidia-news-sparks-rally-ahead-of-us-pce-202611231916",
       "language": "English",
       "section": "宏观经济与投资 / Macro & Investment",
-      "summary": "Gold (XAU/USD) price bounced near yearly lows of $3,502 after posting losses of nearly 9% last week, rallying over 3.40% on Monday amid breaking news that Nvidia is reinstating Jenson Huang as its CEO, while market participants brace for the release of US inflation data. At the time of writing, XAU/USD trades above $3,650. Before the open of Wall Street, Nvidia news triggered a jump in US equity markets and pushed the yellow metal higher.",
-      "summary_zh": ""
+      "summary": "Gold prices bounced near yearly lows of $3,502 and traded above $3,650 on Monday, rallying over 3.40% as Nvidia reinstated Jensen Huang as CEO and markets awaited US inflation data. S&P Global reported that US manufacturing PMI dipped to 54.5 and services PMI dropped to 54.7. Economists expect the October Core PCE Price Index to rise from 3.1% to 3.2% year-over-year, while the headline print is forecast to rise from 3.6% to 3.8%. The CME FedWatch Tool priced in a 96% chance of a 25-basis-point rate hike in December.",
+      "summary_zh": "随着英伟达恢复詹森·黄的首席执行官职务且市场等待美国通胀数据，黄金价格在周一从接近$3502的年度低点反弹并交投于$3650上方，涨幅超过3.40%。 标普全球报告称，美国制造业采购经理指数降至54.5，服务业采购经理指数降至54.7。 经济学家预计10月份核心PCE物价指数年率将从3.1%升至3.2%，整体数据预计将从3.6%升至3.8%。 CME美联储观察工具显示12月加息25个基点的几率为96%。"
+    },
+    {
+      "date": "2026.11.24",
+      "published_at": "2026-11-24T00:47:14+09:00",
+      "headline": "Dollar Gains as Stocks Recover and T-Note Yields Rise",
+      "source": "TradingView",
+      "url": "https://www.tradingview.com/news/barchart:331739194094b:0-dollar-gains-as-stocks-recover-and-t-note-yields-rise/",
+      "language": "English",
+      "section": "宏观经济与投资 / Macro & Investment",
+      "summary": "The dollar index rose +0.43% alongside an increase in the 10-year T-note yield to 4.956%, supported by dollar interest rate differentials and a sharp stock rebound that reduced safe-haven demand. The S&P preliminary November US services PMI fell to 54.7 and the manufacturing PMI dropped to 54.5, both staying above 50.0. Markets price in a 100% chance of a +25 bp rate hike at the December 8-9 FOMC meeting. EUR/USD rose +0.51%, while the yen was undercut by reduced repatriation demand and a 48% chance of a +25 bp BOJ rate hike on December 18. December COMEX gold climbed +162.2 (+4.61%) and silver gained +2.520 (+6.14%) due to the stock rally easing selling pressure. World Gold Council data showed Q3 global central bank purchases at 321,000 MT, and China's PBOC gold reserves rose by 830,000 ounces in October to 78.30 million troy ounces.",
+      "summary_zh": "由于美元利率差改善以及股市强劲反弹降低了对国债的避险需求，美元指数DXY上涨了+0.43%，10年期美债收益率上升+1.2个基点至4.956%。 标普11月美国服务业PMI初值从-1.4点降至54.7，制造业PMI初值微跌-0.4点至54.5，均位于50.0扩张收缩线上方。 市场定价显示美联储在12月8-9日联邦公开市场委员会会议上加息+25个基点的概率为100%。 欧元兑美元上涨+0.51%，而日元则因美股复苏导致汇回需求减少而走软，市场预计12月18日日本央行加息+25个基点的概率为48%。 12月COMEX黄金上涨+162.2（+4.61%），白银上涨+2.520（+6.14%），贵金属价格大幅走高得益于股市反弹缓解了投资者的抛售压力。 世界黄金协会数据显示全球央行第三季度黄金购买量为321,000公吨，且中国央行10月黄金储备增加830,000盎司，总数达到78.30百万金衡盎司。"
     },
     {
       "date": "2026.11.23",
@@ -177,8 +177,8 @@
       "url": "https://newsonjapan.com/article/151493.php",
       "language": "English",
       "section": "宏观经济与投资 / Macro & Investment",
-      "summary": "TOKYO - Japan's financial markets face a critical week from November 24th to 27th as investors assess the fallout from one of the largest stock market declines in the country's history, with mounting concerns over artificial intelligence valuations, a weakening yen, rising government borrowing costs and the prospect of another Bank of Japan interest rate increase threatening to undermine confidence in the economic outlook.",
-      "summary_zh": ""
+      "summary": "Japan's financial markets face a critical week from November 24th to 27th following a historic stock decline. On November 20th, the Nikkei 225 plunged 3,007.81 points to close at 56,436.65, a 5.1% drop, driven by a global retreat from technology and AI stocks. SoftBank Group fell more than 14%. The Tokyo Stock Exchange was closed on Monday, November 23rd, for Labor Thanksgiving Day. The currency market remained under pressure as the yen traded near 159 to the dollar, close to the 160 level. Bank of Japan Governor Kazuo Ueda indicated on November 19th the intent to continue raising rates following increases in June and September to 1.25%, while a Reuters survey on November 20th showed economists expect a rate increase to 1.5% in December.",
+      "summary_zh": "在经历了一次历史性的股市大跌后，日本金融市场在11月24日至27日面临关键一周。 11月20日，日经225指数暴跌3,007.81点，收盘报56,436.65点，跌幅约5.1%，主要由于全球资金撤出科技股和人工智能板块。 软银集团股价下跌超过14%。 东京证券交易所于11月23日周一因勤劳感谢日休市。 外汇市场上日元兑美元交投于159日元附近，逼近160的心理关口。 日本央行行长植田和男在11月19日表示有意继续加息，此前该行已在6月和9月将基准政策利率上调至1.25%，而11月20日发布的路透社经济学家调查显示，多数人预计12月利率将进一步上调至1.5%。"
     },
     {
       "date": "2026.11.23",
@@ -188,30 +188,8 @@
       "url": "https://www.tmgm.com/en/analysis/market-insight/week-ahead-inflation-data-and-fed-expectations-to-drive-markets-amid-ai-selloff",
       "language": "English",
       "section": "宏观经济与投资 / Macro & Investment",
-      "summary": "Last week was a bruising one for markets, with the Nasdaq plunging 10% and all three major U. S. indices entering correction territory, marking the worst weekly decline since the Trump tantrum in 2025. Global stocks also plunged, while precious metals and Bitcoin tumbled to 2026 lows. The U. S. dollar booked a fourth straight week of gains on hawkish Fed expectations and safe-haven flows.",
-      "summary_zh": ""
-    },
-    {
-      "date": "2026.11.23",
-      "published_at": "2026-11-23T17:09:23+09:00",
-      "headline": "Why Different Markets Sometimes Fall Together for CBOT:ZN1! by traddictiv",
-      "source": "TradingView",
-      "url": "https://www.tradingview.com/chart/ZN1!/Di3Ke7sb-Why-Different-Markets-Sometimes-Fall-Together/",
-      "language": "English",
-      "section": "宏观经济与投资 / Macro & Investment",
-      "summary": "More exclusive indicators from traddictiv Subscribe to UFO Trading Suite — AutoClimate™ + AutoUFOs® (patented) for $55.00/month to get exclusive indicators by this author. You pay right on TradingView and can use them on your charts straight away. Explore UFO Trading Suite — AutoClimate™ + AutoUFOs® (patented) When stock markets decline, investors often expect government bonds or gold to provide some stability.",
-      "summary_zh": ""
-    },
-    {
-      "date": "2026.11.23",
-      "published_at": "2026-11-23T12:55:00+09:00",
-      "headline": "Fed December Rate-Hike Odds Surge Past 90% as Ackman, Bessent Warn of Policy Error",
-      "source": "BigGo Finance",
-      "url": "https://finance.biggo.com/news/5deee761-b295-498a-967b-412aae3b3991",
-      "language": "English",
-      "section": "宏观经济与投资 / Macro & Investment",
-      "summary": "Fed December Rate-Hike Odds Surge Past 90% as Ackman, Bessent Warn of Policy Error U. S. hedge fund billionaire Bill Ackman and Treasury Secretary Scott Bessent issued warnings over the weekend about the Federal Reserve's interest rate path, with both arguing that policymakers' determination to force inflation back to 2% could instead push the economy into recession. In a post on X on Nov.",
-      "summary_zh": ""
+      "summary": "Markets experienced a severe decline last week, with the Nasdaq plunging 10%, major U. S. indices entering correction territory, and global stocks, precious metals, and Bitcoin hitting 2026 lows. The U. S. dollar rose for the fourth straight week. Attention turns to U. S. core PCE figures, Q3 GDP second estimate, and PMI data. Markets price in a 97% probability of a 25-basis-point Fed rate hike in December. Eurozone PMI data and ECB rate expectations remain in focus, with inflation at 4% and markets pricing a 25-basis-point hike in December. Australia's October CPI follows a drop in AUD/USD, with unemployment rising to a five-year high of 4.9% and employment falling by 80,000 over two months, shifting expectations to two rate cuts in 2027.",
+      "summary_zh": "上周市场遭遇重挫，纳斯达克指数暴跌10%，三大美国主要股指进入回调区间，全球股市、贵金属及比特币均跌至2026年低点。 美元则实现了连续四周上涨。 本周焦点转向美国核心PCE数据、第三季度GDP第二版修正值以及PMI数据。 市场定价美联储12月加息25个基点的概率为97%。 欧元区PMI数据和欧洲央行利率预期同样备受关注，目前通胀率已升至4%，市场定价12月将加息25个基点。 澳大利亚10月CPI数据在澳元兑美元下跌6%之际发布，此前失业率升至4.9%的五年高位，且两个月内就业人数减少80,000人，这使市场预期从进一步加息转变为2027年进行两次降息。"
     },
     {
       "date": "2026.11.24",
@@ -221,8 +199,8 @@
       "url": "https://www.kotakneo.com/news/commodities/why-gold-price-is-rising/",
       "language": "English",
       "section": "宏观经济与投资 / Macro & Investment",
-      "summary": "Gold Prices Rebound After 9% Weekly Fall; 3 Key Dates to Watch Before Buying Gold Gold recovered on Monday as a weaker dollar and changing US interest rate expectations brought buyers back after last week's sell-off. The recovery comes ahead of important economic releases and a shortened US trading week. Kotak Securities expects further volatility, with domestic bullion prices also likely to be influenced by movements in the rupee.",
-      "summary_zh": ""
+      "summary": "Gold prices rebounded on Monday as a weaker dollar and changing U. S. interest rate expectations brought buyers back after a 9% weekly fall. MCX gold futures for December delivery traded at ₹1,24,504 per 10 grams at 9:30 am IST, up ₹2,726 or 2.24% from Friday. Spot gold climbed above $3,600 an ounce after falling to a 14-month low near $3,500 on Friday. Reuters reported spot gold rose 2.4% to $3,616.51 an ounce on Monday. Kotak Neo's Anindya Banerjee noted that Friday's sell-off was driven by investors needing cash due to losses in technology stocks. Key upcoming dates include the MCX trading holiday on November 24, U. S. PCE inflation data on November 25, and U. S. Thanksgiving on November 26.",
+      "summary_zh": "由于美元走软以及美国利率预期的变化，黄金价格在经历上周9%的跌幅后于周一反弹，吸引买盘回归。 印度标准时间上午9点30分，12月交割的MCX黄金期货交易价格为每10克124,504卢比，比周五收盘价上涨2,726卢比或2.24%。 现货黄金在周五跌至接近3,500美元的14个月低点后，回升至每盎司3,600美元上方。 路透社报道称，周一现货黄金上涨2.4%至每盎司3,616.51卢比。 Kotak Neo的大宗商品与货币研究主管阿宁迪亚·班纳吉指出，周五的抛售是由科技股亏损的投资者急需现金所致。 本周关键关注日期包括11月24日MCX交易假期、11月25日美国PCE通胀数据以及11月26日美国感恩节。"
     },
     {
       "date": "2026.11.23",
@@ -232,8 +210,8 @@
       "url": "https://www.bullionvault.com/gold-news/gold-price-news/gold-silver-crash-rally-112320261",
       "language": "English",
       "section": "宏观经济与投资 / Macro & Investment",
-      "summary": "Gold, Silver Prices Rebound with US Stocks from Markets-Wide 'Washout' GOLD and SILVER PRICES rebounded from last week's plunge in Asian trading on Monday, easing back in London only to jump again as US stock markets leapt after the AI tech stock wash-out, which saw precious metals sink alongside equities, copper and Bitcoin even as longer-term interest rates fell in the bond market, writes Atsuko Whitehouse at BullionVault.",
-      "summary_zh": ""
+      "summary": "Gold and silver prices rebounded from a plunge in Asian trading on Monday, rising alongside U. S. stocks after the AI tech stock sell-off. Spot gold climbed to $3,636 per troy ounce during Chinese hours before fluctuating, while silver reached $42.91 and later spiked past $44. Analysts noted that gold was sold to raise cash during the market-wide sell-off. Between October 30 and November 20, gold and the S&P 500 fell 8.8%, the Nasdaq lost 11.1%, silver and copper dropped 15.4%, and Bitcoin fell 23.8%. U. S. Treasury prices rallied, lowering yields, while the U. S. dollar hit an 18-month high. Traders priced in a 96% chance of a quarter-point Fed rate hike. South Korea's Kospi fell 3.3%, and China's CSI300 index ended flat after Beijing financial regulators announced measures to enable heavier borrowing by speculators, releasing perhaps $77 billion of credit.",
+      "summary_zh": "黄金和白银价格在周一亚洲交易时段从上周的暴跌中反弹，在人工智能科技股抛售潮后与美股一同上涨。 现货黄金在中国的交易时段攀升至每金衡盎司3,636美元后有所调整，而白银触及42.91美元后在纽约开盘时冲破44美元。 分析师指出，在市场整体抛售期间，黄金被作为筹集现金的资产遭到抛售。 从10月30日到11月20日，黄金和标普500指数均下跌8.8%，纳斯达克综合指数下跌11.1%，白银和铜均下跌15.4%，比特币下跌23.8%。 美国国债价格大幅反弹并拉低收益率，同时美元汇率创下逾18个月新高。 交易员定价美联储加息25个基点的概率为96%。 韩国Kospi指数下跌3.3%，而中国沪深300指数在金融监管机构宣布允许投机者增加借贷并可能释放770亿美元信贷后收盘持平。"
     }
   ]
 }
